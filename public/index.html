@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Relationship Spice Dashboard</title>
+    <!-- PWA: lets Chrome/Android install this as a standalone home-screen app.
+         Manifest + icon are inlined as data URIs so the whole app is a single
+         file at runtime (no manifest.json / icon-*.png to keep in sync). -->
+    <link rel="manifest" href="data:application/manifest+json,%7B%22name%22%3A%22Relationship%20Spice%20Dashboard%22%2C%22short_name%22%3A%22Spice%22%2C%22description%22%3A%22Personal%20relationship-suggestion%20dashboard.%22%2C%22start_url%22%3A%22/%22%2C%22scope%22%3A%22/%22%2C%22display%22%3A%22standalone%22%2C%22orientation%22%3A%22portrait%22%2C%22background_color%22%3A%22%23f8fafc%22%2C%22theme_color%22%3A%22%23c43c54%22%2C%22icons%22%3A%5B%7B%22src%22%3A%22data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAE00lEQVR4nO3dQU5cORSGUUC9q7AMhlEvLuphlgHrIkqraZGkoOq952f7%2Bj9nkGGwpfvZLkDJ/d1knh%2BfXkevgXM9Pn%2B/v5vE0IUYdkZH0f2LGnpmiqHbFzL4zBjC6V/A4DNzCKf9xQafCiE0/wsNPpVCeLhryPDTQ8s5a1KSwafqbXD4BjD8jHR0/g4FYPiZwZE53B2A4Wcme%2BdxVwCGnxntmcvNARh%2BZrZ1PjcFYPipYMuc3hyA4aeSW%2Bf1pgAMPxXdMrdXAzD8VHZtfpv%2BKgRU82kATn9W8NkcfxiA4WclH82zJxDRLgbg9GdFl%2BbaDUC0PwJw%2BrOy3%2BfbDUC0XwJw%2BpPg/Zy7AYj2fwBOf5K8zbsbYLAv//w9egnRBEC0f/9JCc%2Bf8af/y9dvQ9eSyg1ANAFM8vb3WWAMARBNAER78AG4v4%2BeO55B/bkBiCaAzq6d8m6BvgRANAEQTQAd3fq88QzqRwBEE0AnTvU5CWBSgulDAEQTwMSnuVvgfAIgmgBO5hSfmwAmJ6BzCeBEhnd%2BAihASOcRANEEcBKndg0CKEJQ5xDACQxrHQIoRFjtCYBoAmjMKV2LAIoRWFsCaMhw1iMAogmgIDdNOwJoxFDWJICiBNeGABowjHUJgGgCKMzNc5wADjKEtQmgOAEeI4ADDF99AiCaABbgJtpPADsZujUIYBGC3EcAOxi2dQiAaAJYiJtpOwFsZMjWIoDFCHQbAWxguNYjAKIJYMHTv9JaRxMA0QRANAEs%2BqSouOYRBEA0ASx8klZeey8CIJoAiCaAxZ8QK%2BzhTAIgmgACTs6V9tKaAIh2//z49Dp6EdXMeqK%2BfP02egnluAEWGf7Z1zYrASw2YBXWOBMBLDhYldY6mgAWHaiKax5BAAsPUuW19yIAoglg8RN0hT2cSQABg7PSXloTANEEEHJirrinFgRANAEEnZQr720vARBNAGEnZMIetxAA0QQQeDIm7fUaARBNAEQTANEEEPomTtzzJQIgmgCIJgCixQeQ/Bb%2BErz3N/EBkE0ARBMA0QRANAEQTQBEEwDRBEA0ARBNAEQTANEEQDQBEC0%2BgOT/WfEleO9v4gMgmwCIJgCiCSD0LZy450sEQDQBEE0ARBNA4Js4aa/XCIBoAgg7GRP2uIUAiCaAoBNy5b3tJQCiCSDkpFxxTy0IgGgCCDgxV9pLawJYfHBW2MOZBEA0ASx8glZeey8CWHSQKq55BAEsOFCV1jqaABYbrAprnIkAFhqwmdc2KwEsMmgzrqmC%2B59/PD8%2BvY5eSFWj/6tRg3%2BMG6DwABr%2B49wABW8Dg9%2BOAAqFYPDbE0CBEAz%2ByQH8JIJ5gjDwfTw%2Bf7//q9PXwmBPyXeBiPbw/joYuxTo523e3QBE%2ByUAtwAJ3s%2B5G4BofwTgFmBlv8%2B3G4BoFwNwC7CiS3PtBiDahwG4BVjJR/P86Q0gAlbw2Rx7AhHtagBuASq7Nr833QAioKJb5vbmJ5AIqOTWed30GUAEVLBlTjd/CBYBM9s6n7u%2BCyQCZrRnLnd/G1QEzGTvPB76OYAImMGROTz8gzARMNLR%2BWs6vP5pFXppdfA2/VUItwE9tJyz0wbWbUBrZxywp5/YQmDml0W3J4sQmPFJ3f3NLgRm%2Biw59EOrGLj7z6hvoPwAJj13e4rxnekAAAAASUVORK5CYII%3D%22%2C%22sizes%22%3A%22192x192%22%2C%22type%22%3A%22image/png%22%2C%22purpose%22%3A%22any%22%7D%2C%7B%22src%22%3A%22data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAPz0lEQVR4nO3dUZLUVhKGUSBmV9YyeHR4cQ4/ehntdTHB4B6g6OqSVJJu5v3PeZ7wVEuKzu%2BmCvj4gZJels9fRn8GgKMsL39/HP0Z%2BJkbMogBD/CdQLieC34Bwx5gO1FwLhf3BAY%2BwPEEwbFczAMY%2BADXEwTPcfF2MvQB6hAD27lgGxj6APWJgXVcpAcMfYC%2BxMB9LswdBj/APITAr1yQHxj6APMTA9%2B4CAY/QKQlPASif3iDH4AlNAQif2iDH4D0EIj6YQ1%2BAB5ZQkIg4oc0%2BAHYapk8BD59mJzhD8AeL5PPj2nrZvYbB8B1lgm3AdP9QAY/AGdZJgqBqV4BGP4AnOllojkzRcnMdEMA6GFpvg1ovwEw/AEY4aX5/GkdAN0vPgC9vTSeQy3XF50vOABzWpq9Emi3ATD8Aajopdl8ahUA3S4uAFleGs2pFuuKThcUADq8Eii/ATD8Aejopfj8Kh0A1S8eAHSdY2UDoPJFA4Du86xkAFS9WAAwy1wrFwAVLxIAzDbfSgVAtYsDALPOuTIBUOmiAMDs865EAFS5GACQMveGB0CFiwAAafPvU/IPDwCpc3BYABj%2BAPBh2DwcEgCGPwCMnYuXB4DhDwDj5%2BOlAWD4A0CNOXlZABj%2BAFBnXl4SAIY/ANSam8P/HgAA4HqnB4DTPwDUm5%2BnBoDhDwA15%2BhpAWD4A0Ddeeo7AAAQ6JQAcPoHgNpz9fAAMPwB4HhHz9dDA8DwB4DzHDlnfQcAAAIdFgBO/wBwvqPm7SEBYPgDwHWOmLteAQBAoKcDwOkfAK737Py1AQCAQE8FgNM/AIzzzBzeHQCGPwCMt3ceewUAAIF2BYDTPwDUsWcu2wAAQKDNAeD0DwD1bJ3PNgAAEGhTADj9A0BdW%2Ba0DQAABFodAE7/AFDf2nltAwAAgVYFgNM/APSxZm7bAABAIAEAAIEeBoD1PwD082h%2B2wAAQKB3A8DpHwD6em%2BO2wAAQCABAACB7gaA9T8A9HdvntsAAEAgAQAAgd4MAOt/AJjHW3PdBgCC/fbXH6M/AjCIAACAQL8EgPU/ZJ3%2BbQEgw%2B18twEAgEACAALdnvptASCPAACA9ADw/h8A5vXjnLcBgDD31v1eA0AWAQAAgQQABHl0yrcFgMAA8P4fAOb3Ou9tACCE0z3wIwEA/EQoQAYBAACBBAAE2HqqtwWAkADwBUAAyPF17tsAwOT2nuZtAWBuAgAAAgkAAAgkAGBiz67xvQaAeQkAAAgkAGBSR53ebQFgTgIAAAJ98ncAwHyc2oFHbACAhwQFzEcAAEAgAQCTOeu0bgsAcxEAABBIAMBEnNKBtQQAsJrAgHkIAAAIJABgEledzm0BYA4CAAACCQCYgFM5sJUAADYTHNCfAACAQAIAmht1GrcFgN4EAAAEEgDQ2OhT%2BOj/f2A/AQAAgQQANOX0DTxDAABPESLQkwAAgEACABqqduqu9nmAxwQAAAQSANCM0zZwBAEAHEKYQC8CAAACCQBopPopu/rnA74TAAAQSABAE07XwJEEAHAooQI9CABowFAFjiYAgMMJFqhPAABAIAEAxTlNA2cQAMAphAvUJgCgMEMUOIsAAE4jYKAuAQAAgQQAFOX0DJxJAACnEjJQkwCAggxN4GwCADidoIF6BAAUY1gCVxAAwCWEDdQiAAAgkACAQpySgasIAOAyAgfqEABQhOEIXEkAAJcSOlCDAACAQAIACnAqBq4mAIDLCR4YTwDAYIYhMIIAAIYQPjCWAACAQAIABnIKBkYRAMAwAgjGEQAwiOEHjCQAgKGEEIwhAGAAQw8YTQAAQCABAAxnIwLXEwBwMcMOqEAAACUII7iWAIALGXJAFQIAKEMgwXUEAAAEEgBwEadboBIBAJQilOAaAgAuYKgB1QgAoBzBBOcTAHAywwyoSAAAQCABAJRkcwLnEgBwIkMMqEoAAGUJKDiPAICTGF5AZQIAAAIJAKA0mxQ4hwCAExhaQHUCAChPUMHxBAAczLACOhAAABBIAAAt2KzAsQQAHMiQAroQAEAbAguOIwDgIIYT0IkAAFoRWnAMAQAHMJSAbgQAAAQSAEA7Ni7wPAEATzKMgI4EANCS8ILnCAB4giEEdCUAACCQAADasoGB/QQA7GT4AJ0JAKA1IQb7CADYwdABuhMAABBIAMBGTv/1uCewnQAAgEACAJiCLQBsIwBgA0MGmIUAAIBAAgBWcvqvzz2C9QQAAAQSAMBUbAFgHQEAKxgqwGwEAAAEEgDwgNN/P%2B4ZPCYAACCQAIB3OEn25d7B%2BwQAAAQSAMC0bAHgPgEAdxgewMwEAAAEEgDwBqf/ebiX8DYBAACBBAAwPVsA%2BJUAgBuGBZBAAABAIAEAP3D6n5d7Cz8TAAAQSAAAMWwB4DsBAP8yHIAkAgAAAgkAcPqP4l7DNwIAAAIJAOI5EeZxz0EAAEAkAQAAgQQA0ayCc7n3pBMAABBIABDLCRDPAMkEAAAEEgBANFsAUgkAIvmlD6QTAAAQSAAQx%2BmfW54JEgkAAAgkAIjipMc9ng3SCAAACCQAACCQACCGFS%2BPeEZIIgAAIJAAIIKTHWt5VkghAAAg0MeX5fOX0R8CunJaHOuf3/8c/RGgLRsA2MnwH889gP0EAOxg8NThXsA%2BAgA2MnDqcU9gOwEAGxg0dbk3sI0AgJUMmPrcI1hPAMAKBksf7hWsIwDgAQOlH/cMHhMA8A6DpC/3Dt4nAOAOA6Q/9xDuEwDwBoNjHu4lvE0AwA0DYz7uKfxKAMAPDIp5ubfwMwEA/zIg5ucew3cCAAyGKO41fCMAACCQACCeE2Ee9xwEAOEMglzuPekEALEMADwDJBMAABBIABDJyY9XngVSCQDi%2BIXPLc8EiQQAAAQSAERx0uMezwZpBAAx/ILnEc8ISQQAAAQSAERwsmMtzwopBADT8wudrTwzJBAAABBIADA1Jzn28uwwOwEAAIEEANNyguNZniFmJgAAIJAAYEpObhzFs8SsBAAABBIATMeJjaN5ppiRAACAQAKAqTipcRbPFrMRAAAQSAAAQCABwDSsaDmbZ4yZCAAACCQAmIKTGVfxrDELAQAAgQQAAAQSALRnJcvVPHPMQAAAQCABAACBBACtWcUyimeP7gQAAAQSAAAQSADQlhUso3kG6UwAAEAgAQAAgQQAAAQSALTk3StVeBbpSgAAQCABAACBBAAABBIAtOOdK9V4JulIAABAIAEAAIEEAAAEEgAAEEgAAEAgAUArvm1NVZ5NuhEAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAbfhz1lTnGaUTAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAFAG//8/ufojwDv8ozSiQAAgEACAAACCQAACCQAACCQAACAQAIAAAIJAAAIJABoxZ%2BzpirPJt0IAAAIJAAAIJAAAIBAAgAAAgkAAAgkAGjHt62pxjNJRwIAAAIJAAAIJAAAIJAAoCXvXKnCs0hXAgAAAgkAAAgkAAAgkACgLe9eGc0zSGcCAAACCQAACCQAaM0KllE8e3QnAAAgkAAAgEACgPasYrmaZ44ZCAAACCQAACCQAGAKVrJcxbPGLAQAAAQSAEzDyYyzecaYiQAAgEACAAACCQCmYkXLWTxbzEYAAEAgAcB0nNQ4mmeKGQkAAAgkAJiSExtH8SwxKwEAAIEEANNycuNZniFmJgAAIJAAYGpOcOzl2WF2AgAAAgkApuckx1aeGRIIACL4hc5anhVSCAAACCQAiOFkxyOeEZIIAKL4Bc89ng3SCAAACCQAiOOkxy3PBIkEAJH8wueVZ4FUAgAAAgkAYjn54RkgmQAgmgGQy70nnQAgnkGQxz0HAQAAkQQAOBFGca/hGwEA/zIY5ucew3cCAH5gQMzLvYWfCQC4YVDMxz2FXwkAeIOBMQ/3Et4mAOAOg6M/9xDuEwDwDgOkL/cO3icA4AGDpB/3DB4TALCCgdKHewXrfFpe/v648n8L0QyW%2BtwjWM8GADYwYOpyb2AbAQAbGTT1uCewnQCAHQycOtwL2EcAwE4Gz3juAez3vy8Aviyfvzzx34B4v/31x%2BiPEMXgh%2BfZAMABDKTruNZwDAEABzGYzucaw3H%2B/3cAeA0Ax/FK4FgGPxzr698BZAMAJzCwjuNawjn%2Bc9J/F%2BK9Di7bgH0MfjiXDQCczCDbzjWD89kAwAVsA9Yx%2BOE6P/1DQL4ICNcQAj8z%2BOE6r/8IoA0ADGAj8I3BD%2BMIABgoNQQMfhhPAEABKSFg8EPR7wB85XsAUMMsMWDoQ733/1/ZAECDwdktBgx9qE8AQAMdYsDQh14EADRzO2hHBYGBD5N9B%2BAr3wOAOTwbB4Y8zPn%2B/ysbAJiYAQ7c498CAIBAn9asCQCAvt6a6zYAABBIAABAoLsB4DUAAPR3b57bAABAIAEAAIHeDQCvAQCgr/fmuA0AAAR6GAC2AADQz6P5bQMAAIEEAAAEWhUAXgMAQB9r5rYNAAAEWh0AtgAAUN/aeW0DAACBNgWALQAA1LVlTtsAAECgzQFgCwAA9WydzzYAABBoVwDYAgBAHXvmsg0AAATaHQC2AAAw3t55/NQGQAQAwDjPzGGvAAAg0NMBYAsAANd7dv7aAABAoEMCwBYAAK5zxNw9bAMgAgDgfEfNW68AACDQoQFgCwAA5zlyzh6%2BARABAHC8o%2BfrKa8ARAAA1J6rvgMAAIFOCwBbAACoO09P3QCIAACoOUdPfwUgAgCg3vz0HQAACHRJANgCAECtuXnZBkAEAECdeXnpKwARAAA15uTl3wEQAQAwfj4O%2BRKgCACAsXNx2J8CEAEA8GHYPBz6xwBFAADJloFzcPjfAyACAEi0DJ5/wwOgwkUAgLS5VyIAqlwMAEiZd2UCoNJFAYDZ51ypAKh2cQBg1vlWLgAqXiQAmG2ulQyAqhcLAGaZZ2UDoPJFA4Duc6x0AFS/eADQdX6V/nC3XpbPX0Z/BgDoPPjbbAA6XlQAMi2N5lSrAOh2cQHIsTSbT60%2B7C2vBAAYbWk2%2BNtuAGa46ADMYWk8h1oHQPeLD0BfS/P50/rD3/JKAICzLc0H/zQbgBlvCgA1LRPNmWl%2BkFu2AQAcZZlo8L%2Ba7ge6JQQA2GuZcPBP%2BQog7eYBcJ5l8vkx9Q93yzYAgPTB/yrih7wlBABIHfyvon7YW0IAgCVs8L%2BK/KFvCQGAPEvo4H8V/cPfEgIA80sf/K9chDvEAMA8DP1fuSAPCAGAvgz%2B%2B1yYDcQAQH2G/jou0k5iAKAOQ387F%2BwAYgDgeob%2Bc1y8EwgCgOMZ%2BMdyMS8gCAC2M/DP5eIOIgoAvjPsP1zuv59C6qHm%2BFTxAAAAAElFTkSuQmCC%22%2C%22sizes%22%3A%22512x512%22%2C%22type%22%3A%22image/png%22%2C%22purpose%22%3A%22any%22%7D%2C%7B%22src%22%3A%22data%3Aimage/png%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAPZklEQVR4nO3dXY7lxBKFUUDMCg%2BDR8TgEI8M4zAuruo2qKurq%2Br82c6I2GsNAI6cKceX6ab54QcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHjWj0//Exjlsv36z%2BrfABxnu/zlvc//2QhhDHjgMwIhh4UezLAH9iAKZrKogxj4wBkEwQwWsTEDH6hAEPRk0Zox9IHKxEAfFqoBQx/oSAzUZnGKMvSBScRAPRakGIMfmEwI1GEhCjD0gURiYC0PfyGDH0AIrOKhL2DwA3xPCJzLwz6RwQ9wnRA4h4d8AoMf4H5C4Fge7oEMfoDnCYFj/HTQPzee4Q%2BwD%2B/TY6iqndmoAMdxG7AfD3InBj/AeYTA83wC2IHhD3Au793nKagn2IAA67kNeIwbgAcZ/gA1eB8/RgA8wGYDqMV7%2BX6uTe5ggwHU55PAbdwA3MjwB%2BjB%2B/o2AuAGNhNAL97b17km%2BYQNBNCfTwLvcwPwAcMfYAbv8/cJgHfYLACzeK9/TwC8YZMAzOT9/i0B8IrNATCb9/xXAuBfNgVABu/7LwSAzQAQ5%2BK9LwBsAoBMl/D3f3QApC8%2BQLrkORAbAMmLDsBXqfMgMgBSFxuA910C50JcACQuMgDXXcLmQ1QApC0uAPe5BM2JmABIWlQAHncJmRcRAZCymADs4xIwN8YHQMIiArC/y/D5MToApi8eAMe6DJ4jowMAAAgLgMnVBsB5LkPnycgAmLpYAKxxGThXxgXAxEUCYL3LsPkyLgAAgLAAmFZnANRyGTRnxgTApEUBoK7LkHkzIgCmLAac7Zc/f1/9E6ClCXNnRAAAAGEBMKHCYOXp3y0AZM6f1gHQ/eED0Nul8RxqHQDAY96e%2Bt0CQJ62AdC5ugCY49J0HrUNAAAgLAC61hZU8NF1v88AkDWX2gVAx4cMwHyXZvOpXQAAj7t2yncLADlaBUC3ugIgy6XRnGoVAMDjnO6BlgHQqaqgM6EAGfOqTQAAAGEB0KWmYMqp3i0AzJ9bLQIAAAgLgA4VBZU9epp3CwCz51f5AAAAwgKgej0BQNc5VjoAgOc8e43vMwDMJQAAIFDZAKh8bQId7HV6dwsAM%2BdZ2QAAAMICoGotQRdO7VDLpeBcKxkAQC2CAuYRAAAQqFwAVLwmgU6OOq27BYBZ861cAAAAxxMAMIhTOtAyAKpdjwDfEhgwZ86VCgAA4BwCAIY463TuFgBmKBMAla5FAGD6vCsTAMDjnMqBewkA4G6CA/oTAAAQqEQAVPkeAh2tOo27BYDec69EAAAA5xIA0NjqU/jqfz/wOAEAAIGWB0CF7yDQkdM39HZZPP%2BWBwDQmxCBngQAAAQSANBQtVN3td8DXCcAACDQT8l/AAI6ctqGOS4L56AbAGAXwgR6EQAAEEgAQCPVT9nVfx/wlQAAgEACAJpwugb2JACAXQkV6EEAQAOGKjAmAPwdADCXYIH689ANAAAEEgBQnNM0cAQBABxCuEBtAgAKM0SBowgA4DACBuoSAAAQSABAUU7PwJEEAHAoIQM1CQAoyNAEjiYAgMMJGqhHAEAxhiVwBgEAnELYQC0CAAACCQAoxCkZOIsAAE4jcKAOAQBFGI7AmQQAcCqhAzUIAAAIJACgAKdi4GwCADid4IH1BAAsZhgCKwgAYAnhA2sJAAAIJABgIadgYBUBACwjgGAdAQCLGH7ASgIAWEoIwRoCABYw9IDVBAAABBIAwHJuROB8AgBOZtgBFQgAoARhBOcSAHAiQw6oQgAAZQgkOI8AAIBAAgBO4nQLVCIAgFKEEpxDAMAJDDWgGgEAlCOY4HgCAA5mmAEVCQAACCQAgJLcnMCxBAAcyBADqhIAQFkCCo4jAOAghhdQmQAAgEACACjNTQocQwDAAQwtoDoBAJQnqGB/AgB2ZlgBHQgAAAgkAIAW3KzAvgQA7MiQAroQAEAbAgv2IwBgJ4YT0IkAAFoRWrAPAQA7MJSAbgQAAAQSAEA7blzgeQIAnmQYAR0JAKAl4QXPEQDwBEMI6EoAAEAgAQC05QYGHicA4EGGD9CZAABaE2LwGAEADzB0gO4EAAAEEgBwJ6f/eqwJ3E8AAEAgAQCM4BYA7iMA4A6GDDCFAACAQAIAbuT0X581gtsJAAAIJACAUdwCwG0EANzAUAGmEQAAEEgAwBVO//1YM7hOAABAIAEAn3CS7MvawecEAAAEEgDAWG4B4GMCAD5geACTCQAACCQA4B1O/3NYS3ifAACAQAIAGM8tAHxPAMAbhgWQQAAAQCABAK84/c9lbeFbAgAAAgkAIIZbAPhKAMC/DAcgiQAAgEACAJz%2Bo1hr%2BEIAAEAgAUA8J8I81hwEAABEEgAAEEgAEM1VcC5rTzoBAACBBACxnACxB0gmAAAgkAAAorkFIJUAIJKXPpBOAABAIAFAHKd/3rInSCQAACCQACCKkx4fsTdIIwAAIJAAAIBAAoAYrni5xh4hiQAAgEACgAhOdtzKXiGFAACAQD%2Bv/gFwhr9/%2B%2BOQf67T4sx1hQRuAOBBhv961gAeJwDgAQZPHdYCHiMA4E4GTj3WBO4nAOAOBk1d1gbuIwDgRgZMfdYIbicA4AYGSx/WCm4jAOAKA6UfawbXCQD4hEHSl7WDzwkA%2BIAB0p81hI8JAHiHwTGHtYT3CQB4w8CYx5rC9wQAvGJQzGVt4VsCAP5lQMxnjeErAQAGQxRrDV8IAAAIJACI50SYx5qDACCcQZDL2pNOABDLAMAeIJkAAIBAAoBITn78x14glQAgjhc%2Bb9kTJBIAABBIABDFSY%2BP2BukEQDE8ILnGnuEJAIAAAIJACI42XEre4UUAoDxvNC5lz1DAgEAAIEEAKM5yfEoe4fpBAAABBIAjOUEx7PsISYTAAAQSAAwkpMbe7GXmEoAAEAgAcA4TmzszZ5iIgEAAIEEAKM4qXEUe4tpBAAABBIAABBIADCGK1qOZo8xiQAAgEACgBGczDiLvcYUAgAAAgkAAAgkAGjPlSxns%2BeYQAAAQCABAACBBACtuYplFXuP7gQAAAQSAAAQSADQlitYVrMH6UwAAEAgAQAAgQQAAAQSALTk2ytV2It0JQAAIJAAAIBAAgAAAgkA2vHNlWrsSToSAAAQSAAAQCABAACBBAAABBIAABBIANCKP21NVfYm3QgAAAgkAAAgkAAAgEACAAACCQAACCQAACCQAACAQAKANvx31lRnj9KJAACAQAIAAAIJAAAIJAAAIJAAAIBAAgAAAgkAAAgkAAAgkAAAgEACAAACCQAACCQAACCQAACAQAIAAAIJAAAIJAAAIJAAAIBAAgAAAgkAAAgkAAAgkACgjb9/%2B2P1T4BP2aN0IgAAIJAAAIBAAgAAAgkAAAgkAAAgkAAAgEACAAACCQBa8d9ZU5W9STcCAAACCQAACCQAACCQAACAQAIAAAIJANrxp62pxp6kIwEAAIEEAAAEEgAAEEgA0JJvrlRhL9KVAACAQAIAAAIJAAAIJABoy7dXVrMH6UwAAEAgAQAAgQQArbmCZRV7j%2B4EAAAEEgAAEEgA0J6rWM5mzzGBAACAQAIAAAIJAEZwJctZ7DWmEAAAEEgAMIaTGUezx5hEAABAIAEAAIEEAKO4ouUo9hbTCAAACLQsALbLXz%2Bu%2Bnczm5Mae7OnmDgP3QAAQCABwEhObOzFXmIqAQAAgQQAYzm58Sx7iMkEAAAEEgCM5gTHo%2BwdphMAABBoaQD4uwA4g5Mc97JnSJiDbgCI4IXOrewVUggAAAgkAIjhZMc19ghJBABRvOD5iL1BmuUB4A8CApBoWzz/lgcAnM1Jj7fsCRIJACJ54fMfe4FUAgAAApUIgNXfQcjk5Ic9QPLcKxEAsIoBkMvak04AEM8gyGPNQQAAQKQyAVDhewi5nAhzWGtW24rMuzIBAKsZDPNZY/hKAMArBsRc1hYKB0CVaxGyGRTzWFOq2ArNuVIBAFUYGHNYS3ifAIAPGBz9WUNoFACVrkfAAOnL2lHNVmy%2BlQsAqMYg6ceawXUCAG5goPRhraBxAFS7JoEXBkt91oiqtoJzrWQAQFUGTF3WBoYEQMVaghcGTT3WhMq2ovOsbABAZQZOHdYCHiMA4EEGz3rWAB5X8lritcv26z%2BrfwNc88ufv6/%2BCVEMfrrYil7/v3ADADswkM7jWUNIAFSuJ3jNYDqeZ0wnW/H59fPqHwATB5RPAvsy%2BCHwBqBDRcFbBtZ%2BPEs62hrMLTcAcBC3Ac8x%2BOFYLW4AutQUvMcgu59nRmdbk3nlBgBO4DbgNgY/nKdFpbzm7wVgAiHwLYOfKbYmp/8XbgBgATcCXxj8sE6bUnnNLQDTpIWAwc9EW6PT/4tWP/Y1EcBE00PA4Geqrdnwf%2BETABQdkFNiwNCHmtoVy2tuAUjRLQYMfZJsDU//L9wAQAMdbgYMfeilZbW85haAdKuCwMCHH9qe/l%2B0/eGviQA4Jg4MeZg5/F/4BACDGeBA%2B/8XwOQKA6CXbcDcGREAUxYDgPq2IfNmTABMWhQAatoGzZlRAQAAhAbApDoDoI5t2HwZFwATFwmAtbaBc2VkAExdLADOtw2dJ2MDAAAIDYCp1QbAObbBc2R0AExfPACOsw2fH%2BMDIGERAdjXFjA3IgIgZTEBeN4WMi9iAiBpUQF4zBY0J6ICIG1xAbjdFjYf4gIgcZEB%2BNwWOBciAyB1sQH43hY6D2IDIHnRAfgieQ5EB0D64gMk28Lf//EB8CJ9EwCk2bz3BcB/bAaADN73XwiAV2wKgNm8578SAG/YHAAzeb9/SwC8wyYBmMV7/XsC4AM2C8AM3ufv81BucNl%2B/Wf1bwDgPgb/59wA3MAmAujFe/s6AXAjmwmgB%2B/r23hID/BJAKAeg/8%2BbgAeYJMB1OK9fD8B8CCbDaAG7%2BPHeGg78EkA4HwG/3PcAOzAJgQ4l/fu8zzAnbkNADiOwb8fD/IgQgBgPwb//nwCOIjNCrAP79NjeKgncBsAcD%2BD/1ge7omEAMB1Bv85POQFhADA9wz%2Bc3nYCwkBAIN/FQ%2B9ACEAJDL41/LwixEDwGSGfh0WoighAExi8NdjQRoQA0BHhn5tFqcZMQBUZuj3YaEaEwNABYZ%2BTxZtEEEAnMHAn8EiDiYIgD0Y%2BDNZ1DCiAPiMYZ/DQvMNgQCzGfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAD0f5H8IP7bCGHvVmAAAAAElFTkSuQmCC%22%2C%22sizes%22%3A%22512x512%22%2C%22type%22%3A%22image/png%22%2C%22purpose%22%3A%22maskable%22%7D%5D%7D">
+    <meta name="theme-color" content="#c43c54">
+    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAE00lEQVR4nO3dQU5cORSGUUC9q7AMhlEvLuphlgHrIkqraZGkoOq952f7+j9nkGGwpfvZLkDJ/d1knh+fXkevgXM9Pn+/v5vE0IUYdkZH0f2LGnpmiqHbFzL4zBjC6V/A4DNzCKf9xQafCiE0/wsNPpVCeLhryPDTQ8s5a1KSwafqbXD4BjD8jHR0/g4FYPiZwZE53B2A4Wcme+dxVwCGnxntmcvNARh+ZrZ1PjcFYPipYMuc3hyA4aeSW+f1pgAMPxXdMrdXAzD8VHZtfpv+KgRU82kATn9W8NkcfxiA4WclH82zJxDRLgbg9GdFl+baDUC0PwJw+rOy3+fbDUC0XwJw+pPg/Zy7AYj2fwBOf5K8zbsbYLAv//w9egnRBEC0f/9JCc+f8af/y9dvQ9eSyg1ANAFM8vb3WWAMARBNAER78AG4v4+eO55B/bkBiCaAzq6d8m6BvgRANAEQTQAd3fq88QzqRwBEE0AnTvU5CWBSgulDAEQTwMSnuVvgfAIgmgBO5hSfmwAmJ6BzCeBEhnd+AihASOcRANEEcBKndg0CKEJQ5xDACQxrHQIoRFjtCYBoAmjMKV2LAIoRWFsCaMhw1iMAogmgIDdNOwJoxFDWJICiBNeGABowjHUJgGgCKMzNc5wADjKEtQmgOAEeI4ADDF99AiCaABbgJtpPADsZujUIYBGC3EcAOxi2dQiAaAJYiJtpOwFsZMjWIoDFCHQbAWxguNYjAKIJYMHTv9JaRxMA0QRANAEs+qSouOYRBEA0ASx8klZeey8CIJoAiCaAxZ8QK+zhTAIgmgACTs6V9tKaAIh2//z49Dp6EdXMeqK+fP02egnluAEWGf7Z1zYrASw2YBXWOBMBLDhYldY6mgAWHaiKax5BAAsPUuW19yIAoglg8RN0hT2cSQABg7PSXloTANEEEHJirrinFgRANAEEnZQr720vARBNAGEnZMIetxAA0QQQeDIm7fUaARBNAEQTANEEEPomTtzzJQIgmgCIJgCixQeQ/Bb+Erz3N/EBkE0ARBMA0QRANAEQTQBEEwDRBEA0ARBNAEQTANEEQDQBEC0+gOT/WfEleO9v4gMgmwCIJgCiCSD0LZy450sEQDQBEE0ARBNA4Js4aa/XCIBoAgg7GRP2uIUAiCaAoBNy5b3tJQCiCSDkpFxxTy0IgGgCCDgxV9pLawJYfHBW2MOZBEA0ASx8glZeey8CWHSQKq55BAEsOFCV1jqaABYbrAprnIkAFhqwmdc2KwEsMmgzrqmC+59/PD8+vY5eSFWj/6tRg3+MG6DwABr+49wABW8Dg9+OAAqFYPDbE0CBEAz+yQH8JIJ5gjDwfTw+f7//q9PXwmBPyXeBiPbw/joYuxTo523e3QBE+yUAtwAJ3s+5G4BofwTgFmBlv8+3G4BoFwNwC7CiS3PtBiDahwG4BVjJR/P86Q0gAlbw2Rx7AhHtagBuASq7Nr833QAioKJb5vbmJ5AIqOTWed30GUAEVLBlTjd/CBYBM9s6n7u+CyQCZrRnLnd/G1QEzGTvPB76OYAImMGROTz8gzARMNLR+Ws6vP5pFXppdfA2/VUItwE9tJyz0wbWbUBrZxywp5/YQmDml0W3J4sQmPFJ3f3NLgRm+iw59EOrGLj7z6hvoPwAJj13e4rxnekAAAAASUVORK5CYII=" type="image/png">
+    <link rel="apple-touch-icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAE00lEQVR4nO3dQU5cORSGUUC9q7AMhlEvLuphlgHrIkqraZGkoOq952f7+j9nkGGwpfvZLkDJ/d1knh+fXkevgXM9Pn+/v5vE0IUYdkZH0f2LGnpmiqHbFzL4zBjC6V/A4DNzCKf9xQafCiE0/wsNPpVCeLhryPDTQ8s5a1KSwafqbXD4BjD8jHR0/g4FYPiZwZE53B2A4Wcme+dxVwCGnxntmcvNARh+ZrZ1PjcFYPipYMuc3hyA4aeSW+f1pgAMPxXdMrdXAzD8VHZtfpv+KgRU82kATn9W8NkcfxiA4WclH82zJxDRLgbg9GdFl+baDUC0PwJw+rOy3+fbDUC0XwJw+pPg/Zy7AYj2fwBOf5K8zbsbYLAv//w9egnRBEC0f/9JCc+f8af/y9dvQ9eSyg1ANAFM8vb3WWAMARBNAER78AG4v4+eO55B/bkBiCaAzq6d8m6BvgRANAEQTQAd3fq88QzqRwBEE0AnTvU5CWBSgulDAEQTwMSnuVvgfAIgmgBO5hSfmwAmJ6BzCeBEhnd+AihASOcRANEEcBKndg0CKEJQ5xDACQxrHQIoRFjtCYBoAmjMKV2LAIoRWFsCaMhw1iMAogmgIDdNOwJoxFDWJICiBNeGABowjHUJgGgCKMzNc5wADjKEtQmgOAEeI4ADDF99AiCaABbgJtpPADsZujUIYBGC3EcAOxi2dQiAaAJYiJtpOwFsZMjWIoDFCHQbAWxguNYjAKIJYMHTv9JaRxMA0QRANAEs+qSouOYRBEA0ASx8klZeey8CIJoAiCaAxZ8QK+zhTAIgmgACTs6V9tKaAIh2//z49Dp6EdXMeqK+fP02egnluAEWGf7Z1zYrASw2YBXWOBMBLDhYldY6mgAWHaiKax5BAAsPUuW19yIAoglg8RN0hT2cSQABg7PSXloTANEEEHJirrinFgRANAEEnZQr720vARBNAGEnZMIetxAA0QQQeDIm7fUaARBNAEQTANEEEPomTtzzJQIgmgCIJgCixQeQ/Bb+Erz3N/EBkE0ARBMA0QRANAEQTQBEEwDRBEA0ARBNAEQTANEEQDQBEC0+gOT/WfEleO9v4gMgmwCIJgCiCSD0LZy450sEQDQBEE0ARBNA4Js4aa/XCIBoAgg7GRP2uIUAiCaAoBNy5b3tJQCiCSDkpFxxTy0IgGgCCDgxV9pLawJYfHBW2MOZBEA0ASx8glZeey8CWHSQKq55BAEsOFCV1jqaABYbrAprnIkAFhqwmdc2KwEsMmgzrqmC+59/PD8+vY5eSFWj/6tRg3+MG6DwABr+49wABW8Dg9+OAAqFYPDbE0CBEAz+yQH8JIJ5gjDwfTw+f7//q9PXwmBPyXeBiPbw/joYuxTo523e3QBE+yUAtwAJ3s+5G4BofwTgFmBlv8+3G4BoFwNwC7CiS3PtBiDahwG4BVjJR/P86Q0gAlbw2Rx7AhHtagBuASq7Nr833QAioKJb5vbmJ5AIqOTWed30GUAEVLBlTjd/CBYBM9s6n7u+CyQCZrRnLnd/G1QEzGTvPB76OYAImMGROTz8gzARMNLR+Ws6vP5pFXppdfA2/VUItwE9tJyz0wbWbUBrZxywp5/YQmDml0W3J4sQmPFJ3f3NLgRm+iw59EOrGLj7z6hvoPwAJj13e4rxnekAAAAASUVORK5CYII=">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Spice">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        /* Custom scrollbar for better aesthetics */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f1f5f9;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
+        /* Style for checked state of custom checkbox */
+        .done-checkbox:checked + label div {
+            background-color: #4ade80; /* green-400 */
+            border-color: #4ade80;
+        }
+        .done-checkbox:checked + label div .check-icon {
+            display: block;
+        }
+        /* Indeterminate = some but not all options in the group (original +
+           variations) are done. Only ever set via JS (applyIndeterminateStates). */
+        .done-checkbox:indeterminate + label div {
+            background-color: #f59e0b; /* amber-500 */
+            border-color: #f59e0b;
+        }
+        .done-checkbox:indeterminate + label div .dash-icon {
+            display: block;
+        }
+        /* The native checkbox itself is visually hidden (0×0, opacity 0) in
+           favor of the styled <label> box next to it, but it stays in the
+           tab order on purpose (keyboard users can Tab/Space it) — so its
+           focus ring has to land on the visible label box instead of the
+           invisible input. */
+        .done-checkbox:focus-visible + label div {
+            outline: 2px solid #4338ca; /* indigo-700, ~7:1 on white */
+            outline-offset: 2px;
+        }
+
+        /* Safe-area padding so content clears notches / gesture bars / the
+           Android nav bar when installed as a standalone PWA. */
+        body {
+            padding-top: env(safe-area-inset-top);
+            padding-left: env(safe-area-inset-left);
+            padding-right: env(safe-area-inset-right);
+        }
+        #surprise-fab {
+            bottom: calc(1.25rem + env(safe-area-inset-bottom));
+            right: calc(1.25rem + env(safe-area-inset-right));
+        }
+        #details-modal .modal-sheet {
+            padding-bottom: env(safe-area-inset-bottom);
+        }
+
+        /* Details modal: a bottom sheet that slides up on phones (thumb-
+           reachable close button stays pinned at the top via its own
+           sticky header), a centered dialog on larger screens. */
+        @media (max-width: 639px) {
+            #details-modal {
+                align-items: flex-end;
+                padding: 0;
+            }
+            #details-modal .modal-sheet {
+                max-height: 92vh;
+                width: 100%;
+                border-bottom-left-radius: 0;
+                border-bottom-right-radius: 0;
+                animation: sheet-up 0.25s ease-out;
+            }
+        }
+        @keyframes sheet-up {
+            from { transform: translateY(16px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        /* Card hover-lift only where hovering is a real pointer gesture —
+           gated behind (hover: hover) so a tap on a touchscreen doesn't
+           leave the card visually "stuck" lifted/shadowed until the next
+           unrelated tap (the classic mobile sticky-:hover issue). Touch
+           devices get a quick press-down instead, via .active below. */
+        @media (hover: hover) {
+            .card-surface:hover {
+                box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+                transform: translateY(-4px);
+            }
+        }
+        .card-surface:active {
+            transform: scale(0.99);
+        }
+
+        /* Respect the OS-level "reduce motion" preference: kill decorative
+           transitions/animations (card hover-lift, progress bar fill,
+           sheet slide-up) without breaking layout. */
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+                scroll-behavior: auto !important;
+            }
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800">
+
+    <!-- The preloaded content is no longer needed and has been removed. -->
+
+    <div id="app" class="min-h-screen p-3 pt-[max(0.75rem,env(safe-area-inset-top))] sm:p-6 lg:p-8">
+        <div class="max-w-7xl mx-auto">
+
+            <!-- Header -->
+            <header class="text-center mb-5 sm:mb-8">
+                <h1 class="text-3xl sm:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-500 to-indigo-500">Relationship Spice</h1>
+                <p class="text-slate-500 mt-1.5 sm:mt-2 text-base sm:text-lg">Your interactive guide to keeping the spark alive.</p>
+                <div class="max-w-md mx-auto mt-4 sm:mt-6">
+                    <div class="flex justify-between text-sm font-medium text-slate-500 mb-1">
+                        <span id="progress-label">0 / 0 done</span>
+                        <span id="progress-percent">0%</span>
+                    </div>
+                    <div class="w-full bg-slate-200 rounded-full h-2.5 overflow-hidden">
+                        <div id="progress-bar" class="bg-gradient-to-r from-pink-400 to-indigo-500 h-2.5 rounded-full transition-all duration-500" style="width: 0%"></div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Category Tabs: full-width segmented control on phones (easier to
+                 hit one-handed than small centered pills), reverts to compact
+                 centered pills from the sm breakpoint up. -->
+            <div class="grid grid-cols-3 gap-1.5 mb-5 sm:flex sm:justify-center sm:gap-2 sm:mb-8" id="category-tabs" role="tablist" aria-label="Content category">
+                <button data-category="ACTIONS" role="tab" aria-selected="true" class="category-tab min-h-[44px] px-3 sm:px-5 py-2 rounded-full font-semibold text-sm transition-colors bg-indigo-500 text-white">Actions</button>
+                <button data-category="SMS" role="tab" aria-selected="false" class="category-tab min-h-[44px] px-3 sm:px-5 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-300 hover:bg-slate-100">SMS</button>
+                <button data-category="POSTITS" role="tab" aria-selected="false" class="category-tab min-h-[44px] px-3 sm:px-5 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-300 hover:bg-slate-100">Post-its</button>
+            </div>
+
+            <!-- Loading Section -->
+            <section id="loading-section" class="text-center py-20">
+                 <div class="flex justify-center items-center space-x-2">
+                    <div class="w-4 h-4 rounded-full bg-indigo-500 animate-pulse [animation-delay:-0.3s]"></div>
+                    <div class="w-4 h-4 rounded-full bg-indigo-500 animate-pulse [animation-delay:-0.15s]"></div>
+                    <div class="w-4 h-4 rounded-full bg-indigo-500 animate-pulse"></div>
+                </div>
+                <p id="loading-message" class="mt-4 text-lg text-slate-600">Loading your actions from the database...</p>
+            </section>
+
+            <!-- Dashboard Section -->
+            <main id="dashboard-section" class="hidden">
+                <!-- Filters -->
+                <div class="bg-white p-4 sm:p-6 rounded-2xl shadow-lg border border-slate-200 mb-5 sm:mb-8 sticky top-2 sm:top-4 z-10">
+                    <div class="flex items-center justify-between gap-2">
+                        <button id="filters-toggle-btn" onclick="toggleFiltersVisibility()" aria-expanded="true" aria-controls="filters-body" class="flex items-center gap-1.5 text-left -m-1 p-1 rounded hover:text-indigo-600 min-h-[44px]">
+                            <h3 class="text-lg sm:text-xl font-semibold">Filters & Sorting</h3>
+                            <svg id="filters-toggle-icon" class="w-5 h-5 text-slate-500 transition-transform shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                            </svg>
+                        </button>
+                        <div class="flex items-center gap-2">
+                            <button id="surprise-btn" class="hidden sm:inline-flex px-4 py-1.5 text-sm font-medium rounded-full bg-gradient-to-r from-pink-400 to-indigo-500 text-white hover:opacity-90 transition-opacity">✨ Surprise Me</button>
+                            <button id="reset-filters-btn" class="px-3 sm:px-4 py-1.5 text-sm font-medium rounded-full bg-white text-slate-600 border border-slate-300 hover:bg-slate-100 min-h-[44px]">Reset</button>
+                        </div>
+                    </div>
+                    <!-- Search stays visible even when the rest of the panel is
+                         folded away — it's the one filter worth reaching without
+                         an extra tap. -->
+                    <div class="mt-3">
+                        <label for="search-input" class="sr-only">Search</label>
+                        <div class="relative">
+                            <svg class="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-slate-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+                            </svg>
+                            <input type="text" id="search-input" placeholder="Search by title or text…" class="w-full min-h-[44px] pl-10 pr-3 py-2 border border-slate-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500">
+                        </div>
+                    </div>
+                    <div id="filters-body" class="mt-4 pt-4 border-t border-slate-200">
+                        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 sm:gap-6">
+                            <!-- Filter by Status -->
+                            <div>
+                                <label for="status-filter" class="block text-sm font-medium text-slate-600 mb-1">Status</label>
+                                <select id="status-filter" class="w-full min-h-[44px] p-2 border border-slate-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500">
+                                    <option value="all">All Actions</option>
+                                    <option value="new">New</option>
+                                    <option value="done">Done</option>
+                                </select>
+                            </div>
+
+                            <!-- Filter by Drama -->
+                            <div>
+                                 <label for="drama-filter" class="block text-sm font-medium text-slate-600 mb-1">"Drama" Intensity: <span id="drama-filter-value" class="font-semibold text-indigo-600">Any</span></label>
+                                <input type="range" id="drama-filter" min="0" max="5" step="1" value="0" class="w-full accent-indigo-500 py-2">
+                            </div>
+
+                             <!-- Filter by Sexual -->
+                            <div>
+                                 <label for="sexual-filter" class="block text-sm font-medium text-slate-600 mb-1">Sexual Intensity: <span id="sexual-filter-value" class="font-semibold text-indigo-600">Any</span></label>
+                                <input type="range" id="sexual-filter" min="0" max="5" step="1" value="0" class="w-full accent-indigo-500 py-2">
+                            </div>
+
+                            <!-- Sort -->
+                             <div>
+                                <label for="sort-by" class="block text-sm font-medium text-slate-600 mb-1">Sort By</label>
+                                <select id="sort-by" class="w-full min-h-[44px] p-2 border border-slate-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500">
+                                    <option value="default">Default Order</option>
+                                    <option value="drama-asc">"Drama" Intensity (Low to High)</option>
+                                    <option value="drama-desc">"Drama" Intensity (High to Low)</option>
+                                    <option value="sexual-asc">Sexual Intensity (Low to High)</option>
+                                    <option value="sexual-desc">Sexual Intensity (High to Low)</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <!-- Collapsible Theme Filter Section -->
+                        <div class="mt-4 pt-4 border-t border-slate-200">
+                            <button onclick="toggleThemeFilterVisibility()" aria-expanded="false" aria-controls="theme-filters" class="w-full min-h-[44px] flex justify-between items-center text-left font-medium text-slate-700 hover:text-indigo-600">
+                                <span>Filter by Theme</span>
+                                <svg id="theme-toggle-icon" class="w-5 h-5 text-slate-500 transition-transform" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                                </svg>
+                            </button>
+                            <div id="theme-filters" class="flex flex-wrap gap-2 mt-4 hidden">
+                                <!-- Theme buttons will be injected here -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Actions List -->
+                <div id="actions-count" class="text-slate-600 mb-3 sm:mb-4 font-medium text-sm sm:text-base"></div>
+                <div id="actions-list" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 sm:gap-6 pb-24 sm:pb-0">
+                    <!-- Action cards will be injected here -->
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- "Surprise Me" as a thumb-reachable floating action button on phones
+         (the header button above is hidden below the sm breakpoint) — fixed
+         bottom-right, clears the Android/iOS gesture area via safe-area
+         insets handled in <style>. Same click handler as the header button. -->
+    <button id="surprise-fab" onclick="surpriseMe()" aria-label="Surprise me with a random suggestion" class="sm:hidden fixed z-30 w-14 h-14 rounded-full shadow-xl bg-gradient-to-r from-pink-400 to-indigo-500 text-white text-2xl flex items-center justify-center active:scale-95 transition-transform">
+        ✨
+    </button>
+
+    <!-- Details Modal -->
+    <div id="details-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" class="fixed inset-0 bg-black bg-opacity-60 backdrop-blur-sm flex justify-center items-center sm:p-4 z-50 hidden">
+        <div class="modal-sheet bg-white w-full sm:max-w-2xl max-h-[92vh] sm:max-h-[90vh] rounded-t-2xl sm:rounded-2xl shadow-2xl flex flex-col">
+            <!-- Drag-handle affordance, mobile bottom-sheet only -->
+            <div class="sm:hidden flex justify-center pt-2.5 pb-1 shrink-0" aria-hidden="true">
+                <div class="w-10 h-1.5 rounded-full bg-slate-300"></div>
+            </div>
+            <header class="p-4 sm:p-6 pt-1 sm:pt-6 border-b border-slate-200 flex justify-between items-start gap-3 sticky top-0 bg-white rounded-t-2xl shrink-0">
+                <div class="min-w-0">
+                    <p id="modal-section" class="text-sm font-medium text-slate-400 mb-1"></p>
+                    <h3 id="modal-title" class="text-xl sm:text-2xl font-bold text-indigo-700"></h3>
+                </div>
+                <button onclick="hideDetails()" aria-label="Close details" class="shrink-0 -m-2 p-2 min-w-[44px] min-h-[44px] flex items-center justify-center text-slate-400 hover:text-slate-700 transition-colors rounded-full hover:bg-slate-100">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+                    </svg>
+                </button>
+            </header>
+            <div id="modal-content" class="p-4 sm:p-6 overflow-y-auto space-y-5">
+                <!-- Details will be injected here -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const loadingSection = document.getElementById('loading-section');
+        const loadingMessage = document.getElementById('loading-message');
+        const dashboardSection = document.getElementById('dashboard-section');
+        const actionsList = document.getElementById('actions-list');
+        const actionsCount = document.getElementById('actions-count');
+        const themeFilters = document.getElementById('theme-filters');
+        
+        const modal = document.getElementById('details-modal');
+        const modalTitle = document.getElementById('modal-title');
+        const modalSection = document.getElementById('modal-section');
+        const modalContent = document.getElementById('modal-content');
+        
+        // Filter and Sort controls
+        const statusFilter = document.getElementById('status-filter');
+        const dramaFilter = document.getElementById('drama-filter');
+        const sexualFilter = document.getElementById('sexual-filter');
+        const sortBy = document.getElementById('sort-by');
+        const searchInput = document.getElementById('search-input');
+        const resetFiltersBtn = document.getElementById('reset-filters-btn');
+        const surpriseBtn = document.getElementById('surprise-btn');
+        const progressLabel = document.getElementById('progress-label');
+        const progressPercent = document.getElementById('progress-percent');
+        const progressBar = document.getElementById('progress-bar');
+
+        // Shared HTML-escaping helpers — text content and attribute values
+        // need slightly different escaping (attributes also need quotes
+        // escaped so injected text can't break out of the surrounding ""),
+        // used wherever server content is interpolated into a template
+        // string rather than set via .textContent.
+        const escapeHtml = (s) => String(s).replace(/[&<>"']/g, (c) => ({
+            '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+        })[c]);
+        const escapeAttr = escapeHtml;
+
+        let allActions = [];
+        let currentModalActionId = null; // which action's details modal is open, if any
+        let currentCategory = 'ACTIONS'; // ACTIONS | SMS | POSTITS
+        let currentFilters = {
+            status: 'all',
+            drama: 0,
+            sexual: 0,
+            theme: 'all',
+            search: ''
+        };
+        let currentSort = 'default';
+
+        // --- Event Listeners ---
+        window.addEventListener('DOMContentLoaded', loadActionsFromServer);
+        const dramaFilterValue = document.getElementById('drama-filter-value');
+        const sexualFilterValue = document.getElementById('sexual-filter-value');
+
+        statusFilter.addEventListener('change', (e) => { currentFilters.status = e.target.value; renderActions(); });
+        dramaFilter.addEventListener('input', (e) => {
+            currentFilters.drama = parseInt(e.target.value);
+            dramaFilterValue.textContent = currentFilters.drama === 0 ? 'Any' : currentFilters.drama;
+            renderActions();
+        });
+        sexualFilter.addEventListener('input', (e) => {
+            currentFilters.sexual = parseInt(e.target.value);
+            sexualFilterValue.textContent = currentFilters.sexual === 0 ? 'Any' : currentFilters.sexual;
+            renderActions();
+        });
+        sortBy.addEventListener('change', (e) => { currentSort = e.target.value; renderActions(); });
+        searchInput.addEventListener('input', (e) => { currentFilters.search = e.target.value.trim().toLowerCase(); renderActions(); });
+        resetFiltersBtn.addEventListener('click', resetFilters);
+        surpriseBtn.addEventListener('click', surpriseMe);
+        document.querySelectorAll('.category-tab').forEach(btn => {
+            btn.addEventListener('click', () => switchCategory(btn.dataset.category));
+        });
+
+        // --- Core Functions ---
+
+        /**
+         * Switches the active rubrique (ACTIONS / SMS / POSTITS), resetting
+         * filters and rebuilding the theme list to only what's relevant for
+         * that category.
+         */
+        function switchCategory(category) {
+            if (category === currentCategory) return;
+            currentCategory = category;
+            document.querySelectorAll('.category-tab').forEach(btn => {
+                const active = btn.dataset.category === category;
+                btn.classList.toggle('bg-indigo-500', active);
+                btn.classList.toggle('text-white', active);
+                btn.classList.toggle('bg-white', !active);
+                btn.classList.toggle('text-slate-600', !active);
+                btn.classList.toggle('border', !active);
+                btn.classList.toggle('border-slate-300', !active);
+                btn.setAttribute('aria-selected', active ? 'true' : 'false');
+            });
+            setupDashboard();
+            resetFilters(); // also re-renders via handleThemeFilter('all')
+        }
+
+        /**
+         * Fetches action data from the backend server on page load.
+         */
+        async function loadActionsFromServer() {
+            loadingSection.classList.remove('hidden');
+            dashboardSection.classList.add('hidden');
+            
+            try {
+                const response = await fetch('/api/actions');
+                if (!response.ok) {
+                    const errorData = await response.json();
+                    throw new Error(errorData.message || `Server responded with status ${response.status}`);
+                }
+                
+                const data = await response.json();
+
+                if (!Array.isArray(data) || data.length === 0) {
+                    throw new Error("No actions found in the database.");
+                }
+
+                // Process data from the server
+                allActions = data.map(action => ({
+                    ...action,
+                    category: action.category || 'ACTIONS',
+                    themes: JSON.parse(action.themes), // Themes are stored as a JSON string
+                    variations: action.variations ? JSON.parse(action.variations) : [],
+                    isDone: !!action.isDone // Ensure isDone is a boolean
+                }));
+                
+                setupDashboard();
+                renderActions();
+
+            } catch (error) {
+                console.error("Error loading actions:", error);
+                loadingMessage.innerHTML = `<p class="text-red-500">An error occurred: ${error.message}</p><p class="text-slate-500 mt-2">Please ensure the backend server is running and the database has been set up correctly.</p>`;
+            } finally {
+                loadingSection.classList.add('hidden');
+                dashboardSection.classList.remove('hidden');
+            }
+        }
+        
+        /**
+         * Sets up the dashboard UI elements like theme filters.
+         */
+        function setupDashboard() {
+            const themesInCategory = new Set();
+            allActions.filter(a => a.category === currentCategory).forEach(a => {
+                a.themes.forEach(theme => themesInCategory.add(theme));
+            });
+
+            const themeButtons = [`<button onclick="handleThemeFilter('all')" class="theme-btn active px-4 py-1.5 text-sm font-medium rounded-full bg-indigo-500 text-white">All Themes</button>`];
+            [...themesInCategory].sort().forEach(theme => {
+                themeButtons.push(`<button onclick="handleThemeFilter('${theme}')" class="theme-btn px-4 py-1.5 text-sm font-medium rounded-full bg-white text-slate-700 border border-slate-300 hover:bg-slate-100">${theme}</button>`);
+            });
+            themeFilters.innerHTML = themeButtons.join('');
+        }
+        
+        window.handleThemeFilter = (theme) => {
+            currentFilters.theme = theme;
+            document.querySelectorAll('.theme-btn').forEach(btn => {
+                const btnTheme = btn.textContent;
+                if (btnTheme === theme || (theme === 'all' && btnTheme === 'All Themes')) {
+                    btn.classList.add('active', 'bg-indigo-500', 'text-white');
+                    btn.classList.remove('bg-white', 'text-slate-700', 'border', 'border-slate-300');
+                } else {
+                    btn.classList.remove('active', 'bg-indigo-500', 'text-white');
+                    btn.classList.add('bg-white', 'text-slate-700', 'border', 'border-slate-300');
+                }
+            });
+            renderActions();
+        }
+        
+        /**
+         * Renders the action cards based on current filters and sorting.
+         */
+        function renderActions() {
+            let filteredActions = allActions.filter(a => a.category === currentCategory);
+
+            // Apply filters
+            if (currentFilters.status === 'done') filteredActions = filteredActions.filter(isGroupFullyDone);
+            else if (currentFilters.status === 'new') filteredActions = filteredActions.filter(a => !isGroupFullyDone(a));
+            if (currentFilters.drama > 0) filteredActions = filteredActions.filter(a => a.dramaIntensity === currentFilters.drama);
+            if (currentFilters.sexual > 0) filteredActions = filteredActions.filter(a => a.sexualIntensity === currentFilters.sexual);
+            if (currentFilters.theme !== 'all') filteredActions = filteredActions.filter(a => a.themes.includes(currentFilters.theme));
+            if (currentFilters.search) {
+                const q = currentFilters.search;
+                filteredActions = filteredActions.filter(a =>
+                    a.actionTitle.toLowerCase().includes(q) || a.text.toLowerCase().includes(q)
+                );
+            }
+
+            // Apply sorting
+            switch (currentSort) {
+                case 'drama-asc': filteredActions.sort((a, b) => a.dramaIntensity - b.dramaIntensity); break;
+                case 'drama-desc': filteredActions.sort((a, b) => b.dramaIntensity - a.dramaIntensity); break;
+                case 'sexual-asc': filteredActions.sort((a, b) => a.sexualIntensity - b.sexualIntensity); break;
+                case 'sexual-desc': filteredActions.sort((a, b) => b.sexualIntensity - a.sexualIntensity); break;
+                default: filteredActions.sort((a, b) => a.id - b.id);
+            }
+
+            if (filteredActions.length === 0) {
+                actionsList.innerHTML = `<div class="md:col-span-2 xl:col-span-3 text-center py-12 bg-white rounded-lg shadow-sm border">
+                    <h3 class="text-xl font-semibold text-slate-700">No actions match your filters.</h3>
+                    <p class="text-slate-500 mt-2">Try adjusting your filter settings.</p>
+                </div>`;
+            } else {
+                // Build the whole HTML string once and assign it once: using
+                // `innerHTML +=` in a loop forces the browser to re-serialize
+                // and re-parse the entire accumulated markup on every single
+                // iteration (O(n²)), which is what caused the multi-second
+                // lag when switching back to a tab with hundreds of cards.
+                actionsList.innerHTML = filteredActions.map(createActionCard).join('');
+            }
+            applyIndeterminateStates();
+            const categoryTotal = allActions.filter(a => a.category === currentCategory).length;
+            const categoryLabels = { ACTIONS: 'actions', SMS: 'SMS', POSTITS: 'post-its' };
+            actionsCount.textContent = `Showing ${filteredActions.length} of ${categoryTotal} ${categoryLabels[currentCategory] || 'items'}.`;
+            updateProgress();
+        }
+
+        /**
+         * An action "group" is the original text plus its optional
+         * variations — different phrasings of the same idea. Group
+         * completion is how many of those options have been marked done,
+         * which is what the card-level "Done" checkbox now reflects
+         * (instead of only the original text's own isDone).
+         */
+        function getGroupCounts(action) {
+            const variations = action.variations || [];
+            const total = 1 + variations.length;
+            const done = (action.isDone ? 1 : 0) + variations.filter(v => v.isDone).length;
+            return { total, done };
+        }
+
+        function isGroupFullyDone(action) {
+            const { total, done } = getGroupCounts(action);
+            return done === total;
+        }
+
+        /**
+         * Applies the native `indeterminate` checkbox state to any rendered
+         * "Done" checkbox marked with data-indeterminate — this can only be
+         * set via JS (there is no HTML attribute for it), so it has to run
+         * after every innerHTML rebuild.
+         */
+        function applyIndeterminateStates() {
+            document.querySelectorAll('.done-checkbox[data-indeterminate="true"]').forEach(cb => {
+                cb.indeterminate = true;
+            });
+        }
+
+        /**
+         * Updates the "done" progress bar, scoped to the current rubrique
+         * (ACTIONS / SMS / POSTITS) rather than across all of them.
+         */
+        function updateProgress() {
+            const inCategory = allActions.filter(a => a.category === currentCategory);
+            const total = inCategory.length;
+            const done = inCategory.filter(isGroupFullyDone).length;
+            const percent = total > 0 ? Math.round((done / total) * 100) : 0;
+            progressLabel.textContent = `${done} / ${total} done`;
+            progressPercent.textContent = `${percent}%`;
+            progressBar.style.width = `${percent}%`;
+        }
+
+        /**
+         * Resets all filters, sorting and the search box to their defaults.
+         */
+        function resetFilters() {
+            currentFilters = { status: 'all', drama: 0, sexual: 0, theme: 'all', search: '' };
+            currentSort = 'default';
+            statusFilter.value = 'all';
+            dramaFilter.value = '0';
+            sexualFilter.value = '0';
+            dramaFilterValue.textContent = 'Any';
+            sexualFilterValue.textContent = 'Any';
+            sortBy.value = 'default';
+            searchInput.value = '';
+            handleThemeFilter('all');
+        }
+
+        /**
+         * Picks a random not-yet-done action (matching current filters if any are active)
+         * and opens its details modal. Falls back to any action if everything is done.
+         */
+        function surpriseMe() {
+            const inCategory = allActions.filter(a => a.category === currentCategory);
+            const pool = inCategory.filter(a => !isGroupFullyDone(a));
+            const candidates = pool.length > 0 ? pool : inCategory;
+            if (candidates.length === 0) return;
+            const pick = candidates[Math.floor(Math.random() * candidates.length)];
+            showDetails(pick.id);
+        }
+        
+        /**
+         * Creates the HTML for a single action card.
+         */
+        function createActionCard(action) {
+            const dramaColors = ['#22c55e', '#84cc16', '#facc15', '#fb923c', '#ef4444'];
+            const dramaDots = Array(5).fill(0).map((_, i) => `<div class="w-4 h-4 rounded-full border-2 ${i < action.dramaIntensity ? '' : 'border-slate-300 bg-slate-100'}" style="background-color: ${i < action.dramaIntensity ? dramaColors[i] : 'transparent'}"></div>`).join('');
+            const flameSVG = `<svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C12 2 4 8.41828 4 14.4C4 18.0327 6.68629 21 10 21C12.2343 21 14.5348 20.007 15.9015 18.5M12 2C12 2 20 8.41828 20 14.4C20 18.0327 17.3137 21 14 21C11.7657 21 9.46519 20.007 8.09852 18.5M12 2V22"></path><path d="M12 6C12.9272 6 14.3197 6.46387 15 7.5C15.6803 8.53613 16 10.3648 16 12C16 15.3137 12 18 12 18C12 18 8 15.3137 8 12C8 10.3648 8.3197 8.53613 9 7.5C9.68031 6.46387 11.0728 6 12 6Z"></path></svg>`;
+            const sexualFlames = Array(5).fill(0).map((_, i) => `<div class="text-orange-500 ${i < action.sexualIntensity ? 'opacity-100' : 'opacity-20'}">${flameSVG}</div>`).join('');
+            const themesHtml = action.themes.map(theme => `<span class="bg-indigo-100 text-indigo-800 text-xs font-medium px-2.5 py-1 rounded-full">${theme}</span>`).join(' ');
+
+            const groupCounts = getGroupCounts(action);
+            const hasVariations = action.variations && action.variations.length > 0;
+            const fullyDone = groupCounts.done === groupCounts.total;
+            const partiallyDone = groupCounts.done > 0 && !fullyDone;
+            const checkboxOnChange = hasVariations ? `toggleGroupDone(${action.id})` : `toggleDone(${action.id})`;
+            const checkboxTitle = hasVariations
+                ? `Marks the original text + all ${action.variations.length} variation(s) as done together — open details to track them individually.`
+                : '';
+
+            return `
+            <div class="card-surface bg-white p-4 sm:p-6 rounded-2xl shadow-lg border border-slate-200 flex flex-col justify-between transition-all duration-300" id="action-card-${action.id}">
+                <div>
+                    <div class="flex justify-between items-start mb-3 sm:mb-4">
+                        <span class="text-2xl sm:text-3xl font-bold text-slate-300">#${String(action.id).padStart(3, '0')}</span>
+                        <div class="flex items-center gap-1">
+                            <!-- Tap-target padding is expanded via negative margin only on the
+                                 sides that DON'T face the neighboring "Done" control (top/bottom/
+                                 outer-left) — expanding it on the facing side too (like the old
+                                 symmetric -m-2) made the two controls' invisible hit zones overlap
+                                 in the gap between them, so a tap near the boundary could land on
+                                 the wrong one (bug: tapping "+" sometimes toggled Done instead). -->
+                            <button onclick='showDetails(${action.id})' aria-label="Show details for ${escapeAttr(action.actionTitle)}" class="text-slate-400 hover:text-indigo-600 active:text-indigo-700 transition-colors -mt-2 -mb-2 -ml-2 p-2 min-w-[44px] min-h-[44px] flex items-center justify-center rounded-full hover:bg-indigo-50">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 sm:h-7 sm:w-7" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-11a1 1 0 10-2 0v2H7a1 1 0 100 2h2v2a1 1 0 102 0v-2h2a1 1 0 100-2h-2V7z" clip-rule="evenodd" />
+                                </svg>
+                            </button>
+                            <div class="flex items-center">
+                                <input type="checkbox" id="done-${action.id}" class="done-checkbox absolute opacity-0 w-0 h-0" onchange="${checkboxOnChange}" ${fullyDone ? 'checked' : ''} ${partiallyDone ? 'data-indeterminate="true"' : ''}>
+                                <label for="done-${action.id}" class="flex items-center cursor-pointer -mt-2 -mb-2 -mr-2 p-2 min-h-[44px]" ${checkboxTitle ? `title="${checkboxTitle}"` : ''}>
+                                    <span class="text-sm font-medium text-slate-600 mr-2">Done${hasVariations ? ` <span class="text-slate-400 font-normal">(${groupCounts.done}/${groupCounts.total})</span>` : ''}</span>
+                                    <div class="w-6 h-6 rounded-md border-2 border-slate-300 flex items-center justify-center transition-all">
+                                        <svg class="check-icon w-4 h-4 text-white hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
+                                        <svg class="dash-icon w-4 h-4 text-white hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 12h14"></path></svg>
+                                    </div>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mb-5 sm:mb-6">
+                        <h4 class="text-base sm:text-lg font-semibold text-indigo-700 mb-1.5 sm:mb-2">${action.actionTitle}</h4>
+                        <p class="text-slate-700 text-[15px] sm:text-base leading-relaxed ${action.isDone ? 'line-through text-slate-400' : ''}">${action.text}</p>
+                    </div>
+                </div>
+                <div class="space-y-3 sm:space-y-4 pt-3 sm:pt-4 border-t border-slate-200">
+                    <div class="flex items-center justify-between"><span class="text-sm font-medium text-slate-500">"Drama" Intensity:</span><div class="flex items-center gap-1.5">${dramaDots}</div></div>
+                    <div class="flex items-center justify-between"><span class="text-sm font-medium text-slate-500">Sexual Intensity:</span><div class="flex items-center gap-1">${sexualFlames}</div></div>
+                    <div class="flex items-center justify-start flex-wrap gap-2 pt-2">${themesHtml}</div>
+                </div>
+            </div>`;
+        }
+        
+        /**
+         * Toggles the 'done' status of an action and saves to the database.
+         */
+        async function toggleDone(actionId) {
+            try {
+                const response = await fetch(`/api/actions/${actionId}/toggle`, { method: 'POST' });
+                if (!response.ok) {
+                    throw new Error('Failed to update action status on the server.');
+                }
+                const updatedAction = await response.json();
+                
+                // Find and update the action in our local state
+                const actionIndex = allActions.findIndex(a => a.id === actionId);
+                if (actionIndex !== -1) {
+                    allActions[actionIndex].isDone = !!updatedAction.isDone;
+                }
+
+                // Re-render the view to reflect the change
+                renderActions();
+                if (!modal.classList.contains('hidden') && currentModalActionId === actionId) {
+                    showDetails(actionId);
+                }
+
+            } catch (error) {
+                console.error("Error toggling done status:", error);
+                alert("Could not update the action. Please check your connection and try again.");
+            }
+        }
+
+        /**
+         * Card-level "Done" checkbox for an action that has variations:
+         * marks the whole group (original text + every variation) done or
+         * not-done together, so the card checkbox always reflects true
+         * group completion rather than just the original text's state.
+         * Open the details modal to toggle individual variations instead.
+         */
+        async function toggleGroupDone(actionId) {
+            const action = allActions.find(a => a.id === actionId);
+            if (!action) return;
+            const targetState = !isGroupFullyDone(action);
+
+            try {
+                // Sequential, not Promise.all: the variations toggle endpoint
+                // does a read-modify-write on the whole `variations` JSON
+                // column, so firing several of those at once for the same
+                // action is a lost-update race (confirmed while testing this
+                // feature — the last response to land silently discards
+                // whichever other variation was toggled concurrently).
+                if (action.isDone !== targetState) {
+                    await fetch(`/api/actions/${actionId}/toggle`, { method: 'POST' });
+                }
+                for (let i = 0; i < action.variations.length; i++) {
+                    if (action.variations[i].isDone !== targetState) {
+                        await fetch(`/api/actions/${actionId}/variations/${i}/toggle`, { method: 'POST' });
+                    }
+                }
+
+                action.isDone = targetState;
+                action.variations = action.variations.map(v => ({ ...v, isDone: targetState }));
+
+                renderActions();
+                if (!modal.classList.contains('hidden') && currentModalActionId === actionId) {
+                    showDetails(actionId);
+                }
+            } catch (error) {
+                console.error("Error toggling group status:", error);
+                alert("Could not update this action. Please check your connection and try again.");
+            }
+        }
+
+        /**
+         * Toggles the 'done' status of one example variation within an
+         * action's details modal, and saves it to the database.
+         */
+        async function toggleVariationDone(actionId, variationIndex) {
+            try {
+                const response = await fetch(`/api/actions/${actionId}/variations/${variationIndex}/toggle`, { method: 'POST' });
+                if (!response.ok) {
+                    throw new Error('Failed to update variation status on the server.');
+                }
+                const updatedAction = await response.json();
+                const variations = JSON.parse(updatedAction.variations || '[]');
+
+                const action = allActions.find(a => a.id === actionId);
+                if (action) {
+                    action.variations = variations;
+                }
+
+                // Re-render the card list too: the card's "Done" badge/state
+                // for this action is derived from the whole group (original
+                // + variations), so a variation toggle can change it.
+                renderActions();
+                if (!modal.classList.contains('hidden') && currentModalActionId === actionId) {
+                    showDetails(actionId);
+                }
+            } catch (error) {
+                console.error("Error toggling variation status:", error);
+                alert("Could not update the variation. Please check your connection and try again.");
+            }
+        }
+
+        function toggleThemeFilterVisibility() {
+            const panel = document.getElementById('theme-filters');
+            const nowHidden = panel.classList.toggle('hidden');
+            document.getElementById('theme-toggle-icon').classList.toggle('rotate-180');
+            document.querySelector('[aria-controls="theme-filters"]').setAttribute('aria-expanded', nowHidden ? 'false' : 'true');
+        }
+
+        /**
+         * Filters & Sorting panel is foldable: on phone screens it defaults
+         * to collapsed (it otherwise covers most of the viewport above the
+         * card list), and stays expanded by default on larger screens. The
+         * user's last choice is remembered per-device (localStorage) so it
+         * doesn't reset every time they reopen the app.
+         */
+        const FILTERS_COLLAPSE_STORAGE_KEY = 'filtersPanelCollapsed';
+        const MOBILE_BREAKPOINT_QUERY = '(max-width: 767px)';
+
+        function setFiltersVisibility(collapsed) {
+            document.getElementById('filters-body').classList.toggle('hidden', collapsed);
+            document.getElementById('filters-toggle-icon').classList.toggle('rotate-180', collapsed);
+            document.getElementById('filters-toggle-btn').setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+        }
+
+        window.toggleFiltersVisibility = () => {
+            const nowCollapsed = !document.getElementById('filters-body').classList.contains('hidden');
+            setFiltersVisibility(nowCollapsed);
+            localStorage.setItem(FILTERS_COLLAPSE_STORAGE_KEY, nowCollapsed ? '1' : '0');
+        };
+
+        (function initFiltersVisibility() {
+            let collapsed;
+            try {
+                const saved = localStorage.getItem(FILTERS_COLLAPSE_STORAGE_KEY);
+                collapsed = saved !== null ? saved === '1' : window.matchMedia(MOBILE_BREAKPOINT_QUERY).matches;
+            } catch (e) {
+                // localStorage unavailable (private browsing, etc.) — fall back to viewport width only.
+                collapsed = window.matchMedia(MOBILE_BREAKPOINT_QUERY).matches;
+            }
+            setFiltersVisibility(collapsed);
+        })();
+
+        /**
+         * Shows the details modal with content from the selected action.
+         */
+        function showDetails(actionId) {
+            const action = allActions.find(a => a.id === actionId);
+            if (!action) return;
+            currentModalActionId = actionId;
+
+            // The modal deliberately mirrors the card (same title, same text,
+            // same "why it works") instead of dumping the raw source section,
+            // which used to bundle in other, unrelated actions. The only
+            // thing it adds is the shared context: which section this came
+            // from, and the predictable habit it's meant to replace.
+            modalTitle.textContent = action.actionTitle;
+            modalSection.textContent = action.sectionTitle || '';
+
+            const doneCheckbox = (id, checked, onchange, label = 'Done') => `
+                <label class="inline-flex items-center gap-1.5 cursor-pointer select-none shrink-0">
+                    <input type="checkbox" ${checked ? 'checked' : ''} onchange="${onchange}"
+                        class="w-4 h-4 rounded border-slate-300 text-green-500 focus:ring-green-500">
+                    <span class="text-xs font-medium text-slate-500">${label}</span>
+                </label>`;
+
+            let html = '';
+            if (action.variations && action.variations.length > 0) {
+                const groupCounts = getGroupCounts(action);
+                const pct = Math.round((groupCounts.done / groupCounts.total) * 100);
+                html += `
+                <div class="bg-slate-50 border border-slate-200 rounded-xl p-4">
+                    <div class="flex items-center justify-between text-sm font-medium text-slate-600 mb-2">
+                        <span>Options essayées pour cette action</span>
+                        <span class="text-slate-800 font-semibold">${groupCounts.done} / ${groupCounts.total}</span>
+                    </div>
+                    <div class="w-full bg-slate-200 rounded-full h-2 overflow-hidden">
+                        <div class="bg-gradient-to-r from-pink-400 to-indigo-500 h-2 rounded-full transition-all duration-500" style="width: ${pct}%"></div>
+                    </div>
+                </div>`;
+            }
+            if (action.predictable) {
+                html += `
+                <div>
+                    <h5 class="font-semibold text-slate-500 text-sm uppercase tracking-wide mb-1">Au lieu du prévisible</h5>
+                    <p class="text-slate-600">${escapeHtml(action.predictable)}</p>
+                </div>`;
+            }
+            html += `
+                <div>
+                    <div class="flex items-start justify-between gap-3 mb-1">
+                        <h5 class="font-semibold text-indigo-600 text-sm uppercase tracking-wide">L'action</h5>
+                        ${doneCheckbox(action.id, action.isDone, `toggleDone(${action.id})`)}
+                    </div>
+                    <p class="text-slate-800 leading-relaxed ${action.isDone ? 'line-through text-slate-400' : ''}">${escapeHtml(action.text)}</p>
+                </div>`;
+            if (action.effect) {
+                html += `
+                <div>
+                    <h5 class="font-semibold text-purple-600 text-sm uppercase tracking-wide mb-1">Pourquoi ça marche</h5>
+                    <p class="text-slate-600">${escapeHtml(action.effect)}</p>
+                </div>`;
+            }
+            if (action.variations && action.variations.length > 0) {
+                const items = action.variations.map((v, i) => `
+                    <li class="flex items-start justify-between gap-3">
+                        <span class="leading-relaxed ${v.isDone ? 'line-through text-slate-400' : ''}">${escapeHtml(v.text)}</span>
+                        ${doneCheckbox(action.id, v.isDone, `toggleVariationDone(${action.id}, ${i})`)}
+                    </li>`).join('');
+                html += `
+                <div>
+                    <h5 class="font-semibold text-pink-600 text-sm uppercase tracking-wide mb-1">D'autres façons de faire (même intensité)</h5>
+                    <ul class="space-y-3 text-slate-700">${items}</ul>
+                </div>`;
+            }
+
+            modalContent.innerHTML = html;
+            openModal();
+        }
+
+        /**
+         * Hides the details modal.
+         */
+        function hideDetails() {
+            closeModal();
+            currentModalActionId = null;
+        }
+
+        // --- Modal focus management & keyboard/backdrop dismissal ---
+        // Native <dialog> would give us this for free, but the modal predates
+        // that choice and restyling it around <dialog> is out of scope here —
+        // instead: remember what had focus before opening (so closing returns
+        // it, e.g. to the card's "+" button), move focus into the modal on
+        // open, close on Escape or a click on the backdrop (not the sheet
+        // itself), and keep Tab cycling inside the modal while it's open.
+        let modalReturnFocusEl = null;
+
+        function getModalFocusable() {
+            return Array.from(modal.querySelectorAll(
+                'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
+            )).filter(el => !el.disabled && el.offsetParent !== null);
+        }
+
+        function openModal() {
+            modalReturnFocusEl = document.activeElement;
+            modal.classList.remove('hidden');
+            document.addEventListener('keydown', handleModalKeydown);
+            // Focus the close button rather than the first focusable detail
+            // control, so screen reader users land somewhere predictable.
+            const closeBtn = modal.querySelector('header button');
+            (closeBtn || modal).focus();
+        }
+
+        function closeModal() {
+            modal.classList.add('hidden');
+            document.removeEventListener('keydown', handleModalKeydown);
+            if (modalReturnFocusEl && typeof modalReturnFocusEl.focus === 'function') {
+                modalReturnFocusEl.focus();
+            }
+            modalReturnFocusEl = null;
+        }
+
+        function handleModalKeydown(e) {
+            if (e.key === 'Escape') {
+                e.preventDefault();
+                hideDetails();
+                return;
+            }
+            if (e.key === 'Tab') {
+                const focusable = getModalFocusable();
+                if (focusable.length === 0) return;
+                const first = focusable[0];
+                const last = focusable[focusable.length - 1];
+                if (e.shiftKey && document.activeElement === first) {
+                    e.preventDefault();
+                    last.focus();
+                } else if (!e.shiftKey && document.activeElement === last) {
+                    e.preventDefault();
+                    first.focus();
+                }
+            }
+        }
+
+        // Click on the dimmed backdrop (not the sheet itself) closes the modal.
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) hideDetails();
+        });
+    </script>
+</body>
+</html>
