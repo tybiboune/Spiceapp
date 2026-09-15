@@ -5307,5 +5307,905 @@
    "Fixe un signal précis (une lampe allumée, un mot chuchoté) qu'elle peut utiliser une seule fois dans la nuit pour te demander une vraie pause de sommeil, sans jugement si elle l'utilise.",
    "Inverse les rôles la fois suivante : c'est elle qui décide de te tenir éveillé, par surprise, toute une nuit."
   ]
+ },
+ {
+  "actionTitle": "Le petit-déjeuner au lit imposé",
+  "text": "Un dimanche, réveille-toi avant elle, prépare un petit-déjeuner simple et apporte-le au lit en disant : 'Aujourd'hui, tu ne te lèves pas avant d'avoir fini ça.'",
+  "effect": "Elle démarre sa journée de repos sans aucun effort à fournir, ce qui la fait se sentir choyée dès le réveil. Ce petit rituel devient vite un moment attendu qui marque le début du dimanche comme différent des autres jours.",
+  "sectionTitle": "Les rituels du dimanche",
+  "predictable": "Chacun se lève et gère son petit-déjeuner de son côté",
+  "themes": [
+   "Care",
+   "Tender",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Prépare un plateau avec juste un fruit et un café, et pose-le sur la table de chevet avant qu'elle n'ouvre les yeux.",
+   "Réveille-la doucement avec l'odeur du café qui infuse, sans un mot, et laisse-la venir à la cuisine à son rythme."
+  ]
+ },
+ {
+  "actionTitle": "La sieste programmée",
+  "text": "Un dimanche après-midi, ferme les rideaux, éteins ton téléphone et dis : 'On dort une heure, ensemble, là, maintenant. Rien d'autre au programme.'",
+  "effect": "Elle ressent que tu protèges activement un temps de repos partagé plutôt que de le laisser au hasard des envies individuelles. Ce moment devient un cocon protégé du reste de la semaine.",
+  "sectionTitle": "Les rituels du dimanche",
+  "predictable": "Chacun fait sa sieste séparément quand la fatigue arrive",
+  "themes": [
+   "Tender",
+   "Intimacy",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Propose une sieste sans dormir : juste s'allonger l'un contre l'autre en silence pendant vingt minutes.",
+   "Mets une musique douce spécifique à ce moment, qui devient au fil du temps le signal du rituel."
+  ]
+ },
+ {
+  "actionTitle": "Le bilan de la semaine sur le balcon",
+  "text": "Chaque dimanche soir, sors deux chaises ou une couverture dehors et demande : 'Le meilleur et le pire moment de la semaine, chacun son tour.'",
+  "effect": "Elle prend l'habitude de clôturer la semaine consciemment plutôt que de glisser directement dans la suivante sans y penser. Ce rituel régulier construit un espace fixe pour se raconter, même les semaines chargées.",
+  "sectionTitle": "Les rituels du dimanche",
+  "predictable": "La semaine s'enchaîne sans jamais être vraiment refermée ensemble",
+  "themes": [
+   "Connection",
+   "Communication",
+   "Nostalgia"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Faites-le en marchant plutôt qu'assis, la parole vient parfois plus facilement en mouvement.",
+   "Ajoutez une question bonus : 'Un truc pour la semaine prochaine qu'on pourrait faire différemment ?'"
+  ]
+ },
+ {
+  "actionTitle": "Le menu de la semaine en duo",
+  "text": "Un dimanche, installe-toi avec elle et un carnet : 'On planifie les repas ensemble cette semaine, chacun propose une idée qu'on n'a jamais essayée.'",
+  "effect": "Elle ressent que l'organisation du quotidien devient un projet partagé plutôt qu'une charge qui retombe sur une seule personne. L'introduction de nouveauté casse la routine des mêmes plats qui reviennent.",
+  "sectionTitle": "Les rituels du dimanche",
+  "predictable": "Le repas du soir se décide au dernier moment, seul devant le frigo",
+  "themes": [
+   "Connection",
+   "Care",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Tirez au sort une cuisine du monde à explorer chaque semaine, à partir d'une liste écrite ensemble.",
+   "Alternez : une semaine sur deux, chacun compose seul le menu en surprise pour l'autre."
+  ]
+ },
+ {
+  "actionTitle": "La playlist du dimanche",
+  "text": "Un dimanche matin, dis : 'Aujourd'hui c'est toi qui choisis la musique de la maison, du réveil au coucher.'",
+  "effect": "Elle prend le contrôle de l'ambiance sonore de la journée, ce qui la valorise et te permet de découvrir ses goûts sous un jour nouveau. Ce petit geste transforme une journée ordinaire en journée qui porte sa signature.",
+  "sectionTitle": "Les rituels du dimanche",
+  "predictable": "La musique de fond est choisie par automatisme, toujours la même",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Alternez chaque chanson entre vos deux choix, en vous laissant surprendre par les transitions.",
+   "Demande-lui de composer une playlist 'de son adolescence' et écoutez-la ensemble en devinant les souvenirs."
+  ]
+ },
+ {
+  "actionTitle": "La pierre qui voyage",
+  "text": "Trouve un petit galet ou objet discret et glisse-le dans sa poche, son sac ou sa trousse sans un mot. Quand elle le retrouve, laisse planer le mystère sur sa signification.",
+  "effect": "Elle découvre un objet sans contexte immédiat, ce qui déclenche une curiosité amusée plutôt qu'une explication directe. L'objet devient au fil du temps un symbole discret entre vous, sans jamais avoir besoin d'être expliqué complètement.",
+  "sectionTitle": "Le langage des objets",
+  "predictable": "Aucun objet ni symbole partagé, seulement des mots",
+  "themes": [
+   "Mysterious",
+   "Playful",
+   "Secret Language"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Choisis un objet lié à un souvenir précis et laisse-la deviner lequel avant de lui révéler.",
+   "Renouvelle le geste avec un objet différent chaque mois, sans jamais expliquer la logique du choix."
+  ]
+ },
+ {
+  "actionTitle": "Le livre annoté",
+  "text": "Offre-lui un livre dans lequel tu as souligné une phrase et écrit en marge pourquoi elle t'a fait penser à elle.",
+  "effect": "Elle découvre ta pensée intégrée directement dans un objet culturel que vous pourrez discuter plus tard, ce qui mélange intimité et stimulation intellectuelle. La marge annotée devient une trace tangible de ton attention portée à elle.",
+  "sectionTitle": "Le langage des objets",
+  "predictable": "Le livre est offert sans aucune trace personnelle à l'intérieur",
+  "themes": [
+   "Poetic",
+   "Intellectual",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Souligne plusieurs passages dans des livres différents au fil des mois, créant une bibliothèque annotée rien que pour elle.",
+   "Glisse un petit mot manuscrit entre deux pages précises, à découvrir seulement si elle lit jusque-là."
+  ]
+ },
+ {
+  "actionTitle": "Le tiroir des souvenirs",
+  "text": "Installe une petite boîte ou un tiroir dédié où vous glissez chacun, au fil du temps, un ticket, une photo ou un objet lié à un moment fort vécu ensemble.",
+  "effect": "Elle voit se construire physiquement une mémoire commune, accessible à tout moment plutôt que dispersée dans les téléphones. Ce rituel donne une matérialité tangible à votre histoire qui grandit avec le temps.",
+  "sectionTitle": "Le langage des objets",
+  "predictable": "Les souvenirs restent dispersés dans les photos du téléphone, jamais regroupés",
+  "themes": [
+   "Nostalgia",
+   "Connection",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Fixez un rendez-vous annuel pour ouvrir la boîte ensemble et redécouvrir son contenu.",
+   "Ajoutez une règle : chaque objet doit être accompagné d'une phrase écrite expliquant pourquoi il compte."
+  ]
+ },
+ {
+  "actionTitle": "Le vêtement emprunté sans le dire",
+  "text": "Porte discrètement un de ses vêtements ou accessoires un jour où elle ne s'y attend pas, et laisse-la le remarquer elle-même.",
+  "effect": "Elle découvre une preuve inattendue que tu portes une part d'elle avec toi, ce qui crée un moment ludique et touchant. La surprise de la découverte compte autant que le geste lui-même.",
+  "sectionTitle": "Le langage des objets",
+  "predictable": "Vos affaires restent toujours strictement séparées",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Intimacy"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Emprunte discrètement son parfum plutôt qu'un vêtement, pour qu'elle le remarque en te serrant contre elle.",
+   "Laisse volontairement un de tes vêtements chez elle avec un mot : 'Pour que je reste un peu, même absent.'"
+  ]
+ },
+ {
+  "actionTitle": "La carte au trésor du quotidien",
+  "text": "Un soir ordinaire, laisse une série de trois petits mots dans la maison, chacun menant au suivant, jusqu'au dernier qui annonce une attention simple qui l'attend.",
+  "effect": "Elle vit un moment ludique et inattendu dans un cadre pourtant familier, ce qui transforme une soirée banale en petite aventure. L'effort investi dans la mise en scène, même minime, prouve une attention particulière portée à ce moment précis.",
+  "sectionTitle": "Le langage des objets",
+  "predictable": "L'attention est offerte directement, sans aucune mise en scène",
+  "themes": [
+   "Playful",
+   "Mysterious",
+   "Care"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 2,
+  "variations": [
+   "Réduis la chasse à deux indices seulement pour une version express en dix minutes.",
+   "Fais mener la chasse jusqu'à un mot final qui annonce simplement un massage ou un moment de calme prévu pour elle."
+  ]
+ },
+ {
+  "actionTitle": "Le défi de la semaine sans plainte",
+  "text": "Proposez-vous mutuellement un défi d'une semaine : ne vous plaindre d'aucune contrariété mineure devant l'autre, et voir qui craque en premier, avec un gage ludique à la clé.",
+  "effect": "Ce défi transforme une habitude parfois lourde en jeu avec enjeu léger, ce qui allège l'atmosphère du quotidien. Elle perçoit un objectif commun amusant plutôt qu'une contrainte imposée, ce qui renforce la complicité.",
+  "sectionTitle": "Les défis à deux",
+  "predictable": "Les petites contrariétés du quotidien sont exprimées sans filtre, en continu",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Remplacez la plainte interdite par une règle inverse : chacun doit trouver une chose positive à dire chaque soir.",
+   "Fixez le gage à l'avance, ludique et assumé, comme préparer le dîner ou masser les pieds de l'autre."
+  ]
+ },
+ {
+  "actionTitle": "Le défi culinaire à l'aveugle",
+  "text": "Choisissez chacun trois ingrédients inconnus de l'autre et lancez-vous un défi de cuisine improvisée le même soir, dans des casseroles séparées, à déguster ensuite en jury croisé.",
+  "effect": "Elle vit un moment ludique et créatif qui casse la routine des repas habituels, avec une dose de compétition amicale qui pimente la soirée. Le résultat, réussi ou raté, devient une anecdote partagée qui nourrit votre mémoire commune.",
+  "sectionTitle": "Les défis à deux",
+  "predictable": "Le repas du soir se prépare en routine, sans enjeu ni surprise",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Imposez un temps limite de vingt minutes pour intensifier le chaos ludique de l'exercice.",
+   "Faites goûter les plats les yeux bandés et devinez qui a préparé quoi."
+  ]
+ },
+ {
+  "actionTitle": "Le défi du silence complice",
+  "text": "Passez une soirée entière sans un mot, en communiquant uniquement par gestes, regards et petits mots écrits, jusqu'au moment où l'un de vous craque.",
+  "effect": "Cette contrainte inhabituelle force une attention accrue au langage non-verbal, souvent négligé dans le flot des conversations quotidiennes. Elle ressent une connexion différente, plus sensorielle, qui casse radicalement la routine des échanges habituels.",
+  "sectionTitle": "Les défis à deux",
+  "predictable": "La soirée se déroule avec une conversation continue et habituelle",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Intimacy"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 2,
+  "variations": [
+   "Limitez le silence à une heure précise plutôt qu'à toute la soirée, pour une version plus courte.",
+   "Autorisez uniquement les messages écrits sur un carnet partagé, pas les gestes, pour changer la dynamique."
+  ]
+ },
+ {
+  "actionTitle": "Le défi des inconnus",
+  "text": "Lancez-vous le défi, lors d'une sortie, de complimenter chacun un inconnu de façon sincère et anonyme, puis comparez vos expériences respectives ensuite.",
+  "effect": "Ce défi partagé crée une aventure commune hors de votre bulle habituelle, tout en cultivant chez vous deux une générosité tournée vers l'extérieur. Elle découvre une facette sociale et audacieuse de toi qu'elle ne voit pas forcément au quotidien.",
+  "sectionTitle": "Les défis à deux",
+  "predictable": "Les sorties se déroulent sans interaction particulière avec les inconnus croisés",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Remplacez le compliment à un inconnu par un petit geste anonyme, comme payer un café à la personne suivante.",
+   "Faites-le uniquement par message, en laissant un mot positif quelque part dans un lieu public."
+  ]
+ },
+ {
+  "actionTitle": "Le défi du deuxième souffle",
+  "text": "Un soir où vous êtes tous les deux fatigués et tentés par le canapé, lancez-vous le défi de sortir quand même vingt minutes dehors, peu importe où, avant de vous poser.",
+  "effect": "Elle ressent que tu refuses la facilité de la routine même dans les moments de fatigue, ce qui montre un engagement actif envers votre dynamique de couple. Ce petit effort partagé crée souvent un regain d'énergie inattendu pour la suite de la soirée.",
+  "sectionTitle": "Les défis à deux",
+  "predictable": "La fatigue du soir mène systématiquement à s'affaler devant un écran",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Fixez une règle simple : dès que l'un propose 'deuxième souffle', l'autre ne peut pas refuser.",
+   "Transformez la sortie en mini-défi : marcher jusqu'à un point précis du quartier jamais exploré ensemble."
+  ]
+ },
+ {
+  "actionTitle": "Le mot qui traverse les saisons",
+  "text": "Choisis une phrase courte qui vous représente et écris-la discrètement à un endroit fixe de la maison que vous croisez chaque jour, en la renouvelant chaque saison.",
+  "effect": "Elle croise ce mot régulièrement sans qu'il devienne invisible grâce au renouvellement saisonnier, ce qui entretient une présence affective continue et discrète. Ce petit rituel marque le passage du temps ensemble de façon douce et récurrente.",
+  "sectionTitle": "L'attention qui dure",
+  "predictable": "Aucun message fixe n'existe dans l'espace partagé de la maison",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Utilise un tableau effaçable dans la cuisine plutôt qu'un endroit fixe, pour renouveler le mot plus librement.",
+   "Change la phrase à chaque anniversaire de rencontre plutôt qu'à chaque saison, pour marquer une autre temporalité."
+  ]
+ },
+ {
+  "actionTitle": "Le carnet de gratitude croisé",
+  "text": "Installez un carnet commun où chacun écrit, une fois par semaine sans se concerter, une chose précise pour laquelle il est reconnaissant envers l'autre.",
+  "effect": "Elle découvre régulièrement des preuves concrètes de ce qui est apprécié chez elle, au-delà des compliments oraux qui s'oublient vite. Ce carnet devient, avec le temps, un témoignage cumulatif de votre histoire qu'on peut relire dans les moments de doute.",
+  "sectionTitle": "L'attention qui dure",
+  "predictable": "La reconnaissance mutuelle s'exprime seulement à l'oral, de façon ponctuelle",
+  "themes": [
+   "Care",
+   "Connection",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Fixez une date de relecture annuelle du carnet ensemble, comme un petit rituel d'anniversaire.",
+   "Ajoutez une règle : jamais deux fois la même chose, pour forcer une attention renouvelée chaque semaine."
+  ]
+ },
+ {
+  "actionTitle": "Le jour dédié sans condition",
+  "text": "Choisis un jour fixe du mois où, quoi qu'il arrive, tu consacres une heure entière et sans téléphone entièrement à ce qu'elle a envie de faire, sans négociation.",
+  "effect": "Elle ressent une garantie stable d'attention exclusive, indépendante des aléas de la charge mentale ou du travail. Cette régularité construit une confiance profonde dans la continuité de ton engagement, au-delà des gestes ponctuels.",
+  "sectionTitle": "L'attention qui dure",
+  "predictable": "Le temps ensemble dépend entièrement de la disponibilité du moment",
+  "themes": [
+   "Care",
+   "Connection",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Faites tourner le jour dédié entre vous deux, un mois pour elle, un mois pour toi.",
+   "Ajoutez un rituel de clôture, comme un dessert ou une boisson spécifique, qui marque la fin de cette heure."
+  ]
+ },
+ {
+  "actionTitle": "La liste des petites choses remarquées",
+  "text": "Note discrètement, sur plusieurs semaines, chaque petit détail que tu remarques chez elle (une habitude, une expression, un geste), puis offre-lui la liste complète un jour choisi.",
+  "effect": "Elle reçoit la preuve cumulative d'une observation attentive et continue, bien plus marquante qu'un compliment isolé. La liste révèle une attention portée à des détails qu'elle pensait invisibles, ce qui la touche profondément.",
+  "sectionTitle": "L'attention qui dure",
+  "predictable": "Les compliments restent ponctuels et génériques, oubliés rapidement",
+  "themes": [
+   "Tender",
+   "Compliment",
+   "Adoration"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Limite la liste à dix éléments précis plutôt qu'une accumulation longue, pour un effet plus concentré.",
+   "Offre la liste sous forme de petits papiers pliés dans un bocal, à piocher un par un sur plusieurs jours."
+  ]
+ },
+ {
+  "actionTitle": "Le rituel de fin d'année",
+  "text": "À la fin de chaque année, installez-vous ensemble pour écrire trois souhaits pour l'année suivante, à sceller dans une enveloppe ouverte l'année d'après.",
+  "effect": "Elle construit avec toi une vision projetée dans le temps, ce qui ancre votre relation dans une continuité au-delà du quotidien immédiat. La relecture différée crée un rendez-vous annuel chargé d'émotion et de bilan partagé.",
+  "sectionTitle": "L'attention qui dure",
+  "predictable": "Le passage à la nouvelle année se fête sans réflexion sur l'année suivante",
+  "themes": [
+   "Connection",
+   "Nostalgia",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ajoutez une photo de vous deux dans l'enveloppe, à redécouvrir en même temps que les souhaits.",
+   "Faites-le sous forme de lettre l'un pour l'autre plutôt que de souhaits personnels séparés."
+  ]
+ },
+ {
+  "actionTitle": "La journée à l'envers",
+  "text": "Un dimanche, inversez complètement vos rôles habituels du quotidien (qui cuisine, qui décide, qui organise) pendant toute la journée, sans négociation.",
+  "effect": "Elle découvre une perspective différente sur les tâches et décisions habituelles, ce qui crée empathie et légèreté autour de la répartition du quotidien. Le contraste avec la routine habituelle rend la journée mémorable et souvent drôle.",
+  "sectionTitle": "Le jeu des rôles inversés",
+  "predictable": "Chacun garde son rôle habituel, jour après jour, sans jamais y déroger",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Limitez l'inversion à un seul repas plutôt qu'à toute la journée, pour une version plus légère.",
+   "Ajoutez une contrainte comique : celui qui reprend son rôle habituel par réflexe doit un gage."
+  ]
+ },
+ {
+  "actionTitle": "Le patron d'un soir",
+  "text": "Un soir, dis-lui en souriant : 'Ce soir, tu es ma cheffe. Je suis à tes ordres, dans les limites du raisonnable.'",
+  "effect": "Elle expérimente une position de contrôle ludique rarement occupée, ce qui est libérateur et amusant précisément parce que ce n'est pas la norme habituelle. Le contraste avec ton leadership habituel rend le jeu d'autant plus stimulant.",
+  "sectionTitle": "Le jeu des rôles inversés",
+  "predictable": "La répartition des décisions du soir reste toujours la même",
+  "themes": [
+   "Playful",
+   "Dominance",
+   "Confidence"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 2,
+  "variations": [
+   "Fixez une limite de temps claire, comme une heure, pour garder le jeu léger et défini.",
+   "Ajoutez une règle : elle doit donner au moins trois ordres différents pendant la soirée."
+  ]
+ },
+ {
+  "actionTitle": "L'entretien d'embauche inversé",
+  "text": "Jouez une scène où elle doit te 'recruter' pour le poste de partenaire, en te posant des questions sérieuses sur tes qualifications avec un sérieux volontairement exagéré.",
+  "effect": "Ce jeu de rôle transforme une réflexion potentiellement sérieuse sur la relation en moment léger et drôle, tout en laissant filtrer des vérités sincères sous couvert d'humour. Elle rit tout en apprenant des choses authentiques sur ce que tu penses lui apporter.",
+  "sectionTitle": "Le jeu des rôles inversés",
+  "predictable": "Les qualités de chacun dans la relation restent rarement verbalisées",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Communication"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 2,
+  "variations": [
+   "Inversez les rôles ensuite, c'est à ton tour de l'interroger sur ses 'qualifications'.",
+   "Ajoutez une fausse lettre de motivation écrite à l'avance, lue à voix haute pendant l'entretien."
+  ]
+ },
+ {
+  "actionTitle": "Le professeur d'un jour",
+  "text": "Demande-lui de t'enseigner quelque chose qu'elle maîtrise et que tu ne connais pas, en jouant sérieusement le rôle de l'élève pendant toute la leçon.",
+  "effect": "Elle occupe une position de compétence et d'autorité rarement mise en avant dans le quotidien, ce qui valorise ses connaissances propres. Ce moment inverse la dynamique habituelle et lui permet de se sentir admirée pour son savoir plutôt que pour son apparence.",
+  "sectionTitle": "Le jeu des rôles inversés",
+  "predictable": "Ses compétences spécifiques restent rarement mises en avant ou sollicitées",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Filmez discrètement un extrait de la leçon pour en garder une trace amusante.",
+   "Inversez ensuite les rôles, c'est toi qui lui enseignes quelque chose que tu maîtrises."
+  ]
+ },
+ {
+  "actionTitle": "Le client mystère",
+  "text": "Dans un lieu que vous fréquentez souvent ensemble, jouez le jeu d'être des inconnus qui se rencontrent pour la première fois, avec de nouveaux prénoms inventés.",
+  "effect": "Ce jeu de rôle réactive artificiellement l'excitation de la première rencontre, souvent diluée par les années de familiarité. Elle redécouvre le frisson de te séduire à nouveau, ce qui ravive une tension positive dans la relation.",
+  "sectionTitle": "Le jeu des rôles inversés",
+  "predictable": "Les sorties se déroulent toujours avec vos identités et votre histoire habituelles",
+  "themes": [
+   "Playful",
+   "Flirty",
+   "Mysterious"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Fixez une règle : rester dans le personnage jusqu'à la fin de la sortie, sans jamais en sortir.",
+   "Inventez chacun une fausse anecdote de vie à raconter pendant le jeu, pour pimenter l'improvisation."
+  ]
+ },
+ {
+  "actionTitle": "Le rendez-vous surprise chronométré",
+  "text": "Envoie-lui un message : 'Sois prête dans 45 minutes, tenue confortable, je m'occupe du reste.' Prépare une activité simple mais inattendue près de chez vous.",
+  "effect": "La contrainte de temps courte empêche toute anticipation excessive tout en garantissant une vraie rupture avec la routine de la soirée. Elle ressent que tu es capable d'improviser une attention spéciale même sans préparation de plusieurs jours.",
+  "sectionTitle": "Les surprises calculées",
+  "predictable": "Les sorties se planifient toujours plusieurs jours à l'avance, sans spontanéité",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Leadership"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Réduis le délai à vingt minutes pour une version encore plus spontanée.",
+   "Ajoute un indice vestimentaire précis (une couleur, un accessoire) pour intensifier la curiosité."
+  ]
+ },
+ {
+  "actionTitle": "La surprise en trois étapes",
+  "text": "Prépare une soirée en trois temps distincts, révélés un par un au fil de la soirée sans jamais annoncer le programme complet à l'avance.",
+  "effect": "Elle vit une soirée rythmée par des surprises successives plutôt qu'un seul événement, ce qui prolonge la sensation de nouveauté sur toute la durée. Chaque étape relance une anticipation fraîche, évitant l'effet d'un simple pic isolé de surprise.",
+  "sectionTitle": "Les surprises calculées",
+  "predictable": "La soirée suit un déroulé annoncé entièrement à l'avance",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Romantic"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 2,
+  "variations": [
+   "Gardez chaque étape courte (vingt minutes maximum) pour un format dynamique et léger.",
+   "Terminez la troisième étape par un retour à la maison où une dernière petite surprise attend, discrète."
+  ]
+ },
+ {
+  "actionTitle": "Le faux empêchement",
+  "text": "Annonce que tu ne pourras pas être disponible un soir précis pour une raison plausible, puis surprends-la en annulant ce prétexte pour une soirée organisée en secret.",
+  "effect": "Le contraste entre la déception anticipée et la surprise finale amplifie considérablement l'effet du geste, bien plus qu'une annonce directe. Elle ressent un soulagement joyeux qui intensifie sa gratitude et son attention pour la soirée qui suit.",
+  "sectionTitle": "Les surprises calculées",
+  "predictable": "Les disponibilités sont toujours annoncées avec exactitude, sans mise en scène",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Mysterious"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 2,
+  "variations": [
+   "Limite ce type de surprise à une ou deux fois par an pour préserver son effet et éviter la méfiance.",
+   "Fais intervenir un proche complice pour renforcer la crédibilité du faux empêchement."
+  ]
+ },
+ {
+  "actionTitle": "La surprise déléguée",
+  "text": "Demande à une amie proche d'elle de l'emmener quelque part sous un faux prétexte, pour qu'elle te retrouve finalement, toi, à la destination réelle.",
+  "effect": "Elle découvre que tu as orchestré un vrai plan avec la complicité d'autres personnes, ce qui prouve un investissement organisationnel rare. La surprise implique tout un scénario pensé pour elle, pas juste un message ou un geste improvisé.",
+  "sectionTitle": "Les surprises calculées",
+  "predictable": "Les surprises restent toujours organisées seul, sans complicité extérieure",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Romantic"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 2,
+  "variations": [
+   "Simplifiez le scénario avec un seul complice plutôt qu'un enchaînement complexe, pour limiter les risques de ratage.",
+   "Faites intervenir un message vocal enregistré à l'avance qui la guide vers la destination finale."
+  ]
+ },
+ {
+  "actionTitle": "La surprise sans occasion",
+  "text": "Choisis une date totalement neutre, sans anniversaire ni fête, pour organiser une surprise, et précise explicitement : 'Aucune raison particulière, juste l'envie.'",
+  "effect": "En dissociant volontairement la surprise de toute obligation calendaire, tu prouves que ton attention n'est pas dictée par les conventions mais par un choix libre. Elle ressent une valorisation d'autant plus forte que rien ne t'y obligeait.",
+  "sectionTitle": "Les surprises calculées",
+  "predictable": "Les attentions particulières se concentrent uniquement sur les dates obligées",
+  "themes": [
+   "Romantic",
+   "Care",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Choisis délibérément un mardi ou mercredi ordinaire, jour le moins associé aux sorties spéciales.",
+   "Accompagne la surprise d'un mot précisant explicitement l'absence d'occasion particulière, pour souligner le geste gratuit."
+  ]
+ },
+ {
+  "actionTitle": "La main qui rassure en public",
+  "text": "Dans une situation sociale où elle semble tendue (repas de famille, réunion d'amis), pose discrètement ta main sur son genou sous la table, sans un mot ni un regard appuyé.",
+  "effect": "Ce contact discret transmet un soutien silencieux sans attirer l'attention extérieure, ce qui la rassure sans jamais l'exposer publiquement. Elle ressent une alliance tacite entre vous deux, un rappel que tu es de son côté même en société.",
+  "sectionTitle": "Le corps qui parle",
+  "predictable": "Le soutien dans les moments sociaux tendus reste uniquement verbal, après coup",
+  "themes": [
+   "Care",
+   "Connection",
+   "Intimacy"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 2,
+  "variations": [
+   "Pose ta main dans le bas de son dos un instant, un geste bref pour lui rappeler ta présence sans un mot.",
+   "Effleure discrètement son épaule en passant derrière elle, juste assez pour qu'elle le remarque sans que personne d'autre ne le voie."
+  ]
+ },
+ {
+  "actionTitle": "Le front contre le sien",
+  "text": "Un moment calme, prends son visage entre tes mains et pose ton front contre le sien quelques secondes, en silence, sans chercher à l'embrasser.",
+  "effect": "Ce contact frontal, plus rare qu'un baiser, crée une proximité presque méditative qui ralentit le rythme du moment. Elle ressent une connexion intense sans la charge habituelle du désir, ce qui touche un registre différent et profond.",
+  "sectionTitle": "Le corps qui parle",
+  "predictable": "La proximité physique passe presque toujours par un baiser ou une étreinte classique",
+  "themes": [
+   "Intimacy",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Prends ses mains dans les tiennes et restez simplement face à face quelques secondes, sans parler.",
+   "Pose ta tête sur son épaule en silence pendant un moment, sans chercher à initier autre chose."
+  ]
+ },
+ {
+  "actionTitle": "Le pas ralenti",
+  "text": "En marchant côte à côte, ralentis volontairement ton pas pour rester exactement à sa hauteur, même si ton rythme naturel est plus rapide.",
+  "effect": "Ce léger ajustement physique, presque invisible, montre une attention constante à son rythme plutôt qu'au tien. Elle ressent inconsciemment que tu t'adaptes à elle plutôt que l'inverse, ce qui construit un sentiment d'équilibre dans la relation.",
+  "sectionTitle": "Le corps qui parle",
+  "predictable": "Chacun marche à son propre rythme, sans ajustement particulier à l'autre",
+  "themes": [
+   "Care",
+   "Connection",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Adapte ton pas au sien sans le lui dire, juste en restant naturellement à sa hauteur.",
+   "Si elle accélère, accélère avec elle ; si elle ralentit, ralentis aussi, sans jamais le commenter."
+  ]
+ },
+ {
+  "actionTitle": "La chaleur transmise",
+  "text": "Un soir frais, retire ta veste ou ton pull et pose-le sur ses épaules sans lui demander si elle a froid, juste en le faisant.",
+  "effect": "Ce geste anticipé plutôt que réactif prouve une attention portée à son confort avant même qu'elle n'exprime un besoin. Elle ressent une prévenance silencieuse, plus marquante qu'une question polie sur son état.",
+  "sectionTitle": "Le corps qui parle",
+  "predictable": "Le confort de l'autre se vérifie toujours par une question directe",
+  "themes": [
+   "Care",
+   "Tender",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ouvre ton bras pour l'inviter à se blottir contre toi sans un mot, juste le geste qui l'invite.",
+   "Frotte doucement ses bras pour la réchauffer un instant avant de lui céder ta veste."
+  ]
+ },
+ {
+  "actionTitle": "Le souffle partagé",
+  "text": "Allongés l'un contre l'autre en silence, cale doucement ta respiration sur la sienne pendant quelques minutes, sans rien dire.",
+  "effect": "Synchroniser sa respiration avec la sienne crée un lien physiologique subtil qui renforce le sentiment de fusion et de calme partagé. Elle ressent une connexion presque méditative, rarement atteinte dans les interactions plus verbales du quotidien.",
+  "sectionTitle": "Le corps qui parle",
+  "predictable": "Les moments de repos côte à côte se passent sans intention particulière",
+  "themes": [
+   "Intimacy",
+   "Tender",
+   "Sensory"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pose ta main sur sa poitrine pour sentir sa respiration, et laisse la tienne s'y accorder doucement.",
+   "Chuchote-lui de respirer profondément avec toi, comme un petit exercice complice avant de dormir."
+  ]
+ },
+ {
+  "actionTitle": "La peur avouée",
+  "text": "Dans un moment calme, dis-lui une peur sincère que tu as rarement formulée à voix haute, sans lui demander de la résoudre, juste de l'entendre.",
+  "effect": "Partager une vulnérabilité réelle plutôt qu'une plainte superficielle construit une intimité émotionnelle rare et précieuse. Elle se sent digne de ta confiance la plus intime, ce qui approfondit considérablement votre lien.",
+  "sectionTitle": "Les mots qu'on n'ose pas dire",
+  "predictable": "Les peurs profondes restent tues, seules les contrariétés du quotidien sont partagées",
+  "themes": [
+   "Vulnerability",
+   "Connection",
+   "Intimacy"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Partage une peur liée à l'avenir plutôt qu'au présent, pour ouvrir une conversation plus large sur vos projets.",
+   "Commence par 'Je ne te l'ai jamais dit, mais...' pour signaler l'importance du moment avant de te livrer."
+  ]
+ },
+ {
+  "actionTitle": "L'admiration jamais dite",
+  "text": "Dis-lui précisément ce que tu admires chez elle et que tu n'as jamais pris le temps de formuler clairement, sans minimiser ni plaisanter ensuite.",
+  "effect": "Formuler une admiration sincère sans l'atténuer par l'humour lui permet de la recevoir pleinement, sans distraction. Elle ressent une reconnaissance rare, débarrassée de la pudeur habituelle qui accompagne souvent ce genre de déclaration.",
+  "sectionTitle": "Les mots qu'on n'ose pas dire",
+  "predictable": "L'admiration s'exprime souvent de façon indirecte ou atténuée par l'humour",
+  "themes": [
+   "Vulnerability",
+   "Adoration",
+   "Connection"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Écris cette admiration plutôt que de la dire à voix haute, pour qu'elle puisse la relire plus tard.",
+   "Précise un exemple concret de comportement qui illustre cette admiration, pour la rendre plus tangible."
+  ]
+ },
+ {
+  "actionTitle": "Le remerciement tardif",
+  "text": "Remercie-la sincèrement pour quelque chose d'ancien qu'elle a fait pour toi et que tu n'as jamais vraiment reconnu sur le moment.",
+  "effect": "Ce remerciement différé montre que certains gestes du passé continuent de compter, bien après leur moment initial. Elle réalise que son geste, même oublié depuis, a eu un impact durable que tu portes encore aujourd'hui.",
+  "sectionTitle": "Les mots qu'on n'ose pas dire",
+  "predictable": "Les gestes du passé restent non reconnus une fois le moment passé",
+  "themes": [
+   "Vulnerability",
+   "Care",
+   "Nostalgia"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Rappelle un moment précis où elle t'a soutenu, et dis-lui à quel point ça a compté, même tardivement.",
+   "Écris ce remerciement dans un message plutôt qu'à l'oral, pour qu'elle puisse le garder et le relire."
+  ]
+ },
+ {
+  "actionTitle": "L'incertitude partagée",
+  "text": "Avoue-lui une incertitude que tu ressens sur un projet commun, sans chercher à paraître plus sûr de toi que tu ne l'es réellement.",
+  "effect": "Renoncer à l'image de certitude constante ouvre un espace de dialogue plus honnête sur les décisions à venir. Elle ressent que la relation peut accueillir le doute sans se fragiliser, ce qui renforce la confiance mutuelle sur le long terme.",
+  "sectionTitle": "Les mots qu'on n'ose pas dire",
+  "predictable": "Les doutes sur les projets communs restent cachés derrière une façade de certitude",
+  "themes": [
+   "Vulnerability",
+   "Communication",
+   "Connection"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Formule ton incertitude comme une question ouverte plutôt qu'une affirmation, pour l'inviter à réfléchir avec toi.",
+   "Précise que ce doute ne remet rien en cause fondamentalement, juste que tu voulais être honnête à ce sujet."
+  ]
+ },
+ {
+  "actionTitle": "La demande directe",
+  "text": "Formule clairement un besoin que tu exprimes rarement, sans détour ni minimisation, comme 'J'ai besoin de plus de temps rien qu'à nous deux.'",
+  "effect": "Exprimer un besoin sans détour, plutôt que de le laisser deviner ou de le sous-entendre, évite les malentendus et responsabilise la conversation. Elle apprécie la clarté d'une demande directe, plus facile à entendre et à satisfaire qu'un reproche implicite.",
+  "sectionTitle": "Les mots qu'on n'ose pas dire",
+  "predictable": "Les besoins non satisfaits s'expriment indirectement, par des sous-entendus ou de l'agacement",
+  "themes": [
+   "Vulnerability",
+   "Communication",
+   "Connection"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Formule ta demande en commençant par 'J'aimerais' plutôt que par un reproche déguisé en question.",
+   "Propose une solution concrète en même temps que le besoin exprimé, pour ouvrir sur une discussion constructive."
+  ]
+ },
+ {
+  "actionTitle": "Le trajet détourné",
+  "text": "Un jour où vous devez aller quelque part ensemble, propose un détour de dix minutes vers un endroit que vous n'avez jamais visité, sans raison particulière.",
+  "effect": "Ce petit détour injecte de la nouveauté dans un trajet autrement automatique et prévisible. Elle ressent une légèreté ludique face à cette rupture mineure mais volontaire de l'itinéraire habituel.",
+  "sectionTitle": "L'aventure du quotidien",
+  "predictable": "Les trajets habituels suivent toujours le même chemin, sans jamais dévier",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Choisis une rue au hasard sur le trajet et empruntez-la juste pour voir où elle mène.",
+   "Propose de prendre les transports en commun pour une fois, plutôt que votre trajet habituel."
+  ]
+ },
+ {
+  "actionTitle": "Le supermarché comme terrain de jeu",
+  "text": "Lors des courses, lance-lui un petit défi ludique, comme trouver l'ingrédient le plus surprenant du rayon pour improviser un plat ensemble ce soir-là.",
+  "effect": "Transformer une tâche routinière en jeu partagé casse la monotonie d'une activité souvent perçue comme une corvée. Elle vit un moment de complicité inattendu dans un cadre pourtant très ordinaire.",
+  "sectionTitle": "L'aventure du quotidien",
+  "predictable": "Les courses se font efficacement, sans aucun jeu ni interaction particulière",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Proposez-vous mutuellement de choisir un produit inconnu à tester ensemble ce soir.",
+   "Faites la course pour savoir qui trouve le premier tous les articles de la liste, avec un petit gage à la clé."
+  ]
+ },
+ {
+  "actionTitle": "La file d'attente réinventée",
+  "text": "Dans une file d'attente ennuyeuse, invente avec elle un petit jeu (deviner les métiers des gens autour, inventer leur histoire) pour transformer l'attente en moment amusant.",
+  "effect": "Ce petit jeu improvisé transforme un moment généralement subi et frustrant en complicité partagée. Elle ressent que même les situations les plus ennuyeuses peuvent devenir agréables grâce à votre dynamique commune.",
+  "sectionTitle": "L'aventure du quotidien",
+  "predictable": "Les moments d'attente se vivent dans l'ennui, chacun sur son téléphone",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Inventez à voix basse une histoire improbable sur une personne croisée dans la file.",
+   "Faites un pari discret sur le temps d'attente restant, avec un petit gage pour le perdant."
+  ]
+ },
+ {
+  "actionTitle": "Le ménage transformé",
+  "text": "Un jour de ménage, mets une musique entraînante et transforme la corvée en mini-chorégraphie improvisée avec elle, balai ou chiffon en main.",
+  "effect": "Injecter du jeu et du mouvement dans une tâche ménagère habituellement perçue comme fastidieuse allège la charge mentale associée. Elle associe désormais ce moment à du rire plutôt qu'à une simple obligation domestique.",
+  "sectionTitle": "L'aventure du quotidien",
+  "predictable": "Le ménage se fait dans le silence, comme une tâche purement fonctionnelle",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Transformez le rangement en compétition chronométrée, avec une récompense ludique à la clé.",
+   "Alternez les tâches de ménage en musique, chacun choisissant un morceau à son tour."
+  ]
+ },
+ {
+  "actionTitle": "L'attente du bus réinventée",
+  "text": "En attendant les transports ensemble, propose un jeu de mots ou d'associations d'idées qui dure jusqu'à l'arrivée du bus, sans téléphone.",
+  "effect": "Remplacer le réflexe du téléphone par une interaction directe transforme un temps mort en moment de connexion active. Elle ressent une présence pleine et engagée de ta part, plutôt qu'une distraction partagée en silence.",
+  "sectionTitle": "L'aventure du quotidien",
+  "predictable": "Les temps d'attente se passent chacun sur son téléphone, sans interaction",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Lancez un jeu où chacun doit continuer une histoire commencée par l'autre, phrase par phrase.",
+   "Proposez un jeu des catégories (villes, prénoms, films) le temps d'attendre le bus."
+  ]
+ },
+ {
+  "actionTitle": "Le café du mauvais côté",
+  "text": "Un matin, prépare le café ou le thé exactement à l'inverse de ce que tu fais d'habitude (elle le sert, toi tu le bois en premier pour une fois) et observe sa réaction amusée.",
+  "effect": "Inverser un détail minuscule d'une habitude bien ancrée suffit à faire remarquer et sourire, sans effort ni préparation particulière. Elle perçoit que même les gestes les plus automatiques peuvent être questionnés et réinventés par toi.",
+  "sectionTitle": "Les habitudes réinventées",
+  "predictable": "Les rituels du matin se répètent à l'identique, jour après jour, sans y penser",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Change l'ordre habituel du petit-déjeuner un matin, juste pour voir si elle le remarque.",
+   "Prépare son café dans une tasse inhabituelle un matin, sans explication, juste pour la surprendre."
+  ]
+ },
+ {
+  "actionTitle": "Le trajet du retour modifié",
+  "text": "Un soir, rentre par un chemin différent de celui que tu empruntes toujours, juste pour arriver avec une anecdote ou une observation nouvelle à lui raconter.",
+  "effect": "Changer volontairement un trajet automatique introduit une source de nouveauté minime mais authentique dans le récit du quotidien. Elle bénéficie d'une conversation plus vivante, nourrie par une observation fraîche plutôt que par la routine habituelle.",
+  "sectionTitle": "Les habitudes réinventées",
+  "predictable": "Le trajet du retour reste identique chaque jour, sans jamais varier",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Prends les transports plutôt que la voiture un jour, juste pour changer de perspective sur le trajet.",
+   "Arrête-toi à un endroit inhabituel sur le chemin du retour, juste pour rapporter quelque chose de nouveau à raconter."
+  ]
+ },
+ {
+  "actionTitle": "Le rituel du coucher inversé",
+  "text": "Un soir, propose d'inverser qui se couche en premier et qui éteint la lumière, un détail minuscule mais qui rompt une habitude bien ancrée.",
+  "effect": "Ce micro-changement dans un rituel figé depuis longtemps rappelle que même les habitudes les plus automatiques peuvent être questionnées avec légèreté. Elle remarque ce petit changement, ce qui suscite un sourire ou une remarque amusée qui brise la routine du soir.",
+  "sectionTitle": "Les habitudes réinventées",
+  "predictable": "Le rituel du coucher suit toujours exactement le même déroulé, sans variation",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Change de côté du lit pour une nuit, juste pour voir l'effet que ça fait à tous les deux.",
+   "Propose d'éteindre la lumière ensemble, en même temps, plutôt que l'un après l'autre comme d'habitude."
+  ]
+ },
+ {
+  "actionTitle": "Le petit-déjeuner debout",
+  "text": "Un dimanche, au lieu de s'asseoir comme d'habitude, proposez de prendre le petit-déjeuner debout dans la cuisine, en discutant, juste pour changer la dynamique du moment.",
+  "effect": "Ce changement de posture, aussi mineur soit-il, modifie la dynamique de la conversation et casse un automatisme bien installé. Elle vit un moment familier sous un angle légèrement différent, ce qui suffit à le rendre mémorable.",
+  "sectionTitle": "Les habitudes réinventées",
+  "predictable": "Le petit-déjeuner se prend toujours assis, à la même place, sans variation",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Prenez le petit-déjeuner sur le balcon ou dehors une fois, juste pour changer de décor.",
+   "Échangez vos places habituelles à table un matin, sans prévenir, juste pour voir la réaction."
+  ]
+ },
+ {
+  "actionTitle": "La musique du réveil changée",
+  "text": "Change la sonnerie ou la musique de réveil habituelle pour une chanson qui a un sens particulier pour vous deux, sans lui dire pourquoi tu l'as choisie.",
+  "effect": "Ce changement discret dans un détail purement fonctionnel du quotidien introduit une dimension symbolique cachée dans un rituel automatique. Elle découvre ce changement par surprise, et le sens caché derrière, une fois qu'elle le remarque ou le questionne.",
+  "sectionTitle": "Les habitudes réinventées",
+  "predictable": "La sonnerie du réveil reste toujours la même, sans signification particulière",
+  "themes": [
+   "Playful",
+   "Nostalgia",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Change ta propre sonnerie pour une chanson qui vous rappelle un souvenir précis, sans le préciser.",
+   "Propose de choisir ensemble une nouvelle chanson de réveil qui vous représente tous les deux."
+  ]
  }
 ]

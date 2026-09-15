@@ -3685,5 +3685,905 @@
    "La suite attendra ce soir, certaines phrases ne s'écrivent pas par message.",
    "Je préfère te dire la suite en personne, ce soir, dans le noir."
   ]
+ },
+ {
+  "actionTitle": "Le souvenir précis",
+  "text": "Je repensais à notre premier road trip, à ce moment où on s'est perdus et où on a fini par rire aux larmes plutôt que de stresser.",
+  "effect": "Ce rappel d'un souvenir précis, choisi pour sa charge émotionnelle positive, lui montre que tu chéris activement votre histoire commune. Elle ressent une continuité affective qui dépasse le présent immédiat.",
+  "sectionTitle": "SMS - Souvenirs partagés",
+  "predictable": "Aucune référence au passé commun dans les messages du quotidien",
+  "themes": [
+   "Nostalgia",
+   "Connection",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Je repensais à ce concert improvisé où on a fini par danser seuls sur le parking. Toujours un de mes souvenirs préférés.",
+   "Je suis retombé sur une photo de nos débuts aujourd'hui. On avait l'air tellement plus jeunes et déjà tellement amoureux."
+  ]
+ },
+ {
+  "actionTitle": "L'anniversaire discret",
+  "text": "Ça fait exactement le nombre de jours qu'il faut depuis notre premier message. Je garde le compte, apparemment.",
+  "effect": "Compter discrètement une date symbolique prouve une attention portée à votre histoire au-delà des anniversaires officiels. Elle ressent que votre relation compte suffisamment pour être mesurée dans le détail.",
+  "sectionTitle": "SMS - Souvenirs partagés",
+  "predictable": "Seules les grandes dates officielles (anniversaire, fête) sont célébrées",
+  "themes": [
+   "Nostalgia",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Je me suis surpris à calculer combien de dimanches on a passés ensemble. Le chiffre m'a fait sourire.",
+   "Petit rappel random : ça fait un bail qu'on se supporte mutuellement, et je ne regrette pas une miette."
+  ]
+ },
+ {
+  "actionTitle": "La citation retrouvée",
+  "text": "Tu te souviens de cette phrase que tu avais dite un soir, à moitié endormie ? Elle me revient encore parfois, je ne sais pas pourquoi.",
+  "effect": "Se souvenir d'une phrase précise, prononcée dans un moment banal, prouve une écoute attentive qui dépasse les grandes déclarations. Elle ressent que même ses mots les plus anodins comptent pour toi.",
+  "sectionTitle": "SMS - Souvenirs partagés",
+  "predictable": "Les paroles échangées se perdent dans le flux du quotidien, sans être retenues",
+  "themes": [
+   "Nostalgia",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Une de tes phrases d'il y a des mois me revient encore par moments. Tu as le don de dire des trucs qui restent.",
+   "Je repensais à une blague que tu avais faite, tellement absurde que j'y repense encore régulièrement."
+  ]
+ },
+ {
+  "actionTitle": "Le lieu qui compte",
+  "text": "Je suis passé devant l'endroit de notre premier date aujourd'hui. Ça m'a fait sourire tout seul dans la rue.",
+  "effect": "Réactiver un lieu chargé de sens en pleine journée normale relie le passé au présent de façon spontanée et sincère. Elle ressent que votre histoire est ancrée dans des lieux concrets qui continuent de résonner pour toi.",
+  "sectionTitle": "SMS - Souvenirs partagés",
+  "predictable": "Les lieux traversés au quotidien restent neutres, sans lien avec le passé commun",
+  "themes": [
+   "Nostalgia",
+   "Romantic",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Je suis repassé par le café de notre deuxième rendez-vous. Toujours aussi nul, mais j'ai un faible pour cet endroit maintenant.",
+   "Le quartier de notre ancien appartement me fait toujours quelque chose quand j'y repasse, à cause de toi surtout."
+  ]
+ },
+ {
+  "actionTitle": "Le running gag qui dure",
+  "text": "Je viens de recroiser un truc qui me fait penser à notre private joke la plus stupide. Tu sais laquelle. Toujours drôle après tout ce temps.",
+  "effect": "Réactiver un running gag partagé renforce le sentiment d'un langage commun construit dans la durée, propre à vous deux. Elle ressent une continuité amusante qui traverse le temps sans jamais s'épuiser.",
+  "sectionTitle": "SMS - Souvenirs partagés",
+  "predictable": "Les blagues internes s'oublient avec le temps, jamais réactivées",
+  "themes": [
+   "Playful",
+   "Nostalgia",
+   "Secret Language"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Toujours pas remis de cette private joke qu'on traîne depuis des années. On devrait la breveter.",
+   "Je viens de rire tout seul en repensant à notre blague récurrente. Toujours aussi bête, toujours aussi efficace."
+  ]
+ },
+ {
+  "actionTitle": "Le projet à deux voix",
+  "text": "J'ai commencé à regarder pour de vrai les appartements avec le balcon dont on parle depuis des mois. On en discute ce soir ?",
+  "effect": "Passer d'une idée évoquée en passant à une action concrète prouve un investissement réel dans un projet commun. Elle ressent que ton engagement dépasse les paroles et se traduit en démarches tangibles.",
+  "sectionTitle": "SMS - Le futur qu'on construit",
+  "predictable": "Les projets communs restent à l'état de simples discussions sans suite",
+  "themes": [
+   "Connection",
+   "Leadership",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "J'ai commencé une liste de destinations pour le voyage dont on parle depuis un moment. On regarde ça ensemble bientôt ?",
+   "J'ai calculé qu'on pourrait vraiment se permettre ce projet plus tôt que prévu. On en reparle ce soir ?"
+  ]
+ },
+ {
+  "actionTitle": "La date posée au calendrier",
+  "text": "Je viens de bloquer le week-end du mois prochain dans mon agenda, rien que pour nous. Prépare-toi à ne rien avoir de prévu.",
+  "effect": "Réserver concrètement une date dans le futur, sans attendre sa validation préalable, montre une intention ferme plutôt qu'une proposition vague. Elle ressent une priorité claire donnée à votre temps ensemble.",
+  "sectionTitle": "SMS - Le futur qu'on construit",
+  "predictable": "Le temps libre se décide toujours au dernier moment, sans anticipation",
+  "themes": [
+   "Leadership",
+   "Anticipation",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Je viens de poser des congés pour un jour précis dans deux mois. Aucune explication pour l'instant, juste garde la date.",
+   "J'ai réservé quelque chose pour dans trois semaines. Tu n'as rien à faire, juste à être disponible."
+  ]
+ },
+ {
+  "actionTitle": "La vision à dix ans",
+  "text": "Je me demandais à quoi ressemblerait notre dimanche matin dans dix ans. J'ai une petite idée qui me plaît bien.",
+  "effect": "Se projeter dans un futur lointain et concret rassure sur la solidité perçue de la relation, au-delà des préoccupations immédiates. Elle ressent que tu envisages sincèrement une continuité à long terme avec elle.",
+  "sectionTitle": "SMS - Le futur qu'on construit",
+  "predictable": "L'avenir à long terme reste un sujet évité ou vague",
+  "themes": [
+   "Romantic",
+   "Connection",
+   "Nostalgia"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Je m'imaginais notre vieillesse tout à l'heure, façon un peu ridicule. Ça m'a fait sourire, on a l'air heureux là-dedans.",
+   "J'ai pensé à un truc qu'on pourrait faire ensemble dans dix ans. Rappelle-moi de t'en parler ce soir."
+  ]
+ },
+ {
+  "actionTitle": "L'objectif partagé",
+  "text": "On devrait se fixer un petit défi ensemble pour l'année, un truc qu'on accomplit à deux d'ici décembre. J'ai une idée si tu es partante.",
+  "effect": "Proposer un objectif commun transforme la relation en projet actif partagé plutôt qu'un simple cadre de vie quotidien. Elle ressent une dynamique d'équipe qui dépasse la routine et donne une direction à l'année.",
+  "sectionTitle": "SMS - Le futur qu'on construit",
+  "predictable": "Les objectifs personnels restent séparés, sans projet commun explicite",
+  "themes": [
+   "Connection",
+   "Leadership",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Et si on se lançait un défi commun cette année, genre apprendre un truc ensemble ? J'ai deux idées en tête.",
+   "J'ai une idée de petit projet à deux pour les mois qui viennent. On en parle en dînant ?"
+  ]
+ },
+ {
+  "actionTitle": "Le futur qui rassure",
+  "text": "Peu importe ce qui arrive cette année, la seule chose dont je suis sûr, c'est de vouloir la traverser avec toi.",
+  "effect": "Cette affirmation simple mais ferme rassure sur la stabilité perçue de l'engagement, indépendamment des aléas extérieurs. Elle ressent une sécurité affective qui ne dépend pas des circonstances mais d'un choix assumé.",
+  "sectionTitle": "SMS - Le futur qu'on construit",
+  "predictable": "L'engagement dans la durée reste implicite, jamais formulé explicitement",
+  "themes": [
+   "Romantic",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Quoi qu'il se passe cette année, je sais juste que je veux être à tes côtés pour le vivre.",
+   "Il y a beaucoup d'incertitudes en ce moment, mais toi, tu restes ma certitude la plus solide."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur la voix",
+  "text": "Ta voix au téléphone tout à l'heure avait un truc apaisant, je crois que je pourrais l'écouter en fond toute la journée.",
+  "effect": "Complimenter un élément aussi spécifique que la voix, rarement souligné, prouve une attention sensorielle fine et sincère. Elle se sent valorisée dans un détail qu'elle ne pensait pas remarquable.",
+  "sectionTitle": "SMS - Compliments ciblés",
+  "predictable": "Les compliments restent génériques, sur l'apparence globale uniquement",
+  "themes": [
+   "Compliment",
+   "Tender",
+   "Sensory"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "J'ai adoré ta voix ce matin au téléphone, encore un peu endormie. Ça m'a mis de bonne humeur pour la journée.",
+   "Ta façon de rire au téléphone tout à l'heure, je pourrais l'écouter en boucle sans me lasser."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur la façon de penser",
+  "text": "J'ai relu ton message de ce matin trois fois, juste pour la façon dont tu as formulé les choses. Tu penses vraiment différemment des autres.",
+  "effect": "Valoriser sa manière de raisonner plutôt que son apparence physique touche une dimension plus profonde de sa personnalité. Elle ressent une reconnaissance intellectuelle qui nourrit sa confiance en elle sur le long terme.",
+  "sectionTitle": "SMS - Compliments ciblés",
+  "predictable": "Les compliments portent uniquement sur le physique, jamais sur l'esprit",
+  "themes": [
+   "Compliment",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "J'aime la façon dont tu abordes les problèmes, toujours sous un angle que je n'aurais pas eu.",
+   "Ta façon de raconter les choses rend même les histoires banales intéressantes. C'est un vrai talent."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur la patience",
+  "text": "Je ne te le dis pas assez, mais ta patience avec moi certains jours est franchement impressionnante.",
+  "effect": "Reconnaître explicitement une qualité de caractère souvent invisible, comme la patience, prouve une observation attentive de ses efforts silencieux. Elle ressent une validation rare, portant sur un effort qu'elle pensait passer inaperçu.",
+  "sectionTitle": "SMS - Compliments ciblés",
+  "predictable": "Les efforts de patience passent souvent inaperçus, jamais mentionnés",
+  "themes": [
+   "Compliment",
+   "Care",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ta capacité à rester calme dans des moments où je serais déjà à bout, c'est vraiment admirable.",
+   "Je remarque souvent ta patience sans le dire. Aujourd'hui je voulais que tu le saches."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur l'instinct",
+  "text": "Ton instinct est presque toujours juste, je devrais t'écouter plus souvent au lieu de trop réfléchir.",
+  "effect": "Reconnaître la justesse de son intuition valorise une forme d'intelligence souvent sous-estimée face à la réflexion rationnelle. Elle ressent une confiance accrue en ses propres décisions, validées explicitement par toi.",
+  "sectionTitle": "SMS - Compliments ciblés",
+  "predictable": "Les décisions rationnelles sont valorisées, l'intuition rarement reconnue",
+  "themes": [
+   "Compliment",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Tu avais raison depuis le début sur ce truc. Ton instinct me bluffe encore.",
+   "Je devrais faire plus confiance à ton flair, il ne se trompe presque jamais."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur l'énergie",
+  "text": "Ton énergie quand tu es passionnée par un sujet est contagieuse, je pourrais t'écouter en parler pendant des heures.",
+  "effect": "Complimenter son enthousiasme plutôt qu'un résultat précis valorise sa vitalité et sa capacité à s'investir pleinement. Elle ressent une admiration sincère pour une part d'elle-même qu'elle exprime rarement devant un public attentif.",
+  "sectionTitle": "SMS - Compliments ciblés",
+  "predictable": "L'enthousiasme exprimé reçoit rarement une réaction ou un retour explicite",
+  "themes": [
+   "Compliment",
+   "Passionate",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Te voir t'enflammer pour un sujet qui te passionne est une de mes choses préférées à observer.",
+   "Ton énergie quand tu racontes un truc qui t'excite illumine littéralement la pièce."
+  ]
+ },
+ {
+  "actionTitle": "La logistique détournée",
+  "text": "Je passe prendre le pain, le vin, et accessoirement toi ce soir dans mes pensées depuis ce matin.",
+  "effect": "Glisser une pensée affectueuse au milieu d'un message purement logistique surprend agréablement et casse la banalité de l'échange pratique. Elle reçoit un compliment inattendu emballé dans un message qu'elle attendait neutre.",
+  "sectionTitle": "SMS - Logistique",
+  "predictable": "Les messages logistiques restent strictement fonctionnels, sans aucune fantaisie",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Desire"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Je fais les courses, dis-moi si tu veux autre chose. Sinon je pense surtout à ce soir avec toi.",
+   "Je confirme le rendez-vous chez le garagiste. Et je confirme aussi que tu me manques déjà."
+  ]
+ },
+ {
+  "actionTitle": "Le rappel utile chargé",
+  "text": "N'oublie pas ton parapluie ce matin. Et n'oublie pas non plus que je pense à toi, ça n'a rien à voir mais c'est vrai aussi.",
+  "effect": "Associer un conseil pratique banal à une déclaration affectueuse casse la routine des messages purement fonctionnels. Elle ressent une attention qui dépasse largement le simple rappel météo.",
+  "sectionTitle": "SMS - Logistique",
+  "predictable": "Les rappels pratiques restent limités à l'information utile, rien de plus",
+  "themes": [
+   "Playful",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Prends une veste, il va faire frais ce soir. Et prends aussi le temps de penser un peu à moi, s'il te plaît.",
+   "N'oublie pas ton badge pour la réunion. Et sache que je t'envoie toute mon énergie pour aujourd'hui."
+  ]
+ },
+ {
+  "actionTitle": "La confirmation avec supplément",
+  "text": "Confirmé pour 19h ce soir. Bonus non contractuel : j'ai hâte comme un gamin la veille de Noël.",
+  "effect": "Ajouter une touche d'enthousiasme sincère à une simple confirmation logistique révèle une excitation authentique derrière l'organisation pratique. Elle perçoit que l'attente n'est pas qu'une formalité mais un vrai désir de vous retrouver.",
+  "sectionTitle": "SMS - Logistique",
+  "predictable": "Les confirmations de rendez-vous restent purement informatives",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "C'est bon pour 20h. Précision totalement inutile : je compte déjà les heures.",
+   "Rendez-vous confirmé comme prévu. Info bonus : je souris tout seul en l'écrivant."
+  ]
+ },
+ {
+  "actionTitle": "Le message technique détourné",
+  "text": "Le colis est arrivé. Rien à voir, mais toi aussi tu es la meilleure chose arrivée chez moi ces dernières années.",
+  "effect": "Ce contraste volontaire entre une information neutre et une déclaration sincère crée un effet de surprise qui rend le compliment plus mémorable. Elle apprécie l'humour et la sincérité combinés dans un message qu'elle n'attendait pas romantique.",
+  "sectionTitle": "SMS - Logistique",
+  "predictable": "Les messages informatifs restent séparés de toute déclaration personnelle",
+  "themes": [
+   "Playful",
+   "Romantic",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Le rendez-vous chez le dentiste est confirmé pour jeudi. Sans transition : tu es la meilleure chose qui me soit arrivée.",
+   "Le virement est fait pour le loyer. Autre nouvelle sans rapport : je t'aime, voilà, c'était le vrai message."
+  ]
+ },
+ {
+  "actionTitle": "Le partage de tâche affectueux",
+  "text": "Je m'occupe des billets pour le week-end. Toi, occupe-toi juste d'être aussi excitée que moi à l'idée d'y être.",
+  "effect": "Répartir une tâche pratique tout en y ajoutant une attente émotionnelle transforme une simple organisation en moment de connexion. Elle ressent que l'anticipation partagée compte autant que la logistique elle-même.",
+  "sectionTitle": "SMS - Logistique",
+  "predictable": "La répartition des tâches reste neutre, sans dimension émotionnelle ajoutée",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Je gère la réservation du restaurant. Ta seule mission : arriver avec ta bonne humeur habituelle.",
+   "Je m'occupe de tout organiser pour samedi. Toi, contente-toi juste d'avoir hâte, comme moi."
+  ]
+ },
+ {
+  "actionTitle": "Le sondage à choix unique",
+  "text": "Sondage rapide, une seule réponse possible : câlin, fou rire ou silence complice en rentrant ce soir ?",
+  "effect": "Proposer un choix ludique et limité simplifie sa réponse tout en l'invitant à exprimer précisément son besoin du moment. Elle ressent que tu anticipes activement comment prendre soin d'elle ce soir-là.",
+  "sectionTitle": "SMS - Petits jeux entre nous",
+  "predictable": "Le retour du soir se déroule sans anticipation particulière du besoin de l'autre",
+  "themes": [
+   "Playful",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Choix multiple : thé, vin ou juste un câlin de dix minutes en rentrant ? Une seule réponse autorisée.",
+   "Sondage express : silence, musique ou discussion ce soir ? Réponds vite, l'enquête ferme dans une heure."
+  ]
+ },
+ {
+  "actionTitle": "Le compte à rebours du jeu",
+  "text": "Dans exactement deux heures, je t'envoie un indice sur ce qu'on fait ce soir. Prépare ta curiosité.",
+  "effect": "Annoncer un délai précis avant une révélation installe une attente rythmée et mesurable plutôt qu'une simple promesse vague. Elle ressent une anticipation qui devient presque un jeu de patience amusant.",
+  "sectionTitle": "SMS - Petits jeux entre nous",
+  "predictable": "Les plans du soir sont annoncés directement, sans étape intermédiaire",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Mysterious"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Premier indice dans une heure. Deuxième indice dans deux heures. La réponse complète, ce soir. Prépare-toi.",
+   "Compte à rebours lancé : dans trente minutes, un indice sur la soirée. Reste disponible."
+  ]
+ },
+ {
+  "actionTitle": "Le quiz du couple",
+  "text": "Question quiz : qu'est-ce que je commande toujours dans notre resto préféré ? Bonne réponse, un bisou garanti ce soir.",
+  "effect": "Ce petit quiz ludique transforme une connaissance banale du quotidien en jeu avec récompense symbolique. Elle s'amuse à prouver sa connaissance de toi, ce qui renforce le sentiment de familiarité complice entre vous.",
+  "sectionTitle": "SMS - Petits jeux entre nous",
+  "predictable": "Les habitudes de chacun restent connues sans jamais être testées en jeu",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Question bonus : quelle est ma série préférée du moment ? Bonne réponse, tu gagnes le choix du film ce soir.",
+   "Quiz surprise : de quel côté du lit je dors toujours ? Facile, je sais, mais le jeu reste le jeu."
+  ]
+ },
+ {
+  "actionTitle": "Le tirage au sort du soir",
+  "text": "Ce soir, on tire à pile ou face qui décide de tout, absolument tout, jusqu'au coucher. Prépare-toi à obéir si tu perds.",
+  "effect": "Confier une décision importante au hasard plutôt qu'à une négociation habituelle injecte du jeu et de l'imprévu dans une soirée ordinaire. Elle ressent une légèreté ludique face à l'incertitude du résultat, quel qu'il soit.",
+  "sectionTitle": "SMS - Petits jeux entre nous",
+  "predictable": "Les décisions du soir se négocient toujours calmement entre vous deux",
+  "themes": [
+   "Playful",
+   "Dominance",
+   "Confidence"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 2,
+  "variations": [
+   "Pile ou face ce soir : le perdant doit exaucer un vœu raisonnable du gagnant. Prépare ta pièce.",
+   "On tire au sort qui choisit le film ce soir. Aucune contestation possible après le lancer."
+  ]
+ },
+ {
+  "actionTitle": "Le mot à deviner",
+  "text": "J'ai un mot en tête qui résume mon humeur là maintenant. Tu as trois essais pour le deviner ce soir.",
+  "effect": "Transformer l'expression d'une humeur en petit jeu de devinettes rend la communication émotionnelle plus légère et engageante. Elle s'investit activement à te comprendre plutôt que de recevoir une simple information passive.",
+  "sectionTitle": "SMS - Petits jeux entre nous",
+  "predictable": "L'humeur du moment est simplement énoncée, sans jeu ni interaction",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Intrigue"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Un mot résume ma journée. Trois essais pour deviner lequel, ce soir au dîner.",
+   "J'ai choisi un mot secret pour décrire comment je me sens. À toi de le trouver avant demain."
+  ]
+ },
+ {
+  "actionTitle": "Le check simple",
+  "text": "Aucune raison, je voulais juste vérifier que ta journée se passe à peu près bien.",
+  "effect": "Cette attention simple, sans enjeu ni suite particulière, montre un souci sincère pour son bien-être sans rien attendre en retour. Elle ressent une présence discrète mais réelle tout au long de sa journée.",
+  "sectionTitle": "SMS - Juste pour dire hi",
+  "predictable": "Les nouvelles ne se prennent qu'en fin de journée, jamais en cours de route",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Petit coucou sans raison particulière, juste pour savoir si tout va bien de ton côté.",
+   "Je pensais à toi entre deux tâches, alors petit message pour prendre de tes nouvelles."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment du jour",
+  "text": "Je voulais juste te dire que tu es quelqu'un de bien, sincèrement, sans raison précise aujourd'hui.",
+  "effect": "Ce compliment général mais sincère, sans occasion particulière, renforce l'estime de soi sans lien avec un événement précis. Elle reçoit une validation simple de sa valeur en tant que personne, au-delà de ses actions du jour.",
+  "sectionTitle": "SMS - Juste pour dire hi",
+  "predictable": "Les compliments restent liés à des occasions ou des réussites précises",
+  "themes": [
+   "Compliment",
+   "Tender",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Rappel du jour : tu es quelqu'un de bien, et je suis content que tu sois dans ma vie.",
+   "Aucune raison précise, juste l'envie de te rappeler que tu comptes énormément."
+  ]
+ },
+ {
+  "actionTitle": "La blague sans contexte",
+  "text": "Pourquoi les canards ne font jamais de bons comptables ? Ils préfèrent le bilan aquatique. Voilà, tu peux continuer ta journée.",
+  "effect": "Une blague absurde envoyée sans raison casse la routine d'une journée sérieuse et provoque un sourire immédiat et gratuit. Elle reçoit un moment de légèreté qui ne demande aucune réponse particulière.",
+  "sectionTitle": "SMS - Juste pour dire hi",
+  "predictable": "L'humour se réserve aux moments passés ensemble, jamais glissé par message",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Blague du jour, gratuite et sans intérêt : pourquoi les poissons n'aiment pas l'ordinateur ? Peur du net.",
+   "Interruption officielle de ta journée pour une blague inutile mais qui, j'espère, te fait sourire."
+  ]
+ },
+ {
+  "actionTitle": "Le rappel de présence",
+  "text": "Où que tu sois là maintenant, sache juste que je suis content de partager ma vie avec toi.",
+  "effect": "Cette pensée générale, non rattachée à un événement précis, rappelle la valeur globale de la relation dans le flux du quotidien. Elle ressent une reconnaissance simple de sa présence continue dans ta vie.",
+  "sectionTitle": "SMS - Juste pour dire hi",
+  "predictable": "La valeur de la relation se rappelle seulement lors de moments particuliers",
+  "themes": [
+   "Tender",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Peu importe ce que tu fais là maintenant, je suis content de traverser tout ça avec toi.",
+   "Petit rappel gratuit : partager ma vie avec toi reste une évidence agréable, chaque jour."
+  ]
+ },
+ {
+  "actionTitle": "Le mot d'encouragement neutre",
+  "text": "Peu importe ce que tu traverses aujourd'hui, tu gères mieux que tu ne le penses.",
+  "effect": "Cet encouragement général, sans connaître le détail exact de sa journée, offre un soutien inconditionnel adaptable à toute situation. Elle ressent un vote de confiance simple, utile aussi bien dans un bon jour que dans un jour difficile.",
+  "sectionTitle": "SMS - Juste pour dire hi",
+  "predictable": "Le soutien s'exprime seulement en réaction à un problème déjà connu",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Quoi que ta journée te réserve, sache que tu gères ça très bien, comme toujours.",
+   "Message random d'encouragement : tu t'en sors mieux que tu ne le crois, fais-moi confiance."
+  ]
+ },
+ {
+  "actionTitle": "Le regard qui reste",
+  "text": "Je n'arrive pas à effacer l'image de toi ce matin avant de partir. Ça complique un peu ma concentration.",
+  "effect": "Décrire l'effet persistant d'une image précise prouve une attirance active et continue, pas seulement ponctuelle. Elle ressent que son impact sur toi dépasse largement le moment où elle s'est produite.",
+  "sectionTitle": "SMS - Désir affirmé",
+  "predictable": "L'attirance du matin reste tacite, jamais formulée après coup",
+  "themes": [
+   "Desire",
+   "Confidence",
+   "Sensory"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 3,
+  "variations": [
+   "Ton image de ce matin refuse de quitter ma tête. Ça devient franchement gênant pour ma productivité.",
+   "Je repense à toi ce matin, dans la lumière de la cuisine. Impossible de m'en défaire depuis."
+  ]
+ },
+ {
+  "actionTitle": "L'attente qui pèse",
+  "text": "Le temps qu'il me reste avant de te retrouver me paraît beaucoup plus long que d'habitude aujourd'hui.",
+  "effect": "Souligner que l'attente semble plus longue que la normale valorise l'intensité particulière du désir ressenti ce jour-là. Elle ressent une urgence affective qui dépasse la routine habituelle des retrouvailles.",
+  "sectionTitle": "SMS - Désir affirmé",
+  "predictable": "L'attente avant de se retrouver reste ignorée, jamais mentionnée",
+  "themes": [
+   "Desire",
+   "Anticipation",
+   "Passionate"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Chaque minute avant ce soir me semble s'étirer plus que d'habitude aujourd'hui.",
+   "J'ai rarement autant eu hâte d'une fin de journée que celle-ci."
+  ]
+ },
+ {
+  "actionTitle": "La déclaration sans détour",
+  "text": "Je te veux ce soir, simplement, sans détour ni excuse. Voilà, c'était le message.",
+  "effect": "L'absence totale de détour ou de justification rend le désir exprimé plus direct et assumé qu'une allusion habituelle. Elle ressent une confiance affirmée dans l'expression de ton envie, sans ambiguïté possible.",
+  "sectionTitle": "SMS - Désir affirmé",
+  "predictable": "Le désir s'exprime toujours de façon indirecte ou suggérée",
+  "themes": [
+   "Desire",
+   "Confidence",
+   "Passionate"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Simplement, sincèrement : j'ai très envie de toi ce soir. Rien d'autre à ajouter.",
+   "Message direct et sans détour : tu me manques d'une façon assez explicite ce soir."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur le désir qu'elle inspire",
+  "text": "Tu n'as probablement pas idée de l'effet que tu me fais, même à travers un simple message.",
+  "effect": "Souligner qu'un simple message suffit à provoquer un effet fort prouve l'intensité constante de l'attirance, indépendamment du contexte. Elle ressent un pouvoir de séduction confirmé, même dans les interactions les plus anodines.",
+  "sectionTitle": "SMS - Désir affirmé",
+  "predictable": "L'effet qu'elle produit reste rarement verbalisé explicitement",
+  "themes": [
+   "Desire",
+   "Confidence",
+   "Compliment"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 3,
+  "variations": [
+   "Même à distance, par simple message, tu arrives à provoquer un effet que peu de gens produisent.",
+   "Tu n'imagines probablement pas l'effet que ce simple message vient de produire chez moi."
+  ]
+ },
+ {
+  "actionTitle": "L'impatience du retour",
+  "text": "Compte tenu de l'envie que j'ai de te voir là, maintenant, la fin de journée n'arrive pas assez vite.",
+  "effect": "Exprimer une impatience concrète plutôt qu'une attente passive rend le désir plus tangible et actuel. Elle ressent que ton envie de la retrouver influence directement ta perception du temps qui passe.",
+  "sectionTitle": "SMS - Désir affirmé",
+  "predictable": "L'impatience de se retrouver reste ressentie mais jamais exprimée",
+  "themes": [
+   "Desire",
+   "Anticipation",
+   "Passionate"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "J'ai hâte d'une façon presque agaçante de te retrouver ce soir. Le temps traîne beaucoup trop.",
+   "L'envie de te voir maintenant rend cette fin de journée particulièrement longue à traverser."
+  ]
+ },
+ {
+  "actionTitle": "L'ordre du silence",
+  "text": "Ce soir, je ne veux entendre que ta respiration. Aucun mot nécessaire, juste ta présence.",
+  "effect": "Retirer explicitement la nécessité de parler installe une intimité centrée uniquement sur la présence physique et sensorielle. Elle ressent une intensité différente, focalisée sur le corps et le moment plutôt que sur les mots.",
+  "sectionTitle": "SMS - Intensité maximale",
+  "predictable": "La soirée se déroule avec une conversation continue, comme d'habitude",
+  "themes": [
+   "Intimacy",
+   "Desire",
+   "Primal"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "Ce soir, garde le silence. Ta présence suffira largement, aucun mot requis.",
+   "Aucune parole nécessaire ce soir. Juste toi, tout près, ça me suffira amplement."
+  ]
+ },
+ {
+  "actionTitle": "La promesse sans détail",
+  "text": "Ce que j'ai prévu ce soir ne se raconte pas par message. Il faudra attendre pour comprendre.",
+  "effect": "Refuser explicitement de détailler par message installe un mystère qui ne peut se résoudre qu'en personne, prolongeant l'attente. Elle passe la journée à imaginer plusieurs scénarios, ce qui intensifie considérablement l'anticipation.",
+  "sectionTitle": "SMS - Intensité maximale",
+  "predictable": "Les plans de la soirée sont annoncés en détail à l'avance, sans mystère",
+  "themes": [
+   "Mysterious",
+   "Desire",
+   "Anticipation"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "Ce soir ne se décrit pas par message. Il faudra être patiente jusqu'à mon retour.",
+   "Certaines choses ne se disent pas à distance. Ce soir en fait partie, tu comprendras vite."
+  ]
+ },
+ {
+  "actionTitle": "Le commandement tendre",
+  "text": "Ce soir, viens comme tu es, sans artifice ni préparation particulière. Je te veux exactement telle que tu es là, maintenant.",
+  "effect": "Demander explicitement l'authenticité sans artifice valorise sa beauté naturelle plutôt qu'un effort de présentation. Elle ressent un désir dirigé vers elle-même, sans exigence de perfection ou de préparation.",
+  "sectionTitle": "SMS - Intensité maximale",
+  "predictable": "Une préparation particulière est implicitement attendue avant les soirs importants",
+  "themes": [
+   "Desire",
+   "Dominance",
+   "Intimacy"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "Viens exactement comme tu es ce soir. Aucune préparation nécessaire, je te veux ainsi.",
+   "Pas besoin de te préparer particulièrement ce soir. Telle que tu es, ça me suffit largement."
+  ]
+ },
+ {
+  "actionTitle": "La chaleur qui monte",
+  "text": "Je sens déjà la tension de cette soirée monter, et il ne s'est encore rien passé. Prépare-toi psychologiquement.",
+  "effect": "Décrire une tension ressentie avant même que la soirée ne commence installe une anticipation palpable et partagée dès l'après-midi. Elle perçoit l'intensité de ton attente, ce qui alimente la sienne en miroir.",
+  "sectionTitle": "SMS - Intensité maximale",
+  "predictable": "La tension de la soirée ne se ressent qu'une fois sur place, jamais anticipée",
+  "themes": [
+   "Desire",
+   "Anticipation",
+   "Passionate"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "La tension monte déjà de mon côté, et la soirée n'a même pas commencé. Prépare-toi.",
+   "Je sens déjà que ce soir va être intense, rien qu'en y pensant maintenant."
+  ]
+ },
+ {
+  "actionTitle": "Le dernier avertissement",
+  "text": "Dernier message avant ce soir : prépare-toi à ce que la soirée ne suive aucun plan prévisible.",
+  "effect": "Annoncer explicitement l'absence de plan prévisible installe une attente ouverte et excitante, sans repère précis pour se rassurer. Elle ressent une excitation mêlée d'incertitude qui intensifie l'attente jusqu'au soir.",
+  "sectionTitle": "SMS - Intensité maximale",
+  "predictable": "Les soirées suivent généralement un déroulement prévisible et connu à l'avance",
+  "themes": [
+   "Mysterious",
+   "Desire",
+   "Anticipation"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "Dernier avertissement avant ce soir : rien ne se passera comme tu l'imagines peut-être.",
+   "Avant que la soirée commence : oublie toute prévisibilité, ce soir s'annonce différent."
+  ]
+ },
+ {
+  "actionTitle": "Le compte à rebours silencieux",
+  "text": "Encore quelques heures. Je ne dis rien de plus, mais tu comprends probablement pourquoi je t'écris ça.",
+  "effect": "Laisser l'implicite faire le travail plutôt que d'expliciter installe une tension suggérée plus puissante qu'une déclaration directe. Elle passe le reste de la journée à interpréter ce message sous-entendu, ce qui prolonge son effet.",
+  "sectionTitle": "SMS - La tension qui monte",
+  "predictable": "Les heures avant de se retrouver s'écoulent sans aucun signal particulier",
+  "themes": [
+   "Desire",
+   "Mysterious",
+   "Anticipation"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Plus que quelques heures. Je n'en dis pas plus, mais je sais que tu saisis l'allusion.",
+   "Le compte à rebours a commencé de mon côté. Tu comprendras ce soir pourquoi je te dis ça."
+  ]
+ },
+ {
+  "actionTitle": "La phrase suspendue",
+  "text": "Je pensais à un truc qu'on pourrait essayer ce soir, mais je préfère t'en parler en personne, pas par écrit.",
+  "effect": "Suspendre volontairement une idée avant de la révéler installe une curiosité teintée d'anticipation sensuelle. Elle imagine plusieurs possibilités sans confirmation, ce qui prolonge la tension jusqu'à votre rencontre.",
+  "sectionTitle": "SMS - La tension qui monte",
+  "predictable": "Les idées pour la soirée sont partagées immédiatement et en détail par message",
+  "themes": [
+   "Mysterious",
+   "Desire",
+   "Intrigue"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "J'ai une idée pour ce soir que je garde pour moi jusqu'à ce qu'on se voie.",
+   "Il y a un truc que je veux te proposer ce soir, mais ça se dit mieux en personne."
+  ]
+ },
+ {
+  "actionTitle": "Le regard imaginé",
+  "text": "J'imagine déjà la façon dont tu vas me regarder en arrivant ce soir. Ça occupe pas mal mes pensées, là, maintenant.",
+  "effect": "Projeter un moment futur précis, comme un regard, ancre le désir dans un détail concret et sensoriel plutôt qu'une idée abstraite. Elle ressent que ton anticipation est déjà activement construite autour d'un instant très spécifique.",
+  "sectionTitle": "SMS - La tension qui monte",
+  "predictable": "L'anticipation d'un moment futur reste vague, sans détail particulier imaginé",
+  "themes": [
+   "Desire",
+   "Sensory",
+   "Anticipation"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Je m'imagine déjà ton regard en arrivant ce soir. Ça me distrait plus que je ne l'admettrais.",
+   "J'ai déjà une image précise de ce soir en tête, et elle commence par ton regard en entrant."
+  ]
+ },
+ {
+  "actionTitle": "Le message à moitié terminé",
+  "text": "Ce soir je veux te dire à quel point tu... non, en fait je te le dirai en personne, ce sera mieux.",
+  "effect": "Interrompre volontairement une phrase avant sa fin crée un effet de suspense qui pousse à imaginer la suite. Elle ressent une frustration légère et agréable, comme un cliffhanger qu'elle a hâte de voir résolu ce soir.",
+  "sectionTitle": "SMS - La tension qui monte",
+  "predictable": "Les phrases commencées par message sont toujours terminées immédiatement",
+  "themes": [
+   "Mysterious",
+   "Desire",
+   "Intrigue"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Je voulais t'écrire un truc mais je préfère finalement te le dire en face ce soir.",
+   "J'allais t'écrire quelque chose d'important, mais ça mérite d'être dit en personne plutôt que tapé."
+  ]
+ },
+ {
+  "actionTitle": "L'annonce du programme flou",
+  "text": "Ce soir, prévois d'être disponible, sans plan précis de mon côté pour l'instant. On improvisera, à notre façon.",
+  "effect": "Annoncer une soirée sans plan fixe installe une liberté qui laisse la place à l'instinct et à l'envie du moment plutôt qu'à un scénario prévu. Elle ressent une confiance placée dans la spontanéité de votre alchimie plutôt que dans une organisation rigide.",
+  "sectionTitle": "SMS - La tension qui monte",
+  "predictable": "Les soirées se déroulent toujours selon un plan précis établi à l'avance",
+  "themes": [
+   "Desire",
+   "Anticipation",
+   "Playful"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Ce soir, aucun plan fixe prévu. On improvise selon l'envie du moment, à deux.",
+   "Reste disponible ce soir, sans attente précise. On verra où l'envie nous mène."
+  ]
+ },
+ {
+  "actionTitle": "Le défi du silence",
+  "text": "Défi du jour : le premier qui craque et envoie un message avant ce soir doit un gage. Bonne chance.",
+  "effect": "Transformer une contrainte de silence en compétition ludique avec un gage à la clé injecte du jeu dans une journée par ailleurs ordinaire. Elle passe la journée à se surveiller elle-même, ce qui la connecte à toi de façon amusante.",
+  "sectionTitle": "SMS - Petits jeux entre nous",
+  "predictable": "La journée se déroule sans échange particulier jusqu'au soir",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 2,
+  "variations": [
+   "Défi silence lancé : premier qui écrit avant ce soir perd et doit un gage au choix de l'autre.",
+   "On tente le silence total jusqu'à ce soir ? Le perdant doit préparer le dîner, à toi de voir."
+  ]
+ },
+ {
+  "actionTitle": "Le jeu desninja",
+  "text": "Mission du jour : essaie de me surprendre ce soir sans faire aucun bruit en rentrant. Voyons si tu es aussi discrète que tu le prétends.",
+  "effect": "Ce petit défi ludique transforme un retour à la maison banal en jeu avec un objectif précis et amusant. Elle aborde son retour avec un objectif ludique en tête plutôt qu'une routine automatique.",
+  "sectionTitle": "SMS - Petits jeux entre nous",
+  "predictable": "Le retour à la maison se fait sans aucun enjeu ni objectif particulier",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Défi ninja ce soir : entre sans un bruit et vois si tu arrives à me surprendre pour une fois.",
+   "Test de discrétion ce soir : rentre sans que je t'entende arriver. Je parie que tu n'y arriveras pas."
+  ]
+ },
+ {
+  "actionTitle": "Le jeu de l'association",
+  "text": "Je dis un mot, tu réponds avec le premier truc qui te vient en tête, sans réfléchir. Premier mot : 'chaleur'. À toi.",
+  "effect": "Ce petit jeu d'association rapide révèle des réponses spontanées et souvent surprenantes, loin des réponses réfléchies habituelles. Elle s'amuse à jouer le jeu, ce qui crée un échange léger et imprévisible entre vous.",
+  "sectionTitle": "SMS - Petits jeux entre nous",
+  "predictable": "Les échanges par message suivent toujours un schéma question-réponse classique",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Intrigue"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Jeu rapide : je dis 'nuit', tu réponds avec le premier mot qui te vient. Pas de réflexion autorisée.",
+   "Association d'idées : je dis 'toi', réponds avec ce qui te vient instantanément en tête."
+  ]
+ },
+ {
+  "actionTitle": "Le pari sportif du couple",
+  "text": "Je te parie que j'arrive à te faire sourire avant midi avec un seul message. Regarde bien.",
+  "effect": "Annoncer un objectif précis (la faire sourire) transforme un simple message en petit défi personnel amusant à observer se réaliser. Elle guette consciemment sa propre réaction, ce qui rend le message plus mémorable qu'un compliment ordinaire.",
+  "sectionTitle": "SMS - Petits jeux entre nous",
+  "predictable": "Les messages du matin ne cherchent pas d'effet particulier sur son humeur",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pari du jour : je te fais rire avant midi avec un seul message. C'est parti.",
+   "Défi personnel : réussir à te tirer un sourire avant ta pause déjeuner. On verra bien."
+  ]
+ },
+ {
+  "actionTitle": "Le jeu des trois vérités",
+  "text": "Envoie-moi trois vérités sur ta journée, dont une fausse, et je devine laquelle est le mensonge ce soir.",
+  "effect": "Ce jeu classique adapté au quotidien transforme le récit habituel de la journée en petit défi ludique et interactif. Elle prend plaisir à formuler sa journée différemment, avec l'intention de te tromper, ce qui rend l'échange plus vivant.",
+  "sectionTitle": "SMS - Petits jeux entre nous",
+  "predictable": "Le récit de la journée se fait toujours de façon linéaire et factuelle",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Trois vérités, un mensonge sur ta journée. Envoie-moi ça, je devine ce soir lequel est faux.",
+   "Jeu du soir : raconte-moi ta journée avec un détail inventé caché dedans. Je dois le repérer."
+  ]
  }
 ]

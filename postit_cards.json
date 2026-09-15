@@ -3781,5 +3781,905 @@
    "Dernier avertissement avant ce soir : le sommeil attendra un peu.",
    "Avant que la soirée commence : cette nuit s'annonce longue, dans le bon sens."
   ]
+ },
+ {
+  "actionTitle": "Sur la brosse à dents",
+  "text": "Encore endormie mais déjà la plus belle chose que je vais voir aujourd'hui.",
+  "effect": "Ce compliment glissé dans un geste aussi routinier que le brossage de dents prouve que ton admiration ne dépend d'aucune mise en scène particulière. Elle démarre sa journée en se sentant belle dans un moment pourtant banal.",
+  "sectionTitle": "Post-its - Douceur du matin",
+  "predictable": "Le rituel du matin se déroule dans le silence, sans un mot",
+  "themes": [
+   "Tender",
+   "Compliment",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Même les cheveux en bataille, tu restes mon meilleur réveil.",
+   "Ce miroir a de la chance de te voir avant tout le monde ce matin."
+  ]
+ },
+ {
+  "actionTitle": "Sur la théière",
+  "text": "Ce thé sera bon, mais jamais aussi bon que ta présence à côté de moi ce matin.",
+  "effect": "Comparer un plaisir simple du quotidien à sa présence renforce l'idée que rien de matériel n'égale ce qu'elle t'apporte. Elle démarre la journée avec un compliment doux, glissé dans un objet purement fonctionnel.",
+  "sectionTitle": "Post-its - Douceur du matin",
+  "predictable": "Le petit-déjeuner se prend en silence, chacun dans sa bulle",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Compliment"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce café n'a aucune chance de rivaliser avec ton sourire du matin.",
+   "Même le meilleur thé du monde reste moins bon que dix minutes avec toi le matin."
+  ]
+ },
+ {
+  "actionTitle": "Sur son sac de sport",
+  "text": "Va te dépasser. Je suis déjà fier de toi avant même que tu commences.",
+  "effect": "Exprimer une fierté anticipée, avant même le résultat, valorise ses efforts plutôt que sa performance finale. Elle part avec un soutien inconditionnel qui allège la pression de la séance à venir.",
+  "sectionTitle": "Post-its - Douceur du matin",
+  "predictable": "Aucun encouragement particulier avant une activité physique",
+  "themes": [
+   "Care",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Peu importe le résultat, je suis déjà fier que tu t'y mettes ce matin.",
+   "Donne tout ce que tu peux, et sache que je pense à toi entre deux exercices."
+  ]
+ },
+ {
+  "actionTitle": "Sur la porte du frigo",
+  "text": "Prends soin de toi aujourd'hui comme tu prends soin de tout le monde autour de toi.",
+  "effect": "Ce rappel bienveillant inverse temporairement le rôle habituel où elle prend soin des autres, en la plaçant elle-même au centre de l'attention. Elle ressent que son propre bien-être compte aussi à tes yeux, pas seulement celui des autres.",
+  "sectionTitle": "Post-its - Douceur du matin",
+  "predictable": "Aucun rappel de bienveillance envers elle-même dans le quotidien",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "N'oublie pas d'être aussi douce avec toi qu'avec les autres aujourd'hui.",
+   "Petit rappel du matin : tu mérites autant d'attention que celle que tu donnes."
+  ]
+ },
+ {
+  "actionTitle": "Sur son carnet de notes",
+  "text": "Tout ce que tu vas écrire aujourd'hui compte, même si tu ne le vois pas encore.",
+  "effect": "Valoriser par avance un travail encore à venir renforce la confiance en son propre potentiel avant même qu'il ne se concrétise. Elle démarre sa journée avec un vote de confiance clair sur la valeur de ce qu'elle entreprend.",
+  "sectionTitle": "Post-its - Douceur du matin",
+  "predictable": "Aucun encouragement avant une journée de travail ou de création",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Quoi que tu écrives aujourd'hui, sache que ça a déjà de la valeur à mes yeux.",
+   "Bonne journée de travail. Je crois en ce que tu fais, même les jours de doute."
+  ]
+ },
+ {
+  "actionTitle": "Sur la boîte à chaussures",
+  "text": "Ce soir, on sort marcher sans destination précise. Prévois juste d'être surprise par où on finit.",
+  "effect": "Ce mot annonce une aventure sans détail, ce qui installe une curiosité légère sur le déroulement de la soirée. Elle ressent une invitation à l'imprévu qui casse la routine des sorties habituelles.",
+  "sectionTitle": "Post-its - Petites étincelles",
+  "predictable": "Les sorties se planifient toujours avec une destination fixée à l'avance",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce soir, prends des chaussures confortables. Le reste restera un mystère jusqu'au départ.",
+   "Prépare-toi à marcher sans but précis ce soir. L'inconnu a parfois du bon."
+  ]
+ },
+ {
+  "actionTitle": "Sur la platine ou l'enceinte",
+  "text": "Choisis n'importe quelle chanson ce soir. Je danserai avec toi, peu importe le choix.",
+  "effect": "Cette promesse inconditionnelle retire toute pression sur le choix musical et valorise le moment partagé plus que le résultat esthétique. Elle ressent une disponibilité totale de ta part, sans jugement sur ses goûts.",
+  "sectionTitle": "Post-its - Petites étincelles",
+  "predictable": "La musique du soir se choisit sans enjeu ni promesse particulière",
+  "themes": [
+   "Playful",
+   "Romantic",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce soir, DJ c'est toi. Je suis preneur de absolument tout ce que tu choisis.",
+   "Mets ta chanson préférée ce soir, je te promets une danse improvisée dans le salon."
+  ]
+ },
+ {
+  "actionTitle": "Sur le plateau de jeu",
+  "text": "Ce soir, on ressort ce jeu qu'on n'a pas fait depuis des mois. Le perdant fait la vaisselle en chantant.",
+  "effect": "Ce gage ludique et léger transforme un moment de jeu classique en occasion de rire ensemble avec un enjeu amusant. Elle anticipe une soirée détendue avec une touche de compétition sans conséquence réelle.",
+  "sectionTitle": "Post-its - Petites étincelles",
+  "predictable": "Les soirées jeux se font sans enjeu particulier, juste pour passer le temps",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Revanche ce soir sur notre jeu de société. Le perdant doit un massage de dix minutes.",
+   "Soirée jeu prévue ce soir. Prépare ta meilleure stratégie, je ne compte pas te faciliter la tâche."
+  ]
+ },
+ {
+  "actionTitle": "Sur le vélo ou la trottinette",
+  "text": "Un jour de cette semaine, on part explorer un coin du quartier qu'on n'a jamais vu. Sans GPS.",
+  "effect": "Proposer une exploration sans itinéraire fixe injecte une dose d'aventure dans un cadre pourtant familier et proche. Elle ressent une invitation ludique à découvrir ensemble quelque chose de nouveau, sans effort de planification lourde.",
+  "sectionTitle": "Post-its - Petites étincelles",
+  "predictable": "Les déplacements dans le quartier suivent toujours les mêmes itinéraires connus",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cette semaine, on explore une rue qu'on n'a jamais prise, juste pour voir où elle mène.",
+   "Prochaine sortie vélo : destination inconnue, décidée au hasard des envies sur le moment."
+  ]
+ },
+ {
+  "actionTitle": "Sur l'appareil photo",
+  "text": "Ce soir, on prend une photo random de nous, sans se préparer, sans filtre, juste comme on est.",
+  "effect": "Capturer un instant spontané plutôt qu'une pose préparée valorise l'authenticité du moment vécu ensemble. Elle garde une trace sincère et non idéalisée d'une soirée ordinaire qui devient ainsi mémorable.",
+  "sectionTitle": "Post-its - Petites étincelles",
+  "predictable": "Les photos de couple sont toujours préparées et posées, jamais spontanées",
+  "themes": [
+   "Playful",
+   "Nostalgia",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Photo surprise ce soir, sans prévenir, juste pour capturer un moment vrai entre nous.",
+   "Ce soir, une photo random nous deux, telle quelle, sans retouche ni pose particulière."
+  ]
+ },
+ {
+  "actionTitle": "Sur le dossier de la chaise",
+  "text": "Assieds-toi bien ce soir. Ce que j'ai prévu demande que tu restes tranquille un moment.",
+  "effect": "L'ambiguïté volontaire entre une simple demande pratique et une promesse plus intense installe une tension ludique sans rien dévoiler. Elle passe le reste de la soirée à essayer de deviner ce qui l'attend réellement.",
+  "sectionTitle": "Post-its - Le jeu de la tension",
+  "predictable": "Les soirées démarrent sans aucune mise en scène ni instruction particulière",
+  "themes": [
+   "Mysterious",
+   "Desire",
+   "Anticipation"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Installe-toi confortablement ce soir. La suite mérite que tu ne sois pas pressée.",
+   "Prends ta place habituelle ce soir. J'ai prévu de la garder occupée un moment."
+  ]
+ },
+ {
+  "actionTitle": "Sur le bouchon de la bouteille de vin",
+  "text": "Sers-en un peu ce soir. Le reste, on le boit lentement, très lentement.",
+  "effect": "Insister sur la lenteur d'un rituel habituellement rapide installe une intention explicite de prendre son temps pour la soirée entière. Elle ressent que ce ralentissement volontaire annonce une soirée pensée pour durer.",
+  "sectionTitle": "Post-its - Le jeu de la tension",
+  "predictable": "Le verre du soir se boit rapidement, sans intention particulière derrière",
+  "themes": [
+   "Desire",
+   "Sensory",
+   "Anticipation"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Ce soir, on prend le temps. Le vin, comme le reste, se savoure lentement.",
+   "Sers deux verres ce soir. La patience sera la vraie boisson de la soirée."
+  ]
+ },
+ {
+  "actionTitle": "Sur le plaid du canapé",
+  "text": "Installe-toi confortablement. Ce soir, je ne compte pas te laisser beaucoup bouger.",
+  "effect": "Cette annonce ferme mais sans détail installe une attente précise sur le déroulement de la soirée, sans rien expliciter davantage. Elle ressent une tension excitante face à cette promesse d'immobilité contrôlée.",
+  "sectionTitle": "Post-its - Le jeu de la tension",
+  "predictable": "La soirée canapé se déroule sans annonce particulière ni intention affichée",
+  "themes": [
+   "Dominance",
+   "Desire",
+   "Anticipation"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Prends ta place sous le plaid ce soir. Le programme prévoit que tu n'en bouges pas beaucoup.",
+   "Installe-toi bien, ce soir je prends les commandes de la soirée entière."
+  ]
+ },
+ {
+  "actionTitle": "Sur le paquet de bougies",
+  "text": "J'en allume une seule ce soir. Une seule lumière suffira largement pour ce que j'ai en tête.",
+  "effect": "Réduire volontairement la lumière à une seule source concentre l'attention et installe une ambiance intime chargée de sens. Elle imagine une soirée resserrée autour d'un seul point focal, ce qui intensifie l'anticipation.",
+  "sectionTitle": "Post-its - Le jeu de la tension",
+  "predictable": "L'éclairage du soir reste habituel, sans intention particulière derrière le choix",
+  "themes": [
+   "Mysterious",
+   "Desire",
+   "Sensory"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Une seule bougie ce soir. Le reste de la pièce peut bien rester dans le noir.",
+   "J'ai choisi la lumière la plus discrète pour ce soir. Le reste se devine dans la pénombre."
+  ]
+ },
+ {
+  "actionTitle": "Sur le tapis de l'entrée",
+  "text": "Enlève tes chaussures lentement ce soir. Prends ton temps, vraiment, aucune urgence.",
+  "effect": "Insister sur la lenteur dès le premier geste en rentrant installe le ton de toute la soirée dès le seuil de la porte. Elle ressent immédiatement que la précipitation n'a pas sa place ce soir-là.",
+  "sectionTitle": "Post-its - Le jeu de la tension",
+  "predictable": "Le retour à la maison se fait dans la précipitation habituelle du quotidien",
+  "themes": [
+   "Desire",
+   "Anticipation",
+   "Sensory"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Prends ton temps en entrant ce soir. Rien ne presse, absolument rien.",
+   "Ce soir, même enlever tes chaussures peut se faire lentement. On a tout notre temps."
+  ]
+ },
+ {
+  "actionTitle": "Sur le tiroir des photos",
+  "text": "Avant de dormir : merci de remplir chaque jour un peu plus cette boîte de souvenirs avec moi.",
+  "effect": "Ce mot associe un objet concret (la boîte de souvenirs) à une gratitude sincère pour la continuité de votre histoire. Elle s'endort en pensant à tout ce que vous construisez ensemble, jour après jour.",
+  "sectionTitle": "Post-its - Déclarations nocturnes",
+  "predictable": "Le coucher se fait sans aucune pensée exprimée sur le chemin parcouru ensemble",
+  "themes": [
+   "Nostalgia",
+   "Romantic",
+   "Tender"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Avant de dormir : chaque jour avec toi ajoute quelque chose que je ne veux jamais perdre.",
+   "Dernière pensée avant de fermer les yeux : merci de construire tout ça avec moi, jour après jour."
+  ]
+ },
+ {
+  "actionTitle": "Sur le cadre photo de la chambre",
+  "text": "Cette photo me rappelle chaque soir la chance que j'ai. Bonne nuit, la plus belle personne que je connaisse.",
+  "effect": "Associer un objet fixe de la chambre à une déclaration répétée chaque soir ancre profondément ce sentiment dans la routine du coucher. Elle s'endort avec la certitude renouvelée d'être admirée sincèrement.",
+  "sectionTitle": "Post-its - Déclarations nocturnes",
+  "predictable": "Le coucher se fait sans dernier mot ni déclaration particulière",
+  "themes": [
+   "Romantic",
+   "Adoration",
+   "Tender"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cette photo sur le mur me rappelle chaque soir à quel point j'ai de la chance. Bonne nuit.",
+   "Dernier regard vers cette photo avant de dormir, et une pensée pour la femme qu'elle montre."
+  ]
+ },
+ {
+  "actionTitle": "Sur la couverture pliée",
+  "text": "Cette nuit, je veux juste que tu te sentes en sécurité, entourée, protégée, jusqu'au matin.",
+  "effect": "Ce mot centré sur la sécurité plutôt que sur le désir installe une intimité rassurante et protectrice avant le sommeil. Elle s'endort avec un sentiment de protection explicite, particulièrement précieux les soirs de fatigue ou de doute.",
+  "sectionTitle": "Post-its - Déclarations nocturnes",
+  "predictable": "Le coucher se fait sans aucun mot de réconfort particulier",
+  "themes": [
+   "Care",
+   "Intimacy",
+   "Tender"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cette nuit, dors tranquille. Je veille, même les yeux fermés, à ma façon.",
+   "Avant de dormir, sache que tu es en sécurité ici, avec moi, cette nuit et toutes les autres."
+  ]
+ },
+ {
+  "actionTitle": "Sur le carnet de nuit",
+  "text": "Si tu ouvres les yeux cette nuit, sache que la première chose que je pense en te voyant, c'est que j'ai de la chance.",
+  "effect": "Anticiper un réveil nocturne possible avec une pensée positive préparée à l'avance prouve une attention qui dépasse le moment présent du coucher. Elle ressent une continuité de tendresse même dans les heures les plus silencieuses de la nuit.",
+  "sectionTitle": "Post-its - Déclarations nocturnes",
+  "predictable": "Aucune pensée n'est préparée pour d'éventuels réveils pendant la nuit",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Intimacy"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Si tu te réveilles cette nuit, sache juste que je suis content que tu sois là, à côté de moi.",
+   "Cette nuit, même dans le noir, sache que ma première pensée en te voyant serait toujours la même : de la gratitude."
+  ]
+ },
+ {
+  "actionTitle": "Sur la porte de la chambre, côté intérieur",
+  "text": "Ce qui se passe derrière cette porte chaque soir reste la meilleure partie de mes journées, sans exception.",
+  "effect": "Désigner explicitement l'intimité de la chambre comme le point culminant de la journée valorise ce moment au-dessus de toutes les autres activités quotidiennes. Elle ressent que rien ne rivalise, à tes yeux, avec ces instants partagés avec elle.",
+  "sectionTitle": "Post-its - Déclarations nocturnes",
+  "predictable": "Les moments de la journée ne sont jamais hiérarchisés ni commentés",
+  "themes": [
+   "Romantic",
+   "Intimacy",
+   "Adoration"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 2,
+  "variations": [
+   "Chaque soir passé ici, avec toi, reste sans conteste le meilleur moment de ma journée.",
+   "Peu importe ce qui arrive dans la journée, ce moment du soir avec toi reste inégalé."
+  ]
+ },
+ {
+  "actionTitle": "Sur l'interrupteur de la chambre",
+  "text": "Une fois éteinte, cette lumière ne se rallume pas avant un bon moment. Prépare-toi en conséquence.",
+  "effect": "Cette annonce ferme sur la durée de la soirée à venir installe une attente précise sans rien dévoiler du contenu exact. Elle ressent une tension qui monte face à cette promesse de temps long et dédié.",
+  "sectionTitle": "Post-its - Sous tension",
+  "predictable": "L'extinction de la lumière marque simplement la fin de la journée, sans enjeu",
+  "themes": [
+   "Desire",
+   "Anticipation",
+   "Primal"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "Cette lumière reste éteinte un moment ce soir. Le reste se devine dans le noir.",
+   "Une fois éteinte, cette pièce nous appartient pour un bon moment. Prépare-toi."
+  ]
+ },
+ {
+  "actionTitle": "Sur son parfum posé sur la commode",
+  "text": "Ce soir, ne le mets pas. Je préfère sentir seulement toi, sans intermédiaire.",
+  "effect": "Demander explicitement l'absence d'un artifice habituel valorise sa présence brute et naturelle plutôt que son apparence soignée. Elle ressent un désir dirigé vers elle-même, sans écran ni ajout.",
+  "sectionTitle": "Post-its - Sous tension",
+  "predictable": "Le parfum habituel se met sans qu'aucune remarque particulière ne soit faite",
+  "themes": [
+   "Desire",
+   "Sensory",
+   "Primal"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "Laisse le parfum de côté ce soir. Je veux sentir uniquement toi, rien d'autre.",
+   "Pas de parfum ce soir. Ta propre odeur me suffit largement, crois-moi."
+  ]
+ },
+ {
+  "actionTitle": "Sur le tiroir des draps propres",
+  "text": "Change les draps aujourd'hui. On risque d'en avoir besoin de propres, et vite usés, ce soir.",
+  "effect": "Ce mot mêle un geste pratique anodin à une allusion claire sur les intentions de la soirée, sans jamais être explicite. Elle imagine précisément ce que cette remarque sous-entend, ce qui alimente la tension toute la journée.",
+  "sectionTitle": "Post-its - Sous tension",
+  "predictable": "Le changement des draps se fait sans aucune allusion particulière",
+  "themes": [
+   "Desire",
+   "Erotic",
+   "Playful"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "Draps propres aujourd'hui, s'il te plaît. On va probablement en avoir besoin ce soir.",
+   "Pense à changer les draps. Disons juste qu'ils risquent d'être utiles, et vite froissés."
+  ]
+ },
+ {
+  "actionTitle": "Sur la clé de la maison",
+  "text": "Ce soir, en rentrant, ferme bien la porte derrière toi. On ne sera dérangés par rien ni personne.",
+  "effect": "Insister sur la fermeture complète de l'espace partagé installe une promesse d'intimité totale, protégée de toute interruption extérieure. Elle ressent que la soirée est pensée comme un espace exclusivement dédié à vous deux.",
+  "sectionTitle": "Post-its - Sous tension",
+  "predictable": "La fermeture de la porte reste un geste purement pratique, sans intention particulière",
+  "themes": [
+   "Desire",
+   "Intimacy",
+   "Anticipation"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 3,
+  "variations": [
+   "Ferme bien derrière toi ce soir. Rien ni personne ne doit nous déranger.",
+   "Verrouille la porte en entrant ce soir. On ne sera dérangés par rien d'autre que nous-mêmes."
+  ]
+ },
+ {
+  "actionTitle": "Sur le réveil qu'on éteint",
+  "text": "Coupe l'alarme de demain matin. Ce soir ne va pas se terminer de sitôt.",
+  "effect": "Annuler explicitement une contrainte du lendemain matin libère l'esprit de toute pression temporelle pour la soirée à venir. Elle comprend que rien ne viendra interrompre ce moment, ce qui intensifie l'anticipation d'une soirée qui s'annonce longue.",
+  "sectionTitle": "Post-its - Sous tension",
+  "predictable": "L'alarme du matin reste programmée sans considération pour la soirée à venir",
+  "themes": [
+   "Desire",
+   "Anticipation",
+   "Passionate"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "Coupe le réveil de demain. Cette nuit s'annonce trop bonne pour être écourtée.",
+   "Pas d'alarme prévue demain matin. Ce soir mérite de ne pas être limité par l'heure."
+  ]
+ },
+ {
+  "actionTitle": "Sur la machine à laver",
+  "text": "Même les tâches les plus ennuyeuses deviennent supportables en pensant à toi.",
+  "effect": "Associer une pensée tendre à une corvée banale transforme mentalement une tâche pénible en moment presque agréable. Elle sourit en découvrant que même les détails les plus fastidieux du quotidien portent une trace de toi.",
+  "sectionTitle": "Post-its - Douceur du quotidien",
+  "predictable": "Les tâches ménagères se font sans aucune pensée particulière associée",
+  "themes": [
+   "Tender",
+   "Playful",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cette lessive n'a rien d'excitant, mais penser à toi en la faisant, si.",
+   "Même les corvées deviennent plus douces quand une pensée pour toi s'y glisse."
+  ]
+ },
+ {
+  "actionTitle": "Sur le tableau des courses",
+  "text": "Ajouté à la liste : plus de temps rien que pour nous cette semaine. Ça aussi, ça s'organise.",
+  "effect": "Inscrire une intention relationnelle au milieu d'une liste pratique la traite avec le même sérieux qu'une tâche concrète à accomplir. Elle ressent que le temps passé ensemble est une priorité active, pas juste une idée abstraite.",
+  "sectionTitle": "Post-its - Douceur du quotidien",
+  "predictable": "Le temps ensemble ne fait jamais partie des priorités planifiées activement",
+  "themes": [
+   "Care",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Sur la liste des priorités de la semaine : nous deux, en haut, avant tout le reste.",
+   "Ajout à la liste des courses : un moment rien que pour nous, à caser cette semaine."
+  ]
+ },
+ {
+  "actionTitle": "Sur la poubelle de recyclage",
+  "text": "Même en sortant les poubelles, je pense encore à quelle chance j'ai de rentrer vers toi après.",
+  "effect": "Ce contraste entre une tâche particulièrement ingrate et une pensée affectueuse souligne l'omniprésence de cette gratitude dans le quotidien. Elle perçoit que même les moments les plus insignifiants ramènent ton esprit vers elle.",
+  "sectionTitle": "Post-its - Douceur du quotidien",
+  "predictable": "Les tâches ingrates du quotidien se font sans aucune pensée particulière",
+  "themes": [
+   "Tender",
+   "Playful",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Même la corvée la plus ingrate paraît légère en sachant que je rentre vers toi après.",
+   "Sortir les poubelles n'a jamais été aussi supportable que depuis que je sais que tu m'attends après."
+  ]
+ },
+ {
+  "actionTitle": "Sur le calendrier mural",
+  "text": "Un jour ordinaire de plus, mais avec toi dedans, ce qui en fait un bon jour d'office.",
+  "effect": "Qualifier un jour banal de 'bon' uniquement par sa présence valorise sa contribution au quotidien indépendamment des événements. Elle ressent que sa simple présence suffit à transformer positivement une journée sans rien de particulier.",
+  "sectionTitle": "Post-its - Douceur du quotidien",
+  "predictable": "Les jours ordinaires passent sans qu'aucune valeur particulière ne leur soit attribuée",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Rien de spécial aujourd'hui, à part le fait que tu sois dans ma vie. Ça suffit largement.",
+   "Journée banale sur le papier, mais avec toi dedans, ça change tout."
+  ]
+ },
+ {
+  "actionTitle": "Sur le sac de courses vide",
+  "text": "À remplir pour la semaine : autant de petites attentions que de produits sur la liste.",
+  "effect": "Associer les attentions quotidiennes à une liste concrète leur donne une place tangible dans l'organisation de la semaine, au même titre que les besoins matériels. Elle perçoit que prendre soin d'elle fait partie intégrante de ton organisation, pas un supplément accessoire.",
+  "sectionTitle": "Post-its - Douceur du quotidien",
+  "predictable": "Les attentions du quotidien restent spontanées, jamais anticipées ou planifiées",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Sur ma liste de la semaine : autant de petites attentions pour toi que de courses à faire.",
+   "Objectif de la semaine : au moins une petite attention par jour, comme une routine qu'on s'impose."
+  ]
+ },
+ {
+  "actionTitle": "Sur le porte-manteau de l'entrée",
+  "text": "En rentrant ce soir, je compte bien te retenir ici un moment avant qu'on aille plus loin dans la maison.",
+  "effect": "Annoncer une intention précise dès l'entrée installe une intensité dès le seuil, avant même que la soirée ne commence réellement. Elle imagine ce moment précis toute la journée, ce qui alimente une tension agréable jusqu'à son retour.",
+  "sectionTitle": "Post-its - L'intensité assumée",
+  "predictable": "Le retour à la maison se passe toujours de la même façon, sans intention particulière",
+  "themes": [
+   "Desire",
+   "Anticipation",
+   "Primal"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Ce soir, je te retiens ici un moment avant qu'on aille plus loin. Prépare-toi.",
+   "Attends-toi à ce que je t'arrête net en entrant ce soir, juste pour un moment rien qu'à nous."
+  ]
+ },
+ {
+  "actionTitle": "Sur le miroir de la salle de bain",
+  "text": "Regarde-toi bien avant de sortir. Ce soir, je compte profiter de chaque détail que tu vois là.",
+  "effect": "Ce mot associe un compliment sur son apparence à une promesse d'attention ce soir, ce qui crée un pont entre le moment présent et l'anticipation. Elle se prépare avec une conscience accrue de son propre reflet, valorisée par avance.",
+  "sectionTitle": "Post-its - L'intensité assumée",
+  "predictable": "Le moment devant le miroir se passe sans aucune pensée particulière associée",
+  "themes": [
+   "Desire",
+   "Sensory",
+   "Compliment"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Prends le temps de te regarder. Ce soir, j'ai bien l'intention de faire pareil, longuement.",
+   "Ce reflet dans le miroir, je compte bien l'admirer d'encore plus près ce soir."
+  ]
+ },
+ {
+  "actionTitle": "Sur la veste accrochée",
+  "text": "Ce soir, cette veste ne restera pas sur moi bien longtemps une fois la porte fermée.",
+  "effect": "Cette allusion légère mais claire installe une attente précise sur le déroulement de la soirée sans jamais être explicite. Elle imagine la suite avec un sourire, ce qui alimente une tension amusée toute la journée.",
+  "sectionTitle": "Post-its - L'intensité assumée",
+  "predictable": "La tenue du soir ne fait l'objet d'aucune allusion particulière",
+  "themes": [
+   "Desire",
+   "Playful",
+   "Anticipation"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Cette veste ne fera pas long feu une fois la porte fermée ce soir, je te préviens.",
+   "Prépare-toi, cette tenue ne survivra pas longtemps une fois qu'on sera seuls ce soir."
+  ]
+ },
+ {
+  "actionTitle": "Sur le canapé",
+  "text": "Ce soir, cette place est réservée à deux, et personne d'autre n'y sera invité.",
+  "effect": "Réserver explicitement un espace pour vous deux seuls installe une exclusivité affirmée autour du moment à venir. Elle ressent que la soirée est pensée comme un territoire protégé, dédié entièrement à votre intimité.",
+  "sectionTitle": "Post-its - L'intensité assumée",
+  "predictable": "L'espace du canapé reste neutre, sans intention particulière associée",
+  "themes": [
+   "Desire",
+   "Intimacy",
+   "Anticipation"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Cette place est réservée rien que pour nous deux ce soir, personne d'autre n'y a sa place.",
+   "Ce canapé nous appartient ce soir. Aucune place pour autre chose que nous deux."
+  ]
+ },
+ {
+  "actionTitle": "Sur le tapis de bain",
+  "text": "Après la douche, ne te presse pas de t'habiller. Ce soir, on a tout notre temps.",
+  "effect": "Suggérer de ralentir un geste habituellement rapide installe une intention de lenteur assumée pour toute la soirée. Elle perçoit que rien ne presse, ce qui installe une tension calme mais palpable autour du moment à venir.",
+  "sectionTitle": "Post-its - L'intensité assumée",
+  "predictable": "Le moment après la douche se passe rapidement, sans intention particulière",
+  "themes": [
+   "Desire",
+   "Sensory",
+   "Anticipation"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 3,
+  "variations": [
+   "Prends ton temps après la douche ce soir. Rien ne presse, vraiment rien.",
+   "Ce soir, même sortir de la douche peut se faire lentement. On a tout notre temps devant nous."
+  ]
+ },
+ {
+  "actionTitle": "Sur l'oreiller, glissé profondément",
+  "text": "Cette nuit, je ne compte pas te laisser beaucoup dormir. Prends tes précautions dès maintenant.",
+  "effect": "Cette annonce ferme sur la nuit à venir installe une attente intense sans rien dévoiler du déroulement exact. Elle ressent une tension qui monte face à cette promesse assumée d'une nuit peu reposante mais désirée.",
+  "sectionTitle": "Post-its - L'intensité absolue",
+  "predictable": "La nuit se déroule sans aucune annonce particulière la concernant",
+  "themes": [
+   "Desire",
+   "Primal",
+   "Passionate"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Cette nuit s'annonce longue, et pas à cause de l'insomnie. Prépare-toi en conséquence.",
+   "Prévois de dormir un peu moins cette nuit. Certaines choses valent la peine de perdre le sommeil."
+  ]
+ },
+ {
+  "actionTitle": "Sur le col de sa chemise de nuit",
+  "text": "Ce vêtement ne fera pas long feu ce soir. Autant te prévenir maintenant.",
+  "effect": "Cette allusion directe sur la brièveté d'un vêtement installe une anticipation explicite sans détour ni ambiguïté. Elle ressent une excitation immédiate face à cette promesse assumée et sans détour.",
+  "sectionTitle": "Post-its - L'intensité absolue",
+  "predictable": "Les vêtements de nuit se portent sans aucune allusion particulière",
+  "themes": [
+   "Desire",
+   "Erotic",
+   "Primal"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Ce vêtement a une espérance de vie très courte ce soir. Je préfère être honnête.",
+   "Prévois que cette tenue ne dure pas longtemps une fois la porte de la chambre fermée."
+  ]
+ },
+ {
+  "actionTitle": "Sur le mur près du lit",
+  "text": "Ce mur a vu beaucoup de choses ces derniers mois. Ce soir, il en verra probablement d'autres.",
+  "effect": "Cette allusion complice à l'histoire intime déjà vécue dans cet espace précis renforce la continuité et l'intensité de votre connexion physique. Elle ressent une promesse ancrée dans une réalité déjà connue plutôt qu'une simple anticipation abstraite.",
+  "sectionTitle": "Post-its - L'intensité absolue",
+  "predictable": "Aucune allusion n'est faite aux souvenirs intimes associés à la chambre",
+  "themes": [
+   "Desire",
+   "Nostalgia",
+   "Primal"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "Cette chambre garde pas mal de souvenirs intenses. Ce soir devrait s'ajouter à la liste.",
+   "Ces murs en ont vu, des choses. Ce soir ne devrait pas faire exception."
+  ]
+ },
+ {
+  "actionTitle": "Sur son réveil, juste avant qu'elle parte le matin",
+  "text": "Après cette nuit, j'espère que tu as gardé assez d'énergie pour ta journée. Sinon, tant pis.",
+  "effect": "Ce mot laissé au matin, faisant référence à la nuit précédente, prolonge le souvenir sensoriel bien après le moment lui-même. Elle repart avec un sourire complice, se remémorant une nuit intense évoquée avec légèreté et fierté assumée.",
+  "sectionTitle": "Post-its - L'intensité absolue",
+  "predictable": "Les nuits intenses ne sont jamais évoquées le lendemain matin",
+  "themes": [
+   "Desire",
+   "Playful",
+   "Nostalgia"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "J'espère que cette nuit t'a laissé assez d'énergie pour ta journée. Si non, tant pis pour toi.",
+   "Après une nuit pareille, ta journée risque de sembler bien calme en comparaison."
+  ]
+ },
+ {
+  "actionTitle": "Sur la porte fermée à clé",
+  "text": "Cette porte reste fermée un moment ce soir. Ce qui se passe derrière ne concerne que nous deux.",
+  "effect": "Insister sur la fermeture et l'exclusivité totale de l'espace installe une promesse d'intensité protégée de toute interruption. Elle ressent que la soirée est pensée comme un moment hors du temps, entièrement dédié à votre intimité.",
+  "sectionTitle": "Post-its - L'intensité absolue",
+  "predictable": "La porte de la chambre reste ouverte, sans intention particulière associée",
+  "themes": [
+   "Desire",
+   "Intimacy",
+   "Primal"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "Cette porte reste fermée ce soir. Ce qui se passe derrière nous appartient entièrement.",
+   "Verrouillée pour un bon moment ce soir. Rien ni personne ne viendra interrompre ça."
+  ]
+ },
+ {
+  "actionTitle": "Sur le sac préparé pour un week-end surprise",
+  "text": "Ce sac est prêt. La destination reste secrète jusqu'au dernier moment.",
+  "effect": "Préparer un sac sans révéler la destination installe une attente prolongée sur plusieurs jours, alimentée par l'imagination plutôt que par l'information. Elle ressent une excitation croissante à mesure que le départ approche, sans jamais savoir précisément où elle va.",
+  "sectionTitle": "Post-its - Attente qui monte",
+  "predictable": "Les week-ends se planifient toujours en détail et communiqués à l'avance",
+  "themes": [
+   "Anticipation",
+   "Mysterious",
+   "Playful"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 2,
+  "variations": [
+   "Le sac est prêt pour une destination que tu ne connais pas encore. Patience.",
+   "Prépare tes affaires pour un week-end dont je garde le secret jusqu'au départ."
+  ]
+ },
+ {
+  "actionTitle": "Sur le ticket de cinéma caché",
+  "text": "Un billet t'attend pour un film que tu ne connais pas encore. La date approche.",
+  "effect": "Cacher un ticket sans révéler le film ni la date exacte installe un suspense léger qui se dévoile progressivement. Elle ressent une curiosité amusée qui grandit à mesure que les indices se précisent.",
+  "sectionTitle": "Post-its - Attente qui monte",
+  "predictable": "Les sorties cinéma se décident et se communiquent au dernier moment",
+  "themes": [
+   "Anticipation",
+   "Mysterious",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Un billet de cinéma t'attend déjà. Le film reste secret jusqu'à ce qu'on soit dans la salle.",
+   "Une sortie ciné est déjà prévue. Aucun détail supplémentaire pour l'instant, juste la patience."
+  ]
+ },
+ {
+  "actionTitle": "Sur l'agenda, un jour marqué sans explication",
+  "text": "Ce jour est marqué depuis des semaines. Tu comprendras pourquoi le moment venu.",
+  "effect": "Marquer une date à l'avance sans en révéler la raison installe une anticipation qui s'étire sur une longue période. Elle repense régulièrement à cette date mystérieuse, ce qui prolonge considérablement l'effet de la surprise annoncée.",
+  "sectionTitle": "Post-its - Attente qui monte",
+  "predictable": "Les dates importantes sont annoncées avec leur explication complète immédiatement",
+  "themes": [
+   "Anticipation",
+   "Mysterious",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cette date est cochée depuis un moment. La raison restera secrète encore un peu.",
+   "Un jour précis est marqué sur le calendrier depuis des semaines. Patience, tu sauras bientôt pourquoi."
+  ]
+ },
+ {
+  "actionTitle": "Sur l'enveloppe scellée posée sur la table",
+  "text": "À n'ouvrir que vendredi soir. Avant ça, la curiosité devra attendre.",
+  "effect": "Poser une enveloppe scellée avec une date d'ouverture précise transforme l'attente en compte à rebours concret et visible au quotidien. Elle croise cet objet chaque jour, ce qui entretient une curiosité active jusqu'au moment autorisé.",
+  "sectionTitle": "Post-its - Attente qui monte",
+  "predictable": "Les surprises se révèlent immédiatement, sans délai ni mise en scène",
+  "themes": [
+   "Anticipation",
+   "Mysterious",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cette enveloppe attend vendredi pour être ouverte. Pas avant, promis-le-moi.",
+   "Scellée jusqu'à vendredi soir. Après ça, tu sauras enfin de quoi il s'agit."
+  ]
+ },
+ {
+  "actionTitle": "Sur le calendrier, un compte à rebours dessiné",
+  "text": "Encore quelques jours avant la surprise. Le compte à rebours est officiellement lancé.",
+  "effect": "Visualiser concrètement le décompte des jours restants rend l'attente tangible et mesurable plutôt qu'abstraite. Elle observe chaque jour ce compte à rebours diminuer, ce qui intensifie progressivement son excitation à l'approche du jour final.",
+  "sectionTitle": "Post-its - Attente qui monte",
+  "predictable": "Les événements à venir ne font l'objet d'aucun compte à rebours visible",
+  "themes": [
+   "Anticipation",
+   "Playful",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Le compte à rebours est lancé sur le calendrier. Plus que quelques jours avant la surprise.",
+   "Chaque jour qui passe nous rapproche d'un moment que je prépare depuis un moment déjà."
+  ]
+ },
+ {
+  "actionTitle": "Sur le drap déjà défait",
+  "text": "Ce soir, inutile de refaire le lit proprement. On risque de le froisser rapidement de toute façon.",
+  "effect": "Cette remarque pratique déguisée en allusion installe une attente précise sur la nature de la soirée sans jamais être totalement explicite. Elle imagine la suite avec un sourire, ce qui alimente une tension amusée et assumée.",
+  "sectionTitle": "Post-its - Nuit sans limites",
+  "predictable": "Le lit se fait soigneusement chaque jour, sans aucune allusion particulière",
+  "themes": [
+   "Desire",
+   "Playful",
+   "Primal"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Pas la peine de refaire le lit ce soir. Il ne restera probablement pas en ordre longtemps.",
+   "Le lit peut rester tel quel ce soir. On va sûrement le redéfaire nous-mêmes très vite."
+  ]
+ },
+ {
+  "actionTitle": "Sur la dernière lumière encore allumée",
+  "text": "Cette lumière restera allumée un moment ce soir. Certaines choses méritent d'être vues clairement.",
+  "effect": "Garder la lumière allumée plutôt que de plonger dans l'obscurité habituelle change délibérément l'ambiance intime prévue. Elle comprend que la soirée sort du registre discret habituel pour quelque chose de plus assumé et direct.",
+  "sectionTitle": "Post-its - Nuit sans limites",
+  "predictable": "La chambre plonge systématiquement dans le noir une fois la nuit venue",
+  "themes": [
+   "Desire",
+   "Primal",
+   "Sensory"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Cette lumière reste allumée ce soir. Certaines choses ne devraient pas rester dans le noir.",
+   "On garde la lumière ce soir. J'ai bien l'intention de tout voir, sans exception."
+  ]
+ },
+ {
+  "actionTitle": "Sur le réveil éteint volontairement",
+  "text": "Aucune alarme demain. Cette nuit s'annonce trop longue pour être coupée par un réveil.",
+  "effect": "Annuler explicitement toute contrainte matinale libère totalement la nuit de toute limite temporelle. Elle ressent que rien ne viendra interrompre la soirée, ce qui intensifie considérablement l'anticipation d'une nuit sans retenue.",
+  "sectionTitle": "Post-its - Nuit sans limites",
+  "predictable": "Le réveil reste programmé chaque soir, sans exception ni considération particulière",
+  "themes": [
+   "Desire",
+   "Anticipation",
+   "Primal"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Réveil coupé pour demain. Cette nuit n'a pas vocation à être écourtée par quoi que ce soit.",
+   "Pas d'alarme cette nuit. On verra jusqu'où elle nous mène, sans limite de temps."
+  ]
+ },
+ {
+  "actionTitle": "Sur les rideaux tirés en plein après-midi",
+  "text": "Ce n'est même pas le soir, et pourtant les rideaux sont déjà fermés. Devine pourquoi.",
+  "effect": "Fermer les rideaux en plein jour, hors du rituel habituel du soir, casse radicalement la routine et signale une intention immédiate plutôt que différée. Elle ressent une surprise excitante face à cette rupture inattendue du timing habituel.",
+  "sectionTitle": "Post-its - Nuit sans limites",
+  "predictable": "Les moments intimes se réservent toujours au soir, jamais en journée",
+  "themes": [
+   "Desire",
+   "Primal",
+   "Playful"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Rideaux fermés en plein après-midi. Pas besoin d'attendre le soir pour certaines choses.",
+   "L'après-midi peut aussi avoir ses propres règles. Les rideaux fermés en sont la preuve."
+  ]
+ },
+ {
+  "actionTitle": "Sur le dernier vêtement plié avant de se coucher",
+  "text": "Ce vêtement sera le dernier à être plié soigneusement ce soir. Le reste suivra une autre logique.",
+  "effect": "Cette remarque légère et suggestive sur l'ordre du déshabillage installe une anticipation précise et assumée sans jamais être totalement explicite. Elle imagine la suite avec un sourire complice, ce qui intensifie la tension de la soirée à venir.",
+  "sectionTitle": "Post-its - Nuit sans limites",
+  "predictable": "Les vêtements se rangent avec la même logique chaque soir, sans exception",
+  "themes": [
+   "Desire",
+   "Playful",
+   "Primal"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Ce sera probablement le dernier vêtement plié soigneusement ce soir. Le reste ira plus vite.",
+   "Après celui-là, le pliage soigné s'arrête probablement là pour ce soir."
+  ]
  }
 ]
