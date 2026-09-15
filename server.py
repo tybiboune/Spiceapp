@@ -12,20 +12,13 @@ from flask import Flask, jsonify, request, send_from_directory
 from flask_cors import CORS
 
 # --- CONFIGURATION ---
-# Anchor paths to this file's location so the server works regardless of the
-# directory it's launched from (previously a relative "backend/database.db"
-# combined with `cd backend` in launch_app.bat silently created a nested
-# backend/backend/ folder).
+# Everything (server.py, index.html, database.db, *.json) lives flat in one
+# folder, mirroring the GitHub repo's layout 1:1 — this keeps the self-update
+# logic below a trivial path-for-path sync instead of a directory mapping.
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_PATH = os.path.join(BASE_DIR, "database.db")
-# Normal layout: backend/server.py + public/index.html as siblings.
-# Also tolerate a flat single-folder drop (server.py, database.db, index.html
-# all in the same directory, e.g. a simplified Termux copy) by falling back
-# to BASE_DIR itself when there's no sibling "public" folder.
-_sibling_public = os.path.join(BASE_DIR, "..", "public")
-PUBLIC_DIR = _sibling_public if os.path.isdir(_sibling_public) else BASE_DIR
 
-app = Flask(__name__, static_folder=PUBLIC_DIR, static_url_path='/')
+app = Flask(__name__, static_folder=BASE_DIR, static_url_path='/')
 CORS(app) # Allow cross-origin requests
 
 # --- SELF-UPDATE (pulls the latest files straight from GitHub) ---
@@ -34,17 +27,15 @@ GITHUB_REPO = "Spiceapp"
 GITHUB_BRANCH = "main"
 # database.db holds the user's own done/progress state — an update must
 # never overwrite it, however the repo's copy has changed.
-UPDATE_EXCLUDED_PATHS = {"backend/database.db"}
+UPDATE_EXCLUDED_PATHS = {"database.db"}
+# Repo-root files that aren't part of the running app (docs, git config, …).
+UPDATE_IGNORED_PATHS = {"README.md", ".gitignore"}
 
 def _repo_path_to_local(repo_path):
-    """Maps a path as it appears in the GitHub repo (e.g. "backend/server.py",
-    "public/index.html") to where it lives on disk, honoring the same
-    normal-vs-flat layout fallback used for BASE_DIR/PUBLIC_DIR above."""
-    if repo_path.startswith("backend/"):
-        return os.path.join(BASE_DIR, repo_path[len("backend/"):])
-    if repo_path.startswith("public/"):
-        return os.path.join(PUBLIC_DIR, repo_path[len("public/"):])
-    return None  # repo-root-only files (README.md, .gitignore, …) aren't part of the app
+    """Repo layout is flat and mirrors BASE_DIR directly — no directory mapping needed."""
+    if repo_path in UPDATE_IGNORED_PATHS or "/" in repo_path:
+        return None
+    return os.path.join(BASE_DIR, repo_path)
 
 def _git_blob_sha1(data):
     """GitHub's tree API reports each file's *git blob* SHA, not a plain file
@@ -175,7 +166,7 @@ def check_update():
 @app.route('/api/update', methods=['POST'])
 def apply_update():
     """Downloads every changed file from GitHub and overwrites the local copy.
-    If any backend file changed, the server process re-execs itself afterwards
+    If any .py file changed, the server process re-execs itself afterwards
     so the new code actually runs."""
     try:
         changed = _find_updates()
@@ -186,7 +177,7 @@ def apply_update():
             os.makedirs(os.path.dirname(local_path), exist_ok=True)
             with open(local_path, "wb") as f:
                 f.write(content)
-            if repo_path.startswith("backend/"):
+            if repo_path.endswith(".py"):
                 needs_restart = True
 
         if needs_restart:
