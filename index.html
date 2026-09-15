@@ -617,6 +617,23 @@
             updateToast.classList.remove('hidden');
         }
 
+        /**
+         * Loader variant of the toast: a numeric "current/total" counter plus
+         * a thin progress bar, updated once per file as the update downloads
+         * each changed file individually (see runUpdate()).
+         */
+        function showUpdateProgress(current, total, label) {
+            const pct = total > 0 ? Math.round((current / total) * 100) : 0;
+            updateToast.innerHTML = `
+                <div class="flex flex-col gap-1.5 min-w-[180px]">
+                    <span>${escapeHtml(label)} (${current}/${total})</span>
+                    <div class="w-full h-1.5 bg-slate-600 rounded-full overflow-hidden">
+                        <div class="h-full bg-white rounded-full transition-all duration-300" style="width:${pct}%"></div>
+                    </div>
+                </div>`;
+            updateToast.classList.remove('hidden');
+        }
+
         function hideUpdateToast() {
             updateToast.classList.add('hidden');
         }
@@ -669,9 +686,10 @@
          * so, shows the details popup once and clears the flag.
          */
         function showPendingUpdateDetailsIfAny() {
-            const raw = sessionStorage.getItem(UPDATE_PENDING_KEY);
+            let raw = null;
+            try { raw = sessionStorage.getItem(UPDATE_PENDING_KEY); } catch (e) { return; }
             if (!raw) return;
-            sessionStorage.removeItem(UPDATE_PENDING_KEY);
+            try { sessionStorage.removeItem(UPDATE_PENDING_KEY); } catch (e) { /* ignore */ }
             try {
                 showUpdateDetails(JSON.parse(raw));
             } catch (e) { /* corrupted/old value — ignore */ }
@@ -679,38 +697,58 @@
 
         /**
          * Downloads and applies any files changed on GitHub since this copy
-         * was last updated. If a backend file changed, the server restarts
-         * itself — this then polls until it's back up and reloads the page
-         * so the browser picks up the new frontend/backend together. Either
-         * way, once files were actually updated, a popup details what changed.
+         * was last updated, one file at a time (each call drives the numeric
+         * progress loader). If a .py file was among them, the server restarts
+         * itself afterwards — this then polls until it's back up and reloads
+         * the page so the browser picks up the new frontend/backend together.
+         * Either way, once files were actually updated, a popup details what
+         * changed (persisted across the reload via sessionStorage).
          */
         async function runUpdate() {
             updateBtn.disabled = true;
             showUpdateToast('Checking for updates…');
             try {
-                const response = await fetch('/api/update', { method: 'POST' });
-                const result = await response.json();
-                if (!response.ok) throw new Error(result.error || 'Update failed.');
+                const checkResponse = await fetch('/api/update/check', { cache: 'no-store' });
+                const checkResult = await checkResponse.json();
+                if (!checkResponse.ok) throw new Error(checkResult.error || 'Update check failed.');
 
-                if (result.updated.length === 0) {
+                const files = checkResult.files || [];
+                if (files.length === 0) {
                     showUpdateToast('Already up to date.');
                     setTimeout(hideUpdateToast, 2500);
                     updateBtn.disabled = false;
                     return;
                 }
 
+                const total = files.length;
+                showUpdateProgress(0, total, 'Downloading updates');
+                for (let i = 0; i < total; i++) {
+                    const response = await fetch('/api/update/file', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ path: files[i] }),
+                    });
+                    const result = await response.json();
+                    if (!response.ok) throw new Error(result.error || `Failed to update ${files[i]}.`);
+                    showUpdateProgress(i + 1, total, 'Downloading updates');
+                }
+
+                const restarting = files.some(f => f.endsWith('.py'));
+                const summary = { updated: files, restarting };
+
                 // The page is about to reload (immediately, or after the
                 // server restart below) — stash the result so the details
                 // popup can be shown again once the fresh page loads.
-                sessionStorage.setItem(UPDATE_PENDING_KEY, JSON.stringify(result));
+                try { sessionStorage.setItem(UPDATE_PENDING_KEY, JSON.stringify(summary)); } catch (e) { /* storage unavailable — popup just won't reappear */ }
 
-                if (result.restarting) {
-                    showUpdateToast(`Updated ${result.updated.length} file(s). Restarting server…`);
+                if (restarting) {
+                    showUpdateToast(`Updated ${total} file(s). Restarting server…`);
+                    await fetch('/api/update/restart', { method: 'POST' });
                     await waitForServerRestart();
                     showUpdateToast('Back online — reloading…');
                     setTimeout(() => window.location.reload(), 400);
                 } else {
-                    showUpdateToast(`Updated ${result.updated.length} file(s). Reloading…`);
+                    showUpdateToast(`Updated ${total} file(s). Reloading…`);
                     setTimeout(() => window.location.reload(), 800);
                 }
             } catch (error) {

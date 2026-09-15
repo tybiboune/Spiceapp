@@ -163,31 +163,37 @@ def check_update():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-@app.route('/api/update', methods=['POST'])
-def apply_update():
-    """Downloads every changed file from GitHub and overwrites the local copy.
-    If any .py file changed, the server process re-execs itself afterwards
-    so the new code actually runs."""
+@app.route('/api/update/file', methods=['POST'])
+def apply_update_file():
+    """Downloads and overwrites exactly one file. The frontend calls this
+    once per changed file (as reported by /api/update/check) so it can show
+    real download progress instead of one opaque all-or-nothing request."""
+    body = request.get_json(silent=True) or {}
+    repo_path = body.get('path')
+    if not repo_path:
+        return jsonify({"error": "Missing 'path'."}), 400
+    if repo_path in UPDATE_EXCLUDED_PATHS:
+        return jsonify({"error": f"'{repo_path}' is never overwritten by an update."}), 400
+    local_path = _repo_path_to_local(repo_path)
+    if local_path is None:
+        return jsonify({"error": f"'{repo_path}' is not an updatable app file."}), 400
     try:
-        changed = _find_updates()
-        needs_restart = False
-        for repo_path in changed:
-            content = _download_file(repo_path)
-            local_path = _repo_path_to_local(repo_path)
-            os.makedirs(os.path.dirname(local_path), exist_ok=True)
-            with open(local_path, "wb") as f:
-                f.write(content)
-            if repo_path.endswith(".py"):
-                needs_restart = True
-
-        if needs_restart:
-            threading.Thread(target=_restart_process, daemon=True).start()
-
-        return jsonify({"updated": changed, "restarting": needs_restart})
+        content = _download_file(repo_path)
+        os.makedirs(os.path.dirname(local_path), exist_ok=True)
+        with open(local_path, "wb") as f:
+            f.write(content)
+        return jsonify({"path": repo_path})
     except (urllib.error.URLError, urllib.error.HTTPError) as e:
         return jsonify({"error": f"Could not reach GitHub: {e}"}), 502
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+@app.route('/api/update/restart', methods=['POST'])
+def restart_after_update():
+    """Triggers the self-restart once the frontend has applied every file
+    from an update batch that included at least one changed .py file."""
+    threading.Thread(target=_restart_process, daemon=True).start()
+    return jsonify({"restarting": True})
 
 # --- STATIC FILE SERVING ---
 
@@ -208,4 +214,9 @@ if __name__ == '__main__':
     print("--- Starting Flask Server ---")
     print("Your app will be available at: http://127.0.0.1:5000")
     print("-----------------------------")
-    app.run(debug=debug_mode, port=5000, threaded=True)
+    # use_reloader=False: Werkzeug's own file-watching auto-restart would
+    # otherwise race with our explicit self-update restart (_restart_process)
+    # the moment an update writes a new server.py — the two would fight over
+    # restarting the same process, sometimes tearing down the connection
+    # before the /api/update/* response reaches the browser.
+    app.run(debug=debug_mode, port=5000, threaded=True, use_reloader=False)
