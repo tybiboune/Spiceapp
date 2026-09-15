@@ -182,6 +182,7 @@
                         </button>
                         <div class="flex items-center gap-2">
                             <button id="surprise-btn" class="hidden sm:inline-flex px-4 py-1.5 text-sm font-medium rounded-full bg-gradient-to-r from-pink-400 to-indigo-500 text-white hover:opacity-90 transition-opacity">✨ Surprise Me</button>
+                            <button id="update-btn" class="px-3 sm:px-4 py-1.5 text-sm font-medium rounded-full bg-white text-slate-600 border border-slate-300 hover:bg-slate-100 min-h-[44px]" title="Check GitHub for updated files and apply them">⬇️ Update</button>
                             <button id="reset-filters-btn" class="px-3 sm:px-4 py-1.5 text-sm font-medium rounded-full bg-white text-slate-600 border border-slate-300 hover:bg-slate-100 min-h-[44px]">Reset</button>
                         </div>
                     </div>
@@ -266,6 +267,9 @@
         ✨
     </button>
 
+    <!-- Update status toast: hidden until an update check/apply is in flight or has a result to report. -->
+    <div id="update-toast" role="status" aria-live="polite" class="hidden fixed z-40 left-1/2 -translate-x-1/2 bottom-[calc(1.25rem+env(safe-area-inset-bottom))] sm:bottom-6 max-w-[90vw] px-4 py-2.5 rounded-full shadow-xl bg-slate-800 text-white text-sm font-medium"></div>
+
     <!-- Details Modal -->
     <div id="details-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" class="fixed inset-0 bg-black bg-opacity-60 backdrop-blur-sm flex justify-center items-center sm:p-4 z-50 hidden">
         <div class="modal-sheet bg-white w-full sm:max-w-2xl max-h-[92vh] sm:max-h-[90vh] rounded-t-2xl sm:rounded-2xl shadow-2xl flex flex-col">
@@ -311,6 +315,8 @@
         const searchInput = document.getElementById('search-input');
         const resetFiltersBtn = document.getElementById('reset-filters-btn');
         const surpriseBtn = document.getElementById('surprise-btn');
+        const updateBtn = document.getElementById('update-btn');
+        const updateToast = document.getElementById('update-toast');
         const progressLabel = document.getElementById('progress-label');
         const progressPercent = document.getElementById('progress-percent');
         const progressBar = document.getElementById('progress-bar');
@@ -357,6 +363,7 @@
         searchInput.addEventListener('input', (e) => { currentFilters.search = e.target.value.trim().toLowerCase(); renderActions(); });
         resetFiltersBtn.addEventListener('click', resetFilters);
         surpriseBtn.addEventListener('click', surpriseMe);
+        updateBtn.addEventListener('click', runUpdate);
         document.querySelectorAll('.category-tab').forEach(btn => {
             btn.addEventListener('click', () => switchCategory(btn.dataset.category));
         });
@@ -578,7 +585,73 @@
             const pick = candidates[Math.floor(Math.random() * candidates.length)];
             showDetails(pick.id);
         }
-        
+
+        function showUpdateToast(message) {
+            updateToast.textContent = message;
+            updateToast.classList.remove('hidden');
+        }
+
+        function hideUpdateToast() {
+            updateToast.classList.add('hidden');
+        }
+
+        /**
+         * Downloads and applies any files changed on GitHub since this copy
+         * was last updated. If a backend file changed, the server restarts
+         * itself — this then polls until it's back up and reloads the page
+         * so the browser picks up the new frontend/backend together.
+         */
+        async function runUpdate() {
+            updateBtn.disabled = true;
+            showUpdateToast('Checking for updates…');
+            try {
+                const response = await fetch('/api/update', { method: 'POST' });
+                const result = await response.json();
+                if (!response.ok) throw new Error(result.error || 'Update failed.');
+
+                if (result.updated.length === 0) {
+                    showUpdateToast('Already up to date.');
+                    setTimeout(hideUpdateToast, 2500);
+                    updateBtn.disabled = false;
+                    return;
+                }
+
+                if (result.restarting) {
+                    showUpdateToast(`Updated ${result.updated.length} file(s). Restarting server…`);
+                    await waitForServerRestart();
+                    showUpdateToast('Back online — reloading…');
+                    setTimeout(() => window.location.reload(), 400);
+                } else {
+                    showUpdateToast(`Updated ${result.updated.length} file(s). Reloading…`);
+                    setTimeout(() => window.location.reload(), 800);
+                }
+            } catch (error) {
+                console.error('Update failed:', error);
+                showUpdateToast(`Update failed: ${error.message}`);
+                setTimeout(hideUpdateToast, 4000);
+                updateBtn.disabled = false;
+            }
+        }
+
+        /**
+         * Polls the server every second until it responds again (it goes
+         * down briefly while re-executing itself after a backend update).
+         */
+        async function waitForServerRestart() {
+            // Give the server a moment to actually start shutting down before
+            // we start expecting connection failures to mean "still restarting".
+            await new Promise(r => setTimeout(r, 1200));
+            for (let attempt = 0; attempt < 30; attempt++) {
+                try {
+                    const response = await fetch('/api/actions', { cache: 'no-store' });
+                    if (response.ok) return;
+                } catch (e) {
+                    // Server is down mid-restart — expected, keep polling.
+                }
+                await new Promise(r => setTimeout(r, 1000));
+            }
+        }
+
         /**
          * Creates the HTML for a single action card.
          */

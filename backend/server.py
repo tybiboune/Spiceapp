@@ -1,7 +1,13 @@
 
+import hashlib
 import json
 import os
 import sqlite3
+import sys
+import threading
+import time
+import urllib.error
+import urllib.request
 from flask import Flask, jsonify, request, send_from_directory
 from flask_cors import CORS
 
@@ -21,6 +27,68 @@ PUBLIC_DIR = _sibling_public if os.path.isdir(_sibling_public) else BASE_DIR
 
 app = Flask(__name__, static_folder=PUBLIC_DIR, static_url_path='/')
 CORS(app) # Allow cross-origin requests
+
+# --- SELF-UPDATE (pulls the latest files straight from GitHub) ---
+GITHUB_OWNER = "tybiboune"
+GITHUB_REPO = "Spiceapp"
+GITHUB_BRANCH = "main"
+# database.db holds the user's own done/progress state — an update must
+# never overwrite it, however the repo's copy has changed.
+UPDATE_EXCLUDED_PATHS = {"backend/database.db"}
+
+def _repo_path_to_local(repo_path):
+    """Maps a path as it appears in the GitHub repo (e.g. "backend/server.py",
+    "public/index.html") to where it lives on disk, honoring the same
+    normal-vs-flat layout fallback used for BASE_DIR/PUBLIC_DIR above."""
+    if repo_path.startswith("backend/"):
+        return os.path.join(BASE_DIR, repo_path[len("backend/"):])
+    if repo_path.startswith("public/"):
+        return os.path.join(PUBLIC_DIR, repo_path[len("public/"):])
+    return None  # repo-root-only files (README.md, .gitignore, …) aren't part of the app
+
+def _git_blob_sha1(data):
+    """GitHub's tree API reports each file's *git blob* SHA, not a plain file
+    hash — reproduce that so local files can be compared without downloading
+    them first."""
+    header = f"blob {len(data)}\0".encode()
+    return hashlib.sha1(header + data).hexdigest()
+
+def _fetch_remote_tree():
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/git/trees/{GITHUB_BRANCH}?recursive=1"
+    req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        data = json.loads(resp.read())
+    return [item for item in data.get("tree", []) if item.get("type") == "blob"]
+
+def _find_updates():
+    """Returns the list of repo-relative paths whose remote content differs
+    from (or is missing from) the local copy."""
+    changed = []
+    for item in _fetch_remote_tree():
+        repo_path = item["path"]
+        if repo_path in UPDATE_EXCLUDED_PATHS:
+            continue
+        local_path = _repo_path_to_local(repo_path)
+        if local_path is None:
+            continue
+        if os.path.isfile(local_path):
+            with open(local_path, "rb") as f:
+                if _git_blob_sha1(f.read()) == item["sha"]:
+                    continue
+        changed.append(repo_path)
+    return changed
+
+def _download_file(repo_path):
+    url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{GITHUB_BRANCH}/{repo_path}"
+    req = urllib.request.Request(url, headers={"User-Agent": "Spiceapp-updater"})
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        return resp.read()
+
+def _restart_process():
+    # Re-exec in place so the new server.py (if it changed) actually takes
+    # effect — a plain return would keep running the code already in memory.
+    time.sleep(1)
+    os.execv(sys.executable, [sys.executable] + sys.argv)
 
 def get_db_connection():
     """Creates a connection to the SQLite database."""
@@ -93,6 +161,43 @@ def toggle_variation_done(action_id, variation_index):
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+@app.route('/api/update/check', methods=['GET'])
+def check_update():
+    """Reports which files differ from the latest commit on GitHub, without changing anything."""
+    try:
+        changed = _find_updates()
+        return jsonify({"updateAvailable": len(changed) > 0, "files": changed})
+    except (urllib.error.URLError, urllib.error.HTTPError) as e:
+        return jsonify({"error": f"Could not reach GitHub: {e}"}), 502
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/api/update', methods=['POST'])
+def apply_update():
+    """Downloads every changed file from GitHub and overwrites the local copy.
+    If any backend file changed, the server process re-execs itself afterwards
+    so the new code actually runs."""
+    try:
+        changed = _find_updates()
+        needs_restart = False
+        for repo_path in changed:
+            content = _download_file(repo_path)
+            local_path = _repo_path_to_local(repo_path)
+            os.makedirs(os.path.dirname(local_path), exist_ok=True)
+            with open(local_path, "wb") as f:
+                f.write(content)
+            if repo_path.startswith("backend/"):
+                needs_restart = True
+
+        if needs_restart:
+            threading.Thread(target=_restart_process, daemon=True).start()
+
+        return jsonify({"updated": changed, "restarting": needs_restart})
+    except (urllib.error.URLError, urllib.error.HTTPError) as e:
+        return jsonify({"error": f"Could not reach GitHub: {e}"}), 502
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 # --- STATIC FILE SERVING ---
 
 @app.route('/')
@@ -112,4 +217,4 @@ if __name__ == '__main__':
     print("--- Starting Flask Server ---")
     print("Your app will be available at: http://127.0.0.1:5000")
     print("-----------------------------")
-    app.run(debug=debug_mode, port=5000)
+    app.run(debug=debug_mode, port=5000, threaded=True)
