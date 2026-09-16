@@ -5581,5 +5581,905 @@
    "Cette porte s'est refermée doucement, comme pour préserver un moment qui méritait cette discrétion.",
    "Un geste discret pour protéger un abandon rare, précieux à sa manière."
   ]
+ },
+ {
+  "actionTitle": "Sur la porte d'entrée, côté extérieur",
+  "text": "Avant d'entrer : cette maison est plus douce depuis que tu y vis. Bienvenue chez toi.",
+  "effect": "Accueillir explicitement son retour avec un mot chaleureux, placé à l'extérieur même de la porte, marque une transition positive avant qu'elle n'entre. Elle franchit le seuil avec un sourire déjà présent, avant même de te retrouver physiquement.",
+  "sectionTitle": "Post-its - Le mot qui accueille",
+  "predictable": "Le retour à la maison se fait sans aucun mot d'accueil particulier",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cette maison a changé depuis que tu y vis. Bienvenue chez toi, chaque jour.",
+   "Avant d'entrer : ici, c'est un peu plus toi depuis que tu y es. Bienvenue."
+  ]
+ },
+ {
+  "actionTitle": "Sur le paillasson",
+  "text": "Essuie tes soucis ici, pas seulement tes chaussures. Cette maison ne les accepte pas.",
+  "effect": "Associer un geste pratique habituel (essuyer ses pieds) à une intention symbolique de laisser le stress dehors installe un rituel protecteur léger. Elle perçoit une invitation explicite à se délester du poids de sa journée avant d'entrer.",
+  "sectionTitle": "Post-its - Le mot qui accueille",
+  "predictable": "Le paillasson reste un simple objet fonctionnel, sans signification symbolique particulière",
+  "themes": [
+   "Care",
+   "Tender",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Laisse tes soucis ici avec la poussière de tes chaussures, cette maison n'en veut pas.",
+   "Ici, on essuie ses pieds et on laisse le stress dehors, promis."
+  ]
+ },
+ {
+  "actionTitle": "Sur la sonnette",
+  "text": "Même si tu as les clés, sache que sonner ici reçoit toujours le même accueil chaleureux.",
+  "effect": "Ce mot ludique associé à la sonnette souligne, avec légèreté, la constance de l'accueil qui l'attend, quel que soit le moyen d'entrer. Elle perçoit une promesse de chaleur constante, peu importe la façon dont elle rentre chez elle.",
+  "sectionTitle": "Post-its - Le mot qui accueille",
+  "predictable": "La sonnette reste un simple objet fonctionnel, sans mot ni intention particulière associée",
+  "themes": [
+   "Tender",
+   "Playful",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Que tu sonnes ou que tu utilises tes clés, l'accueil ici reste toujours aussi chaleureux.",
+   "Cette sonnette n'a jamais annoncé que de bonnes nouvelles depuis que tu es là."
+  ]
+ },
+ {
+  "actionTitle": "Sur le porte-clés accroché",
+  "text": "Ces clés ouvrent une maison, mais surtout un endroit où tu es toujours la bienvenue, à toute heure.",
+  "effect": "Associer un objet fonctionnel (les clés) à une déclaration d'accueil inconditionnel renforce le sentiment de sécurité et d'appartenance. Elle ressent que sa présence est toujours désirée, sans condition ni horaire particulier.",
+  "sectionTitle": "Post-its - Le mot qui accueille",
+  "predictable": "Les clés restent un objet purement fonctionnel, sans signification particulière associée",
+  "themes": [
+   "Tender",
+   "Care",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ces clés ouvrent bien plus qu'une porte, elles ouvrent un endroit qui t'attend toujours.",
+   "À toute heure, ces clés te donnent accès à un endroit où tu es chez toi, pleinement."
+  ]
+ },
+ {
+  "actionTitle": "Sur le vestiaire de l'entrée",
+  "text": "Accroche ta journée ici, avec ta veste. Ce qui compte maintenant, c'est la soirée qui commence.",
+  "effect": "Symboliser l'entrée comme un point de transition entre la journée extérieure et la soirée partagée aide à marquer une coupure nette. Elle perçoit une invitation claire à se recentrer sur le moment présent plutôt que sur les préoccupations du jour.",
+  "sectionTitle": "Post-its - Le mot qui accueille",
+  "predictable": "L'entrée reste un simple passage fonctionnel, sans symbolique de transition particulière",
+  "themes": [
+   "Tender",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Laisse ta journée ici, avec ton manteau. La soirée qui commence mérite toute ton attention.",
+   "Accroche le stress avec ta veste. Ce qui suit ici est fait pour être plus léger."
+  ]
+ },
+ {
+  "actionTitle": "Sur son bureau",
+  "text": "Je suis fier de la façon dont tu avances, même les jours où tu ne le vois pas toi-même.",
+  "effect": "Exprimer une fierté constante, indépendante des résultats visibles, valorise l'effort continu plutôt que la seule réussite ponctuelle. Elle ressent un soutien inconditionnel qui ne dépend pas de la performance du moment.",
+  "sectionTitle": "Post-its - La fierté silencieuse",
+  "predictable": "La fierté ne s'exprime généralement qu'en réaction à un résultat visible et concret",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Fier de toi, aujourd'hui comme les autres jours, que tu le voies ou non.",
+   "Ta façon d'avancer, même dans le doute, mérite d'être reconnue. Je la vois."
+  ]
+ },
+ {
+  "actionTitle": "Sur le miroir de la chambre",
+  "text": "Ce reflet ne montre qu'une partie de ce qui me rend fier de toi. L'autre partie ne se voit pas dans un miroir.",
+  "effect": "Distinguer la fierté liée à l'apparence de celle liée au caractère profond valorise des qualités invisibles mais essentielles. Elle perçoit une reconnaissance qui dépasse le physique, touchant à des aspects plus intimes de sa personnalité.",
+  "sectionTitle": "Post-its - La fierté silencieuse",
+  "predictable": "La fierté exprimée reste généralement liée à ce qui est directement visible",
+  "themes": [
+   "Confidence",
+   "Compliment",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce miroir ne montre qu'une infime partie de ce qui me rend fier de toi chaque jour.",
+   "Ce que ce reflet ne montre pas, c'est la force de caractère qui me rend si fier de toi."
+  ]
+ },
+ {
+  "actionTitle": "Sur le tableau des objectifs",
+  "text": "Chaque étape que tu coches ici, même la plus petite, me rend un peu plus fier que la précédente.",
+  "effect": "Valoriser la progression cumulative plutôt que le seul objectif final reconnaît l'effort continu investi dans chaque étape. Elle ressent une reconnaissance constante de son parcours, pas seulement de son aboutissement.",
+  "sectionTitle": "Post-its - La fierté silencieuse",
+  "predictable": "Seul l'objectif final reçoit généralement une reconnaissance, pas les étapes intermédiaires",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Chaque petite étape cochée ici ajoute un peu plus à la fierté que j'ai déjà de toi.",
+   "Ce tableau raconte une progression dont je suis fier à chaque étape, pas seulement à la fin."
+  ]
+ },
+ {
+  "actionTitle": "Sur le sac de sport",
+  "text": "Ce que tu accomplis ici, séance après séance, ne passe pas inaperçu à mes yeux.",
+  "effect": "Reconnaître explicitement un effort physique régulier, souvent invisible aux yeux des autres, valorise sa discipline personnelle. Elle ressent que son engagement, même dans un cadre non partagé directement avec toi, est vu et apprécié.",
+  "sectionTitle": "Post-its - La fierté silencieuse",
+  "predictable": "Les efforts physiques réguliers restent généralement non commentés, sauf résultat visible",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Compliment"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Séance après séance, ce que tu accomplis ici ne m'échappe pas, même en silence.",
+   "Ta discipline avec ce sac de sport mérite d'être reconnue, même sans grand résultat visible encore."
+  ]
+ },
+ {
+  "actionTitle": "Sur le frigo, près des recettes",
+  "text": "Ce que tu prépares ici pour nous deux, chaque soir, mérite plus de reconnaissance que je ne t'en donne.",
+  "effect": "Reconnaître explicitement une tâche régulière et souvent sous-estimée, comme préparer les repas, valorise un effort invisible du quotidien. Elle ressent une gratitude sincère pour un travail souvent pris pour acquis.",
+  "sectionTitle": "Post-its - La fierté silencieuse",
+  "predictable": "Les tâches régulières du quotidien restent généralement prises pour acquises, sans reconnaissance",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce que tu prépares ici chaque soir mérite bien plus de merci que je ne t'en donne habituellement.",
+   "Derrière chaque repas préparé ici, il y a un effort que je devrais reconnaître plus souvent."
+  ]
+ },
+ {
+  "actionTitle": "Sur l'oreiller un soir de doute",
+  "text": "Cette nuit, sache que peu importe ce qui te tracasse, demain reste un jour de plus à traverser ensemble.",
+  "effect": "Associer une inquiétude ressentie à une promesse de continuité rassure sur la solidité du soutien apporté, indépendamment du problème précis. Elle s'endort avec un sentiment de sécurité partagée plutôt que de solitude face à ses doutes.",
+  "sectionTitle": "Post-its - Le mot qui rassure",
+  "predictable": "Les soirs de doute se passent généralement sans mot de réconfort particulier laissé",
+  "themes": [
+   "Care",
+   "Tender",
+   "Intimacy"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Peu importe ce qui te préoccupe ce soir, demain on l'affronte ensemble, comme toujours.",
+   "Cette nuit, laisse tes doutes de côté. Je suis là, et ça ne changera pas."
+  ]
+ },
+ {
+  "actionTitle": "Sur le miroir de la salle de bain, un matin difficile",
+  "text": "Ce miroir ment un peu ce matin s'il te montre quelqu'un de faible. Tu es plus forte que tu ne le crois.",
+  "effect": "Contredire explicitement une perception négative de soi-même, ressentie face au miroir, valorise sa force réelle plutôt que son doute passager. Elle reçoit un rappel rassurant précisément dans un moment de vulnérabilité personnelle.",
+  "sectionTitle": "Post-its - Le mot qui rassure",
+  "predictable": "Les matins difficiles se passent généralement sans mot de réconfort particulier",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Si ce miroir te montre de la faiblesse ce matin, il se trompe. Tu es bien plus forte que ça.",
+   "Peu importe ce que tu vois ce matin, sache que je vois quelqu'un de solide et admirable."
+  ]
+ },
+ {
+  "actionTitle": "Sur le carnet resté ouvert",
+  "text": "Quoi que tu sois en train de traverser, sache que ça ne dure jamais aussi longtemps qu'on le craint sur le moment.",
+  "effect": "Rappeler la nature temporaire des difficultés, au moment où elles semblent les plus intenses, apporte une perspective apaisante. Elle ressent un soutien qui relativise sans minimiser, ce qui aide à traverser un moment difficile avec plus de légèreté.",
+  "sectionTitle": "Post-its - Le mot qui rassure",
+  "predictable": "Les moments difficiles se traversent généralement seuls, sans mot de perspective rassurant",
+  "themes": [
+   "Care",
+   "Tender",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce que tu traverses maintenant semble long, mais ça ne durera pas éternellement, promis.",
+   "Les moments difficiles passent toujours, même quand ils semblent interminables sur l'instant."
+  ]
+ },
+ {
+  "actionTitle": "Sur la table de chevet, un soir de fatigue",
+  "text": "Repose-toi tranquille, je m'occupe du reste cette nuit. Tu n'as rien d'autre à porter.",
+  "effect": "Proposer explicitement de porter une charge à sa place, un soir de fatigue particulière, offre un vrai répit émotionnel. Elle ressent un soulagement immédiat, sachant qu'elle peut relâcher temporairement ses responsabilités.",
+  "sectionTitle": "Post-its - Le mot qui rassure",
+  "predictable": "Les soirs de fatigue se passent généralement sans proposition explicite de partage de charge",
+  "themes": [
+   "Care",
+   "Tender",
+   "Intimacy"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Repose-toi cette nuit, je prends le relais sur tout le reste, sans exception.",
+   "Ce soir, laisse-moi porter ce qui peut l'être. Toi, contente-toi de te reposer."
+  ]
+ },
+ {
+  "actionTitle": "Sur la fenêtre un jour de pluie",
+  "text": "Même les jours gris comme celui-ci, tu restes la plus belle chose que je regarde.",
+  "effect": "Associer une journée maussade à une déclaration positive contraste agréablement avec l'ambiance extérieure. Elle ressent une constance dans ton admiration, indépendante des conditions extérieures ou de l'humeur du jour.",
+  "sectionTitle": "Post-its - Le mot qui rassure",
+  "predictable": "Les jours de mauvais temps restent neutres, sans compliment particulier associé",
+  "themes": [
+   "Tender",
+   "Compliment",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Même sous la pluie, tu restes la plus belle chose que j'ai la chance de regarder.",
+   "Journée grise dehors, mais toi tu restes une vraie source de lumière, comme toujours."
+  ]
+ },
+ {
+  "actionTitle": "Sur le tableau de la cuisine",
+  "text": "Notre liste de courses a aussi une ligne cachée : 'continuer à bien s'amuser ensemble'. Coche-la mentalement chaque jour.",
+  "effect": "Glisser une intention relationnelle au milieu d'une liste pratique la traite avec le même sérieux qu'une tâche concrète à accomplir. Elle perçoit que le plaisir partagé fait partie intégrante de vos priorités quotidiennes, pas juste un supplément accessoire.",
+  "sectionTitle": "Post-its - La complicité affichée",
+  "predictable": "Les listes de courses restent purement fonctionnelles, sans intention relationnelle ajoutée",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Notre liste de courses a une ligne invisible : 'rester complices'. Elle se coche tous les jours.",
+   "Ajout à la liste habituelle : plus de fous rires cette semaine. Priorité absolue."
+  ]
+ },
+ {
+  "actionTitle": "Sur le calendrier partagé",
+  "text": "Ce mois-ci, notre rendez-vous le plus important reste celui qu'on se donne chaque soir, sans exception.",
+  "effect": "Désigner le temps quotidien partagé comme le rendez-vous le plus important du mois valorise la régularité au-dessus des événements ponctuels. Elle perçoit que la constance de votre lien compte plus que les grandes occasions isolées.",
+  "sectionTitle": "Post-its - La complicité affichée",
+  "predictable": "Les rendez-vous importants du mois restent uniquement les événements exceptionnels planifiés",
+  "themes": [
+   "Connection",
+   "Care",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Le rendez-vous le plus important de ce mois, c'est celui qu'on a chaque soir, discrètement.",
+   "Peu importe le programme du mois, notre rendez-vous quotidien reste la priorité numéro un."
+  ]
+ },
+ {
+  "actionTitle": "Sur le vieux ticket de cinéma gardé",
+  "text": "Ce petit bout de papier prouve qu'on sait encore créer des souvenirs qui durent, même des années après.",
+  "effect": "Réutiliser un objet du passé pour souligner la continuité de votre capacité à créer des souvenirs valorise la durabilité de votre complicité. Elle perçoit que votre histoire continue de s'enrichir, pas seulement de se répéter.",
+  "sectionTitle": "Post-its - La complicité affichée",
+  "predictable": "Les souvenirs matériels du passé restent rangés, sans être réactivés ou commentés",
+  "themes": [
+   "Nostalgia",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce vieux ticket prouve qu'on sait créer des souvenirs qui tiennent la route, année après année.",
+   "Un petit bout de papier, une grande preuve qu'on continue à construire des souvenirs ensemble."
+  ]
+ },
+ {
+  "actionTitle": "Sur le jeu de société rangé",
+  "text": "Ce jeu attend patiemment sa revanche. On devrait vraiment y remédier bientôt.",
+  "effect": "Rappeler avec humour une activité partagée en attente relance l'envie de renouer avec un moment ludique commun. Elle perçoit une invitation légère à se reconnecter autour d'un plaisir simple et partagé.",
+  "sectionTitle": "Post-its - La complicité affichée",
+  "predictable": "Les jeux de société restent rangés indéfiniment, sans être relancés spontanément",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce jeu réclame sa revanche depuis un moment. On s'en occupe cette semaine ?",
+   "La poussière s'accumule sur ce jeu. Grand temps d'y remédier, tu ne crois pas ?"
+  ]
+ },
+ {
+  "actionTitle": "Sur l'album photo laissé ouvert",
+  "text": "Chaque page ici raconte une raison de plus pour laquelle je choisis cette vie avec toi.",
+  "effect": "Associer un album photo à une réaffirmation d'engagement transforme un objet nostalgique en déclaration actuelle et continue. Elle perçoit que le passé partagé nourrit directement la certitude de ton choix présent.",
+  "sectionTitle": "Post-its - La complicité affichée",
+  "predictable": "Les albums photo restent des souvenirs passifs, sans lien explicite avec le présent",
+  "themes": [
+   "Nostalgia",
+   "Romantic",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Chaque photo ici est une preuve de plus que cette vie avec toi est exactement celle que je veux.",
+   "Cet album raconte pourquoi je referais exactement les mêmes choix, encore et encore."
+  ]
+ },
+ {
+  "actionTitle": "Sur le vernis à ongles",
+  "text": "J'ai remarqué la nouvelle couleur hier, je n'ai juste pas trouvé le bon moment pour te le dire. La voilà, l'occasion.",
+  "effect": "Remarquer un détail esthétique avec un léger différé, plutôt qu'immédiatement, prouve une attention sincère qui persiste même sans réaction sur le moment. Elle perçoit que ton regard sur elle reste actif même en dehors des instants où tu le formules.",
+  "sectionTitle": "Post-its - Le détail remarqué",
+  "predictable": "Les changements d'apparence reçoivent un commentaire immédiat ou aucun commentaire du tout",
+  "themes": [
+   "Compliment",
+   "Tender",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cette nouvelle couleur ne m'a pas échappé hier, je te le dis juste un peu en retard.",
+   "Remarqué depuis hier : cette couleur te va particulièrement bien."
+  ]
+ },
+ {
+  "actionTitle": "Sur la nouvelle paire de chaussures",
+  "text": "Ces nouvelles chaussures ont un style qui te va vraiment bien. Je les avais remarquées dès le premier jour.",
+  "effect": "Complimenter un achat récent et personnel valorise ses choix esthétiques individuels, indépendamment de ton propre avis habituel. Elle ressent une validation de son goût personnel, appréciée sans qu'elle ait eu à le demander.",
+  "sectionTitle": "Post-its - Le détail remarqué",
+  "predictable": "Les nouveaux achats personnels restent généralement sans commentaire particulier",
+  "themes": [
+   "Compliment",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ces chaussures te vont vraiment bien, je l'ai remarqué dès que tu les as sorties la première fois.",
+   "Ton nouveau style avec ces chaussures ne m'a pas échappé, et j'aime beaucoup."
+  ]
+ },
+ {
+  "actionTitle": "Sur la coupe de cheveux fraîche",
+  "text": "Cette coupe te va particulièrement bien, encore plus que je ne l'aurais imaginé.",
+  "effect": "Complimenter un changement d'apparence significatif, comme une nouvelle coupe, valorise sa confiance dans un moment souvent chargé d'appréhension. Elle ressent une validation rassurante de son choix, surtout si elle avait des doutes au départ.",
+  "sectionTitle": "Post-its - Le détail remarqué",
+  "predictable": "Les changements de coiffure reçoivent rarement un commentaire précis et sincère",
+  "themes": [
+   "Compliment",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cette nouvelle coupe te va encore mieux que je ne l'aurais imaginé. Vraiment réussie.",
+   "J'adore ce changement de coiffure, ça te va à merveille."
+  ]
+ },
+ {
+  "actionTitle": "Sur le parfum différent porté",
+  "text": "Ce nouveau parfum a quelque chose de particulièrement envoûtant sur toi. Je l'ai remarqué immédiatement.",
+  "effect": "Remarquer un changement olfactif subtil prouve une attention sensorielle fine, rarement mentionnée explicitement. Elle perçoit une observation attentive qui va au-delà du visuel, touchant à un détail plus discret.",
+  "sectionTitle": "Post-its - Le détail remarqué",
+  "predictable": "Les changements de parfum restent généralement non commentés, même remarqués",
+  "themes": [
+   "Compliment",
+   "Sensory",
+   "Desire"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 2,
+  "variations": [
+   "Ce nouveau parfum est particulièrement réussi sur toi. Remarqué dès la première seconde.",
+   "Ton parfum d'aujourd'hui a quelque chose de différent, et j'aime beaucoup ce changement."
+  ]
+ },
+ {
+  "actionTitle": "Sur le carnet de dessin",
+  "text": "Ce dernier croquis montre un vrai progrès depuis le précédent. Je le remarque, même si tu ne le dis pas toi-même.",
+  "effect": "Remarquer une progression créative, même modeste, valorise un effort artistique souvent minimisé par la personne elle-même. Elle ressent une reconnaissance objective de son évolution, indépendante de sa propre autocritique.",
+  "sectionTitle": "Post-its - Le détail remarqué",
+  "predictable": "Les progrès créatifs personnels restent généralement non commentés par l'entourage",
+  "themes": [
+   "Compliment",
+   "Confidence",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce dernier dessin montre clairement un progrès. Je le vois, même si toi tu ne t'en rends peut-être pas compte.",
+   "Ton dernier croquis est vraiment réussi, une belle évolution depuis le précédent."
+  ]
+ },
+ {
+  "actionTitle": "Sur la couverture du canapé",
+  "text": "Ce soir, viens t'installer ici avec moi, sans autre projet que de rester proches un moment.",
+  "effect": "Formuler une invitation simple et sans enjeu particulier facilite un moment de proximité sans pression ni attente précise. Elle ressent une invitation chaleureuse et accessible, facile à accepter sans réflexion complexe.",
+  "sectionTitle": "Post-its - L'invitation douce",
+  "predictable": "Les moments de proximité sur le canapé se décident sur le moment, sans invitation particulière",
+  "themes": [
+   "Tender",
+   "Intimacy",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Installe-toi ici avec moi ce soir, juste pour être proches, sans autre objectif.",
+   "Une place t'attend ici ce soir, sans condition, juste pour se poser ensemble."
+  ]
+ },
+ {
+  "actionTitle": "Sur la théière",
+  "text": "Un thé et une conversation tranquille t'attendent, dès que tu es prête. Aucune urgence particulière.",
+  "effect": "Proposer un moment de partage simple, sans urgence, invite à une pause détendue plutôt qu'à une obligation. Elle perçoit une disponibilité tranquille de ta part, sans pression de timing particulier.",
+  "sectionTitle": "Post-its - L'invitation douce",
+  "predictable": "Les pauses thé ou café se prennent généralement seul, sans invitation particulière formulée",
+  "themes": [
+   "Tender",
+   "Connection",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Un thé chaud t'attend, dès que tu as un moment. Aucune urgence, juste une invitation tranquille.",
+   "Viens quand tu veux, ce thé n'ira nulle part, et moi non plus."
+  ]
+ },
+ {
+  "actionTitle": "Sur le plaid plié sur le fauteuil",
+  "text": "Ce plaid, ce fauteuil, et moi juste à côté : tout est prêt pour une soirée tranquille dès que tu veux.",
+  "effect": "Préparer physiquement un espace accueillant avant même de formuler l'invitation montre une anticipation attentionnée. Elle perçoit que tu as pensé à ce moment avant qu'elle n'exprime la moindre envie particulière.",
+  "sectionTitle": "Post-its - L'invitation douce",
+  "predictable": "Les soirées tranquilles se décident au dernier moment, sans préparation particulière anticipée",
+  "themes": [
+   "Tender",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Tout est prêt pour une soirée tranquille ici, dès que tu es partante.",
+   "Le plaid est déplié, le fauteuil est prêt, il ne manque plus que toi."
+  ]
+ },
+ {
+  "actionTitle": "Sur la platine vinyle",
+  "text": "Un disque attend d'être joué, juste pour nous deux, quand tu seras prête à t'arrêter un moment.",
+  "effect": "Proposer un moment musical partagé, sans urgence particulière, invite à une pause agréable et détendue. Elle ressent une invitation douce, facile à accepter sans planification complexe ni pression de temps.",
+  "sectionTitle": "Post-its - L'invitation douce",
+  "predictable": "La musique se met sans intention particulière de partage, souvent en solo",
+  "themes": [
+   "Tender",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Un disque nous attend, dès que tu veux faire une pause rien que pour nous deux.",
+   "La musique est prête à être partagée, quand tu auras un moment de libre."
+  ]
+ },
+ {
+  "actionTitle": "Sur le tapis de yoga déplié",
+  "text": "Ce tapis est déplié pour deux, si l'envie te prend de faire une pause détente avec moi aujourd'hui.",
+  "effect": "Préparer un espace pour une activité partagée, sans forcer la participation, laisse une invitation ouverte et non contraignante. Elle perçoit une proposition douce, sans pression de devoir répondre immédiatement.",
+  "sectionTitle": "Post-its - L'invitation douce",
+  "predictable": "Les activités de détente se pratiquent généralement seul, sans invitation explicite à les partager",
+  "themes": [
+   "Tender",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce tapis est prêt pour deux, si l'envie d'une pause détente commune se présente.",
+   "Une petite pause bien-être t'attend ici, à deux, quand tu voudras."
+  ]
+ },
+ {
+  "actionTitle": "Sur la coquille de coquillage ramassée",
+  "text": "Ce petit coquillage vient de nos vacances. Un souvenir minuscule pour un moment qui, lui, ne l'était pas.",
+  "effect": "Associer un objet minuscule à un souvenir important donne une valeur symbolique disproportionnée à un objet en apparence insignifiant. Elle perçoit que même les plus petits détails de vos voyages méritent d'être conservés et chéris.",
+  "sectionTitle": "Post-its - Le souvenir qu'on garde",
+  "predictable": "Les petits objets ramassés en voyage se perdent ou se jettent, sans valeur particulière accordée",
+  "themes": [
+   "Nostalgia",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce coquillage minuscule garde un souvenir de vacances qui, lui, était loin d'être minuscule.",
+   "Un petit objet pour un grand souvenir, gardé précieusement depuis nos dernières vacances."
+  ]
+ },
+ {
+  "actionTitle": "Sur le programme du concert gardé",
+  "text": "Ce bout de papier a assisté à un de nos meilleurs soirs. Je ne me résous pas à le jeter.",
+  "effect": "Conserver un objet lié à un événement marqué émotionnellement prouve l'attachement porté à ce souvenir précis. Elle réalise que ce moment continue d'être valorisé bien après sa fin, à travers un simple objet gardé.",
+  "sectionTitle": "Post-its - Le souvenir qu'on garde",
+  "predictable": "Les objets liés aux sorties passées se jettent rapidement, sans valeur sentimentale accordée",
+  "themes": [
+   "Nostalgia",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce programme de concert reste un témoin précieux d'une de nos plus belles soirées.",
+   "Impossible de jeter ce bout de papier, il porte un souvenir que je veux garder."
+  ]
+ },
+ {
+  "actionTitle": "Sur la carte postale jamais envoyée",
+  "text": "Cette carte postale ne partira jamais, mais elle raconte un souvenir que je voulais garder rien que pour nous.",
+  "effect": "Garder une carte postale non envoyée, uniquement pour la valeur du souvenir personnel, prouve une intention purement sentimentale plutôt que fonctionnelle. Elle découvre un geste discret qui témoigne d'une attention portée à conserver vos moments partagés.",
+  "sectionTitle": "Post-its - Le souvenir qu'on garde",
+  "predictable": "Les cartes postales de voyage s'envoient ou se jettent, rarement gardées sans fonction précise",
+  "themes": [
+   "Nostalgia",
+   "Romantic",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cette carte ne sera jamais postée, mais le souvenir qu'elle porte valait la peine d'être gardé.",
+   "Gardée précieusement, cette carte raconte un moment que je ne voulais pas voir s'effacer."
+  ]
+ },
+ {
+  "actionTitle": "Sur le bracelet en tissu usé",
+  "text": "Ce bracelet un peu élimé raconte plus d'histoires qu'il n'y paraît. Je ne suis pas près de m'en séparer.",
+  "effect": "Attacher une valeur sentimentale à un objet usé, plutôt que de le remplacer, souligne l'attachement porté au souvenir qu'il représente. Elle perçoit que la valeur affective dépasse largement l'état matériel de l'objet.",
+  "sectionTitle": "Post-its - Le souvenir qu'on garde",
+  "predictable": "Les objets usés se remplacent généralement sans considération pour leur valeur sentimentale",
+  "themes": [
+   "Nostalgia",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce bracelet élimé porte plus de souvenirs qu'il n'y paraît. Aucune envie de le remplacer.",
+   "Usé mais précieux, ce bracelet raconte une histoire que je veux continuer à porter."
+  ]
+ },
+ {
+  "actionTitle": "Sur le plan de la ville visitée ensemble",
+  "text": "Ce plan tout froissé a guidé nos pas dans une ville qu'on a adoptée ensemble, le temps d'un voyage.",
+  "effect": "Conserver un objet fonctionnel, comme un plan de ville, transforme un outil pratique en témoin symbolique d'un souvenir partagé. Elle réalise que même les objets les plus utilitaires de vos voyages gardent une valeur affective une fois le voyage terminé.",
+  "sectionTitle": "Post-its - Le souvenir qu'on garde",
+  "predictable": "Les objets pratiques de voyage se jettent une fois leur utilité terminée, sans valeur symbolique",
+  "themes": [
+   "Nostalgia",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce plan froissé a guidé nos pas dans une ville qu'on a aimée ensemble, le temps d'un séjour.",
+   "Gardé précieusement, ce plan raconte un voyage qu'on ne veut pas complètement laisser au passé."
+  ]
+ },
+ {
+  "actionTitle": "Sur le CV en cours de rédaction",
+  "text": "Ce document ne montre qu'une fraction de tout ce dont tu es capable. Le reste, je le vois au quotidien.",
+  "effect": "Relativiser la portée d'un document formel comme un CV, en soulignant qu'il ne capture pas toute sa valeur, rassure sur sa richesse personnelle au-delà des lignes écrites. Elle ressent un soutien qui dépasse le cadre professionnel étroit d'un simple document.",
+  "sectionTitle": "Post-its - Le mot qui pousse à croire en soi",
+  "predictable": "Les documents professionnels restent perçus comme le reflet complet de ses compétences",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce CV ne dit qu'une petite partie de qui tu es vraiment. Le reste, je le vois chaque jour.",
+   "Peu importe ce que montre ce document, je connais toute l'étendue de tes capacités."
+  ]
+ },
+ {
+  "actionTitle": "Sur le formulaire de candidature",
+  "text": "Quoi qu'il en ressorte, sache que je crois en toi, indépendamment du résultat final.",
+  "effect": "Dissocier explicitement la confiance accordée du résultat futur d'une démarche importante rassure sur un soutien inconditionnel. Elle ressent une sécurité affective qui ne dépend pas de la réussite ou de l'échec de la démarche entreprise.",
+  "sectionTitle": "Post-its - Le mot qui pousse à croire en soi",
+  "predictable": "Le soutien exprimé reste généralement conditionné au résultat final d'une démarche importante",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Peu importe le résultat de cette candidature, ma confiance en toi reste entière.",
+   "Quoi qu'il arrive avec ce formulaire, sache que je crois sincèrement en toi."
+  ]
+ },
+ {
+  "actionTitle": "Sur le miroir avant un entretien important",
+  "text": "Respire. Tu as tout ce qu'il faut pour réussir ça, et bien plus encore.",
+  "effect": "Rassurer explicitement juste avant un moment stressant, comme un entretien, offre un soutien immédiat au moment où il compte le plus. Elle reçoit une confiance renforcée précisément quand elle en a le plus besoin.",
+  "sectionTitle": "Post-its - Le mot qui pousse à croire en soi",
+  "predictable": "Les moments stressants comme les entretiens se vivent généralement sans mot d'encouragement immédiat",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Respire un grand coup. Tu as toutes les qualités nécessaires pour que ça se passe bien.",
+   "Avant d'y aller, rappelle-toi : tu es prête, bien plus que tu ne le penses."
+  ]
+ },
+ {
+  "actionTitle": "Sur le carnet de projets personnels",
+  "text": "Chaque idée notée ici mérite d'être prise au sérieux, y compris par toi-même.",
+  "effect": "Encourager à prendre ses propres idées au sérieux valorise son ambition personnelle, souvent minimisée par elle-même. Elle ressent un soutien qui l'invite à croire davantage en la légitimité de ses projets.",
+  "sectionTitle": "Post-its - Le mot qui pousse à croire en soi",
+  "predictable": "Les projets personnels notés restent souvent minimisés par leur propre auteure",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Chaque idée ici mérite d'être prise au sérieux, y compris par la personne qui l'a écrite.",
+   "Ce carnet contient des idées qui valent la peine d'être poursuivies. Crois-y autant que moi."
+  ]
+ },
+ {
+  "actionTitle": "Sur la porte de la salle d'examen ou de réunion",
+  "text": "Tu entres dans cette pièce avec plus de compétences que tu ne le crois. Vas-y.",
+  "effect": "Rassurer juste avant un moment d'évaluation, en soulignant ses compétences réelles, renforce la confiance au moment le plus critique. Elle ressent un soutien immédiat qui contrecarre le doute habituel avant une épreuve importante.",
+  "sectionTitle": "Post-its - Le mot qui pousse à croire en soi",
+  "predictable": "Les moments d'évaluation se vivent généralement seule, sans encouragement immédiat avant d'entrer",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Tu as toutes les compétences nécessaires pour ce qui t'attend derrière cette porte. Vas-y.",
+   "Avant d'entrer, souviens-toi : tu es bien plus prête que tu ne le penses."
+  ]
+ },
+ {
+  "actionTitle": "Sur le pot de yaourt vide",
+  "text": "Même les objets les plus insignifiants de cette maison ont de la chance de faire partie de ta vie.",
+  "effect": "Ce mot absurde et léger, posé sur un objet totalement banal, crée un effet de surprise humoristique qui détend l'atmosphère. Elle sourit face à cette exagération volontaire, appréciant la créativité derrière ce geste inattendu.",
+  "sectionTitle": "Post-its - Le mot qui surprend",
+  "predictable": "Les objets les plus banals de la maison restent neutres, sans mot ni intention particulière",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Même ce pot vide a de la chance d'avoir croisé ta route aujourd'hui. Absurde, mais vrai.",
+   "Ce yaourt fini raconte une vérité universelle : tout ce qui te touche a de la chance."
+  ]
+ },
+ {
+  "actionTitle": "Sur la facture d'électricité",
+  "text": "Ce document ennuyeux ne mérite clairement pas autant d'attention que toi. Priorités, toujours.",
+  "effect": "Détourner avec humour un document administratif banal pour y glisser un compliment crée un contraste amusant et inattendu. Elle sourit face à cette légèreté inattendue, glissée dans un contexte particulièrement peu romantique.",
+  "sectionTitle": "Post-its - Le mot qui surprend",
+  "predictable": "Les documents administratifs restent purement fonctionnels, sans aucune touche personnelle ajoutée",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Compliment"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cette facture ne mérite clairement pas la moitié de l'attention que je te porte. Priorités bien fixées.",
+   "Un document ennuyeux, comparé à toi qui restes bien plus intéressante. Aucune contestation possible."
+  ]
+ },
+ {
+  "actionTitle": "Sur le rouleau de papier toilette vide",
+  "text": "Même dans les moments les plus banals de la vie domestique, penser à toi reste une constante agréable.",
+  "effect": "Ce mot placé dans un contexte volontairement dérisoire crée un effet comique qui détend et amuse plutôt que d'être pris au sérieux. Elle rit de cette légèreté totalement assumée, glissée dans un endroit inattendu de la maison.",
+  "sectionTitle": "Post-its - Le mot qui surprend",
+  "predictable": "Les tâches domestiques les plus banales restent sans aucune touche d'humour particulière",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Même ici, dans ce moment peu glorieux du quotidien, une pensée pour toi s'invite naturellement.",
+   "Rouleau vide, pensée pleine : tu occupes de l'espace même dans les recoins les plus improbables."
+  ]
+ },
+ {
+  "actionTitle": "Sur la brosse à récurer",
+  "text": "Cet objet peu glamour partage quand même l'honneur de faire partie de notre quotidien avec toi.",
+  "effect": "Associer un objet ménager peu attrayant à une déclaration affectueuse crée un décalage comique tout en restant sincère. Elle apprécie l'autodérision et la légèreté de ce mot placé dans un contexte inattendu.",
+  "sectionTitle": "Post-its - Le mot qui surprend",
+  "predictable": "Les objets ménagers du quotidien restent neutres, sans aucun mot ni intention associée",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Même cet objet peu glamour a l'honneur de faire partie de notre quotidien avec toi. Chanceux, cet objet.",
+   "Pas l'objet le plus romantique de la maison, mais l'occasion était trop belle pour un petit mot."
+  ]
+ },
+ {
+  "actionTitle": "Sur l'emballage vide d'un paquet de chips",
+  "text": "Preuve irréfutable qu'on a passé une bonne soirée ensemble. Les miettes ne mentent jamais.",
+  "effect": "Utiliser un déchet du quotidien comme preuve ironique d'un bon moment partagé crée un souvenir léger et amusant. Elle sourit à cette façon inattendue de commémorer une soirée simple et sans prétention.",
+  "sectionTitle": "Post-its - Le mot qui surprend",
+  "predictable": "Les objets liés à une soirée simple se jettent sans laisser de trace ni de mot particulier",
+  "themes": [
+   "Playful",
+   "Nostalgia",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Preuve indéniable d'une bonne soirée : cet emballage vide raconte tout sans un mot de plus.",
+   "Les miettes de cette soirée ne mentent pas, c'était un bon moment, et ce paquet vide en est la preuve."
+  ]
+ },
+ {
+  "actionTitle": "Sur la boîte à céréales",
+  "text": "Même au rayon le moins glamour du petit-déjeuner, une pensée pour toi trouve toujours sa place.",
+  "effect": "Glisser une pensée affectueuse sur un objet aussi banal qu'une boîte de céréales crée un contraste léger et amusant. Elle sourit face à cette attention inattendue, nichée dans un recoin totalement ordinaire de la cuisine.",
+  "sectionTitle": "Post-its - Le clin d'œil du quotidien",
+  "predictable": "Les objets les plus banals de la cuisine restent neutres, sans aucune attention particulière",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Même ici, au rayon le moins romantique de la maison, une pensée pour toi s'invite.",
+   "Cette boîte de céréales n'a rien de spécial, sauf la pensée qui l'accompagne ce matin."
+  ]
+ },
+ {
+  "actionTitle": "Sur l'éponge de vaisselle",
+  "text": "Notre véritable superpouvoir n'est pas de faire la vaisselle sans se plaindre, mais de le faire ensemble en rigolant.",
+  "effect": "Associer une tâche ménagère peu appréciée à un compliment sur votre complicité valorise la façon dont vous abordez le quotidien ensemble. Elle perçoit une reconnaissance de votre dynamique positive, même dans les corvées les plus banales.",
+  "sectionTitle": "Post-its - Le clin d'œil du quotidien",
+  "predictable": "Les tâches ménagères restent purement fonctionnelles, sans aucune valorisation de la complicité qu'elles impliquent",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Notre vrai talent, c'est de rendre la vaisselle presque supportable grâce à nos fous rires.",
+   "Même cette corvée devient légère dès qu'on la fait ensemble, en rigolant."
+  ]
+ },
+ {
+  "actionTitle": "Sur le sac poubelle plein",
+  "text": "Même les tâches les plus ingrates de cette maison ont la chance de faire partie d'une vie que j'adore, avec toi.",
+  "effect": "Utiliser une tâche désagréable comme prétexte à une déclaration affectueuse crée un contraste comique tout en restant sincère. Elle sourit à cette façon inattendue de trouver de la douceur même dans les corvées les plus banales.",
+  "sectionTitle": "Post-its - Le clin d'œil du quotidien",
+  "predictable": "Les corvées les plus ingrates restent sans aucune touche affectueuse ou humoristique associée",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Même sortir les poubelles fait partie d'une vie que j'adore, simplement parce que tu en fais partie.",
+   "Cette tâche peu glorieuse a quand même le mérite de faire partie de notre quotidien partagé."
+  ]
+ },
+ {
+  "actionTitle": "Sur le rouleau de scotch",
+  "text": "Ce rouleau colle moins bien que nous deux ensemble, honnêtement. On forme une bien meilleure équipe.",
+  "effect": "Comparer humoristiquement un objet fonctionnel à votre complicité souligne, avec légèreté, la solidité de votre lien. Elle sourit face à cette comparaison absurde qui, pourtant, exprime une vérité sincère sur votre duo.",
+  "sectionTitle": "Post-its - Le clin d'œil du quotidien",
+  "predictable": "Les objets du quotidien restent neutres, sans comparaison particulière avec la relation",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce scotch tient moins bien que notre duo, clairement. On est une bien meilleure équipe.",
+   "Même cet objet basique me fait penser, par contraste, à quel point on colle bien ensemble."
+  ]
+ },
+ {
+  "actionTitle": "Sur la brosse à cheveux",
+  "text": "Même les journées où tout part un peu dans tous les sens, comme mes cheveux ce matin, tu restes mon point stable.",
+  "effect": "Utiliser une métaphore capillaire légère pour exprimer un sentiment de stabilité émotionnelle crée un message à la fois humoristique et sincère. Elle perçoit une déclaration touchante glissée dans un objet totalement anodin du quotidien.",
+  "sectionTitle": "Post-its - Le clin d'œil du quotidien",
+  "predictable": "Les objets de toilette restent purement fonctionnels, sans aucune métaphore ou message associé",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Même les jours les plus chaotiques, un peu comme mes cheveux ce matin, tu restes mon point d'ancrage.",
+   "Cette brosse ne peut rien pour mes cheveux en bataille, mais toi tu restes mon point stable, toujours."
+  ]
  }
 ]

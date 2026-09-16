@@ -7107,5 +7107,905 @@
    "Laisse tomber toute protection émotionnelle ce matin-là, juste pour être entièrement toi-même avec elle.",
    "Montre-toi complètement disponible et sans filtre, sans la moindre retenue habituelle."
   ]
+ },
+ {
+  "actionTitle": "L'accueil qui arrête le temps",
+  "text": "Quand elle rentre, pose ce que tu fais, va à sa rencontre jusqu'à la porte et prends-la dans tes bras avant qu'elle n'ait posé son sac.",
+  "effect": "Ce geste d'accueil actif, plutôt qu'un simple bonjour depuis le canapé, marque une transition claire entre son dehors stressant et votre intérieur. Elle ressent une priorité immédiate donnée à sa présence, avant même la logistique du retour.",
+  "sectionTitle": "Le rituel de la porte",
+  "predictable": "Le retour à la maison se fait sans interruption de ce que chacun est en train de faire",
+  "themes": [
+   "Care",
+   "Connection",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Attends-la juste derrière la porte un soir, pour la surprendre dès qu'elle entre.",
+   "Descends les escaliers ou traverse la pièce dès que tu entends la clé dans la serrure."
+  ]
+ },
+ {
+  "actionTitle": "Le départ qui ne s'oublie pas",
+  "text": "Avant qu'elle ne parte le matin, retiens-la deux secondes de plus que d'habitude, juste pour ancrer ce moment avant la journée.",
+  "effect": "Prolonger légèrement un rituel de départ automatique lui donne une intensité inhabituelle qui marque le début de sa journée. Elle emporte ce court instant supplémentaire avec elle, ce qui adoucit la séparation.",
+  "sectionTitle": "Le rituel de la porte",
+  "predictable": "Le départ du matin se fait rapidement, sans marquer particulièrement le moment",
+  "themes": [
+   "Tender",
+   "Care",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Accompagne-la jusqu'à la porte plutôt que de rester assis, juste pour ces quelques pas de plus.",
+   "Dis-lui un mot doux précis avant qu'elle ne franchisse le pas de la porte, différent chaque jour."
+  ]
+ },
+ {
+  "actionTitle": "Le seuil comme frontière symbolique",
+  "text": "Un soir, arrête-la sur le pas de la porte avant d'entrer et dis-lui : 'Ce qui reste dehors, reste dehors. Ici, c'est notre bulle.'",
+  "effect": "Marquer symboliquement le seuil de la maison comme frontière entre le stress extérieur et l'intimité du foyer crée un rituel protecteur. Elle ressent que tu veilles activement à préserver votre espace commun des tensions du dehors.",
+  "sectionTitle": "Le rituel de la porte",
+  "predictable": "Les soucis extérieurs s'invitent souvent directement dans la maison, sans transition",
+  "themes": [
+   "Care",
+   "Connection",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Installe un petit rituel de 'sas' à l'entrée, comme secouer les soucis avant de rentrer, mimé ensemble.",
+   "Dis simplement 'bienvenue à la maison' avec un sourire, comme si chaque retour méritait cette phrase."
+  ]
+ },
+ {
+  "actionTitle": "Le message avant l'arrivée",
+  "text": "Cinq minutes avant qu'elle rentre, envoie-lui un message qui la fait sourire, pour qu'elle arrive déjà de bonne humeur.",
+  "effect": "Préparer son humeur avant même son arrivée physique montre une attention anticipative plutôt que réactive. Elle franchit la porte avec un sourire déjà là, ce qui change la tonalité de toute la soirée.",
+  "sectionTitle": "Le rituel de la porte",
+  "predictable": "L'humeur du retour dépend uniquement de la journée vécue, sans intervention extérieure",
+  "themes": [
+   "Playful",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Envoie une photo ou un mot doux juste avant qu'elle ne prenne le chemin du retour.",
+   "Prépare une petite musique ou une ambiance particulière pour son arrivée, sans qu'elle s'y attende."
+  ]
+ },
+ {
+  "actionTitle": "La question qui change tout",
+  "text": "Remplace le classique 'ça va ?' du retour par une question plus précise, comme 'quel a été le meilleur moment de ta journée ?'",
+  "effect": "Une question plus spécifique invite à une réponse plus riche et sincère qu'un simple 'ça va' souvent répondu par automatisme. Elle se sent réellement écoutée, ce qui approfondit la conversation dès les premières minutes du retour.",
+  "sectionTitle": "Le rituel de la porte",
+  "predictable": "Le retour se marque par un 'ça va ?' auquel on répond machinalement 'oui, et toi'",
+  "themes": [
+   "Connection",
+   "Communication",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Demande-lui plutôt 'qu'est-ce qui t'a fait rire aujourd'hui ?' pour varier la question habituelle.",
+   "Pose une question totalement différente chaque soir, jamais la même deux fois de suite."
+  ]
+ },
+ {
+  "actionTitle": "Le trophée improvisé",
+  "text": "Après un petit succès du quotidien (une tâche accomplie, un défi relevé), improvise une petite remise de 'trophée' absurde avec un objet du quotidien.",
+  "effect": "Ce rituel ludique valorise ses réussites, même mineures, avec une légèreté qui évite le sérieux excessif. Elle associe désormais ses petites victoires à un moment de rire partagé plutôt qu'à une simple case cochée.",
+  "sectionTitle": "Le langage des petites victoires",
+  "predictable": "Les petites réussites du quotidien passent inaperçues, sans être célébrées",
+  "themes": [
+   "Playful",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Utilise une cuillère en bois comme micro pour une fausse interview de célébration.",
+   "Improvise un discours de remerciement exagérément dramatique pour une victoire minuscule."
+  ]
+ },
+ {
+  "actionTitle": "La danse de la victoire à deux",
+  "text": "Quand elle t'annonce une bonne nouvelle, même petite, lance immédiatement une danse improvisée et ridicule avec elle, sans réfléchir.",
+  "effect": "Réagir physiquement et immédiatement à une bonne nouvelle amplifie sa joie en la rendant contagieuse et partagée. Elle ressent que ses succès deviennent instantanément une célébration commune, pas juste une information transmise.",
+  "sectionTitle": "Le langage des petites victoires",
+  "predictable": "Les bonnes nouvelles reçoivent un compliment poli mais sans réaction physique particulière",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Improvise une petite chorégraphie de trois secondes à chaque bonne nouvelle, toujours différente.",
+   "Fais un high-five suivi d'un tour sur toi-même à chaque victoire annoncée, aussi petite soit-elle."
+  ]
+ },
+ {
+  "actionTitle": "Le mur des réussites",
+  "text": "Installez un petit espace visuel (post-it, tableau) où vous notez chacun une réussite de la semaine, même minuscule, à relire le dimanche.",
+  "effect": "Rendre visibles et cumulables les petites réussites du quotidien construit une mémoire positive du temps qui passe. Elle prend conscience de ses progrès sur la durée, plutôt que de les oublier aussitôt accomplis.",
+  "sectionTitle": "Le langage des petites victoires",
+  "predictable": "Les réussites de la semaine restent non comptabilisées, oubliées une fois passées",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Utilisez des gommettes de couleur différente selon le type de réussite pour rendre le mur plus visuel.",
+   "Prenez une photo du mur chaque mois avant de le vider, pour garder une trace de l'évolution."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment public discret",
+  "text": "Devant des amis ou de la famille, glisse une phrase qui valorise discrètement une réussite récente d'elle, sans en faire trop.",
+  "effect": "Valoriser publiquement ses réussites, avec mesure, prouve une fierté sincère qui dépasse l'intimité du couple. Elle se sent reconnue devant les autres, ce qui renforce sa confiance en société.",
+  "sectionTitle": "Le langage des petites victoires",
+  "predictable": "Les réussites personnelles restent uniquement commentées en privé, jamais devant d'autres",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Compliment"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Raconte une de ses réussites récentes à un ami commun, avec une fierté sincère et sans exagération.",
+   "Mentionne discrètement un de ses succès lors d'un dîner, juste assez pour qu'elle le remarque."
+  ]
+ },
+ {
+  "actionTitle": "Le souvenir des difficultés surmontées",
+  "text": "Un soir calme, rappelle-lui une difficulté qu'elle a surmontée il y a quelque temps et dis-lui à quel point tu es fier du chemin parcouru.",
+  "effect": "Revenir sur un obstacle dépassé, avec le recul du temps, valorise sa résilience plutôt que le simple résultat final. Elle prend conscience du chemin parcouru, ce qui renforce sa confiance face aux défis à venir.",
+  "sectionTitle": "Le langage des petites victoires",
+  "predictable": "Les difficultés passées restent oubliées une fois surmontées, sans retour dessus",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Nostalgia"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Compare sa situation actuelle à celle d'il y a un an, pour souligner le chemin parcouru concrètement.",
+   "Écris cette réflexion dans un mot plutôt que de la dire à voix haute, pour qu'elle puisse la garder."
+  ]
+ },
+ {
+  "actionTitle": "La question qu'on n'a jamais posée",
+  "text": "Un soir, pose-lui une question sur son enfance ou sa jeunesse que tu ne lui as, étonnamment, jamais posée.",
+  "effect": "Découvrir un pan encore inexploré de son histoire personnelle, même après des années ensemble, prouve qu'il reste toujours quelque chose à apprendre l'un de l'autre. Elle se sent redécouverte, ce qui ravive la curiosité mutuelle propre aux débuts d'une relation.",
+  "sectionTitle": "La curiosité renouvelée",
+  "predictable": "Les histoires personnelles se considèrent comme entièrement connues après quelques années",
+  "themes": [
+   "Connection",
+   "Communication",
+   "Nostalgia"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Demande-lui quel métier elle rêvait de faire enfant, et pourquoi ce choix avait du sens pour elle.",
+   "Interroge-la sur un souvenir précis de vacances d'enfance qu'elle n'a jamais eu l'occasion de raconter."
+  ]
+ },
+ {
+  "actionTitle": "Le sujet tabou abordé avec légèreté",
+  "text": "Choisis un sujet que vous évitez habituellement par gêne ou habitude, et abordez-le un soir avec humour et légèreté plutôt que sérieux.",
+  "effect": "Aborder un sujet évité avec légèreté plutôt que gravité facilite l'ouverture d'une conversation autrement difficile. Elle se sent plus libre d'exprimer son avis, sans la pression d'un débat sérieux.",
+  "sectionTitle": "La curiosité renouvelée",
+  "predictable": "Certains sujets restent systématiquement évités par gêne, sans jamais être abordés",
+  "themes": [
+   "Communication",
+   "Playful",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Introduis le sujet par une blague avant de l'aborder plus sérieusement, pour désamorcer la tension.",
+   "Proposez un jeu de questions-réponses anonymes écrites, pour aborder le sujet plus facilement."
+  ]
+ },
+ {
+  "actionTitle": "La liste des choses à essayer ensemble",
+  "text": "Proposez chacun trois choses que vous n'avez jamais essayées ensemble, même les plus simples, et planifiez d'en cocher une ce mois-ci.",
+  "effect": "Constituer une liste concrète de nouveautés à explorer ensemble transforme une intention vague en projet suivi d'effet. Elle ressent une dynamique d'exploration continue, plutôt qu'une routine qui se répète sans jamais évoluer.",
+  "sectionTitle": "La curiosité renouvelée",
+  "predictable": "Les nouvelles expériences se proposent au hasard, sans liste ni suivi particulier",
+  "themes": [
+   "Connection",
+   "Playful",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Limitez la liste à des choses réalisables en une soirée, pour garder le projet simple et accessible.",
+   "Alternez le choix chaque mois entre vous deux, chacun proposant l'expérience suivante à essayer."
+  ]
+ },
+ {
+  "actionTitle": "L'interview improvisée",
+  "text": "Un soir, propose de jouer les journalistes l'un pour l'autre, avec de vraies questions sur ses opinions, ses goûts, ses projets, comme pour une interview sérieuse.",
+  "effect": "Ce cadre ludique invite à formuler des pensées habituellement diffuses de façon plus structurée et réfléchie. Elle découvre une facette plus articulée de tes opinions, et toi des siennes, dans un format qui sort de la conversation informelle habituelle.",
+  "sectionTitle": "La curiosité renouvelée",
+  "predictable": "Les opinions et projets personnels se partagent de façon informelle, sans jamais être structurés",
+  "themes": [
+   "Connection",
+   "Communication",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Enregistrez l'interview en audio, pour pouvoir la réécouter dans quelques années avec amusement.",
+   "Préparez chacun trois questions à l'avance, sans les montrer à l'autre avant le jeu."
+  ]
+ },
+ {
+  "actionTitle": "Le sujet du mois",
+  "text": "Choisissez ensemble un thème (un pays, une époque, un sujet scientifique) à explorer chacun de votre côté pendant un mois, pour en discuter régulièrement.",
+  "effect": "Explorer un sujet commun sur la durée crée un fil rouge intellectuel qui nourrit vos conversations au-delà du quotidien pratique. Elle ressent une stimulation partagée qui dynamise vos échanges sur plusieurs semaines.",
+  "sectionTitle": "La curiosité renouvelée",
+  "predictable": "Les sujets de conversation restent limités au quotidien immédiat, sans exploration approfondie",
+  "themes": [
+   "Intellectual",
+   "Connection",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Fixez un rendez-vous hebdomadaire de quinze minutes pour partager ce que vous avez découvert.",
+   "Terminez le mois par une petite activité liée au thème choisi, comme un plat ou un film."
+  ]
+ },
+ {
+  "actionTitle": "La réparation silencieuse",
+  "text": "Après une petite tension ou un désaccord, répare la situation par un geste plutôt que par des mots supplémentaires, comme préparer son plat préféré sans rien dire.",
+  "effect": "Un geste concret après une tension évite la surenchère verbale et montre une volonté de réconciliation par l'action plutôt que par la justification. Elle perçoit une intention claire de dépasser le désaccord, sans avoir à revenir dessus par les mots.",
+  "sectionTitle": "Le geste qui répare",
+  "predictable": "Les tensions se résolvent uniquement par la discussion, jamais par un geste concret",
+  "themes": [
+   "Care",
+   "Connection",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Laisse un petit mot d'excuse sincère sans rouvrir le sujet du désaccord lui-même.",
+   "Propose une activité simple qu'elle aime, sans mentionner la tension passée, juste pour repartir sur une note positive."
+  ]
+ },
+ {
+  "actionTitle": "Le premier pas assumé",
+  "text": "Après une dispute, sois le premier à faire un geste de rapprochement, même si tu penses avoir raison sur le fond.",
+  "effect": "Prendre l'initiative de la réconciliation, indépendamment de qui a 'raison', priorise la relation sur l'ego. Elle ressent que la paix du couple compte plus à tes yeux que d'avoir le dernier mot.",
+  "sectionTitle": "Le geste qui répare",
+  "predictable": "Après une dispute, chacun attend que l'autre fasse le premier pas vers la réconciliation",
+  "themes": [
+   "Vulnerability",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Propose un câlin sans un mot, juste pour signaler que tu es prêt à passer à autre chose.",
+   "Dis simplement 'je préfère qu'on soit bien plutôt que d'avoir raison' pour désamorcer la tension."
+  ]
+ },
+ {
+  "actionTitle": "La lettre après la tempête",
+  "text": "Après un désaccord difficile, écris-lui une courte lettre exprimant ce que tu ressens vraiment, une fois les émotions retombées.",
+  "effect": "Prendre le temps d'écrire, après le pic émotionnel d'une dispute, permet une expression plus posée et réfléchie que sur le moment. Elle reçoit une communication plus claire et moins chargée d'impulsivité que celle échangée pendant le conflit.",
+  "sectionTitle": "Le geste qui répare",
+  "predictable": "Les désaccords se règlent uniquement dans l'instant, sans retour réfléchi après coup",
+  "themes": [
+   "Vulnerability",
+   "Communication",
+   "Care"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Envoie un message plutôt qu'une lettre manuscrite, pour un geste plus rapide mais toujours réfléchi.",
+   "Relis ta lettre avant de la donner, pour t'assurer qu'elle reflète bien ce que tu ressens sincèrement."
+  ]
+ },
+ {
+  "actionTitle": "Le rituel de fin de dispute",
+  "text": "Instaurez un petit rituel fixe pour officiellement clore une dispute, comme une phrase précise ou un geste convenu à l'avance, tous les deux.",
+  "effect": "Un rituel de clôture explicite évite qu'une dispute ne traîne sans fin claire, ce qui rassure sur le retour à la normale. Elle sait exactement quand le sujet est définitivement clos, sans ambiguïté persistante.",
+  "sectionTitle": "Le geste qui répare",
+  "predictable": "Les disputes se terminent de façon floue, sans marqueur clair signalant leur fin",
+  "themes": [
+   "Connection",
+   "Care",
+   "Communication"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Choisissez un mot de code qui signale que la dispute est officiellement terminée pour vous deux.",
+   "Terminez systématiquement par un câlin de dix secondes, comme signal physique de réconciliation."
+  ]
+ },
+ {
+  "actionTitle": "L'excuse qui va au-delà des mots",
+  "text": "Quand tu as clairement tort, ne te contente pas d'un 'désolé' rapide, mais explique précisément ce que tu comprends de son ressenti.",
+  "effect": "Une excuse détaillée, qui montre une réelle compréhension de son ressenti, est plus réparatrice qu'un mot rapide et automatique. Elle se sent réellement entendue dans sa frustration, pas juste apaisée superficiellement.",
+  "sectionTitle": "Le geste qui répare",
+  "predictable": "Les excuses se limitent souvent à un mot rapide, sans développement ni reconnaissance précise",
+  "themes": [
+   "Vulnerability",
+   "Communication",
+   "Care"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 1,
+  "variations": [
+   "Nomme précisément ce que tu as mal fait, sans minimiser ni te trouver d'excuses annexes.",
+   "Demande-lui ensuite ce qui l'aiderait à se sentir mieux, plutôt que de supposer la réponse."
+  ]
+ },
+ {
+  "actionTitle": "La private joke plantée exprès",
+  "text": "Glisse une référence à une de vos private jokes en plein milieu d'une conversation sérieuse, juste pour voir sa réaction amusée.",
+  "effect": "Insérer une blague complice dans un moment sérieux détend l'atmosphère tout en rappelant votre connivence unique. Elle apprécie ce clin d'œil qui casse la gravité du moment sans le désamorcer complètement.",
+  "sectionTitle": "L'humour comme colle",
+  "predictable": "Les conversations sérieuses restent sérieuses du début à la fin, sans aucune légèreté glissée",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Secret Language"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Utilise un mot codé issu d'une blague ancienne en pleine discussion technique ou logistique.",
+   "Fais un clin d'œil discret au moment exact où la private joke pourrait s'appliquer, sans un mot."
+  ]
+ },
+ {
+  "actionTitle": "Le sketch improvisé",
+  "text": "Un soir sans énergie particulière, propose d'improviser une petite scène absurde à deux, sur un thème tiré au hasard.",
+  "effect": "Improviser ensemble une scène absurde libère la créativité collective et casse la monotonie d'une soirée fatiguée. Elle redécouvre une facette ludique et spontanée de votre dynamique, loin du sérieux du quotidien.",
+  "sectionTitle": "L'humour comme colle",
+  "predictable": "Les soirées sans énergie se passent devant un écran, sans interaction créative particulière",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Tirez un thème au hasard dans un chapeau, puis improvisez chacun un personnage lié à ce thème.",
+   "Filmez discrètement une partie de l'improvisation, pour pouvoir la regarder ensemble plus tard en riant."
+  ]
+ },
+ {
+  "actionTitle": "La blague qui devient rituel",
+  "text": "Trouve une blague récurrente que tu répètes à un moment précis et prévisible de la journée, jusqu'à ce qu'elle devienne un rituel attendu.",
+  "effect": "Une blague répétée régulièrement à un moment fixe crée un petit rituel rassurant et attendu dans le quotidien. Elle anticipe ce moment avec un sourire, ce qui ajoute une touche de légèreté régulière à votre routine.",
+  "sectionTitle": "L'humour comme colle",
+  "predictable": "Les blagues restent ponctuelles, sans jamais devenir un rituel régulier attendu",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Répète systématiquement la même blague absurde chaque dimanche matin, jusqu'à ce qu'elle l'attende.",
+   "Change légèrement la blague à chaque fois, tout en gardant la structure identique et reconnaissable."
+  ]
+ },
+ {
+  "actionTitle": "Le rire qui désamorce",
+  "text": "Face à une petite contrariété du quotidien, propose systématiquement une version exagérément dramatique et comique de la situation, pour en rire ensemble.",
+  "effect": "Transformer une contrariété mineure en scénario comique exagéré permet de la dédramatiser rapidement et de la partager avec légèreté. Elle apprécie cette capacité à relativiser ensemble plutôt que de laisser la frustration s'installer.",
+  "sectionTitle": "L'humour comme colle",
+  "predictable": "Les petites contrariétés du quotidien restent vécues avec agacement, sans dédramatisation",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Raconte la contrariété comme si c'était un film catastrophe, avec une voix de bande-annonce.",
+   "Invente un nom ridicule et dramatique pour désigner la petite contrariété du jour, à répéter en riant."
+  ]
+ },
+ {
+  "actionTitle": "Le concours de mauvaises blagues",
+  "text": "Lancez un petit concours informel de la blague la plus nulle de la semaine, à départager le dimanche soir avec un faux trophée.",
+  "effect": "Ce concours ludique valorise l'humour, même raté, plutôt que de viser uniquement la blague réussie. Elle prend plaisir à ce jeu régulier qui célèbre la spontanéité plus que la performance comique elle-même.",
+  "sectionTitle": "L'humour comme colle",
+  "predictable": "Les blagues se racontent sans enjeu ni suivi particulier au fil de la semaine",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Notez chaque mauvaise blague de la semaine sur un petit carnet dédié, pour les relire le dimanche.",
+   "Désignez un objet ridicule de la maison comme trophée officiel du concours hebdomadaire."
+  ]
+ },
+ {
+  "actionTitle": "La zone sans téléphone",
+  "text": "Instaurez une zone physique de la maison (le lit, la table à manger) où les téléphones sont formellement interdits, sans exception.",
+  "effect": "Délimiter un espace physique protégé des écrans crée un sanctuaire garanti pour la connexion sans distraction. Elle sait que dans cet espace précis, son attention lui est acquise sans partage avec les notifications.",
+  "sectionTitle": "Le temps qu'on protège",
+  "predictable": "Les téléphones restent à portée de main partout dans la maison, sans zone dédiée les excluant",
+  "themes": [
+   "Connection",
+   "Care",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Installez une petite boîte à l'entrée de la chambre où les téléphones doivent rester le soir.",
+   "Fixez une règle simple : le premier qui sort son téléphone dans la zone interdite doit un gage léger."
+  ]
+ },
+ {
+  "actionTitle": "L'heure sacrée hebdomadaire",
+  "text": "Choisissez une heure fixe chaque semaine, gravée dans les deux agendas, entièrement dédiée à vous deux, sans négociation possible.",
+  "effect": "Fixer un créneau récurrent et non négociable garantit un temps de qualité indépendant des aléas de la semaine. Elle ressent une sécurité stable, sachant que ce moment est protégé quoi qu'il arrive par ailleurs.",
+  "sectionTitle": "Le temps qu'on protège",
+  "predictable": "Le temps ensemble dépend entièrement des disponibilités variables de chaque semaine",
+  "themes": [
+   "Connection",
+   "Care",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Bloquez ce créneau dans vos agendas respectifs comme un rendez-vous professionnel important.",
+   "Alternez qui organise cette heure chaque semaine, pour varier les activités proposées."
+  ]
+ },
+ {
+  "actionTitle": "Le jour sans notification",
+  "text": "Choisissez ensemble un jour du mois où vous désactivez toutes les notifications non essentielles, pour rester pleinement présents l'un à l'autre.",
+  "effect": "Réduire drastiquement les distractions numériques sur une journée entière permet une présence rare et complète l'un envers l'autre. Elle ressent une attention totale, débarrassée des sollicitations habituelles du quotidien connecté.",
+  "sectionTitle": "Le temps qu'on protège",
+  "predictable": "Les notifications restent actives en permanence, sans jour dédié à leur désactivation",
+  "themes": [
+   "Connection",
+   "Care",
+   "Intimacy"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Limitez l'expérience à une demi-journée plutôt qu'une journée complète, pour une version plus légère.",
+   "Prévenez vos proches à l'avance de cette journée sans notifications, pour éviter toute inquiétude."
+  ]
+ },
+ {
+  "actionTitle": "La priorité affichée",
+  "text": "Un jour particulièrement chargé, dis-lui clairement : 'Aujourd'hui est plein, mais toi tu restes ma priorité, même dix minutes comptent.'",
+  "effect": "Affirmer explicitement sa priorité même dans un emploi du temps chargé rassure sur la place qu'elle occupe, indépendamment des contraintes extérieures. Elle ressent une sécurité affective qui ne dépend pas de la quantité de temps disponible mais de l'intention exprimée.",
+  "sectionTitle": "Le temps qu'on protège",
+  "predictable": "Les journées chargées relèguent souvent le temps ensemble en dernière priorité, sans le dire",
+  "themes": [
+   "Care",
+   "Connection",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Trouve dix minutes précises dans une journée chargée, et annonce-les comme un rendez-vous fixe.",
+   "Envoie un message en pleine journée chargée, juste pour confirmer que tu penses quand même à elle."
+  ]
+ },
+ {
+  "actionTitle": "Le week-end sans plan",
+  "text": "Un week-end, ne planifiez absolument rien à l'avance, et laissez chaque heure se décider ensemble, sur le moment.",
+  "effect": "Renoncer à toute planification laisse place à la spontanéité et à l'écoute mutuelle des envies du moment. Elle ressent une liberté rare, loin de la pression habituelle de remplir chaque case de l'agenda.",
+  "sectionTitle": "Le temps qu'on protège",
+  "predictable": "Les week-ends se planifient toujours à l'avance, sans place pour l'improvisation totale",
+  "themes": [
+   "Connection",
+   "Playful",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Fixez une seule règle : aucune activité décidée avant midi le samedi, tout le reste s'improvise.",
+   "Autorisez-vous à changer d'avis en cours de route, sans culpabilité, si une meilleure idée surgit."
+  ]
+ },
+ {
+  "actionTitle": "La scène improvisée",
+  "text": "Un soir, demande-lui de te montrer un talent qu'elle garde discret, même modeste, et regarde-la avec une attention totale pendant qu'elle le fait.",
+  "effect": "Solliciter activement un talent rarement montré valorise une facette d'elle-même qu'elle n'a pas l'habitude d'exposer. Elle se sent admirée dans une dimension de sa personnalité souvent laissée de côté.",
+  "sectionTitle": "Le talent qu'on révèle",
+  "predictable": "Les talents discrets restent inexploités, jamais sollicités dans le quotidien du couple",
+  "themes": [
+   "Confidence",
+   "Connection",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Demande-lui de te chanter ou fredonner quelque chose qu'elle aime, même si elle n'est pas à l'aise.",
+   "Propose-lui de te montrer un dessin ou une création qu'elle garde habituellement pour elle."
+  ]
+ },
+ {
+  "actionTitle": "Le professeur inversé",
+  "text": "Demande-lui de t'apprendre une compétence précise qu'elle maîtrise et que tu ne connais pas du tout, en jouant sérieusement le rôle de l'élève.",
+  "effect": "Se positionner en élève valorise son expertise et lui permet d'occuper un rôle d'autorité rarement expérimenté dans la relation. Elle ressent une reconnaissance de sa compétence, ce qui inverse agréablement la dynamique habituelle.",
+  "sectionTitle": "Le talent qu'on révèle",
+  "predictable": "Ses compétences spécifiques restent rarement sollicitées ou mises en avant activement",
+  "themes": [
+   "Confidence",
+   "Connection",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Demande-lui de t'enseigner une recette qu'elle maîtrise parfaitement, en suivant ses instructions à la lettre.",
+   "Filmez la leçon pour en garder une trace amusante, à regarder ensemble plus tard."
+  ]
+ },
+ {
+  "actionTitle": "Le concours amical",
+  "text": "Défiez-vous sur une compétence où elle excelle particulièrement, en acceptant à l'avance ta défaite probable avec bonne humeur.",
+  "effect": "Accepter par avance une défaite probable dans un domaine où elle excelle valorise son talent sans chercher à rivaliser artificiellement. Elle savoure une victoire méritée, dans un cadre ludique et sans enjeu réel.",
+  "sectionTitle": "Le talent qu'on révèle",
+  "predictable": "Les compétences respectives restent rarement mises à l'épreuve dans un cadre ludique partagé",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Propose un petit défi dans son domaine de prédilection, en assumant à l'avance ta défaite avec humour.",
+   "Filmez le concours pour immortaliser sa victoire, avec une fausse remise de médaille à la fin."
+  ]
+ },
+ {
+  "actionTitle": "La démonstration publique discrète",
+  "text": "Devant des amis, encourage-la avec sincérité à montrer un talent qu'elle garde habituellement pour elle, sans insister si elle refuse.",
+  "effect": "Créer une occasion sociale pour révéler un talent caché, tout en respectant son refus éventuel, valorise sa confiance sans la forcer. Elle ressent un soutien sincère qui l'encourage sans jamais la mettre mal à l'aise.",
+  "sectionTitle": "Le talent qu'on révèle",
+  "predictable": "Les talents personnels restent cantonnés à la sphère privée, jamais montrés en société",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Mentionne discrètement son talent devant des amis, en la laissant décider si elle veut le montrer.",
+   "Propose un contexte léger et sans pression, comme une soirée jeux, pour révéler naturellement son talent."
+  ]
+ },
+ {
+  "actionTitle": "L'objet-témoin gardé précieusement",
+  "text": "Garde précieusement un objet lié à un talent ou une passion qu'elle a un jour partagé avec toi, et montre-lui que tu l'as conservé.",
+  "effect": "Conserver un objet symbolique lié à une passion partagée prouve une valorisation durable de cet aspect de sa personnalité. Elle réalise que ce moment partagé a eu un impact suffisant pour que tu en gardes une trace concrète.",
+  "sectionTitle": "Le talent qu'on révèle",
+  "predictable": "Les objets liés aux passions partagées se perdent ou s'oublient avec le temps",
+  "themes": [
+   "Nostalgia",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Retrouve un dessin ou une création qu'elle t'a offerte il y a longtemps et montre-lui que tu l'as gardée.",
+   "Mentionne un souvenir précis lié à un talent qu'elle t'a montré, pour prouver que tu t'en souviens encore."
+  ]
+ },
+ {
+  "actionTitle": "Le repas sans écran",
+  "text": "Un soir, proposez de manger sans aucun écran allumé, ni téléphone ni télévision, juste vous deux et la conversation.",
+  "effect": "Supprimer toute distraction pendant le repas recentre entièrement l'attention sur l'échange direct et la présence mutuelle. Elle ressent une qualité de présence rare, débarrassée des interruptions habituelles du quotidien connecté.",
+  "sectionTitle": "Le rythme qu'on ralentit",
+  "predictable": "Les repas se prennent généralement avec un écran en fond, par habitude",
+  "themes": [
+   "Connection",
+   "Communication",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Limitez l'expérience à un seul repas par semaine, pour en faire un rituel régulier et attendu.",
+   "Ajoutez une bougie ou une ambiance particulière pour marquer ce moment comme différent des autres."
+  ]
+ },
+ {
+  "actionTitle": "La marche sans but",
+  "text": "Un soir, sortez marcher sans destination ni objectif de temps, juste pour le plaisir d'être dehors ensemble, sans pression.",
+  "effect": "Marcher sans but précis libère l'esprit de toute contrainte et invite à une conversation plus détendue et spontanée. Elle ressent un temps entièrement dédié à votre présence mutuelle, sans objectif à atteindre.",
+  "sectionTitle": "Le rythme qu'on ralentit",
+  "predictable": "Les sorties se planifient toujours avec un objectif ou une destination précise",
+  "themes": [
+   "Connection",
+   "Playful",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Laissez le hasard décider de la direction à chaque intersection, sans itinéraire prévu.",
+   "Fixez une durée approximative mais aucune destination, juste pour marcher et parler librement."
+  ]
+ },
+ {
+  "actionTitle": "Le silence partagé sans gêne",
+  "text": "Un soir, restez simplement assis ensemble en silence, sans chercher à combler l'espace par une conversation ou un écran.",
+  "effect": "Accepter le silence comme un mode de connexion à part entière, plutôt qu'un vide à combler, installe une intimité différente et apaisante. Elle ressent une présence confortable qui ne dépend pas de l'échange verbal constant.",
+  "sectionTitle": "Le rythme qu'on ralentit",
+  "predictable": "Le silence entre vous est généralement comblé rapidement par une conversation ou un écran",
+  "themes": [
+   "Intimacy",
+   "Connection",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Installez-vous simplement l'un contre l'autre, sans autre objectif que d'être présents ensemble.",
+   "Limitez ce moment à quinze minutes pour commencer, sans pression de le prolonger davantage."
+  ]
+ },
+ {
+  "actionTitle": "La pause café sacrée",
+  "text": "Chaque jour, accordez-vous cinq minutes de pause café ensemble, sans autre sujet que la simple présence l'un à l'autre.",
+  "effect": "Instaurer une micro-pause quotidienne dédiée uniquement à la présence mutuelle crée un ancrage régulier dans un emploi du temps chargé. Elle ressent une constance rassurante, un moment garanti chaque jour rien que pour vous deux.",
+  "sectionTitle": "Le rythme qu'on ralentit",
+  "predictable": "Les pauses café se prennent généralement seul ou en fonction des disponibilités variables",
+  "themes": [
+   "Connection",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Fixez une heure précise chaque jour pour cette pause, comme un rendez-vous fixe et non négociable.",
+   "Alternez qui prépare le café chaque jour, pour ajouter une petite attention à ce rituel."
+  ]
+ },
+ {
+  "actionTitle": "Le dimanche sans montre",
+  "text": "Un dimanche, retirez vos montres et cachez les horloges visibles, pour vivre la journée sans repère temporel précis.",
+  "effect": "Supprimer les repères temporels habituels invite à vivre la journée selon les envies du moment plutôt que selon l'horloge. Elle ressent une liberté rare, loin de la pression habituelle du temps qui structure le reste de la semaine.",
+  "sectionTitle": "Le rythme qu'on ralentit",
+  "predictable": "Les journées restent toujours rythmées par l'heure, sans exception ni parenthèse",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Gardez uniquement une alarme de sécurité pour un rendez-vous important, le reste sans montre.",
+   "Notez ensuite vos impressions sur cette journée vécue sans repère horaire précis."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur son mouvement",
+  "text": "Observe-la un instant en train de faire un geste banal du quotidien (cuisiner, marcher, ranger) et dis-lui à quel point sa façon de bouger a quelque chose de gracieux.",
+  "effect": "Remarquer la grâce dans un geste purement fonctionnel, jamais pensé comme esthétique, révèle une observation attentive et sincère. Elle se sent belle dans un moment qu'elle ne considérait pas comme digne d'attention particulière.",
+  "sectionTitle": "Le regard qui valorise",
+  "predictable": "Les gestes du quotidien restent purement fonctionnels, sans regard esthétique particulier posé dessus",
+  "themes": [
+   "Compliment",
+   "Tender",
+   "Sensory"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Dis-lui que sa façon de rire, même en pleine tâche banale, illumine littéralement la pièce.",
+   "Complimente un geste précis qu'elle répète souvent, sans qu'elle sache que tu le remarques à chaque fois."
+  ]
+ },
+ {
+  "actionTitle": "Le regard qui suit sans juger",
+  "text": "Un moment, laisse ton regard la suivre avec une admiration sincère pendant qu'elle vaque à ses occupations, sans qu'elle s'en rende compte.",
+  "effect": "Observer discrètement avec admiration, sans intervention ni commentaire immédiat, prouve une attirance constante et sincère. Elle ressent, une fois qu'elle le remarque, une valorisation continue plutôt que ponctuelle.",
+  "sectionTitle": "Le regard qui valorise",
+  "predictable": "Le regard porté sur elle reste généralement neutre pendant les activités du quotidien",
+  "themes": [
+   "Tender",
+   "Adoration",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Observe-la un instant de loin, avec un sourire discret, sans qu'elle s'en aperçoive tout de suite.",
+   "Si elle te surprend à la regarder, ne détourne pas les yeux, assume simplement ton admiration."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur l'énergie qu'elle dégage",
+  "text": "Dis-lui que sa simple présence dans une pièce change immédiatement l'énergie de l'endroit, dans le bon sens.",
+  "effect": "Complimenter l'énergie globale qu'elle dégage, plutôt qu'un détail physique précis, valorise son impact sur l'ambiance générale. Elle ressent une reconnaissance de sa présence entière, au-delà de l'apparence ou des actions ponctuelles.",
+  "sectionTitle": "Le regard qui valorise",
+  "predictable": "L'impact de sa présence sur l'ambiance générale reste rarement commenté explicitement",
+  "themes": [
+   "Compliment",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Dis-lui que la pièce semble toujours plus vivante dès qu'elle y entre.",
+   "Explique-lui que son énergie a un effet contagieux sur ton humeur, presque immédiatement."
+  ]
+ },
+ {
+  "actionTitle": "Le regard qui redécouvre",
+  "text": "Un soir, regarde-la comme si c'était la première fois, en essayant consciemment de voir ce qu'un inconnu verrait.",
+  "effect": "Adopter un regard neuf et conscient sur une personne familière permet de redécouvrir des qualités devenues invisibles par habitude. Elle ressent une attention renouvelée, comme si elle était vue avec la fraîcheur des débuts.",
+  "sectionTitle": "Le regard qui valorise",
+  "predictable": "Le regard porté sur elle devient routinier avec le temps, sans jamais être renouvelé consciemment",
+  "themes": [
+   "Tender",
+   "Confidence",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Essaie de remarquer un détail physique que tu n'avais jamais consciemment noté auparavant.",
+   "Dis-lui ensuite ce que ce regard neuf t'a permis de redécouvrir chez elle."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment différé mais sincère",
+  "text": "Repense à un moment de la semaine où elle t'a particulièrement impressionné, et dis-le-lui maintenant, même après coup.",
+  "effect": "Formuler un compliment différé, plutôt que de le laisser passer sans le dire, prouve que l'impression positive persiste au-delà du moment initial. Elle reçoit une reconnaissance sincère, même tardive, ce qui vaut mieux qu'un compliment oublié.",
+  "sectionTitle": "Le regard qui valorise",
+  "predictable": "Les moments impressionnants passent souvent sans compliment immédiat, puis s'oublient définitivement",
+  "themes": [
+   "Compliment",
+   "Confidence",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Rappelle-lui un moment précis de la semaine où elle t'a impressionné, même si c'est tardif.",
+   "Dis-lui maintenant ce que tu as pensé sur le moment sans le formuler à voix haute à l'époque."
+  ]
+ },
+ {
+  "actionTitle": "Le dessert improvise",
+  "text": "Un soir sans dessert prevu, improvise quelque chose de simple avec ce qu il reste dans les placards, juste pour le plaisir de finir le repas sur une note sucree ensemble.",
+  "effect": "Improviser un petit plaisir non prevu, avec des moyens limites, montre une volonte de creer un moment agreable meme sans preparation particuliere. Elle apprecie ce geste spontane qui prolonge le repas d une touche inattendue.",
+  "sectionTitle": "Le plaisir simple partage",
+  "predictable": "Les repas se terminent parfois sans dessert, sans effort particulier pour prolonger le moment",
+  "themes": [
+   "Playful",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Propose un carre de chocolat partage en deux, juste pour le geste symbolique de le partager.",
+   "Improvise un fruit coupe en petits morceaux, presente comme un dessert digne d un grand restaurant."
+  ]
+ },
+ {
+  "actionTitle": "La chanson qu on chante mal ensemble",
+  "text": "Mets une chanson que vous connaissez tous les deux et chantez-la a tue-tete, sans vous soucier de la justesse.",
+  "effect": "Chanter ensemble sans souci de perfection libere une spontaneite joyeuse, loin de toute pression de performance. Elle partage un moment de legerete pure, ou le plaisir prime largement sur le resultat.",
+  "sectionTitle": "Le plaisir simple partage",
+  "predictable": "La musique s ecoute generalement en silence, sans interaction particuliere autour d elle",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Improvisez une choregraphie ridicule sur la chanson, sans aucune pretention artistique.",
+   "Enregistrez-vous en train de chanter faux, juste pour en rire ensemble plus tard."
+  ]
+ },
+ {
+  "actionTitle": "Le jeu de cartes sans enjeu",
+  "text": "Sortez un jeu de cartes simple, sans enjeu particulier, juste pour le plaisir de jouer ensemble quelques minutes.",
+  "effect": "Jouer sans enjeu retire toute pression de competition et recentre le moment sur le simple plaisir partage. Elle apprecie ce temps leger, sans objectif autre que d etre ensemble autour d une activite simple.",
+  "sectionTitle": "Le plaisir simple partage",
+  "predictable": "Les jeux se pratiquent generalement avec un enjeu ou un gage, rarement pour le simple plaisir",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Inventez des regles absurdes et temporaires pour un jeu classique, juste pour changer la routine.",
+   "Jouez en silence complet, sans un mot, juste pour l experience differente que ca procure."
+  ]
+ },
+ {
+  "actionTitle": "Le petit-dejeuner improvise au diner",
+  "text": "Un soir, proposez de manger un petit-dejeuner complet pour le diner, juste pour le plaisir de casser la routine des repas.",
+  "effect": "Inverser l ordre habituel des repas introduit une touche ludique et inattendue dans une routine generalement figee. Elle apprecie cette petite excentricite qui casse la monotonie sans necessiter d effort particulier.",
+  "sectionTitle": "Le plaisir simple partage",
+  "predictable": "Les repas suivent toujours leur ordre traditionnel, sans jamais etre inverses par jeu",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Preparez des pancakes ou des oeufs pour le diner, avec la meme energie qu un vrai petit-dejeuner.",
+   "Mettez une ambiance matinale (lumiere, musique) pour accentuer le decalage avec l heure reelle."
+  ]
+ },
+ {
+  "actionTitle": "La bataille d oreillers spontanee",
+  "text": "Un soir sans raison particuliere, lance une petite bataille d oreillers improvisee, juste pour le plaisir enfantin du geste.",
+  "effect": "Reintroduire un jeu enfantin et physique dans le quotidien adulte casse la routine avec une spontaneite rare. Elle redecouvre une legerete ludique, souvent oubliee dans le serieux des responsabilites quotidiennes.",
+  "sectionTitle": "Le plaisir simple partage",
+  "predictable": "Les jeux physiques enfantins disparaissent generalement avec l age adulte, sans etre reintroduits",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Lance le premier oreiller sans prevenir, juste pour declencher la surprise et le jeu.",
+   "Fixez une regle simple : le premier qui rit a perdu, pour ajouter un enjeu leger et amusant."
+  ]
  }
 ]

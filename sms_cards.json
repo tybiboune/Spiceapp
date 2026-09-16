@@ -5485,5 +5485,905 @@
    "J'aimerais sincèrement que ce type d'abandon matinal devienne plus fréquent entre nous.",
    "Si ce genre de moment pouvait se répéter plus souvent, je ne serais clairement pas contre."
   ]
+ },
+ {
+  "actionTitle": "Le compte à rebours du retour",
+  "text": "Plus que deux heures avant de te voir. Je ne sais pas pourquoi, mais aujourd'hui elles me paraissent particulièrement longues.",
+  "effect": "Exprimer que l'attente semble plus longue que d'habitude valorise l'intensité particulière du désir de se retrouver ce jour-là. Elle ressent une impatience sincère qui dépasse la routine habituelle des retrouvailles.",
+  "sectionTitle": "SMS - Le retour en tête",
+  "predictable": "Les heures avant de se retrouver s'écoulent sans être mentionnées",
+  "themes": [
+   "Anticipation",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Encore deux heures avant de te retrouver, et elles traînent plus que d'habitude aujourd'hui.",
+   "Le compte à rebours a commencé, et j'ai hâte comme rarement ces derniers temps."
+  ]
+ },
+ {
+  "actionTitle": "La pensée qui traverse la journée",
+  "text": "Je viens de penser à toi en plein milieu d'une tâche qui n'avait strictement rien à voir. Ça arrive plus souvent que tu ne le crois.",
+  "effect": "Avouer une pensée spontanée et déconnectée du contexte prouve une présence constante dans ton esprit, sans déclencheur particulier. Elle ressent qu'elle occupe une place stable dans tes pensées, pas seulement lors de moments dédiés.",
+  "sectionTitle": "SMS - Le retour en tête",
+  "predictable": "Les pensées de la journée restent concentrées sur les tâches en cours, sans digression",
+  "themes": [
+   "Tender",
+   "Connection",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Je pensais à toi en plein milieu d'un truc totalement sans rapport. Ça m'arrive souvent, en fait.",
+   "Petite pensée random pour toi, en plein milieu de ma journée, sans raison particulière."
+  ]
+ },
+ {
+  "actionTitle": "Le rappel du meilleur moment",
+  "text": "Le meilleur moment de ma journée sera dans quelques heures, quand je te retrouverai enfin.",
+  "effect": "Désigner explicitement les retrouvailles comme le point culminant de la journée valorise leur importance au-dessus de toute autre activité. Elle ressent une priorité claire donnée à votre moment ensemble, plus que tout le reste de la journée.",
+  "sectionTitle": "SMS - Le retour en tête",
+  "predictable": "Les meilleurs moments de la journée restent rarement désignés à l'avance",
+  "themes": [
+   "Tender",
+   "Anticipation",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Le meilleur moment de ma journée n'est même pas encore arrivé, il t'attend pour ce soir.",
+   "Toute ma journée n'est qu'un prélude au moment où je vais enfin te retrouver."
+  ]
+ },
+ {
+  "actionTitle": "Le message sans objet précis",
+  "text": "Aucune raison particulière à ce message, sinon l'envie soudaine de te dire que tu comptes énormément.",
+  "effect": "L'absence totale de prétexte rend le message plus sincère qu'une déclaration liée à une occasion précise. Elle ressent une valorisation gratuite, sans lien avec un événement, ce qui la touche différemment qu'un compliment attendu.",
+  "sectionTitle": "SMS - Le retour en tête",
+  "predictable": "Les déclarations d'affection restent généralement liées à une occasion précise",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Message sans objet précis, sinon te rappeler que tu comptes plus que tu ne l'imagines.",
+   "Aucune raison à ce texto, à part l'envie soudaine de te dire que je pense à toi."
+  ]
+ },
+ {
+  "actionTitle": "Le compte rendu de la journée en avance",
+  "text": "Ma journée se résume en un mot : longue. Vivement ce soir pour la version courte, avec toi.",
+  "effect": "Anticiper le récit de la journée en promettant une version condensée pour le soir installe une attente pour la conversation à venir. Elle perçoit que le vrai récit, plus riche, lui est réservé personnellement, plutôt qu'épuisé par message.",
+  "sectionTitle": "SMS - Le retour en tête",
+  "predictable": "Le récit de la journée se fait généralement en détail par message, dès qu'elle se termine",
+  "themes": [
+   "Anticipation",
+   "Connection",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Journée longue en résumé. La vraie version, plus intéressante, c'est pour ce soir avec toi.",
+   "Trop à raconter pour un message, ça attendra qu'on soit face à face ce soir."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur sa force tranquille",
+  "text": "J'admire la façon dont tu gères les choses difficiles sans jamais en faire un drame. Ta force tranquille est impressionnante.",
+  "effect": "Reconnaître explicitement une force de caractère souvent silencieuse valorise une qualité rarement complimentée directement. Elle ressent une reconnaissance sincère de sa résilience, au-delà des compliments habituels sur l'apparence.",
+  "sectionTitle": "SMS - Le compliment inattendu",
+  "predictable": "Les qualités de caractère restent généralement non mentionnées, contrairement aux compliments physiques",
+  "themes": [
+   "Compliment",
+   "Confidence",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ta capacité à rester calme face aux difficultés m'impressionne à chaque fois, sincèrement.",
+   "J'admire ta force tranquille, cette façon de gérer sans jamais dramatiser inutilement."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur son sens de l'humour",
+  "text": "Ton sens de l'humour est probablement une de mes choses préférées chez toi, et je ne te le dis pas assez souvent.",
+  "effect": "Complimenter une qualité intellectuelle ou comportementale, plutôt que physique, valorise sa personnalité dans sa globalité. Elle ressent une reconnaissance qui dépasse l'apparence, touchant à ce qui la rend réellement unique.",
+  "sectionTitle": "SMS - Le compliment inattendu",
+  "predictable": "L'humour reste généralement apprécié en silence, sans être explicitement complimenté",
+  "themes": [
+   "Compliment",
+   "Playful",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ton humour est un vrai trésor, je ne te le dis clairement pas assez souvent.",
+   "J'adore ta répartie, c'est une des choses qui me fait le plus rire au quotidien."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur sa générosité",
+  "text": "Ta générosité envers les autres, même quand personne ne le remarque, dit beaucoup de qui tu es vraiment.",
+  "effect": "Remarquer une générosité discrète, non ostentatoire, prouve une observation attentive de ses actions même les plus modestes. Elle ressent une reconnaissance sincère d'un trait de caractère profond, plutôt que d'un geste ponctuel et visible.",
+  "sectionTitle": "SMS - Le compliment inattendu",
+  "predictable": "La générosité discrète passe généralement inaperçue, sans être explicitement reconnue",
+  "themes": [
+   "Compliment",
+   "Care",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ta générosité, même quand personne ne regarde, en dit long sur la personne que tu es.",
+   "J'ai remarqué à quel point tu donnes sans compter, même sans que ça se voie. Ça me touche."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur ses choix",
+  "text": "Je respecte profondément la façon dont tu prends tes décisions, réfléchies mais jamais hésitantes.",
+  "effect": "Valoriser sa manière de décider, plutôt que le résultat de ses décisions, reconnaît une qualité de jugement personnel. Elle ressent une confiance accrue en sa propre capacité de décision, validée explicitement par toi.",
+  "sectionTitle": "SMS - Le compliment inattendu",
+  "predictable": "Les décisions personnelles reçoivent rarement un commentaire sur la façon dont elles sont prises",
+  "themes": [
+   "Compliment",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "J'admire ta façon de décider, réfléchie sans jamais être hésitante. C'est une vraie qualité.",
+   "Ta manière de prendre des décisions m'impressionne à chaque fois, sincèrement."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur sa curiosité",
+  "text": "Ta curiosité pour à peu près tout est contagieuse, et c'est une des raisons pour lesquelles je ne m'ennuie jamais avec toi.",
+  "effect": "Complimenter la curiosité intellectuelle valorise l'engagement actif envers le monde, plutôt qu'un trait passif de personnalité. Elle ressent une reconnaissance de sa vivacité d'esprit, un aspect souvent moins souligné que d'autres qualités.",
+  "sectionTitle": "SMS - Le compliment inattendu",
+  "predictable": "La curiosité intellectuelle reste rarement mentionnée comme une qualité complimentée",
+  "themes": [
+   "Compliment",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ta curiosité pour tout est communicative, je ne m'ennuie jamais grâce à ça.",
+   "J'adore cette façon que tu as de t'intéresser à tout, sincèrement et sans filtre."
+  ]
+ },
+ {
+  "actionTitle": "Le plan qui se précise",
+  "text": "Je regardais des options pour ce petit week-end dont on parle. Deux ou trois idées commencent à se dessiner.",
+  "effect": "Passer d'une idée vague évoquée en passant à des options concrètes prouve un investissement réel dans le projet. Elle ressent que ton engagement dépasse les paroles et se traduit en démarches tangibles.",
+  "sectionTitle": "SMS - Le futur proche",
+  "predictable": "Les projets communs restent à l'état d'idée, sans jamais avancer concrètement",
+  "themes": [
+   "Connection",
+   "Anticipation",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "J'ai commencé à regarder des options pour ce week-end dont on parlait. Ça se précise doucement.",
+   "Deux ou trois idées se dessinent pour notre projet. On en reparle bientôt ?"
+  ]
+ },
+ {
+  "actionTitle": "Le rendez-vous fixé sans détour",
+  "text": "On se fixe une date précise pour cette sortie dont on parle depuis un moment ? Je propose vendredi prochain.",
+  "effect": "Proposer une date concrète, plutôt que de laisser le projet dans le vague, transforme une intention en engagement réel. Elle ressent que tu prends l'initiative de concrétiser plutôt que d'attendre indéfiniment le bon moment.",
+  "sectionTitle": "SMS - Le futur proche",
+  "predictable": "Les sorties évoquées restent généralement sans date fixée, reportées indéfiniment",
+  "themes": [
+   "Leadership",
+   "Connection",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Fixons une date précise pour cette sortie repoussée depuis trop longtemps. Vendredi, ça te va ?",
+   "Je propose qu'on arrête de repousser et qu'on fixe enfin une date pour ce projet."
+  ]
+ },
+ {
+  "actionTitle": "Le petit pas vers le grand projet",
+  "text": "J'ai fait une petite recherche aujourd'hui pour notre projet à long terme. Rien de définitif, juste un début.",
+  "effect": "Accomplir une petite étape concrète, même modeste, vers un objectif à long terme prouve un engagement continu. Elle perçoit que le projet avance réellement, plutôt que de rester une intention abstraite jamais suivie d'action.",
+  "sectionTitle": "SMS - Le futur proche",
+  "predictable": "Les projets à long terme restent des intentions vagues, sans étapes concrètes suivies",
+  "themes": [
+   "Connection",
+   "Leadership",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Petite avancée aujourd'hui sur notre projet à long terme. Rien de définitif, mais ça avance.",
+   "J'ai fait un premier petit pas vers notre projet commun. On en parle ce soir ?"
+  ]
+ },
+ {
+  "actionTitle": "La surprise qui se prépare",
+  "text": "Je prépare quelque chose pour bientôt, rien de plus à dire pour l'instant, mais ça devrait te plaire.",
+  "effect": "Annoncer une préparation en cours sans en révéler le contenu installe une anticipation légère et positive. Elle ressent que tu investis du temps pour elle, ce qui valorise l'attention portée même avant la révélation.",
+  "sectionTitle": "SMS - Le futur proche",
+  "predictable": "Les surprises se révèlent généralement directement, sans phase d'annonce préalable",
+  "themes": [
+   "Anticipation",
+   "Mysterious",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Quelque chose se prépare de mon côté pour bientôt. Patience, ça devrait te plaire.",
+   "Un petit projet est en cours pour toi. Aucun détail pour l'instant, juste la promesse que ça arrive."
+  ]
+ },
+ {
+  "actionTitle": "L'engagement renouvelé",
+  "text": "Peu importe combien de temps on est ensemble, je choisis encore et encore de construire ça avec toi.",
+  "effect": "Réaffirmer un engagement déjà établi, plutôt que de le considérer comme acquis, valorise le choix continu plutôt que l'habitude. Elle ressent une sécurité renouvelée, sachant que ton engagement reste actif et non simplement subi.",
+  "sectionTitle": "SMS - Le futur proche",
+  "predictable": "L'engagement dans la durée reste implicite, jamais réaffirmé explicitement avec le temps",
+  "themes": [
+   "Romantic",
+   "Connection",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Peu importe le temps passé ensemble, je continue de choisir cette vie avec toi, chaque jour.",
+   "Ce n'est pas parce qu'on est ensemble depuis longtemps que je tiens ça pour acquis. Bien au contraire."
+  ]
+ },
+ {
+  "actionTitle": "Le mot mystère du jour",
+  "text": "Un mot résume ce que je ressens pour toi aujourd'hui. Trois lettres. À toi de deviner ce soir.",
+  "effect": "Transformer une expression d'affection en petit jeu de devinettes rend la communication émotionnelle plus légère et engageante. Elle s'investit activement à te comprendre plutôt que de recevoir une simple déclaration passive.",
+  "sectionTitle": "SMS - Le jeu des devinettes",
+  "predictable": "Les sentiments du jour s'expriment directement, sans jeu ni mystère particulier",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Intrigue"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Un mot de trois lettres résume ce que je ressens aujourd'hui. Trouve-le avant ce soir.",
+   "Devine en combien de lettres tient ce que je ressens pour toi aujourd'hui. Indice : pas beaucoup."
+  ]
+ },
+ {
+  "actionTitle": "Le jeu du oui caché",
+  "text": "Quelque part dans ce message se cache un 'oui' à une question que je ne t'ai pas encore posée. Trouve-la avant ce soir.",
+  "effect": "Ce petit jeu énigmatique invite à une réflexion active plutôt qu'à une simple lecture passive du message. Elle s'amuse à échafauder des hypothèses, ce qui prolonge l'engagement avec le message bien après sa lecture initiale.",
+  "sectionTitle": "SMS - Le jeu des devinettes",
+  "predictable": "Les questions se posent directement, sans jeu ni mise en scène particulière",
+  "themes": [
+   "Playful",
+   "Mysterious",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Une question sans réponse se cache dans ce message. Trouve-la, la réponse arrivera ce soir.",
+   "Il y a un 'oui' caché quelque part ici. À toi de deviner à quelle question il correspond."
+  ]
+ },
+ {
+  "actionTitle": "Le chiffre du jour",
+  "text": "Un chiffre entre 1 et 10 résume à quel point tu me manques aujourd'hui. Devine, et je te confirmerai ce soir.",
+  "effect": "Quantifier ludiquement un sentiment invite à un jeu léger tout en laissant transparaître une intensité réelle sous-jacente. Elle s'amuse à deviner, tout en percevant sincèrement l'ampleur du sentiment exprimé.",
+  "sectionTitle": "SMS - Le jeu des devinettes",
+  "predictable": "L'intensité d'un sentiment reste généralement décrite avec des mots, jamais quantifiée en jeu",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Sur une échelle de 1 à 10, devine à quel point tu me manques aujourd'hui. Réponse ce soir.",
+   "Un chiffre résume mon envie de te voir aujourd'hui. Devine, je confirme au dîner."
+  ]
+ },
+ {
+  "actionTitle": "La couleur de l'humeur",
+  "text": "Si mon humeur du jour était une couleur, laquelle serait-ce à ton avis ? Indice : elle a un lien avec toi.",
+  "effect": "Ce jeu associatif invite à une réflexion créative sur ton état d'esprit, plutôt qu'une simple description factuelle. Elle s'investit dans l'interprétation, ce qui crée un échange plus ludique et imaginatif que d'habitude.",
+  "sectionTitle": "SMS - Le jeu des devinettes",
+  "predictable": "L'humeur du jour se décrit directement, sans jeu d'association ni devinette",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Intrigue"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Devine la couleur de mon humeur aujourd'hui. Indice : elle te ressemble beaucoup.",
+   "Si tu devais peindre mon état d'esprit du jour, quelle couleur choisirais-tu ? Réponds ce soir."
+  ]
+ },
+ {
+  "actionTitle": "L'objet qui te représente aujourd'hui",
+  "text": "En pensant à toi aujourd'hui, un objet précis m'est venu en tête. Devine lequel, ce soir je te dirai si tu as trouvé.",
+  "effect": "Associer une pensée affectueuse à un objet précis rend le message plus original et mémorable qu'une simple déclaration. Elle s'amuse à deviner, ce qui prolonge son attention sur le message et sur toi tout au long de la journée.",
+  "sectionTitle": "SMS - Le jeu des devinettes",
+  "predictable": "Les pensées affectueuses s'expriment directement, sans détour par une association d'objet",
+  "themes": [
+   "Playful",
+   "Poetic",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Un objet précis m'a fait penser à toi aujourd'hui. Devine lequel, réponse ce soir.",
+   "En pensant à toi ce matin, une image précise m'est venue. Trouve laquelle avant qu'on se voie."
+  ]
+ },
+ {
+  "actionTitle": "Le merci pour hier soir",
+  "text": "Merci pour hier soir, sincèrement. Ce genre de moment simple me fait plus de bien que je ne le montre.",
+  "effect": "Remercier explicitement pour un moment passé, même simple, valorise son rôle dans la qualité de ce souvenir. Elle ressent une reconnaissance directe qui dépasse le simple constat d'un bon moment partagé.",
+  "sectionTitle": "SMS - Le merci précis",
+  "predictable": "Les bons moments passés ensemble ne reçoivent généralement aucun remerciement après coup",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Merci pour hier soir, ça m'a fait plus de bien que je ne l'ai probablement montré sur le moment.",
+   "Je repense à hier soir avec gratitude. Merci d'avoir été aussi présente."
+  ]
+ },
+ {
+  "actionTitle": "Le merci pour la patience",
+  "text": "Merci pour ta patience ces derniers temps, je sais que je n'ai pas été le plus facile à vivre.",
+  "effect": "Reconnaître explicitement sa patience dans une période difficile valorise un effort silencieux et souvent invisible. Elle ressent une reconnaissance sincère de ce qu'elle a enduré sans se plaindre.",
+  "sectionTitle": "SMS - Le merci précis",
+  "predictable": "La patience dont elle fait preuve reste généralement non reconnue explicitement",
+  "themes": [
+   "Care",
+   "Vulnerability",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Merci pour ta patience ces derniers temps. Je sais que je n'ai pas toujours facilité les choses.",
+   "Ta patience récente n'est pas passée inaperçue. Merci sincèrement."
+  ]
+ },
+ {
+  "actionTitle": "Le merci pour un détail précis",
+  "text": "Merci d'avoir pensé à prendre mon parapluie ce matin. Un petit geste, mais qui compte plus que tu ne le penses.",
+  "effect": "Remercier pour un détail précis et concret, plutôt qu'un remerciement général, prouve une attention réelle aux petites attentions reçues. Elle perçoit que même ses gestes les plus modestes sont remarqués et valorisés.",
+  "sectionTitle": "SMS - Le merci précis",
+  "predictable": "Les petites attentions du quotidien passent généralement inaperçues, sans remerciement",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Merci d'avoir pensé au parapluie ce matin. Un détail, mais qui a changé ma journée.",
+   "Ce petit geste de ce matin, avec le parapluie, méritait bien un merci. Le voici."
+  ]
+ },
+ {
+  "actionTitle": "Le merci pour qui elle est",
+  "text": "Merci d'être simplement toi, sans qu'il y ait besoin d'une raison précise pour le dire aujourd'hui.",
+  "effect": "Remercier pour son identité globale, plutôt que pour une action précise, valorise sa personne dans son ensemble. Elle ressent une gratitude qui dépasse le cadre habituel des remerciements liés à un geste concret.",
+  "sectionTitle": "SMS - Le merci précis",
+  "predictable": "Les remerciements restent généralement liés à une action précise, jamais à la personne globalement",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Merci d'être toi, tout simplement. Pas besoin d'une raison particulière pour le dire aujourd'hui.",
+   "Aujourd'hui, un simple merci pour la personne que tu es, sans autre prétexte."
+  ]
+ },
+ {
+  "actionTitle": "Le merci différé",
+  "text": "Je réalise seulement maintenant à quel point ton soutien du mois dernier a compté. Merci, tardivement mais sincèrement.",
+  "effect": "Un remerciement différé, reconnaissant l'impact d'un soutien passé, prouve que certains gestes continuent de résonner bien après leur moment initial. Elle réalise que son geste a eu un effet durable que tu portes encore.",
+  "sectionTitle": "SMS - Le merci précis",
+  "predictable": "Les gestes de soutien du passé restent non reconnus une fois le moment passé",
+  "themes": [
+   "Care",
+   "Nostalgia",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Je réalise seulement maintenant l'ampleur de ton soutien le mois dernier. Merci, avec un peu de retard.",
+   "Ce n'est que maintenant que je mesure à quel point ton aide récente a compté. Merci sincèrement."
+  ]
+ },
+ {
+  "actionTitle": "La question sur demain",
+  "text": "Si demain était entièrement libre, sans aucune contrainte, qu'est-ce que tu aurais envie qu'on fasse ensemble ?",
+  "effect": "Inviter à imaginer une journée idéale ensemble stimule une projection positive et partagée, loin des contraintes habituelles. Elle s'investit dans une réflexion créative sur vos envies communes, ce qui nourrit l'anticipation du lendemain.",
+  "sectionTitle": "SMS - La question du soir",
+  "predictable": "Les envies pour le lendemain restent rarement explorées ensemble par message",
+  "themes": [
+   "Connection",
+   "Playful",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Si demain n'avait aucune contrainte, qu'aimerais-tu qu'on fasse ensemble ? Dis-moi tout.",
+   "Imagine une journée de demain entièrement libre. Qu'est-ce qu'on ferait, toi et moi ?"
+  ]
+ },
+ {
+  "actionTitle": "La question sur le souvenir préféré",
+  "text": "Quel est, selon toi, notre meilleur souvenir de cette année jusqu'à présent ? Je suis curieux de ta réponse.",
+  "effect": "Interroger sur un souvenir marquant invite à une réflexion rétrospective qui valorise les moments forts vécus ensemble. Elle prend plaisir à revisiter consciemment votre histoire récente, ce qui renforce le sentiment de continuité partagée.",
+  "sectionTitle": "SMS - La question du soir",
+  "predictable": "Les souvenirs marquants de l'année restent rarement discutés ou comparés ensemble",
+  "themes": [
+   "Nostalgia",
+   "Connection",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Selon toi, quel a été notre meilleur souvenir cette année ? Curieux de connaître ta réponse.",
+   "Quel moment de cette année garderais-tu en premier si tu devais n'en choisir qu'un ?"
+  ]
+ },
+ {
+  "actionTitle": "La question sur un rêve oublié",
+  "text": "Y a-t-il un rêve ou une envie que tu avais mise de côté et que tu aimerais reprendre un jour ?",
+  "effect": "S'intéresser à un rêve mis de côté montre une attention portée à ses aspirations personnelles, au-delà du quotidien pratique. Elle se sent valorisée dans ses ambitions propres, ce qui peut raviver une envie oubliée.",
+  "sectionTitle": "SMS - La question du soir",
+  "predictable": "Les rêves personnels mis de côté restent rarement abordés dans les conversations quotidiennes",
+  "themes": [
+   "Connection",
+   "Communication",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Y a-t-il un projet ou un rêve que tu as mis de côté et que tu aimerais reprendre un jour ?",
+   "Quelle envie ancienne aimerais-tu remettre au goût du jour, si l'occasion se présentait ?"
+  ]
+ },
+ {
+  "actionTitle": "La question sur la fierté",
+  "text": "De quoi es-tu le plus fière cette semaine, même si ça te semble insignifiant ?",
+  "effect": "Inviter à formuler une fierté personnelle, même modeste, valorise l'auto-reconnaissance souvent négligée au quotidien. Elle prend un moment pour reconnaître ses propres réussites, ce qui renforce sa confiance en elle.",
+  "sectionTitle": "SMS - La question du soir",
+  "predictable": "Les petites fiertés personnelles restent généralement non formulées, sans qu'on les demande",
+  "themes": [
+   "Confidence",
+   "Connection",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "De quoi es-tu fière cette semaine, même si ça semble minuscule à première vue ?",
+   "Quelle petite victoire personnelle as-tu eue récemment, dont tu ne m'as peut-être pas parlé ?"
+  ]
+ },
+ {
+  "actionTitle": "La question sur le besoin du moment",
+  "text": "De quoi as-tu vraiment besoin ce soir : parler, silence, ou juste un câlin ? Dis-le moi simplement.",
+  "effect": "Poser directement la question de son besoin précis, plutôt que de le deviner, évite les malentendus et responsabilise l'échange. Elle apprécie la simplicité d'une question claire, plus facile à répondre qu'une situation implicite à décoder.",
+  "sectionTitle": "SMS - La question du soir",
+  "predictable": "Les besoins émotionnels du soir restent généralement devinés plutôt que demandés directement",
+  "themes": [
+   "Care",
+   "Communication",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "De quoi as-tu besoin ce soir : discuter, silence, ou juste être proches ? Dis-moi franchement.",
+   "Qu'est-ce qui te ferait du bien ce soir précisément ? Je m'adapte à ta réponse."
+  ]
+ },
+ {
+  "actionTitle": "Le rappel discret de son importance",
+  "text": "Petit rappel du jour, sans raison particulière : tu comptes énormément, plus que tu ne le réalises probablement.",
+  "effect": "Ce rappel gratuit, sans occasion précise, valorise sa place dans ta vie indépendamment de tout événement. Elle ressent une reconnaissance simple et sincère, qui ne dépend d'aucune circonstance particulière.",
+  "sectionTitle": "SMS - Le petit rappel affectueux",
+  "predictable": "L'importance qu'elle a dans ta vie reste généralement implicite, rarement rappelée explicitement",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Rappel du jour : tu comptes plus que tu ne le penses, sincèrement.",
+   "Petit message pour dire simplement : tu es importante, aujourd'hui comme tous les autres jours."
+  ]
+ },
+ {
+  "actionTitle": "Le rappel de ta chance",
+  "text": "Je me rappelle régulièrement à quel point j'ai de la chance de partager ma vie avec toi. Aujourd'hui en fait partie.",
+  "effect": "Exprimer explicitement un sentiment de chance renforce l'idée que la relation n'est jamais prise pour acquise. Elle ressent une gratitude sincère de ta part, ce qui valorise la place qu'elle occupe dans ta vie.",
+  "sectionTitle": "SMS - Le petit rappel affectueux",
+  "predictable": "La chance ressentie d'être en couple reste généralement tue, jamais explicitement mentionnée",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "J'ai de la chance de t'avoir dans ma vie, et aujourd'hui j'avais envie de te le rappeler.",
+   "Petit rappel sincère : partager ma vie avec toi reste une vraie chance, chaque jour."
+  ]
+ },
+ {
+  "actionTitle": "Le rappel de ta beauté intérieure",
+  "text": "Ce qui me plaît le plus chez toi ne se voit pas dans un miroir, mais je voulais te le rappeler aujourd'hui.",
+  "effect": "Souligner explicitement une beauté intérieure, distincte de l'apparence physique, valorise des qualités profondes souvent moins complimentées. Elle ressent une reconnaissance qui dépasse le physique, touchant à ce qui la définit vraiment.",
+  "sectionTitle": "SMS - Le petit rappel affectueux",
+  "predictable": "Les qualités intérieures restent généralement moins complimentées que l'apparence physique",
+  "themes": [
+   "Compliment",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ce que j'aime le plus chez toi ne se voit pas dans un miroir. Petit rappel du jour.",
+   "Ta beauté intérieure dépasse largement tout le reste, et je voulais te le dire aujourd'hui."
+  ]
+ },
+ {
+  "actionTitle": "Le rappel qu'on est une équipe",
+  "text": "Peu importe ce que la journée nous réserve, rappelle-toi qu'on reste une équipe, toi et moi.",
+  "effect": "Réaffirmer l'idée d'équipe, indépendamment des défis du jour, rassure sur la solidarité constante du couple. Elle ressent un soutien structurel, au-delà des aléas ponctuels de la journée.",
+  "sectionTitle": "SMS - Le petit rappel affectueux",
+  "predictable": "La notion d'équipe reste généralement implicite, jamais réaffirmée explicitement par message",
+  "themes": [
+   "Connection",
+   "Care",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Quoi qu'il arrive aujourd'hui, souviens-toi qu'on affronte ça ensemble, comme toujours.",
+   "Petit rappel : on forme une équipe solide, peu importe ce que la journée nous réserve."
+  ]
+ },
+ {
+  "actionTitle": "Le rappel sans attente de réponse",
+  "text": "Aucune réponse nécessaire à ce message, juste l'envie de te dire que je pense à toi avec beaucoup de tendresse.",
+  "effect": "Préciser explicitement l'absence d'attente de réponse retire toute pression et rend le message purement gratuit. Elle reçoit une pensée affectueuse sans obligation, ce qui la rend d'autant plus sincère et légère à recevoir.",
+  "sectionTitle": "SMS - Le petit rappel affectueux",
+  "predictable": "Les messages affectueux appellent généralement une réponse, créant une légère pression implicite",
+  "themes": [
+   "Tender",
+   "Care",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pas besoin de répondre à ça, juste une pensée tendre envoyée sans attente particulière.",
+   "Aucune réponse requise, juste l'envie sincère de te dire que je pense à toi maintenant."
+  ]
+ },
+ {
+  "actionTitle": "L'anecdote qui te fait sourire",
+  "text": "Un truc totalement absurde vient de se passer et la première pensée que j'ai eue, c'est 'il faut que je raconte ça à elle ce soir'.",
+  "effect": "Associer spontanément un événement de la journée à l'envie de le partager avec elle prouve qu'elle reste ta première pensée face à l'inattendu. Elle ressent que tu la gardes constamment dans ton esprit, même dans les moments les plus anodins.",
+  "sectionTitle": "SMS - L'anecdote du jour",
+  "predictable": "Les anecdotes du quotidien se racontent uniquement une fois rentré, sans anticipation particulière",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Un truc ridicule vient de se passer, et ma première pensée a été de vouloir te le raconter ce soir.",
+   "J'ai une anecdote absurde pour ce soir, préparée spécialement pour te faire rire."
+  ]
+ },
+ {
+  "actionTitle": "L'observation partagée en direct",
+  "text": "Je viens de voir un truc dans la rue qui m'a immédiatement fait penser à toi, dans le bon sens du terme.",
+  "effect": "Partager une observation spontanée du quotidien, liée à elle, prouve une attention constante même en dehors des moments dédiés. Elle ressent que le monde extérieur continue de te ramener à elle, de façon sincère et non provoquée.",
+  "sectionTitle": "SMS - L'anecdote du jour",
+  "predictable": "Les observations du quotidien restent généralement gardées pour soi, sans être partagées immédiatement",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Un détail dans la rue vient de me faire penser à toi, sans que je sache trop pourquoi.",
+   "Je viens de voir quelque chose qui t'aurait plu, j'aurais aimé que tu sois là pour le voir aussi."
+  ]
+ },
+ {
+  "actionTitle": "Le compte rendu absurde",
+  "text": "Résumé de ma journée en une phrase : plus de café que de sommeil, et beaucoup trop de pensées pour toi.",
+  "effect": "Résumer humoristiquement sa journée tout en y glissant une pensée affectueuse allège le récit tout en restant sincère. Elle sourit à cette formulation légère, tout en percevant la sincérité de la pensée qui l'accompagne.",
+  "sectionTitle": "SMS - L'anecdote du jour",
+  "predictable": "Le résumé de la journée se fait généralement de façon factuelle, sans touche d'humour particulière",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Résumé du jour : beaucoup de café, pas assez de sommeil, et toi dans un coin de ma tête toute la journée.",
+   "Ma journée en une phrase : chaotique, mais avec une pensée constante pour toi en fond."
+  ]
+ },
+ {
+  "actionTitle": "La mésaventure racontée en avance",
+  "text": "J'ai une histoire un peu ridicule à te raconter ce soir, disons juste que ma journée n'a pas été de tout repos.",
+  "effect": "Annoncer une anecdote à venir, sans la révéler immédiatement, installe une légère anticipation pour la conversation du soir. Elle a hâte d'entendre l'histoire complète, ce qui donne un objectif léger et amusant à vos retrouvailles.",
+  "sectionTitle": "SMS - L'anecdote du jour",
+  "predictable": "Les mésaventures du jour se racontent immédiatement ou pas du tout, sans être annoncées à l'avance",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "J'ai une histoire un peu absurde pour ce soir. Prépare-toi à rire un minimum à mes dépens.",
+   "Ma journée mérite d'être racontée en détail ce soir, prépare le pop-corn métaphorique."
+  ]
+ },
+ {
+  "actionTitle": "Le clin d'œil complice à distance",
+  "text": "Je viens de repenser à notre private joke en pleine réunion, et j'ai dû me retenir de rire tout seul.",
+  "effect": "Réactiver une blague complice en plein contexte sérieux souligne l'omniprésence de votre connivence, même dans des moments inattendus. Elle perçoit que votre humour partagé continue de vous connecter, même à distance.",
+  "sectionTitle": "SMS - L'anecdote du jour",
+  "predictable": "Les private jokes restent cantonnées aux moments passés ensemble, sans réapparaître ailleurs",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Secret Language"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Notre private joke m'est revenue en pleine réunion aujourd'hui. Difficile de garder mon sérieux.",
+   "J'ai failli rire tout seul en repensant à notre blague récurrente, en plein milieu d'un truc sérieux."
+  ]
+ },
+ {
+  "actionTitle": "Le vœu simple pour elle",
+  "text": "Aujourd'hui, mon seul vœu c'est que ta journée soit un peu plus légère que d'habitude.",
+  "effect": "Formuler un vœu simple et centré sur son bien-être, plutôt que sur un souhait personnel, valorise sa priorité dans tes pensées. Elle ressent une attention bienveillante dirigée spécifiquement vers son confort du jour.",
+  "sectionTitle": "SMS - Le vœu du jour",
+  "predictable": "Les vœux exprimés restent généralement génériques, sans lien particulier avec sa journée précise",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Mon vœu du jour : que ta journée soit plus douce que prévu, malgré tout.",
+   "J'espère sincèrement que cette journée te sera plus légère qu'elle ne s'annonce."
+  ]
+ },
+ {
+  "actionTitle": "Le vœu pour la suite",
+  "text": "Je souhaite qu'on continue à se surprendre l'un l'autre, encore longtemps, comme on le fait déjà.",
+  "effect": "Formuler un souhait tourné vers la continuité de la relation valorise la dynamique actuelle et exprime un désir de la voir perdurer. Elle ressent une projection positive et rassurante sur l'avenir de votre couple.",
+  "sectionTitle": "SMS - Le vœu du jour",
+  "predictable": "Les souhaits pour l'avenir du couple restent rarement formulés explicitement au quotidien",
+  "themes": [
+   "Romantic",
+   "Connection",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Mon souhait : qu'on continue à se surprendre comme on le fait déjà, encore longtemps.",
+   "J'espère qu'on gardera toujours cette capacité à s'étonner l'un l'autre, année après année."
+  ]
+ },
+ {
+  "actionTitle": "Le vœu pour un moment précis",
+  "text": "Mon seul vœu pour ce soir : qu'on rie beaucoup, sans se soucier de rien d'autre.",
+  "effect": "Exprimer un souhait précis pour un moment à venir, comme rire ensemble, oriente positivement l'ambiance de la soirée. Elle perçoit une intention claire donnée à ce moment, plutôt qu'un simple hasard de la soirée.",
+  "sectionTitle": "SMS - Le vœu du jour",
+  "predictable": "Le déroulement des soirées reste généralement non anticipé par un souhait particulier",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Vœu de ce soir : qu'on oublie tout le reste et qu'on rie ensemble, sans retenue.",
+   "J'espère juste qu'on passera un bon moment ce soir, léger et sans prise de tête."
+  ]
+ },
+ {
+  "actionTitle": "Le vœu sur la confiance",
+  "text": "Je souhaite qu'on continue à se faire confiance comme on le fait, même dans les moments plus difficiles.",
+  "effect": "Formuler un vœu centré sur la confiance mutuelle valorise cette qualité comme un pilier essentiel de la relation, particulièrement dans les moments difficiles. Elle ressent une réaffirmation rassurante de la solidité de votre lien.",
+  "sectionTitle": "SMS - Le vœu du jour",
+  "predictable": "La confiance mutuelle reste généralement implicite, jamais explicitement réaffirmée par un vœu",
+  "themes": [
+   "Connection",
+   "Care",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Mon vœu : qu'on garde cette confiance qu'on a construite, même quand ça devient compliqué.",
+   "J'espère qu'on continuera toujours à se faire confiance comme aujourd'hui, quoi qu'il arrive."
+  ]
+ },
+ {
+  "actionTitle": "Le vœu tout simple",
+  "text": "Aujourd'hui, mon vœu est simple : que tu te sentes aimée, sans avoir besoin d'y penser consciemment.",
+  "effect": "Souhaiter un sentiment constant et intégré, plutôt qu'un événement ponctuel, valorise un amour ressenti en continu plutôt qu'occasionnellement. Elle perçoit une intention profonde de faire de cet amour une évidence quotidienne plutôt qu'une déclaration isolée.",
+  "sectionTitle": "SMS - Le vœu du jour",
+  "predictable": "Le sentiment d'être aimée reste généralement lié à des déclarations ponctuelles plutôt qu'à une constance",
+  "themes": [
+   "Romantic",
+   "Tender",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Mon vœu du jour : que tu te sentes aimée sans même avoir à y penser, simplement parce que ça l'est.",
+   "J'espère que tu ressens cet amour au quotidien, pas seulement quand je le dis explicitement."
+  ]
+ },
+ {
+  "actionTitle": "Le message tactile à distance",
+  "text": "Impossible de te toucher à distance, mais sache que l'envie y est, très précisément, depuis ce matin.",
+  "effect": "Nommer un manque physique concret, même à distance, rend le désir tangible plutôt qu'abstrait. Elle perçoit une envie précise et sincère, pas seulement une formule vague d'affection.",
+  "sectionTitle": "SMS - Le rappel du corps",
+  "predictable": "L'envie physique reste généralement tue lorsque vous êtes séparés par la distance",
+  "themes": [
+   "Desire",
+   "Tender",
+   "Sensory"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 2,
+  "variations": [
+   "Aucun moyen de te toucher d'ici, mais l'envie est bien réelle depuis ce matin.",
+   "Si je pouvais glisser un geste tendre à travers ce message, je le ferais sans hésiter."
+  ]
+ },
+ {
+  "actionTitle": "Le souvenir d'un contact précis",
+  "text": "Je repense à la façon dont ta main a trouvé la mienne hier, sans effort, comme une évidence.",
+  "effect": "Se remémorer un geste tactile simple et spontané valorise ce contact au-delà de sa banalité apparente. Elle perçoit que même les gestes les plus discrets restent mémorables et précieux à tes yeux.",
+  "sectionTitle": "SMS - Le rappel du corps",
+  "predictable": "Les gestes tactiles discrets du quotidien restent généralement non commentés après coup",
+  "themes": [
+   "Tender",
+   "Nostalgia",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ta main qui a trouvé la mienne hier, sans effort, reste une des choses simples que je préfère.",
+   "Je repense à ce contact d'hier, si naturel, si évident. Ça me fait sourire encore."
+  ]
+ },
+ {
+  "actionTitle": "L'étreinte qui manque déjà",
+  "text": "Il est encore tôt, et pourtant l'étreinte de ce matin me manque déjà un peu.",
+  "effect": "Exprimer qu'un contact physique manque dès le début de la journée souligne son importance immédiate et continue. Elle perçoit une attente sincère de retrouver cette proximité, même quelques heures après l'avoir quittée.",
+  "sectionTitle": "SMS - Le rappel du corps",
+  "predictable": "Le manque physique reste généralement ressenti en silence, sans être exprimé en cours de journée",
+  "themes": [
+   "Tender",
+   "Desire",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "À peine la journée commencée, et déjà l'envie d'un câlin comme ce matin.",
+   "Notre étreinte de ce matin me manque déjà, alors que la journée vient à peine de débuter."
+  ]
+ },
+ {
+  "actionTitle": "La chaleur qui persiste",
+  "text": "Une chaleur particulière persiste depuis notre contact de ce matin, difficile à ignorer complètement.",
+  "effect": "Décrire une sensation physique persistante, liée à un contact récent, prouve un effet durable et sincère. Elle perçoit que l'intensité du moment continue d'agir bien après qu'il soit terminé.",
+  "sectionTitle": "SMS - Le rappel du corps",
+  "predictable": "Les sensations physiques d'un contact récent restent généralement ignorées ou oubliées rapidement",
+  "themes": [
+   "Sensory",
+   "Desire",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 2,
+  "variations": [
+   "Une chaleur particulière persiste depuis ce matin, difficile à complètement ignorer.",
+   "L'effet de notre contact de ce matin ne s'est toujours pas totalement dissipé."
+  ]
+ },
+ {
+  "actionTitle": "Le geste qu'on rejoue en pensée",
+  "text": "Je rejoue en pensée le moment où tu t'es blottie contre moi ce matin. Un petit moment, un grand effet.",
+  "effect": "Revivre mentalement un geste tendre précis prolonge son effet bien au-delà du moment où il s'est produit. Elle perçoit que même les gestes les plus simples continuent d'occuper une place importante dans tes pensées.",
+  "sectionTitle": "SMS - Le rappel du corps",
+  "predictable": "Les gestes tendres du matin restent cantonnés au moment où ils se produisent, sans être repensés",
+  "themes": [
+   "Tender",
+   "Nostalgia",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Je repense à ce moment où tu t'es blottie contre moi ce matin. Petit geste, grand effet, sincèrement.",
+   "Ce moment de proximité de ce matin repasse en boucle dans mes pensées, pour mon plus grand plaisir."
+  ]
  }
 ]
