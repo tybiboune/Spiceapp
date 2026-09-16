@@ -10,6 +10,7 @@ import urllib.error
 import urllib.request
 from flask import Flask, jsonify, request, send_from_directory
 from flask_cors import CORS
+from werkzeug.serving import make_server
 
 # --- CONFIGURATION ---
 # Everything (server.py, index.html, database.db, *.json) lives flat in one
@@ -126,10 +127,28 @@ def _fetch_commits_since(base_sha, head_sha):
             commits.append({"subject": subject, "body": body})
     return commits
 
+_httpd = None  # set once the server is actually listening, see __main__ below
+
 def _restart_process():
     # Re-exec in place so the new server.py (if it changed) actually takes
     # effect — a plain return would keep running the code already in memory.
+    #
+    # Explicitly closing the listening socket first matters: retrying the
+    # bind after exec (see the loop in __main__) only fixes a *transient*
+    # "port still in use" race. If the socket's file descriptor survives
+    # into the re-exec'd process instead of being closed by the OS (which
+    # happened in practice — the same 'port in use' error kept recurring
+    # across every retry, meaning nothing was ever going to free it), no
+    # amount of retrying helps, because the new process is fighting a
+    # socket it itself still holds open. Closing it here removes that
+    # possibility outright rather than hoping the OS closes it for us.
     time.sleep(1)
+    global _httpd
+    if _httpd is not None:
+        try:
+            _httpd.server_close()
+        except OSError:
+            pass
     os.execv(sys.executable, [sys.executable] + sys.argv)
 
 def get_db_connection():
@@ -288,32 +307,32 @@ if __name__ == '__main__':
     print("--- Starting Flask Server ---")
     print("Your app will be available at: http://127.0.0.1:5000")
     print("-----------------------------")
-    # use_reloader=False: Werkzeug's own file-watching auto-restart would
-    # otherwise race with our explicit self-update restart (_restart_process)
-    # the moment an update writes a new server.py — the two would fight over
-    # restarting the same process, sometimes tearing down the connection
-    # before the /api/update/* response reaches the browser.
-    #
-    # Retry on EADDRINUSE: right after a self-update restart, os.execv()
-    # replaces this process in place, but the OS doesn't always release the
-    # old listening socket on port 5000 before the new run() tries to bind
-    # it — observed in practice as "port 5000 is in use" crashing the app
-    # dead right after an update, needing a manual relaunch. Binding is the
-    # very first thing run() does, so a short retry loop here is enough to
-    # ride out that window instead of dying on it.
-    #
-    # Werkzeug's run_simple() doesn't let a bind failure surface as a plain
-    # OSError: it prints its own "port is in use" message and calls
-    # sys.exit(1) itself, which raises SystemExit — so that's what this
-    # loop has to catch, not OSError.
+    # Built directly with werkzeug.serving.make_server() instead of
+    # app.run(): that's the only way to keep a handle on the actual listening
+    # socket (_httpd), which _restart_process() needs to explicitly close
+    # before re-exec'ing — see the comment there for why that matters. This
+    # also sidesteps app.run()'s reloader machinery entirely (no
+    # use_reloader flag needed), which used to race with our own restart the
+    # moment an update wrote a new server.py.
+    if debug_mode:
+        from werkzeug.debug import DebuggedApplication
+        wsgi_app = DebuggedApplication(app, evalex=True)
+    else:
+        wsgi_app = app
+
+    # Retry on EADDRINUSE: even with the socket explicitly closed before
+    # exec (see _restart_process), the OS can still take a brief moment to
+    # actually free the port — this rides out that window instead of dying
+    # on it.
     max_attempts = 10
     for attempt in range(1, max_attempts + 1):
         try:
-            app.run(debug=debug_mode, port=5000, threaded=True, use_reloader=False)
+            _httpd = make_server('0.0.0.0', 5000, wsgi_app, threaded=True)
             break
-        except (OSError, SystemExit) as e:
-            still_retryable = isinstance(e, SystemExit) or e.errno in (98, 48)  # EADDRINUSE: 98 Linux/Android, 48 macOS
-            if not still_retryable or attempt == max_attempts:
+        except OSError as e:
+            if e.errno not in (98, 48) or attempt == max_attempts:  # EADDRINUSE: 98 Linux/Android, 48 macOS
                 raise
             print(f"   - Port 5000 still in use (attempt {attempt}/{max_attempts}), retrying in 1s…")
             time.sleep(1)
+
+    _httpd.serve_forever()
