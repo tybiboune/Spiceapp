@@ -8185,5 +8185,905 @@
    "Know you were running on fumes today and still fully showed up. That deserves a direct mention.",
    "You were clearly exhausted today and still gave it real effort. Worth saying out loud."
   ]
+ },
+ {
+  "actionTitle": "The go-get-it morning text",
+  "text": "Whatever today's got lined up, you're more than ready for it. Go show it who's in charge.",
+  "effect": "Sending a confidence-boosting message right at the start of the day, before any specific stressor has been named, sets a proactive rather than reactive tone. She begins her day with a general vote of confidence rather than waiting for a specific challenge to prompt encouragement.",
+  "sectionTitle": "SMS - Morning Send-off",
+  "predictable": "Mornings begin without any specific message of confidence sent ahead of the day",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever's on today's list, you've got more than enough in you to handle it.",
+   "Go show today who's actually in charge here. Spoiler: it's you."
+  ]
+ },
+ {
+  "actionTitle": "The first-thought-of-the-day text",
+  "text": "First thing I thought about this morning, before coffee even, was you. Take that as today's starting energy.",
+  "effect": "Reporting that she was the very first thought of the day, before any other priority, establishes her as a genuine morning priority rather than an afterthought. She receives a message specifically framed around timing, which emphasizes how early in your consciousness she registers.",
+  "sectionTitle": "SMS - Morning Send-off",
+  "predictable": "The first thoughts of the morning go unreported, with affectionate messages arriving later in the day",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Before coffee, before anything else today, the first thought was you. Good sign for the day.",
+   "You were the very first thing on my mind this morning. Setting the tone early, apparently."
+  ]
+ },
+ {
+  "actionTitle": "The coffee-in-hand send-off",
+  "text": "Coffee in hand, heading into the day, and sending one last thought your way before the chaos officially starts.",
+  "effect": "Timing a message to the specific, recognizable moment of beginning the workday adds a small ritual quality to an otherwise routine transition. She receives a message anchored to a concrete moment rather than a vague, floating good-morning text sent at no particular point in the routine.",
+  "sectionTitle": "SMS - Morning Send-off",
+  "predictable": "The transition into the workday happens without any specific message marking the moment",
+  "themes": [
+   "Tender",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Coffee's in hand, day's about to start, and you got one last thought before the chaos begins.",
+   "Right before diving into today, sending this your way. Chaos starts in five, apparently."
+  ]
+ },
+ {
+  "actionTitle": "The morning confidence deposit",
+  "text": "Making a deposit into your confidence account this morning: you're sharper and more capable than today is going to give you credit for.",
+  "effect": "Using a playful financial metaphor to deliver a compliment adds structure and memorability to a message that might otherwise be a standard, forgettable reassurance. She receives encouragement framed as something concretely 'banked,' which stands out from typical morning texts.",
+  "sectionTitle": "SMS - Morning Send-off",
+  "predictable": "Confidence-boosting messages tend to be delivered plainly, without any memorable framing device",
+  "themes": [
+   "Confidence",
+   "Playful",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Morning deposit into your confidence account: you're more capable than today will probably acknowledge.",
+   "Small confidence deposit before the day starts: you're sharper than whatever's coming will give you credit for."
+  ]
+ },
+ {
+  "actionTitle": "The simple good-morning with weight",
+  "text": "Good morning. Not the automatic kind, the kind where I actually mean it and I'm actually glad you exist today.",
+  "effect": "Explicitly distinguishing a sincere greeting from the automatic, reflexive version signals that this particular message carries more intentional weight. She receives a standard phrase reframed as deliberate and sincere, rather than habitual and easily overlooked.",
+  "sectionTitle": "SMS - Morning Send-off",
+  "predictable": "Standard good-morning messages tend to be sent automatically, without distinguishing sincerity",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Good morning, the genuine kind, not the automatic one. Actually glad you're around today.",
+   "This is the sincere version of good morning, not the reflexive one. Meant every word of it."
+  ]
+ },
+ {
+  "actionTitle": "The single word requested",
+  "text": "One word. How's today going so far. Just one, no explanation needed unless you want to add more.",
+  "effect": "Requesting an answer in exactly one word lowers the barrier to responding, especially during a busy or draining moment when a full explanation feels like too much. She's given an easy, low-effort way to communicate her state without needing to generate a complete thought.",
+  "sectionTitle": "SMS - The One-Word Check",
+  "predictable": "Check-ins tend to request a full explanation, which can feel like too much effort during a busy day",
+  "themes": [
+   "Care",
+   "Communication",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "One word only: how's today so far? Elaborate later if you feel like it.",
+   "Single word check-in: today, so far, in one word. That's the whole ask."
+  ]
+ },
+ {
+  "actionTitle": "The color-coded mood check",
+  "text": "If today were a color, what would it be? No explanation required, just the color.",
+  "effect": "Framing a mood check-in through an abstract, non-verbal category like color offers an alternate channel for expressing an emotional state that's easier than direct description. She can respond with something evocative and quick rather than needing to articulate a precise feeling in words.",
+  "sectionTitle": "SMS - The One-Word Check",
+  "predictable": "Mood check-ins tend to require a direct verbal description rather than an easier alternate format",
+  "themes": [
+   "Playful",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "If today had a color, what would it be? No explanation necessary, just curious.",
+   "Quick one: what color is today, mood-wise? Answer however you interpret that."
+  ]
+ },
+ {
+  "actionTitle": "The weather-as-mood metaphor check",
+  "text": "Using weather terms only: is today sunny, stormy, or somewhere in between for you right now?",
+  "effect": "Using a familiar weather metaphor as shorthand for emotional state provides an accessible, low-effort vocabulary for checking in. She can respond quickly using a shared, intuitive framework rather than needing to translate her feelings into precise language on the spot.",
+  "sectionTitle": "SMS - The One-Word Check",
+  "predictable": "Emotional check-ins tend to lack a shared shorthand, requiring more explicit description each time",
+  "themes": [
+   "Care",
+   "Playful",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Weather report request: sunny, stormy, or somewhere in between today, for you specifically?",
+   "In weather terms only: how's today looking on your end right now?"
+  ]
+ },
+ {
+  "actionTitle": "The thumbs up or down check",
+  "text": "Simplest possible check-in: thumbs up or thumbs down on today so far. That's genuinely all I need to know right now.",
+  "effect": "Reducing the check-in to a binary choice removes any pressure to elaborate, which respects that she may not have the bandwidth for more at that moment. She's offered the simplest possible way to communicate, useful precisely when a fuller conversation isn't feasible.",
+  "sectionTitle": "SMS - The One-Word Check",
+  "predictable": "Check-ins tend to invite open-ended responses rather than offering a simple binary option",
+  "themes": [
+   "Care",
+   "Playful",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Thumbs up or down on today, that's genuinely the whole question right now.",
+   "Simplest check-in possible: up or down on how today's going so far?"
+  ]
+ },
+ {
+  "actionTitle": "The emoji-only response allowed",
+  "text": "Feel free to respond to this with just an emoji. Genuinely don't need words if today doesn't have the energy for them.",
+  "effect": "Explicitly permitting a non-verbal response removes any implicit expectation of a fully articulated reply, which can feel like a relief on a demanding day. She's given permission to communicate at whatever level of effort actually matches her current capacity.",
+  "sectionTitle": "SMS - The One-Word Check",
+  "predictable": "Responses to check-ins are implicitly expected to be in full sentences, regardless of her energy level",
+  "themes": [
+   "Care",
+   "Playful",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "An emoji response is completely acceptable here. Words optional, especially if today's a lot.",
+   "Feel free to just send an emoji back. Genuinely don't need a full sentence right now."
+  ]
+ },
+ {
+  "actionTitle": "The new nickname trial",
+  "text": "Testing out a new nickname for you today, purely experimental, no commitment yet. Reactions welcome.",
+  "effect": "Introducing a playful, low-stakes experiment around a new nickname invites her into a collaborative, ongoing joke rather than presenting something as finalized. She's given the chance to weigh in on something being built together, rather than simply receiving a fixed decision.",
+  "sectionTitle": "SMS - Invented Nicknames",
+  "predictable": "Nicknames tend to be either fully established or entirely absent, without a playful trial phase",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Trying out a new nickname on you today, purely as an experiment. Feedback appreciated.",
+   "New nickname in beta testing today. No pressure, just seeing how it feels."
+  ]
+ },
+ {
+  "actionTitle": "The nickname with a backstory",
+  "text": "Explaining the completely absurd reasoning behind the nickname I've apparently decided to use for you today.",
+  "effect": "Providing an elaborate, invented justification for a nickname adds playful narrative depth to what could otherwise be an arbitrary label. She receives a small, entertaining explanation that turns a simple nickname into a tiny inside joke with its own mythology.",
+  "sectionTitle": "SMS - Invented Nicknames",
+  "predictable": "Nicknames tend to come without any explanation or backstory attached to their origin",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Here's the completely unnecessary backstory behind today's nickname for you.",
+   "Explaining my reasoning, such as it is, for the nickname I've randomly assigned you today."
+  ]
+ },
+ {
+  "actionTitle": "The formal nickname retirement notice",
+  "text": "Formally retiring last month's nickname. It served us well. A successor will be announced shortly.",
+  "effect": "Treating the rotation of nicknames with mock-official ceremony adds humor and a sense of shared history to an evolving private joke. She experiences continuity and playful tradition in something as small as what you casually call her.",
+  "sectionTitle": "SMS - Invented Nicknames",
+  "predictable": "Nicknames tend to fade out quietly rather than being formally acknowledged as retired",
+  "themes": [
+   "Playful",
+   "Nostalgia",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Officially retiring the old nickname. It had a good run. Replacement incoming soon.",
+   "Formal notice: that nickname's being phased out. A worthy successor is in development."
+  ]
+ },
+ {
+  "actionTitle": "The nickname poll",
+  "text": "Quick poll: which of these two ridiculous nicknames do you prefer for yourself going forward? Democracy in action.",
+  "effect": "Offering her a choice between options, rather than unilaterally assigning a nickname, turns the process into a small collaborative decision. She's given actual influence over something that's ultimately about how she gets addressed, which respects her preference directly.",
+  "sectionTitle": "SMS - Invented Nicknames",
+  "predictable": "Nicknames tend to get assigned unilaterally, without any input solicited from her",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Quick poll: pick your preferred ridiculous nickname from these two options. Your call entirely.",
+   "Democratic nickname selection time. Choose from these two absurd options, please."
+  ]
+ },
+ {
+  "actionTitle": "The nickname earned today",
+  "text": "You've earned a brand new nickname today based on something specific that happened. Ask me about it later.",
+  "effect": "Tying a new nickname to a specific event creates a memorable, story-based label rather than an arbitrary one. She's given a small mystery to look forward to, since the explanation is deliberately withheld until later conversation.",
+  "sectionTitle": "SMS - Invented Nicknames",
+  "predictable": "Nicknames tend to be unrelated to any specific event, chosen arbitrarily instead",
+  "themes": [
+   "Playful",
+   "Intrigue",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "You've earned a new nickname today, tied to something specific. Full story later.",
+   "New nickname unlocked today based on an actual event. Details to follow in person."
+  ]
+ },
+ {
+  "actionTitle": "The two-option poll",
+  "text": "Quick poll, no context: pizza or tacos tonight? Democracy demands an answer.",
+  "effect": "Presenting a simple binary choice invites quick engagement without requiring deep thought, which makes responding easy even during a busy moment. She's given a low-stakes decision to make together, which builds small moments of collaboration into the day.",
+  "sectionTitle": "SMS - The Random Poll",
+  "predictable": "Small daily decisions tend to get made unilaterally rather than framed as a quick joint poll",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Fast poll: pizza or tacos tonight? No context, just need your vote.",
+   "Democracy in action: pick one, pizza or tacos, for tonight's dinner decision."
+  ]
+ },
+ {
+  "actionTitle": "The hypothetical scenario poll",
+  "text": "Random hypothetical: beach house or mountain cabin, if you had to pick just one forever? Genuinely curious about your answer.",
+  "effect": "Posing a playful hypothetical invites imaginative engagement and reveals genuine preferences through a low-stakes, fun format. She's invited into a small daydream exercise that doubles as a way of learning something real about her preferences.",
+  "sectionTitle": "SMS - The Random Poll",
+  "predictable": "Hypothetical preferences rarely get surfaced through casual, spontaneous questions",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Intrigue"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Hypothetical: beach house or mountain cabin, forever, pick one. Genuinely curious.",
+   "Random question: if you had to choose forever, beach or mountains? No wrong answer, just curious."
+  ]
+ },
+ {
+  "actionTitle": "The this-or-that rapid fire",
+  "text": "Rapid fire, answer without thinking too hard: coffee or tea, morning or night, beach or forest.",
+  "effect": "A quick series of binary choices, answered rapidly, tends to surface honest, unfiltered preferences rather than carefully considered ones. She's invited into a playful, low-stakes exchange that reveals small genuine truths through speed rather than deliberation.",
+  "sectionTitle": "SMS - The Random Poll",
+  "predictable": "Preferences tend to be discussed deliberately rather than surfaced through quick, rapid-fire questions",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Rapid fire, no overthinking: coffee or tea, mornings or nights, beach or forest.",
+   "Quick round: answer fast without deliberating. Coffee, tea. Morning, night. Go."
+  ]
+ },
+ {
+  "actionTitle": "The would-you-rather poll",
+  "text": "Would you rather have the ability to fly or be invisible? Purely for entertainment purposes, no real stakes here.",
+  "effect": "Posing a classic, playful hypothetical injects a moment of pure whimsy into the day, unconnected to any practical decision. She's given a small mental escape into imaginative territory, purely for the fun of considering an impossible scenario together.",
+  "sectionTitle": "SMS - The Random Poll",
+  "predictable": "Playful hypotheticals rarely get introduced into ordinary daily conversation",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Would you rather fly or turn invisible? Purely for fun, no actual stakes involved.",
+   "Classic hypothetical: flying or invisibility, which power would you actually pick?"
+  ]
+ },
+ {
+  "actionTitle": "The opinion poll on something trivial",
+  "text": "Genuinely need your opinion on something trivial: is a hot dog a sandwich? This has been weighing on me.",
+  "effect": "Soliciting her opinion on a deliberately trivial, debate-prone topic invites playful engagement without any real consequence attached. She's invited into a lighthearted debate purely for its own entertainment value, a break from more substantive daily decisions.",
+  "sectionTitle": "SMS - The Random Poll",
+  "predictable": "Trivial debate topics rarely get raised deliberately as a source of playful conversation",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Need your take on something trivial: is a hot dog technically a sandwich? Genuinely debating this.",
+   "Important question, low stakes: hot dog, sandwich or not? Your official ruling requested."
+  ]
+ },
+ {
+  "actionTitle": "The lyric with no context",
+  "text": "Random lyric that's been stuck in my head today, sent with zero context: 'and every day I love you more than the day before.' Make of that what you will.",
+  "effect": "Sending a lyric fragment without explanation invites her to interpret the message on her own terms, which can feel more personal than a direct, fully explained statement. She receives a small puzzle wrapped around genuine sentiment, engaging her interpretation rather than simply delivering a plain message.",
+  "sectionTitle": "SMS - Song Lyric Drops",
+  "predictable": "Sentiments tend to be delivered as direct statements rather than through unexplained song lyrics",
+  "themes": [
+   "Romantic",
+   "Playful",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Stuck in my head today, no context provided: a lyric that happens to be pretty accurate about you.",
+   "Random lyric drop, zero explanation attached. Interpret it however you want."
+  ]
+ },
+ {
+  "actionTitle": "The song that made me think of you",
+  "text": "Heard a song today that instantly made me think of you, specifically this line: describing it would ruin it, just go listen when you get a chance.",
+  "effect": "Recommending a specific song, tied explicitly to thoughts of her, invites shared discovery of something personally meaningful rather than generic. She receives an invitation into a private moment of connection, built around something external that reminded you of her unprompted.",
+  "sectionTitle": "SMS - Song Lyric Drops",
+  "predictable": "Songs that evoke thoughts of her tend to go unmentioned rather than being actively shared",
+  "themes": [
+   "Romantic",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "A song today made me think of you immediately. Specific line included, description withheld on purpose.",
+   "Heard something today that was basically about you, unintentionally. Go listen when you can."
+  ]
+ },
+ {
+  "actionTitle": "The lyric that says what I can't",
+  "text": "This lyric says what I'm trying to say better than I ever could on my own: 'you're the best thing that's ever been mine.'",
+  "effect": "Borrowing language from a song, rather than crafting original words, can feel like an honest admission that some feelings exceed your own vocabulary. She receives a sentiment amplified by shared cultural reference, which can land with more emotional resonance than a plain statement.",
+  "sectionTitle": "SMS - Song Lyric Drops",
+  "predictable": "Difficult-to-articulate feelings tend to go unexpressed rather than borrowed from a song's lyrics",
+  "themes": [
+   "Romantic",
+   "Vulnerability",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This line says it better than I ever could on my own: you're genuinely the best thing that's happened to me.",
+   "Borrowing someone else's words here because mine aren't cutting it: this lyric nails it."
+  ]
+ },
+ {
+  "actionTitle": "The ironic lyric for a mundane moment",
+  "text": "Sending an overly dramatic love song lyric for an entirely mundane situation, purely because the contrast is funny: 'I would go through all of this pain.' It's about the laundry.",
+  "effect": "Deliberately mismatching a dramatic lyric to a trivial context creates humor through absurd exaggeration rather than sincerity. She receives a playful, ironic message that entertains through its obvious overstatement rather than genuine emotional weight.",
+  "sectionTitle": "SMS - Song Lyric Drops",
+  "predictable": "Song lyrics tend to be used only in earnest, rather than ironically for comedic contrast",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Overly dramatic lyric for a mundane situation, purely for comedic effect: this is about the dishes, for the record.",
+   "Sending intense love-song lyrics about something completely trivial, purely because the contrast amuses me."
+  ]
+ },
+ {
+  "actionTitle": "The lyric prediction for tonight",
+  "text": "This lyric's basically a preview of how good tonight's going to be: 'tonight's gonna be a good night.' Setting expectations early.",
+  "effect": "Using a familiar, upbeat lyric to frame anticipation for the evening builds shared excitement through a recognizable, playful cultural reference. She receives a lighthearted forecast for the night ahead, delivered with a wink through borrowed, well-known language.",
+  "sectionTitle": "SMS - Song Lyric Drops",
+  "predictable": "Anticipation for the evening tends to be expressed directly rather than through a playful lyric reference",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This lyric's basically predicting how good tonight's going to be. Setting the bar early.",
+   "Borrowing a song's confidence here: tonight's shaping up to be a good one, according to the lyrics anyway."
+  ]
+ },
+ {
+  "actionTitle": "The small silly dare",
+  "text": "Dare you to send me the most ridiculous selfie you can manage in the next five minutes. No backing out.",
+  "effect": "Issuing a playful, low-stakes dare invites spontaneity and a bit of silliness into the middle of an ordinary day. She's given a small excuse to break from routine and produce something genuinely fun to share, purely for entertainment.",
+  "sectionTitle": "SMS - The Playful Dare",
+  "predictable": "Ordinary days pass without any playful dares or spontaneous challenges introduced",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Daring you to send the most ridiculous selfie possible in the next five minutes. No excuses accepted.",
+   "Challenge issued: most absurd selfie you can manage, sent within the next five minutes."
+  ]
+ },
+ {
+  "actionTitle": "The compliment dare",
+  "text": "Dare you to give a genuine, specific compliment to the next person you interact with today, stranger or otherwise.",
+  "effect": "Framing a small act of kindness as a dare adds a playful structure that makes the challenge feel fun rather than purely altruistic. She's invited into a lighthearted mission that has a real, positive ripple effect beyond just the two of you.",
+  "sectionTitle": "SMS - The Playful Dare",
+  "predictable": "Small acts of kindness toward others rarely get framed as a fun, personal challenge",
+  "themes": [
+   "Playful",
+   "Care",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Dare you to give a real compliment to the next person you talk to today, whoever that ends up being.",
+   "Challenge: genuine compliment to a stranger or coworker sometime today. Report back on the reaction."
+  ]
+ },
+ {
+  "actionTitle": "The no-complaining dare",
+  "text": "Dare you to go the next hour without a single complaint about anything, however small. I'll do the same. Let's see who lasts.",
+  "effect": "Turning a small self-discipline exercise into a mutual, competitive dare makes it more engaging than a solo effort at positivity. She's invited into a shared, light-hearted challenge that briefly shifts focus toward noticing positives rather than frustrations.",
+  "sectionTitle": "SMS - The Playful Dare",
+  "predictable": "Self-discipline challenges tend to be undertaken alone rather than as a mutual, competitive dare",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Dare you to go the next hour with zero complaints, however minor. Doing the same on my end. Let's see.",
+   "Mutual challenge: no complaining for the next hour, either of us. May the more disciplined person win."
+  ]
+ },
+ {
+  "actionTitle": "The dance-in-public dare",
+  "text": "Dare you to do a small, low-key dance move next time you're in a public place today, just a few seconds, nothing dramatic.",
+  "effect": "Issuing a mild, socially bold dare invites a small act of playful confidence in an otherwise unremarkable public setting. She's encouraged to embrace a moment of harmless silliness, which can feel liberating precisely because it defies typical public composure.",
+  "sectionTitle": "SMS - The Playful Dare",
+  "predictable": "Public settings tend to be navigated with full composure, without any small acts of spontaneous silliness",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Dare you to bust a tiny, low-key dance move in public sometime today. Just a few seconds, nothing wild.",
+   "Small public dare: a brief, subtle dance move somewhere today. Video evidence optional but appreciated."
+  ]
+ },
+ {
+  "actionTitle": "The try-something-new dare",
+  "text": "Dare you to try one small new thing today, a food, a route, anything, that you wouldn't normally bother with.",
+  "effect": "Challenging her to deviate from routine, even in a small way, playfully encourages novelty without requiring major planning or commitment. She's given a low-stakes excuse to break from habit, which can introduce a small spark of discovery into an otherwise ordinary day.",
+  "sectionTitle": "SMS - The Playful Dare",
+  "predictable": "Daily routines tend to stay fixed, without any small dares encouraging deviation from the usual",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Dare you to try one small new thing today, anything you wouldn't normally bother trying.",
+   "Challenge: break routine in one tiny way today. Food, route, anything. Report back later."
+  ]
+ },
+ {
+  "actionTitle": "The future kitchen imagined",
+  "text": "Picturing our future kitchen right now, specifically arguing internally about where the coffee machine would go. Priorities, apparently.",
+  "effect": "Imagining a specific, mundane detail of a shared future home, rather than a vague general vision, makes the daydream feel concrete and genuinely considered. She receives a glimpse into a specific, lived-in version of a shared future, rather than an abstract, generic idea of eventually living together.",
+  "sectionTitle": "SMS - The Home Daydream",
+  "predictable": "Ideas about a future shared home stay vague and general rather than focused on specific, concrete details",
+  "themes": [
+   "Anticipation",
+   "Romantic",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Deep in thought about our future kitchen layout right now. Coffee machine placement is a real debate internally.",
+   "Imagining our eventual kitchen in specific detail today. The coffee machine spot is surprisingly contentious."
+  ]
+ },
+ {
+  "actionTitle": "The imagined lazy Sunday there",
+  "text": "Already picturing a lazy Sunday morning in our someday place, specifically the part where neither of us gets out of bed before noon.",
+  "effect": "Envisioning a specific, low-key future scenario, rather than a grand milestone, emphasizes that ordinary comfort is part of the appeal of a shared future. She receives a daydream centered on quiet domesticity, which can feel more genuinely intimate than imagining only big, dramatic future events.",
+  "sectionTitle": "SMS - The Home Daydream",
+  "predictable": "Future plans tend to focus on major milestones rather than imagined ordinary, everyday moments",
+  "themes": [
+   "Romantic",
+   "Tender",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Already imagining a lazy Sunday in our someday place, specifically not getting up before noon.",
+   "Picturing our future setup, specifically a slow Sunday morning where nobody's in a rush to move."
+  ]
+ },
+ {
+  "actionTitle": "The imaginary housewarming guest list",
+  "text": "Working on the imaginary guest list for our eventual housewarming party. You're obviously invited, in case that wasn't clear.",
+  "effect": "Playfully planning details for a hypothetical future event treats a shared future home as an active, evolving project rather than an abstract someday idea. She's invited into a lighthearted collaborative daydream, building specific plans together even without any concrete timeline attached.",
+  "sectionTitle": "SMS - The Home Daydream",
+  "predictable": "Hypothetical future events don't get planned in playful detail ahead of any actual timeline",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Working on the guest list for our imaginary future housewarming. You're on it, obviously, just to clarify.",
+   "Planning our eventual housewarming party in my head today. You made the list, unsurprisingly."
+  ]
+ },
+ {
+  "actionTitle": "The furniture argument imagined",
+  "text": "Already imagining our first furniture disagreement in our future place. Placing early bets on who wins that one.",
+  "effect": "Playfully imagining a hypothetical future disagreement, framed with humor, normalizes minor conflict as an expected, even charming part of building a life together. She receives a lighthearted acknowledgment that a shared future includes small friction points too, treated with humor rather than avoided as a topic.",
+  "sectionTitle": "SMS - The Home Daydream",
+  "predictable": "Imagined future disagreements rarely get mentioned playfully ahead of any actual shared living situation",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Already picturing our first furniture argument in our eventual place. Taking early bets on the winner.",
+   "Preemptively imagining a disagreement over furniture placement someday. Should be a classic one."
+  ]
+ },
+ {
+  "actionTitle": "The someday neighborhood picked",
+  "text": "If we could pick any neighborhood for our someday place, no budget constraints, where would you actually want to end up?",
+  "effect": "Asking an open-ended question about an idealized future location invites genuine reflection on her preferences without the pressure of real financial constraints. She's given space to articulate a genuine desire, unconstrained by practicality, which can reveal something real about her priorities.",
+  "sectionTitle": "SMS - The Home Daydream",
+  "predictable": "Discussions about a future home tend to stay grounded in practical constraints rather than open possibility",
+  "themes": [
+   "Anticipation",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "No budget limits, hypothetically: which neighborhood would you actually want for our someday place?",
+   "If money weren't a factor at all, where would you genuinely want us to end up living someday?"
+  ]
+ },
+ {
+  "actionTitle": "The apology for being distracted",
+  "text": "Sorry for being a bit distracted earlier. You deserved my full attention and didn't quite get it. Noted for next time.",
+  "effect": "Acknowledging a minor lapse in attentiveness, rather than letting it pass unmentioned, demonstrates ongoing awareness of how you're showing up for her. She receives recognition that even small inattentiveness gets noticed and owned, rather than assumed to be unimportant.",
+  "sectionTitle": "SMS - Small Apologies",
+  "predictable": "Minor lapses in attention tend to go unacknowledged, treated as too small to mention",
+  "themes": [
+   "Vulnerability",
+   "Care",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Sorry for being distracted earlier. You deserved better attention than you got. Noting it for next time.",
+   "Small apology: I wasn't fully present earlier. You deserved more focus than I gave."
+  ]
+ },
+ {
+  "actionTitle": "The apology for a short reply",
+  "text": "Sorry my reply earlier was short, not the message itself, more just the mood I was in when I sent it. Wasn't about you.",
+  "effect": "Clarifying that a curt tone reflected your own state rather than anything about her prevents unnecessary misinterpretation from lingering. She receives reassurance that a small, potentially confusing moment wasn't a reflection of how she's regarded, resolved before it has the chance to fester.",
+  "sectionTitle": "SMS - Small Apologies",
+  "predictable": "Curt or short replies tend to go unexplained, leaving room for unintended misinterpretation",
+  "themes": [
+   "Vulnerability",
+   "Care",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Sorry that reply came off short earlier. Just my mood at the time, had nothing to do with you.",
+   "That message earlier probably read a bit curt. My mood, not you. Wanted to clarify that."
+  ]
+ },
+ {
+  "actionTitle": "The apology for forgetting something small",
+  "text": "Sorry for forgetting to mention that thing earlier, it genuinely just slipped my mind, not a reflection of how much it mattered.",
+  "effect": "Owning a small memory lapse, while clarifying it wasn't due to indifference, prevents an innocent mistake from being misread as carelessness. She receives clarity that forgetting doesn't equate to not caring, an important distinction that's easy to leave unaddressed.",
+  "sectionTitle": "SMS - Small Apologies",
+  "predictable": "Small memory lapses tend to go unaddressed, leaving room for them to be misread as carelessness",
+  "themes": [
+   "Vulnerability",
+   "Care",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Sorry for forgetting to bring that up earlier. Genuinely slipped my mind, not a reflection of its importance.",
+   "My bad for forgetting that detail earlier. Just an honest slip, not a sign I didn't care."
+  ]
+ },
+ {
+  "actionTitle": "The apology for the wrong tone",
+  "text": "Sorry if that last message came across wrong. Rereading it, I can see how the tone landed differently than I meant it to.",
+  "effect": "Proactively acknowledging a possible misread in tone, before she has to raise it herself, demonstrates self-awareness and reduces the burden of her needing to call it out. She receives an apology that anticipates a potential problem rather than waiting for her to flag discomfort first.",
+  "sectionTitle": "SMS - Small Apologies",
+  "predictable": "Potentially misread tone in a message tends to go unaddressed unless she brings it up first",
+  "themes": [
+   "Vulnerability",
+   "Communication",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Sorry if my last text came off wrong. Reading it back, I get how the tone could've landed badly.",
+   "Rereading that last message, the tone probably wasn't great. Sorry, wasn't the intention."
+  ]
+ },
+ {
+  "actionTitle": "The apology for running late again",
+  "text": "Sorry for running late again. I know it's become a bit of a pattern and that's on me to actually fix, not just apologize for repeatedly.",
+  "effect": "Acknowledging a recurring behavior, rather than treating each instance as isolated, takes ownership of a pattern rather than offering repeated, disconnected apologies. She receives recognition that the issue is understood as ongoing, along with an implicit commitment to actually change it rather than just repeatedly regretting it.",
+  "sectionTitle": "SMS - Small Apologies",
+  "predictable": "Recurring issues tend to get apologized for individually, without acknowledging the larger pattern",
+  "themes": [
+   "Vulnerability",
+   "Care",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Sorry for being late again. That's becoming a real pattern, and it's on me to actually fix, not just apologize.",
+   "Running late again, sorry. Recognizing this keeps happening and that's a me problem to solve."
+  ]
+ },
+ {
+  "actionTitle": "The random status report",
+  "text": "Unprompted life update: things are good, you're the best part of most days, and I felt like saying so out of nowhere.",
+  "effect": "Volunteering a positive statement without any triggering question demonstrates that expressing affection doesn't require prompting or a specific occasion. She receives a sincere update delivered purely because it felt worth saying, not extracted through a conversation that led there.",
+  "sectionTitle": "SMS - The Unprompted Update",
+  "predictable": "Positive statements about the relationship tend to arise only in response to a direct question",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Random update, unprompted: things are good, and you're a big part of why. Felt like saying it.",
+   "Unsolicited life report: doing well, mostly because of you. No particular reason for saying so now."
+  ]
+ },
+ {
+  "actionTitle": "The gratitude update",
+  "text": "Update nobody asked for: increasingly grateful for you lately, in ways I probably don't say out loud often enough.",
+  "effect": "Offering an unprompted statement of gratitude counters the tendency for appreciation to only surface during significant moments or direct prompts. She receives an update that exists purely to communicate something true, without needing an external reason to justify saying it.",
+  "sectionTitle": "SMS - The Unprompted Update",
+  "predictable": "Gratitude tends to be expressed only during significant moments rather than as a random, unprompted update",
+  "themes": [
+   "Care",
+   "Tender",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Unprompted update: increasingly grateful for you lately. Should probably say that out loud more often.",
+   "Nobody asked, but here's an update: my gratitude for you has been quietly increasing lately."
+  ]
+ },
+ {
+  "actionTitle": "The status report on us",
+  "text": "Quick unprompted status report on us: solid, in my opinion. Figured that was worth sending rather than just thinking it.",
+  "effect": "Volunteering a positive assessment of the relationship itself, without prompting, reassures through proactive communication rather than requiring her to ask how things are going. She receives an unsolicited but genuine check-in on the relationship's overall state, delivered as a small, low-stakes reassurance.",
+  "sectionTitle": "SMS - The Unprompted Update",
+  "predictable": "Assessments of how the relationship is doing tend to stay unspoken unless directly asked about",
+  "themes": [
+   "Connection",
+   "Confidence",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Random status update on us: solid, from where I'm standing. Figured that was worth actually saying.",
+   "Unprompted relationship report: things feel good on my end. Wanted to say it rather than just think it."
+  ]
+ },
+ {
+  "actionTitle": "The random affection confirmation",
+  "text": "Confirming, without being asked: still very much into you. Figured a random Tuesday was as good a time as any to mention it.",
+  "effect": "Reaffirming attraction or affection on an entirely ordinary day, without any prompting occasion, demonstrates that the feeling is constant rather than tied to specific moments. She receives confirmation of ongoing affection delivered with no external justification needed, which reads as more genuine than a compliment tied to an occasion.",
+  "sectionTitle": "SMS - The Unprompted Update",
+  "predictable": "Confirmations of ongoing attraction tend to be reserved for specific occasions rather than random days",
+  "themes": [
+   "Romantic",
+   "Playful",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Unprompted confirmation: still very into you. Random Tuesday felt like as good a time as any to say it.",
+   "Nobody asked, but confirming anyway: the attraction hasn't gone anywhere. Just wanted that on record."
+  ]
+ },
+ {
+  "actionTitle": "The unprompted future confidence",
+  "text": "Random unprompted thought: feeling genuinely good about where we're headed lately. Wanted that on the record, unprompted.",
+  "effect": "Sharing confidence about the relationship's future trajectory, without any specific event prompting it, offers reassurance that stability is felt continuously rather than only during moments of explicit reflection. She receives a spontaneous vote of confidence in the relationship's direction, delivered without needing an anniversary or milestone as a reason.",
+  "sectionTitle": "SMS - The Unprompted Update",
+  "predictable": "Confidence about the relationship's future tends to surface only during significant, planned conversations",
+  "themes": [
+   "Confidence",
+   "Romantic",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Random thought, unprompted: feeling genuinely good about where things are headed lately. Wanted to say it.",
+   "Nobody asked, but here's an update: real confidence about us lately, for whatever that's worth."
+  ]
+ },
+ {
+  "actionTitle": "The what-are-you-into-lately question",
+  "text": "What's something you've been genuinely into lately that I might not know much about? Actually curious.",
+  "effect": "Asking about a current interest, rather than a static or long-established one, acknowledges that her curiosities and enthusiasms shift and evolve over time. She's invited to share something recent and specific, rather than defaulting to well-known, already-discussed topics.",
+  "sectionTitle": "SMS - The Curiosity Question",
+  "predictable": "Conversations tend to revisit already-known interests rather than probing for newer, evolving ones",
+  "themes": [
+   "Connection",
+   "Communication",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "What's something new you've gotten into recently that I might not know much about yet?",
+   "Genuinely curious: what's caught your interest lately that we haven't really talked about?"
+  ]
+ },
+ {
+  "actionTitle": "The what-would-you-change question",
+  "text": "If you could change one small thing about how a typical day goes, no big overhauls, just one small thing, what would it be?",
+  "effect": "Inviting a modest, achievable wish rather than a sweeping life change makes the question approachable and genuinely answerable. She's given space to voice a small frustration or desire that might otherwise go unspoken simply because it seems too minor to bring up unprompted.",
+  "sectionTitle": "SMS - The Curiosity Question",
+  "predictable": "Small daily frustrations or wishes tend to go unspoken, deemed too minor to bring up directly",
+  "themes": [
+   "Connection",
+   "Care",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "If you could tweak one small thing about a typical day, nothing huge, what would you actually change?",
+   "Small question: one tiny thing about your usual day you'd change if you could. What is it?"
+  ]
+ },
+ {
+  "actionTitle": "The what-makes-you-feel-most-you question",
+  "text": "What's something that makes you feel most like yourself? Genuinely curious, no particular reason for asking.",
+  "effect": "Asking about a source of authentic self-expression invites reflection on identity beyond roles and responsibilities she typically occupies. She's given space to articulate something core to her sense of self, a question rarely posed directly in ordinary conversation.",
+  "sectionTitle": "SMS - The Curiosity Question",
+  "predictable": "Questions about her core sense of identity rarely come up outside of significant, planned conversations",
+  "themes": [
+   "Connection",
+   "Vulnerability",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "What's something that makes you feel most like yourself? Just genuinely curious about your answer.",
+   "Random question: what actually makes you feel most like you, at your core? No particular reason asking."
+  ]
+ },
+ {
+  "actionTitle": "The proud-of-yourself question",
+  "text": "What's something you're proud of that you haven't really told anyone about? No pressure to answer, just curious if something comes to mind.",
+  "effect": "Inviting disclosure of an unshared accomplishment offers space for pride that hasn't yet had an audience or acknowledgment. She's given permission to voice something she may have quietly accomplished without ever mentioning it, out of modesty or simply not having the occasion.",
+  "sectionTitle": "SMS - The Curiosity Question",
+  "predictable": "Personal accomplishments that haven't been shared with anyone tend to stay entirely private",
+  "themes": [
+   "Confidence",
+   "Vulnerability",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Is there something you're proud of that you haven't actually told anyone about yet? Curious if anything comes to mind.",
+   "What's an accomplishment you're quietly proud of but haven't really mentioned to anyone? No pressure to share."
+  ]
+ },
+ {
+  "actionTitle": "The what-do-you-need-more-of question",
+  "text": "What's something you feel like you need more of lately, time, rest, fun, anything? Actually want to know.",
+  "effect": "Directly asking what she feels is lacking invites honest reflection on unmet needs rather than requiring her to bring it up unprompted. She's given a direct opening to name something missing, which can be easier to answer when explicitly asked rather than volunteered spontaneously.",
+  "sectionTitle": "SMS - The Curiosity Question",
+  "predictable": "Unmet needs tend to go unspoken unless she raises them herself, without ever being directly asked about",
+  "themes": [
+   "Care",
+   "Vulnerability",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "What do you feel like you need more of these days, rest, fun, time, anything? Genuinely want to know.",
+   "Honest question: what's something you feel like you're short on lately? Actually curious to hear."
+  ]
  }
 ]
