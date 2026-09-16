@@ -4585,5 +4585,905 @@
    "Trois vérités, un mensonge sur ta journée. Envoie-moi ça, je devine ce soir lequel est faux.",
    "Jeu du soir : raconte-moi ta journée avec un détail inventé caché dedans. Je dois le repérer."
   ]
+ },
+ {
+  "actionTitle": "Le souvenir de la prise",
+  "text": "Je repense encore à ce matin où tes mains se sont refermées sur moi, mâchoire serrée, comme si tu avais quelque chose à prouver avant même le café.",
+  "effect": "Réactiver un souvenir sensoriel précis en pleine journée prolonge l'effet du moment initial bien après qu'il soit passé. Elle ressent que ce souvenir continue de t'habiter, ce qui valorise l'intensité de ce qu'elle a provoqué.",
+  "sectionTitle": "SMS - Réveil brûlant",
+  "predictable": "Les souvenirs intimes du matin restent tus, jamais réévoqués dans la journée",
+  "themes": [
+   "Primal",
+   "Erotic",
+   "Nostalgia"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Je n'ai toujours pas oublié la fermeté de ta prise ce matin-là. Ça me distrait encore.",
+   "Ta mâchoire serrée ce matin-là tourne encore dans ma tête, à un moment franchement inapproprié."
+  ]
+ },
+ {
+  "actionTitle": "Le message d'avant l'aube",
+  "text": "Demain matin, prépare-toi à ce que mes mains ne te laissent pas beaucoup de répit avant le café.",
+  "effect": "Annoncer à l'avance une intensité matinale installe une anticipation qui traverse la soirée et la nuit qui précèdent. Il imagine précisément ce qui l'attend, ce qui intensifie l'attente jusqu'au réveil annoncé.",
+  "sectionTitle": "SMS - Réveil brûlant",
+  "predictable": "Les matins s'enchaînent sans aucune annonce préalable de leur intensité",
+  "themes": [
+   "Primal",
+   "Anticipation",
+   "Desire"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Demain matin, mes mains ont déjà un programme bien précis en tête. Prépare-toi.",
+   "Prévois d'être réveillé autrement que par l'alarme demain matin. Beaucoup plus fermement."
+  ]
+ },
+ {
+  "actionTitle": "L'aveu de la mâchoire serrée",
+  "text": "Tu as remarqué à quel point je serre les dents quand je te tiens comme ça le matin ? C'est parce que je pense fort à ce que j'ai envie de faire ensuite.",
+  "effect": "Expliciter la signification d'un geste physique intense révèle l'intention et le désir précis qui l'accompagnent, au-delà du simple réflexe. Il comprend que cette crispation traduit une pensée active et déterminée, pas un simple automatisme.",
+  "sectionTitle": "SMS - Réveil brûlant",
+  "predictable": "Les expressions physiques intenses restent inexpliquées, jamais commentées après coup",
+  "themes": [
+   "Primal",
+   "Erotic",
+   "Confidence"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Ma mâchoire serrée ce matin, ce n'était pas de la concentration. C'était de l'envie pure, à peine contenue.",
+   "Tu ne sauras jamais à quel point je me retiens quand mes mains font ça le matin."
+  ]
+ },
+ {
+  "actionTitle": "La métaphore envoyée à distance",
+  "text": "Il y a des matins où mes mains se referment sur toi comme on referme le poing sur quelque chose qu'on refuse de perdre. Aujourd'hui en fait partie.",
+  "effect": "Utiliser une métaphore poétique pour décrire un geste physique intense élève le message au-dessus du simple constat, en le chargeant de sens affectif. Il perçoit une possessivité tendre plutôt que brutale, ce qui nuance et enrichit l'intensité du souvenir évoqué.",
+  "sectionTitle": "SMS - Réveil brûlant",
+  "predictable": "Les gestes intenses du matin restent décrits de façon factuelle, sans image ni métaphore",
+  "themes": [
+   "Poetic",
+   "Primal",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Certains matins, mes mains refusent tout simplement de te laisser filer. Celui-là en fera partie.",
+   "Il y a une certitude dans mes doigts certains matins, une envie qui ne se discute pas."
+  ]
+ },
+ {
+  "actionTitle": "Le réveil promis pour ce soir",
+  "text": "Ce que mes mains ont fait ce matin n'était qu'un début. La suite attend ce soir, avec la même détermination.",
+  "effect": "Annoncer que l'intensité du matin se prolonge symboliquement jusqu'au soir maintient une tension continue tout au long de la journée. Il anticipe une suite avec la même énergie que celle déjà vécue, ce qui prolonge le désir sur toute la journée.",
+  "sectionTitle": "SMS - Réveil brûlant",
+  "predictable": "Les moments intenses du matin restent isolés, sans suite annoncée pour la soirée",
+  "themes": [
+   "Primal",
+   "Anticipation",
+   "Desire"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Ce matin n'était qu'un avant-goût. Ce soir, je compte continuer avec la même intensité.",
+   "La détermination de ce matin n'a pas disparu, elle attend simplement ce soir pour continuer."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur sa poigne",
+  "text": "Ta poigne ce matin avait quelque chose de terriblement convaincant. Je ne suis toujours pas remis.",
+  "effect": "Complimenter directement la fermeté de son geste valorise son assurance et son initiative plutôt que de la commenter timidement. Il ressent une reconnaissance explicite de l'effet puissant qu'elle a produit.",
+  "sectionTitle": "SMS - La poigne évoquée",
+  "predictable": "Les initiatives physiques du matin restent rarement commentées ou complimentées après coup",
+  "themes": [
+   "Primal",
+   "Compliment",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Ta prise de ce matin était redoutablement efficace. Je pense encore à sa fermeté.",
+   "Je ne savais pas que ta poigne pouvait être aussi convaincante avant même le petit-déjeuner."
+  ]
+ },
+ {
+  "actionTitle": "La mâchoire qui trahit tout",
+  "text": "J'ai remarqué comment tes dents se serrent légèrement quand tu es concentrée sur moi le matin. C'est l'un des détails les plus excitants que je connaisse de toi.",
+  "effect": "Remarquer et nommer un détail physique précis, associé à un moment intime, prouve une observation attentive et sincère. Elle se sent vue dans un détail qu'elle ne pensait pas particulièrement remarquable, ce qui valorise son intensité naturelle.",
+  "sectionTitle": "SMS - La poigne évoquée",
+  "predictable": "Les micro-expressions du visage pendant l'intimité restent rarement commentées",
+  "themes": [
+   "Primal",
+   "Compliment",
+   "Sensory"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Ta mâchoire serrée quand tu es concentrée sur moi le matin, c'est un de mes détails préférés.",
+   "Ce petit pli sur ton visage quand tes mains agissent le matin, je pourrais le regarder pendant des heures."
+  ]
+ },
+ {
+  "actionTitle": "Le pouvoir de ses mains",
+  "text": "Tes mains ont un pouvoir sur moi le matin que je ne saurais expliquer autrement que par leur simple fermeté.",
+  "effect": "Attribuer un pouvoir explicite à ses mains valorise sa force et sa capacité d'action, plutôt que de rester dans une description vague. Elle ressent une reconnaissance directe de son influence physique sur toi, sans détour.",
+  "sectionTitle": "SMS - La poigne évoquée",
+  "predictable": "L'effet de ses mains reste généralement ressenti en silence, sans être nommé explicitement",
+  "themes": [
+   "Primal",
+   "Confidence",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Il y a un pouvoir dans tes mains le matin que je ne sais décrire autrement que par leur fermeté.",
+   "Tes mains ont une autorité tranquille le matin qui me laisse chaque fois sans grand-chose à répondre."
+  ]
+ },
+ {
+  "actionTitle": "Le souvenir qui distrait",
+  "text": "Je suis censé travailler, mais le souvenir de ta prise de ce matin refuse obstinément de me laisser tranquille.",
+  "effect": "Avouer une distraction professionnelle causée par un souvenir intime prouve l'intensité durable de l'effet produit, bien au-delà du moment lui-même. Elle ressent une fierté amusée de continuer à occuper ton esprit plusieurs heures après.",
+  "sectionTitle": "SMS - La poigne évoquée",
+  "predictable": "Les souvenirs intimes restent cantonnés au moment vécu, sans distraire le reste de la journée",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Playful"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Impossible de me concentrer, le souvenir de ce matin occupe toute la place dans ma tête.",
+   "Ta prise de ce matin continue de me distraire bien plus que ce dossier que je suis censé lire."
+  ]
+ },
+ {
+  "actionTitle": "La demande pour demain",
+  "text": "Demain matin, refais exactement pareil. Cette fermeté, cette concentration, cette mâchoire serrée. J'en redemande déjà.",
+  "effect": "Exprimer une demande explicite pour reproduire un moment apprécié valide directement son geste et exprime un désir clair pour la suite. Elle ressent une confirmation directe que son initiative a été particulièrement appréciée, ce qui encourage sa confiance.",
+  "sectionTitle": "SMS - La poigne évoquée",
+  "predictable": "Les préférences intimes restent rarement formulées comme des demandes explicites pour la suite",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Confidence"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Refais pareil demain matin, avec la même fermeté. J'en redemande, sincèrement.",
+   "Demain, même chose, même intensité. Je ne me lasse pas de cette version de toi le matin."
+  ]
+ },
+ {
+  "actionTitle": "Le réveil qui commence tôt",
+  "text": "Techniquement je suis encore au lit, mais mentalement je suis déjà en train de penser à comment ce matin va se dérouler.",
+  "effect": "Anticiper mentalement un moment intime avant même qu'il ne commence physiquement prolonge la tension et l'excitation dès les premières secondes de la journée. Il perçoit une impatience sincère qui précède le réveil réel.",
+  "sectionTitle": "SMS - Le désir du matin",
+  "predictable": "Le réveil se limite à son aspect physique, sans anticipation mentale particulière",
+  "themes": [
+   "Desire",
+   "Anticipation",
+   "Primal"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Encore au lit, déjà en train d'imaginer comment cette matinée va commencer.",
+   "Mon esprit a démarré la journée bien avant mon corps, et il pense beaucoup à toi."
+  ]
+ },
+ {
+  "actionTitle": "La faim matinale avouée",
+  "text": "Ma faim de toi ce matin dépasse largement celle du petit-déjeuner, je préfère te prévenir tout de suite.",
+  "effect": "Prévenir explicitement d'un désir plus fort que les priorités habituelles du matin installe une attente claire dès le réveil. Il comprend immédiatement l'intensité de l'envie, sans avoir à la deviner.",
+  "sectionTitle": "SMS - Le désir du matin",
+  "predictable": "La faim du matin se limite généralement au sens littéral, sans double sens exprimé",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Playful"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Prévenu : ma faim de toi ce matin dépasse de loin celle du petit-déjeuner.",
+   "Le petit-déjeuner attendra un peu ce matin, ma priorité est ailleurs."
+  ]
+ },
+ {
+  "actionTitle": "Le réveil sans détour",
+  "text": "Je te veux, là, maintenant, avant même d'avoir ouvert complètement les yeux. Voilà, c'était le message du matin.",
+  "effect": "Cette déclaration directe, envoyée dès le réveil, établit une priorité claire sans détour ni hésitation. Il ressent une franchise immédiate qui donne le ton du reste de la matinée.",
+  "sectionTitle": "SMS - Le désir du matin",
+  "predictable": "Les envies du matin restent généralement suggérées plutôt qu'affirmées directement par message",
+  "themes": [
+   "Desire",
+   "Confidence",
+   "Primal"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Message du matin, sans détour : je te veux, là, maintenant, point final.",
+   "À peine réveillé et déjà une seule pensée claire en tête : toi."
+  ]
+ },
+ {
+  "actionTitle": "L'urgence du réveil",
+  "text": "Il y a une urgence particulière dans mon envie de toi ce matin, difficile à ignorer ou à remettre à plus tard.",
+  "effect": "Qualifier le désir matinal d'urgent plutôt que de simple envie légère intensifie la perception de son importance immédiate. Il ressent une priorité claire donnée à ce moment, au-dessus des autres obligations de la journée.",
+  "sectionTitle": "SMS - Le désir du matin",
+  "predictable": "Les envies matinales restent généralement classées après les priorités logistiques du jour",
+  "themes": [
+   "Desire",
+   "Primal",
+   "Anticipation"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Mon envie de toi ce matin a un caractère d'urgence que je ne saurais ignorer bien longtemps.",
+   "Il y a quelque chose de pressant dans mon envie de toi, là, maintenant, dès le réveil."
+  ]
+ },
+ {
+  "actionTitle": "Le compte rendu sensoriel du matin",
+  "text": "Je me souviens exactement de la texture de ta peau contre la mienne ce matin. Ça me distrait plus que je ne voudrais l'admettre.",
+  "effect": "Ce rappel sensoriel très précis prouve que l'attention portée est corporelle et immédiate, pas seulement abstraite. Il ressent la preuve concrète que son impact physique dépasse largement le moment où il s'est produit.",
+  "sectionTitle": "SMS - Le désir du matin",
+  "predictable": "Aucune référence sensorielle précise n'est faite au souvenir du matin",
+  "themes": [
+   "Sensory",
+   "Desire",
+   "Nostalgia"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "La texture de ta peau ce matin tourne encore dans ma tête, c'est franchement distrayant.",
+   "Je n'ai pas réussi à me concentrer depuis que je me suis souvenu du contact de ce matin."
+  ]
+ },
+ {
+  "actionTitle": "L'instinct avant la raison",
+  "text": "Ce matin, mon corps a répondu avant que mon esprit n'ait le temps de réfléchir à quoi que ce soit. Ça en dit long, je crois.",
+  "effect": "Décrire une réaction instinctive et incontrôlée prouve la sincérité d'un désir qui échappe à la réflexion consciente. Elle perçoit une attirance authentique, non calculée ni mise en scène.",
+  "sectionTitle": "SMS - L'instinct qui parle",
+  "predictable": "Les réactions matinales passent toujours par un temps de réflexion avant de s'exprimer",
+  "themes": [
+   "Primal",
+   "Vulnerability",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Mon corps a réagi avant même que je comprenne ce qui se passait ce matin. Révélateur, non ?",
+   "L'instinct a parlé avant la raison ce matin, et je ne regrette absolument rien."
+  ]
+ },
+ {
+  "actionTitle": "Le réveil qui ne ment pas",
+  "text": "Le corps ne ment jamais le matin, contrairement à l'esprit encore embrumé. Et le mien avait un avis très clair sur toi aujourd'hui.",
+  "effect": "Souligner l'honnêteté involontaire du corps, contrairement à l'esprit encore endormi, renforce la sincérité de l'attirance décrite. Elle perçoit une preuve incontestable de désir, non filtrée par la raison ou la pudeur du réveil.",
+  "sectionTitle": "SMS - L'instinct qui parle",
+  "predictable": "Les premières réactions du matin restent généralement masquées par la fatigue ou la pudeur",
+  "themes": [
+   "Primal",
+   "Vulnerability",
+   "Confidence"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Le corps ne triche jamais au réveil, et le mien avait un message très clair pour toi ce matin.",
+   "Mon esprit était encore à moitié endormi, mais mon corps, lui, savait exactement ce qu'il voulait."
+  ]
+ },
+ {
+  "actionTitle": "La preuve involontaire",
+  "text": "Je n'ai rien pu cacher de l'effet que tu m'as fait ce matin, mon corps s'est chargé de tout révéler à ma place.",
+  "effect": "Admettre une incapacité à dissimuler une réaction physique renforce la sincérité et la spontanéité du désir ressenti. Elle ressent une preuve tangible et incontestable de son effet sur toi, sans besoin de mots supplémentaires.",
+  "sectionTitle": "SMS - L'instinct qui parle",
+  "predictable": "Les réactions physiques restent généralement maîtrisées et dissimulées au réveil",
+  "themes": [
+   "Primal",
+   "Vulnerability",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Impossible de cacher l'effet que tu produis le matin, mon corps s'en charge très bien tout seul.",
+   "Aucune dissimulation possible ce matin, la preuve était bien trop évidente."
+  ]
+ },
+ {
+  "actionTitle": "Le réflexe qui rapproche",
+  "text": "Mon corps s'est rapproché du tien ce matin avant même que je ne le décide consciemment. Un vrai réflexe, je crois.",
+  "effect": "Décrire un rapprochement physique comme un réflexe plutôt qu'une décision consciente souligne la naturalité et la sincérité de l'attraction. Elle ressent une attirance instinctive, presque incontrôlable, qui dépasse la simple volonté.",
+  "sectionTitle": "SMS - L'instinct qui parle",
+  "predictable": "Les rapprochements du matin résultent toujours d'une décision consciente, jamais d'un réflexe",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Je me suis rapproché de toi ce matin avant même d'y avoir pensé consciemment. Pur réflexe.",
+   "Mon corps a agi avant moi ce matin, en se rapprochant du tien sans réfléchir."
+  ]
+ },
+ {
+  "actionTitle": "Le langage du corps qui suffit",
+  "text": "Ce matin, je n'ai eu besoin d'aucun mot pour te faire comprendre ce que je ressentais. Le corps a suffi, entièrement.",
+  "effect": "Souligner que le langage corporel a suffi sans le secours des mots valorise l'intensité et la clarté d'une communication purement physique. Elle ressent que l'échange était limpide, sans ambiguïté possible, même en silence.",
+  "sectionTitle": "SMS - L'instinct qui parle",
+  "predictable": "La communication du désir passe toujours par des mots, jamais uniquement par le corps",
+  "themes": [
+   "Primal",
+   "Sensory",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Aucun mot n'était nécessaire ce matin, le corps a très bien fait passer le message tout seul.",
+   "Le silence de ce matin en disait plus long que n'importe quelle phrase que j'aurais pu formuler."
+  ]
+ },
+ {
+  "actionTitle": "La faim qui ne s'explique pas",
+  "text": "Je ne sais pas comment t'expliquer autrement : j'ai faim de toi ce matin, d'une façon que le petit-déjeuner ne comblera jamais.",
+  "effect": "Utiliser la métaphore de la faim, difficile à rationaliser, donne une intensité primale et sincère au désir exprimé. Elle ressent une urgence authentique, comparable à un besoin vital plutôt qu'une simple envie passagère.",
+  "sectionTitle": "SMS - La faim avouée",
+  "predictable": "La faim du matin se limite strictement à son sens littéral, sans double sens exprimé",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Poetic"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Impossible à expliquer autrement : j'ai une faim de toi que rien d'autre ne pourra combler ce matin.",
+   "Cette faim-là, aucun petit-déjeuner ne saura jamais la satisfaire, seulement toi."
+  ]
+ },
+ {
+  "actionTitle": "L'appétit qui prend le dessus",
+  "text": "Mon appétit pour toi a pris le dessus sur tout le reste ce matin, y compris sur ma raison.",
+  "effect": "Décrire le désir comme un appétit qui domine la raison souligne son intensité incontrôlable, presque animale. Elle ressent une attirance qui dépasse la simple envie, jusqu'à influencer directement ton comportement rationnel.",
+  "sectionTitle": "SMS - La faim avouée",
+  "predictable": "Les priorités du matin restent généralement dictées par la raison, jamais par l'appétit",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Confidence"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Mon appétit pour toi a pris le pas sur toute logique ce matin, sans exception.",
+   "La raison n'avait clairement pas voix au chapitre ce matin, seul l'appétit décidait."
+  ]
+ },
+ {
+  "actionTitle": "La faim qui revient sans prévenir",
+  "text": "Je pensais cette faim de toi calmée depuis ce matin, mais elle revient déjà, sans prévenir, en plein milieu de la journée.",
+  "effect": "Décrire le retour inattendu d'un désir supposé apaisé prouve son intensité durable, indépendante du moment initial. Elle ressent que son effet persiste bien au-delà du réveil, réapparaissant sans avertissement.",
+  "sectionTitle": "SMS - La faim avouée",
+  "predictable": "Les envies du matin restent généralement circonscrites au moment où elles se produisent",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Anticipation"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Cette faim de toi revient sans prévenir, alors qu'elle semblait calmée depuis ce matin.",
+   "Je croyais en avoir fini avec cette envie depuis ce matin, mais elle revient déjà, intacte."
+  ]
+ },
+ {
+  "actionTitle": "Le repas qui n'a rien à voir",
+  "text": "Je viens de déjeuner, mais honnêtement, ce n'est pas ce type de faim que j'essayais de calmer aujourd'hui.",
+  "effect": "Ce contraste entre un repas réel et une faim symbolique différente souligne avec humour la nature du désir ressenti. Elle comprend immédiatement la double signification, ce qui allie légèreté et sincérité dans le même message.",
+  "sectionTitle": "SMS - La faim avouée",
+  "predictable": "Les repas du quotidien restent dissociés de toute allusion au désir",
+  "themes": [
+   "Primal",
+   "Playful",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Le déjeuner n'a clairement pas comblé le vrai type de faim que je ressens aujourd'hui.",
+   "J'ai mangé, mais ce n'était clairement pas la faim que j'essayais réellement d'apaiser."
+  ]
+ },
+ {
+  "actionTitle": "La faim promise pour ce soir",
+  "text": "Cette faim de toi que je porte depuis ce matin, je compte bien la satisfaire pleinement ce soir.",
+  "effect": "Annoncer l'intention de satisfaire un désir ressenti depuis le matin installe une continuité et une promesse claire pour la soirée à venir. Elle anticipe un moment où cette tension accumulée trouvera enfin une résolution.",
+  "sectionTitle": "SMS - La faim avouée",
+  "predictable": "Les envies du matin restent généralement isolées, sans promesse de suite pour le soir",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Anticipation"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 4,
+  "variations": [
+   "La faim de ce matin n'a fait qu'attendre patiemment toute la journée. Ce soir, elle sera satisfaite.",
+   "Cette envie qui date de ce matin va enfin trouver une réponse ce soir, je te le promets."
+  ]
+ },
+ {
+  "actionTitle": "Le souvenir qui revient au mauvais moment",
+  "text": "En pleine réunion, ton geste de ce matin m'est revenu en tête sans prévenir. Mauvais timing, excellent souvenir.",
+  "effect": "Réactiver un souvenir intime en plein contexte professionnel souligne son intensité persistante, capable de s'imposer même dans les moments les moins appropriés. Elle ressent une fierté amusée d'occuper une telle place dans ton esprit, même à distance.",
+  "sectionTitle": "SMS - Le souvenir qui mord",
+  "predictable": "Les souvenirs intimes restent cantonnés au moment où ils se produisent, sans réapparaître ailleurs",
+  "themes": [
+   "Primal",
+   "Nostalgia",
+   "Playful"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Ton geste de ce matin s'est invité en pleine réunion, sans prévenir. Mauvais moment, bon souvenir.",
+   "Impossible de me concentrer, ce souvenir du matin refait surface au pire moment possible."
+  ]
+ },
+ {
+  "actionTitle": "Le souvenir qui persiste",
+  "text": "Ça fait des heures et je pense encore à la fermeté de ce matin. Ce n'est clairement pas près de s'estomper.",
+  "effect": "Souligner la persistance inhabituelle d'un souvenir dans le temps prouve son impact particulièrement fort, au-delà d'un simple moment agréable. Elle perçoit un effet durable, presque obsédant, qui valorise l'intensité de ce qu'elle a provoqué.",
+  "sectionTitle": "SMS - Le souvenir qui mord",
+  "predictable": "Les souvenirs du matin s'estompent rapidement, remplacés par les préoccupations du jour",
+  "themes": [
+   "Primal",
+   "Nostalgia",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Des heures ont passé et ce souvenir du matin refuse toujours de s'estomper.",
+   "Ce souvenir a une endurance particulière aujourd'hui, il ne veut clairement pas me lâcher."
+  ]
+ },
+ {
+  "actionTitle": "Le souvenir raconté au futur",
+  "text": "Un jour, je raconterai ce matin-là comme celui où tu as pris totalement les choses en main, littéralement.",
+  "effect": "Projeter un souvenir intime dans une future narration lui donne une valeur durable, digne d'être racontée plus tard. Elle ressent que ce moment n'est pas seulement vécu, mais déjà considéré comme mémorable dans votre histoire commune.",
+  "sectionTitle": "SMS - Le souvenir qui mord",
+  "predictable": "Les moments intimes restent vécus sans être envisagés comme de futurs souvenirs à raconter",
+  "themes": [
+   "Primal",
+   "Nostalgia",
+   "Playful"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Ce matin-là mérite déjà une place dans nos futures anecdotes préférées.",
+   "Un jour, je raconterai ce matin comme un classique de notre histoire, sans exagération."
+  ]
+ },
+ {
+  "actionTitle": "Le souvenir qui fait sourire seul",
+  "text": "Je viens de sourire tout seul dans la rue en repensant à ce matin. Les gens ont dû se demander pourquoi.",
+  "effect": "Décrire une réaction physique visible (le sourire) causée par un souvenir intime prouve son effet réel et immédiat, même en public. Elle perçoit que son geste continue à produire un effet tangible, visible aux yeux des autres sans qu'ils en connaissent la cause.",
+  "sectionTitle": "SMS - Le souvenir qui mord",
+  "predictable": "Les souvenirs intimes restent invisibles, sans effet perceptible en public",
+  "themes": [
+   "Primal",
+   "Nostalgia",
+   "Playful"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Sourire tout seul dans la rue à cause d'un souvenir de ce matin. Les gens ont dû me trouver bizarre.",
+   "Ce souvenir m'a fait sourire bêtement en pleine rue, sans que personne ne comprenne pourquoi."
+  ]
+ },
+ {
+  "actionTitle": "Le souvenir qu'on veut répéter",
+  "text": "Ce matin-là mérite clairement une suite. Une deuxième, une troisième, autant de fois que possible.",
+  "effect": "Exprimer explicitement le souhait de répéter un moment apprécié valide directement l'initiative prise et exprime un désir clair pour l'avenir. Elle ressent une confirmation forte que son geste a été particulièrement apprécié, ce qui encourage sa confiance à l'avenir.",
+  "sectionTitle": "SMS - Le souvenir qui mord",
+  "predictable": "Les moments intimes appréciés restent rarement suivis d'une demande explicite de répétition",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Confidence"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Ce matin mérite clairement une suite, et une autre, et encore une autre.",
+   "J'en redemande, sincèrement. Ce matin-là devrait devenir une habitude régulière."
+  ]
+ },
+ {
+  "actionTitle": "Le compliment sur son culot",
+  "text": "Ton culot de ce matin m'a laissé sans voix pendant un bon moment. J'adore cette version de toi.",
+  "effect": "Complimenter directement l'audace plutôt que le résultat valorise sa confiance et son initiative personnelle. Elle ressent une reconnaissance explicite de sa capacité à oser, ce qui encourage cette spontanéité à l'avenir.",
+  "sectionTitle": "SMS - L'audace assumée",
+  "predictable": "L'audace matinale reste rarement complimentée explicitement par message après coup",
+  "themes": [
+   "Confidence",
+   "Compliment",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Ton audace de ce matin m'a laissé sans voix. Cette version de toi me plaît énormément.",
+   "Je n'ai toujours pas digéré ton culot de ce matin. Dans le bon sens du terme, évidemment."
+  ]
+ },
+ {
+  "actionTitle": "La surprise assumée",
+  "text": "Je ne m'attendais clairement pas à ça ce matin, mais je ne suis pas près de m'en plaindre.",
+  "effect": "Reconnaître explicitement la surprise causée par une initiative inattendue valorise son caractère spontané et audacieux. Elle perçoit que son geste a réellement dépassé tes attentes, ce qui renforce le sentiment d'avoir été réellement surprenante.",
+  "sectionTitle": "SMS - L'audace assumée",
+  "predictable": "Les initiatives du matin restent généralement prévisibles, sans effet de surprise particulier",
+  "themes": [
+   "Confidence",
+   "Desire",
+   "Playful"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Ce matin m'a clairement pris de court, mais dans le meilleur sens possible.",
+   "Aucune plainte de ma part face à cette surprise de ce matin, bien au contraire."
+  ]
+ },
+ {
+  "actionTitle": "L'audace qui inspire confiance",
+  "text": "Ton audace de ce matin m'a rappelé à quel point tu sais exactement ce que tu veux quand tu le décides.",
+  "effect": "Associer l'audace à une forme de clarté personnelle valorise sa détermination plutôt que de la réduire à un simple élan physique. Elle ressent une reconnaissance de sa force de caractère, pas seulement de son geste ponctuel.",
+  "sectionTitle": "SMS - L'audace assumée",
+  "predictable": "La détermination personnelle reste rarement associée aux initiatives intimes du matin",
+  "themes": [
+   "Confidence",
+   "Desire",
+   "Compliment"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Ton audace de ce matin prouve encore une fois à quel point tu sais ce que tu veux.",
+   "J'admire cette clarté que tu as quand tu décides d'agir sans hésiter, comme ce matin."
+  ]
+ },
+ {
+  "actionTitle": "Le défi relevé haut la main",
+  "text": "Le défi de ce matin, tu l'as relevé haut la main, sans la moindre hésitation. Bravo, sincèrement.",
+  "effect": "Féliciter explicitement une initiative comme si elle relevait d'un défi réussi valorise sa réussite personnelle plutôt que le simple plaisir procuré. Elle ressent une fierté particulière, comme récompensée pour son audace assumée.",
+  "sectionTitle": "SMS - L'audace assumée",
+  "predictable": "Les initiatives intimes ne sont jamais présentées comme des défis à relever",
+  "themes": [
+   "Confidence",
+   "Playful",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Défi relevé haut la main ce matin, sans la moindre once d'hésitation. Chapeau, vraiment.",
+   "Tu as clairement gagné ce petit défi de ce matin, haut la main."
+  ]
+ },
+ {
+  "actionTitle": "L'audace qui devient habitude",
+  "text": "J'espère sincèrement que l'audace de ce matin devienne une habitude régulière chez nous deux.",
+  "effect": "Exprimer le souhait qu'une audace ponctuelle devienne une habitude régulière valorise durablement cette initiative, au-delà d'un simple compliment isolé. Elle perçoit une invitation claire à répéter ce comportement, ce qui encourage sa confiance sur le long terme.",
+  "sectionTitle": "SMS - L'audace assumée",
+  "predictable": "Les initiatives audacieuses restent généralement ponctuelles, sans devenir une habitude régulière",
+  "themes": [
+   "Confidence",
+   "Desire",
+   "Playful"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "J'espère vraiment que ce genre d'audace matinale devienne une habitude entre nous.",
+   "Si l'audace de ce matin pouvait devenir régulière, je ne dirais absolument pas non."
+  ]
+ },
+ {
+  "actionTitle": "La tension qui précède",
+  "text": "Il y avait une tension particulière dans l'air ce matin, bien avant que quoi que ce soit ne se passe réellement.",
+  "effect": "Décrire une tension perceptible avant même l'action elle-même valorise l'intensité de l'anticipation autant que le moment lui-même. Elle ressent que l'atmosphère créée compte autant que le geste final, ce qui enrichit l'ensemble de l'expérience.",
+  "sectionTitle": "SMS - La tension du réveil",
+  "predictable": "L'atmosphère du matin reste neutre, sans tension particulière ressentie avant l'action",
+  "themes": [
+   "Anticipation",
+   "Primal",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Une tension particulière planait ce matin, bien avant que quoi que ce soit ne commence vraiment.",
+   "L'air était chargé d'une tension différente ce matin, palpable dès les premières secondes."
+  ]
+ },
+ {
+  "actionTitle": "La tension qui monte encore",
+  "text": "Cette tension du matin n'est toujours pas retombée, plusieurs heures après. Curieux, non ?",
+  "effect": "Souligner la persistance inhabituelle d'une tension bien après le moment initial prouve son intensité particulièrement forte. Elle perçoit un effet durable qui dépasse largement le cadre du simple moment vécu.",
+  "sectionTitle": "SMS - La tension du réveil",
+  "predictable": "La tension du matin retombe généralement rapidement, remplacée par les préoccupations du jour",
+  "themes": [
+   "Anticipation",
+   "Primal",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Cette tension matinale refuse obstinément de retomber, même plusieurs heures après.",
+   "Toujours sous tension depuis ce matin, ce qui est plutôt inhabituel merci de le noter."
+  ]
+ },
+ {
+  "actionTitle": "La tension qui se prépare pour ce soir",
+  "text": "La tension accumulée depuis ce matin trouvera probablement une résolution ce soir, avec la même intensité.",
+  "effect": "Annoncer que la tension matinale trouvera une suite le soir maintient une continuité et une anticipation sur toute la journée. Elle perçoit que le moment vécu n'est pas isolé, mais fait partie d'un fil continu qui se prolonge jusqu'au soir.",
+  "sectionTitle": "SMS - La tension du réveil",
+  "predictable": "La tension du matin reste isolée, sans lien annoncé avec la soirée à venir",
+  "themes": [
+   "Anticipation",
+   "Primal",
+   "Desire"
+  ],
+  "dramaIntensity": 3,
+  "sexualIntensity": 5,
+  "variations": [
+   "Cette tension du matin trouvera sa résolution ce soir, avec probablement la même intensité.",
+   "Rien n'est terminé, juste mis en pause. La suite arrive ce soir, promis."
+  ]
+ },
+ {
+  "actionTitle": "La tension qui distrait",
+  "text": "Impossible de me concentrer sur quoi que ce soit d'autre, cette tension du matin occupe toute la place aujourd'hui.",
+  "effect": "Avouer une distraction causée par une tension persistante prouve son intensité durable, capable de perturber même les activités les plus sérieuses. Elle ressent une fierté amusée de continuer à occuper autant d'espace dans ton esprit.",
+  "sectionTitle": "SMS - La tension du réveil",
+  "predictable": "Les tensions du matin restent cantonnées au moment où elles surviennent, sans distraire le reste de la journée",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Playful"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Cette tension du matin refuse de me laisser me concentrer sur quoi que ce soit d'autre aujourd'hui.",
+   "Impossible de penser à autre chose, cette tension occupe tout mon esprit depuis ce matin."
+  ]
+ },
+ {
+  "actionTitle": "La tension avouée sans détour",
+  "text": "Je suis encore sous tension depuis ce matin, et honnêtement, je n'ai aucune envie que ça change.",
+  "effect": "Assumer sans détour une tension persistante, sans chercher à la minimiser, valorise l'intensité sincère de l'expérience vécue. Elle perçoit une acceptation totale et sans gêne de cet état, ce qui valide directement l'effet de son initiative.",
+  "sectionTitle": "SMS - La tension du réveil",
+  "predictable": "Les tensions ressenties restent généralement minimisées ou tues, jamais avouées directement",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Encore sous tension depuis ce matin, et je n'ai clairement aucune envie que ça s'arrête.",
+   "Cette tension ne me quitte pas depuis ce matin, et honnêtement, tant mieux."
+  ]
+ },
+ {
+  "actionTitle": "Le corps qui n'a pas oublié",
+  "text": "Mon corps semble avoir gardé la mémoire précise de ce matin, bien plus longtemps que mon esprit ne l'aurait imaginé.",
+  "effect": "Attribuer une mémoire propre au corps, distincte de celle de l'esprit, souligne l'intensité physique et durable de l'expérience vécue. Elle perçoit un effet profondément ancré, presque physiologique, qui dépasse le simple souvenir mental.",
+  "sectionTitle": "SMS - Le corps qui réclame",
+  "predictable": "Le corps oublie rapidement les sensations du matin, sans mémoire particulière conservée",
+  "themes": [
+   "Primal",
+   "Sensory",
+   "Nostalgia"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Mon corps garde encore la mémoire précise de ce matin, bien plus que je ne l'aurais cru.",
+   "Une mémoire physique étonnamment tenace depuis ce matin, difficile à ignorer."
+  ]
+ },
+ {
+  "actionTitle": "Le corps qui réclame une suite",
+  "text": "Mon corps réclame déjà une suite à ce matin, sans grand égard pour ce que dicterait la raison.",
+  "effect": "Décrire une réclamation physique persistante, indépendante de la raison, souligne l'intensité incontrôlable du désir ressenti. Elle perçoit une attirance qui dépasse la simple volonté rationnelle, presque instinctive dans sa persistance.",
+  "sectionTitle": "SMS - Le corps qui réclame",
+  "predictable": "Les envies physiques du matin restent généralement tempérées par la raison et les priorités du jour",
+  "themes": [
+   "Primal",
+   "Desire",
+   "Confidence"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Mon corps réclame déjà une suite, sans grand respect pour ce que la raison en penserait.",
+   "Aucune logique de mon côté aujourd'hui, seulement un corps qui réclame encore et encore."
+  ]
+ },
+ {
+  "actionTitle": "Le corps qui trahit ses pensées",
+  "text": "Mon corps a trahi exactement ce à quoi je pensais ce matin, sans que je puisse rien y faire.",
+  "effect": "Admettre une incapacité à dissimuler une réaction physique renforce la sincérité et la spontanéité du désir ressenti. Elle ressent une preuve tangible et incontestable de son effet sur toi, sans besoin de mots supplémentaires.",
+  "sectionTitle": "SMS - Le corps qui réclame",
+  "predictable": "Les pensées du matin restent généralement invisibles, sans se refléter physiquement",
+  "themes": [
+   "Primal",
+   "Vulnerability",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Impossible de cacher ce à quoi je pensais ce matin, mon corps s'en est chargé sans mon accord.",
+   "Aucune dissimulation possible ce matin, mes pensées étaient bien trop visibles physiquement."
+  ]
+ },
+ {
+  "actionTitle": "Le corps qui a sa propre opinion",
+  "text": "Sur ce sujet précis, mon corps a une opinion très claire et très insistante depuis ce matin.",
+  "effect": "Personnifier le désir physique comme une opinion propre, distincte de la volonté consciente, apporte une touche d'humour tout en soulignant son intensité. Elle perçoit une attirance sincère et presque incontrôlable, exprimée avec légèreté.",
+  "sectionTitle": "SMS - Le corps qui réclame",
+  "predictable": "Les envies physiques restent rarement décrites comme une opinion distincte de la volonté consciente",
+  "themes": [
+   "Primal",
+   "Playful",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Mon corps a une opinion très arrêtée sur ce sujet depuis ce matin, difficile à ignorer.",
+   "Sur ce point précis, mon corps ne me laisse clairement aucune marge de négociation."
+  ]
+ },
+ {
+  "actionTitle": "Le corps qui compte les heures",
+  "text": "Mon corps compte les heures qui nous séparent de ce soir, bien plus précisément que je ne l'aurais imaginé.",
+  "effect": "Décrire une anticipation physique précise, presque mesurable, souligne l'intensité de l'attente ressentie tout au long de la journée. Elle perçoit une impatience concrète et sincère, pas simplement une idée abstraite du désir.",
+  "sectionTitle": "SMS - Le corps qui réclame",
+  "predictable": "L'attente avant de se retrouver reste généralement abstraite, sans décompte précis exprimé",
+  "themes": [
+   "Primal",
+   "Anticipation",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Mon corps semble compter les heures qui nous séparent de ce soir avec une précision surprenante.",
+   "Chaque heure qui passe se fait sentir un peu plus depuis ce matin, très concrètement."
+  ]
+ },
+ {
+  "actionTitle": "L'abandon confié",
+  "text": "Je me suis laissé complètement aller ce matin, sans la moindre retenue. Ça ne m'arrive pas si souvent, tu sais.",
+  "effect": "Reconnaître explicitement un abandon inhabituel valorise la confiance particulière ressentie dans ce moment précis. Elle perçoit que son geste a provoqué quelque chose de rare, au-delà de l'ordinaire.",
+  "sectionTitle": "SMS - L'abandon avoué",
+  "predictable": "L'abandon complet reste rarement reconnu ou mentionné explicitement après coup",
+  "themes": [
+   "Vulnerability",
+   "Primal",
+   "Intimacy"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Je me suis laissé aller complètement ce matin, ce qui n'est clairement pas dans mes habitudes.",
+   "Un abandon total ce matin, rare de ma part, mais tu sembles y être pour beaucoup."
+  ]
+ },
+ {
+  "actionTitle": "La confiance qui se dit",
+  "text": "Te laisser mener entièrement ce matin m'a rappelé à quel point je te fais confiance, sans réserve.",
+  "effect": "Associer explicitement l'abandon physique à une confiance profonde valorise la dimension émotionnelle du moment, au-delà du simple plaisir. Elle ressent que son rôle dans ce moment dépasse le physique, touchant une reconnaissance affective plus large.",
+  "sectionTitle": "SMS - L'abandon avoué",
+  "predictable": "La confiance ressentie dans les moments intimes reste rarement formulée explicitement",
+  "themes": [
+   "Vulnerability",
+   "Intimacy",
+   "Tender"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Te laisser mener ce matin m'a rappelé la confiance totale que je te porte.",
+   "Cet abandon de ce matin en dit long sur la confiance que j'ai en toi, sincèrement."
+  ]
+ },
+ {
+  "actionTitle": "La vulnérabilité qui rapproche",
+  "text": "Me montrer aussi vulnérable que ce matin n'est pas si fréquent chez moi. Merci de l'avoir accueilli comme tu l'as fait.",
+  "effect": "Reconnaître explicitement une vulnérabilité inhabituelle et remercier pour la façon dont elle a été accueillie renforce la sécurité émotionnelle de l'échange. Elle ressent une gratitude sincère qui valorise son rôle protecteur dans ce moment précis.",
+  "sectionTitle": "SMS - L'abandon avoué",
+  "predictable": "La vulnérabilité exprimée dans les moments intimes reste rarement reconnue verbalement après coup",
+  "themes": [
+   "Vulnerability",
+   "Care",
+   "Intimacy"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Me montrer vulnérable comme ce matin n'est pas courant chez moi. Merci de l'avoir si bien accueilli.",
+   "Cette vulnérabilité de ce matin, rare chez moi, mérite un vrai merci de ma part."
+  ]
+ },
+ {
+  "actionTitle": "Le contrôle lâché sans regret",
+  "text": "Lâcher le contrôle ce matin n'a rien eu d'inconfortable, contrairement à ce que j'aurais pu croire.",
+  "effect": "Décrire l'absence d'inconfort attendu face à une perte de contrôle souligne la confiance particulière ressentie dans ce contexte précis. Elle perçoit que sa présence rend cet abandon naturel et sécurisant plutôt que source d'anxiété.",
+  "sectionTitle": "SMS - L'abandon avoué",
+  "predictable": "Le lâcher-prise reste généralement associé à un certain inconfort ou une appréhension",
+  "themes": [
+   "Vulnerability",
+   "Confidence",
+   "Intimacy"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "Contrairement à ce que j'aurais pu penser, lâcher le contrôle ce matin n'a rien eu d'inconfortable.",
+   "Aucun malaise à lâcher prise ce matin, uniquement une confiance tranquille."
+  ]
+ },
+ {
+  "actionTitle": "L'abandon qui devient envie régulière",
+  "text": "J'aimerais que ce genre d'abandon matinal devienne plus régulier entre nous, sincèrement.",
+  "effect": "Exprimer le souhait qu'un abandon ponctuel devienne une habitude régulière valorise durablement ce moment, au-delà d'un simple souvenir isolé. Elle perçoit une invitation claire à répéter cette dynamique, ce qui renforce la confiance mutuelle sur le long terme.",
+  "sectionTitle": "SMS - L'abandon avoué",
+  "predictable": "L'abandon complet reste généralement ponctuel, sans souhait exprimé de le rendre régulier",
+  "themes": [
+   "Vulnerability",
+   "Intimacy",
+   "Desire"
+  ],
+  "dramaIntensity": 2,
+  "sexualIntensity": 4,
+  "variations": [
+   "J'aimerais sincèrement que ce type d'abandon matinal devienne plus fréquent entre nous.",
+   "Si ce genre de moment pouvait se répéter plus souvent, je ne serais clairement pas contre."
+  ]
  }
 ]
