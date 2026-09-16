@@ -689,7 +689,24 @@
          * copy of one restored from sessionStorage after a post-update reload).
          */
         function showUpdateDetails(result) {
-            const items = result.updated.map(path => {
+            const commits = result.commits || [];
+
+            // The real changelog: each commit's own message (title + body),
+            // which is where the human-readable "what changed" actually
+            // lives — "ajout de 50 cartes dans Actions", "correction du bug
+            // X", etc. — rather than a bare list of touched filenames.
+            const changelogItems = commits.map(c => `
+                <li class="py-2">
+                    <p class="font-medium text-slate-800">${escapeHtml(c.subject)}</p>
+                    ${c.body ? `<p class="text-sm text-slate-500 whitespace-pre-line mt-0.5">${escapeHtml(c.body)}</p>` : ''}
+                </li>`).join('');
+            const changelogBlock = commits.length > 0
+                ? `<p class="text-sm text-slate-500 mb-1">Ce qui a changé :</p>
+                   <ul class="divide-y divide-slate-100 mb-3">${changelogItems}</ul>`
+                : `<p class="text-sm text-slate-500 mb-3">Première synchronisation : l'historique détaillé des changements sera disponible à partir de la prochaine mise à jour.</p>`;
+
+            // Raw file list kept as secondary/technical detail underneath.
+            const fileItems = result.updated.map(path => {
                 const label = UPDATE_FILE_LABELS[path] || path;
                 return `<li class="flex items-start gap-2.5 py-1.5">
                     <span class="text-green-500 mt-0.5">✓</span>
@@ -700,9 +717,13 @@
             const restartNote = result.restarting
                 ? `<p class="text-sm text-slate-500 mt-3 pt-3 border-t border-slate-200">Le serveur a redémarré pour appliquer le nouveau code.</p>`
                 : '';
+
             updateDetailsContent.innerHTML = `
-                <p class="text-sm text-slate-500 mb-1">${result.updated.length} fichier(s) mis à jour depuis GitHub :</p>
-                <ul class="divide-y divide-slate-100">${items}</ul>
+                ${changelogBlock}
+                <details class="pt-2 border-t border-slate-200">
+                    <summary class="text-sm font-medium text-slate-600 cursor-pointer select-none">${result.updated.length} fichier(s) mis à jour</summary>
+                    <ul class="divide-y divide-slate-100 mt-2">${fileItems}</ul>
+                </details>
                 ${restartNote}
             `;
             updateDetailsModal.classList.remove('hidden');
@@ -766,8 +787,21 @@
                     showUpdateProgress(i + 1, total, 'Downloading updates');
                 }
 
+                // Every file from this batch is now on disk — record the
+                // commit SHA we've synced to, so the *next* check's changelog
+                // starts from here instead of re-listing commits just applied.
+                if (checkResult.headSha) {
+                    try {
+                        await fetch('/api/update/mark-applied', {
+                            method: 'POST',
+                            headers: { 'Content-Type': 'application/json' },
+                            body: JSON.stringify({ headSha: checkResult.headSha }),
+                        });
+                    } catch (e) { /* non-fatal — worst case the changelog re-lists these commits next time */ }
+                }
+
                 const restarting = files.some(f => f.endsWith('.py'));
-                const summary = { updated: files, restarting };
+                const summary = { updated: files, restarting, commits: checkResult.commits || [] };
 
                 // The page is about to reload (immediately, or after the
                 // server restart below) — stash the result so the details

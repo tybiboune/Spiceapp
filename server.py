@@ -30,6 +30,12 @@ GITHUB_BRANCH = "main"
 UPDATE_EXCLUDED_PATHS = {"database.db"}
 # Repo-root files that aren't part of the running app (docs, git config, …).
 UPDATE_IGNORED_PATHS = {"README.md", ".gitignore"}
+# Tracks the last commit SHA this install has synced to, purely local —
+# never fetched from or written to GitHub — so /api/update/check can list
+# the commits (and so the human-readable "what changed") since last time.
+UPDATE_STATE_PATH = os.path.join(BASE_DIR, ".update_state.json")
+# Git trailer lines that are implementation detail, not user-facing changelog.
+COMMIT_TRAILER_PREFIXES = ("Co-Authored-By:", "Claude-Session:")
 
 def _repo_path_to_local(repo_path):
     """Repo layout is flat and mirrors BASE_DIR directly — no directory mapping needed."""
@@ -74,6 +80,51 @@ def _download_file(repo_path):
     req = urllib.request.Request(url, headers={"User-Agent": "Spiceapp-updater"})
     with urllib.request.urlopen(req, timeout=20) as resp:
         return resp.read()
+
+def _load_update_state():
+    if os.path.isfile(UPDATE_STATE_PATH):
+        try:
+            with open(UPDATE_STATE_PATH, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except (json.JSONDecodeError, OSError):
+            return {}
+    return {}
+
+def _save_update_state(state):
+    with open(UPDATE_STATE_PATH, "w", encoding="utf-8") as f:
+        json.dump(state, f)
+
+def _fetch_head_sha():
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/commits/{GITHUB_BRANCH}"
+    req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        return json.loads(resp.read())["sha"]
+
+def _fetch_commits_since(base_sha, head_sha):
+    """Human-readable changelog: every commit message between the SHA this
+    install last synced to and the current GitHub HEAD, subject/body split,
+    with the git attribution trailers stripped (implementation detail, not
+    a user-facing change). Returns [] on a first-ever sync (no base_sha
+    stored yet) or if nothing changed — there's no meaningful "since" then."""
+    if not base_sha or base_sha == head_sha:
+        return []
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/compare/{base_sha}...{head_sha}"
+    req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        data = json.loads(resp.read())
+    commits = []
+    for item in data.get("commits", []):
+        message = item.get("commit", {}).get("message", "")
+        lines = message.splitlines()
+        subject = lines[0] if lines else ""
+        body_lines = [
+            line for line in lines[1:]
+            if not line.strip().startswith(COMMIT_TRAILER_PREFIXES)
+        ]
+        body = "\n".join(body_lines).strip()
+        if subject:
+            commits.append({"subject": subject, "body": body})
+    return commits
 
 def _restart_process():
     # Re-exec in place so the new server.py (if it changed) actually takes
@@ -154,10 +205,20 @@ def toggle_variation_done(action_id, variation_index):
 
 @app.route('/api/update/check', methods=['GET'])
 def check_update():
-    """Reports which files differ from the latest commit on GitHub, without changing anything."""
+    """Reports which files differ from the latest commit on GitHub, plus the
+    human-readable commit messages since this install's last sync, without
+    changing anything on disk."""
     try:
         changed = _find_updates()
-        return jsonify({"updateAvailable": len(changed) > 0, "files": changed})
+        head_sha = _fetch_head_sha()
+        state = _load_update_state()
+        commits = _fetch_commits_since(state.get("lastSha"), head_sha)
+        return jsonify({
+            "updateAvailable": len(changed) > 0,
+            "files": changed,
+            "commits": commits,
+            "headSha": head_sha,
+        })
     except (urllib.error.URLError, urllib.error.HTTPError) as e:
         return jsonify({"error": f"Could not reach GitHub: {e}"}), 502
     except Exception as e:
@@ -187,6 +248,19 @@ def apply_update_file():
         return jsonify({"error": f"Could not reach GitHub: {e}"}), 502
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+@app.route('/api/update/mark-applied', methods=['POST'])
+def mark_update_applied():
+    """Records the GitHub commit SHA this install has now synced to, so the
+    *next* check's changelog starts from here instead of replaying commits
+    already applied. Called by the frontend once every changed file has been
+    downloaded successfully."""
+    body = request.get_json(silent=True) or {}
+    head_sha = body.get('headSha')
+    if not head_sha:
+        return jsonify({"error": "Missing 'headSha'."}), 400
+    _save_update_state({"lastSha": head_sha})
+    return jsonify({"ok": True})
 
 @app.route('/api/update/restart', methods=['POST'])
 def restart_after_update():
