@@ -7381,5 +7381,905 @@
    "Right before you close your eyes: you're exactly where you belong. Sleep on that.",
    "Last thought before sleep, courtesy of this pillow: you're right where you're supposed to be."
   ]
+ },
+ {
+  "actionTitle": "On the water bottle",
+  "text": "Whatever this workout throws at you, you're stronger than it. Also, hydrate, obviously.",
+  "effect": "Combining a practical reminder with genuine encouragement gives a purely functional object emotional weight beyond its literal purpose. She encounters affirmation right before physical effort, at a moment when motivation tends to matter most.",
+  "sectionTitle": "Post-its - Gym Bag",
+  "predictable": "Workout gear gets packed without any accompanying note or encouragement",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Drink water, obviously. Also, you're going to crush this session, just as a heads-up.",
+   "This bottle's got one job. You've got a bigger one: showing up and doing the thing."
+  ]
+ },
+ {
+  "actionTitle": "On a folded towel",
+  "text": "This towel's about to witness someone doing something good for themselves. Respect.",
+  "effect": "Personifying an ordinary object to acknowledge the value of self-care through exercise reframes a routine task as worth noticing. She encounters unexpected validation for an act of self-care that's easy to take for granted once it becomes habitual.",
+  "sectionTitle": "Post-its - Gym Bag",
+  "predictable": "Workout routines happen without any acknowledgment of the self-care involved",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This towel's about to see someone show up for themselves. Well done in advance.",
+   "Witnessing some quality self-care about to happen. This towel approves."
+  ]
+ },
+ {
+  "actionTitle": "Tucked in a shoe",
+  "text": "Found this instead of your foot for a second. Small interruption to say: proud of you for showing up today.",
+  "effect": "Placing the note somewhere unexpected within routine gear creates a small moment of surprise before physical effort begins. She encounters an interruption specifically timed to precede the workout itself, adding encouragement right at the point of commitment.",
+  "sectionTitle": "Post-its - Gym Bag",
+  "predictable": "Getting dressed for a workout happens without any note or encouragement hidden inside gear",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Small surprise before your shoe goes on: proud of you for actually showing up today.",
+   "Interrupting your shoe-tying moment to say you're doing great just by being here."
+  ]
+ },
+ {
+  "actionTitle": "On a protein bar or snack",
+  "text": "Fuel for the effort you're about to put in. The effort itself is the impressive part, for the record.",
+  "effect": "Reframing a practical snack as fuel specifically for effort, rather than just sustenance, elevates the physical activity to something worth noting. She receives recognition for the act of trying, independent of any measurable outcome from the workout itself.",
+  "sectionTitle": "Post-its - Gym Bag",
+  "predictable": "Snacks packed for a workout stay purely functional, without any accompanying note",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This is fuel for the effort ahead. The effort's the actual impressive part here.",
+   "Snack for later. The real achievement today is just showing up and doing this."
+  ]
+ },
+ {
+  "actionTitle": "On the gym bag zipper",
+  "text": "Zipping this closed means you're about to do something good for yourself. That's worth a small mention.",
+  "effect": "Marking the specific moment of closing the bag, right before leaving for the gym, ties encouragement to the literal transition into action. She encounters a note timed precisely to the instant she commits to following through, rather than a general comment unconnected to any specific moment.",
+  "sectionTitle": "Post-its - Gym Bag",
+  "predictable": "Leaving for a workout happens without any note marking the specific moment of commitment",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Zipping up means it's actually happening now. Good for you for following through.",
+   "This zipper closing is basically the moment you officially commit. Nicely done."
+  ]
+ },
+ {
+  "actionTitle": "On the shelf edge",
+  "text": "Whatever brought you in here, hope it's minor and passes quickly. Taking care of yourself either way.",
+  "effect": "Acknowledging whatever health concern prompted opening the cabinet, however minor, shows attentiveness without requiring her to explain the reason first. She encounters quiet care attached to a private, sometimes slightly vulnerable moment of tending to her own health.",
+  "sectionTitle": "Post-its - Medicine Cabinet",
+  "predictable": "Opening the medicine cabinet happens without any accompanying thought or care attached",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever this is for, hoping it's small and passes fast. Taking care of you either way.",
+   "Hope whatever brought you here isn't a big deal. Glad you're taking care of it regardless."
+  ]
+ },
+ {
+  "actionTitle": "Next to the bandages",
+  "text": "Small scrapes heal. So does basically everything else, given enough time. Just a general note of reassurance.",
+  "effect": "Extending a literal physical healing metaphor into a broader statement of reassurance adds unexpected emotional depth to a purely practical object. She encounters comfort tucked into a mundane, first-aid context, offering perspective beyond the immediate physical concern.",
+  "sectionTitle": "Post-its - Medicine Cabinet",
+  "predictable": "First aid items stay purely practical, without any broader note of reassurance nearby",
+  "themes": [
+   "Care",
+   "Tender",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Scrapes heal. So does most everything else, given time. General reassurance, just in case.",
+   "Small injuries pass. That's generally true of bigger stuff too, for what it's worth."
+  ]
+ },
+ {
+  "actionTitle": "On the mirror inside the cabinet door",
+  "text": "Whoever's looking at this reflection is doing better than they probably think they are right now.",
+  "effect": "Placing an affirming note directly in the mirror's line of sight, in a private space often associated with self-scrutiny, counters potential self-criticism at a vulnerable moment. She encounters unexpected reassurance in a space specifically designed to reflect her own image back at her.",
+  "sectionTitle": "Post-its - Medicine Cabinet",
+  "predictable": "The mirror inside the cabinet stays unremarked upon, showing only a plain reflection",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whoever's reflected here is handling more than they probably give themselves credit for.",
+   "This mirror's showing someone doing better than they think, generally speaking."
+  ]
+ },
+ {
+  "actionTitle": "On the vitamins or supplements",
+  "text": "Taking care of yourself, one small daily habit at a time. Noticed, and it matters.",
+  "effect": "Acknowledging a small, easily overlooked daily health habit demonstrates attentiveness to routines she may not think anyone else notices. She receives recognition for consistent, unglamorous self-care rather than only dramatic or visible health efforts.",
+  "sectionTitle": "Post-its - Medicine Cabinet",
+  "predictable": "Small daily health habits go unacknowledged, taken as simply routine",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Small daily habit, noticed and appreciated. That kind of consistency matters.",
+   "Taking care of yourself in small daily ways. Doesn't go unnoticed over here."
+  ]
+ },
+ {
+  "actionTitle": "On the thermometer case",
+  "text": "Whatever number this shows, know that you're looked after regardless of what it says.",
+  "effect": "Detaching care from a specific health outcome, like a fever reading, reassures that support isn't contingent on the severity of the result. She receives unconditional attentiveness rather than concern calibrated only to how serious a symptom appears to be.",
+  "sectionTitle": "Post-its - Medicine Cabinet",
+  "predictable": "Care during illness tends to scale with how serious the symptoms appear, rather than staying constant",
+  "themes": [
+   "Care",
+   "Tender",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever number shows up here, you're taken care of regardless of what it is.",
+   "This thermometer's reading doesn't change how much you're looked after either way."
+  ]
+ },
+ {
+  "actionTitle": "On the zipper pull",
+  "text": "Wherever this bag ends up, it's carrying someone worth the whole trip, every time.",
+  "effect": "Attaching sentiment to travel gear elevates an ordinary logistical object into a small, meaningful send-off for any journey, big or small. She begins a trip, whatever its purpose, with an affirming note rather than a purely functional packing process.",
+  "sectionTitle": "Post-its - Suitcase",
+  "predictable": "Packing a suitcase happens without any accompanying note or sentiment attached",
+  "themes": [
+   "Tender",
+   "Care",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Wherever this ends up, it's got someone genuinely worth the trip packed inside.",
+   "This bag's cargo, whatever the destination, is worth every mile it travels."
+  ]
+ },
+ {
+  "actionTitle": "Folded into a shirt",
+  "text": "Hidden here so you find it mid-trip: missing you already, and you haven't even left yet.",
+  "effect": "Placing the note somewhere it'll be discovered mid-journey, rather than immediately, creates a delayed surprise timed for a moment away from home. She encounters an unexpected reminder partway through a trip, precisely when initial excitement may have settled into routine travel fatigue.",
+  "sectionTitle": "Post-its - Suitcase",
+  "predictable": "Notes hidden in luggage don't get placed for later discovery mid-trip",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Hidden for later: already missing you a little, and you're not even gone yet.",
+   "Tucked in here for mid-trip discovery: thinking of you already, before you've even left."
+  ]
+ },
+ {
+  "actionTitle": "On the luggage tag",
+  "text": "Property of someone who's about to have a genuinely good trip. Handle with the appropriate level of care.",
+  "effect": "Repurposing a functional identification tag into a playful, affectionate statement adds humor to a purely practical travel item. She encounters an unexpected joke woven into standard luggage logistics, which lightens the sometimes stressful process of travel prep.",
+  "sectionTitle": "Post-its - Suitcase",
+  "predictable": "Luggage tags stay purely functional, listing contact information without any personal touch",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Property of someone about to have a great trip. Handle accordingly, please.",
+   "This tag belongs to a bag carrying someone who deserves a genuinely good trip ahead."
+  ]
+ },
+ {
+  "actionTitle": "Near the passport pocket",
+  "text": "Wherever this passport takes you, come back with good stories and the same amount of missing-you energy you're leaving with.",
+  "effect": "Connecting a formal travel document to a personal, sentimental wish balances the practical necessity of travel prep with genuine emotional investment. She encounters affection layered into the most official, logistics-heavy part of packing, adding warmth to an otherwise purely administrative moment.",
+  "sectionTitle": "Post-its - Suitcase",
+  "predictable": "Travel documents get packed with zero personal sentiment attached to the process",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Wherever this takes you, come back with good stories and plenty to tell me about.",
+   "Hoping this passport sees some good adventures, and that you miss home just the right amount."
+  ]
+ },
+ {
+  "actionTitle": "On the outer pocket",
+  "text": "Emergency contact in case of missing someone too much while away: me, obviously. Available anytime.",
+  "effect": "Playfully repurposing the format of an emergency contact note redirects a practical travel feature toward an affectionate joke. She encounters humor built into the structure of standard travel preparation, which reframes a routine packing detail into something personal.",
+  "sectionTitle": "Post-its - Suitcase",
+  "predictable": "Emergency contact information stays strictly practical, without any playful personal twist",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "In case of missing someone too much while traveling, emergency contact is me. Always available.",
+   "Official emergency contact for homesickness or general missing-you feelings: me, round the clock."
+  ]
+ },
+ {
+  "actionTitle": "On the bottom corner",
+  "text": "Whatever's on this screen today, you're handling it better than the average person would.",
+  "effect": "Attaching a confidence-boosting note directly to a workspace where stress commonly accumulates offers targeted reassurance in the exact environment it's needed. She encounters encouragement embedded into her actual daily work setup, rather than delivered separately from where the pressure occurs.",
+  "sectionTitle": "Post-its - Office Monitor",
+  "predictable": "Work-related stress gets managed without any reassurance placed directly in the workspace",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever's happening on this screen, you're handling it better than most people would.",
+   "This screen's seen a lot today. You've handled all of it competently, for the record."
+  ]
+ },
+ {
+  "actionTitle": "Around the webcam",
+  "text": "This camera's about to show someone who's more prepared than they probably feel right now.",
+  "effect": "Placing reassurance around a webcam, used specifically for calls and meetings, targets the exact moment of visible performance and potential anxiety. She encounters a confidence boost right before a moment of being observed by others, when self-doubt is more likely to surface.",
+  "sectionTitle": "Post-its - Office Monitor",
+  "predictable": "Video calls happen without any reassurance offered beforehand about how prepared she actually is",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This camera's about to show someone more ready for this than they think they are.",
+   "Whoever's on camera in a minute is more prepared than the nerves are currently suggesting."
+  ]
+ },
+ {
+  "actionTitle": "Along the top edge",
+  "text": "Small reminder that this screen doesn't define your worth, however today's tasks happen to go.",
+  "effect": "Explicitly detaching self-worth from work output counters the tendency to over-identify with professional performance during a stressful day. She receives a boundary-setting reminder precisely in the environment most likely to blur that line.",
+  "sectionTitle": "Post-its - Office Monitor",
+  "predictable": "Work performance and personal worth tend to blur together without any explicit separation",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Reminder: whatever this screen shows today, it doesn't define how much you're worth.",
+   "This screen tracks tasks. It doesn't track your actual value, which stays constant regardless."
+  ]
+ },
+ {
+  "actionTitle": "Next to the monitor stand",
+  "text": "Whatever deadline's looming on this thing, you've met harder ones before. Onward.",
+  "effect": "Referencing past success with deadlines grounds current reassurance in demonstrated capability rather than blind optimism. She's reminded of previous evidence of competence exactly when a new pressure point makes that history easy to forget.",
+  "sectionTitle": "Post-its - Office Monitor",
+  "predictable": "Looming deadlines get faced without any reference to past evidence of handling similar pressure",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever deadline's on that screen, you've cleared tougher ones before this. You've got it.",
+   "This deadline's real, sure, but so is your track record of clearing harder ones. Onward."
+  ]
+ },
+ {
+  "actionTitle": "On the monitor's side edge",
+  "text": "Take your eyes off this screen for ten seconds. Look at something further than an arm's length away. Small reset.",
+  "effect": "Offering a small, concrete physical break suggestion counters the tendency for screen-focused work to continue uninterrupted for long stretches. She receives a brief, actionable prompt for a genuine mini-reset, rather than a vague suggestion to 'take breaks' that's easy to ignore.",
+  "sectionTitle": "Post-its - Office Monitor",
+  "predictable": "Extended screen time happens without any prompt for a small physical break or reset",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Quick reset: look at something further than arm's length for ten seconds. Screen's not going anywhere.",
+   "Ten-second break: eyes off the screen, look at literally anything else for a moment."
+  ]
+ },
+ {
+  "actionTitle": "On the front cover",
+  "text": "Whatever goes in here, it's coming from someone worth paying attention to, including by herself.",
+  "effect": "Placing a note of self-worth on the very outside of a personal journal frames the act of journaling itself as valuable before any content is even written. She encounters an affirming statement about her own perspective before engaging in a typically private, introspective activity.",
+  "sectionTitle": "Post-its - Journal Cover",
+  "predictable": "Journaling happens without any external note affirming the value of what's written",
+  "themes": [
+   "Confidence",
+   "Tender",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever ends up in here is coming from someone worth genuinely listening to, including herself.",
+   "This journal's contents matter, mostly because the person writing them does too."
+  ]
+ },
+ {
+  "actionTitle": "Inside the front page",
+  "text": "If you ever doubt whether your thoughts are worth writing down, this note says they clearly are.",
+  "effect": "Directly addressing potential self-doubt about the value of journaling offers reassurance precisely where hesitation might otherwise prevent her from writing at all. She receives encouragement to continue a reflective practice that benefits her, even during moments of doubting its worth.",
+  "sectionTitle": "Post-its - Journal Cover",
+  "predictable": "Uncertainty about whether personal reflection is worthwhile goes unaddressed",
+  "themes": [
+   "Confidence",
+   "Tender",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "If you're ever unsure your thoughts are worth putting down here, they are. Simple as that.",
+   "Whatever hesitation exists about writing this stuff down, it's worth writing. Trust that."
+  ]
+ },
+ {
+  "actionTitle": "On the spine",
+  "text": "This journal's held a lot of honest moments already. Proud of the person who keeps coming back to it.",
+  "effect": "Acknowledging the accumulated history of a personal, ongoing habit like journaling recognizes consistency in an activity usually done entirely alone. She receives recognition for private, sustained effort that has no external audience or applause built in.",
+  "sectionTitle": "Post-its - Journal Cover",
+  "predictable": "The ongoing habit of journaling happens without any outside acknowledgment of its consistency",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This journal's held plenty of honesty already. Proud of you for sticking with it.",
+   "A lot of real moments in here by now. Proud of the consistency behind that."
+  ]
+ },
+ {
+  "actionTitle": "On the back cover",
+  "text": "Whatever you close this on tonight, tomorrow gets a fresh page, literally and otherwise.",
+  "effect": "Framing each new journal entry as a fresh start reinforces the idea that difficult days don't have to carry over into the next one. She receives a small, tangible metaphor for renewal built directly into an object she engages with regularly.",
+  "sectionTitle": "Post-its - Journal Cover",
+  "predictable": "Difficult days don't get any explicit sense of closure or fresh start attached to them",
+  "themes": [
+   "Care",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever tonight's entry holds, tomorrow's a fresh page, here and generally.",
+   "Close the book on today whenever you're ready. Tomorrow starts clean, on paper and otherwise."
+  ]
+ },
+ {
+  "actionTitle": "Tucked in as a bookmark",
+  "text": "Marking your place, literally and figuratively. Whatever chapter of life this is, you're doing fine in it.",
+  "effect": "Using a bookmark placed in a personal journal to deliver reassurance about her broader life situation blends a literal function with a metaphorical one. She encounters affirmation about her current life stage tucked into a private, ongoing record of her own thoughts.",
+  "sectionTitle": "Post-its - Journal Cover",
+  "predictable": "Personal reflection happens without any external reassurance about the current life stage overall",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Marking your page, literally. Whatever chapter this is in life, you're doing fine in it.",
+   "This bookmark's holding your place. For the record, wherever you are in life, it's going okay."
+  ]
+ },
+ {
+  "actionTitle": "On the pot's rim",
+  "text": "This plant's doing well because someone remembers to water it. That someone also tends to remember a lot of other things worth appreciating.",
+  "effect": "Drawing a parallel between plant care and her broader attentiveness reframes a small household task as evidence of a larger, valued trait. She receives recognition for consistency and care that extends well beyond the literal object the note is attached to.",
+  "sectionTitle": "Post-its - Plant Pot",
+  "predictable": "Houseplants get tended to without any connection drawn to broader personal qualities",
+  "themes": [
+   "Care",
+   "Tender",
+   "Compliment"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This plant's thriving because you remember to water it. You remember a lot of things well, actually.",
+   "Healthy plant, attentive owner. The pattern tracks with basically everything else too."
+  ]
+ },
+ {
+  "actionTitle": "On the saucer underneath",
+  "text": "Whatever's growing here, it's getting the same steady, reliable care that everything around you tends to get.",
+  "effect": "Extending the metaphor of steady plant care to her general approach to relationships and responsibilities elevates a mundane object into a broader compliment. She encounters recognition for reliability, a quality easy to take for granted specifically because it's consistent rather than dramatic.",
+  "sectionTitle": "Post-its - Plant Pot",
+  "predictable": "Consistent, reliable care tends to go unnoticed precisely because it's steady rather than dramatic",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This plant gets the same steady care as everything else around here. Consistency, noted and appreciated.",
+   "Whatever's growing here benefits from the same reliability that shows up in everything you do."
+  ]
+ },
+ {
+  "actionTitle": "On a new leaf or bud",
+  "text": "New growth here. Feels like a fitting reminder that good things are still developing all around, including you.",
+  "effect": "Using a plant's visible new growth as a metaphor for ongoing personal development frames her own growth as similarly natural and ongoing. She receives an indirect but genuine acknowledgment of her continued progress, tied to something concretely observable.",
+  "sectionTitle": "Post-its - Plant Pot",
+  "predictable": "Personal growth and development go unacknowledged, without any tangible metaphor attached",
+  "themes": [
+   "Confidence",
+   "Tender",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "New growth showing up here. Feels like a fitting reminder that you're still growing too, in good ways.",
+   "This new leaf feels like a small, fitting metaphor for the progress you're making generally."
+  ]
+ },
+ {
+  "actionTitle": "On a dead leaf about to be trimmed",
+  "text": "Not every part of this plant is thriving right now, and that's fine, normal even. Same goes for anyone having an off day.",
+  "effect": "Normalizing imperfection through a plant metaphor offers gentle reassurance that not every part of life needs to be flourishing simultaneously. She receives permission to have an off day without judgment, delivered through an indirect, low-pressure comparison.",
+  "sectionTitle": "Post-its - Plant Pot",
+  "predictable": "Off days or setbacks go unacknowledged, without any reassurance that they're a normal part of things",
+  "themes": [
+   "Care",
+   "Tender",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Not every leaf on this thing is doing great right now, and that's completely normal. Same goes for people.",
+   "This plant's got an off patch right now. Totally fine, happens to the best of us too."
+  ]
+ },
+ {
+  "actionTitle": "On the watering can nearby",
+  "text": "This can waters the plants. I'll handle watering the rest of the encouragement you need around here.",
+  "effect": "Dividing responsibilities playfully between an object and yourself frames the note as a small joke while still delivering genuine emotional support. She receives affection delivered with humor, which varies the tone from a purely sentimental note.",
+  "sectionTitle": "Post-its - Plant Pot",
+  "predictable": "Household objects stay purely functional, without any playful division of responsibilities implied",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This can handles the plants. I've got the rest of the encouragement covered around here.",
+   "Watering duty covered by this can. Emotional watering duty, that's on me."
+  ]
+ },
+ {
+  "actionTitle": "On the umbrella handle",
+  "text": "This blocks rain. What it can't block is how much you're going to be thought about while you're out there today.",
+  "effect": "Contrasting a purely practical function with an ongoing emotional state emphasizes that the sentiment persists independently of physical circumstances like weather. She departs prepared for rain, along with reassurance that being out of sight doesn't mean being out of mind.",
+  "sectionTitle": "Post-its - Umbrella",
+  "predictable": "The umbrella gets grabbed purely for its function, with no additional thought attached",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This handles the rain. It's got no control over how much you'll be thought about today, though.",
+   "Rain protection covered. No coverage available for the fact that you'll be missed regardless."
+  ]
+ },
+ {
+  "actionTitle": "On the umbrella's canopy, folded",
+  "text": "Wherever this opens up today, it's sheltering someone who's already had a pretty good influence on my day just by existing.",
+  "effect": "Attributing an influence on your day to her mere existence, unconnected to any specific action, elevates an ordinary compliment into something broader and less conditional. She encounters affection delivered through an unlikely object, adding novelty to a familiar sentiment.",
+  "sectionTitle": "Post-its - Umbrella",
+  "predictable": "The umbrella stays purely functional, with no personal note attached to its use",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Wherever this opens today, it's covering someone whose existence alone improves my day.",
+   "This umbrella's about to shelter someone who's already made today better, just by being in it."
+  ]
+ },
+ {
+  "actionTitle": "On the umbrella stand at the door",
+  "text": "Grabbing this means heading out into whatever today holds. You've handled worse with less preparation than this.",
+  "effect": "Framing the act of grabbing an umbrella as a small symbolic gesture of preparedness reassures her ahead of an uncertain day. She receives a confidence boost tied directly to the literal act of leaving the house, rather than delivered separately from any specific moment.",
+  "sectionTitle": "Post-its - Umbrella",
+  "predictable": "Leaving the house with practical gear happens without any accompanying reassurance",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Grabbing this means you're heading out prepared. You've handled harder days with less prep than this.",
+   "This umbrella means you're ready for whatever today throws at you, weather included."
+  ]
+ },
+ {
+  "actionTitle": "On a rain boot nearby",
+  "text": "These keep your feet dry. The rest of you stays just as impressive regardless of the weather situation.",
+  "effect": "Separating a practical function (keeping feet dry) from a broader compliment about her overall qualities avoids making the affection purely about weather preparedness. She receives a note that plays with the specific, practical object while still landing a sincere, unrelated compliment.",
+  "sectionTitle": "Post-its - Umbrella",
+  "predictable": "Rain gear stays purely practical, without any broader compliment attached to it",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "These handle wet feet. Everything else about you stays impressive regardless of the forecast.",
+   "Dry feet, guaranteed by these. Everything else about today being good, that's on you, and you've got it."
+  ]
+ },
+ {
+  "actionTitle": "On the umbrella's tip",
+  "text": "Small and pointy, but it's about to do its one job well. Kind of admirable, honestly, doing one thing really well.",
+  "effect": "Personifying an ordinary object's simple function playfully connects to an implicit compliment about doing things well, without stating it directly about her. She encounters a lighthearted, almost absurd observation that indirectly reflects admiration for competence and follow-through.",
+  "sectionTitle": "Post-its - Umbrella",
+  "predictable": "Small functional objects stay entirely unremarked upon, without any playful personification",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Small, pointy, and about to do its one job well. There's something admirable about doing one thing right.",
+   "This tip's got exactly one job today, and it's going to do it well. Respect for that kind of focus."
+  ]
+ },
+ {
+  "actionTitle": "On the box lid",
+  "text": "Every recipe in here has a version of you in it somehow. Good collection, honestly, in more ways than one.",
+  "effect": "Connecting a physical collection of recipes to her presence in shared meals over time frames the box as a repository of memory, not just instructions. She recognizes that ordinary, practical objects carry accumulated sentimental weight tied to shared history.",
+  "sectionTitle": "Post-its - Recipe Box",
+  "predictable": "The recipe box stays purely functional, without any sentimental note attached to its contents",
+  "themes": [
+   "Nostalgia",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Every card in here has some version of you tied to it. Good little collection, for more reasons than one.",
+   "This box is full of recipes, sure, but really it's full of memories with you attached to them."
+  ]
+ },
+ {
+  "actionTitle": "On a specific recipe card",
+  "text": "This one's a favorite, mostly because of who I usually make it with, not just how it tastes.",
+  "effect": "Specifying that a favorite dish's appeal comes from shared preparation, not just flavor, prioritizes the relational experience over the food itself. She receives recognition that cooking together holds meaning beyond the practical outcome of a finished meal.",
+  "sectionTitle": "Post-its - Recipe Box",
+  "predictable": "Favorite recipes get valued purely for taste, without connecting the appeal to who they're made with",
+  "themes": [
+   "Tender",
+   "Nostalgia",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This one's a favorite mostly because of who I make it with, not just how it turns out.",
+   "Good recipe, sure, but the real reason it's a favorite is the company while making it."
+  ]
+ },
+ {
+  "actionTitle": "On a handwritten family recipe",
+  "text": "This one came from somewhere important. Glad it gets to keep being made in a kitchen that matters just as much.",
+  "effect": "Connecting an inherited recipe's origin to the significance of its current use honors both the past and the present relationship simultaneously. She perceives that traditions carried forward continue to hold meaning, actively maintained rather than just archived.",
+  "sectionTitle": "Post-its - Recipe Box",
+  "predictable": "Inherited family recipes get used without any reflection on their continued significance",
+  "themes": [
+   "Nostalgia",
+   "Tender",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This recipe came from somewhere meaningful. Glad it's still being made somewhere that matters too.",
+   "A recipe with real history behind it, still finding its way into a kitchen that means something."
+  ]
+ },
+ {
+  "actionTitle": "On a blank recipe card",
+  "text": "Room here for whatever we invent next. The best recipes in this box started out exactly this blank.",
+  "effect": "Highlighting the potential of an empty recipe card frames future cooking experiments as an ongoing, open-ended project rather than a closed collection. She experiences an invitation to keep adding to a shared, evolving history rather than treating the collection as finished.",
+  "sectionTitle": "Post-its - Recipe Box",
+  "predictable": "The recipe collection stays static, without any invitation to keep adding to it",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Blank card, waiting for whatever we come up with next. Every good recipe here started just like this.",
+   "Plenty of room left for future inventions. This box isn't finished yet, and neither are we."
+  ]
+ },
+ {
+  "actionTitle": "On the box's clasp",
+  "text": "Closing this keeps everything inside safe. Feels like a fitting metaphor for a few other things around here too.",
+  "effect": "Extending a simple, practical action (closing the box) into a broader metaphor about safekeeping adds unexpected depth to an ordinary object. She encounters a small, reflective note that connects a mundane action to a larger sense of security within the relationship.",
+  "sectionTitle": "Post-its - Recipe Box",
+  "predictable": "Closing everyday objects happens without any reflection on broader meaning or metaphor",
+  "themes": [
+   "Tender",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Closing this keeps everything inside safe. Feels like it applies to more than just recipes around here.",
+   "This clasp keeps things protected. Not a bad description of how things generally work here too."
+  ]
+ },
+ {
+  "actionTitle": "On the handle",
+  "text": "Whatever needs fixing today, you're more capable than the instructions probably give you credit for.",
+  "effect": "Complimenting her practical competence, in a space specifically associated with fixing and building, targets confidence directly where it's likely to be tested. She receives encouragement tailored to a specific skill area, rather than a generic statement unrelated to the task at hand.",
+  "sectionTitle": "Post-its - Toolbox",
+  "predictable": "Practical competence with tools or repairs goes unacknowledged, assumed rather than affirmed",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever's being fixed today, you're more capable than any instructions are giving you credit for.",
+   "This toolbox is about to be used by someone more skilled than they probably realize."
+  ]
+ },
+ {
+  "actionTitle": "On the top tray",
+  "text": "Every tool in here has a job. So do you, and you're better at yours than you think, generally speaking.",
+  "effect": "Drawing a parallel between the specific utility of tools and her own broader competence reframes a functional object as an indirect compliment. She receives affirmation of her general capability, delivered through an unexpected comparison to something entirely unrelated.",
+  "sectionTitle": "Post-its - Toolbox",
+  "predictable": "General competence and capability go unacknowledged, without any comparison to anything concrete",
+  "themes": [
+   "Confidence",
+   "Compliment",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Every tool here has a purpose. So do you, and you're handling yours better than you probably think.",
+   "This tray's full of things with a job to do. Same goes for you, and you're doing yours well."
+  ]
+ },
+ {
+  "actionTitle": "On a specific well-used tool",
+  "text": "This one's been used a lot, which means someone around here doesn't shy away from doing the actual work. Noted, and respected.",
+  "effect": "Recognizing evidence of consistent, hands-on effort through a well-worn tool highlights her willingness to engage directly with practical tasks. She receives acknowledgment for tangible follow-through, visible in the physical wear of an object rather than just stated in the abstract.",
+  "sectionTitle": "Post-its - Toolbox",
+  "predictable": "Evidence of consistent hands-on effort, like a well-worn tool, goes unremarked upon",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Compliment"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This one's clearly seen a lot of use. Someone around here doesn't avoid the actual work. Respected.",
+   "Well-worn tool here, which tracks with someone who actually gets things done rather than avoiding them."
+  ]
+ },
+ {
+  "actionTitle": "On the empty slot for a missing tool",
+  "text": "Something's missing here, and that's fine, not everything has to be perfectly organized all the time. Same goes for most things.",
+  "effect": "Using an incomplete, imperfect toolbox as a metaphor for accepting imperfection elsewhere reduces pressure around needing everything constantly in order. She receives gentle reassurance that gaps and imperfections are normal, not a personal failing requiring correction.",
+  "sectionTitle": "Post-its - Toolbox",
+  "predictable": "Imperfection or incompleteness tends to go unaddressed, without reassurance that it's genuinely fine",
+  "themes": [
+   "Care",
+   "Tender",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Something's missing from this slot, and that's completely fine. Not everything needs to be perfect.",
+   "Empty spot here, no big deal. Most things don't need to be perfectly complete to still work well."
+  ]
+ },
+ {
+  "actionTitle": "On the toolbox latch",
+  "text": "Locking this up for now. Whatever gets built or fixed with what's inside, it's in capable hands.",
+  "effect": "Closing a note around the trustworthiness of whoever handles the tools next reinforces confidence in her competence at the exact point of putting the tools away. She receives a vote of confidence bookending the practical task, not just offered before it begins.",
+  "sectionTitle": "Post-its - Toolbox",
+  "predictable": "Finishing a practical task happens without any closing note of confidence or acknowledgment",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Locking this up now. Whatever gets handled with what's inside, it's in genuinely capable hands.",
+   "Closing this for now, confident that whatever needs doing with it will get done well."
+  ]
+ },
+ {
+  "actionTitle": "On the rolled-up mat",
+  "text": "Unrolling this means giving yourself a few minutes today. That's a genuinely good use of time, no matter what else is going on.",
+  "effect": "Framing a brief personal practice as a legitimate use of time counters any guilt associated with taking time for oneself amid other obligations. She receives affirmation that self-care isn't a luxury to justify, but a valid priority on its own.",
+  "sectionTitle": "Post-its - Yoga Mat",
+  "predictable": "Personal practice time tends to get treated as optional or secondary rather than a genuine priority",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Unrolling this is a few minutes well spent, whatever else today involves.",
+   "This mat unrolling means you're giving yourself real time today. Good call, genuinely."
+  ]
+ },
+ {
+  "actionTitle": "On the mat's corner",
+  "text": "Whatever this session looks like today, showing up for it at all is the actual win here.",
+  "effect": "Emphasizing the act of showing up, rather than performance quality, removes pressure around achieving a particular standard during personal practice. She receives permission to have an imperfect or low-effort session without it counting as a failure.",
+  "sectionTitle": "Post-its - Yoga Mat",
+  "predictable": "Personal practice sessions get judged by performance rather than valued simply for happening",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "However today's session goes, showing up for it at all is the real accomplishment.",
+   "Doesn't matter what this looks like today. Showing up counts as the win, full stop."
+  ]
+ },
+ {
+  "actionTitle": "On the mat, folded edge",
+  "text": "This mat's held a lot of good, quiet moments. Today's about to be one more, whatever shape it takes.",
+  "effect": "Framing a personal practice space as accumulating meaningful history over time gives an ordinary object a sense of continuity. She experiences today's session as part of a longer pattern of self-care, rather than an isolated, disconnected moment.",
+  "sectionTitle": "Post-its - Yoga Mat",
+  "predictable": "Personal practice happens without any sense of accumulated history or continuity acknowledged",
+  "themes": [
+   "Care",
+   "Nostalgia",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This mat's seen plenty of good quiet moments already. Today adds one more to the list.",
+   "A lot of good moments have happened on this thing. Today's shaping up to be another one."
+  ]
+ },
+ {
+  "actionTitle": "Near the mat storage spot",
+  "text": "However often this gets used, every time counts as taking care of yourself. No minimum required.",
+  "effect": "Removing any implied threshold for how often a practice needs to happen validates inconsistent or infrequent use just as much as regular habits. She receives reassurance that self-care doesn't require a strict schedule to be considered legitimate or worthwhile.",
+  "sectionTitle": "Post-its - Yoga Mat",
+  "predictable": "Inconsistent use of a personal practice tends to be treated as less valid than a strict regular routine",
+  "themes": [
+   "Care",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "However often this gets used, each time still counts as real self-care. No quota to hit.",
+   "No minimum frequency required here. Every time this gets used, it counts for something."
+  ]
+ },
+ {
+  "actionTitle": "On the mat carrying strap",
+  "text": "Wherever this goes with you today, it's carrying a good habit along with it. Small thing, real impact.",
+  "effect": "Attaching sentiment to a functional carrying object elevates a routine transportation detail into a small compliment about her habits. She encounters unexpected affirmation tied to something as mundane as carrying gear, adding warmth to an otherwise purely practical action.",
+  "sectionTitle": "Post-its - Yoga Mat",
+  "predictable": "Carrying equipment for a personal practice stays purely functional, without any added sentiment",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Wherever this goes today, it's carrying a solid habit right along with it. Small thing, real impact.",
+   "This strap's doing double duty: carrying the mat, and carrying a genuinely good habit forward."
+  ]
  }
 ]

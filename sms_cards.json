@@ -7285,5 +7285,905 @@
    "Wondering what tonight would look like if you were actually here right now instead of just in my head.",
    "Idle late-night thought: tonight would be better if the distance between us wasn't a factor."
   ]
+ },
+ {
+  "actionTitle": "The proud-for-no-milestone text",
+  "text": "Not proud of you for any specific reason today. Just generally, persistently proud, as a baseline state.",
+  "effect": "Detaching pride from a specific achievement makes it feel like a constant disposition rather than a reaction contingent on performance. She receives affirmation that isn't earned through a particular success, which reduces any pressure to constantly achieve in order to be valued.",
+  "sectionTitle": "SMS - Proud Of You",
+  "predictable": "Pride tends to be expressed only in direct response to a specific achievement",
+  "themes": [
+   "Confidence",
+   "Tender",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "No specific reason for this, just a general, ongoing state of being proud of you.",
+   "Proud of you today, same as most days, for no particular reason beyond just being you."
+  ]
+ },
+ {
+  "actionTitle": "The proud of the process",
+  "text": "Not just proud of how things turned out, genuinely proud of how you handled the whole messy process getting there.",
+  "effect": "Praising the process, rather than only the outcome, values effort and resilience independent of results. She receives recognition for the parts of an experience that are usually invisible once a clean outcome is achieved.",
+  "sectionTitle": "SMS - Proud Of You",
+  "predictable": "Pride tends to focus on outcomes, with the process leading there going unmentioned",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Genuinely proud of the whole process, not just how it ended up.",
+   "The outcome's good, sure, but I'm actually more impressed by how you handled getting there."
+  ]
+ },
+ {
+  "actionTitle": "The proud in front of others energy",
+  "text": "If I haven't said it enough, I'm the person quietly bragging about you when you're not in the room.",
+  "effect": "Revealing that pride extends into conversations she's not present for demonstrates consistency between private and public regard. She learns her value is affirmed even when there's no audience to perform sincerity for, which adds credibility to the sentiment.",
+  "sectionTitle": "SMS - Proud Of You",
+  "predictable": "Pride tends to be expressed directly to her, rarely mentioned as happening behind her back",
+  "themes": [
+   "Confidence",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Quietly bragging about you to other people more often than you probably realize.",
+   "You'd be surprised how often your name comes up when I'm talking about things I'm proud of."
+  ]
+ },
+ {
+  "actionTitle": "The proud despite the mess",
+  "text": "Proud of you today specifically because things didn't go perfectly and you handled it well anyway.",
+  "effect": "Explicitly praising performance during an imperfect situation, rather than only during clean successes, values resilience under pressure. She receives recognition precisely when things go sideways, a moment usually associated with stress rather than affirmation.",
+  "sectionTitle": "SMS - Proud Of You",
+  "predictable": "Imperfect or messy days tend to go without any specific expression of pride",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Today wasn't perfect, and I'm still proud of exactly how you handled it.",
+   "Especially proud of you today, given that nothing about today went according to plan."
+  ]
+ },
+ {
+  "actionTitle": "The proud in advance",
+  "text": "Already proud of you for whatever's coming up, regardless of how it actually turns out.",
+  "effect": "Expressing pride before an outcome is known removes any conditionality tied to success or failure. She receives support that isn't contingent on results, which lowers the pressure around whatever she's about to face.",
+  "sectionTitle": "SMS - Proud Of You",
+  "predictable": "Pride tends to be reserved until after an outcome is known, rather than offered in advance",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Already proud of you for this, no matter which way it goes.",
+   "Whatever happens with this, the pride's already locked in beforehand."
+  ]
+ },
+ {
+  "actionTitle": "The tiny favor with a reason",
+  "text": "Small request: text me one good thing about your day whenever you get a second. Building a little collection.",
+  "effect": "Framing a small ask as contributing to an ongoing collection gives it purpose beyond the isolated request itself. She's invited into a small recurring ritual rather than a one-off task, which makes the request feel collaborative rather than demanding.",
+  "sectionTitle": "SMS - Small Requests",
+  "predictable": "Small requests tend to be one-off, without any larger recurring purpose attached",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Small ask: send me one good thing from today whenever you get a chance. Collecting them.",
+   "Tiny favor: one good moment from today, whenever it's convenient. No rush."
+  ]
+ },
+ {
+  "actionTitle": "The specific comfort request",
+  "text": "Small request for later: a hug that lasts longer than the usual two seconds. Specifically requesting the long kind.",
+  "effect": "Naming a specific, small preference rather than a vague general request removes ambiguity about what would actually feel good. She receives a clear, easy-to-fulfill ask, which is simpler to act on than an open-ended expression of need.",
+  "sectionTitle": "SMS - Small Requests",
+  "predictable": "Requests for physical comfort tend to stay vague rather than specifying exactly what's wanted",
+  "themes": [
+   "Tender",
+   "Playful",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Requesting a longer-than-usual hug later. The two-second kind doesn't count today.",
+   "Small specific request: the long hug, not the quick one. Just putting that on record now."
+  ]
+ },
+ {
+  "actionTitle": "The low-effort favor",
+  "text": "Tiny, zero-effort request: just think of me for one second at some point today. That's genuinely it.",
+  "effect": "Making the request so minimal that it costs nothing to fulfill removes any possible friction or burden. She receives an invitation to participate in something entirely low-stakes, which she can easily satisfy without any real effort.",
+  "sectionTitle": "SMS - Small Requests",
+  "predictable": "Requests tend to involve at least some effort, rather than being genuinely costless",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Zero-effort request: think of me for one second today. Genuinely that's the whole ask.",
+   "Small favor requiring nothing at all: just one passing thought about me sometime today."
+  ]
+ },
+ {
+  "actionTitle": "The playlist request",
+  "text": "Small request: send me one song you've had on repeat lately. Building my understanding of your current mood via playlist.",
+  "effect": "Asking for a specific, personal detail like a current favorite song invites insight into her internal state through an indirect, low-pressure channel. She shares something revealing about her mood or mindset without having to articulate it directly in words.",
+  "sectionTitle": "SMS - Small Requests",
+  "predictable": "Insight into her current mood or mindset tends to come only through direct conversation",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Intrigue"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Send me a song you've been playing on repeat lately. Research purposes, basically.",
+   "Small request: one song that's currently stuck in your head. Curious what it says about today."
+  ]
+ },
+ {
+  "actionTitle": "The future favor banked",
+  "text": "Not asking for anything right now, just letting you know I'm banking one small favor for later, redeemable whenever.",
+  "effect": "Announcing a future request in advance, without specifying it, builds light anticipation while committing to nothing immediate. She receives a playful heads-up rather than an actual demand, which keeps the interaction low-pressure while still promising something to come.",
+  "sectionTitle": "SMS - Small Requests",
+  "predictable": "Favors get requested directly and immediately, rather than announced in advance for later",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Banking a small favor for later, redeemable whenever I decide to actually ask for it.",
+   "No request right now, just a small favor on reserve for some future point. Stay tuned."
+  ]
+ },
+ {
+  "actionTitle": "The random destination thought",
+  "text": "Randomly looked up flights to somewhere neither of us has been today. No real plan, just enjoying the daydream.",
+  "effect": "Engaging in idle travel research without committing to an actual plan signals ongoing curiosity about shared future experiences, even in casual, low-stakes form. She perceives that travel remains an active interest between you, not just a topic revisited during formal planning sessions.",
+  "sectionTitle": "SMS - Travel Daydreams",
+  "predictable": "Travel gets discussed only during formal planning, not as casual daydreaming",
+  "themes": [
+   "Anticipation",
+   "Playful",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Spent ten minutes looking at flights to somewhere random today, purely for the daydream of it.",
+   "No actual plans, but I did just spend a while imagining a trip somewhere new with you."
+  ]
+ },
+ {
+  "actionTitle": "The someday itinerary addition",
+  "text": "Adding one more stop to the imaginary itinerary for our eventual big trip. The list keeps growing, which feels like a good sign.",
+  "effect": "Maintaining and expanding an imaginary itinerary treats a shared future trip as an ongoing, evolving project rather than a static, occasionally mentioned idea. She experiences continuity in a long-term shared dream, tracked and built upon rather than left static.",
+  "sectionTitle": "SMS - Travel Daydreams",
+  "predictable": "Future trip ideas get mentioned occasionally without ever being tracked or built upon",
+  "themes": [
+   "Anticipation",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "The imaginary itinerary for our eventual trip just got one stop longer. Good problem to have.",
+   "Added another destination to the ever-growing list for our someday trip together."
+  ]
+ },
+ {
+  "actionTitle": "The postcard-style text",
+  "text": "If this were an actual postcard from somewhere far away, it would say: wish you were here, thinking of you constantly.",
+  "effect": "Framing an ordinary text as a mock postcard from an imaginary trip introduces playful distance and longing into an otherwise routine message. She receives a small, creative twist on a standard sentiment, dressed up in the language of travel and distance even when none exists.",
+  "sectionTitle": "SMS - Travel Daydreams",
+  "predictable": "Everyday messages stay in their normal format, without any playful travel framing",
+  "themes": [
+   "Playful",
+   "Romantic",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pretend this is a postcard: wish you were here, having a wonderful time thinking about you.",
+   "Sending this as if from somewhere exotic: greetings, missing you, more soon."
+  ]
+ },
+ {
+  "actionTitle": "The travel bucket list check-in",
+  "text": "How's our travel bucket list looking these days? Wondering if it's time to actually move on one of those items.",
+  "effect": "Periodically revisiting a shared, long-term list demonstrates that it remains an active priority rather than a forgotten idea from the past. She perceives ongoing engagement with your collective ambitions, checked in on rather than left dormant indefinitely.",
+  "sectionTitle": "SMS - Travel Daydreams",
+  "predictable": "Long-term travel goals get discussed once and then rarely revisited afterward",
+  "themes": [
+   "Anticipation",
+   "Connection",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Checking in on our travel bucket list. Might be time to actually act on one of those.",
+   "Thinking it's time we revisit that travel list and actually pick something to plan for real."
+  ]
+ },
+ {
+  "actionTitle": "The imaginary morning abroad",
+  "text": "Imagining what our morning would look like if we woke up somewhere completely different right now. Probably better than my actual morning.",
+  "effect": "Contrasting an imagined alternate setting with the current, ordinary reality subtly elevates the appeal of a shared future without requiring any real plans. She receives a wistful, affectionate daydream that implicitly centers her as part of any imagined scenario worth having.",
+  "sectionTitle": "SMS - Travel Daydreams",
+  "predictable": "Ordinary mornings get experienced without any comparison to an imagined, different setting",
+  "themes": [
+   "Anticipation",
+   "Romantic",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Imagining a completely different morning somewhere else right now, with you obviously included.",
+   "My actual morning is fine, but the imaginary version of it somewhere far away is much better."
+  ]
+ },
+ {
+  "actionTitle": "The rain excuse",
+  "text": "It's raining and my only real complaint is that you're not here to make it feel cozy instead of just wet.",
+  "effect": "Attributing a neutral weather observation to her absence turns an unremarkable comment into a small, specific expression of wanting her present. She receives an implicit compliment about the effect her presence has, delivered through an indirect, low-pressure observation about something as ordinary as rain.",
+  "sectionTitle": "SMS - Weather Commentary",
+  "predictable": "Weather gets described neutrally, without connecting it to wanting her present",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Rainy today, and my only complaint is that it's not the cozy kind without you here.",
+   "It's raining. Would be better if you were here to make it feel like a good kind of rainy day."
+  ]
+ },
+ {
+  "actionTitle": "The sunny day thought",
+  "text": "Genuinely beautiful outside today, and my first thought was how much you'd enjoy being out in it right now.",
+  "effect": "Connecting favorable weather to a thought specifically about her enjoyment, rather than a generic observation, personalizes an otherwise mundane comment. She's reminded that pleasant experiences get filtered through thinking of her, even ones as small and ordinary as good weather.",
+  "sectionTitle": "SMS - Weather Commentary",
+  "predictable": "Nice weather gets noted without any connection to her or a thought about sharing it",
+  "themes": [
+   "Tender",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Beautiful day out there, and my first thought was genuinely how much you'd love being outside right now.",
+   "Gorgeous weather today. Wishing you were around to actually enjoy it with me."
+  ]
+ },
+ {
+  "actionTitle": "The storm check-in",
+  "text": "Storm's rolling in over here. Hope wherever you are, it's calmer, and that you're doing okay either way.",
+  "effect": "Using dramatic weather as a natural prompt for a genuine check-in adds emotional texture to a simple, practical message. She receives care wrapped in an observation about the external environment, which feels less formal than a direct 'how are you' but carries the same underlying concern.",
+  "sectionTitle": "SMS - Weather Commentary",
+  "predictable": "Bad weather gets mentioned without prompting any check-in on how she's doing",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Storm's picking up here. Hoping it's calmer wherever you are, and that you're doing alright.",
+   "Weather's getting dramatic on my end. Checking that you're doing okay, wherever you are."
+  ]
+ },
+ {
+  "actionTitle": "The seasonal weather nostalgia",
+  "text": "First properly cold day of the season, and it's making me nostalgic for all our winter routines already.",
+  "effect": "Linking a seasonal weather shift to nostalgia about recurring shared routines emphasizes anticipation for traditions specific to your relationship. She perceives that seasonal changes carry sentimental weight tied specifically to time spent together, not just an abstract shift in temperature.",
+  "sectionTitle": "SMS - Weather Commentary",
+  "predictable": "Seasonal weather changes get noted without any connection to shared routines or nostalgia",
+  "themes": [
+   "Nostalgia",
+   "Tender",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "First real cold snap of the season, and I'm already nostalgic for our usual winter routines.",
+   "Weather's turning, and it's got me thinking fondly about all our seasonal little rituals already."
+  ]
+ },
+ {
+  "actionTitle": "The weather-based compliment segue",
+  "text": "The forecast says clear skies today, which tracks, since you've been the sunniest part of my week regardless of the actual weather.",
+  "effect": "Using an unrelated, mundane topic like a weather forecast as a segue into a compliment adds a playful structure that makes the sentiment less direct and easier to deliver. She receives a compliment framed through an unexpected connection, which stands out more than a plain, unadorned statement.",
+  "sectionTitle": "SMS - Weather Commentary",
+  "predictable": "Compliments tend to be delivered directly, without any unrelated topic used as a segue",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Forecast says clear skies, which checks out, since you've been the brightest part of my week regardless.",
+   "Weather report: sunny. Also true regardless of actual weather: you've made this week better."
+  ]
+ },
+ {
+  "actionTitle": "The pre-event pep talk",
+  "text": "Before whatever's got you nervous today: you've prepared, you're capable, and you're going to be fine. Go get it.",
+  "effect": "Delivering a direct, confident statement right before a stressful event provides a concrete boost of encouragement at the moment it's most needed. She receives affirmation specifically timed to precede pressure, rather than reassurance offered only after the fact.",
+  "sectionTitle": "SMS - Cheerleader Mode",
+  "predictable": "Encouragement tends to arrive after an event rather than right before it, when it's most needed",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever's making you nervous today: you're ready, you're capable, go show them.",
+   "Before you head in today: you've got this, fully, no doubt about it from me."
+  ]
+ },
+ {
+  "actionTitle": "The reminder of past wins",
+  "text": "Remember that other time you were sure you couldn't handle something, and then you absolutely did? Same energy applies today.",
+  "effect": "Referencing a specific past success as evidence for present confidence grounds encouragement in real precedent rather than empty reassurance. She's reminded of her own demonstrated capability, using concrete history rather than a generic pep talk.",
+  "sectionTitle": "SMS - Cheerleader Mode",
+  "predictable": "Encouragement tends to be generic, without referencing specific past evidence of capability",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Nostalgia"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Remember that time you were sure you'd fail and then completely didn't? Same deal applies today.",
+   "You've done harder things than this and come out fine. Today's no exception."
+  ]
+ },
+ {
+  "actionTitle": "The unconditional support text",
+  "text": "Whatever happens today, good or bad, I'm firmly in your corner either way. That part's not up for negotiation.",
+  "effect": "Explicitly detaching support from outcome removes any implicit pressure to perform well in order to retain approval. She receives reassurance that backing isn't conditional on success, which can lower performance anxiety around the event itself.",
+  "sectionTitle": "SMS - Cheerleader Mode",
+  "predictable": "Support tends to feel implicitly tied to how well things go, rather than stated as unconditional",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Good outcome or bad, I'm on your side regardless. That's not changing based on today.",
+   "Whatever happens today, my support isn't conditional on the result. Just so that's clear."
+  ]
+ },
+ {
+  "actionTitle": "The confidence transfer",
+  "text": "Lending you some confidence for today, since I've apparently got plenty to spare when it comes to believing in you specifically.",
+  "effect": "Framing confidence as something transferable from you to her personalizes generic encouragement into something specific and playful. She receives support framed as an active resource being shared, rather than a passive statement of belief.",
+  "sectionTitle": "SMS - Cheerleader Mode",
+  "predictable": "Belief in her abilities tends to be stated passively rather than framed as something actively given",
+  "themes": [
+   "Confidence",
+   "Playful",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Sending over some spare confidence for today. I've got extra when it comes to believing in you.",
+   "Lending you my confidence in you today, since apparently I have plenty of it stockpiled."
+  ]
+ },
+ {
+  "actionTitle": "The after-the-fact celebration setup",
+  "text": "Whatever happens today, we're celebrating tonight regardless, because showing up and trying counts for plenty on its own.",
+  "effect": "Pre-committing to celebration independent of outcome removes the possibility that effort goes unmarked simply because results fall short. She experiences guaranteed recognition for participation itself, which values courage and effort over strictly measurable success.",
+  "sectionTitle": "SMS - Cheerleader Mode",
+  "predictable": "Celebration tends to be reserved for successful outcomes rather than guaranteed regardless of result",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Celebrating tonight no matter how today goes. Showing up counts for a lot on its own.",
+   "Whatever the outcome today, we're marking the effort tonight regardless. That part's decided already."
+  ]
+ },
+ {
+  "actionTitle": "The song that time-travels",
+  "text": "A song just came on that instantly took me back to an early version of us. Good trip down memory lane, thanks to nothing but a shuffled playlist.",
+  "effect": "Reporting an involuntary nostalgic reaction triggered by something as ordinary as a shuffled song demonstrates that shared history remains close to the surface of everyday life. She learns that ordinary moments continue to unexpectedly connect back to your shared past.",
+  "sectionTitle": "SMS - Nostalgia Triggers",
+  "predictable": "Nostalgic memories get triggered without ever being reported or shared in the moment",
+  "themes": [
+   "Nostalgia",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "A random song just took me straight back to early us. Unexpected but nice detour.",
+   "Shuffle just played something that time-traveled me straight back to the early days. Good one."
+  ]
+ },
+ {
+  "actionTitle": "The smell that brings it back",
+  "text": "Caught a specific smell just now that instantly reminded me of a really good day with you a while back. Strange how that works.",
+  "effect": "Scent-triggered memory is a particularly vivid and involuntary form of nostalgia, which makes the resulting message feel more genuine than a deliberate reminiscence. She learns that sensory details from shared history remain embedded deeply enough to resurface unexpectedly.",
+  "sectionTitle": "SMS - Nostalgia Triggers",
+  "predictable": "Scent-triggered memories tend to pass unmentioned, even when they connect back to shared history",
+  "themes": [
+   "Nostalgia",
+   "Sensory",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "A random smell just brought back a whole good memory of us. Funny how that works.",
+   "Caught a specific scent that instantly time-traveled me to a good day with you. Strange and nice."
+  ]
+ },
+ {
+  "actionTitle": "The old inside joke resurfacing",
+  "text": "Just remembered our old joke about [that thing], completely out of nowhere. Still holds up, for the record.",
+  "effect": "Reviving a dormant inside joke without prompting proves that shared humor from earlier in the relationship remains active in memory rather than fully retired. She's reminded of a specific piece of your shared history that continues to have staying power.",
+  "sectionTitle": "SMS - Nostalgia Triggers",
+  "predictable": "Old inside jokes tend to fade completely once they stop getting actively referenced",
+  "themes": [
+   "Nostalgia",
+   "Playful",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Randomly remembered our old joke just now. Still funny, still holds up completely.",
+   "That old joke of ours just resurfaced in my head out of nowhere. Still a classic."
+  ]
+ },
+ {
+  "actionTitle": "The anniversary of something small",
+  "text": "Just realized it's been roughly this long since [small memorable thing]. Not a real anniversary, but it felt worth noting anyway.",
+  "effect": "Marking an unofficial, self-invented anniversary demonstrates that meaningful moments get tracked even without formal calendar significance. She learns that small, personal milestones in your history are noticed and counted, not just the officially recognized ones.",
+  "sectionTitle": "SMS - Nostalgia Triggers",
+  "predictable": "Only formally recognized anniversaries get acknowledged, with smaller personal ones going untracked",
+  "themes": [
+   "Nostalgia",
+   "Romantic",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Realized it's been about this long since that one memorable thing. Not official, but worth noting.",
+   "Small, unofficial anniversary today of something that mattered. Just wanted to mark it."
+  ]
+ },
+ {
+  "actionTitle": "The old photo resurfacing",
+  "text": "My camera roll just resurfaced an old photo of us and I got distracted staring at it longer than I meant to.",
+  "effect": "Admitting to being unexpectedly absorbed by an old photo demonstrates genuine, involuntary sentimentality rather than a deliberate gesture of nostalgia. She learns that visual reminders of shared history still hold real emotional pull, well after the original moment has passed.",
+  "sectionTitle": "SMS - Nostalgia Triggers",
+  "predictable": "Old photos resurface occasionally without prompting any real pause or reflection",
+  "themes": [
+   "Nostalgia",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "An old photo of us just popped up and I got stuck staring at it way longer than planned.",
+   "My camera roll just threw an old photo at me and derailed my whole train of thought, in a good way."
+  ]
+ },
+ {
+  "actionTitle": "The real answer requested",
+  "text": "Skip the automatic 'I'm fine' for a second. How are you actually doing today, genuinely?",
+  "effect": "Explicitly bypassing the reflexive, socially automatic answer invites a more honest response than the default social script typically produces. She's given clear permission to answer truthfully rather than performing the expected reassurance.",
+  "sectionTitle": "SMS - Honest Check-ins",
+  "predictable": "Check-ins tend to accept the automatic 'I'm fine' response without pushing past it",
+  "themes": [
+   "Care",
+   "Vulnerability",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Skipping past the automatic 'fine' — how are you actually doing today, really?",
+   "Real answer only, please: how's today actually going for you, underneath the surface version?"
+  ]
+ },
+ {
+  "actionTitle": "The stress-level check",
+  "text": "On a scale that means nothing official, how stressed are you right now? Just trying to get an honest read.",
+  "effect": "Framing an emotional check-in as a rough, informal scale lowers the pressure to produce a fully articulate answer while still inviting real disclosure. She can respond with something as simple as a number, which is often easier than generating a full explanation of how she's feeling.",
+  "sectionTitle": "SMS - Honest Check-ins",
+  "predictable": "Stress levels tend to go unasked about directly, inferred instead from behavior or mood",
+  "themes": [
+   "Care",
+   "Vulnerability",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Completely unofficial scale, but how stressed are you right now, honestly?",
+   "Rough read requested: stress level today, on whatever scale makes sense to you."
+  ]
+ },
+ {
+  "actionTitle": "The permission to not be okay",
+  "text": "If today's not actually a good day, that's completely fine to say. No need to perform otherwise for my benefit.",
+  "effect": "Explicitly granting permission to admit to a bad day removes any implicit social pressure to appear consistently positive. She receives an invitation to be honest about difficulty, rather than feeling obligated to manage your perception of her.",
+  "sectionTitle": "SMS - Honest Check-ins",
+  "predictable": "Difficult days tend to get minimized or hidden rather than openly acknowledged",
+  "themes": [
+   "Vulnerability",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "If today's genuinely rough, that's completely okay to say. No performance necessary here.",
+   "It's fine if today's not a good one. No need to put on a brave face for my sake."
+  ]
+ },
+ {
+  "actionTitle": "The what's-actually-on-your-mind text",
+  "text": "Not the surface-level update, the actual thing that's been sitting in the back of your mind today. What is it?",
+  "effect": "Explicitly asking for the underlying concern, rather than the routine daily update, invites a deeper, more specific level of disclosure. She's prompted to name something she might not have volunteered without a direct, targeted question.",
+  "sectionTitle": "SMS - Honest Check-ins",
+  "predictable": "Conversations tend to stay at the level of surface updates rather than probing for the underlying concern",
+  "themes": [
+   "Vulnerability",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Not the surface update, the actual thing sitting in the back of your mind. What is it?",
+   "Skipping the small talk version: what's actually been on your mind today, underneath everything else?"
+  ]
+ },
+ {
+  "actionTitle": "The honest relationship check-in",
+  "text": "No specific issue prompting this, just checking in honestly: how are you feeling about us lately, genuinely?",
+  "effect": "Initiating an open-ended relationship check-in, without a triggering incident, demonstrates proactive care rather than reactive damage control. She's invited to share genuine feedback in a low-stakes moment, rather than only during moments of visible tension.",
+  "sectionTitle": "SMS - Honest Check-ins",
+  "predictable": "Relationship check-ins tend to happen only in response to a specific issue or tension",
+  "themes": [
+   "Vulnerability",
+   "Communication",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "No particular reason, just checking in honestly: how are you feeling about us these days?",
+   "Genuine question, no hidden agenda: how do you feel about where things are with us lately?"
+  ]
+ },
+ {
+  "actionTitle": "The overheard absurdity",
+  "text": "Just overheard the strangest conversation between two strangers and immediately thought you'd appreciate the sheer randomness of it.",
+  "effect": "Sharing an overheard, unrelated moment of absurdity demonstrates that her sense of humor stays present in your mind even during unrelated daily activity. She receives a small, entertaining update from your day, chosen specifically because it felt like something she'd enjoy.",
+  "sectionTitle": "SMS - Silly Observations",
+  "predictable": "Random amusing moments from the day tend to go unshared, forgotten by the time you're together",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Overheard the weirdest exchange between two strangers just now. You'd have loved the randomness of it.",
+   "Witnessed something bizarre in public just now. Thought of you immediately, obviously."
+  ]
+ },
+ {
+  "actionTitle": "The pointless but delightful fact",
+  "text": "Just learned a completely useless fact that has zero relevance to anything, and yet here I am, compelled to share it with you specifically.",
+  "effect": "Sharing an entirely impractical piece of trivia, purely for its own sake, signals that she's the default recipient for small moments of delight regardless of their usefulness. She receives an unnecessary but charming message that exists purely because sharing it with her felt natural.",
+  "sectionTitle": "SMS - Silly Observations",
+  "predictable": "Random useless facts tend to be enjoyed privately rather than shared with anyone",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Learned a totally useless fact just now, and somehow you were the first person I wanted to tell.",
+   "Zero practical value, but I just learned something oddly delightful and needed to share it with you."
+  ]
+ },
+ {
+  "actionTitle": "The weird food combination confession",
+  "text": "Confession: just ate an objectively strange food combination and regret nothing. Judgment welcome upon your return.",
+  "effect": "Reporting a small, harmless idiosyncrasy with self-aware humor invites her into a playful, low-stakes moment of your day. She's given something amusing and specific to respond to, which is easier and more inviting than a vague update.",
+  "sectionTitle": "SMS - Silly Observations",
+  "predictable": "Small personal quirks and habits tend to go unmentioned, kept private by default",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Just ate a genuinely strange food combination. Zero regrets. Judge me later if you must.",
+   "Confession: today's lunch was an odd combination and I'd absolutely do it again."
+  ]
+ },
+ {
+  "actionTitle": "The unexpected talent discovery",
+  "text": "Discovered today that I'm apparently decent at a completely random skill I never knew about. The world is full of surprises, apparently.",
+  "effect": "Sharing a small, unexpected personal discovery invites her into your ongoing sense of curiosity about yourself. She receives a lighthearted update that has nothing to do with obligations or plans, purely existing for shared amusement.",
+  "sectionTitle": "SMS - Silly Observations",
+  "predictable": "Small personal discoveries about yourself tend to go unmentioned rather than shared for fun",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Turns out I'm weirdly decent at a random skill I never knew about. The surprises keep coming.",
+   "Discovered an unexpected talent today, completely by accident. Life's full of surprises, apparently."
+  ]
+ },
+ {
+  "actionTitle": "The mundane victory report",
+  "text": "Small victory report: successfully completed an extremely boring task today without procrastinating even once. Please hold your applause.",
+  "effect": "Reporting a minor personal achievement with mock formality turns an ordinary accomplishment into a small, shared joke. She receives a lighthearted update that invites a playful response, rather than a serious status report.",
+  "sectionTitle": "SMS - Silly Observations",
+  "predictable": "Small personal victories over boring tasks tend to go unreported and uncelebrated",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Small victory: finished a genuinely boring task today without procrastinating once. Hold your applause.",
+   "Minor achievement unlocked today: actually did the boring thing without delay. Celebrate accordingly."
+  ]
+ },
+ {
+  "actionTitle": "The Wednesday hump-day boost",
+  "text": "Officially past the halfway point of the week. The weekend's getting closer, and so is more time with you.",
+  "effect": "Marking the midpoint of the week with a positive reframe turns a commonly dreaded moment (hump day) into a small milestone of anticipation. She receives encouragement tied to a specific, recognizable point in the week rather than a generic pick-me-up.",
+  "sectionTitle": "SMS - Countdown To Weekend",
+  "predictable": "The midpoint of the workweek passes without being marked as a positive milestone",
+  "themes": [
+   "Anticipation",
+   "Care",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Halfway through the week, officially. Getting closer to more time together, one day at a time.",
+   "Hump day cleared. Weekend's within reach now, and so is actual time together."
+  ]
+ },
+ {
+  "actionTitle": "The weekend plan tease",
+  "text": "Not giving details yet, but I've got something in mind for this weekend that I think you're going to like.",
+  "effect": "Announcing an unspecified plan builds anticipation while withholding details, keeping curiosity active through the remaining workdays. She experiences the week's remaining stretch colored by pleasant anticipation rather than simply counting down toward an empty weekend.",
+  "sectionTitle": "SMS - Countdown To Weekend",
+  "predictable": "Weekend plans tend to be announced in full detail as soon as they're decided, with no buildup",
+  "themes": [
+   "Anticipation",
+   "Playful",
+   "Mysterious"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "No details yet, but I've got a plan for this weekend that I think you'll genuinely like.",
+   "Something's in the works for the weekend. Keeping the details under wraps for now, on purpose."
+  ]
+ },
+ {
+  "actionTitle": "The Friday finish line",
+  "text": "Almost there. One more push and the weekend's officially ours, no work-brain required for two whole days.",
+  "effect": "Framing the end of the workweek as a shared finish line reinforces that the coming rest applies to both of you jointly, not separately. She receives encouragement through the final stretch, along with an explicit reminder of what's waiting on the other side.",
+  "sectionTitle": "SMS - Countdown To Weekend",
+  "predictable": "The final workday of the week passes without any specific acknowledgment of the finish line ahead",
+  "themes": [
+   "Anticipation",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Almost at the finish line. One more stretch and the weekend's fully ours.",
+   "Final push of the week. Weekend's basically in sight now, no work-brain required after this."
+  ]
+ },
+ {
+  "actionTitle": "The Sunday-scaries preemptive strike",
+  "text": "Getting ahead of any Sunday dread early: whatever next week holds, we're facing it together, same as always.",
+  "effect": "Proactively addressing anticipated end-of-weekend anxiety before it fully sets in offers reassurance ahead of a predictable low point. She receives support timed specifically to counter a common source of dread, rather than reactive comfort only after it's already taken hold.",
+  "sectionTitle": "SMS - Countdown To Weekend",
+  "predictable": "End-of-weekend anxiety tends to be addressed only after it's already fully set in, if at all",
+  "themes": [
+   "Care",
+   "Connection",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Getting ahead of any Sunday dread: whatever next week brings, we're handling it together.",
+   "Preemptive reminder before the Sunday scaries hit: next week's a team effort, like always."
+  ]
+ },
+ {
+  "actionTitle": "The weekend recap request",
+  "text": "Best part of this weekend for you? Trying to figure out what to build more of into the next one.",
+  "effect": "Asking for specific feedback about the weekend just passed treats leisure time as something worth actively improving, not just passively experienced. She's invited to reflect on and articulate what actually worked, which helps shape future plans around her genuine preferences.",
+  "sectionTitle": "SMS - Countdown To Weekend",
+  "predictable": "Weekends pass without any follow-up conversation about what specifically worked well",
+  "themes": [
+   "Connection",
+   "Care",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "What was the best part of this weekend for you? Trying to build more of that into next time.",
+   "Weekend recap question: what stood out most? Taking notes for future planning purposes."
+  ]
+ },
+ {
+  "actionTitle": "The unglamorous effort acknowledged",
+  "text": "Noticed the unglamorous work you put in today that nobody else probably clocked. I clocked it.",
+  "effect": "Specifically naming invisible, unrewarded effort demonstrates attentiveness beyond what's publicly visible or praised by others. She receives recognition for labor that typically goes entirely unacknowledged, precisely because it isn't showy.",
+  "sectionTitle": "SMS - Effort Noticed",
+  "predictable": "Unglamorous, behind-the-scenes effort tends to go completely unacknowledged by anyone",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Noticed the invisible work today that probably nobody else saw. I saw it, for what it's worth.",
+   "That unglamorous effort today didn't go unnoticed, even if nobody else mentioned it."
+  ]
+ },
+ {
+  "actionTitle": "The consistency called out",
+  "text": "Not the flashy stuff, just noticing how consistently you show up day after day. That's actually the impressive part.",
+  "effect": "Praising consistency over dramatic achievement values sustained reliability, a quality easy to overlook precisely because it lacks a single standout moment. She receives recognition for an ongoing pattern rather than an isolated instance of success.",
+  "sectionTitle": "SMS - Effort Noticed",
+  "predictable": "Consistency over time tends to go unmentioned in favor of praising specific standout moments",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Not the big moments, just noticing how consistently you show up. That's the actually impressive part.",
+   "Your consistency day after day doesn't get enough credit. Consider this the credit."
+  ]
+ },
+ {
+  "actionTitle": "The effort behind the easy-looking thing",
+  "text": "That thing you make look effortless? Noticing the actual effort behind it today. It's not nothing.",
+  "effect": "Acknowledging the hidden labor behind something that appears effortless counters the tendency for skill to be mistaken for ease. She receives credit for work disguised by her own competence, work that's easy to underestimate precisely because she makes it look simple.",
+  "sectionTitle": "SMS - Effort Noticed",
+  "predictable": "Things that look effortless tend to have their underlying effort go completely unrecognized",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Compliment"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "That thing you make look easy? Noticing the real effort behind it today. It's genuinely not nothing.",
+   "You make a lot of hard things look simple. Today I'm actually noticing the effort part."
+  ]
+ },
+ {
+  "actionTitle": "The extra mile noted",
+  "text": "You went further than you needed to on that today. Didn't have to, but did anyway. Noted and appreciated.",
+  "effect": "Highlighting a case where she exceeded the minimum expected effort distinguishes genuine initiative from mere obligation. She receives specific recognition for a choice she made that went beyond what was strictly required.",
+  "sectionTitle": "SMS - Effort Noticed",
+  "predictable": "Going beyond what's strictly required tends to go unmentioned, absorbed into general expectations",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Compliment"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "You went further than necessary on that today. Didn't have to, but you did. Genuinely noted.",
+   "That extra effort today wasn't required, but you put it in anyway. Appreciated, sincerely."
+  ]
+ },
+ {
+  "actionTitle": "The tired-but-still-showed-up recognition",
+  "text": "Know you were running on empty today and still showed up fully anyway. That's worth pointing out directly.",
+  "effect": "Recognizing effort made despite depleted energy honors the difficulty of following through even when motivation or resources are low. She receives credit for resilience under difficult internal conditions, not just for results achieved under ideal ones.",
+  "sectionTitle": "SMS - Effort Noticed",
+  "predictable": "Effort made while running low on energy tends to go unacknowledged, treated the same as effort made easily",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Know you were running on fumes today and still fully showed up. That deserves a direct mention.",
+   "You were clearly exhausted today and still gave it real effort. Worth saying out loud."
+  ]
  }
 ]

@@ -8907,5 +8907,905 @@
    "Set a hard packing limit of ten minutes each, to keep the spontaneity real.",
    "Pick the destination together on the drive itself, deciding as you go."
   ]
+ },
+ {
+  "actionTitle": "The full sick-day takeover",
+  "text": "The moment she says she's not feeling well, take over everything for the day: meals, errands, the remote, without her having to ask for any of it.",
+  "effect": "Acting immediately, before she has to request help, removes the extra effort of asking while already unwell. She experiences total relief from decision-making on a day when even small choices feel like too much.",
+  "sectionTitle": "Sick Day Care",
+  "predictable": "Being sick means she still handles most of her own day-to-day logistics",
+  "themes": [
+   "Care",
+   "Tender",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Start with just meals and let her tell you what else she needs as the day goes on.",
+   "Set up a small station by the couch with everything she might need within reach."
+  ]
+ },
+ {
+  "actionTitle": "The symptom-specific care package",
+  "text": "Instead of a generic 'get well soon' gesture, build a small care package around her actual symptoms: the right tea, the right snack, the right show.",
+  "effect": "Tailoring comfort items to her specific complaints, rather than a generic sick-day kit, shows attentiveness to what she's actually experiencing. She receives care that matches her real needs instead of a default gesture applied to any illness.",
+  "sectionTitle": "Sick Day Care",
+  "predictable": "Sick-day comfort items tend to be generic, the same regardless of the actual symptoms",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ask one clarifying question about what actually feels bad before assembling anything.",
+   "Include one slightly excessive comfort item, just to make her smile despite feeling rough."
+  ]
+ },
+ {
+  "actionTitle": "The temperature check without hovering",
+  "text": "Check in on how she's feeling at set intervals through the day, briefly, without lingering or making her feel watched.",
+  "effect": "Brief, spaced-out check-ins respect her need for rest while still communicating ongoing attention. She experiences being looked after without the additional fatigue of managing a hovering presence.",
+  "sectionTitle": "Sick Day Care",
+  "predictable": "Check-ins during illness tend to be either constant or entirely absent, rarely well-paced",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep each check-in under a minute, just enough to ask and adjust if needed.",
+   "Use a quiet knock and a short question rather than fully entering and staying each time."
+  ]
+ },
+ {
+  "actionTitle": "The recovery playlist or show queue",
+  "text": "Quietly queue up a full afternoon of easy, comforting shows or music suited to doing absolutely nothing, ready before she even asks.",
+  "effect": "Pre-selecting low-effort entertainment removes the small but real task of choosing something to watch while unwell. She receives an afternoon already set up for rest, without the friction of decision fatigue.",
+  "sectionTitle": "Sick Day Care",
+  "predictable": "Choosing something to watch or listen to while sick happens on her own, as an extra task",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pick her established comfort show rather than something new that requires attention.",
+   "Leave the queue ready but let her choose freely from it rather than deciding for her."
+  ]
+ },
+ {
+  "actionTitle": "The next-day thoughtfulness",
+  "text": "The day after she's sick, don't just return to normal — check in on how she's actually recovering and ease her back into things gently.",
+  "effect": "Extending care into the recovery period, rather than treating the sick day as a single isolated event, acknowledges that illness doesn't end cleanly overnight. She experiences continued attentiveness precisely when she might be expected to just resume normal duties.",
+  "sectionTitle": "Sick Day Care",
+  "predictable": "The day after being sick returns immediately to normal routines and expectations",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Offer to keep handling one task she'd normally do herself for one more day.",
+   "Simply ask how she's actually feeling rather than assuming she's back to full strength."
+  ]
+ },
+ {
+  "actionTitle": "The first-snow (or first-heat) ritual",
+  "text": "Pick a small, specific ritual for the very first sign of a season changing, something you do every single year without fail.",
+  "effect": "A recurring, season-triggered ritual creates an annual touchpoint that accumulates meaning with repetition over years. She experiences a tradition uniquely yours, marking time in a way that outside calendars and holidays don't capture.",
+  "sectionTitle": "Seasonal Traditions",
+  "predictable": "Seasonal changes pass without any specific shared ritual marking them",
+  "themes": [
+   "Connection",
+   "Nostalgia",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep the ritual small enough to do spontaneously, like a specific walk or drink.",
+   "Take a quick photo each year to build a simple, evolving record of the tradition."
+  ]
+ },
+ {
+  "actionTitle": "The seasonal menu tradition",
+  "text": "Establish one dish that only gets made together at the start of a specific season, becoming a small anchor point in the yearly calendar.",
+  "effect": "Tying a specific dish to a specific season, prepared jointly, creates a recurring shared activity with a natural, built-in prompt. She experiences an annual cooking ritual that requires no separate planning, since the season itself is the reminder.",
+  "sectionTitle": "Seasonal Traditions",
+  "predictable": "Meals get chosen without any connection to the changing seasons or yearly rhythm",
+  "themes": [
+   "Connection",
+   "Nostalgia",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Let the recipe evolve slightly each year, keeping a rough log of the changes.",
+   "Pair the meal with a specific song or activity to build a fuller seasonal ritual."
+  ]
+ },
+ {
+  "actionTitle": "The end-of-season debrief",
+  "text": "At the close of each season, spend one evening reflecting together on the highlights, without turning it into a chore or formal review.",
+  "effect": "A casual, recurring reflection at natural calendar boundaries turns the passage of time into something consciously marked rather than simply endured. She experiences deliberate closure on each chapter of the year, which most people let slide by unexamined.",
+  "sectionTitle": "Seasonal Traditions",
+  "predictable": "The passage of seasons happens without any shared reflection on what the months held",
+  "themes": [
+   "Connection",
+   "Nostalgia",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep it to three highlights each, nothing more elaborate than that.",
+   "Do it somewhere seasonal and fitting, like outside in summer or by a fire in winter."
+  ]
+ },
+ {
+  "actionTitle": "The holiday you invent together",
+  "text": "Pick an entirely made-up holiday, on a date that means something only to the two of you, and mark it every year with a small, consistent gesture.",
+  "effect": "Inventing a private holiday, unrecognized by any calendar, builds a tradition entirely owned by the two of you rather than borrowed from culture at large. She experiences a celebration with meaning constructed specifically around your shared history, not inherited from outside.",
+  "sectionTitle": "Seasonal Traditions",
+  "predictable": "Celebrations follow only the standard, externally defined calendar of holidays",
+  "themes": [
+   "Connection",
+   "Romantic",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pick a date connected to a specific shared memory, however small.",
+   "Keep the yearly gesture simple and repeatable, so it's easy to sustain long-term."
+  ]
+ },
+ {
+  "actionTitle": "The seasonal photo tradition",
+  "text": "Take the same style of photo together at the start of each season, in the same spot if possible, building a simple visual timeline over the years.",
+  "effect": "A consistent, repeated photo format across seasons creates a visual record of change and continuity that's rarely captured deliberately. She experiences the accumulation of a tangible, growing archive of your relationship's passage through time.",
+  "sectionTitle": "Seasonal Traditions",
+  "predictable": "Photos get taken randomly, without any consistent seasonal format or comparison over time",
+  "themes": [
+   "Nostalgia",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pick a simple, repeatable pose or framing so the comparison stays clean over the years.",
+   "Compile the photos into a small yearly collage once you've built up a few seasons' worth."
+  ]
+ },
+ {
+  "actionTitle": "The no-spend day challenge",
+  "text": "Pick a random day and challenge each other to spend absolutely nothing, turning it into a light game rather than a strict rule.",
+  "effect": "Framing a financial discipline exercise as a game, rather than a restriction, makes it easier to sustain and actually enjoy together. She experiences money management as a shared, low-stakes challenge instead of an individual source of guilt or pressure.",
+  "sectionTitle": "Money Mindset Together",
+  "predictable": "Spending habits get managed individually, without any shared challenge or game attached",
+  "themes": [
+   "Connection",
+   "Confidence",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Add a small reward for both of you if you make it through the day successfully.",
+   "Try it once a month, turning it into a recurring, low-pressure habit rather than a one-off."
+  ]
+ },
+ {
+  "actionTitle": "The guilt-free purchase fund",
+  "text": "Set up a small joint fund specifically for occasional guilt-free purchases, so spending on something fun doesn't require justification.",
+  "effect": "Pre-allocating money specifically for enjoyment removes the friction and guilt often attached to discretionary spending within a relationship. She experiences a system that supports occasional indulgence rather than constantly scrutinizing every non-essential purchase.",
+  "sectionTitle": "Money Mindset Together",
+  "predictable": "Non-essential purchases get made individually, sometimes with unspoken guilt attached",
+  "themes": [
+   "Connection",
+   "Care",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep the amount modest but consistent, contributed to on a regular schedule.",
+   "Let each of you spend from it without needing to explain or justify the purchase."
+  ]
+ },
+ {
+  "actionTitle": "The financial win celebration",
+  "text": "The next time you hit any small financial goal together, actually celebrate it properly instead of just moving on to the next target.",
+  "effect": "Pausing to celebrate a milestone, rather than immediately shifting focus to the next goal, reinforces that progress deserves acknowledgment, not just pursuit. She experiences validation for effort already made, rather than a relentless focus on what's still ahead.",
+  "sectionTitle": "Money Mindset Together",
+  "predictable": "Financial goals get replaced by new ones the moment they're reached, without pause",
+  "themes": [
+   "Connection",
+   "Confidence",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep the celebration proportional and modest, so it doesn't undercut the goal itself.",
+   "Mark the moment with something memorable but low-cost, like a special dinner at home."
+  ]
+ },
+ {
+  "actionTitle": "The values-based budget talk",
+  "text": "Instead of a strictly numbers-based budget conversation, talk about what you each actually value spending money on, and build from there.",
+  "effect": "Starting from shared values rather than pure numbers reframes budgeting as an expression of priorities rather than a restrictive exercise. She experiences a conversation about what genuinely matters to each of you, which tends to produce more sustainable agreements than a purely mechanical budget.",
+  "sectionTitle": "Money Mindset Together",
+  "predictable": "Budget conversations focus purely on numbers, without discussing underlying values",
+  "themes": [
+   "Connection",
+   "Communication",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Each name your top three spending priorities before comparing notes.",
+   "Revisit the conversation every few months, since values can shift over time."
+  ]
+ },
+ {
+  "actionTitle": "The money worry shared out loud",
+  "text": "Next time a financial worry is weighing on you, say it out loud to her instead of carrying it alone until it becomes a bigger issue.",
+  "effect": "Voicing a financial concern early, rather than privately managing it until it escalates, invites shared problem-solving before pressure builds. She's given the chance to be a genuine partner in navigating stress, rather than being informed only once a decision has already been made under strain.",
+  "sectionTitle": "Money Mindset Together",
+  "predictable": "Financial worries tend to be managed privately until they become urgent enough to require discussion",
+  "themes": [
+   "Vulnerability",
+   "Connection",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Share the worry as a feeling first, before jumping straight to numbers and solutions.",
+   "Ask directly whether she wants to problem-solve together or just hear about it for now."
+  ]
+ },
+ {
+  "actionTitle": "The foreign film night",
+  "text": "Pick a film from a country neither of you has explored through cinema before, and watch it together without checking reviews first.",
+  "effect": "Choosing an unfamiliar cinematic culture without pre-vetting through reviews invites genuine, unfiltered discovery rather than a curated, risk-free choice. She experiences an evening built around real exploration, with an outcome neither of you can predict in advance.",
+  "sectionTitle": "Cultural Exploration",
+  "predictable": "Movie choices default to familiar genres and countries, filtered through reviews first",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pick the country by spinning a globe or closing your eyes on a map.",
+   "Follow the film with a short conversation about what felt unfamiliar or surprising."
+  ]
+ },
+ {
+  "actionTitle": "The language phrase of the week",
+  "text": "Pick a language neither of you speaks and learn five useful phrases together each week, just for the fun of it.",
+  "effect": "Learning a new skill jointly, with no practical necessity behind it, frames the activity as pure shared curiosity rather than a goal-driven task. She experiences a low-stakes, ongoing project that builds a tiny shared vocabulary exclusive to the two of you.",
+  "sectionTitle": "Cultural Exploration",
+  "predictable": "New skills or languages get picked up individually, if at all, without a shared project",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Test each other playfully at the end of the week, with a small reward for whoever remembers more.",
+   "Pick phrases that are genuinely useful for a potential future trip together."
+  ]
+ },
+ {
+  "actionTitle": "The cuisine passport project",
+  "text": "Commit to cooking one dish from a different country's cuisine every month, treating it as a small ongoing culinary passport.",
+  "effect": "Framing recurring culinary experimentation as a collective 'passport' project gives it a sense of accumulation and progress over time. She experiences a recurring source of novelty in an area, cooking, that easily falls into repetitive habits otherwise.",
+  "sectionTitle": "Cultural Exploration",
+  "predictable": "Cooking stays within a familiar, repeated rotation of dishes and cuisines",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep a simple running list of the cuisines you've tried, to track progress over the year.",
+   "Pick countries in a rough order, like alphabetically, to keep the selection genuinely random."
+  ]
+ },
+ {
+  "actionTitle": "The museum or exhibit detour",
+  "text": "Next time you're near a museum or cultural exhibit neither of you has been to, go in on a whim, even for just twenty minutes.",
+  "effect": "Acting on a spontaneous cultural opportunity, rather than planning it formally in advance, treats curiosity as worth acting on immediately. She experiences an unplanned moment of shared learning woven into an otherwise ordinary outing, rather than a separately scheduled cultural event.",
+  "sectionTitle": "Cultural Exploration",
+  "predictable": "Cultural outings get planned formally in advance rather than happening spontaneously",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Set a loose twenty-minute limit so the detour doesn't feel like a big commitment.",
+   "Each pick one thing inside that genuinely interests you and explain why to the other."
+  ]
+ },
+ {
+  "actionTitle": "The cultural documentary swap",
+  "text": "Each pick a documentary about a culture or history you know little about, then watch and discuss both together over the following week.",
+  "effect": "Individually selecting unfamiliar documentaries, then discussing them together, exposes both of you to different areas of curiosity chosen independently. She encounters your specific interests reflected in your choice, and gets to introduce you to something she finds genuinely compelling in return.",
+  "sectionTitle": "Cultural Exploration",
+  "predictable": "Documentaries and learning material get consumed individually, without follow-up discussion",
+  "themes": [
+   "Connection",
+   "Communication",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep each pick under an hour to make the commitment easy to follow through on.",
+   "Write down one fact each that surprised you, to share before diving into full discussion."
+  ]
+ },
+ {
+  "actionTitle": "The phone-free nature hour",
+  "text": "Spend one full hour outside together with phones left behind entirely, no photos, no tracking, just being present in the space.",
+  "effect": "Removing the option to document or check devices forces full sensory attention on the immediate environment rather than mediated experience. She experiences an hour of undivided presence in nature, a rarer occurrence than it should be given how normalized constant documentation has become.",
+  "sectionTitle": "Nature Reset",
+  "predictable": "Time outdoors happens with phones present, used for photos or periodic checking",
+  "themes": [
+   "Connection",
+   "Care",
+   "Sensory"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Start with just twenty minutes if a full hour feels like too much of a stretch.",
+   "Pick a specific natural feature, like a tree or a view, to sit with for the full time."
+  ]
+ },
+ {
+  "actionTitle": "The stargazing detour",
+  "text": "On a clear night, step outside together for ten minutes just to look at the sky, no plan beyond that.",
+  "effect": "A brief, unplanned pause to observe something as vast and indifferent as the night sky offers perspective that ordinary indoor evenings rarely provide. She experiences a small moment of shared awe, requiring no equipment or preparation beyond stepping outside.",
+  "sectionTitle": "Nature Reset",
+  "predictable": "Evenings stay entirely indoors, with no pause to notice the sky or outdoor surroundings",
+  "themes": [
+   "Connection",
+   "Romantic",
+   "Sensory"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Bring a blanket to sit on if the ground or weather allows for it.",
+   "Try to name one constellation or star together, even with limited knowledge."
+  ]
+ },
+ {
+  "actionTitle": "The barefoot grass moment",
+  "text": "Somewhere safe and grassy, spend a few minutes standing or walking barefoot together, just for the sensory novelty of it.",
+  "effect": "A brief, unusual sensory experience like walking barefoot outdoors interrupts routine physical sensations in a way that's memorable precisely because it's rare. She experiences a small, playful break from ordinary physical habits, shared rather than solitary.",
+  "sectionTitle": "Nature Reset",
+  "predictable": "Time spent outdoors stays fully shod and conventional, without any sensory novelty introduced",
+  "themes": [
+   "Playful",
+   "Sensory",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep it brief if the ground isn't especially comfortable, a minute or two is enough.",
+   "Do it right after rain, when the grass has a distinctly different texture and smell."
+  ]
+ },
+ {
+  "actionTitle": "The weekly outdoor reset",
+  "text": "Pick one fixed time each week, rain or shine within reason, to step outside together for at least fifteen minutes, treating it as non-negotiable.",
+  "effect": "A scheduled, recurring outdoor block protects against the tendency for indoor routines to fully absorb the week without any deliberate break. She experiences a reliable, protected pocket of fresh air and movement built into the week's actual structure, not left to chance.",
+  "sectionTitle": "Nature Reset",
+  "predictable": "Time outdoors happens irregularly, dependent on mood or schedule rather than a fixed commitment",
+  "themes": [
+   "Connection",
+   "Care",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep the activity simple and low-effort, like a short walk around the block.",
+   "Rotate the outdoor spot each week to keep the fixed ritual from becoming stale."
+  ]
+ },
+ {
+  "actionTitle": "The nature sound recording",
+  "text": "On a walk together, record a short clip of the ambient outdoor sound, wind, birds, whatever's there, to listen back to later on a stressful day.",
+  "effect": "Capturing an auditory rather than visual memory creates an unusual, sensory-specific keepsake that photos don't replicate. She gains access to a small, portable reminder of a calm shared moment, retrievable specifically during future stress.",
+  "sectionTitle": "Nature Reset",
+  "predictable": "Outdoor moments get remembered only visually, if captured at all, never through sound",
+  "themes": [
+   "Sensory",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep the recording short, under a minute, so it stays easy to revisit.",
+   "Label it with the date and location so the context stays attached to the memory."
+  ]
+ },
+ {
+  "actionTitle": "The apology that names the impact",
+  "text": "Next time an apology is genuinely owed, go beyond 'I'm sorry' and name specifically what impact your action had on her.",
+  "effect": "Naming the specific impact, rather than offering a generic apology, demonstrates real understanding of the consequence rather than a reflexive social gesture. She receives acknowledgment that you grasp exactly what the issue caused, not just that something went wrong in the abstract.",
+  "sectionTitle": "The Apology Toolkit",
+  "predictable": "Apologies tend to stay generic, without naming the specific impact of what happened",
+  "themes": [
+   "Vulnerability",
+   "Communication",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ask directly afterward if your understanding of the impact actually matches hers.",
+   "Follow the apology with a concrete statement of what you'll do differently next time."
+  ]
+ },
+ {
+  "actionTitle": "The apology without a but",
+  "text": "Practice delivering an apology with absolutely no justification or explanation attached, just the acknowledgment itself, nothing more.",
+  "effect": "Removing any defensive justification from an apology prevents it from feeling conditional or partially retracted. She receives an apology that stands fully on its own, without subtly shifting some of the blame back onto circumstances or onto her.",
+  "sectionTitle": "The Apology Toolkit",
+  "predictable": "Apologies tend to come with an attached explanation or justification softening the admission",
+  "themes": [
+   "Vulnerability",
+   "Communication",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "If an explanation genuinely matters, offer it separately, well after the apology itself lands.",
+   "Practice the exact wording beforehand if it helps keep the justification out entirely."
+  ]
+ },
+ {
+  "actionTitle": "The delayed but genuine apology",
+  "text": "If you realize days later that you owe an apology you didn't give at the time, offer it anyway, even though the moment has technically passed.",
+  "effect": "Delivering a late apology demonstrates that accountability doesn't have an expiration date tied to how recently something happened. She learns that overlooked moments still get revisited and acknowledged, rather than quietly written off once enough time has passed.",
+  "sectionTitle": "The Apology Toolkit",
+  "predictable": "Apologies that weren't given in the moment tend to stay ungiven once time has passed",
+  "themes": [
+   "Vulnerability",
+   "Care",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Acknowledge directly that it's late, rather than pretending the timing is unremarkable.",
+   "Explain briefly what made you realize it, without turning that into a justification."
+  ]
+ },
+ {
+  "actionTitle": "The apology through action",
+  "text": "For something small, skip the verbal apology entirely and instead just quietly fix or address whatever the issue was.",
+  "effect": "Choosing action over words for a minor issue demonstrates accountability through behavior rather than relying on verbal reassurance alone. She experiences a resolved problem rather than simply a spoken acknowledgment that the problem exists.",
+  "sectionTitle": "The Apology Toolkit",
+  "predictable": "Even small issues tend to get a verbal apology rather than a direct, quiet fix",
+  "themes": [
+   "Care",
+   "Vulnerability",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Fix it without drawing attention to the fact that you're doing so.",
+   "If she notices and thanks you, keep the response low-key rather than over-explaining."
+  ]
+ },
+ {
+  "actionTitle": "The check-in after the apology",
+  "text": "A day or two after apologizing for something significant, check back in to see if it's actually been fully resolved for her, not just assumed to be.",
+  "effect": "Following up after an apology, rather than assuming resolution, acknowledges that forgiveness and repair can take longer than the apology itself. She's given explicit space to say if something still lingers, rather than having to reopen a topic that seems officially closed.",
+  "sectionTitle": "The Apology Toolkit",
+  "predictable": "Once an apology is given, the topic tends to be considered closed without any follow-up",
+  "themes": [
+   "Vulnerability",
+   "Care",
+   "Communication"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ask an open, low-pressure question rather than seeking direct reassurance that everything's fine.",
+   "Give her room to say it's not fully resolved yet, without treating that as a failed apology."
+  ]
+ },
+ {
+  "actionTitle": "The small milestone spotlight",
+  "text": "The next time she hits a small, easy-to-overlook milestone, whether personal or professional, make a genuine point of marking it, not letting it pass unnoticed.",
+  "effect": "Deliberately marking a minor milestone, rather than letting it blend into the ordinary flow of days, signals that her progress is actively tracked and valued. She receives recognition for achievements that might otherwise go entirely unacknowledged, even by herself.",
+  "sectionTitle": "Milestone Marking",
+  "predictable": "Small personal or professional milestones tend to pass without specific acknowledgment",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep the recognition proportional, something simple rather than an elaborate gesture.",
+   "Ask her how she'd like to mark it, rather than assuming what would feel meaningful."
+  ]
+ },
+ {
+  "actionTitle": "The countdown to something good",
+  "text": "Once a milestone or event she's looking forward to is confirmed, start a small, visible countdown together, building anticipation deliberately.",
+  "effect": "Building a visible, shared countdown transforms passive waiting into an active, jointly experienced anticipation. She experiences the lead-up to an event as part of the celebration itself, not just a delay before it.",
+  "sectionTitle": "Milestone Marking",
+  "predictable": "Waiting for an upcoming event happens passively, without any shared countdown or anticipation ritual",
+  "themes": [
+   "Anticipation",
+   "Playful",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep the countdown simple, like crossing off days on a calendar together.",
+   "Add one small related treat or activity partway through the countdown to sustain the anticipation."
+  ]
+ },
+ {
+  "actionTitle": "The retrospective toast",
+  "text": "On the anniversary of a significant milestone, whether personal or shared, raise a small toast together specifically to how far things have come.",
+  "effect": "A recurring, annual acknowledgment of progress creates a fixed point for reflecting on growth that would otherwise blur together with ordinary time passing. She experiences deliberate recognition of a specific turning point, revisited with intention rather than left to fade into general memory.",
+  "sectionTitle": "Milestone Marking",
+  "predictable": "Significant past milestones don't get revisited or specifically acknowledged in later years",
+  "themes": [
+   "Nostalgia",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep it brief and simple, a genuine toast rather than an elaborate ceremony.",
+   "Name one specific thing that's changed for the better since that milestone."
+  ]
+ },
+ {
+  "actionTitle": "The unofficial award ceremony",
+  "text": "Invent a small, ridiculous 'award' for a milestone or achievement, complete with mock seriousness, and present it to her formally.",
+  "effect": "Presenting recognition through playful, invented ceremony rather than a plain compliment adds memorable specificity and humor to the acknowledgment. She receives recognition that's both genuinely earned and delivered in a way that's fun to remember, rather than a passing remark.",
+  "sectionTitle": "Milestone Marking",
+  "predictable": "Achievements get acknowledged with a simple compliment, without any playful ceremony attached",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Make an actual makeshift trophy or certificate out of whatever's on hand.",
+   "Deliver the 'award speech' with completely straight-faced, exaggerated formality."
+  ]
+ },
+ {
+  "actionTitle": "The shared milestone journal entry",
+  "text": "After a significant milestone, sit down together and write a short joint journal entry about it, to be read back at some point in the future.",
+  "effect": "Co-writing a reflection immediately after a milestone captures both perspectives while the experience is still fresh, rather than relying on memory later. She experiences a milestone documented jointly, preserving nuance and emotion that would otherwise fade or get remembered differently by each of you.",
+  "sectionTitle": "Milestone Marking",
+  "predictable": "Milestones get experienced and remembered without ever being jointly documented in writing",
+  "themes": [
+   "Connection",
+   "Nostalgia",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep the entry short, just a few sentences each, to make it sustainable as a habit.",
+   "Set a rough future date to reread it together, even if it's a year or more out."
+  ]
+ },
+ {
+  "actionTitle": "The hand-hold upgrade",
+  "text": "Next time you're just walking somewhere ordinary together, hold her hand a little more deliberately than usual, lacing fingers instead of the loose default grip.",
+  "effect": "A small, intentional variation on an extremely routine gesture draws attention to something usually done on autopilot. She notices a familiar action performed with unusual deliberateness, which reads as a quiet signal of presence rather than habit.",
+  "sectionTitle": "Physical Comfort Rituals",
+  "predictable": "Hand-holding during ordinary walks happens loosely, on autopilot, without particular intention",
+  "themes": [
+   "Tender",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 2,
+  "variations": [
+   "Give her hand a small, extra squeeze at a random point mid-walk, no reason given.",
+   "Switch which hand you hold partway through, just to notice the small novelty of it."
+  ]
+ },
+ {
+  "actionTitle": "The forehead-to-forehead pause",
+  "text": "In a quiet moment, rest your forehead against hers for a few seconds, no words, before going back to whatever you were doing.",
+  "effect": "This brief, wordless physical pause is more deliberate than a passing kiss and doesn't lead anywhere else, which makes it read as connection for its own sake. She experiences a moment of stillness inserted into the flow of an ordinary evening, without any further expectation attached.",
+  "sectionTitle": "Physical Comfort Rituals",
+  "predictable": "Physical affection tends to happen quickly, in passing, rather than as a deliberate pause",
+  "themes": [
+   "Tender",
+   "Intimacy",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Hold her face gently in both hands for the pause instead of just foreheads touching.",
+   "Do it right after a stressful moment specifically, as a way of resetting together."
+  ]
+ },
+ {
+  "actionTitle": "The back rub with no agenda",
+  "text": "Offer a few minutes of a shoulder or back rub with genuinely no expectation of it leading anywhere else, just as a plain, standalone gesture of care.",
+  "effect": "Explicitly framing physical touch as having no further agenda removes any ambiguity about intent, which can make the gesture feel safer and more purely generous. She receives comfort without needing to manage any implied expectation, which itself can be a form of relief.",
+  "sectionTitle": "Physical Comfort Rituals",
+  "predictable": "Physical touch like a back rub tends to carry an implicit expectation of leading somewhere else",
+  "themes": [
+   "Care",
+   "Tender",
+   "Intimacy"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Set a clear time limit, like ten minutes, so the offer feels bounded and low-pressure.",
+   "Do it while she's occupied with something else, like reading, so there's no pressure to reciprocate attention."
+  ]
+ },
+ {
+  "actionTitle": "The synced breathing moment",
+  "text": "Lying or sitting close together, quietly match your breathing to hers for a minute or two, without announcing what you're doing.",
+  "effect": "Silently synchronizing breathing creates a subtle physiological connection that doesn't require conversation or explanation to register. She experiences a quiet, wordless form of attunement, distinct from the usual verbal channels of connection.",
+  "sectionTitle": "Physical Comfort Rituals",
+  "predictable": "Quiet moments of physical closeness happen without any deliberate attempt at synchrony",
+  "themes": [
+   "Intimacy",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Place a hand gently on her chest or back to feel the rhythm more directly.",
+   "Try it specifically during a tense or anxious moment, as a subtle calming technique."
+  ]
+ },
+ {
+  "actionTitle": "The unhurried goodbye",
+  "text": "Next time you're parting ways for the day, resist the urge to rush the goodbye, even by just an extra ten seconds of full attention before turning away.",
+  "effect": "Deliberately slowing down a moment usually rushed through on the way out the door signals that her departure is noticed rather than treated as incidental. She experiences a small but real shift in how the most transactional part of the day, leaving, gets handled.",
+  "sectionTitle": "Physical Comfort Rituals",
+  "predictable": "Goodbyes happen quickly, treated as a brief formality on the way out the door",
+  "themes": [
+   "Tender",
+   "Care",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Make actual eye contact for the full length of the goodbye instead of already looking away.",
+   "Add one specific sentence about looking forward to seeing her again, rather than just a generic bye."
+  ]
+ },
+ {
+  "actionTitle": "The reminder before she doubts herself",
+  "text": "Before she even voices a doubt about something coming up, get ahead of it with a specific reminder of a relevant strength she has.",
+  "effect": "Preempting self-doubt with a targeted reminder, before it's even spoken aloud, demonstrates attentiveness to her patterns of insecurity. She experiences support arriving ahead of the moment she might need it most, rather than only in reaction to visible anxiety.",
+  "sectionTitle": "The Encouragement Squad",
+  "predictable": "Encouragement tends to arrive only after doubt has already been expressed out loud",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Name one specific past example that directly counters the likely doubt.",
+   "Keep it brief and confident rather than turning it into a long speech."
+  ]
+ },
+ {
+  "actionTitle": "The public vote of confidence",
+  "text": "In front of other people, casually mention something she's genuinely good at, in a way that doesn't feel staged or forced.",
+  "effect": "Publicly affirming a specific strength, delivered casually rather than as an obvious compliment, carries more weight because it feels unprompted. She receives recognition witnessed by others, which validates her in a social context rather than only in private.",
+  "sectionTitle": "The Encouragement Squad",
+  "predictable": "Genuine compliments tend to stay private, rarely surfacing casually in front of other people",
+  "themes": [
+   "Confidence",
+   "Compliment",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Bring it up naturally within a relevant conversation, rather than forcing it in awkwardly.",
+   "Pick something she rarely gets credit for, rather than an already well-recognized strength."
+  ]
+ },
+ {
+  "actionTitle": "The written note of belief",
+  "text": "Write a short note, just a few sentences, about a specific quality of hers you genuinely believe in, and leave it somewhere she'll find it alone.",
+  "effect": "A written note allows for more considered, specific language than a spoken compliment typically receives in the moment. She encounters a tangible, reviewable statement of belief in her, something she can return to later rather than a fleeting spoken remark.",
+  "sectionTitle": "The Encouragement Squad",
+  "predictable": "Belief in her specific qualities tends to stay unspoken or gets mentioned only briefly in passing",
+  "themes": [
+   "Confidence",
+   "Tender",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Focus on one single quality rather than trying to cover several at once.",
+   "Leave it somewhere private, so she encounters it alone rather than in front of others."
+  ]
+ },
+ {
+  "actionTitle": "The comparison-free compliment",
+  "text": "Compliment something about her without comparing it to anyone else, past partners, other people, anyone, just her on her own terms.",
+  "effect": "Removing any implicit comparison ensures the compliment stands entirely on its own, without inadvertently invoking anyone else in the process. She receives recognition that's about her specifically, not about how she measures up against some other reference point.",
+  "sectionTitle": "The Encouragement Squad",
+  "predictable": "Compliments sometimes carry an implicit comparison to someone else, even if unintentional",
+  "themes": [
+   "Compliment",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Focus the compliment on something uniquely hers, hard to compare to anyone else.",
+   "Double check the wording doesn't accidentally reference anyone else at all."
+  ]
+ },
+ {
+  "actionTitle": "The belief stated as fact",
+  "text": "Instead of saying 'I think you can do this,' say 'you can do this' as a plain statement of fact, no hedging.",
+  "effect": "Removing hedging language like 'I think' turns a personal opinion into a stated certainty, which reads as more convincing and less negotiable. She receives a belief in her ability delivered with confidence rather than qualified as merely your subjective view.",
+  "sectionTitle": "The Encouragement Squad",
+  "predictable": "Statements of belief in her ability tend to be hedged rather than delivered as plain fact",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Say it once, clearly, and resist the urge to immediately soften or qualify it afterward.",
+   "Use direct, simple language rather than an elaborate or complicated statement."
+  ]
+ },
+ {
+  "actionTitle": "The guarded alone-time block",
+  "text": "Notice when she needs a stretch of genuine alone time and actively protect it, handling anything that would normally interrupt her.",
+  "effect": "Actively running interference for her solitude, rather than simply not bothering her, demonstrates a deeper respect for her need for space. She experiences alone time that's genuinely protected rather than technically available but still subject to interruption.",
+  "sectionTitle": "Solo Time Respected",
+  "predictable": "Alone time happens when it happens, without any active effort to protect or guard it",
+  "themes": [
+   "Care",
+   "Vulnerability",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Take over anything time-sensitive yourself during that window, without being asked.",
+   "Let her know afterward, briefly, what you handled so she knows the space was real."
+  ]
+ },
+ {
+  "actionTitle": "The no-explanation solo outing",
+  "text": "If she wants to do something alone, like a walk or an errand, let her go without needing a reason, and don't take it personally.",
+  "effect": "Not requiring justification for her wanting solo time removes any implicit pressure to explain or defend a need for independence. She experiences autonomy respected at face value, without having to manage your reaction to her wanting space.",
+  "sectionTitle": "Solo Time Respected",
+  "predictable": "Wanting to do something alone tends to require some explanation or justification first",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Respond with something simple and supportive, like 'sounds good, see you later.'",
+   "Resist the urge to ask follow-up questions about why, unless she offers the reason herself."
+  ]
+ },
+ {
+  "actionTitle": "The solo hobby encouragement",
+  "text": "Actively encourage her to keep up a hobby or interest that's entirely hers, even if it means less shared time some weeks.",
+  "effect": "Actively supporting an individual interest, even at the cost of some shared time, signals that her personal fulfillment matters independent of the relationship's shared activities. She experiences genuine encouragement toward her own growth, rather than a relationship that implicitly discourages time apart.",
+  "sectionTitle": "Solo Time Respected",
+  "predictable": "Individual hobbies tend to get deprioritized in favor of shared activities by default",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ask specifically how her solo hobby is going, showing real interest without inserting yourself into it.",
+   "Offer to handle something practical so she has more actual time for it."
+  ]
+ },
+ {
+  "actionTitle": "The comfortable silence check",
+  "text": "Notice when a silence between you is comfortable rather than distant, and resist the urge to fill it just for the sake of talking.",
+  "effect": "Distinguishing between comfortable and distant silence, and choosing not to interrupt the comfortable kind, respects a form of connection that doesn't require constant verbal engagement. She experiences a relationship where quiet coexistence is valued on its own terms, not treated as something to be fixed.",
+  "sectionTitle": "Solo Time Respected",
+  "predictable": "Silences tend to get filled automatically, regardless of whether they're comfortable or not",
+  "themes": [
+   "Connection",
+   "Vulnerability",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Notice your own urge to fill the silence and consciously let it pass instead.",
+   "If she seems to want to talk, follow her lead rather than initiating first."
+  ]
+ },
+ {
+  "actionTitle": "The independent decision respected",
+  "text": "When she makes a decision entirely on her own, about something that's genuinely hers to decide, support it without offering unsolicited input.",
+  "effect": "Withholding unsolicited opinions on a decision that's genuinely hers respects her autonomy over matters within her own domain. She experiences trust in her judgment demonstrated through restraint, rather than an instinct to weigh in on every choice.",
+  "sectionTitle": "Solo Time Respected",
+  "predictable": "Unsolicited input tends to get offered on most decisions, regardless of whose choice it actually is",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "If asked directly for your opinion, give it briefly, then let the decision stand as hers.",
+   "Express support for the decision itself, rather than commenting on whether you'd have chosen differently."
+  ]
  }
 ]
