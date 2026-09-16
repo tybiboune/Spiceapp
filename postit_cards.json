@@ -6481,5 +6481,905 @@
    "Même les jours les plus chaotiques, un peu comme mes cheveux ce matin, tu restes mon point d'ancrage.",
    "Cette brosse ne peut rien pour mes cheveux en bataille, mais toi tu restes mon point stable, toujours."
   ]
+ },
+ {
+  "actionTitle": "On the coffee maker",
+  "text": "Good morning. The coffee's better with you around, but it'll still try its best without you here yet.",
+  "effect": "Personifying an inanimate object to deliver a compliment softens the sentiment with humor while still landing sincerely. She starts her morning with something lighthearted and specific rather than a generic good-morning note.",
+  "sectionTitle": "Post-its - Kitchen Notes",
+  "predictable": "Mornings start without any note or message left anywhere in the kitchen",
+  "themes": [
+   "Tender",
+   "Playful",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This coffee maker does its best, but it knows it's not the main event of your morning.",
+   "Good morning. Everything in this kitchen is secretly rooting for your day to go well."
+  ]
+ },
+ {
+  "actionTitle": "On the fridge door",
+  "text": "Whatever's in here, none of it is as good as you are. Low bar, but still true.",
+  "effect": "A self-deprecating comparison between everyday food and her presence delivers a compliment through humor rather than direct sentimentality. She encounters an unexpected, funny note during an entirely mundane moment like opening the fridge.",
+  "sectionTitle": "Post-its - Kitchen Notes",
+  "predictable": "The fridge stays purely functional, with nothing written on or near it",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Everything behind this door is fine. You, however, remain the best thing in this house.",
+   "Fair warning: nothing in this fridge compares to how good you are at existing."
+  ]
+ },
+ {
+  "actionTitle": "On the cutting board",
+  "text": "Whatever you're making, it's going to be great, mostly because you're the one making it.",
+  "effect": "Attributing quality to her involvement, rather than the dish itself, reframes a routine task as something worth noticing. She receives quiet confidence in her cooking, delivered casually during an ordinary chore rather than as a formal compliment.",
+  "sectionTitle": "Post-its - Kitchen Notes",
+  "predictable": "Cooking happens without any acknowledgment of effort or skill involved",
+  "themes": [
+   "Compliment",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever ends up on this board, it's going to turn out well. You've got a good track record.",
+   "This cutting board has seen a lot of good meals. You're clearly the common denominator."
+  ]
+ },
+ {
+  "actionTitle": "On the kettle",
+  "text": "Slow down for one second before this thing even boils. You've earned a minute of doing absolutely nothing.",
+  "effect": "Using the brief wait time of a kettle boiling as a built-in excuse for a pause reframes an ordinary appliance as a tiny permission slip to rest. She receives an invitation to briefly stop moving, attached to a moment she was already going to experience anyway.",
+  "sectionTitle": "Post-its - Kitchen Notes",
+  "predictable": "Waiting for the kettle happens without any thought given to pausing or resting",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "While this boils, take one full minute of doing nothing. You're allowed.",
+   "This kettle takes about ninety seconds. Spend it not thinking about anything stressful."
+  ]
+ },
+ {
+  "actionTitle": "On the spice rack",
+  "text": "A little bit of you makes everything better around here too, not just the food.",
+  "effect": "Extending a cooking metaphor about spices into a compliment about her general presence gives an ordinary object unexpected emotional weight. She encounters affection delivered through an unusually specific and creative comparison rather than a standard phrase.",
+  "sectionTitle": "Post-its - Kitchen Notes",
+  "predictable": "Kitchen tools and ingredients stay entirely disconnected from anything personal or sentimental",
+  "themes": [
+   "Tender",
+   "Playful",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Turns out you're the ingredient that makes everything else in this house better too.",
+   "Small amounts of the right thing change everything. That's you, not just the spices."
+  ]
+ },
+ {
+  "actionTitle": "On the mirror, top corner",
+  "text": "Whatever you see right now, know that I see someone I'm genuinely lucky to be with.",
+  "effect": "Directly contradicting a potentially critical self-view with an outside perspective offers reassurance precisely where she's most likely to be self-critical. She receives a compliment aimed at counteracting mirror-induced self-doubt rather than a generic one.",
+  "sectionTitle": "Post-its - Bathroom Mirror",
+  "predictable": "The mirror stays untouched, with no message left near it at any point",
+  "themes": [
+   "Tender",
+   "Confidence",
+   "Compliment"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever critique you're running through up there, I see someone genuinely worth being with.",
+   "This mirror only shows the outside. The best parts of you don't even show up in it."
+  ]
+ },
+ {
+  "actionTitle": "On the mirror, near the toothbrush holder",
+  "text": "Two minutes of brushing, then go be the impressive person you're going to be today anyway.",
+  "effect": "Attaching encouragement to a fixed, brief routine (brushing teeth) guarantees she encounters it daily at a consistent, low-distraction moment. She receives a small confidence boost built into an unavoidable part of her morning, rather than an easily missed one-off.",
+  "sectionTitle": "Post-its - Bathroom Mirror",
+  "predictable": "The daily brushing routine happens without any message or thought attached to it",
+  "themes": [
+   "Confidence",
+   "Tender",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Brush your teeth, then go be exactly as impressive as you're about to be today.",
+   "Two minutes here, then a whole day where you're probably going to handle everything well."
+  ]
+ },
+ {
+  "actionTitle": "On the mirror, evening version",
+  "text": "Before you take this makeup off tonight, remember it was never doing the heavy lifting anyway.",
+  "effect": "Reassuring her that her appeal isn't dependent on makeup, specifically at the moment she's removing it, targets a vulnerable instant directly. She receives a compliment calibrated to counter any insecurity tied to that specific nightly ritual.",
+  "sectionTitle": "Post-its - Bathroom Mirror",
+  "predictable": "Evening routines happen without any reassurance offered around appearance",
+  "themes": [
+   "Tender",
+   "Confidence",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Taking this off tonight changes nothing about what actually makes you attractive.",
+   "Whatever's left on your face by the end of the day, the good stuff was never about that."
+  ]
+ },
+ {
+  "actionTitle": "On the mirror, corner near the sink",
+  "text": "Splash some water, wake up properly, and go be the best version of an already great person.",
+  "effect": "Framing the wake-up routine as a small ritual toward an already-positive baseline, rather than fixing a flawed starting point, sets an encouraging tone from the first moments of the day. She begins her morning with affirmation rather than neutral or critical self-assessment.",
+  "sectionTitle": "Post-its - Bathroom Mirror",
+  "predictable": "Morning wake-up routines happen without any accompanying encouragement",
+  "themes": [
+   "Confidence",
+   "Tender",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cold water, quick wake-up, then go be the great person you already are, just more awake.",
+   "This sink has seen a lot of good mornings start right here. Today's no different."
+  ]
+ },
+ {
+  "actionTitle": "On the mirror, next to the hairbrush",
+  "text": "However this turns out today, it's attached to someone I'd choose again without hesitation.",
+  "effect": "Detaching her sense of value from a purely cosmetic outcome (how her hair turns out) reassures her that appearance isn't the basis of your commitment. She receives a compliment that explicitly outlasts any specific appearance-related worry tied to that moment.",
+  "sectionTitle": "Post-its - Bathroom Mirror",
+  "predictable": "Hair and appearance routines happen with no reassurance offered about their outcome",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "However your hair decides to behave today, I'd still pick you without a second thought.",
+   "Good hair day or not, you're still exactly who I'd choose. Every single time."
+  ]
+ },
+ {
+  "actionTitle": "Tucked under the sandwich wrap",
+  "text": "Eat something good today, and know someone back home is rooting for your whole afternoon.",
+  "effect": "Combining a practical reminder with quiet support gives a small, functional note some emotional weight beyond its literal instruction. She discovers unexpected encouragement in a place she wasn't looking for anything beyond food.",
+  "sectionTitle": "Post-its - Lunchbox Surprises",
+  "predictable": "Lunch gets packed and eaten without any accompanying note or message",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Hope this tastes good. Also hoping the rest of your day goes just as well.",
+   "Whatever's in here, eat it slowly. You've earned an actual break today."
+  ]
+ },
+ {
+  "actionTitle": "Folded into a napkin",
+  "text": "This napkin's real job today is reminding you that you're thought of more than you probably realize.",
+  "effect": "Assigning an unexpected 'job' to a mundane object elevates it into a small, deliberate gesture rather than an accidental find. She encounters a specific, playful reframing of an ordinary item that carries genuine sentiment underneath the humor.",
+  "sectionTitle": "Post-its - Lunchbox Surprises",
+  "predictable": "Napkins packed with lunch stay purely functional, unremarked upon",
+  "themes": [
+   "Tender",
+   "Playful",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This napkin's secretly a delivery method for a reminder that you're missed today.",
+   "Consider this napkin a small envelope carrying the message: thinking of you."
+  ]
+ },
+ {
+  "actionTitle": "Taped to the container lid",
+  "text": "Warning: contents may cause a brief pause to remember someone likes you quite a lot.",
+  "effect": "Using mock-official warning language for an emotional message adds humor that makes the sentiment land more easily than a plain statement would. She's met with a small surprise that requires her to actually open something to receive it, adding a tiny sense of discovery.",
+  "sectionTitle": "Post-its - Lunchbox Surprises",
+  "predictable": "Lunch containers get opened without any surprise or note attached to the lid",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Caution: opening this container includes a reminder that you're genuinely liked around here.",
+   "Side effects of opening this may include a brief smile for no obvious reason."
+  ]
+ },
+ {
+  "actionTitle": "Under the fruit",
+  "text": "Found this note before the food, which means you found the actual point of this lunch first.",
+  "effect": "Placing the note beneath the food ensures it's discovered mid-meal rather than immediately, creating a small delayed surprise. She receives a message at an unexpected point in her lunch break, which stands out more than one found the instant the container opens.",
+  "sectionTitle": "Post-its - Lunchbox Surprises",
+  "predictable": "Lunch gets eaten straight through without anything hidden inside to find partway",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "If you found this, you're halfway through lunch and hopefully having a decent day.",
+   "Buried under the fruit, on purpose: a small reminder that you're doing great today."
+  ]
+ },
+ {
+  "actionTitle": "On the outside of the bag",
+  "text": "This bag travels with you today, and so does the fact that you're genuinely great to come home to.",
+  "effect": "Associating a mundane, portable object (the lunch bag) with an emotional statement means the sentiment travels physically with her throughout the day. She carries a small reminder around during hours when she's otherwise disconnected from home.",
+  "sectionTitle": "Post-its - Lunchbox Surprises",
+  "predictable": "The lunch bag stays purely functional, with nothing written on the outside",
+  "themes": [
+   "Tender",
+   "Care",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This bag's coming with you today. Consider it a small portable reminder that you're loved.",
+   "Everywhere this bag goes today, so does the fact that home is glad you're in it."
+  ]
+ },
+ {
+  "actionTitle": "On the lamp",
+  "text": "Before you turn this off tonight, know that today, whatever it held, ended with you being exactly enough.",
+  "effect": "Attaching reassurance to the specific, final action of the day (turning off the light) ensures it's the last thought she encounters before sleep. She ends the day with an affirming note rather than whatever residual stress the day left behind.",
+  "sectionTitle": "Post-its - Bedside Notes",
+  "predictable": "The bedside lamp gets turned off without any accompanying thought or note",
+  "themes": [
+   "Tender",
+   "Care",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever today was, it ended with you being exactly enough. Turn this off knowing that.",
+   "Last thing before lights out: today, you did enough. Actually enough. Sleep on that."
+  ]
+ },
+ {
+  "actionTitle": "On the water glass",
+  "text": "Drink this, then let today go. It's done deciding things about you now.",
+  "effect": "Pairing a simple nightly habit with permission to release the day's stress gives a mundane action a small ritual quality. She receives an explicit cue to stop carrying the day's weight into sleep, attached to something she was already about to do.",
+  "sectionTitle": "Post-its - Bedside Notes",
+  "predictable": "The nightly glass of water gets drunk without any thought given to releasing the day",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Drink this, then officially let today be over. It doesn't get to follow you into sleep.",
+   "Water first, then permission granted to stop thinking about today entirely."
+  ]
+ },
+ {
+  "actionTitle": "On the alarm clock",
+  "text": "Tomorrow's going to happen whether you're ready or not, but at least it's happening with you in it.",
+  "effect": "Framing the inevitability of the next day alongside her own value reframes a potentially dreaded wake-up as something worth showing up for. She falls asleep with a small note of reassurance about tomorrow rather than anxiety about it.",
+  "sectionTitle": "Post-its - Bedside Notes",
+  "predictable": "The alarm clock stays purely functional, with no message attached at night",
+  "themes": [
+   "Tender",
+   "Care",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Tomorrow's coming either way. Good thing it gets to have you in it.",
+   "Whatever tomorrow brings, it's lucky to get you as part of it. Sleep well."
+  ]
+ },
+ {
+  "actionTitle": "On the pillow",
+  "text": "This pillow's about to hold up someone genuinely worth all the good things coming their way.",
+  "effect": "Personifying the pillow to deliver a compliment softens sentimentality with a bit of playfulness while still landing sincerely. She discovers the note right as she's settling in for sleep, making it one of the last things she reads before drifting off.",
+  "sectionTitle": "Post-its - Bedside Notes",
+  "predictable": "The pillow stays untouched, with nothing written on or near it at bedtime",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This pillow's got an easy job tonight: holding up someone who deserves good rest.",
+   "Whatever this pillow holds up tonight, it's holding up someone genuinely good."
+  ]
+ },
+ {
+  "actionTitle": "On the nightstand book",
+  "text": "Whatever chapter you get to tonight, it's not as good a story as the one we're actually living.",
+  "effect": "Comparing a book, an object she's actively engaging with, to the relationship itself elevates an ordinary evening ritual with unexpected sentiment. She encounters a compliment specifically tailored to a habit she was already going to do that night.",
+  "sectionTitle": "Post-its - Bedside Notes",
+  "predictable": "Nightly reading happens without any note or thought connected to it",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever page you land on tonight, it's still not as good as the story we're writing together.",
+   "That book's fine, but the story we're actually living beats it most nights."
+  ]
+ },
+ {
+  "actionTitle": "On the doorknob, inside",
+  "text": "Whatever's waiting out there today, it's not as good as what's waiting for you back here tonight.",
+  "effect": "Contrasting the uncertainty of the outside world with a guaranteed positive return home offers reassurance right at the threshold moment of leaving. She departs with a specific, comforting thought attached to the exact instant she steps outside.",
+  "sectionTitle": "Post-its - Front Door Send-off",
+  "predictable": "Leaving the house happens without any note or message attached to the door",
+  "themes": [
+   "Tender",
+   "Care",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever today holds, it's got nothing on what's waiting for you back here later.",
+   "Out there is fine. In here, later, is going to be better. Promise."
+  ]
+ },
+ {
+  "actionTitle": "On the shoe rack",
+  "text": "These shoes are about to carry someone who's going to have a genuinely good day. Statistically likely, at least.",
+  "effect": "Attaching an oddly specific, humorous prediction to a mundane object like shoes lightens the morning with a bit of absurdity. She leaves with a small laugh rather than a purely sentimental send-off, which can feel fresher on a repeated daily basis.",
+  "sectionTitle": "Post-its - Front Door Send-off",
+  "predictable": "Shoes get put on and left in without any accompanying thought or message",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "These shoes are officially predicted to have a good day. Trust the prediction.",
+   "Whatever these shoes walk into today, they're doing it with someone impressive attached."
+  ]
+ },
+ {
+  "actionTitle": "On the coat hook",
+  "text": "This coat's job today is keeping you warm. Mine is apparently just texting reminders of how much you're liked around here.",
+  "effect": "Dividing responsibilities humorously between an object and yourself frames the note as a small, self-aware joke rather than a purely sentimental gesture. She receives affection delivered with a wink rather than total earnestness, which varies the emotional tone from more serious notes.",
+  "sectionTitle": "Post-its - Front Door Send-off",
+  "predictable": "Outerwear gets grabbed on the way out without any message attached to it",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This coat handles the warmth. I'll handle reminding you that you're liked. Division of labor.",
+   "Bundle up. This coat's doing its job, and this note's doing mine: reminding you you're great."
+  ]
+ },
+ {
+  "actionTitle": "On the light switch by the door",
+  "text": "Turning this off behind you doesn't turn off how much you're going to be thought about today.",
+  "effect": "Contrasting a literal, mechanical action with a continuous emotional state emphasizes that the feeling persists independent of physical presence. She departs with reassurance that being out of sight doesn't mean being out of mind, addressed at the exact moment she might otherwise assume it does.",
+  "sectionTitle": "Post-its - Front Door Send-off",
+  "predictable": "Turning off the lights on the way out happens without any accompanying thought",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This light goes off, but the thinking-about-you doesn't. Different switch entirely.",
+   "Flip this off and head out, knowing you're still very much on my mind either way."
+  ]
+ },
+ {
+  "actionTitle": "On the umbrella stand",
+  "text": "Rain or not, today's forecast includes a high chance of you being genuinely great at whatever you're walking into.",
+  "effect": "Reframing a weather-related object into a metaphorical forecast about her day adds a playful twist to a purely practical item. She encounters an unexpected compliment disguised as mundane, functional information, which stands out precisely because of the mismatch.",
+  "sectionTitle": "Post-its - Front Door Send-off",
+  "predictable": "The umbrella gets grabbed without any accompanying message or thought",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Forecast update: high chance of you handling today just fine, rain or otherwise.",
+   "Grab this just in case. Also, unrelated forecast: you're going to do well today."
+  ]
+ },
+ {
+  "actionTitle": "On the steering wheel",
+  "text": "Wherever this takes you today, know it's carrying someone genuinely good.",
+  "effect": "Personifying the car as a vessel transporting something valuable elevates an ordinary commute into a small, meaningful send-off. She begins her drive with a note that reframes the mundane act of driving as something worth noticing.",
+  "sectionTitle": "Post-its - Car Dashboard",
+  "predictable": "Getting in the car and driving off happens without any note or message left inside",
+  "themes": [
+   "Tender",
+   "Care",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This car's cargo today happens to be someone genuinely worth the trip.",
+   "Wherever the road takes you, it's taking someone good. Just a fact."
+  ]
+ },
+ {
+  "actionTitle": "On the rearview mirror",
+  "text": "Objects in this mirror are closer than they appear, and so is the fact that you're loved, even from a distance.",
+  "effect": "Playing on the printed warning already present on the mirror repurposes an entirely ordinary object into an unexpected vehicle for affection. She encounters a familiar phrase reworked into something personal, which stands out precisely because it plays with something she's read a hundred times before without meaning.",
+  "sectionTitle": "Post-its - Car Dashboard",
+  "predictable": "The rearview mirror stays purely functional, unremarked upon and unmodified",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Fair warning: the love behind you is closer than this mirror suggests.",
+   "This mirror shows what's behind. What's behind you today, emotionally speaking, is support."
+  ]
+ },
+ {
+  "actionTitle": "On the gear shift",
+  "text": "Shift into drive knowing today's already got at least one thing going for it: you're the one behind the wheel.",
+  "effect": "Attaching a compliment to the literal act of starting to drive frames the beginning of her commute as an intentional, positive moment rather than a neutral routine. She starts the drive with a small vote of confidence rather than simply moving through an unremarked transition.",
+  "sectionTitle": "Post-its - Car Dashboard",
+  "predictable": "Starting the car and driving off happens without any note or acknowledgment",
+  "themes": [
+   "Confidence",
+   "Tender",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever today involves, it's got someone capable behind the wheel. That's a solid start.",
+   "Shifting into drive: today already has one good thing going for it, and it's you."
+  ]
+ },
+ {
+  "actionTitle": "On the sun visor",
+  "text": "Flip this down if the sun's in your eyes. Nothing to flip down for how good you're about to be at today, unfortunately. Just fact.",
+  "effect": "Contrasting a practical function (blocking sun) with an emotional statement that has no equivalent 'fix' emphasizes the sincerity of the compliment through mild absurdity. She encounters an unexpectedly sincere line delivered with a self-aware joke about its own structure.",
+  "sectionTitle": "Post-its - Car Dashboard",
+  "predictable": "The sun visor gets used purely for its intended function, without any added note",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This blocks the sun. Nothing blocks how solid you're going to be today, though. Just how it is.",
+   "Flip down for glare. No equivalent flip-down for the fact that you're generally impressive."
+  ]
+ },
+ {
+  "actionTitle": "On the glovebox",
+  "text": "Everything useful you might need is probably in here. The one thing you don't need any help with is being enough, already.",
+  "effect": "Redirecting from a purely practical object toward an affirming personal statement creates a small surprise within an otherwise mundane context. She encounters unexpected reassurance tucked into a spot reserved for maps, manuals, and other purely functional items.",
+  "sectionTitle": "Post-its - Car Dashboard",
+  "predictable": "The glovebox stays purely practical, holding documents and items without any personal note",
+  "themes": [
+   "Tender",
+   "Confidence",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever's actually in here is useful. What's not in question is that you're already enough.",
+   "This glovebox holds spare stuff. It's not holding any doubt about how solid you are, though."
+  ]
+ },
+ {
+  "actionTitle": "On the top drawer",
+  "text": "Whatever's stressing you out in this drawer's contents, it's smaller than it feels right now.",
+  "effect": "Addressing work-related stress directly, in the exact location where it likely originates, offers targeted reassurance rather than a generic comment. She encounters a note specifically positioned to counter anxiety tied to her actual workspace.",
+  "sectionTitle": "Post-its - Desk Drawer",
+  "predictable": "Work stress gets managed silently, without any note or reassurance nearby",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever's in this drawer stressing you out, it's more manageable than it feels today.",
+   "This drawer holds paperwork. It doesn't hold anything you can't actually handle."
+  ]
+ },
+ {
+  "actionTitle": "Taped inside the drawer",
+  "text": "Found this while looking for something else, which means you're taking a small unplanned break right now. Good. Take it.",
+  "effect": "Framing an accidental discovery as an intentional excuse to pause reframes a random moment as a small, welcome permission to rest. She experiences a brief, unplanned break justified by the note itself, which she might not have taken otherwise.",
+  "sectionTitle": "Post-its - Desk Drawer",
+  "predictable": "Small breaks during work happen only when consciously and deliberately taken",
+  "themes": [
+   "Care",
+   "Playful",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "If you're reading this, you've accidentally taken a break. Might as well make it a real one.",
+   "Consider finding this note official permission for a thirty-second pause. Granted."
+  ]
+ },
+ {
+  "actionTitle": "Under a stack of papers",
+  "text": "Buried under actual work, here's a small reminder that you're doing better than the pile suggests.",
+  "effect": "Placing the note beneath tangible evidence of her workload directly counters the discouragement that a large stack of papers might otherwise produce. She encounters reassurance precisely at the point where visible evidence of pressure might undercut her confidence.",
+  "sectionTitle": "Post-its - Desk Drawer",
+  "predictable": "A large workload gets faced without any reassurance about how it's actually going",
+  "themes": [
+   "Care",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This pile looks like a lot. You're handling it better than the pile itself would suggest.",
+   "Found under the paperwork: a reminder that the pile isn't a fair measure of how you're doing."
+  ]
+ },
+ {
+  "actionTitle": "On a sticky note pad itself",
+  "text": "Even the notes in this drawer know you're worth writing nice things about. Take that as read.",
+  "effect": "Using the very object designed to hold quick messages as the message itself creates a small, self-referential joke. She encounters a note that plays with its own format, adding a layer of playfulness to an otherwise straightforward compliment.",
+  "sectionTitle": "Post-its - Desk Drawer",
+  "predictable": "The sticky note pad stays purely functional, used only for practical reminders",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This whole pad exists mostly so nice things about you have somewhere to go, apparently.",
+   "Even the office supplies seem to think you're worth writing nice notes about. Can't argue."
+  ]
+ },
+ {
+  "actionTitle": "On a pen in the drawer",
+  "text": "This pen's about to sign off on a pretty good day, statistically speaking, given who's holding it.",
+  "effect": "Attributing an outcome to whoever is using an ordinary object personalizes something entirely generic, like a pen, into a small compliment. She encounters affection delivered through an unlikely object, which adds novelty to a familiar sentiment.",
+  "sectionTitle": "Post-its - Desk Drawer",
+  "predictable": "Everyday office supplies stay entirely unremarked upon, purely functional",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Whatever this pen signs today, the odds are good, given the person holding it.",
+   "This pen's in capable hands today. Just a general statement of confidence."
+  ]
+ },
+ {
+  "actionTitle": "On a magnet holding nothing",
+  "text": "This magnet's been unemployed for a while. Consider it hired to hold up the fact that you're doing great lately.",
+  "effect": "Personifying an unused magnet and 'hiring' it to hold a compliment adds a small, whimsical narrative to an otherwise blank spot on the fridge. She discovers an unexpected, playful note occupying a previously empty, purely functional space.",
+  "sectionTitle": "Post-its - Fridge Gallery",
+  "predictable": "Unused magnets on the fridge stay empty, holding nothing in particular",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This magnet finally has a job: holding up proof that you've been doing great lately.",
+   "Officially promoting this magnet to holding up a note about how well you've been doing."
+  ]
+ },
+ {
+  "actionTitle": "Next to an old photo already there",
+  "text": "This old photo's still one of the best things on this fridge. Close second: whatever you're up to right now.",
+  "effect": "Comparing a sentimental existing photo to her current, ordinary activity elevates the present moment to the same emotional register as a cherished memory. She's reminded that today's unremarkable moments are being valued alongside her favorite documented memories.",
+  "sectionTitle": "Post-its - Fridge Gallery",
+  "predictable": "Old photos on the fridge stay untouched, without any new note added near them",
+  "themes": [
+   "Nostalgia",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "That old photo's still a favorite. Whatever you're doing right now is a close second.",
+   "This photo holds a good memory. Today's shaping up to hold a pretty good one too."
+  ]
+ },
+ {
+  "actionTitle": "On a grocery list already started",
+  "text": "Adding one more item to this list: remembering that you're appreciated more than daily life usually shows.",
+  "effect": "Inserting a sentimental line into a purely practical list mixes the mundane with the meaningful, which creates a small surprise within a routine object. She encounters an unexpected entry among ordinary items, standing out precisely because it doesn't belong on a shopping list.",
+  "sectionTitle": "Post-its - Fridge Gallery",
+  "predictable": "Grocery lists stay strictly practical, with nothing personal mixed in",
+  "themes": [
+   "Tender",
+   "Playful",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "New addition to the list: a reminder that you're appreciated more than the daily grind usually shows.",
+   "Adding an off-list item here: you, appreciated, officially noted for the record."
+  ]
+ },
+ {
+  "actionTitle": "On a kid's drawing or old art already up",
+  "text": "Whatever this drawing is of, it's got nothing on how good you are at making this place feel like home.",
+  "effect": "Comparing an existing, cherished item on the fridge to her broader contribution to the household elevates an intangible quality (making a house feel like home) to the same visible status as displayed artwork. She receives recognition for an atmosphere she creates, made visible in a space usually reserved for physical objects.",
+  "sectionTitle": "Post-its - Fridge Gallery",
+  "predictable": "Displayed art or drawings stay as they are, without any added note nearby",
+  "themes": [
+   "Tender",
+   "Care",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This drawing's nice. What's nicer is how you make this place actually feel like home.",
+   "Next to the art gallery here: a note that you're the reason this place feels like home."
+  ]
+ },
+ {
+  "actionTitle": "On a calendar page",
+  "text": "Today's square on this calendar is just an ordinary day, made better by the fact that you're in it.",
+  "effect": "Attaching sentiment to a specific, otherwise unremarkable calendar date personalizes an object that's usually purely functional. She encounters a note tied to the literal present day, which makes the sentiment feel immediate rather than general.",
+  "sectionTitle": "Post-its - Fridge Gallery",
+  "predictable": "The calendar stays purely functional, tracking dates without any added personal note",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Today's square on the calendar is ordinary, except for the part where you're in it.",
+   "Nothing special about today's date, except that it happens to include you."
+  ]
+ },
+ {
+  "actionTitle": "In the margin of a shared book",
+  "text": "If you're reading this, you've gotten further in this book than I have. Also: hi, I love you, carry on.",
+  "effect": "Interrupting her reading with a personal note mid-page creates a small, unexpected moment of connection within a solitary activity. She encounters affection delivered directly into a private, quiet moment usually undisturbed by outside messages.",
+  "sectionTitle": "Post-its - Book Margins",
+  "predictable": "Reading happens without any note or message hidden inside the book itself",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "If you're this far in, you've beaten my reading pace. Also, quick hello from the margins.",
+   "Small interruption from the margin: hello, and also, this book has good taste in readers."
+  ]
+ },
+ {
+  "actionTitle": "On the inside cover of a gift book",
+  "text": "This book's good, but it's not the best thing I've given you. That title still belongs to my attention, freely given.",
+  "effect": "Contrasting a tangible gift with an intangible one (attention) reframes a physical present as secondary to ongoing emotional investment. She receives a compliment layered into a gift-giving moment, extending its meaning beyond the object itself.",
+  "sectionTitle": "Post-its - Book Margins",
+  "predictable": "Gifted books arrive without any personal note inside the cover",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This book's a good gift. The better one is still just my attention, given freely and often.",
+   "Hope you like the book. Still think the best thing I give you is just paying attention."
+  ]
+ },
+ {
+  "actionTitle": "Next to a passage you'll love",
+  "text": "Marked this page because it made me think of you. You'll know exactly why once you get here.",
+  "effect": "Directing attention to a specific passage, rather than leaving a generic note, creates a small, personalized connection between the book's content and her own life. She experiences a moment of discovery tailored specifically to her, embedded within an otherwise solitary activity.",
+  "sectionTitle": "Post-its - Book Margins",
+  "predictable": "Passages in shared books get read without any connection drawn to anything personal",
+  "themes": [
+   "Tender",
+   "Connection",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Flagged this page because it reminded me of you. You'll get it the second you read it.",
+   "This particular paragraph made me think of you specifically. See if you agree once you're here."
+  ]
+ },
+ {
+  "actionTitle": "At the very last page",
+  "text": "If you've made it here, you finished the whole thing. Also, completely unrelated: you're kind of great.",
+  "effect": "Placing a compliment at the very end of a book rewards the completion of a personal activity with an unexpected personal note. She receives recognition for finishing something she did independently, paired with an affectionate aside that has nothing to do with the book itself.",
+  "sectionTitle": "Post-its - Book Margins",
+  "predictable": "Finishing a book happens without any acknowledgment or note marking the moment",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Congratulations on finishing. Also, separately: you remain kind of great.",
+   "You made it to the last page. Bonus content: a reminder that you're pretty impressive."
+  ]
+ },
+ {
+  "actionTitle": "On a bookmark left inside",
+  "text": "Wherever you left off, come back to it whenever. No rush. Also, hi. Just checking in through a bookmark, apparently.",
+  "effect": "Using an object specifically meant to preserve a pause in reading to also deliver an affectionate check-in blends two functions into one small gesture. She encounters a message specifically timed to reach her the next time she resumes an activity she'd paused, adding a personal touch to picking the book back up.",
+  "sectionTitle": "Post-its - Book Margins",
+  "predictable": "Bookmarks stay purely functional, marking a page without carrying any added message",
+  "themes": [
+   "Tender",
+   "Playful",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Wherever you left off, no rush getting back to it. Also, small hello via bookmark.",
+   "This bookmark's doing double duty: marking your page, and saying hi on my behalf."
+  ]
+ },
+ {
+  "actionTitle": "On the pillow, plain and simple",
+  "text": "Whatever tomorrow needs from you, tonight just needs you resting. That's the whole assignment.",
+  "effect": "Separating tonight's task from tomorrow's demands gives explicit permission to fully disengage from anticipatory stress before sleep. She receives a clear boundary between rest and responsibility, rather than an implicit expectation to keep planning even while trying to wind down.",
+  "sectionTitle": "Post-its - Pillow Talk",
+  "predictable": "Bedtime happens with tomorrow's demands still occupying active headspace",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Tonight's only job is rest. Tomorrow can wait its turn.",
+   "Whatever's on tomorrow's list, it's not due until tomorrow. Sleep first."
+  ]
+ },
+ {
+  "actionTitle": "On the pillow, other side",
+  "text": "This side of the bed has excellent taste in who it belongs to.",
+  "effect": "A small, playful compliment aimed at the literal physical space she occupies each night personalizes an otherwise unremarkable object. She encounters affection in the most repeated, routine location of the day, the exact spot where she ends every night.",
+  "sectionTitle": "Post-its - Pillow Talk",
+  "predictable": "The side of the bed she sleeps on stays entirely unremarked upon",
+  "themes": [
+   "Playful",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This side of the bed clearly has great taste. No arguments there.",
+   "Whoever ends up on this side tonight is objectively the better half of the arrangement."
+  ]
+ },
+ {
+  "actionTitle": "On the pillow, folded corner",
+  "text": "Tomorrow's a new one. Tonight, though, was better because you were in it, same as always.",
+  "effect": "Closing out the day with a statement that frames her as a consistent, positive constant reinforces the idea before sleep rather than leaving it unsaid. She drifts off having read a specific, sincere note rather than simply switching off the light in silence.",
+  "sectionTitle": "Post-its - Pillow Talk",
+  "predictable": "Nights end without any note or reflection on how the day actually went",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Today was better with you in it. That's basically true most days, for the record.",
+   "New day tomorrow. Tonight was a good one, mostly because of you."
+  ]
+ },
+ {
+  "actionTitle": "On the pillow, near the edge",
+  "text": "This pillow's held a lot of good nights. Tonight's shaping up to be one more.",
+  "effect": "Framing the pillow as a quiet witness to accumulated shared history gives an ordinary object a small sense of continuity and sentimentality. She experiences tonight as part of a longer pattern of good nights, rather than an isolated, disconnected moment.",
+  "sectionTitle": "Post-its - Pillow Talk",
+  "predictable": "Nightly routines happen without any sense of continuity or accumulated history acknowledged",
+  "themes": [
+   "Nostalgia",
+   "Tender",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "This pillow's seen plenty of good nights already. No reason tonight would be different.",
+   "Adding tonight to the pretty long list of good nights this pillow's been part of."
+  ]
+ },
+ {
+  "actionTitle": "On the pillow, right before sleep",
+  "text": "Last thing before you close your eyes: you're exactly where you're supposed to be.",
+  "effect": "Delivering a statement of reassurance timed to be the very last thing read before sleep maximizes its chance of lingering into her final thoughts of the day. She receives quiet affirmation about her place in the relationship at the precise moment she's most likely to carry it into rest.",
+  "sectionTitle": "Post-its - Pillow Talk",
+  "predictable": "The final moments before sleep pass without any closing thought or reassurance offered",
+  "themes": [
+   "Tender",
+   "Romantic",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Right before you close your eyes: you're exactly where you belong. Sleep on that.",
+   "Last thought before sleep, courtesy of this pillow: you're right where you're supposed to be."
+  ]
  }
 ]

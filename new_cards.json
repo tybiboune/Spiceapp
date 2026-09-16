@@ -8007,5 +8007,905 @@
    "Lance le premier oreiller sans prevenir, juste pour declencher la surprise et le jeu.",
    "Fixez une regle simple : le premier qui rit a perdu, pour ajouter un enjeu leger et amusant."
   ]
+ },
+ {
+  "actionTitle": "The mystery drive",
+  "text": "One Saturday, tell her to get in the car with no explanation, then drive somewhere neither of you has been before, even if it's just twenty minutes away.",
+  "effect": "Removing the destination from the equation forces both of you into the same unfamiliar footing, which flattens the usual planner/follower dynamic. She gets to experience genuine surprise instead of a curated outing, which sticks in memory far longer than a scheduled trip.",
+  "sectionTitle": "Weekend Wanderlust",
+  "predictable": "Weekend outings get picked from the same three familiar spots",
+  "themes": [
+   "Playful",
+   "Anticipation",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pick a direction by flipping a coin at the first intersection, then just keep driving.",
+   "Let her pick the destination from a place name pulled at random off a map."
+  ]
+ },
+ {
+  "actionTitle": "The farmers market challenge",
+  "text": "Go to a local market with a strict five-dollar budget each, and challenge each other to find the weirdest thing worth buying.",
+  "effect": "A tight budget turns browsing into a genuine little game with a real constraint, rather than idle window-shopping. She gets to see a playful, competitive side of you that rarely surfaces in ordinary errands.",
+  "sectionTitle": "Weekend Wanderlust",
+  "predictable": "Grocery runs happen efficiently and without any detour into browsing for fun",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Set the challenge around 'most unnecessary purchase' instead of weirdest.",
+   "Cook dinner that night using only what you each bought, no matter how strange the combination."
+  ]
+ },
+ {
+  "actionTitle": "The unplanned hike",
+  "text": "Pick a trail you've never done and go, even without proper gear, keeping the whole thing loose and improvised.",
+  "effect": "Choosing an unfamiliar trail over a reliable favorite injects real unpredictability into a weekend that could otherwise run on autopilot. She experiences you as someone willing to embrace a little discomfort for the sake of novelty, which reads as confident rather than reckless.",
+  "sectionTitle": "Weekend Wanderlust",
+  "predictable": "Outdoor time defaults to the same known, comfortable route every time",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Choose the shortest unfamiliar trail nearby if full gear isn't available.",
+   "Bring a picnic and treat the destination itself as secondary to the walk."
+  ]
+ },
+ {
+  "actionTitle": "The neighborhood you've never explored",
+  "text": "Pick a part of your own city you've genuinely never walked through and spend an afternoon there, no itinerary.",
+  "effect": "Treating your own city as unexplored territory reframes a familiar environment as a small adventure, without requiring travel or planning. She gets the sense of discovery usually reserved for trips abroad, at zero cost and zero logistics.",
+  "sectionTitle": "Weekend Wanderlust",
+  "predictable": "Free afternoons default to the same familiar streets and cafes",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pick the neighborhood using a dart thrown at a printed map, just for the ritual of it.",
+   "Ask a local shop owner there for a recommendation and follow it without question."
+  ]
+ },
+ {
+  "actionTitle": "The day trip decided by her alone",
+  "text": "Hand her full control of where you go for a day, no input from you at all, and follow wherever she leads.",
+  "effect": "Full relinquished control removes any residual negotiation and lets her experience total authorship over a shared day, a rare reversal from the usual back-and-forth of planning together. She feels trusted with your time completely, not just consulted about it.",
+  "sectionTitle": "Weekend Wanderlust",
+  "predictable": "Trip planning gets split fairly between both of you, decision by decision",
+  "themes": [
+   "Confidence",
+   "Care",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Give her a modest budget and total freedom on how to spend it for the day.",
+   "Only tell her the departure time, leaving destination and activities entirely up to her."
+  ]
+ },
+ {
+  "actionTitle": "The blind taste test",
+  "text": "Blindfold each other and take turns feeding small bites of random fridge ingredients, guessing what they are.",
+  "effect": "Removing sight forces full attention onto taste and texture, senses that get routinely ignored during rushed everyday meals. She experiences a playful vulnerability, trusting you with something as simple as what goes in her mouth next, which builds a small but real intimacy.",
+  "sectionTitle": "Kitchen Chaos",
+  "predictable": "Meals get prepared and eaten without any sensory game attached",
+  "themes": [
+   "Playful",
+   "Sensory",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 2,
+  "variations": [
+   "Limit the ingredients to things already in the fridge, nothing bought specifically for the game.",
+   "Award a point system and let the loser handle cleanup, with mock seriousness."
+  ]
+ },
+ {
+  "actionTitle": "The recipe roulette",
+  "text": "Pick a recipe neither of you has ever made, pull up the instructions together, and cook it as a team without dividing tasks in advance.",
+  "effect": "Choosing an unfamiliar recipe removes the usual efficiency shortcuts and forces real-time coordination, which naturally produces laughter over inevitable small mistakes. She experiences cooking as shared exploration instead of a divided chore with a predictable outcome.",
+  "sectionTitle": "Kitchen Chaos",
+  "predictable": "Cooking follows the same familiar recipes, divided by habit rather than discussion",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pick a cuisine from a country neither of you has cooked before.",
+   "Set a timer and treat the whole thing like a mini cooking-show challenge."
+  ]
+ },
+ {
+  "actionTitle": "The dessert-first dinner",
+  "text": "One evening, serve dessert before the main course, with a straight face, no explanation offered.",
+  "effect": "Reversing the expected meal order injects a small, harmless act of rebellion into an otherwise rigid routine. She gets an unexpected laugh out of something as mundane as dinner order, which resets the tone for the rest of the evening.",
+  "sectionTitle": "Kitchen Chaos",
+  "predictable": "Meals are served in the same expected order every single time",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Announce it formally, like a waiter presenting a special, to heighten the absurdity.",
+   "Follow dessert with an appetizer-style main course, fully committing to the reversal."
+  ]
+ },
+ {
+  "actionTitle": "The competitive plating",
+  "text": "Cook the same simple dish separately, in different corners of the kitchen, then judge each other's plating like a cooking show.",
+  "effect": "A shared task split into parallel, competing versions turns routine cooking into a light-hearted contest with a clear, silly stake. She gets to see your effort and creativity measured directly against hers, which sparks genuine, low-stakes competitive energy.",
+  "sectionTitle": "Kitchen Chaos",
+  "predictable": "Cooking together means working side by side on the same shared dish",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Use identical ingredients so the only variable is presentation and technique.",
+   "Award a ridiculous, home-made trophy to the winner, to be defended next time."
+  ]
+ },
+ {
+  "actionTitle": "The pantry raid dinner",
+  "text": "Announce a 'no grocery store' night and build a full dinner using only what's already in the pantry and fridge, no matter how odd the combination.",
+  "effect": "Working within a hard constraint turns a mundane dinner into a small creative puzzle you solve together. She sees resourcefulness in action rather than a routine trip to the store, which shifts a chore into something closer to a shared game.",
+  "sectionTitle": "Kitchen Chaos",
+  "predictable": "An empty-feeling fridge triggers an automatic grocery run, no improvisation attempted",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Give the resulting dish a fake fancy restaurant name and menu description.",
+   "Take a photo of the finished plate as proof of what you managed to build from scraps."
+  ]
+ },
+ {
+  "actionTitle": "The silent task swap",
+  "text": "Without discussing it, quietly take over one of her usual chores for the week, no announcement, no credit claimed.",
+  "effect": "Doing the task without announcing it removes any expectation of praise, which makes the gesture read as genuine care rather than a bid for recognition. She discovers it on her own, which creates a small, private moment of gratitude that a verbal offer wouldn't produce.",
+  "sectionTitle": "The Home Team",
+  "predictable": "Household tasks stay divided exactly as they've always been, without any quiet swap",
+  "themes": [
+   "Care",
+   "Tender",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Leave the task done but say nothing, letting her notice in her own time.",
+   "Pick the one task she complains about most and take it over indefinitely."
+  ]
+ },
+ {
+  "actionTitle": "The Sunday reset ritual",
+  "text": "Every Sunday evening, spend twenty minutes together resetting the home for the week: dishes, laundry, surfaces cleared, as a shared ritual rather than a chore.",
+  "effect": "Framing routine upkeep as a shared ritual, with a fixed time slot, turns an individually resented task into a cooperative habit with its own small identity. She experiences Monday mornings with less friction, which she associates directly with this shared effort.",
+  "sectionTitle": "The Home Team",
+  "predictable": "Household reset happens sporadically, whenever the mess becomes unavoidable",
+  "themes": [
+   "Care",
+   "Connection",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Add music to the ritual, always the same playlist, to give it its own signature feel.",
+   "Alternate who picks the order of tasks each week, to keep it from feeling assigned."
+  ]
+ },
+ {
+  "actionTitle": "The budget check-in over takeout",
+  "text": "Once a month, order in her favorite takeout and use that relaxed setting to go over shared finances together, no stress, just information.",
+  "effect": "Pairing a mildly stressful topic with a genuinely enjoyable setting lowers the emotional stakes of the conversation considerably. She experiences financial planning as a team activity wrapped in comfort, rather than a dreaded, isolated task.",
+  "sectionTitle": "The Home Team",
+  "predictable": "Financial conversations happen only when something urgent forces the issue",
+  "themes": [
+   "Care",
+   "Connection",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep the conversation to fifteen minutes max, then switch entirely to unrelated conversation.",
+   "Set one small shared goal each session, something concrete to work toward together."
+  ]
+ },
+ {
+  "actionTitle": "The repair project together",
+  "text": "Pick a small home repair or improvement neither of you has tackled and do it together on a weekend, following a tutorial side by side.",
+  "effect": "Tackling an unfamiliar practical task together creates a genuine shared learning curve, with real mistakes and real small victories. She experiences competence-building as a joint project rather than a solo task delegated to whoever is 'better at that sort of thing.'",
+  "sectionTitle": "The Home Team",
+  "predictable": "Home repairs get assigned to whichever of you is already comfortable with tools",
+  "themes": [
+   "Confidence",
+   "Connection",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Document the process with photos, treating it like a small documented achievement.",
+   "Celebrate the finished project with a meal, marking it as a genuine milestone."
+  ]
+ },
+ {
+  "actionTitle": "The chore you secretly enjoy revealed",
+  "text": "Tell her honestly which household task you actually don't mind doing, and offer to take it permanently off her plate.",
+  "effect": "Naming a genuine preference, rather than performing selfless martyrdom, makes the offer sustainable and believable. She receives real relief on a task she may dislike, without the awkwardness of feeling like she's imposing on a reluctant favor.",
+  "sectionTitle": "The Home Team",
+  "predictable": "Chore division stays fixed, regardless of which tasks either of you actually prefers",
+  "themes": [
+   "Care",
+   "Communication",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ask her the same question in return, and see if a natural, honest swap emerges.",
+   "Write the new arrangement down somewhere visible, half-joking, to make it official."
+  ]
+ },
+ {
+  "actionTitle": "The phone jar dinner",
+  "text": "Put both phones in a jar on the table before dinner starts, with a rule that whoever reaches for theirs first pays for dessert.",
+  "effect": "A small, self-imposed stake turns a vague good intention into a concrete, enforceable rule you both actually follow. She experiences full attention during a meal that would otherwise be regularly interrupted, which is rare enough to feel genuinely special.",
+  "sectionTitle": "Tech-Free Together",
+  "predictable": "Phones stay within reach during dinner and get checked periodically without much thought",
+  "themes": [
+   "Connection",
+   "Care",
+   "Playful"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Extend the rule to the full evening instead of just dinner.",
+   "Replace the dessert stake with a household chore for whoever breaks first."
+  ]
+ },
+ {
+  "actionTitle": "The analog Sunday",
+  "text": "Pick one Sunday a month to go fully analog together: no screens, just books, board games, cooking, or a walk.",
+  "effect": "A recurring, named ritual is easier to protect than a vague 'let's unplug sometime' intention, since it has its own slot on the calendar. She experiences a predictable, recurring pocket of undivided attention that she can look forward to, rather than a one-off experiment.",
+  "sectionTitle": "Tech-Free Together",
+  "predictable": "Screen-free time happens only by accident, when devices happen to run out of battery",
+  "themes": [
+   "Connection",
+   "Care",
+   "Routine Breaker"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Start with just a half-day version if a full day feels like too much at first.",
+   "Pick a specific analog activity in advance so the day doesn't default to idle boredom."
+  ]
+ },
+ {
+  "actionTitle": "The handwritten instead of texted",
+  "text": "For one week, replace one daily text with a handwritten note left somewhere she'll find it, instead of sending it digitally.",
+  "effect": "A handwritten note requires visible physical effort that a text doesn't, which reads as a deliberate upgrade in attention rather than a lower-effort default. She keeps a tangible object instead of a message that scrolls away and gets forgotten in a feed.",
+  "sectionTitle": "Tech-Free Together",
+  "predictable": "Daily affection gets delivered entirely through text messages, with nothing physical",
+  "themes": [
+   "Tender",
+   "Care",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Use a specific object each time as the 'canvas' for the note, like a napkin or receipt.",
+   "Hide the note somewhere she'll only find while doing an unrelated task."
+  ]
+ },
+ {
+  "actionTitle": "The no-notification walk",
+  "text": "Go for a walk together with notifications fully silenced on both phones, no exceptions, no checking 'just in case.'",
+  "effect": "Removing the possibility of a quick check eliminates the low-grade distraction that even silent vigilance produces. She experiences a walk where your attention is demonstrably, verifiably hers, rather than technically present but internally divided.",
+  "sectionTitle": "Tech-Free Together",
+  "predictable": "Walks together happen with notifications on, checked reflexively when they buzz",
+  "themes": [
+   "Connection",
+   "Care",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Leave both phones at home entirely if the walk is short enough to risk it.",
+   "Turn the walk into a no-phone challenge with a small reward for both of you at the end."
+  ]
+ },
+ {
+  "actionTitle": "The board game instead of the show",
+  "text": "Swap one evening's usual show-watching for a board game or card game, even if it feels like more effort at first.",
+  "effect": "An interactive shared activity requires genuine engagement in a way passive viewing doesn't, which naturally produces more conversation and eye contact. She experiences an evening built around interaction with you specifically, rather than side-by-side consumption of the same content.",
+  "sectionTitle": "Tech-Free Together",
+  "predictable": "Evenings default to watching something together, side by side, mostly silent",
+  "themes": [
+   "Connection",
+   "Playful",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pick a game neither of you has played before, to keep the learning curve shared.",
+   "Make it a recurring 'game night' rather than a one-off swap, so it has its own identity."
+  ]
+ },
+ {
+  "actionTitle": "The car warmed up",
+  "text": "On a cold morning, go out early and warm up her car before she has to, without being asked.",
+  "effect": "An unrequested, practical act of service removes friction from her morning before she even notices it was there. She experiences care delivered ahead of need, which reads as more attentive than care delivered in response to a request.",
+  "sectionTitle": "Little Acts of Service",
+  "predictable": "Cold mornings mean everyone deals with their own car in their own time",
+  "themes": [
+   "Care",
+   "Tender",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Scrape ice off her windshield too, if the season calls for it.",
+   "Leave a warm drink in the cup holder while you're at it, no note needed."
+  ]
+ },
+ {
+  "actionTitle": "The bag packed the night before",
+  "text": "The night before a big day for her, quietly pack anything she'll need the next morning, without asking what to include.",
+  "effect": "Anticipating her needs without a checklist conversation demonstrates a level of attentiveness that goes beyond simply being helpful when asked. She wakes up to reduced friction on a day that already carries enough pressure, which she'll register as genuine thoughtfulness.",
+  "sectionTitle": "Little Acts of Service",
+  "predictable": "Big-day preparation happens solely on her own, the night before or that morning",
+  "themes": [
+   "Care",
+   "Tender",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Include one small unexpected extra, like her favorite snack, alongside the essentials.",
+   "Leave a short encouraging note tucked into the bag, to be found later in the day."
+  ]
+ },
+ {
+  "actionTitle": "The errand taken off her list",
+  "text": "Look at her running to-do list, quietly pick the most annoying errand on it, and just go do it yourself.",
+  "effect": "Choosing the least appealing task, rather than the easiest one, signals genuine consideration rather than convenient help-picking. She experiences real relief on the specific thing she was dreading most, not just a generic offer of assistance.",
+  "sectionTitle": "Little Acts of Service",
+  "predictable": "Her to-do list stays entirely hers to work through, regardless of how full it gets",
+  "themes": [
+   "Care",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Cross it off the list yourself and leave the list somewhere she'll see the change.",
+   "Do it without mentioning it at all, letting her discover it's already done."
+  ]
+ },
+ {
+  "actionTitle": "The umbrella left by the door",
+  "text": "On a day rain is forecast, quietly set her umbrella by the door before she leaves, without saying anything about the weather.",
+  "effect": "A small, silent act of foresight demonstrates that you're paying attention to details of her day that she hasn't asked you to track. She experiences being thought of in a very ordinary, unglamorous way, which builds trust more than grand gestures reserved for special occasions.",
+  "sectionTitle": "Little Acts of Service",
+  "predictable": "Weather prep happens individually, checked by each person on their own phone",
+  "themes": [
+   "Care",
+   "Tender",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Check the forecast for her without mentioning it, and just quietly act on it.",
+   "Leave a small note with the umbrella, just two words: 'thought of you.'"
+  ]
+ },
+ {
+  "actionTitle": "The charger moved to where she needs it",
+  "text": "Notice where she always ends up looking for a charger and just leave one there permanently, solving the recurring small frustration for good.",
+  "effect": "Solving a recurring minor annoyance, rather than just sympathizing with it in the moment, shows attentiveness translated into concrete action. She experiences a small daily friction permanently removed, which compounds into real appreciation over repeated use.",
+  "sectionTitle": "Little Acts of Service",
+  "predictable": "Small recurring frustrations get mentioned occasionally but rarely actually solved",
+  "themes": [
+   "Care",
+   "Tender",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Apply the same fix to any other small recurring annoyance you've noticed her mention.",
+   "Do it quietly and let her notice on her own rather than announcing the fix."
+  ]
+ },
+ {
+  "actionTitle": "The staring contest rematch",
+  "text": "Challenge her to a staring contest out of nowhere, mid-conversation, with mock seriousness about defending your undefeated record.",
+  "effect": "Introducing sudden, low-stakes competition breaks the flow of ordinary conversation with something silly and physical. She gets pulled into a playful contest that requires real eye contact and close attention, which builds a small charge of intimacy disguised as a joke.",
+  "sectionTitle": "Playful Competition",
+  "predictable": "Conversations flow without any sudden playful interruption or challenge",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Turn it into a best-of-three series, tracked with mock-serious tally marks somewhere.",
+   "Add a ridiculous prize for the winner, like control of tonight's music."
+  ]
+ },
+ {
+  "actionTitle": "The trivia showdown",
+  "text": "Pick a topic she knows more about than you and challenge her to a trivia round, fully expecting to lose.",
+  "effect": "Choosing a topic where you're likely to lose signals genuine respect for her expertise rather than staging a contest you're guaranteed to win. She gets to demonstrate real knowledge in a fun, low-pressure format, which is a rarer kind of spotlight than a typical compliment.",
+  "sectionTitle": "Playful Competition",
+  "predictable": "Her areas of expertise rarely get turned into a fun, competitive format",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Let her set the questions herself, upping the difficulty as she sees fit.",
+   "Keep score on paper and frame the final tally like a genuine championship result."
+  ]
+ },
+ {
+  "actionTitle": "The impression battle",
+  "text": "Challenge each other to do impressions of people you both know, judged on accuracy and pure commitment to the bit.",
+  "effect": "Performing exaggerated impressions requires a willingness to look a little ridiculous, which builds comfort and trust through shared vulnerability. She sees an uninhibited, silly side of you that rarely surfaces outside private moments, which deepens familiarity.",
+  "sectionTitle": "Playful Competition",
+  "predictable": "Shared humor stays verbal, without ever escalating into full physical performance",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Restrict the impressions to people from your own families for extra specificity.",
+   "Film a couple of the best ones, purely for your own private archive of good memories."
+  ]
+ },
+ {
+  "actionTitle": "The thumb war tournament",
+  "text": "Declare a best-of-five thumb war tournament out of nowhere, treating it with completely unearned gravity.",
+  "effect": "Escalating a childish game to tournament-level seriousness creates absurd contrast that reliably produces laughter. She experiences a moment of pure silliness that briefly resets whatever mood preceded it, without requiring any planning or setup.",
+  "sectionTitle": "Playful Competition",
+  "predictable": "Silly, physical games rarely get revisited past childhood",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Introduce fake commentary, narrating the match like a sports broadcast.",
+   "Award a homemade belt or trophy to whoever wins the tournament."
+  ]
+ },
+ {
+  "actionTitle": "The who-knows-who-better quiz",
+  "text": "Write down five questions about her that you're confident you know, then ask her to answer the same five about herself and compare.",
+  "effect": "Testing your own knowledge against her self-perception invites a genuine, revealing comparison rather than a one-sided guessing game. She discovers exactly how well she's been paying attention to be known, and gets to correct any gaps with real information.",
+  "sectionTitle": "Playful Competition",
+  "predictable": "How well you each know one another rarely gets tested directly, just assumed",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Extend the quiz to include questions about your relationship's small shared history.",
+   "Turn any mismatched answers into an ongoing, low-stakes joke between you both."
+  ]
+ },
+ {
+  "actionTitle": "The two-sentence story",
+  "text": "Start a short story with one sentence, have her add the next, and keep trading sentences until it goes somewhere completely absurd.",
+  "effect": "Collaborative storytelling forces genuine improvisation, since neither of you can fully control or predict where the narrative ends up. She experiences a shared creative act with no clear leader, which produces a result neither of you could have made alone.",
+  "sectionTitle": "Creative Collaboration",
+  "predictable": "Storytelling and imagination games rarely come up outside of childhood or special occasions",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Set a rule that every third sentence has to include a completely random object.",
+   "Record the final story somewhere so it can be reread and laughed at later."
+  ]
+ },
+ {
+  "actionTitle": "The joint doodle",
+  "text": "Take one piece of paper and draw something together at the same time, no talking, no planning, just reacting to what the other adds.",
+  "effect": "A shared, wordless creative task requires responsive improvisation rather than a fixed plan, producing something genuinely co-authored. She experiences a form of communication that bypasses language entirely, which can feel more intimate than a planned conversation.",
+  "sectionTitle": "Creative Collaboration",
+  "predictable": "Creative activities tend to happen separately, each person working on their own project",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Sensory"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Set a strict two-minute timer to keep the whole thing loose and unpolished.",
+   "Frame and keep the finished doodle somewhere visible, however chaotic it turns out."
+  ]
+ },
+ {
+  "actionTitle": "The playlist built together",
+  "text": "Build a shared playlist in real time, each taking turns adding one song, with a rule that you can't skip what the other picks.",
+  "effect": "Alternating song choices without veto power exposes both of you to the other's genuine taste rather than a filtered, agreed-upon selection. She learns something real about your preferences through direct exposure, and gets her own choices fully respected in return.",
+  "sectionTitle": "Creative Collaboration",
+  "predictable": "Music gets chosen individually, with either person free to skip whatever they don't like",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Give the finished playlist a shared name that references how it was made.",
+   "Set a rule requiring each pick to somehow connect to the previous song, no matter how loosely."
+  ]
+ },
+ {
+  "actionTitle": "The collaborative recipe invention",
+  "text": "Combine two random ingredients neither of you would normally pair and try to build an actual edible dish around them together.",
+  "effect": "Working from a deliberately awkward creative constraint requires genuine problem-solving as a team, rather than following a known process. She experiences shared creative risk-taking, where the outcome is genuinely uncertain and jointly owned either way.",
+  "sectionTitle": "Creative Collaboration",
+  "predictable": "Cooking happens using tested, familiar recipes with a predictable, reliable outcome",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Let a third person pick the two random ingredients, for full unpredictability.",
+   "Name the finished dish together, no matter how ridiculous the final result looks."
+  ]
+ },
+ {
+  "actionTitle": "The photo scavenger hunt",
+  "text": "Write a short list of oddly specific things to photograph around the house or neighborhood, then race each other to complete it.",
+  "effect": "A shared, timed challenge with a concrete, visual outcome turns a random afternoon into a small joint project with clear proof of completion. She experiences an activity that produces a tangible result, a set of photos, that can be revisited and laughed about well after the moment itself.",
+  "sectionTitle": "Creative Collaboration",
+  "predictable": "Free time gets spent on separate, individual activities rather than a shared challenge",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Make the list deliberately absurd, like 'something that looks vaguely disappointed.'",
+   "Compile both sets of photos into a shared album afterward, side by side."
+  ]
+ },
+ {
+  "actionTitle": "The no-fix-it listening session",
+  "text": "When she's venting about something stressful, resist offering solutions entirely and just listen, asking only what she needs right now.",
+  "effect": "Withholding the instinct to problem-solve, and instead asking directly what kind of support she wants, respects her autonomy over her own process. She experiences being heard on her own terms rather than redirected toward a solution she may not have asked for.",
+  "sectionTitle": "Comfort on Hard Days",
+  "predictable": "Venting sessions typically get met with immediate suggestions and proposed fixes",
+  "themes": [
+   "Care",
+   "Vulnerability",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Open with a direct question: 'Do you want advice, or just someone to listen right now?'",
+   "Sit physically closer than usual while she talks, without saying much at all."
+  ]
+ },
+ {
+  "actionTitle": "The bad-day uniform",
+  "text": "On a visibly hard day, hand her the softest, most comfortable thing in the house without a word and let her put it on.",
+  "effect": "A wordless, practical gesture avoids requiring her to articulate what she needs when she may not have the energy to ask. She receives comfort delivered proactively, without the extra labor of having to explain or request it first.",
+  "sectionTitle": "Comfort on Hard Days",
+  "predictable": "Hard days get acknowledged verbally, without any accompanying physical gesture of comfort",
+  "themes": [
+   "Care",
+   "Tender",
+   "Vulnerability"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pair the comfortable item with her favorite drink, offered at the same time, no explanation needed.",
+   "Dim the lights and lower the noise in the house without announcing why."
+  ]
+ },
+ {
+  "actionTitle": "The silent presence",
+  "text": "On a day she clearly doesn't want to talk, just sit near her doing something quiet of your own, present without pushing for conversation.",
+  "effect": "Offering physical presence without demanding verbal engagement respects a need for space while still communicating that she isn't alone. She experiences support that doesn't require performing okay-ness or explaining her mood, which itself can be a relief.",
+  "sectionTitle": "Comfort on Hard Days",
+  "predictable": "A quiet mood usually prompts direct questions about what's wrong",
+  "themes": [
+   "Care",
+   "Vulnerability",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Bring a blanket over and simply sit close, no requirement that she talk at all.",
+   "Leave a written note nearby saying you're around whenever she's ready to talk, no pressure."
+  ]
+ },
+ {
+  "actionTitle": "The stress-relief errand",
+  "text": "Notice what's adding friction to her stressful day and quietly go handle it yourself, without asking permission first.",
+  "effect": "Taking direct action on a source of stress, rather than offering sympathy alone, demonstrates practical support during a moment when she may lack the bandwidth to ask for help. She experiences one less thing to manage during an already difficult day, resolved without her having to delegate it herself.",
+  "sectionTitle": "Comfort on Hard Days",
+  "predictable": "Stressful days get acknowledged with sympathy, without any practical task taken off her plate",
+  "themes": [
+   "Care",
+   "Leadership",
+   "Tender"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pick the smallest, most annoying task on her plate and quietly finish it.",
+   "Ask a single clarifying question, then act without needing further direction."
+  ]
+ },
+ {
+  "actionTitle": "The gentle distraction offer",
+  "text": "On a rough day, offer a specific, low-effort distraction, like a favorite show or a short walk, rather than a vague 'let me know if you need anything.'",
+  "effect": "Proposing a concrete option removes the burden of decision-making from someone who's already emotionally depleted. She receives an easy yes-or-no choice instead of having to generate her own plan for feeling better, which lowers the effort required to accept help.",
+  "sectionTitle": "Comfort on Hard Days",
+  "predictable": "Offers of support tend to stay vague, requiring her to specify exactly what she needs",
+  "themes": [
+   "Care",
+   "Tender",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Offer two specific options instead of one, so she still gets to choose.",
+   "Have the distraction already set up and ready before you even ask, lowering the barrier further."
+  ]
+ },
+ {
+  "actionTitle": "The shared vision board",
+  "text": "Sit down together and build a simple vision board, physical or digital, of what you both want the next year to look like.",
+  "effect": "Externalizing individual hopes into a shared, visible artifact makes abstract future goals concrete and jointly owned rather than privately held. She experiences active participation in shaping a mutual direction, rather than simply hearing your individual plans described.",
+  "sectionTitle": "Building Something Together",
+  "predictable": "Future goals get discussed occasionally in conversation without ever being written down together",
+  "themes": [
+   "Connection",
+   "Anticipation",
+   "Leadership"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Revisit the board together at a set interval, like every few months, to track progress.",
+   "Keep it simple: five words or images each, no elaborate design required."
+  ]
+ },
+ {
+  "actionTitle": "The joint savings challenge",
+  "text": "Set a small, specific shared savings goal together, with a concrete reward planned for when you hit it.",
+  "effect": "A defined target with a tangible reward converts a vague financial intention into something trackable and motivating. She experiences money management as a shared, almost game-like pursuit with real stakes, rather than an individual discipline exercise.",
+  "sectionTitle": "Building Something Together",
+  "predictable": "Saving money happens individually, without any shared target or joint reward attached",
+  "themes": [
+   "Connection",
+   "Leadership",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Track progress somewhere visible, like a simple chart on the fridge.",
+   "Pick a reward you'll both genuinely look forward to, not just a symbolic gesture."
+  ]
+ },
+ {
+  "actionTitle": "The skill-swap agreement",
+  "text": "Each teach the other one practical skill over the coming weeks, something useful neither of you currently knows how to do.",
+  "effect": "Structuring mutual teaching as a formal, reciprocal arrangement ensures both of you get to be the expert and the student in turn. She experiences genuine investment in her growth, balanced by an equal opportunity to invest in yours, avoiding any one-sided dynamic.",
+  "sectionTitle": "Building Something Together",
+  "predictable": "New skills get picked up individually, without any structured effort to teach each other",
+  "themes": [
+   "Confidence",
+   "Connection",
+   "Care"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Set a rough deadline for both lessons, to keep the commitment from quietly fading.",
+   "Pick skills that are genuinely useful day-to-day, not just impressive party tricks."
+  ]
+ },
+ {
+  "actionTitle": "The relationship time capsule",
+  "text": "Write letters to your future selves about where you are right now as a couple, seal them, and agree on a date to open them together.",
+  "effect": "Committing current thoughts to a sealed, time-delayed format creates a genuine artifact of the relationship's present state, immune to memory drift. She experiences a tangible marker of this specific chapter together, one that neither of you can revise or reinterpret later.",
+  "sectionTitle": "Building Something Together",
+  "predictable": "Reflections on the relationship's current state stay as passing conversation, never recorded",
+  "themes": [
+   "Connection",
+   "Nostalgia",
+   "Romantic"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Include a small object alongside the letters, something that represents this period.",
+   "Pick a meaningfully distant date to open it, like an upcoming anniversary a year or more out."
+  ]
+ },
+ {
+  "actionTitle": "The project with a deadline",
+  "text": "Pick one small home or personal project you both keep meaning to start, and commit to a real deadline this time, written down somewhere visible.",
+  "effect": "Assigning an actual deadline to a chronically postponed project converts good intentions into a concrete, trackable commitment. She experiences follow-through on something that's likely been discussed repeatedly without action, which builds trust in your shared word.",
+  "sectionTitle": "Building Something Together",
+  "predictable": "Long-postponed shared projects stay mentioned occasionally, with no real deadline attached",
+  "themes": [
+   "Leadership",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Break the project into smaller weekly steps, each with its own mini-deadline.",
+   "Plan a small celebration for the moment the project actually gets finished."
+  ]
+ },
+ {
+  "actionTitle": "The midnight snack run",
+  "text": "Late one night, suggest an impromptu drive to get a snack from somewhere open, purely for the sake of doing something unplanned.",
+  "effect": "A spontaneous late-night outing breaks the routine of a predictable evening winding down toward sleep. She experiences a small burst of novelty at an hour when nothing new usually happens, which reads as genuine spontaneity rather than a scheduled surprise.",
+  "sectionTitle": "Unexpected Adventures",
+  "predictable": "Evenings wind down predictably, with no late-night detours or spontaneous outings",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Pick the most out-of-the-way open place you can think of, just to make the drive part of the fun.",
+   "Frame it as a mission with a deliberately silly codename, just to add some flavor."
+  ]
+ },
+ {
+  "actionTitle": "The random class booking",
+  "text": "Sign you both up for a class in something neither of you has ever tried, without over-researching it first.",
+  "effect": "Committing to an unfamiliar activity together creates a shared beginner experience, where neither of you holds an advantage. She sees you take initiative on something genuinely new, which signals openness to shared discomfort and growth rather than only comfortable, familiar plans.",
+  "sectionTitle": "Unexpected Adventures",
+  "predictable": "New activities get extensively researched and discussed before ever being tried",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Let her pick the class from a short list you put together, keeping some element of surprise.",
+   "Commit to trying it exactly once before deciding whether it's a repeat activity."
+  ]
+ },
+ {
+  "actionTitle": "The stranger's recommendation",
+  "text": "Ask a stranger, like a cashier or barista, for their favorite local spot, and go there together on the spot, no second-guessing.",
+  "effect": "Outsourcing a decision to a random stranger removes the usual filtering through personal preference or research, guaranteeing genuine unpredictability. She experiences a decision made entirely on trust and impulse, producing an outcome neither of you could have planned yourselves.",
+  "sectionTitle": "Unexpected Adventures",
+  "predictable": "New spots get chosen only after checking reviews or asking people you already know",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Connection"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Ask three different strangers and pick whichever place gets mentioned by more than one.",
+   "Commit to staying at least thirty minutes, even if the first impression isn't promising."
+  ]
+ },
+ {
+  "actionTitle": "The theme night surprise",
+  "text": "Announce a surprise theme for the evening, like a specific decade or a fictional world, and commit fully to it together, food and all.",
+  "effect": "Committing jointly to an elaborate, slightly ridiculous theme requires mutual buy-in and creativity that a passive evening wouldn't demand. She experiences an ordinary evening transformed into something with its own identity and shared inside references for later.",
+  "sectionTitle": "Unexpected Adventures",
+  "predictable": "Evenings at home follow a familiar, unthemed routine without any shared creative framing",
+  "themes": [
+   "Playful",
+   "Connection",
+   "Confidence"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Keep the theme simple enough to pull off with what's already in the house.",
+   "Take a photo together at the end as a memento of the specific theme night."
+  ]
+ },
+ {
+  "actionTitle": "The last-minute overnight",
+  "text": "With minimal notice, propose a spontaneous overnight trip somewhere close, packed quickly, no elaborate planning involved.",
+  "effect": "A genuinely short-notice trip, rather than a planned getaway, demonstrates that adventure doesn't require extensive logistics to feel meaningful. She experiences the thrill of true spontaneity, a rare occurrence once schedules and routines take over most of adult life.",
+  "sectionTitle": "Unexpected Adventures",
+  "predictable": "Trips away get planned well in advance, with little room for spontaneity",
+  "themes": [
+   "Playful",
+   "Confidence",
+   "Anticipation"
+  ],
+  "dramaIntensity": 1,
+  "sexualIntensity": 1,
+  "variations": [
+   "Set a hard packing limit of ten minutes each, to keep the spontaneity real.",
+   "Pick the destination together on the drive itself, deciding as you go."
+  ]
  }
 ]
