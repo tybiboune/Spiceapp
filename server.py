@@ -293,4 +293,27 @@ if __name__ == '__main__':
     # the moment an update writes a new server.py — the two would fight over
     # restarting the same process, sometimes tearing down the connection
     # before the /api/update/* response reaches the browser.
-    app.run(debug=debug_mode, port=5000, threaded=True, use_reloader=False)
+    #
+    # Retry on EADDRINUSE: right after a self-update restart, os.execv()
+    # replaces this process in place, but the OS doesn't always release the
+    # old listening socket on port 5000 before the new run() tries to bind
+    # it — observed in practice as "port 5000 is in use" crashing the app
+    # dead right after an update, needing a manual relaunch. Binding is the
+    # very first thing run() does, so a short retry loop here is enough to
+    # ride out that window instead of dying on it.
+    #
+    # Werkzeug's run_simple() doesn't let a bind failure surface as a plain
+    # OSError: it prints its own "port is in use" message and calls
+    # sys.exit(1) itself, which raises SystemExit — so that's what this
+    # loop has to catch, not OSError.
+    max_attempts = 10
+    for attempt in range(1, max_attempts + 1):
+        try:
+            app.run(debug=debug_mode, port=5000, threaded=True, use_reloader=False)
+            break
+        except (OSError, SystemExit) as e:
+            still_retryable = isinstance(e, SystemExit) or e.errno in (98, 48)  # EADDRINUSE: 98 Linux/Android, 48 macOS
+            if not still_retryable or attempt == max_attempts:
+                raise
+            print(f"   - Port 5000 still in use (attempt {attempt}/{max_attempts}), retrying in 1s…")
+            time.sleep(1)
