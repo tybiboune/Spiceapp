@@ -372,6 +372,7 @@
         const escapeAttr = escapeHtml;
 
         let allActions = [];
+        const ACTIONS_CACHE_KEY = 'spiceapp_actions_cache_v1';
         let currentModalActionId = null; // which action's details modal is open, if any
         let currentCategory = 'ACTIONS'; // ACTIONS | SMS | POSTITS
         let currentFilters = {
@@ -434,40 +435,158 @@
         }
 
         /**
+         * Turns one raw DB row into the shape the rest of the app expects
+         * (themes/variations parsed out of their JSON-string columns, isDone
+         * coerced to a real boolean).
+         */
+        function normalizeAction(action) {
+            return {
+                ...action,
+                category: action.category || 'ACTIONS',
+                themes: typeof action.themes === 'string' ? JSON.parse(action.themes) : action.themes,
+                variations: action.variations
+                    ? (typeof action.variations === 'string' ? JSON.parse(action.variations) : action.variations)
+                    : [],
+                isDone: !!action.isDone
+            };
+        }
+
+        /**
+         * Reads the last locally-cached dataset, if any. Used to paint the
+         * dashboard instantly on load while a fresh copy streams in behind
+         * it, instead of showing a blank/loading screen every single time.
+         */
+        function readActionsCache() {
+            try {
+                const raw = localStorage.getItem(ACTIONS_CACHE_KEY);
+                if (!raw) return null;
+                const parsed = JSON.parse(raw);
+                if (!parsed || !Array.isArray(parsed.actions) || parsed.actions.length === 0) return null;
+                return parsed;
+            } catch (e) {
+                return null; // corrupt/unavailable cache — just refetch from the server
+            }
+        }
+
+        /**
+         * Writes the current in-memory dataset back to localStorage so the
+         * next page load can paint instantly from it. Called after the
+         * initial stream finishes and after every local mutation (done
+         * toggles), so a refresh never shows stale done-state.
+         */
+        function persistActionsCache(version) {
+            try {
+                localStorage.setItem(ACTIONS_CACHE_KEY, JSON.stringify({
+                    version: version || (readActionsCache() || {}).version || null,
+                    actions: allActions
+                }));
+            } catch (e) {
+                // Storage full/unavailable (private browsing, quota) — caching is
+                // purely a perf optimization, so just skip it silently.
+            }
+        }
+
+        /**
          * Fetches action data from the backend server on page load.
+         *
+         * Loading strategy, to avoid any blank-screen wait:
+         *  1. If a local cache exists, paint it immediately — the dashboard
+         *     is interactive before a single network byte comes back.
+         *  2. In parallel (or right away if there was no cache), stream the
+         *     current data from /api/actions/stream as newline-delimited
+         *     JSON, rendering progressively in batches as rows arrive
+         *     instead of waiting for the whole ~2000-row payload.
+         *  3. Once the stream completes, replace the in-memory dataset with
+         *     the fresh one and persist it as the new cache.
          */
         async function loadActionsFromServer() {
-            loadingSection.classList.remove('hidden');
-            dashboardSection.classList.add('hidden');
-            
-            try {
-                const response = await fetch('/api/actions');
-                if (!response.ok) {
-                    const errorData = await response.json();
-                    throw new Error(errorData.message || `Server responded with status ${response.status}`);
-                }
-                
-                const data = await response.json();
+            const cached = readActionsCache();
+            let paintedFromCache = false;
 
-                if (!Array.isArray(data) || data.length === 0) {
+            if (cached) {
+                allActions = cached.actions;
+                setupDashboard();
+                renderActions();
+                loadingSection.classList.add('hidden');
+                dashboardSection.classList.remove('hidden');
+                paintedFromCache = true;
+            }
+
+            try {
+                if (!paintedFromCache) {
+                    loadingSection.classList.remove('hidden');
+                    dashboardSection.classList.add('hidden');
+                }
+
+                const headers = cached && cached.version ? { 'If-None-Match': cached.version } : {};
+                const response = await fetch('/api/actions/stream', { headers });
+
+                if (response.status === 304) {
+                    // Cache already matches what's on the server — nothing to do.
+                    return;
+                }
+                if (!response.ok) {
+                    throw new Error(`Server responded with status ${response.status}`);
+                }
+
+                const version = response.headers.get('X-Actions-Version');
+                const streamed = [];
+
+                if (response.body && response.body.getReader) {
+                    const reader = response.body.getReader();
+                    const decoder = new TextDecoder();
+                    let buffer = '';
+                    let sinceLastRender = 0;
+
+                    while (true) {
+                        const { done, value } = await reader.read();
+                        if (done) break;
+                        buffer += decoder.decode(value, { stream: true });
+                        let newlineIndex;
+                        while ((newlineIndex = buffer.indexOf('\n')) !== -1) {
+                            const line = buffer.slice(0, newlineIndex);
+                            buffer = buffer.slice(newlineIndex + 1);
+                            if (!line) continue;
+                            streamed.push(normalizeAction(JSON.parse(line)));
+                            sinceLastRender++;
+                        }
+                        // Render progressively so the very first cards show up
+                        // long before all ~2000 rows have arrived, instead of
+                        // one big render at the very end.
+                        if (sinceLastRender >= 150 && !paintedFromCache) {
+                            allActions = streamed.slice();
+                            setupDashboard();
+                            renderActions();
+                            loadingSection.classList.add('hidden');
+                            dashboardSection.classList.remove('hidden');
+                            paintedFromCache = true; // now painted, from live data
+                            sinceLastRender = 0;
+                        }
+                    }
+                    if (buffer.trim()) {
+                        streamed.push(normalizeAction(JSON.parse(buffer)));
+                    }
+                } else {
+                    // Old browser without a readable stream API — fall back to
+                    // a single JSON fetch of the whole dataset.
+                    const data = await (await fetch('/api/actions')).json();
+                    streamed.push(...data.map(normalizeAction));
+                }
+
+                if (streamed.length === 0) {
                     throw new Error("No actions found in the database.");
                 }
 
-                // Process data from the server
-                allActions = data.map(action => ({
-                    ...action,
-                    category: action.category || 'ACTIONS',
-                    themes: JSON.parse(action.themes), // Themes are stored as a JSON string
-                    variations: action.variations ? JSON.parse(action.variations) : [],
-                    isDone: !!action.isDone // Ensure isDone is a boolean
-                }));
-                
+                allActions = streamed;
                 setupDashboard();
                 renderActions();
+                persistActionsCache(version);
 
             } catch (error) {
                 console.error("Error loading actions:", error);
-                loadingMessage.innerHTML = `<p class="text-red-500">An error occurred: ${error.message}</p><p class="text-slate-500 mt-2">Please ensure the backend server is running and the database has been set up correctly.</p>`;
+                if (!paintedFromCache) {
+                    loadingMessage.innerHTML = `<p class="text-red-500">An error occurred: ${error.message}</p><p class="text-slate-500 mt-2">Please ensure the backend server is running and the database has been set up correctly.</p>`;
+                }
             } finally {
                 loadingSection.classList.add('hidden');
                 dashboardSection.classList.remove('hidden');
@@ -925,6 +1044,7 @@
 
                 // Re-render the view to reflect the change
                 renderActions();
+                persistActionsCache();
                 if (!modal.classList.contains('hidden') && currentModalActionId === actionId) {
                     showDetails(actionId);
                 }
@@ -967,6 +1087,7 @@
                 action.variations = action.variations.map(v => ({ ...v, isDone: targetState }));
 
                 renderActions();
+                persistActionsCache();
                 if (!modal.classList.contains('hidden') && currentModalActionId === actionId) {
                     showDetails(actionId);
                 }
@@ -998,6 +1119,7 @@
                 // for this action is derived from the whole group (original
                 // + variations), so a variation toggle can change it.
                 renderActions();
+                persistActionsCache();
                 if (!modal.classList.contains('hidden') && currentModalActionId === actionId) {
                     showDetails(actionId);
                 }

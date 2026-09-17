@@ -157,6 +157,16 @@ def get_db_connection():
     conn.row_factory = sqlite3.Row # This allows accessing columns by name
     return conn
 
+def _db_version():
+    """Cheap fingerprint of the database file's current content (mtime +
+    size), used as a cache key: the client keeps a local copy of the whole
+    dataset and only needs to know when it's gone stale, not what changed."""
+    try:
+        st = os.stat(DB_PATH)
+        return f"{st.st_mtime_ns}-{st.st_size}"
+    except OSError:
+        return "0"
+
 # --- API ROUTES ---
 
 @app.route('/api/actions', methods=['GET'])
@@ -167,7 +177,9 @@ def get_actions():
         actions = conn.execute('SELECT * FROM actions ORDER BY id').fetchall()
         conn.close()
         # Convert rows to a list of dictionaries
-        return jsonify([dict(ix) for ix in actions])
+        response = jsonify([dict(ix) for ix in actions])
+        response.headers['X-Actions-Version'] = _db_version()
+        return response
     except sqlite3.OperationalError as e:
         # This likely means the database/table doesn't exist yet
         return jsonify({
@@ -176,6 +188,32 @@ def get_actions():
         }), 500
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+@app.route('/api/actions/stream', methods=['GET'])
+def stream_actions():
+    """Streams every action as newline-delimited JSON (one row per line) so
+    the client can start rendering cards as soon as the first rows arrive
+    instead of waiting for the entire ~2000-row payload to download and
+    parse. The client is expected to cache the result locally, keyed by the
+    X-Actions-Version header, and only re-stream when that version changes."""
+    client_version = request.headers.get('If-None-Match')
+    version = _db_version()
+    if client_version == version:
+        return ('', 304, {'X-Actions-Version': version})
+
+    def generate():
+        conn = get_db_connection()
+        try:
+            cursor = conn.execute('SELECT * FROM actions ORDER BY id')
+            for row in cursor:
+                yield json.dumps(dict(row)) + "\n"
+        finally:
+            conn.close()
+
+    response = app.response_class(generate(), mimetype='application/x-ndjson')
+    response.headers['X-Actions-Version'] = version
+    response.headers['Cache-Control'] = 'no-cache'
+    return response
 
 @app.route('/api/actions/<int:action_id>/toggle', methods=['POST'])
 def toggle_done(action_id):
