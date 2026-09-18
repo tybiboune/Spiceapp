@@ -19,6 +19,20 @@ file-for-file from GitHub.
 
 ## Run
 
+### Windows
+
+- **Already downloaded on this computer**: double-click `SpiceApp.bat`. First
+  run sets up a virtual env and installs dependencies; every run after that
+  just starts the server and opens the browser.
+- **Any other Windows computer**: copy `Install-Windows.bat` there (Desktop,
+  USB key, cloud drive — anywhere) and double-click it. It downloads a fresh
+  copy of the app into `%USERPROFILE%\Spiceapp` (only Python needs to already
+  be installed — it'll open the download page if it isn't) and then calls
+  `SpiceApp.bat` automatically. Right-click either `.bat` file → **Send to →
+  Desktop (create shortcut)** for a permanent icon.
+
+### Manual (any OS)
+
 ```
 pip install -r requirements.txt
 python server.py
