@@ -10032,5 +10032,855 @@
       "Demain matin, tu seras probablement l'une de mes premières pensées.",
       "Le sommeil nous sépare un peu cette nuit, mais mes pensées pour toi continuent."
     ]
+  },
+  {
+    "actionTitle": "On the hair brush",
+    "text": "Every tangle sorted out this morning, and still not as complicated as how much I like you.",
+    "effect": "Contrasting a mundane grooming task with an affectionate declaration adds unexpected charm to a routine object. She finds a small compliment hidden inside a completely functional, everyday moment.",
+    "sectionTitle": "Post-its - Hair Brush",
+    "predictable": "Everyday grooming objects rarely carry any affectionate message hidden within their function",
+    "themes": [
+      "Tenderness",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Every tangle handled this morning, still simpler than how much I like you.",
+      "This brush sorts knots, nothing sorts out how much I adore you though."
+    ]
+  },
+  {
+    "actionTitle": "Inside the notebook cover",
+    "text": "Whatever you write in here today, know that you're already writing yourself into a pretty good story out there.",
+    "effect": "Framing her daily life as an unfolding story reframes ordinary tasks and thoughts as part of something meaningful. She receives encouragement that elevates whatever she records inside as part of a bigger picture.",
+    "sectionTitle": "Post-its - Notebook",
+    "predictable": "Daily notes and to-do lists rarely come with a reminder that they're part of a meaningful bigger story",
+    "themes": [
+      "Encouragement",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you write today, you're writing a pretty good story out there.",
+      "This notebook holds your thoughts, all part of a story worth telling."
+    ]
+  },
+  {
+    "actionTitle": "Corner of the bathroom mirror",
+    "text": "Before you even do your morning routine, look here first: you're already enough exactly as you are right now.",
+    "effect": "Placing an affirmation before the usual routine of self-scrutiny in the mirror reframes the moment away from critique. She encounters reassurance before any self-judgment has the chance to take over.",
+    "sectionTitle": "Post-its - Bathroom Mirror Corner",
+    "predictable": "Mirror routines tend to start with scrutiny or critique rather than an immediate reassurance placed there first",
+    "themes": [
+      "Affirmation",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Before anything else, you're already enough exactly as you are.",
+      "First thing you see: already enough, exactly as you are right now."
+    ]
+  },
+  {
+    "actionTitle": "On the backpack zipper",
+    "text": "Zipped in here along with everything else today: a small hope that things go easier for you than expected.",
+    "effect": "Attaching a wish for an easier day to a practical everyday object embeds encouragement into her ordinary routine. She carries a small hope for her day physically alongside her actual belongings.",
+    "sectionTitle": "Post-its - Backpack Zipper",
+    "predictable": "Everyday carried objects rarely include a hidden wish for how the rest of the day goes",
+    "themes": [
+      "Care",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Zipped in with everything else: hoping today goes easier than expected.",
+      "Along with your things today, carrying a small hope for an easy day."
+    ]
+  },
+  {
+    "actionTitle": "On the remote control",
+    "text": "Whatever you end up watching tonight, I hope it's exactly the kind of nothing you actually needed.",
+    "effect": "Validating unproductive downtime as legitimate and needed counters any guilt she might feel about simply relaxing. She receives explicit permission and encouragement to enjoy rest without justification.",
+    "sectionTitle": "Post-its - Remote Control",
+    "predictable": "Downtime and relaxing evenings rarely come with explicit encouragement that they're exactly what's needed",
+    "themes": [
+      "Care",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you watch tonight, hope it's the nothing you actually needed.",
+      "Hope tonight's TV is exactly the relaxing nothing you deserve right now."
+    ]
+  },
+  {
+    "actionTitle": "On the fridge handle",
+    "text": "Whatever you're reaching for in here, know that you're also just generally someone worth reaching for.",
+    "effect": "Playing on the double meaning of reaching, literal and emotional, turns a mundane action into a small affirmation. She encounters a compliment cleverly disguised as commentary on a completely ordinary habit.",
+    "sectionTitle": "Post-its - Fridge Handle",
+    "predictable": "Ordinary daily habits like opening the fridge rarely carry a clever hidden compliment about her worth",
+    "themes": [
+      "Tenderness",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever's in there, you're also just generally worth reaching for.",
+      "Reaching for a snack, also just a reminder you're worth reaching for."
+    ]
+  },
+  {
+    "actionTitle": "On the yoga mat",
+    "text": "Whatever shape you twist yourself into today, remember you're allowed to just be exactly as flexible as you are, no more.",
+    "effect": "Reassuring her that her current limits are acceptable, rather than something to push past, removes pressure from self-improvement. She receives permission to simply be where she currently is, without judgment.",
+    "sectionTitle": "Post-its - Yoga Mat",
+    "predictable": "Self-improvement activities often carry implicit pressure rather than explicit permission to simply be where she is",
+    "themes": [
+      "Permission",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever shape today, you're allowed to be exactly as flexible as you are.",
+      "No pressure here, just be exactly as flexible as you actually are today."
+    ]
+  },
+  {
+    "actionTitle": "Inside the toolbox",
+    "text": "Every tool in here has a job, and honestly, being the person who has you in my life feels like the easiest job I've got.",
+    "effect": "Comparing the function of tools to the ease of loving her frames the relationship as effortless rather than a burden. She receives an unexpected declaration tucked inside a completely practical, functional object.",
+    "sectionTitle": "Post-its - Toolbox",
+    "predictable": "Practical, functional objects rarely carry an unexpected declaration about how easy the relationship feels",
+    "themes": [
+      "Sincerity",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Every tool has a job, loving you is honestly the easiest one I've got.",
+      "Tools fix things here, you just make everything easier, simple as that."
+    ]
+  },
+  {
+    "actionTitle": "Inside the wallet",
+    "text": "Whatever you spend today, know that time spent with you is still the best investment I keep making.",
+    "effect": "Playing on financial language while embedding a sincere sentiment about the relationship adds charm to a functional object. She finds an affectionate metaphor hiding inside something entirely practical and mundane.",
+    "sectionTitle": "Post-its - Wallet",
+    "predictable": "Practical financial objects rarely carry an affectionate metaphor about the value of time spent together",
+    "themes": [
+      "Tenderness",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you spend, time with you is still my best investment.",
+      "This holds money, my best investment is still time spent with you."
+    ]
+  },
+  {
+    "actionTitle": "Wrapped around the charger cable",
+    "text": "While this charges up, just a reminder that you're allowed to recharge yourself too, not just your devices.",
+    "effect": "Drawing a parallel between charging a device and needing personal rest reframes self-care as equally necessary and normal. She receives a gentle nudge toward her own recovery, disguised as commentary on a daily habit.",
+    "sectionTitle": "Post-its - Charger Cable",
+    "predictable": "Daily habits like charging devices rarely come with a reminder that she also needs to recharge herself",
+    "themes": [
+      "Care",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "While this charges, remember you're allowed to recharge too, not just it.",
+      "This just charges a phone, you deserve to recharge yourself as well."
+    ]
+  },
+  {
+    "actionTitle": "The other side of the hair brush",
+    "text": "Every strand in place this morning, and somehow you still manage to look effortless doing it.",
+    "effect": "Complimenting how effortless she appears during an unglamorous grooming task counters any self-consciousness about ordinary routines. She receives admiration for a moment she probably considers entirely unremarkable.",
+    "sectionTitle": "Post-its - Hair Brush",
+    "predictable": "Unglamorous grooming routines rarely receive admiration for how effortless they still manage to look",
+    "themes": [
+      "Admiration",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Every strand sorted, you still make it look effortless somehow.",
+      "This brush works hard, you make it look easy either way."
+    ]
+  },
+  {
+    "actionTitle": "The brush and the bad hair day",
+    "text": "Even on the days this doesn't cooperate, you're still the best-looking part of any room you walk into.",
+    "effect": "Reassuring her during a stereotypically frustrating moment, a bad hair day, redirects focus to consistent admiration regardless. She receives confidence-boosting reassurance precisely when self-doubt might creep in.",
+    "sectionTitle": "Post-its - Hair Brush",
+    "predictable": "Frustrating grooming moments like a bad hair day rarely come with reassurance about how she still looks",
+    "themes": [
+      "Reassurance",
+      "Admiration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Bad hair day or not, still the best-looking part of any room.",
+      "Whatever this does today, you're still the best part of any room."
+    ]
+  },
+  {
+    "actionTitle": "The brush and the morning rush",
+    "text": "Rushed morning or not, take one extra second here, you deserve at least that much slowness today.",
+    "effect": "Encouraging a brief pause during a hectic routine advocates for small self-care even amid a rushed schedule. She receives permission to slow down, even briefly, during an otherwise hurried moment.",
+    "sectionTitle": "Post-its - Hair Brush",
+    "predictable": "Hectic morning routines rarely come with encouragement to intentionally slow down, even briefly",
+    "themes": [
+      "Care",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rushed morning or not, take one extra second, you deserve it.",
+      "Even in a rush, one slow second here is allowed, you deserve that."
+    ]
+  },
+  {
+    "actionTitle": "The brush left as a small reminder",
+    "text": "Whatever kind of day you're bracing for, you'll still handle it looking exactly like yourself, and that's more than enough.",
+    "effect": "Affirming her authentic self ahead of an unknown or challenging day reassures her that no performance or change is required. She receives confidence that being herself is sufficient for whatever the day brings.",
+    "sectionTitle": "Post-its - Hair Brush",
+    "predictable": "Anticipation of a challenging day rarely comes with reassurance that simply being herself is already enough",
+    "themes": [
+      "Affirmation",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever today brings, you'll handle it looking exactly like yourself.",
+      "No matter the day ahead, being exactly yourself is already enough."
+    ]
+  },
+  {
+    "actionTitle": "The notebook's first page",
+    "text": "Somewhere in here, write down one thing you're proud of today, even something small nobody else would notice.",
+    "effect": "Encouraging her to actively record personal pride turns a blank page into a tool for self-recognition. She's nudged toward noticing her own accomplishments rather than letting them pass unmarked.",
+    "sectionTitle": "Post-its - Notebook",
+    "predictable": "Personal accomplishments, especially small ones, often go unrecorded and unnoticed even by the person themselves",
+    "themes": [
+      "Encouragement",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Write down something you're proud of today, even if it's small.",
+      "Somewhere in here, note one small thing you did well today."
+    ]
+  },
+  {
+    "actionTitle": "The notebook's blank space",
+    "text": "This blank page is exactly like today, still unwritten, and I think it's going to turn out better than you expect.",
+    "effect": "Comparing an unwritten page to an unfolding day reframes uncertainty as potential rather than something to worry about. She receives optimism about an unknown outcome framed through a simple, relatable metaphor.",
+    "sectionTitle": "Post-its - Notebook",
+    "predictable": "Uncertain or unplanned days rarely come with a reframe of the uncertainty as hopeful potential",
+    "themes": [
+      "Encouragement",
+      "Optimism"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This blank page is like today, unwritten, and probably better than you expect.",
+      "Still blank, like today, and I think today turns out pretty good."
+    ]
+  },
+  {
+    "actionTitle": "The notebook margin note",
+    "text": "Somewhere in the margins here, just know that whatever you're working through, you're handling it better than you think.",
+    "effect": "Placing reassurance in an easily overlooked margin mirrors how self-doubt often hides in the corners of her thinking. She encounters quiet reassurance exactly where self-critical thoughts might otherwise live.",
+    "sectionTitle": "Post-its - Notebook",
+    "predictable": "Self-doubt often goes unanswered in the quiet corners of thinking where reassurance rarely reaches",
+    "themes": [
+      "Reassurance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "In the margins here: you're handling whatever it is better than you think.",
+      "Small margin note: you're doing better with this than you realize."
+    ]
+  },
+  {
+    "actionTitle": "The notebook's last page",
+    "text": "By the time you reach the last page of this notebook, I hope you look back and see how much you grew along the way.",
+    "effect": "Projecting forward to a future moment of reflection frames her ongoing growth as something worth noticing later. She's given a future lens through which her current efforts will feel meaningful in hindsight.",
+    "sectionTitle": "Post-its - Notebook",
+    "predictable": "Ongoing personal growth is rarely framed with an explicit future moment set aside to look back and notice it",
+    "themes": [
+      "Encouragement",
+      "Projection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "By the last page, I hope you see how much you grew along the way.",
+      "Hope you look back at this notebook and notice how far you came."
+    ]
+  },
+  {
+    "actionTitle": "Lower corner of the mirror",
+    "text": "If today gets hard, remember this face has gotten through every hard day before it, without exception.",
+    "effect": "Reminding her of past resilience during anticipated difficulty builds confidence rooted in demonstrated history, not empty reassurance. She sees her own track record used as concrete evidence of her capability.",
+    "sectionTitle": "Post-its - Bathroom Mirror Corner",
+    "predictable": "Anticipated hard days rarely come with a reminder rooted in her own demonstrated history of resilience",
+    "themes": [
+      "Confidence",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If today's hard, remember this face has gotten through every hard day before.",
+      "Whatever today brings, you've gotten through every hard day so far."
+    ]
+  },
+  {
+    "actionTitle": "Top corner of the mirror",
+    "text": "Look up here for two seconds: you don't have to fix everything about yourself today, or ever, really.",
+    "effect": "Explicitly countering the pressure often felt during mirror routines removes the expectation of self-improvement or critique. She receives direct permission to exist without an agenda of fixing herself.",
+    "sectionTitle": "Post-its - Bathroom Mirror Corner",
+    "predictable": "Mirror routines often carry implicit pressure toward self-critique rather than explicit permission not to fix anything",
+    "themes": [
+      "Permission",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "You don't have to fix anything about yourself today, or ever really.",
+      "Two seconds here: nothing about you needs fixing today."
+    ]
+  },
+  {
+    "actionTitle": "Mirror corner, evening version",
+    "text": "Before bed tonight, look here once more: today's over, and however it went, you still get to rest well.",
+    "effect": "Offering closure and permission to rest, regardless of how the day went, separates her worth from the day's outcomes. She's given explicit reassurance that rest isn't conditional on a successful day.",
+    "sectionTitle": "Post-its - Bathroom Mirror Corner",
+    "predictable": "Rest at the end of the day is often implicitly conditional on how the day went rather than unconditionally deserved",
+    "themes": [
+      "Care",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Today's over, however it went, you still get to rest well tonight.",
+      "Whatever kind of day it was, you still deserve a good rest tonight."
+    ]
+  },
+  {
+    "actionTitle": "Mirror corner and the compliment",
+    "text": "Quick reminder before you walk out that door: you're about to be the best-looking, most capable person most people see today.",
+    "effect": "Offering a confident, slightly playful compliment before she leaves boosts her sense of readiness for the day ahead. She departs the mirror having received a small, energizing confidence boost.",
+    "sectionTitle": "Post-its - Bathroom Mirror Corner",
+    "predictable": "Leaving the house rarely comes with a deliberate, confidence-boosting compliment right before stepping out",
+    "themes": [
+      "Confidence",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Before you walk out: you're about to be the best-looking person today sees.",
+      "Quick reminder, you're walking out there looking genuinely great today."
+    ]
+  },
+  {
+    "actionTitle": "Backpack zipper, the second pull",
+    "text": "Whatever's weighing on the inside of this bag, I hope it feels lighter by the time you're back here tonight.",
+    "effect": "Extending the metaphor of physical weight to emotional burden reframes the object as symbolic of hoped-for relief. She carries a wish for emotional lightness alongside the literal contents of her bag.",
+    "sectionTitle": "Post-its - Backpack Zipper",
+    "predictable": "Physical objects carried daily rarely carry an embedded wish for emotional relief by day's end",
+    "themes": [
+      "Care",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever's in there, hope it feels lighter by the time you're back tonight.",
+      "Hoping everything in this bag feels lighter again by tonight."
+    ]
+  },
+  {
+    "actionTitle": "Backpack zipper and the long day",
+    "text": "If today ends up being a long one, remember this zipper closes eventually, just like the day always does too.",
+    "effect": "Using a simple mechanical action as a metaphor for endings offers gentle reassurance that difficult days are finite. She's reminded that no matter how long a day feels, it does eventually come to a close.",
+    "sectionTitle": "Post-its - Backpack Zipper",
+    "predictable": "Long, difficult days rarely come with a simple physical metaphor reassuring her that they are finite",
+    "themes": [
+      "Reassurance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If today's long, remember this zipper closes eventually, so does the day.",
+      "Long day or not, this zips shut eventually, just like today will too."
+    ]
+  },
+  {
+    "actionTitle": "Backpack zipper, the confidence note",
+    "text": "Everything you need for today is already in here, and so is everything you need inside yourself, already there too.",
+    "effect": "Extending practical preparedness to inner readiness reassures her that she's equipped both externally and internally. She receives confidence that her internal resources match her external preparation for the day.",
+    "sectionTitle": "Post-its - Backpack Zipper",
+    "predictable": "Practical daily preparedness rarely comes paired with reassurance about her equally sufficient inner resources",
+    "themes": [
+      "Confidence",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Everything for today is in here, and everything you need is already in you too.",
+      "This bag's ready for today, and so, honestly, are you."
+    ]
+  },
+  {
+    "actionTitle": "Backpack zipper, the goodbye note",
+    "text": "Zipping this up feels a little like a small goodbye for the day, so here's a small hello for when you're back.",
+    "effect": "Framing the daily departure ritual with both farewell and anticipated reunion adds emotional continuity to a routine action. She experiences a mundane closing gesture connected to the warmth of an eventual return.",
+    "sectionTitle": "Post-its - Backpack Zipper",
+    "predictable": "Routine departure actions rarely get explicitly connected to the emotional anticipation of an eventual return",
+    "themes": [
+      "Tenderness",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This zip is a small goodbye for the day, already looking forward to hello later.",
+      "Zipping up for the day, already thinking about seeing you again tonight."
+    ]
+  },
+  {
+    "actionTitle": "Remote control, the pause button",
+    "text": "Even this button knows the value of a good pause, so don't feel guilty about taking one yourself today.",
+    "effect": "Using a familiar interface element as a metaphor for rest normalizes pausing without guilt or justification needed. She receives explicit permission to stop, framed through something entirely ordinary and familiar.",
+    "sectionTitle": "Post-its - Remote Control",
+    "predictable": "The concept of pausing or resting rarely gets normalized through a familiar, everyday object like a remote",
+    "themes": [
+      "Permission",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Even this button knows the value of a pause, don't feel guilty taking one.",
+      "This has a pause button for a reason, so do you, use it guilt-free."
+    ]
+  },
+  {
+    "actionTitle": "Remote control, the volume note",
+    "text": "Whatever you choose to watch, I hope it's loud enough to drown out whatever stressed you out earlier today.",
+    "effect": "Wishing for entertainment to genuinely offer relief, not just distraction, shows care for her emotional state specifically. She receives a wish tailored to counter whatever difficulty she may have faced that day.",
+    "sectionTitle": "Post-its - Remote Control",
+    "predictable": "Evening entertainment choices rarely come with a wish specifically aimed at countering earlier stress",
+    "themes": [
+      "Care",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Hope whatever you watch is loud enough to drown out today's stress.",
+      "Whatever's on tonight, hope it helps drown out anything stressful today."
+    ]
+  },
+  {
+    "actionTitle": "Remote control, the rerun permission",
+    "text": "If you end up rewatching something you've already seen a dozen times, that's still a perfectly good way to spend tonight.",
+    "effect": "Validating comfort-viewing, rather than novelty, removes any implicit pressure to always seek new entertainment. She receives permission to choose familiar comfort over new experiences without judgment.",
+    "sectionTitle": "Post-its - Remote Control",
+    "predictable": "Choosing familiar, repeated entertainment over something new often carries unspoken judgment or self-consciousness",
+    "themes": [
+      "Permission",
+      "Comfort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rewatching something for the tenth time is still a perfectly good night.",
+      "A rerun tonight is just as good a choice as anything new, promise."
+    ]
+  },
+  {
+    "actionTitle": "Remote control, the shared show note",
+    "text": "Whatever you watch alone tonight, save something new for us to start together soon, I want in eventually.",
+    "effect": "Requesting a future shared viewing experience signals interest in participating in her world, not just her company generally. She learns her solo entertainment choices are of genuine interest to be shared later.",
+    "sectionTitle": "Post-its - Remote Control",
+    "predictable": "Solo entertainment choices rarely come with an expressed interest in eventually sharing them together",
+    "themes": [
+      "Connection",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you watch tonight, save something new for us to start soon.",
+      "Watch what you want tonight, just save one new thing for us together."
+    ]
+  },
+  {
+    "actionTitle": "Fridge handle, the snack note",
+    "text": "Whatever you're grabbing right now, I hope it's exactly what you were actually craving, not just settling for.",
+    "effect": "Wishing genuine satisfaction rather than mere convenience shows attentiveness to her actual desires, even in small choices. She receives a small hope that even her minor daily choices bring real satisfaction.",
+    "sectionTitle": "Post-its - Fridge Handle",
+    "predictable": "Small everyday choices like snacking rarely come with a wish for genuine satisfaction rather than mere convenience",
+    "themes": [
+      "Care",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you grab, hope it's actually what you were craving.",
+      "Hope this is exactly what you wanted, not just what was convenient."
+    ]
+  },
+  {
+    "actionTitle": "Fridge handle, the late-night note",
+    "text": "If this is a late-night trip, no judgment here at all, just grab whatever makes tonight a little better.",
+    "effect": "Removing any implied judgment around late-night eating habits offers unconditional acceptance of an ordinary human behavior. She encounters reassurance precisely in a moment sometimes accompanied by self-consciousness.",
+    "sectionTitle": "Post-its - Fridge Handle",
+    "predictable": "Late-night snacking often carries implicit self-judgment rather than an explicit reassurance of acceptance",
+    "themes": [
+      "Permission",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Late-night trip or not, no judgment, grab whatever makes tonight better.",
+      "No judgment for the late-night fridge run, just grab what helps."
+    ]
+  },
+  {
+    "actionTitle": "Fridge handle, the shared meal note",
+    "text": "Whatever's in here today, I'd still rather share a meal with you than eat the fanciest dinner alone somewhere else.",
+    "effect": "Prioritizing her company over any external, objectively superior option reinforces that her presence outweighs circumstance. She learns that ordinary shared meals are preferred over more impressive but solitary alternatives.",
+    "sectionTitle": "Post-its - Fridge Handle",
+    "predictable": "Preference for shared, ordinary meals over impressive solitary alternatives is rarely stated explicitly",
+    "themes": [
+      "Tenderness",
+      "Priority"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever's in here, still rather share it with you than eat fancy alone.",
+      "I'd pick a simple meal with you over a fancy one alone, any day."
+    ]
+  },
+  {
+    "actionTitle": "Fridge handle, the effort note",
+    "text": "Whoever cooks tonight, just know the effort doesn't go unnoticed, whether it's a full meal or reheated leftovers.",
+    "effect": "Acknowledging effort regardless of the meal's complexity validates both elaborate and minimal cooking equally. She learns that the act of caring for a shared meal matters more than its scale or polish.",
+    "sectionTitle": "Post-its - Fridge Handle",
+    "predictable": "Cooking effort is often only acknowledged for elaborate meals rather than validated regardless of complexity",
+    "themes": [
+      "Recognition",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whoever cooks tonight, the effort doesn't go unnoticed, however simple.",
+      "Full meal or reheated leftovers, the effort still counts and is noticed."
+    ]
+  },
+  {
+    "actionTitle": "Yoga mat, the breathing note",
+    "text": "Before you start, just one deep breath here, you're allowed to begin exactly wherever your body is today.",
+    "effect": "Encouraging acceptance of her body's current state before any practice removes pressure to perform or improve immediately. She receives permission to start from wherever she actually is, not where she thinks she should be.",
+    "sectionTitle": "Post-its - Yoga Mat",
+    "predictable": "Physical practices often implicitly expect a certain starting point rather than accepting wherever the body currently is",
+    "themes": [
+      "Permission",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Before you start, one deep breath, begin exactly wherever your body is today.",
+      "One breath first, you're allowed to start exactly where you are today."
+    ]
+  },
+  {
+    "actionTitle": "Yoga mat, the comparison note",
+    "text": "Whatever this looks like compared to anyone else's, yours is the only version that actually matters here.",
+    "effect": "Explicitly rejecting comparison to others reframes her personal practice as valid on its own terms, not relative to a standard. She receives reassurance that her individual effort is sufficient without external comparison.",
+    "sectionTitle": "Post-its - Yoga Mat",
+    "predictable": "Personal practices are often implicitly compared to others rather than explicitly validated on their own terms",
+    "themes": [
+      "Affirmation",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever this looks like compared to others, yours is the one that matters.",
+      "Only your version of this matters here, no comparison needed at all."
+    ]
+  },
+  {
+    "actionTitle": "Yoga mat, the effort note",
+    "text": "However far you get today, showing up here at all already counts as something worth being proud of.",
+    "effect": "Valuing the act of showing up over the outcome achieved reframes effort itself as the meaningful accomplishment. She receives recognition for initiative and consistency rather than only for measurable progress.",
+    "sectionTitle": "Post-its - Yoga Mat",
+    "predictable": "Recognition for physical practice often focuses on measurable progress rather than simply showing up consistently",
+    "themes": [
+      "Recognition",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "However far you get, showing up here already counts for something.",
+      "Just showing up on this mat today is already worth being proud of."
+    ]
+  },
+  {
+    "actionTitle": "Yoga mat, the after note",
+    "text": "Whenever you roll this back up, I hope you're leaving a little lighter than however you felt when you started.",
+    "effect": "Wishing for genuine relief following her practice, rather than assuming it automatically occurred, shows attentive care. She receives a hope specifically tailored to how she may have felt before beginning.",
+    "sectionTitle": "Post-its - Yoga Mat",
+    "predictable": "The hoped-for emotional outcome of a physical practice is rarely explicitly wished for rather than simply assumed",
+    "themes": [
+      "Care",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whenever you roll this up, hope you're leaving a bit lighter than before.",
+      "Hope by the time you're done here, you feel lighter than when you started."
+    ]
+  },
+  {
+    "actionTitle": "Toolbox, the screwdriver note",
+    "text": "This fixes the small stuff around the house, and honestly, so do you, more often than you probably realize.",
+    "effect": "Comparing her to a reliable, dependable tool highlights an underappreciated role she plays in daily life. She receives recognition for consistently solving small problems that often go unacknowledged.",
+    "sectionTitle": "Post-its - Toolbox",
+    "predictable": "Consistently solving small everyday problems often goes unacknowledged compared to more visible contributions",
+    "themes": [
+      "Recognition",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This fixes small stuff, and honestly, so do you, more than you realize.",
+      "Just like this fixes things, you quietly fix a lot too, more than you know."
+    ]
+  },
+  {
+    "actionTitle": "Toolbox, the broken thing note",
+    "text": "Not everything in here is for fixing broken things, some of it's just for making good things a little better.",
+    "effect": "Distinguishing between repair and enhancement reframes effort in the relationship as not just crisis management but active investment. She sees care framed as ongoing improvement, not only responding to problems.",
+    "sectionTitle": "Post-its - Toolbox",
+    "predictable": "Relationship effort is often framed around fixing problems rather than actively improving what's already good",
+    "themes": [
+      "Care",
+      "Growth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Not all of this is for fixing broken things, some is for improving good ones.",
+      "Some tools fix things, some just make good things even better, like us."
+    ]
+  },
+  {
+    "actionTitle": "Toolbox, the borrowed tool note",
+    "text": "If you ever need to borrow strength, patience, or anything else from me, consider this toolbox always open to you.",
+    "effect": "Extending the metaphor of tools to emotional resources offers explicit availability of support whenever she might need it. She receives an open invitation to draw on your strength or patience without having to ask formally.",
+    "sectionTitle": "Post-its - Toolbox",
+    "predictable": "Emotional resources like strength or patience are rarely explicitly offered as openly available, the way tools are",
+    "themes": [
+      "Care",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Need to borrow strength or patience, this toolbox is always open to you.",
+      "Anything you need to borrow, strength included, just consider it available."
+    ]
+  },
+  {
+    "actionTitle": "Toolbox, the DIY note",
+    "text": "Whatever project we tackle together next, I'm looking forward to it mostly because it means more time with you.",
+    "effect": "Framing an upcoming shared task around anticipated time together, rather than the task itself, reveals the true motivation. She learns that practical collaboration is valued primarily for the connection it creates.",
+    "sectionTitle": "Post-its - Toolbox",
+    "predictable": "Anticipation of shared practical projects is rarely framed around the relational time it creates rather than the task",
+    "themes": [
+      "Anticipation",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever we tackle next, looking forward to it mostly for the time with you.",
+      "Next project together, mostly excited just for the time it means with you."
+    ]
+  },
+  {
+    "actionTitle": "Wallet, the receipt note",
+    "text": "Somewhere between the receipts and the cards, just a reminder that you're worth more than anything kept in here.",
+    "effect": "Contrasting monetary contents with her inherent worth reframes a purely financial object around genuine emotional value. She encounters a sincere declaration tucked among the most mundane, transactional items.",
+    "sectionTitle": "Post-its - Wallet",
+    "predictable": "Financial objects rarely carry a sincere reminder about worth that has nothing to do with money",
+    "themes": [
+      "Sincerity",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Between the receipts and cards, you're worth more than anything in here.",
+      "Nothing in here is worth as much as you, just a small reminder."
+    ]
+  },
+  {
+    "actionTitle": "Wallet, the budget note",
+    "text": "Whatever we're saving up for these days, being with you is honestly already the reward I was saving for.",
+    "effect": "Reframing a shared financial goal around emotional fulfillment rather than the material outcome shows priorities beyond money. She learns the relationship itself is treated as the real reward, not just future purchases.",
+    "sectionTitle": "Post-its - Wallet",
+    "predictable": "Shared financial goals are usually framed purely around the material outcome rather than the relationship itself",
+    "themes": [
+      "Sincerity",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever we're saving for, being with you is already the reward.",
+      "Saving up for things, but honestly you're already the reward I wanted."
+    ]
+  },
+  {
+    "actionTitle": "Wallet, the small purchase note",
+    "text": "Whatever small thing you buy with this today, I hope it makes some tiny part of your day just a bit easier.",
+    "effect": "Wishing genuine ease from a small purchase, rather than assuming it's trivial, shows attentiveness to minor daily comforts. She receives a hope tailored specifically to whatever small relief that purchase might bring.",
+    "sectionTitle": "Post-its - Wallet",
+    "predictable": "Small everyday purchases rarely come with an explicit wish that they genuinely ease some part of the day",
+    "themes": [
+      "Care",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever small thing you buy today, hope it makes your day a bit easier.",
+      "Hope this small purchase today makes some tiny part of things easier."
+    ]
+  },
+  {
+    "actionTitle": "Wallet, the emergency note",
+    "text": "If you ever need this for something urgent, don't hesitate, I'd rather you use it than worry about asking first.",
+    "effect": "Removing any hesitation around using shared resources in urgent situations reinforces unconditional support and trust. She receives reassurance that practical help is available without needing to justify the need first.",
+    "sectionTitle": "Post-its - Wallet",
+    "predictable": "Access to shared resources during urgent situations sometimes comes with hesitation rather than unconditional reassurance",
+    "themes": [
+      "Trust",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If you need this for something urgent, don't hesitate, just use it.",
+      "Urgent and need this, use it without a second thought, always."
+    ]
+  },
+  {
+    "actionTitle": "Charger cable, the low battery note",
+    "text": "Just like this cable brings a dead battery back to full, I hope being home tonight does the same for you.",
+    "effect": "Comparing device charging to emotional recovery at home frames rest as an active process of restoration, not passivity. She receives a wish framed through a relatable, everyday metaphor for genuine recharge.",
+    "sectionTitle": "Post-its - Charger Cable",
+    "predictable": "Emotional recovery at home is rarely framed through the relatable metaphor of charging a device back to full",
+    "themes": [
+      "Care",
+      "Comfort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Just like this charges a dead battery, hope home does the same for you.",
+      "Hope being home tonight recharges you the way this recharges a phone."
+    ]
+  },
+  {
+    "actionTitle": "Charger cable, the overnight note",
+    "text": "Plugged in overnight, this fully recharges by morning, so no rush, take all the rest you actually need tonight.",
+    "effect": "Emphasizing that full recovery takes uninterrupted time reassures her that resting fully, without rushing, is legitimate. She receives permission to take as long as genuinely needed to feel restored.",
+    "sectionTitle": "Post-its - Charger Cable",
+    "predictable": "Overnight rest is sometimes rushed rather than explicitly given full permission to take as long as needed",
+    "themes": [
+      "Permission",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This takes all night to charge fully, so take all the rest you need too.",
+      "No rush overnight, this charges slow and steady, so can you."
+    ]
+  },
+  {
+    "actionTitle": "Charger cable, the tangled note",
+    "text": "A little tangled today, this cable, kind of like some days feel, but it still works exactly the same underneath.",
+    "effect": "Normalizing messy, complicated feelings by comparing them to a tangled but still functional cable reduces shame around difficult days. She's reassured that a chaotic-feeling day doesn't diminish her underlying capability.",
+    "sectionTitle": "Post-its - Charger Cable",
+    "predictable": "Messy or overwhelming days rarely get normalized through a simple, relatable everyday object comparison",
+    "themes": [
+      "Reassurance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A little tangled today, like this cable, but still works just the same.",
+      "Tangled like this cable sometimes, still functions exactly the same though."
+    ]
+  },
+  {
+    "actionTitle": "Charger cable, the full battery note",
+    "text": "Once this hits one hundred percent, I hope you get there too tonight, fully recharged and ready for tomorrow.",
+    "effect": "Wishing for her complete emotional restoration, mirrored by the device reaching full charge, sets a clear, hopeful benchmark. She receives an explicit hope for total recovery rather than just partial relief.",
+    "sectionTitle": "Post-its - Charger Cable",
+    "predictable": "Complete emotional restoration is rarely wished for explicitly, using a clear, familiar benchmark like a full battery",
+    "themes": [
+      "Care",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Once this hits one hundred percent, hope you do too, tonight.",
+      "Hope you're fully recharged by tonight, just like this will be."
+    ]
   }
 ]

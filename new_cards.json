@@ -11588,5 +11588,855 @@
       "Laisse un petit mot à côté du café préparé à l'avance.",
       "Choisis de le préparer un jour où elle ne s'y attend absolument pas."
     ]
+  },
+  {
+    "actionTitle": "The blank list start",
+    "text": "Sit down together and start a shared bucket list from scratch, no matter how big or small the items are.",
+    "effect": "Creating a joint list from nothing establishes a concrete shared vision for the future that exists beyond spoken conversation. She sees her individual wishes merge with yours into one tangible, growing document.",
+    "sectionTitle": "The Shared Bucket List",
+    "predictable": "Individual wishes for the future usually stay unspoken or unmerged into a shared, tangible document",
+    "themes": [
+      "Connection",
+      "Projection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Add at least one item that's purely playful, with zero practical value.",
+      "Ask her to add the very first item before you add yours."
+    ]
+  },
+  {
+    "actionTitle": "The one small item this month",
+    "text": "Pick the smallest, easiest item on your shared list and actually go do it together this month.",
+    "effect": "Actively completing a small shared goal, rather than letting the list stay aspirational, proves the list has real weight. She experiences a list that produces action, not just words on a page.",
+    "sectionTitle": "The Shared Bucket List",
+    "predictable": "Shared lists of future wishes tend to stay aspirational rather than producing near-term action",
+    "themes": [
+      "Follow-through",
+      "Complicity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick something that can genuinely be done within a week, not just this month.",
+      "Cross it off together dramatically once it's done, like a small celebration."
+    ]
+  },
+  {
+    "actionTitle": "The list update night",
+    "text": "Once a month, revisit the shared list together, add new items, and talk about why they matter to each of you.",
+    "effect": "Regular revisiting keeps a shared project alive and reflects how your individual wishes evolve over time. She experiences a recurring ritual that treats her evolving wants as worth returning to.",
+    "sectionTitle": "The Shared Bucket List",
+    "predictable": "Evolving personal wants are rarely revisited together on a regular, dedicated basis",
+    "themes": [
+      "Connection",
+      "Regularity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Set a recurring date on the calendar so it doesn't quietly get forgotten.",
+      "Ask her which item she's most excited about this time, and why."
+    ]
+  },
+  {
+    "actionTitle": "The unlikely item",
+    "text": "Add one genuinely ambitious, slightly unlikely item to the list, just to see it written down as a real possibility.",
+    "effect": "Writing down an ambitious wish, even an unlikely one, validates it as legitimate rather than dismissing it as unrealistic. She sees a big dream treated as worth naming rather than quietly shelved.",
+    "sectionTitle": "The Shared Bucket List",
+    "predictable": "Ambitious or unlikely personal wishes are often dismissed rather than written down as legitimate possibilities",
+    "themes": [
+      "Projection",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Don't discuss feasibility yet, just write it down and let it exist for now.",
+      "Ask her what the very first step toward it might look like, hypothetically."
+    ]
+  },
+  {
+    "actionTitle": "The list read aloud",
+    "text": "Read the entire shared list out loud together, slowly, imagining each item actually happening as you go.",
+    "effect": "Vocalizing shared goals together, rather than just glancing at a written list, makes the future feel more vividly real. She experiences the list as something imagined together in the moment, not just stored text.",
+    "sectionTitle": "The Shared Bucket List",
+    "predictable": "Written shared goals are rarely read aloud and imagined vividly together",
+    "themes": [
+      "Connection",
+      "Projection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pause on each item and briefly describe what it might feel like.",
+      "Let her choose which item to read last, as a kind of closing note."
+    ]
+  },
+  {
+    "actionTitle": "The recess game revival",
+    "text": "Ask her to teach you a game she played at recess as a kid, and actually play it together right now.",
+    "effect": "Reviving a childhood activity invites her to share a piece of her early identity through action rather than description. She gets to be the expert on a version of herself rarely visible in the present.",
+    "sectionTitle": "Teach Me Your Childhood Game",
+    "predictable": "Early childhood identity is rarely made visible through present-day shared activity",
+    "themes": [
+      "Nostalgia",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask her to explain the rules exactly as she remembers them, even if imperfect.",
+      "Play a full round seriously, not just a quick demonstration."
+    ]
+  },
+  {
+    "actionTitle": "The backyard game rules",
+    "text": "Have her teach you a game she and her siblings or friends invented growing up, rules and all.",
+    "effect": "Learning an invented game reveals a piece of her private childhood world that was never meant for outsiders. She shares something that belonged only to her small circle, now extended to you.",
+    "sectionTitle": "Teach Me Your Childhood Game",
+    "predictable": "Invented childhood games from a private circle rarely get shared with someone outside that original circle",
+    "themes": [
+      "Nostalgia",
+      "Trust"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask who usually won when she played it as a kid.",
+      "Try to break the rules on purpose once, just to see her reaction."
+    ]
+  },
+  {
+    "actionTitle": "The game she always won",
+    "text": "Ask her to teach you the one game she was always best at as a child, and let her show off a little.",
+    "effect": "Letting her demonstrate a childhood strength shifts the dynamic to one where her early competence is spotlighted and celebrated. She gets to relive a moment of confidence from her past in front of you.",
+    "sectionTitle": "Teach Me Your Childhood Game",
+    "predictable": "Early childhood competence and pride rarely gets a spotlight moment in the present relationship",
+    "themes": [
+      "Confidence",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Genuinely try to beat her at it, even if you clearly won't.",
+      "Ask her to tell the story of the time she was best at it."
+    ]
+  },
+  {
+    "actionTitle": "The game nobody remembers the rules to",
+    "text": "Try to reconstruct together a game she half-remembers from childhood, filling in the gaps as you go.",
+    "effect": "Collaboratively rebuilding a fuzzy memory turns an incomplete recollection into a shared creative act rather than a lost detail. She experiences a piece of her past being actively rescued and rebuilt with you.",
+    "sectionTitle": "Teach Me Your Childhood Game",
+    "predictable": "Fuzzy, half-forgotten childhood memories are rarely actively reconstructed together as a shared activity",
+    "themes": [
+      "Nostalgia",
+      "Creativity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Invent plausible rules together for the parts neither of you remembers.",
+      "Give the reconstructed game a new name together once it's done."
+    ]
+  },
+  {
+    "actionTitle": "The playground trade",
+    "text": "Teach her a game from your own childhood in exchange for one of hers, back to back.",
+    "effect": "A mutual, back-to-back exchange of childhood games ensures both partners are equally vulnerable and equally generous. She experiences reciprocity in sharing a hidden part of the past, not a one-sided reveal.",
+    "sectionTitle": "Teach Me Your Childhood Game",
+    "predictable": "Sharing childhood memories is rarely structured as an explicitly equal, back-to-back exchange",
+    "themes": [
+      "Reciprocity",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let her go first, then genuinely try to remember one of your own.",
+      "Compare the two games afterward and see what they have in common."
+    ]
+  },
+  {
+    "actionTitle": "The no-talking screening",
+    "text": "Watch a movie together with an agreement not to talk at all until the credits roll, just full attention.",
+    "effect": "Committing to full, undivided attention on shared media, without the usual side comments, deepens the sense of presence. She experiences a rare block of time where nothing competes with being fully together.",
+    "sectionTitle": "The Silent Movie Night",
+    "predictable": "Shared screen time is usually interrupted by comments, phones, or divided attention rather than full presence",
+    "themes": [
+      "Presence",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Turn phones fully off, not just silent, to remove the temptation.",
+      "Sit closer than usual, with some physical contact, throughout the film."
+    ]
+  },
+  {
+    "actionTitle": "The post-movie debrief",
+    "text": "After a movie watched in silence, spend ten minutes actually discussing what struck you both about it.",
+    "effect": "Following silent viewing with intentional discussion turns passive consumption into an active, shared reflection. She experiences a movie becoming a real conversation starter instead of just background noise.",
+    "sectionTitle": "The Silent Movie Night",
+    "predictable": "Shared media consumption rarely leads to intentional, structured discussion afterward",
+    "themes": [
+      "Connection",
+      "Reflection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask her what scene affected her most and really listen to the answer.",
+      "Share your own honest reaction first, to model openness."
+    ]
+  },
+  {
+    "actionTitle": "The unfamiliar genre night",
+    "text": "Pick a movie genre neither of you usually watches, and go into it together with open curiosity.",
+    "effect": "Choosing an unfamiliar genre together removes the comfort of predictable taste and replaces it with shared discovery. She experiences novelty explored as a team rather than routine entertainment choices.",
+    "sectionTitle": "The Silent Movie Night",
+    "predictable": "Movie choices tend to stay within familiar, predictable genres rather than deliberately exploring the unknown",
+    "themes": [
+      "Curiosity",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick it somewhat randomly, without overthinking the choice.",
+      "Commit to finishing it even if it turns out to be strange or bad."
+    ]
+  },
+  {
+    "actionTitle": "The old favorite rewatch",
+    "text": "Rewatch a movie that meant something to one of you years ago, and let the other person see it for the first time.",
+    "effect": "Sharing a personally meaningful old favorite invites her into a piece of your emotional history through a familiar lens. She experiences access to what shaped you, through something you once loved alone.",
+    "sectionTitle": "The Silent Movie Night",
+    "predictable": "Personally meaningful media from before the relationship is rarely revisited together as a shared window into the past",
+    "themes": [
+      "Nostalgia",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Explain briefly beforehand why it mattered to you, without over-explaining.",
+      "Watch her reactions as much as the screen, this first time through."
+    ]
+  },
+  {
+    "actionTitle": "The blanket fort screening",
+    "text": "Build an actual blanket fort or cozy nest on the floor or couch before watching anything together tonight.",
+    "effect": "Investing effort into a cozy, slightly childlike physical setup signals that comfort and closeness were deliberately prioritized. She experiences a movie night elevated from routine to intentionally special.",
+    "sectionTitle": "The Silent Movie Night",
+    "predictable": "Movie nights are usually watched in the ordinary seating setup rather than an intentionally built cozy space",
+    "themes": [
+      "Playfulness",
+      "Comfort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Add snacks that feel like an occasion, not just the usual routine ones.",
+      "Make the fort slightly too small on purpose, so you're forced close together."
+    ]
+  },
+  {
+    "actionTitle": "The furniture shuffle",
+    "text": "Spend an afternoon rearranging the furniture in one room together, just to see how a fresh layout feels.",
+    "effect": "Physically reshaping a shared space together turns a mundane home task into a small, collaborative creative project. She experiences the home evolving as a joint decision rather than a fixed, unquestioned backdrop.",
+    "sectionTitle": "Rearranging a Room Together",
+    "predictable": "Shared living spaces tend to stay fixed rather than periodically reshaped as a joint creative decision",
+    "themes": [
+      "Collaboration",
+      "Creativity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Try at least one layout that feels a little unconventional, just to test it.",
+      "Take a photo of the before and after to compare the change."
+    ]
+  },
+  {
+    "actionTitle": "The decluttering pass",
+    "text": "Go through one shared space together and decide as a team what stays, what goes, and what gets donated.",
+    "effect": "Making decluttering decisions jointly, rather than one person managing it alone, treats the shared space as truly co-owned. She experiences her preferences about the home being actively consulted, not assumed.",
+    "sectionTitle": "Rearranging a Room Together",
+    "predictable": "Decisions about shared living spaces are sometimes made by one person alone rather than jointly as a team",
+    "themes": [
+      "Collaboration",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let her have the final say on at least a few genuinely contested items.",
+      "Turn on music while you do it, to keep the mood light rather than tedious."
+    ]
+  },
+  {
+    "actionTitle": "The corner nobody uses",
+    "text": "Pick the most neglected corner of your shared space and turn it into something either of you would actually enjoy using.",
+    "effect": "Reviving an overlooked space shows sustained attention to the shared home even in its least prioritized parts. She sees care extended to a forgotten space, not just the ones already comfortable.",
+    "sectionTitle": "Rearranging a Room Together",
+    "predictable": "Neglected corners of a shared home tend to stay neglected rather than being intentionally revived",
+    "themes": [
+      "Care",
+      "Creativity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask her what she'd genuinely want that corner to become.",
+      "Set a small budget together for making it happen, even if modest."
+    ]
+  },
+  {
+    "actionTitle": "The swap-your-side day",
+    "text": "For one day, swap which side of the bed, desk, or shared space you each usually use, just to notice something new.",
+    "effect": "A temporary swap of habitual personal space introduces novelty and perspective into an otherwise fixed daily routine. She experiences a small, playful disruption to routine that invites noticing rather than autopilot.",
+    "sectionTitle": "Rearranging a Room Together",
+    "predictable": "Habitual personal spaces within a shared home rarely get intentionally swapped, even briefly, for perspective",
+    "themes": [
+      "Playfulness",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Actually commit to the full day, not just a few minutes.",
+      "Compare notes afterward on what felt different from the swap."
+    ]
+  },
+  {
+    "actionTitle": "The one new object rule",
+    "text": "Agree to bring one new small object into a shared room this week that reflects something about each of you.",
+    "effect": "Introducing personally meaningful objects into shared space makes the home a visible reflection of both individual identities. She sees the shared environment actively shaped to represent her, not just neutral furnishing.",
+    "sectionTitle": "Rearranging a Room Together",
+    "predictable": "Shared living spaces often reflect only one person's taste or neither person's individual identity explicitly",
+    "themes": [
+      "Identity",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Explain to each other why you picked what you picked.",
+      "Place both objects somewhere visible, side by side if possible."
+    ]
+  },
+  {
+    "actionTitle": "The five-thing thank-you",
+    "text": "List five specific things she's done for you recently, however small, and thank her for each one individually.",
+    "effect": "Naming specific past actions rather than offering vague general gratitude proves those moments were genuinely noticed and remembered. She discovers that even her smallest contributions were registered and valued individually.",
+    "sectionTitle": "The Thank-You Tour",
+    "predictable": "Gratitude expressed tends to stay general rather than naming specific, previously unacknowledged past actions",
+    "themes": [
+      "Recognition",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Include at least one thing so small she probably assumed you didn't notice.",
+      "Say each one slowly, giving it space rather than rushing through the list."
+    ]
+  },
+  {
+    "actionTitle": "The unprompted appreciation",
+    "text": "Without any occasion or reason, tell her one specific quality about her you've been quietly appreciating lately.",
+    "effect": "Offering appreciation without a triggering event or occasion proves the observation is spontaneous and unprompted by obligation. She receives recognition that clearly wasn't required by any specific occasion.",
+    "sectionTitle": "The Thank-You Tour",
+    "predictable": "Appreciation is often tied to specific occasions rather than offered spontaneously without any prompting event",
+    "themes": [
+      "Recognition",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick a quality that's easy to overlook precisely because it's so consistent.",
+      "Explain briefly why that particular quality has been on your mind."
+    ]
+  },
+  {
+    "actionTitle": "The thank-you for the hard stuff",
+    "text": "Thank her specifically for how she's handled something difficult recently, not just the easy, pleasant things.",
+    "effect": "Acknowledging resilience during difficulty, not just pleasant contributions, validates effort that's often invisible or taken for granted. She experiences recognition for strength shown precisely when things were hardest.",
+    "sectionTitle": "The Thank-You Tour",
+    "predictable": "Recognition tends to focus on pleasant contributions rather than resilience shown during genuinely difficult moments",
+    "themes": [
+      "Recognition",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be specific about what exactly she did well under the difficulty.",
+      "Avoid immediately pivoting to advice, just let the thanks stand alone."
+    ]
+  },
+  {
+    "actionTitle": "The thank-you note left behind",
+    "text": "Write a short, specific thank-you note and leave it somewhere she'll find it later today, unannounced.",
+    "effect": "A written note discovered independently, rather than delivered directly, creates a small moment of surprise around gratitude. She experiences appreciation arriving unexpectedly, extending the moment beyond the initial words.",
+    "sectionTitle": "The Thank-You Tour",
+    "predictable": "Gratitude is usually delivered directly in the moment rather than discovered independently and unexpectedly later",
+    "themes": [
+      "Surprise",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Make it specific enough that she knows exactly what it's about.",
+      "Hide it somewhere tied to the thing you're actually thanking her for."
+    ]
+  },
+  {
+    "actionTitle": "The thank-you chain",
+    "text": "Start a week where you each leave one specific thank-you for the other, every single day, no repeats allowed.",
+    "effect": "A sustained daily practice of specific gratitude, rather than a single instance, builds recognition into an ongoing habit. She experiences appreciation as a consistent rhythm rather than an isolated, occasional event.",
+    "sectionTitle": "The Thank-You Tour",
+    "predictable": "Expressed gratitude tends to be occasional rather than sustained as a consistent daily practice for a full week",
+    "themes": [
+      "Consistency",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Keep track somewhere so neither of you accidentally repeats a thank-you.",
+      "Make the last day's thank-you a summary of the whole week."
+    ]
+  },
+  {
+    "actionTitle": "The mid-day cloud pause",
+    "text": "In the middle of an ordinary day, stop for ten minutes and just watch the clouds together, no phones.",
+    "effect": "Interrupting a busy ordinary day for unstructured shared stillness signals that presence matters more than productivity. She experiences a rare pause carved intentionally out of a day that would otherwise stay busy.",
+    "sectionTitle": "Cloud Watching Break",
+    "predictable": "Ordinary busy days rarely include an intentional, phone-free pause carved out purely for shared stillness",
+    "themes": [
+      "Presence",
+      "Spontaneity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Lie down together if possible, rather than just standing and glancing up.",
+      "Try naming shapes you see in the clouds, just for the fun of it."
+    ]
+  },
+  {
+    "actionTitle": "The shape guessing game",
+    "text": "While cloud watching, take turns describing what shape you see and have the other person guess before you say it.",
+    "effect": "Turning passive observation into a playful guessing game adds shared engagement rather than quiet, separate looking. She experiences a simple natural moment transformed into active, connected play.",
+    "sectionTitle": "Cloud Watching Break",
+    "predictable": "Passive shared observation of nature rarely gets turned into an active, playful guessing game",
+    "themes": [
+      "Playfulness",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Describe the shape indirectly first, making her work a little to guess it.",
+      "Let her go first each round, so she sets the pace of the game."
+    ]
+  },
+  {
+    "actionTitle": "The worry left behind",
+    "text": "Before cloud watching, name one small worry out loud, then agree to let it go for these ten minutes only.",
+    "effect": "Explicitly naming and setting aside a worry, even briefly, creates a small deliberate space free from ongoing stress. She experiences a shared moment protected on purpose from whatever else is weighing on the day.",
+    "sectionTitle": "Cloud Watching Break",
+    "predictable": "Everyday worries rarely get explicitly named and deliberately set aside for a small protected shared moment",
+    "themes": [
+      "Presence",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Actually say the worry out loud, don't just think it silently.",
+      "Check in afterward on whether the ten minutes actually helped, even a little."
+    ]
+  },
+  {
+    "actionTitle": "The rooftop or balcony version",
+    "text": "If you have access to a rooftop, balcony, or open window, do the cloud watching from there instead of the yard.",
+    "effect": "Choosing an elevated or unusual vantage point adds a small sense of adventure to an otherwise simple shared activity. She experiences an ordinary pause made slightly more memorable through an unusual setting.",
+    "sectionTitle": "Cloud Watching Break",
+    "predictable": "Simple shared pauses usually happen in the most convenient spot rather than an intentionally chosen vantage point",
+    "themes": [
+      "Adventure",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Bring a drink each, to make the small outing feel a bit more special.",
+      "Stay a little longer than planned if the moment feels worth it."
+    ]
+  },
+  {
+    "actionTitle": "The cloud watching at night version",
+    "text": "Do a nighttime version instead, watching the sky or stars together for ten quiet minutes before heading to bed.",
+    "effect": "Adapting the same pause ritual to nighttime extends a moment of shared stillness into the transition toward sleep. She experiences a calming, connected close to the day rather than rushing straight to bed.",
+    "sectionTitle": "Cloud Watching Break",
+    "predictable": "The transition to bedtime rarely includes a deliberate, calming shared pause before actually going to sleep",
+    "themes": [
+      "Calm",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Turn off unnecessary lights first, to actually see the sky clearly.",
+      "Hold hands quietly for at least part of the time, without talking."
+    ]
+  },
+  {
+    "actionTitle": "The sudden dance break",
+    "text": "In the middle of a normal evening, put on one upbeat song and dance together for its full length, no reason needed.",
+    "effect": "Introducing a sudden burst of joyful movement without any special occasion breaks routine and injects unscripted fun. She experiences spontaneous playfulness that isn't tied to a birthday or celebration.",
+    "sectionTitle": "The Two-Minute Dance Party",
+    "predictable": "Playful, energetic shared moments are usually reserved for special occasions rather than ordinary evenings",
+    "themes": [
+      "Playfulness",
+      "Spontaneity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick a song that's a little ridiculous, just to maximize the fun.",
+      "Commit fully, even if the dancing itself is objectively terrible."
+    ]
+  },
+  {
+    "actionTitle": "The chores dance interruption",
+    "text": "While doing a boring chore together, stop everything for two minutes to dance to one song, then go right back to it.",
+    "effect": "Interrupting a tedious task with brief joyful movement transforms drudgery into a moment punctuated by lightness. She experiences even unglamorous shared tasks made memorable by an unexpected pause.",
+    "sectionTitle": "The Two-Minute Dance Party",
+    "predictable": "Tedious shared chores rarely get interrupted by a deliberately joyful, playful pause in the middle",
+    "themes": [
+      "Playfulness",
+      "Spontaneity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choose a song neither of you takes too seriously.",
+      "Go right back to the chore afterward, as if nothing happened, for the joke of it."
+    ]
+  },
+  {
+    "actionTitle": "The silent disco version",
+    "text": "Put in headphones each, listening to your own music, and dance together in silence for two minutes, just watching each other.",
+    "effect": "Dancing without shared audio, relying purely on visual connection, creates an unusual, intimate form of shared play. She experiences a strange, funny intimacy built entirely on watching rather than listening together.",
+    "sectionTitle": "The Two-Minute Dance Party",
+    "predictable": "Shared dancing moments almost always rely on shared audio rather than an unusual silent, visual-only version",
+    "themes": [
+      "Playfulness",
+      "Intimacy"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Try to guess what song the other person is dancing to, just from their moves.",
+      "Keep eye contact as much as possible throughout, even as it gets silly."
+    ]
+  },
+  {
+    "actionTitle": "The slow song finish",
+    "text": "End a two-minute dance party with one slow song, switching from goofy energy into a close, quiet slow dance.",
+    "effect": "Transitioning deliberately from playful energy into quiet closeness shows how a light moment can deepen into tenderness. She experiences fun and intimacy connected in one continuous shared moment.",
+    "sectionTitle": "The Two-Minute Dance Party",
+    "predictable": "Playful, energetic shared moments and quiet tender ones are rarely deliberately connected into one continuous experience",
+    "themes": [
+      "Tenderness",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Hold her closer than usual during the slow song part.",
+      "Say nothing during the slow song, just let the closeness speak."
+    ]
+  },
+  {
+    "actionTitle": "The kids-in-the-kitchen dance",
+    "text": "Turn on music while making dinner together and treat the whole cooking process like an ongoing dance party.",
+    "effect": "Merging a functional task with sustained playful movement turns necessary cooking time into extended shared joy. She experiences a routine task consistently elevated by lightness rather than being purely functional.",
+    "sectionTitle": "The Two-Minute Dance Party",
+    "predictable": "Functional shared tasks like cooking are rarely sustained as an ongoing playful, musical experience throughout",
+    "themes": [
+      "Playfulness",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Make a specific playlist in advance just for cooking together.",
+      "Use kitchen tools as pretend microphones at least once, for the laugh."
+    ]
+  },
+  {
+    "actionTitle": "The broken thing project",
+    "text": "Pick something small that's been broken or not working around the house, and fix it together this weekend.",
+    "effect": "Tackling a neglected practical problem as a team turns an annoying, postponed task into a shared accomplishment. She experiences a nagging household issue resolved through joint effort rather than staying unresolved.",
+    "sectionTitle": "Fixing Something Together",
+    "predictable": "Small broken or malfunctioning household items tend to stay unresolved rather than becoming a joint weekend project",
+    "themes": [
+      "Collaboration",
+      "Accomplishment"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Look up how to do it together first, rather than one person taking charge.",
+      "Celebrate a little once it's actually fixed, even if it was minor."
+    ]
+  },
+  {
+    "actionTitle": "The tutorial video duo",
+    "text": "Find a how-to video for a small repair or project and follow it together step by step, sharing the tasks.",
+    "effect": "Learning a new practical skill together as equals, rather than one person being the expert, balances the collaboration. She experiences a shared learning curve rather than being positioned as a passive helper.",
+    "sectionTitle": "Fixing Something Together",
+    "predictable": "Practical household tasks often position one partner as the expert and the other as passive helper",
+    "themes": [
+      "Equality",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take turns doing the hands-on steps rather than one person doing it all.",
+      "Laugh together if you get a step wrong before figuring out the correction."
+    ]
+  },
+  {
+    "actionTitle": "The learn-from-her project",
+    "text": "If she has a practical skill you don't, ask her to lead a small fix or project and genuinely follow her instructions.",
+    "effect": "Positioning her as the lead on a practical task reverses typical assumptions about who handles repairs or projects. She experiences her competence trusted and followed rather than assumed away.",
+    "sectionTitle": "Fixing Something Together",
+    "predictable": "Practical or technical competence is often assumed to default to one partner rather than being led by her",
+    "themes": [
+      "Trust",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask genuine questions rather than trying to take over the task.",
+      "Thank her specifically afterward for teaching you something useful."
+    ]
+  },
+  {
+    "actionTitle": "The give-it-away fix",
+    "text": "Fix up an old item together with the plan to donate or give it away once it works again, rather than keeping it.",
+    "effect": "Directing a repaired item toward generosity, rather than personal use, adds a layer of shared purpose to the task. She experiences practical teamwork connected to a value beyond just personal convenience.",
+    "sectionTitle": "Fixing Something Together",
+    "predictable": "Practical repair projects are usually aimed at personal use rather than intentionally directed toward generosity",
+    "themes": [
+      "Generosity",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Decide together in advance who or where it will go once it's fixed.",
+      "Clean it up nicely together, not just functionally repaired."
+    ]
+  },
+  {
+    "actionTitle": "The five-minute fix hunt",
+    "text": "Walk through your shared space together looking for anything that takes five minutes or less to fix, and fix it on the spot.",
+    "effect": "Actively hunting for small, quick fixes together turns minor irritations into an efficient, satisfying joint sweep. She experiences small nagging annoyances addressed immediately rather than accumulating unresolved.",
+    "sectionTitle": "Fixing Something Together",
+    "predictable": "Minor household annoyances tend to accumulate rather than being actively hunted down and resolved together",
+    "themes": [
+      "Efficiency",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Set a timer for fifteen minutes total and see how many you can knock out.",
+      "Keep a running tally out loud of how many small fixes you've completed."
+    ]
+  },
+  {
+    "actionTitle": "The no-destination walk",
+    "text": "Go for a walk around the neighborhood together with absolutely no destination or purpose, just to be outside together.",
+    "effect": "Removing any practical destination from a shared walk frees the time entirely for connection rather than errands. She experiences movement together valued purely for the shared time, not for efficiency.",
+    "sectionTitle": "The Neighborhood Walk",
+    "predictable": "Shared walks are usually tied to a destination or errand rather than existing purely for connection",
+    "themes": [
+      "Presence",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let her pick which direction to turn at every intersection.",
+      "Leave phones behind or on silent for the whole walk."
+    ]
+  },
+  {
+    "actionTitle": "The new street exploration",
+    "text": "Walk down a street or path in your neighborhood you've genuinely never explored together before.",
+    "effect": "Deliberately choosing an unexplored route introduces small novelty into a familiar, routine environment. She experiences even a well-known neighborhood offering something new when explored intentionally.",
+    "sectionTitle": "The Neighborhood Walk",
+    "predictable": "Familiar neighborhoods are usually navigated through the same routine paths rather than intentionally unexplored ones",
+    "themes": [
+      "Curiosity",
+      "Adventure"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick the street somewhat randomly, without planning it out in advance.",
+      "Notice and point out at least one detail neither of you had seen before."
+    ]
+  },
+  {
+    "actionTitle": "The talking point walk",
+    "text": "Before the walk, each pick one thing you've been wanting to talk about, and use the walk as the space for it.",
+    "effect": "Using a walk as protected time for meaningful conversation ensures important topics get dedicated space rather than being squeezed in. She experiences a walk deliberately set aside for things that matter to her.",
+    "sectionTitle": "The Neighborhood Walk",
+    "predictable": "Meaningful conversations often get squeezed into fragmented moments rather than given dedicated, protected time",
+    "themes": [
+      "Communication",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let her go first if she wants to, without rushing her topic.",
+      "Actually follow up on what was discussed sometime after the walk."
+    ]
+  },
+  {
+    "actionTitle": "The silent observation walk",
+    "text": "Walk together in complete silence, both of you just quietly noticing your surroundings, for the whole route.",
+    "effect": "A shared silent walk removes the usual pressure to fill space with words, allowing pure companionable presence. She experiences comfort in shared quiet that doesn't require constant verbal engagement.",
+    "sectionTitle": "The Neighborhood Walk",
+    "predictable": "Shared time together is usually filled with conversation rather than comfortable, companionable silence",
+    "themes": [
+      "Presence",
+      "Comfort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Hold hands for the whole walk as the only form of connection needed.",
+      "Break the silence only at the very end, sharing one thing you each noticed."
+    ]
+  },
+  {
+    "actionTitle": "The stop for something small walk",
+    "text": "During the walk, stop for one small unplanned thing together, a coffee, a bench, a view, whatever catches your eye.",
+    "effect": "Allowing spontaneous detours during a walk keeps the time flexible and responsive rather than rigidly scheduled. She experiences a shared outing that adapts in the moment rather than following a fixed plan.",
+    "sectionTitle": "The Neighborhood Walk",
+    "predictable": "Shared outings are usually planned rigidly in advance rather than allowing spontaneous in-the-moment detours",
+    "themes": [
+      "Spontaneity",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let whichever of you notices something first choose the stop.",
+      "Don't rush the stop, actually take a few minutes there before continuing."
+    ]
+  },
+  {
+    "actionTitle": "The better apology",
+    "text": "Think of a past moment where your apology fell short, and revisit it now with a fuller, more thoughtful one.",
+    "effect": "Returning to a previously inadequate apology shows ongoing accountability rather than treating past mistakes as closed. She experiences a past hurt acknowledged with more care than it originally received.",
+    "sectionTitle": "The Apology Redo",
+    "predictable": "Past inadequate apologies are usually left as they were rather than being revisited and improved later",
+    "themes": [
+      "Accountability",
+      "Repair"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Name specifically what you understand now that you didn't back then.",
+      "Ask her if there's anything about it she still wants you to understand."
+    ]
+  },
+  {
+    "actionTitle": "The apology without excuses",
+    "text": "Apologize for something specific without adding any justification or explanation, just the acknowledgment itself.",
+    "effect": "Removing self-justification from an apology demonstrates that her experience of hurt matters more than your reasoning. She receives an apology centered entirely on her, not partially redirected toward your defense.",
+    "sectionTitle": "The Apology Redo",
+    "predictable": "Apologies often include justification or explanation rather than staying focused purely on acknowledgment",
+    "themes": [
+      "Accountability",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Resist the urge to explain your side, even if it feels hard.",
+      "Follow it with a genuine question about how it actually affected her."
+    ]
+  },
+  {
+    "actionTitle": "The written apology",
+    "text": "For something that's been sitting unresolved, write out a short apology instead of saying it out loud, and give it to her.",
+    "effect": "Choosing a written form for a difficult apology allows more careful, considered language than an in-the-moment spoken one. She receives words that were deliberately chosen and preserved rather than said quickly and forgotten.",
+    "sectionTitle": "The Apology Redo",
+    "predictable": "Apologies are usually spoken in the moment rather than carefully written out and deliberately handed over",
+    "themes": [
+      "Sincerity",
+      "Repair"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take real time drafting it, rather than writing it quickly.",
+      "Let her respond however and whenever she wants to, without pressure."
+    ]
+  },
+  {
+    "actionTitle": "The apology for a pattern",
+    "text": "Instead of apologizing for one incident, acknowledge a recurring pattern in your behavior that's affected her more than once.",
+    "effect": "Naming a repeated pattern rather than an isolated incident shows deeper self-awareness and validates a longer accumulated impact. She experiences acknowledgment of something ongoing, not just a single easy-to-dismiss moment.",
+    "sectionTitle": "The Apology Redo",
+    "predictable": "Apologies typically address single incidents rather than acknowledging longer, recurring behavioral patterns",
+    "themes": [
+      "Self-awareness",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Name the pattern clearly and specifically, not just vaguely.",
+      "Share one concrete thing you intend to do differently going forward."
+    ]
+  },
+  {
+    "actionTitle": "The apology and the ask",
+    "text": "After a genuine apology, directly ask her what would actually help repair things, rather than assuming you know.",
+    "effect": "Asking what repair looks like, instead of assuming, centers her actual needs over your own guess at resolution. She experiences real influence over how a hurt gets addressed, not just a generic gesture.",
+    "sectionTitle": "The Apology Redo",
+    "predictable": "The path to repair after a hurt is often assumed rather than directly asked about and centered on her needs",
+    "themes": [
+      "Repair",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Actually wait for her answer rather than suggesting one yourself first.",
+      "Follow through concretely on whatever she says would help."
+    ]
   }
 ]

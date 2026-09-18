@@ -9935,5 +9935,855 @@
       "Première partie du mystère révélée, la suite arrive bientôt.",
       "Voilà un premier morceau de la surprise, patience pour le reste."
     ]
+  },
+  {
+    "actionTitle": "The playlist trade opener",
+    "text": "Send me three songs that describe your mood right now, no explanation needed, I'll do the same back.",
+    "effect": "Trading songs without explanation invites interpretation rather than direct disclosure, making the exchange more playful and intimate. She engages in a creative, indirect form of emotional sharing rather than a plain status update.",
+    "sectionTitle": "SMS - The Playlist Trade",
+    "predictable": "Emotional check-ins are usually direct rather than expressed indirectly through an unexplained song exchange",
+    "themes": [
+      "Playfulness",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Three songs, no explanation, sending mine first.",
+      "Trade you three songs for your current mood, no words needed."
+    ]
+  },
+  {
+    "actionTitle": "The playlist trade guess",
+    "text": "Got your three songs, trying to guess your mood from them before you tell me if I'm right.",
+    "effect": "Actively interpreting her song choices shows engaged attention rather than passively receiving the exchange. She sees genuine effort put into understanding her indirect communication.",
+    "sectionTitle": "SMS - The Playlist Trade",
+    "predictable": "Indirect communication like song choices doesn't always receive genuine interpretive effort afterward",
+    "themes": [
+      "Attention",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Making my guess based on your songs before you confirm anything.",
+      "Trying to read your mood from the playlist, here's my guess."
+    ]
+  },
+  {
+    "actionTitle": "The tiny detail noticed",
+    "text": "I noticed the small thing you did earlier without making a big deal of it, and I wanted you to know it didn't go unnoticed.",
+    "effect": "Explicitly flagging a small unacknowledged action proves attentiveness to details that usually pass without comment. She learns that quiet, unremarkable actions are still being seen and valued.",
+    "sectionTitle": "SMS - The \"I Noticed\" Text",
+    "predictable": "Small unremarkable actions usually pass without any acknowledgment that they were seen at all",
+    "themes": [
+      "Attention",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I saw that small thing you did earlier, didn't go unnoticed.",
+      "Noticed something small you did today, just wanted to say so."
+    ]
+  },
+  {
+    "actionTitle": "The noticed effort",
+    "text": "I noticed how much effort you put into something today that probably felt invisible to everyone else.",
+    "effect": "Recognizing effort that likely went unseen by others positions your attention as uniquely attuned to her experience. She feels specifically seen in a way the rest of her day may not have offered.",
+    "sectionTitle": "SMS - The \"I Noticed\" Text",
+    "predictable": "Effort that feels invisible to others usually stays unacknowledged rather than specifically recognized",
+    "themes": [
+      "Recognition",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Saw the effort you put in today, probably invisible to most people.",
+      "Noticed how hard you worked on that today, wanted you to know."
+    ]
+  },
+  {
+    "actionTitle": "The sentence left hanging",
+    "text": "I was going to say something about how you always know how to... actually, I'll finish this one in person tonight.",
+    "effect": "Deliberately withholding the end of a sentence creates anticipation that must be resolved through in-person presence. She experiences curiosity that pulls her attention toward the next time you're together.",
+    "sectionTitle": "SMS - The Half-Finished Sentence",
+    "predictable": "Affectionate thoughts are usually delivered complete over text rather than deliberately left unfinished for later",
+    "themes": [
+      "Anticipation",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Started a sentence about you, going to finish it face to face tonight.",
+      "Almost sent you a whole thought, saving the ending for in person."
+    ]
+  },
+  {
+    "actionTitle": "The trailing thought",
+    "text": "Something about today made me think you're really... okay I'll just tell you later, it's better in person anyway.",
+    "effect": "Interrupting your own affectionate thought mid-message builds suspense while promising a more meaningful delivery later. She anticipates a genuine moment rather than receiving the thought secondhand through text.",
+    "sectionTitle": "SMS - The Half-Finished Sentence",
+    "predictable": "Meaningful affectionate thoughts are usually sent complete via text rather than saved for a better in-person moment",
+    "themes": [
+      "Anticipation",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Had a whole thought about you, saving the rest for later, in person.",
+      "Almost finished that sentence, but it deserves saying face to face."
+    ]
+  },
+  {
+    "actionTitle": "The two-person forecast",
+    "text": "Forecast for us today: decent chance of me missing you more than usual around lunchtime.",
+    "effect": "Framing a personal feeling as a shared weather forecast adds lightness to an otherwise straightforward expression of longing. She receives an affectionate message wrapped in a small, charming joke format.",
+    "sectionTitle": "SMS - The Weather-For-Two",
+    "predictable": "Feelings of missing someone are usually expressed directly rather than framed as a playful shared forecast",
+    "themes": [
+      "Playfulness",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Today's forecast: missing you, especially around lunch.",
+      "Weather update for us: high chance of thinking about you later."
+    ]
+  },
+  {
+    "actionTitle": "The evening forecast for two",
+    "text": "Tonight's forecast: clear skies, and a high probability of wanting to just be near you.",
+    "effect": "Extending the weather-report format into the evening keeps a small recurring joke alive across the day. She experiences a consistent, lighthearted thread of affection running through her day.",
+    "sectionTitle": "SMS - The Weather-For-Two",
+    "predictable": "Affectionate check-ins rarely follow a consistent, recurring lighthearted format across a single day",
+    "themes": [
+      "Playfulness",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Evening forecast: high chance of wanting to be near you tonight.",
+      "Tonight's outlook: clear, and mostly thinking about seeing you."
+    ]
+  },
+  {
+    "actionTitle": "The compliment with no context",
+    "text": "Random thought: you have a really specific way of laughing at your own jokes that I genuinely love.",
+    "effect": "Delivering an unprompted, specific compliment with no surrounding context makes it feel purely spontaneous rather than obligatory. She receives praise clearly disconnected from any particular event or request.",
+    "sectionTitle": "SMS - The Random Compliment Drop",
+    "predictable": "Specific compliments usually follow a particular event rather than arriving with no context at all",
+    "themes": [
+      "Recognition",
+      "Spontaneity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Random thought: I really love the way you laugh at your own jokes.",
+      "No reason, just thinking about that specific laugh of yours."
+    ]
+  },
+  {
+    "actionTitle": "The compliment about a habit",
+    "text": "Out of nowhere: I really like that little habit you have of doing that one specific thing, it's very you.",
+    "effect": "Complimenting a specific, small habit shows attentiveness to her unique quirks rather than generic, broad praise. She learns that even her most ordinary habits are noticed and appreciated specifically.",
+    "sectionTitle": "SMS - The Random Compliment Drop",
+    "predictable": "Compliments tend to be broad and generic rather than focused on a specific, small personal habit",
+    "themes": [
+      "Recognition",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Out of nowhere: that one habit of yours is genuinely very you, love it.",
+      "Random appreciation for that little thing you always do, it's so you."
+    ]
+  },
+  {
+    "actionTitle": "The ordinary countdown",
+    "text": "Three hours until I see you again, for absolutely no special reason, just a regular Tuesday I'm looking forward to.",
+    "effect": "Counting down to an unremarkable, ordinary reunion signals that anticipation isn't reserved only for special occasions. She learns that simply seeing her is treated as worth looking forward to, always.",
+    "sectionTitle": "SMS - The Countdown to Nothing Special",
+    "predictable": "Anticipation and counting down tends to be reserved for special occasions rather than ordinary, regular reunions",
+    "themes": [
+      "Anticipation",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Three hours until I see you, no special reason, just excited.",
+      "Counting down to a totally ordinary evening with you, and I mean it."
+    ]
+  },
+  {
+    "actionTitle": "The nothing special hour",
+    "text": "One hour left until an entirely unremarkable evening together, and somehow I'm still looking forward to it.",
+    "effect": "Admitting genuine anticipation for a plain, uneventful evening reinforces that her presence alone is the draw, not the occasion. She experiences being wanted for simply being there, not for anything special planned.",
+    "sectionTitle": "SMS - The Countdown to Nothing Special",
+    "predictable": "Genuine excitement is usually tied to planned events rather than admitted for a plain, uneventful evening",
+    "themes": [
+      "Anticipation",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "One hour left, nothing special planned, still looking forward to it.",
+      "An hour to go until a totally normal evening, somehow still excited."
+    ]
+  },
+  {
+    "actionTitle": "The tiny confession",
+    "text": "Small confession: I still have that photo you sent me last week saved as my lock screen.",
+    "effect": "Sharing a minor, slightly vulnerable personal detail invites intimacy through small honesty rather than grand disclosure. She learns something small and genuine about how she occupies your daily life.",
+    "sectionTitle": "SMS - The Confession of a Small Thing",
+    "predictable": "Small personal details about how she occupies your daily life often go unshared and unconfessed",
+    "themes": [
+      "Vulnerability",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Confession: your photo from last week is still my lock screen.",
+      "Small thing I haven't mentioned: I saved that photo as my wallpaper."
+    ]
+  },
+  {
+    "actionTitle": "The habit confession",
+    "text": "Small confession: I catch myself smiling at my phone sometimes when I'm just rereading old texts from you.",
+    "effect": "Admitting a small private habit related to her reveals an intimate, slightly vulnerable detail rarely disclosed outright. She discovers a quiet, ongoing behavior that reflects how much she's on your mind.",
+    "sectionTitle": "SMS - The Confession of a Small Thing",
+    "predictable": "Private habits related to thinking about her are rarely confessed outright and stay mostly invisible",
+    "themes": [
+      "Vulnerability",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Confession: I reread old texts from you sometimes and just smile.",
+      "Small thing: catch myself smiling at your old messages randomly."
+    ]
+  },
+  {
+    "actionTitle": "The backup plan offer",
+    "text": "If today falls apart the way it's looking, I've already got a backup plan for us, just say the word.",
+    "effect": "Proactively preparing an alternative plan before it's needed shows anticipation of her needs beyond the original arrangement. She experiences reassurance that a disrupted plan won't simply mean disappointment.",
+    "sectionTitle": "SMS - The Plan B Text",
+    "predictable": "Disrupted plans usually just get canceled rather than met with an already-prepared backup alternative",
+    "themes": [
+      "Care",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If today falls through, I've got a backup plan ready, just say so.",
+      "Already thought of a plan B in case today doesn't work out."
+    ]
+  },
+  {
+    "actionTitle": "The flexible plan reassurance",
+    "text": "Whatever happens with today's plan, I'd rather adjust and still see you than cancel entirely, just so you know.",
+    "effect": "Explicitly prioritizing flexibility over cancellation reassures her that seeing her matters more than the original plan's exact form. She feels prioritized over logistics or rigid scheduling.",
+    "sectionTitle": "SMS - The Plan B Text",
+    "predictable": "Priority is often implicitly given to rigid original plans rather than explicitly stated flexibility to still meet",
+    "themes": [
+      "Reassurance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rather adjust today's plan than cancel it entirely, just so you know.",
+      "Whatever happens, I'd rather find another way to see you today."
+    ]
+  },
+  {
+    "actionTitle": "The unfiltered thought",
+    "text": "Thinking out loud here, no need to respond: I'm genuinely lucky to have someone who gets me the way you do.",
+    "effect": "Explicitly removing the pressure to respond frees the message to feel like a genuine, unguarded thought rather than a conversation demand. She receives an unfiltered feeling without the obligation of a reply.",
+    "sectionTitle": "SMS - The \"Thinking Out Loud\" Text",
+    "predictable": "Affectionate texts usually implicitly expect a reply rather than explicitly freeing her from responding at all",
+    "themes": [
+      "Sincerity",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thinking out loud, no reply needed: I'm lucky you get me like you do.",
+      "No response needed, just genuinely thinking how lucky I am with you."
+    ]
+  },
+  {
+    "actionTitle": "The passing realization",
+    "text": "Random realization while doing something totally unrelated: I really do have it good with you, that's all.",
+    "effect": "Framing a realization as arising unexpectedly during an unrelated activity makes the sentiment feel organic rather than staged. She receives a genuine thought that seemingly surfaced on its own, unprompted.",
+    "sectionTitle": "SMS - The \"Thinking Out Loud\" Text",
+    "predictable": "Affectionate realizations are rarely framed as spontaneously surfacing during an unrelated, ordinary activity",
+    "themes": [
+      "Sincerity",
+      "Spontaneity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Random realization out of nowhere: I really do have it good with you.",
+      "Was doing something unrelated and just realized how lucky I am, that's all."
+    ]
+  },
+  {
+    "actionTitle": "The good news you first",
+    "text": "Got some good news today, and you're the very first person I wanted to tell, before anyone else.",
+    "effect": "Choosing to share good news with her before anyone else signals her prioritized place in your life during meaningful moments. She experiences being first in line for the moments that matter to you.",
+    "sectionTitle": "SMS - The Good News Relay",
+    "predictable": "Good news is often shared broadly or with others first rather than deliberately going to her before anyone else",
+    "themes": [
+      "Priority",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Good news today, and you're the first person I wanted to tell.",
+      "Got some good news, saved telling you first before anyone else."
+    ]
+  },
+  {
+    "actionTitle": "The good news for her",
+    "text": "Heard some good news today that I think will genuinely make you smile, save it for when I see you.",
+    "effect": "Anticipating her reaction to news, and intentionally saving it for an in-person moment, prioritizes a shared reaction over a quick text. She anticipates a moment specifically built around her happiness.",
+    "sectionTitle": "SMS - The Good News Relay",
+    "predictable": "Good news that might please her is usually just sent immediately rather than intentionally saved for a shared in-person reaction",
+    "themes": [
+      "Anticipation",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Heard good news today, saving it to tell you in person, you'll like it.",
+      "Got news that'll make you smile, keeping it for when I see you next."
+    ]
+  },
+  {
+    "actionTitle": "The playlist trade encore",
+    "text": "One more round: send me the song that's basically the soundtrack to your whole week so far.",
+    "effect": "Extending the playlist exchange into a recurring habit keeps a small shared ritual alive rather than a one-off. She experiences a game that returns, building a light ongoing thread of connection.",
+    "sectionTitle": "SMS - The Playlist Trade",
+    "predictable": "Small shared games rarely return as a recurring habit rather than staying a single one-off exchange",
+    "themes": [
+      "Playfulness",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "One more round, send the song that's your whole week's soundtrack.",
+      "Trade you again, what song best matches your week so far?"
+    ]
+  },
+  {
+    "actionTitle": "The playlist trade closer",
+    "text": "Last one for today: send a song for how you want tomorrow to feel, and I'll match the energy.",
+    "effect": "Using music to project a hoped-for future mood, rather than just describing the present, adds a forward-looking dimension. She engages in imagining tomorrow together through a small shared creative act.",
+    "sectionTitle": "SMS - The Playlist Trade",
+    "predictable": "Shared exchanges usually reflect the present mood rather than projecting a hoped-for feeling for tomorrow",
+    "themes": [
+      "Playfulness",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Last round: send a song for how you want tomorrow to feel.",
+      "One more trade, pick a song for the mood you want tomorrow."
+    ]
+  },
+  {
+    "actionTitle": "The noticed change",
+    "text": "I noticed you seem a little lighter today than yesterday, and I just wanted to say I'm glad about that.",
+    "effect": "Tracking subtle shifts in her mood across days shows sustained attentiveness rather than a one-time observation. She learns her emotional state is actively followed over time, not just glanced at occasionally.",
+    "sectionTitle": "SMS - The \"I Noticed\" Text",
+    "predictable": "Shifts in mood across days usually go unremarked rather than being tracked and acknowledged over time",
+    "themes": [
+      "Attention",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noticed you seem lighter today than yesterday, glad about that.",
+      "Seems like today's a bit easier for you than yesterday, noticed, glad."
+    ]
+  },
+  {
+    "actionTitle": "The noticed kindness",
+    "text": "I noticed how patient you were with that difficult situation earlier, not everyone would have handled it that way.",
+    "effect": "Highlighting a specific virtue displayed during a difficult moment reinforces recognition of character, not just actions. She learns her patience and composure under difficulty are actively admired.",
+    "sectionTitle": "SMS - The \"I Noticed\" Text",
+    "predictable": "Character traits shown during difficult moments often go unacknowledged compared to visible actions",
+    "themes": [
+      "Recognition",
+      "Admiration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noticed how patient you were earlier, not everyone handles it that way.",
+      "Saw how you dealt with that calmly, genuinely admired the patience."
+    ]
+  },
+  {
+    "actionTitle": "The trailing compliment",
+    "text": "You know what's actually the best part of my day, usually... I'll just show you instead of texting it.",
+    "effect": "Choosing to demonstrate rather than describe a compliment builds anticipation for an in-person gesture instead of words. She anticipates an action that will make the meaning clearer than any text could.",
+    "sectionTitle": "SMS - The Half-Finished Sentence",
+    "predictable": "Compliments are usually delivered as words over text rather than promised as an upcoming in-person gesture",
+    "themes": [
+      "Anticipation",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Best part of my day is usually... I'll just show you later instead.",
+      "Going to show you what I mean instead of finishing this by text."
+    ]
+  },
+  {
+    "actionTitle": "The interrupted plan reveal",
+    "text": "I was going to tell you what I'm planning for us this weekend, but actually, let's keep it a surprise for now.",
+    "effect": "Withholding a planned surprise mid-reveal builds anticipation while showing intentional thoughtfulness behind the scenes. She senses something is being prepared for her without knowing the specifics yet.",
+    "sectionTitle": "SMS - The Half-Finished Sentence",
+    "predictable": "Weekend plans are usually disclosed fully in advance rather than deliberately kept as a growing surprise",
+    "themes": [
+      "Anticipation",
+      "Surprise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Was going to reveal the weekend plan, keeping it a surprise instead.",
+      "Almost told you the plan, decided a surprise is better this time."
+    ]
+  },
+  {
+    "actionTitle": "The tomorrow forecast",
+    "text": "Tomorrow's forecast: high chance of me being in a better mood just from knowing I'll see you.",
+    "effect": "Linking a projected mood improvement directly to seeing her frames her presence as an active, positive influence. She learns that anticipating her company measurably shifts your emotional state for the better.",
+    "sectionTitle": "SMS - The Weather-For-Two",
+    "predictable": "Mood improvements are rarely explicitly attributed to the simple anticipation of seeing someone the next day",
+    "themes": [
+      "Tenderness",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tomorrow's forecast: better mood, just from knowing I'll see you.",
+      "High chance of a good day tomorrow, mostly because I get to see you."
+    ]
+  },
+  {
+    "actionTitle": "The stormy day forecast for two",
+    "text": "Today's a bit stormy on my end, but forecast says it clears up considerably whenever I talk to you.",
+    "effect": "Attributing an emotional improvement directly to conversation with her positions her as an active source of calm. She learns her presence, even remotely, functions as a stabilizing force during a hard day.",
+    "sectionTitle": "SMS - The Weather-For-Two",
+    "predictable": "Difficult emotional days rarely come with an explicit attribution of relief to talking with her specifically",
+    "themes": [
+      "Care",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Bit stormy today, but talking to you clears it up considerably.",
+      "Rough day here, but it gets better fast whenever we talk."
+    ]
+  },
+  {
+    "actionTitle": "The compliment about her voice",
+    "text": "Small random note: I really like the way your voice changes when you're genuinely excited about something.",
+    "effect": "Complimenting a specific vocal quality tied to authentic excitement shows attentiveness to subtle, involuntary expressions. She learns even the smallest, unconscious parts of how she communicates are noticed fondly.",
+    "sectionTitle": "SMS - The Random Compliment Drop",
+    "predictable": "Subtle, involuntary expressions like tone of voice rarely receive specific, unprompted compliments",
+    "themes": [
+      "Attention",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Random note: love how your voice changes when you're excited.",
+      "Small thing: your voice shifts when you're excited, and I love it."
+    ]
+  },
+  {
+    "actionTitle": "The compliment about persistence",
+    "text": "Randomly thinking about how you don't give up on things easily, it's honestly one of my favorite things about you.",
+    "effect": "Complimenting persistence as a character trait, rather than a specific achievement, validates her general approach to challenges. She learns a core part of how she operates is genuinely admired, not just her results.",
+    "sectionTitle": "SMS - The Random Compliment Drop",
+    "predictable": "Admiration tends to focus on specific achievements rather than a general character trait like persistence itself",
+    "themes": [
+      "Admiration",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Randomly thinking about how you don't give up, love that about you.",
+      "Thinking about your persistence randomly, it's genuinely one of my favorites."
+    ]
+  },
+  {
+    "actionTitle": "The countdown to an ordinary dinner",
+    "text": "Counting down to a completely unremarkable dinner together tonight, and somehow still counting the minutes.",
+    "effect": "Applying countdown-style anticipation to a plain, everyday meal shows that ordinary shared time still holds real value. She learns that no occasion is required for you to look forward to being with her.",
+    "sectionTitle": "SMS - The Countdown to Nothing Special",
+    "predictable": "Anticipatory countdowns are usually reserved for events rather than applied to a completely unremarkable dinner",
+    "themes": [
+      "Anticipation",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Counting down to a totally normal dinner, still counting the minutes.",
+      "Unremarkable dinner tonight, and I'm still counting down to it."
+    ]
+  },
+  {
+    "actionTitle": "The countdown to just sitting together",
+    "text": "Twenty minutes until we're just sitting on the couch doing nothing together, genuinely looking forward to that.",
+    "effect": "Anticipating pure inactivity together, rather than any planned activity, emphasizes that her company alone is the draw. She experiences being wanted purely for shared presence, without any activity attached.",
+    "sectionTitle": "SMS - The Countdown to Nothing Special",
+    "predictable": "Anticipation is rarely expressed for pure shared inactivity, only for planned activities or events",
+    "themes": [
+      "Anticipation",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Twenty minutes until we're just sitting together doing nothing, excited.",
+      "Counting down to doing literally nothing together, and I mean it."
+    ]
+  },
+  {
+    "actionTitle": "The confession about rereading",
+    "text": "Small confession: sometimes I read back through our old messages just to remember how a certain day felt.",
+    "effect": "Admitting a habit of revisiting shared history reveals sentimentality about the relationship's past rarely disclosed outright. She learns that your shared history is something you actively return to and cherish.",
+    "sectionTitle": "SMS - The Confession of a Small Thing",
+    "predictable": "Sentimental habits of revisiting shared history usually stay private rather than being confessed outright",
+    "themes": [
+      "Nostalgia",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Confession: I reread our old messages sometimes just to remember a day.",
+      "Small thing: I go back through old texts sometimes, just to remember."
+    ]
+  },
+  {
+    "actionTitle": "The confession about worry",
+    "text": "Small confession: I worry more than I let on sometimes about whether I'm doing enough for you.",
+    "effect": "Admitting an internal worry rarely voiced invites emotional vulnerability and openness into the relationship. She learns a hidden insecurity that shows how much her wellbeing genuinely matters to you.",
+    "sectionTitle": "SMS - The Confession of a Small Thing",
+    "predictable": "Internal worries about doing enough for a partner often stay hidden rather than being openly confessed",
+    "themes": [
+      "Vulnerability",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Confession: I worry more than I show about doing enough for you.",
+      "Small thing I don't say enough: I worry about being enough for you."
+    ]
+  },
+  {
+    "actionTitle": "The plan B for the weekend",
+    "text": "If the weekend plan falls through for any reason, I've already got three backup ideas ready to go.",
+    "effect": "Preparing multiple contingencies in advance demonstrates a level of proactive care beyond the minimum expected. She learns that even hypothetical disruptions to plans are already anticipated and handled.",
+    "sectionTitle": "SMS - The Plan B Text",
+    "predictable": "Backup plans for the weekend are rarely prepared multiple times over in advance of any actual disruption",
+    "themes": [
+      "Reliability",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If the weekend plan falls through, already got three backups ready.",
+      "Already have backup ideas ready in case the weekend plan changes."
+    ]
+  },
+  {
+    "actionTitle": "The plan B check-in",
+    "text": "Just so you know, if anything about tonight needs to change last minute, I'm genuinely fine adjusting, no stress.",
+    "effect": "Reassuring her in advance that last-minute changes won't cause tension removes anticipatory pressure from her side. She feels free to adjust plans without fear of disappointing or inconveniencing you.",
+    "sectionTitle": "SMS - The Plan B Text",
+    "predictable": "Last-minute changes to plans often carry implicit pressure rather than explicit reassurance that it's fine",
+    "themes": [
+      "Reassurance",
+      "Flexibility"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If tonight needs to change last minute, genuinely fine adjusting, no stress.",
+      "No stress if tonight changes last minute, happy to adjust either way."
+    ]
+  },
+  {
+    "actionTitle": "The unprompted gratitude thought",
+    "text": "Thinking out loud, no reply needed: I don't think I say thank you enough for just how steady you are.",
+    "effect": "Explicitly freeing her from replying lets a genuine expression of gratitude land without generating conversational obligation. She receives sincere appreciation for a quality, steadiness, that often goes unnamed.",
+    "sectionTitle": "SMS - The \"Thinking Out Loud\" Text",
+    "predictable": "Steady, consistent qualities in a partner often go unnamed and unacknowledged compared to more visible traits",
+    "themes": [
+      "Gratitude",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No reply needed, just: I don't say thank you enough for how steady you are.",
+      "Thinking out loud, genuinely grateful for how steady you always are."
+    ]
+  },
+  {
+    "actionTitle": "The random appreciation thought",
+    "text": "No need to respond, just had a moment of genuinely appreciating how easy it is to just be myself around you.",
+    "effect": "Naming ease of authenticity around her as something appreciated highlights a subtle, foundational relational quality. She learns that comfort being herself around you is recognized as valuable, not assumed.",
+    "sectionTitle": "SMS - The \"Thinking Out Loud\" Text",
+    "predictable": "Comfort and ease being oneself around a partner is often assumed rather than explicitly named as valuable",
+    "themes": [
+      "Sincerity",
+      "Comfort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No reply needed, just appreciating how easy it is to be myself with you.",
+      "Random moment of gratitude for how comfortable I feel just being me around you."
+    ]
+  },
+  {
+    "actionTitle": "The good news mid-day relay",
+    "text": "Small good news just happened and instead of telling anyone else first, I'm sitting on it until I see your face.",
+    "effect": "Choosing to delay sharing good news until an in-person reaction reinforces that her reaction specifically matters most. She becomes the anticipated centerpiece of a positive moment rather than a secondary recipient.",
+    "sectionTitle": "SMS - The Good News Relay",
+    "predictable": "Good news is usually relayed immediately by text rather than deliberately held for an in-person reaction",
+    "themes": [
+      "Anticipation",
+      "Priority"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Good news just happened, holding onto it until I see your face.",
+      "Got some news, saving it until I actually see you in person."
+    ]
+  },
+  {
+    "actionTitle": "The small win shared first",
+    "text": "Had a small win today, nothing huge, but you were still the first person I thought to tell about it.",
+    "effect": "Sharing even minor accomplishments with her first reflects an instinctive habit of including her in daily life. She learns she's the default person your mind turns to, even for small, ordinary wins.",
+    "sectionTitle": "SMS - The Good News Relay",
+    "predictable": "Small, minor wins are less likely to be deliberately shared with a specific person first, compared to big news",
+    "themes": [
+      "Priority",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Small win today, nothing huge, but you're still who I thought of first.",
+      "Nothing major happened, but you were still my first thought to tell."
+    ]
+  },
+  {
+    "actionTitle": "The playlist trade morning version",
+    "text": "Morning trade: send me the first song stuck in your head today, curious what your brain picked.",
+    "effect": "Applying the exchange to the very first thought of the day captures an unfiltered, involuntary mental state. She shares something spontaneous and unedited rather than a deliberately chosen reflection.",
+    "sectionTitle": "SMS - The Playlist Trade",
+    "predictable": "The very first involuntary thought of the day is rarely shared or exchanged with a partner",
+    "themes": [
+      "Playfulness",
+      "Spontaneity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Morning trade: what song is stuck in your head right now?",
+      "Send the first song stuck in your head this morning, curious."
+    ]
+  },
+  {
+    "actionTitle": "The noticed patience with yourself",
+    "text": "I noticed you were kinder to yourself today about that mistake than usual, and I really liked seeing that.",
+    "effect": "Recognizing self-compassion as a positive shift reinforces and encourages a healthier internal pattern she may not have named herself. She learns that even her private self-talk is noticed and celebrated when it improves.",
+    "sectionTitle": "SMS - The \"I Noticed\" Text",
+    "predictable": "Shifts toward self-compassion are rarely noticed or explicitly celebrated by someone else",
+    "themes": [
+      "Recognition",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noticed you were kinder to yourself today about that, liked seeing it.",
+      "Saw you go easier on yourself today about that mistake, really liked it."
+    ]
+  },
+  {
+    "actionTitle": "The unfinished plan sentence",
+    "text": "I keep thinking about the perfect way to tell you about this idea I have, but it's going to have to wait for tonight.",
+    "effect": "Building anticipation around an unspecified idea, rather than revealing it, prioritizes a fuller in-person delivery over convenience. She anticipates something meaningful being prepared specifically for her.",
+    "sectionTitle": "SMS - The Half-Finished Sentence",
+    "predictable": "Ideas or plans are usually shared as soon as convenient rather than deliberately saved for a fuller in-person moment",
+    "themes": [
+      "Anticipation",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Have an idea, want to tell you properly tonight instead of now.",
+      "Thinking of the right way to share this, saving it for tonight."
+    ]
+  },
+  {
+    "actionTitle": "The forecast for the week",
+    "text": "This week's forecast for us: mostly good, with scattered moments of me randomly missing you throughout.",
+    "effect": "Extending the weather metaphor to a full week shows sustained affection rather than a single isolated feeling. She experiences a recurring, lighthearted reminder woven throughout an entire week rather than once.",
+    "sectionTitle": "SMS - The Weather-For-Two",
+    "predictable": "Affectionate check-ins framed around ongoing weather rarely extend across a projected timeframe like a full week",
+    "themes": [
+      "Playfulness",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This week's forecast: mostly good, scattered moments of missing you.",
+      "Week ahead looks good, with a few scattered moments of missing you."
+    ]
+  },
+  {
+    "actionTitle": "The compliment about how she listens",
+    "text": "Randomly appreciating how you actually listen when I talk, not just wait for your turn to speak, it means a lot.",
+    "effect": "Complimenting active listening validates a specific relational skill that directly affects how supported you feel. She learns a subtle behavioral pattern, truly listening, is deeply valued and noticed.",
+    "sectionTitle": "SMS - The Random Compliment Drop",
+    "predictable": "Active listening skills are rarely singled out and explicitly appreciated compared to more visible gestures",
+    "themes": [
+      "Recognition",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Appreciating how you actually listen, not just wait to talk, means a lot.",
+      "Random thought: the way you really listen means more than you know."
+    ]
+  },
+  {
+    "actionTitle": "The countdown to the small ritual",
+    "text": "Counting down to our little evening thing tonight, nothing fancy, just genuinely looking forward to that routine.",
+    "effect": "Expressing anticipation for a small, repeated ritual shows that routine itself, not just novelty, holds meaning. She learns that consistency and familiarity in shared moments are actively valued and anticipated.",
+    "sectionTitle": "SMS - The Countdown to Nothing Special",
+    "predictable": "Anticipation is usually reserved for novel experiences rather than expressed for small, repeated rituals",
+    "themes": [
+      "Anticipation",
+      "Comfort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Counting down to our little evening thing, genuinely looking forward to it.",
+      "Looking forward to our usual little routine tonight, more than usual."
+    ]
+  },
+  {
+    "actionTitle": "The confession about missing her mid-day",
+    "text": "Small confession: I've caught myself missing you in the middle of ordinary tasks today, for no clear reason.",
+    "effect": "Admitting spontaneous longing during mundane, unrelated moments shows how persistently present she is in your thoughts. She learns her presence in your mind isn't limited to obvious, expected moments.",
+    "sectionTitle": "SMS - The Confession of a Small Thing",
+    "predictable": "Feelings of missing someone are usually noted during clear triggers rather than during unrelated mundane tasks",
+    "themes": [
+      "Tenderness",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Confession: missed you randomly during ordinary tasks today, no real reason.",
+      "Small thing: kept missing you today during totally unrelated moments."
+    ]
+  },
+  {
+    "actionTitle": "The plan B for a rainy day",
+    "text": "If the weather ruins today's plan, already thinking of an indoor version that could honestly be just as good.",
+    "effect": "Anticipating environmental disruptions with a ready alternative shows resourcefulness aimed at preserving quality time together. She learns that external obstacles won't easily derail time set aside for her.",
+    "sectionTitle": "SMS - The Plan B Text",
+    "predictable": "Weather-related plan disruptions are rarely met with an already-prepared, equally appealing alternative",
+    "themes": [
+      "Reliability",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If weather ruins today, already have an indoor version that could be just as good.",
+      "Rain or not, already thinking of a backup that could be just as fun."
+    ]
+  },
+  {
+    "actionTitle": "The unprompted thought about the future",
+    "text": "Thinking out loud, no reply needed: picturing us a few years from now still makes me genuinely happy.",
+    "effect": "Sharing a spontaneous positive vision of the future, without requiring a response, reveals sincere long-term hope. She receives reassurance about the relationship's trajectory without the pressure of needing to respond.",
+    "sectionTitle": "SMS - The \"Thinking Out Loud\" Text",
+    "predictable": "Long-term hopeful visions of the relationship are rarely shared spontaneously without expecting a response",
+    "themes": [
+      "Projection",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No reply needed, just: picturing us years from now makes me happy.",
+      "Thinking about us in a few years, genuinely makes me smile, no reply needed."
+    ]
+  },
+  {
+    "actionTitle": "The good news about her specifically",
+    "text": "Heard something today that made me think of a strength of yours, and it reminded me how good I have it.",
+    "effect": "Connecting external good news back to admiration for her specific qualities makes even unrelated events about appreciating her. She learns that seemingly unrelated moments in your day still circle back to valuing her.",
+    "sectionTitle": "SMS - The Good News Relay",
+    "predictable": "Unrelated positive events during the day rarely get connected back to explicit appreciation of her specific qualities",
+    "themes": [
+      "Admiration",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Heard something today that reminded me of a strength of yours, felt lucky.",
+      "Something today made me think of how great you are at that one thing."
+    ]
   }
 ]
