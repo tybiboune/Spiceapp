@@ -37,10 +37,14 @@
         ::-webkit-scrollbar-thumb:hover {
             background: #94a3b8;
         }
-        /* Style for checked state of custom checkbox */
+        /* Style for checked state of custom checkbox.
+           green-600/amber-600 (not the lighter -400/-500 shades) so the
+           white check/dash icon sitting on top still clears the 3:1
+           non-text contrast minimum (the lighter shades put it around
+           1.6-2.4:1, effectively invisible to low-vision users). */
         .done-checkbox:checked + label div {
-            background-color: #4ade80; /* green-400 */
-            border-color: #4ade80;
+            background-color: #16a34a; /* green-600, ~3.4:1 for the white icon */
+            border-color: #16a34a;
         }
         .done-checkbox:checked + label div .check-icon {
             display: block;
@@ -48,8 +52,8 @@
         /* Indeterminate = some but not all options in the group (original +
            variations) are done. Only ever set via JS (applyIndeterminateStates). */
         .done-checkbox:indeterminate + label div {
-            background-color: #f59e0b; /* amber-500 */
-            border-color: #f59e0b;
+            background-color: #d97706; /* amber-600, ~3.2:1 for the white icon */
+            border-color: #d97706;
         }
         .done-checkbox:indeterminate + label div .dash-icon {
             display: block;
@@ -60,6 +64,18 @@
            focus ring has to land on the visible label box instead of the
            invisible input. */
         .done-checkbox:focus-visible + label div {
+            outline: 2px solid #4338ca; /* indigo-700, ~7:1 on white */
+            outline-offset: 2px;
+        }
+
+        /* Consistent, high-contrast focus indicator for every other
+           keyboard-focusable clickable element (buttons, tabs, links) that
+           doesn't define its own focus style above. Native form controls
+           (inputs/selects) get their own focus:ring-* utilities in markup
+           instead, since :focus-visible here would double up with those. */
+        button:focus-visible,
+        [role="tab"]:focus-visible,
+        a:focus-visible {
             outline: 2px solid #4338ca; /* indigo-700, ~7:1 on white */
             outline-offset: 2px;
         }
@@ -169,9 +185,9 @@
                  hit one-handed than small centered pills), reverts to compact
                  centered pills from the sm breakpoint up. -->
             <div class="grid grid-cols-3 gap-1.5 mb-5 sm:flex sm:justify-center sm:gap-2 sm:mb-8" id="category-tabs" role="tablist" aria-label="Content category">
-                <button data-category="ACTIONS" role="tab" aria-selected="true" class="category-tab min-h-[44px] px-3 sm:px-5 py-2 rounded-full font-semibold text-sm transition-colors bg-indigo-500 text-white">Actions</button>
-                <button data-category="SMS" role="tab" aria-selected="false" class="category-tab min-h-[44px] px-3 sm:px-5 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-300 hover:bg-slate-100">SMS</button>
-                <button data-category="POSTITS" role="tab" aria-selected="false" class="category-tab min-h-[44px] px-3 sm:px-5 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-300 hover:bg-slate-100">Post-its</button>
+                <button data-category="ACTIONS" role="tab" aria-selected="true" class="category-tab min-h-[44px] px-3 sm:px-5 py-2 rounded-full font-semibold text-sm transition-colors bg-indigo-600 text-white">Actions</button>
+                <button data-category="SMS" role="tab" aria-selected="false" class="category-tab min-h-[44px] px-3 sm:px-5 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-500 hover:bg-slate-100 hover:text-slate-800">SMS</button>
+                <button data-category="POSTITS" role="tab" aria-selected="false" class="category-tab min-h-[44px] px-3 sm:px-5 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-500 hover:bg-slate-100 hover:text-slate-800">Post-its</button>
             </div>
 
             <!-- Loading Section -->
@@ -196,9 +212,9 @@
                             </svg>
                         </button>
                         <div class="flex items-center gap-2">
-                            <button id="surprise-btn" class="hidden sm:inline-flex px-4 py-1.5 text-sm font-medium rounded-full bg-gradient-to-r from-pink-400 to-indigo-500 text-white hover:opacity-90 transition-opacity">✨ Surprise Me</button>
-                            <button id="update-btn" class="px-3 sm:px-4 py-1.5 text-sm font-medium rounded-full bg-white text-slate-600 border border-slate-300 hover:bg-slate-100 min-h-[44px]" title="Check GitHub for updated files and apply them">⬇️ Update</button>
-                            <button id="reset-filters-btn" class="px-3 sm:px-4 py-1.5 text-sm font-medium rounded-full bg-white text-slate-600 border border-slate-300 hover:bg-slate-100 min-h-[44px]">Reset</button>
+                            <button id="surprise-btn" class="hidden sm:inline-flex px-4 py-1.5 text-sm font-medium rounded-full bg-gradient-to-r from-pink-700 to-indigo-700 text-white hover:brightness-90 transition-[filter]">✨ Surprise Me</button>
+                            <button id="update-btn" class="px-3 sm:px-4 py-1.5 text-sm font-medium rounded-full bg-white text-slate-600 border border-slate-500 hover:bg-slate-100 hover:text-slate-800 min-h-[44px] disabled:opacity-60 disabled:cursor-not-allowed" title="Check GitHub for updated files and apply them">⬇️ Update</button>
+                            <button id="reset-filters-btn" class="px-3 sm:px-4 py-1.5 text-sm font-medium rounded-full bg-white text-slate-600 border border-slate-500 hover:bg-slate-100 hover:text-slate-800 min-h-[44px]">Reset</button>
                         </div>
                     </div>
                     <!-- Search stays visible even when the rest of the panel is
@@ -210,7 +226,7 @@
                             <svg class="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-slate-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
                             </svg>
-                            <input type="text" id="search-input" placeholder="Search by title or text…" class="w-full min-h-[44px] pl-10 pr-3 py-2 border border-slate-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500">
+                            <input type="text" id="search-input" placeholder="Search by title or text…" class="w-full min-h-[44px] pl-10 pr-3 py-2 border border-slate-500 rounded-md shadow-sm placeholder:text-slate-500 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
                         </div>
                     </div>
                     <div id="filters-body" class="mt-4 pt-4 border-t border-slate-200">
@@ -218,7 +234,7 @@
                             <!-- Filter by Status -->
                             <div>
                                 <label for="status-filter" class="block text-sm font-medium text-slate-600 mb-1">Status</label>
-                                <select id="status-filter" class="w-full min-h-[44px] p-2 border border-slate-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500">
+                                <select id="status-filter" class="w-full min-h-[44px] p-2 border border-slate-500 rounded-md shadow-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
                                     <option value="all">All Actions</option>
                                     <option value="new">New</option>
                                     <option value="done">Done</option>
@@ -228,19 +244,19 @@
                             <!-- Filter by Drama -->
                             <div>
                                  <label for="drama-filter" class="block text-sm font-medium text-slate-600 mb-1">"Drama" Intensity: <span id="drama-filter-value" class="font-semibold text-indigo-600">Any</span></label>
-                                <input type="range" id="drama-filter" min="0" max="5" step="1" value="0" class="w-full accent-indigo-500 py-2">
+                                <input type="range" id="drama-filter" min="0" max="5" step="1" value="0" class="w-full accent-indigo-600 py-2">
                             </div>
 
                              <!-- Filter by Sexual -->
                             <div>
                                  <label for="sexual-filter" class="block text-sm font-medium text-slate-600 mb-1">Sexual Intensity: <span id="sexual-filter-value" class="font-semibold text-indigo-600">Any</span></label>
-                                <input type="range" id="sexual-filter" min="0" max="5" step="1" value="0" class="w-full accent-indigo-500 py-2">
+                                <input type="range" id="sexual-filter" min="0" max="5" step="1" value="0" class="w-full accent-indigo-600 py-2">
                             </div>
 
                             <!-- Sort -->
                              <div>
                                 <label for="sort-by" class="block text-sm font-medium text-slate-600 mb-1">Sort By</label>
-                                <select id="sort-by" class="w-full min-h-[44px] p-2 border border-slate-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500">
+                                <select id="sort-by" class="w-full min-h-[44px] p-2 border border-slate-500 rounded-md shadow-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
                                     <option value="default">Default Order</option>
                                     <option value="drama-asc">"Drama" Intensity (Low to High)</option>
                                     <option value="drama-desc">"Drama" Intensity (High to Low)</option>
@@ -278,7 +294,7 @@
          (the header button above is hidden below the sm breakpoint) — fixed
          bottom-right, clears the Android/iOS gesture area via safe-area
          insets handled in <style>. Same click handler as the header button. -->
-    <button id="surprise-fab" onclick="surpriseMe()" aria-label="Surprise me with a random suggestion" class="sm:hidden fixed z-30 w-14 h-14 rounded-full shadow-xl bg-gradient-to-r from-pink-400 to-indigo-500 text-white text-2xl flex items-center justify-center active:scale-95 transition-transform">
+    <button id="surprise-fab" onclick="surpriseMe()" aria-label="Surprise me with a random suggestion" class="sm:hidden fixed z-30 w-14 h-14 rounded-full shadow-xl bg-gradient-to-r from-pink-700 to-indigo-700 text-white text-2xl flex items-center justify-center hover:brightness-90 active:scale-95 active:brightness-90 transition-transform">
         ✨
     </button>
 
@@ -295,7 +311,7 @@
             </div>
             <header class="p-4 sm:p-6 pt-1 sm:pt-6 border-b border-slate-200 flex justify-between items-start gap-3 shrink-0">
                 <h3 id="update-details-title" class="text-xl sm:text-2xl font-bold text-indigo-700">✅ Mise à jour effectuée</h3>
-                <button onclick="hideUpdateDetails()" aria-label="Fermer" class="shrink-0 -m-2 p-2 min-w-[44px] min-h-[44px] flex items-center justify-center text-slate-400 hover:text-slate-700 transition-colors rounded-full hover:bg-slate-100">
+                <button onclick="hideUpdateDetails()" aria-label="Fermer" class="shrink-0 -m-2 p-2 min-w-[44px] min-h-[44px] flex items-center justify-center text-slate-500 hover:text-slate-800 active:text-slate-900 transition-colors rounded-full hover:bg-slate-100">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
                     </svg>
@@ -319,7 +335,7 @@
                     <p id="modal-section" class="text-sm font-medium text-slate-400 mb-1"></p>
                     <h3 id="modal-title" class="text-xl sm:text-2xl font-bold text-indigo-700"></h3>
                 </div>
-                <button onclick="hideDetails()" aria-label="Close details" class="shrink-0 -m-2 p-2 min-w-[44px] min-h-[44px] flex items-center justify-center text-slate-400 hover:text-slate-700 transition-colors rounded-full hover:bg-slate-100">
+                <button onclick="hideDetails()" aria-label="Close details" class="shrink-0 -m-2 p-2 min-w-[44px] min-h-[44px] flex items-center justify-center text-slate-500 hover:text-slate-800 active:text-slate-900 transition-colors rounded-full hover:bg-slate-100">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
                     </svg>
@@ -422,12 +438,12 @@
             currentCategory = category;
             document.querySelectorAll('.category-tab').forEach(btn => {
                 const active = btn.dataset.category === category;
-                btn.classList.toggle('bg-indigo-500', active);
+                btn.classList.toggle('bg-indigo-600', active);
                 btn.classList.toggle('text-white', active);
                 btn.classList.toggle('bg-white', !active);
                 btn.classList.toggle('text-slate-600', !active);
                 btn.classList.toggle('border', !active);
-                btn.classList.toggle('border-slate-300', !active);
+                btn.classList.toggle('border-slate-500', !active);
                 btn.setAttribute('aria-selected', active ? 'true' : 'false');
             });
             setupDashboard();
@@ -602,9 +618,9 @@
                 a.themes.forEach(theme => themesInCategory.add(theme));
             });
 
-            const themeButtons = [`<button onclick="handleThemeFilter('all')" class="theme-btn active px-4 py-1.5 text-sm font-medium rounded-full bg-indigo-500 text-white">All Themes</button>`];
+            const themeButtons = [`<button onclick="handleThemeFilter('all')" class="theme-btn active px-4 py-1.5 text-sm font-medium rounded-full bg-indigo-600 text-white">All Themes</button>`];
             [...themesInCategory].sort().forEach(theme => {
-                themeButtons.push(`<button onclick="handleThemeFilter('${theme}')" class="theme-btn px-4 py-1.5 text-sm font-medium rounded-full bg-white text-slate-700 border border-slate-300 hover:bg-slate-100">${theme}</button>`);
+                themeButtons.push(`<button onclick="handleThemeFilter('${theme}')" class="theme-btn px-4 py-1.5 text-sm font-medium rounded-full bg-white text-slate-700 border border-slate-500 hover:bg-slate-100 hover:text-slate-900">${theme}</button>`);
             });
             themeFilters.innerHTML = themeButtons.join('');
         }
@@ -614,11 +630,11 @@
             document.querySelectorAll('.theme-btn').forEach(btn => {
                 const btnTheme = btn.textContent;
                 if (btnTheme === theme || (theme === 'all' && btnTheme === 'All Themes')) {
-                    btn.classList.add('active', 'bg-indigo-500', 'text-white');
-                    btn.classList.remove('bg-white', 'text-slate-700', 'border', 'border-slate-300');
+                    btn.classList.add('active', 'bg-indigo-600', 'text-white');
+                    btn.classList.remove('bg-white', 'text-slate-700', 'border', 'border-slate-500');
                 } else {
-                    btn.classList.remove('active', 'bg-indigo-500', 'text-white');
-                    btn.classList.add('bg-white', 'text-slate-700', 'border', 'border-slate-300');
+                    btn.classList.remove('active', 'bg-indigo-600', 'text-white');
+                    btn.classList.add('bg-white', 'text-slate-700', 'border', 'border-slate-500');
                 }
             });
             renderActions();
@@ -995,7 +1011,7 @@
                                  symmetric -m-2) made the two controls' invisible hit zones overlap
                                  in the gap between them, so a tap near the boundary could land on
                                  the wrong one (bug: tapping "+" sometimes toggled Done instead). -->
-                            <button onclick='showDetails(${action.id})' aria-label="Show details for ${escapeAttr(action.actionTitle)}" class="text-slate-400 hover:text-indigo-600 active:text-indigo-700 transition-colors -mt-2 -mb-2 -ml-2 p-2 min-w-[44px] min-h-[44px] flex items-center justify-center rounded-full hover:bg-indigo-50">
+                            <button onclick='showDetails(${action.id})' aria-label="Show details for ${escapeAttr(action.actionTitle)}" class="text-slate-500 hover:text-indigo-600 active:text-indigo-700 transition-colors -mt-2 -mb-2 -ml-2 p-2 min-w-[44px] min-h-[44px] flex items-center justify-center rounded-full hover:bg-indigo-50">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 sm:h-7 sm:w-7" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                                     <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-11a1 1 0 10-2 0v2H7a1 1 0 100 2h2v2a1 1 0 102 0v-2h2a1 1 0 100-2h-2V7z" clip-rule="evenodd" />
                                 </svg>
@@ -1003,8 +1019,8 @@
                             <div class="flex items-center">
                                 <input type="checkbox" id="done-${action.id}" class="done-checkbox absolute opacity-0 w-0 h-0" onchange="${checkboxOnChange}" ${fullyDone ? 'checked' : ''} ${partiallyDone ? 'data-indeterminate="true"' : ''}>
                                 <label for="done-${action.id}" class="flex items-center cursor-pointer -mt-2 -mb-2 -mr-2 p-2 min-h-[44px]" ${checkboxTitle ? `title="${checkboxTitle}"` : ''}>
-                                    <span class="text-sm font-medium text-slate-600 mr-2">Done${hasVariations ? ` <span class="text-slate-400 font-normal">(${groupCounts.done}/${groupCounts.total})</span>` : ''}</span>
-                                    <div class="w-6 h-6 rounded-md border-2 border-slate-300 flex items-center justify-center transition-all">
+                                    <span class="text-sm font-medium text-slate-600 mr-2">Done${hasVariations ? ` <span class="text-slate-600 font-normal">(${groupCounts.done}/${groupCounts.total})</span>` : ''}</span>
+                                    <div class="w-6 h-6 rounded-md border-2 border-slate-500 flex items-center justify-center transition-all">
                                         <svg class="check-icon w-4 h-4 text-white hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"></path></svg>
                                         <svg class="dash-icon w-4 h-4 text-white hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 12h14"></path></svg>
                                     </div>
@@ -1189,7 +1205,7 @@
             const doneCheckbox = (id, checked, onchange, label = 'Done') => `
                 <label class="inline-flex items-center gap-1.5 cursor-pointer select-none shrink-0">
                     <input type="checkbox" ${checked ? 'checked' : ''} onchange="${onchange}"
-                        class="w-4 h-4 rounded border-slate-300 text-green-500 focus:ring-green-500">
+                        class="w-4 h-4 rounded border-slate-500 text-green-600 focus:ring-2 focus:ring-green-600">
                     <span class="text-xs font-medium text-slate-500">${label}</span>
                 </label>`;
 
