@@ -12438,5 +12438,855 @@
       "Actually wait for her answer rather than suggesting one yourself first.",
       "Follow through concretely on whatever she says would help."
     ]
+  },
+  {
+    "actionTitle": "Le carnet de gratitude partagé",
+    "text": "Achetez un petit carnet commun où chacun note une chose appréciée chez l'autre, une fois par semaine.",
+    "effect": "Consigner par écrit une appréciation régulière crée une trace durable et consultable de la valeur accordée à l'autre, plutôt qu'un compliment oral vite oublié. Elle peut relire à tout moment des preuves tangibles de reconnaissance accumulées dans le temps.",
+    "sectionTitle": "La liste de gratitude à deux",
+    "predictable": "Les compliments oraux se dissipent rapidement sans laisser de trace consultable dans le temps",
+    "themes": [
+      "Reconnaissance",
+      "Régularité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Relisez ensemble les anciennes entrées une fois par mois, à voix haute.",
+      "Illustrez chaque entrée d'un petit dessin ou symbole, pour la rendre plus personnelle."
+    ]
+  },
+  {
+    "actionTitle": "La gratitude improvisée du dîner",
+    "text": "Avant de manger ensemble ce soir, dites chacun une chose de la journée pour laquelle vous êtes reconnaissant envers l'autre.",
+    "effect": "Instaurer un moment ritualisé de gratitude avant le repas ancre la reconnaissance dans une routine déjà existante plutôt que de dépendre d'une occasion spéciale. Elle vit un repas transformé en moment de reconnaissance mutuelle récurrent.",
+    "sectionTitle": "La liste de gratitude à deux",
+    "predictable": "Les repas partagés se déroulent généralement sans moment dédié à la gratitude mutuelle",
+    "themes": [
+      "Reconnaissance",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tenez-vous la main pendant que vous le dites, pour renforcer le moment.",
+      "Alternez qui commence chaque soir, pour que ce soit équilibré."
+    ]
+  },
+  {
+    "actionTitle": "La gratitude sur un post-it caché",
+    "text": "Écris sur un post-it une chose précise que tu apprécies chez elle aujourd'hui, et cache-le dans un endroit qu'elle visitera bientôt.",
+    "effect": "Combiner l'écrit et la surprise physique intensifie l'impact d'une reconnaissance qui pourrait autrement se limiter à des mots dits en passant. Elle découvre une preuve tangible et inattendue de reconnaissance au moment où elle s'y attend le moins.",
+    "sectionTitle": "La liste de gratitude à deux",
+    "predictable": "La reconnaissance exprimée reste généralement verbale plutôt que matérialisée en surprise physique",
+    "themes": [
+      "Reconnaissance",
+      "Surprise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois très précis sur ce que tu apprécies, pas juste général.",
+      "Cache-le à un endroit lié directement à ce que tu apprécies chez elle."
+    ]
+  },
+  {
+    "actionTitle": "La gratitude à voix haute en public",
+    "text": "Devant quelqu'un d'autre aujourd'hui, mentionne discrètement une chose que tu admires chez elle.",
+    "effect": "Exprimer sa reconnaissance devant un tiers ajoute une dimension publique qui valide sa valeur au-delà du cercle intime. Elle réalise que ton admiration pour elle existe aussi quand elle n'est pas seule à l'entendre.",
+    "sectionTitle": "La liste de gratitude à deux",
+    "predictable": "La reconnaissance exprimée reste généralement privée, jamais partagée devant un tiers",
+    "themes": [
+      "Reconnaissance",
+      "Fierté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis un moment naturel dans la conversation, sans que ça paraisse forcé.",
+      "Raconte-lui ensuite ce que tu as dit et à qui, pour qu'elle le sache aussi."
+    ]
+  },
+  {
+    "actionTitle": "La gratitude rétrospective de l'année",
+    "text": "Prenez un moment ensemble pour lister trois choses que vous avez appréciées l'un chez l'autre cette année.",
+    "effect": "Élargir la reconnaissance à une échelle annuelle permet de prendre conscience d'une évolution et d'une constance qu'un compliment ponctuel ne peut pas capturer. Elle perçoit une reconnaissance qui englobe tout un parcours partagé, pas seulement un instant.",
+    "sectionTitle": "La liste de gratitude à deux",
+    "predictable": "La reconnaissance porte généralement sur des moments ponctuels plutôt que sur une vue d'ensemble annuelle",
+    "themes": [
+      "Reconnaissance",
+      "Réflexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Notez ces trois choses quelque part pour pouvoir les relire l'année suivante.",
+      "Demandez-vous aussi ce que vous espérez apprécier l'un chez l'autre l'année prochaine."
+    ]
+  },
+  {
+    "actionTitle": "Le pacte des écrans éteints",
+    "text": "Mettez-vous d'accord pour éteindre tous les écrans une heure avant de dormir, chaque soir cette semaine.",
+    "effect": "Retirer une distraction omniprésente crée un espace protégé où l'attention mutuelle n'a plus de concurrence directe. Elle bénéficie d'une présence pleine et sans partage pendant un moment généralement grignoté par les écrans.",
+    "sectionTitle": "Le défi \"une semaine sans écran le soir\"",
+    "predictable": "Les soirées partagées sont généralement traversées par la présence continue des écrans",
+    "themes": [
+      "Présence",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rangez les téléphones dans une autre pièce, pas juste en mode silencieux.",
+      "Remplacez ce temps par une activité précise décidée à l'avance ensemble."
+    ]
+  },
+  {
+    "actionTitle": "Le premier soir sans écran",
+    "text": "Ce premier soir du défi, discutez ensemble de ce que vous ressentez à l'idée de ne pas avoir d'écran comme échappatoire.",
+    "effect": "Verbaliser l'inconfort ou l'appréhension avant de commencer normalise la difficulté du changement plutôt que de la nier. Elle peut exprimer une réticence honnête sans jugement, ce qui rend l'expérience plus authentique.",
+    "sectionTitle": "Le défi \"une semaine sans écran le soir\"",
+    "predictable": "Les réticences face à un changement de routine restent généralement non exprimées avant de s'y lancer",
+    "themes": [
+      "Sincérité",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Partagez chacun une chose que vous redoutez de cette semaine sans écran.",
+      "Fixez ensemble une petite récompense pour célébrer la fin de la semaine."
+    ]
+  },
+  {
+    "actionTitle": "L'activité de remplacement",
+    "text": "Chaque soir de la semaine sans écran, proposez chacun votre tour une activité différente pour occuper ce temps.",
+    "effect": "Alterner qui propose l'activité répartit équitablement la responsabilité de rendre ce temps agréable plutôt que de la faire peser sur une seule personne. Elle vit une semaine où chaque soir apporte une surprise différente, décidée par l'un ou l'autre.",
+    "sectionTitle": "Le défi \"une semaine sans écran le soir\"",
+    "predictable": "Le choix des activités du soir repose généralement sur la même personne, sans alternance explicite",
+    "themes": [
+      "Complicité",
+      "Créativité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Gardez les propositions secrètes jusqu'au moment de les révéler chaque soir.",
+      "Notez les activités préférées de la semaine pour les refaire plus tard."
+    ]
+  },
+  {
+    "actionTitle": "Le bilan à mi-semaine",
+    "text": "Au milieu de la semaine sans écran, faites le point ensemble sur ce que vous remarquez de différent entre vous.",
+    "effect": "S'arrêter pour observer consciemment les effets d'un changement en cours renforce l'engagement mutuel dans l'expérience plutôt que de la laisser passer inaperçue. Elle partage ses observations personnelles sur un changement vécu à deux.",
+    "sectionTitle": "Le défi \"une semaine sans écran le soir\"",
+    "predictable": "Les effets d'un changement de routine en cours sont rarement observés et partagés à mi-parcours",
+    "themes": [
+      "Réflexion",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Demandez-vous chacun ce qui vous manque le plus, honnêtement.",
+      "Notez aussi ce qui s'est amélioré, même une chose minime."
+    ]
+  },
+  {
+    "actionTitle": "La soirée de clôture du défi",
+    "text": "Le dernier soir de la semaine sans écran, célébrez ensemble ce que vous avez accompli, sans écran non plus pour cette soirée-là.",
+    "effect": "Marquer la fin d'un défi commun par une célébration consciente transforme un simple arrêt en accomplissement partagé et mémorable. Elle vit la fin de l'expérience comme un moment de fierté commune plutôt qu'un simple retour à la normale.",
+    "sectionTitle": "Le défi \"une semaine sans écran le soir\"",
+    "predictable": "La fin d'un défi commun passe généralement inaperçue plutôt que d'être célébrée consciemment",
+    "themes": [
+      "Fierté",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Préparez quelque chose de spécial pour ce dernier soir, comme un repas différent.",
+      "Décidez ensemble si vous voulez garder une partie de cette habitude après la semaine."
+    ]
+  },
+  {
+    "actionTitle": "Le petit projet du dimanche",
+    "text": "Choisissez ensemble un petit projet de bricolage ou de décoration à réaliser en une seule après-midi.",
+    "effect": "Réaliser un projet concret ensemble, avec un début et une fin clairs dans la même journée, procure une satisfaction immédiate rarement obtenue dans les tâches du quotidien. Elle vit une collaboration créative avec un résultat visible et gratifiant.",
+    "sectionTitle": "L'atelier bricolage impromptu",
+    "predictable": "Les projets créatifs communs manquent souvent d'un cadre clair permettant de les terminer en une seule séance",
+    "themes": [
+      "Collaboration",
+      "Accomplissement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez un projet volontairement simple pour garantir de le terminer.",
+      "Prenez une photo du résultat final ensemble, fiers de votre travail."
+    ]
+  },
+  {
+    "actionTitle": "Le bricolage avec les moyens du bord",
+    "text": "Sans rien acheter de spécial, essayez de fabriquer ou réparer quelque chose uniquement avec ce que vous avez déjà à la maison.",
+    "effect": "La contrainte de ne rien acheter stimule la créativité collaborative et transforme une limitation en défi ludique partagé. Elle expérimente une ingéniosité commune qui ne dépend d'aucune ressource extérieure, juste de vous deux.",
+    "sectionTitle": "L'atelier bricolage impromptu",
+    "predictable": "Les projets communs dépendent généralement de l'achat de matériel plutôt que de la débrouille avec l'existant",
+    "themes": [
+      "Créativité",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fixez-vous une limite de temps pour ajouter un peu de challenge.",
+      "Donnez un nom amusant à l'objet une fois terminé, quel que soit le résultat."
+    ]
+  },
+  {
+    "actionTitle": "L'échange de rôles bricolage",
+    "text": "Si l'un de vous fait habituellement les réparations, laissez l'autre prendre les commandes cette fois, avec guidance si besoin.",
+    "effect": "Inverser les rôles habituels dans une tâche pratique permet à chacun d'expérimenter une nouvelle forme de compétence et de confiance. Elle peut être celle qui dirige, changeant la dynamique habituelle de qui fait quoi.",
+    "sectionTitle": "L'atelier bricolage impromptu",
+    "predictable": "Les rôles pratiques dans la maison restent généralement figés, l'un faisant toujours la même chose",
+    "themes": [
+      "Équilibre",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Laisse-la vraiment diriger, sans reprendre le contrôle si ça devient difficile.",
+      "Remercie-la explicitement pour avoir pris les commandes cette fois."
+    ]
+  },
+  {
+    "actionTitle": "Le bricolage cadeau pour quelqu'un d'autre",
+    "text": "Fabriquez ensemble un petit objet ou une carte à offrir à quelqu'un d'autre, comme projet commun.",
+    "effect": "Orienter un projet créatif vers la générosité envers un tiers ajoute une dimension de sens qui dépasse le simple plaisir du bricolage. Elle vit une collaboration qui a un but au-delà de vous deux, renforçant un sentiment d'équipe généreuse.",
+    "sectionTitle": "L'atelier bricolage impromptu",
+    "predictable": "Les projets créatifs communs sont rarement orientés vers un cadeau destiné à quelqu'un d'autre",
+    "themes": [
+      "Générosité",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Décidez ensemble à qui l'offrir avant de commencer à le fabriquer.",
+      "Ajoutez une touche personnelle qui montre que vous l'avez fait à deux."
+    ]
+  },
+  {
+    "actionTitle": "Le bricolage raté assumé",
+    "text": "Lancez-vous dans un petit projet ambitieux en sachant à l'avance qu'il a de bonnes chances d'échouer, juste pour le plaisir d'essayer.",
+    "effect": "Accepter à l'avance la possibilité d'un échec retire toute pression de perfection et libère l'expérience pour le pur plaisir de tenter ensemble. Elle vit une aventure créative sans enjeu de réussite, où l'échec devient une source de rire partagé.",
+    "sectionTitle": "L'atelier bricolage impromptu",
+    "predictable": "Les projets communs sont généralement entrepris avec une attente de réussite plutôt qu'une acceptation ludique de l'échec",
+    "themes": [
+      "Légèreté",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prenez des photos du désastre potentiel pour en rire plus tard.",
+      "Célébrez la tentative elle-même, peu importe le résultat final."
+    ]
+  },
+  {
+    "actionTitle": "Le déguisement avec ce qu'on a",
+    "text": "Un soir, chacun se déguise en dix minutes avec uniquement des vêtements déjà présents dans la maison.",
+    "effect": "La contrainte de temps et de matériel transforme un jeu potentiellement enfantin en défi créatif amusant et spontané. Elle vit un moment de légèreté pure, loin de toute image sérieuse habituelle.",
+    "sectionTitle": "La soirée déguisement improvisée",
+    "predictable": "Les moments de jeu créatif et spontané impliquant le corps et l'apparence sont rares une fois adulte",
+    "themes": [
+      "Légèreté",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fixez un thème surprise juste avant de commencer, pour plus de challenge.",
+      "Faites un petit défilé l'un pour l'autre une fois déguisés."
+    ]
+  },
+  {
+    "actionTitle": "Le personnage inventé pour la soirée",
+    "text": "Incarnez chacun un personnage inventé pendant tout un repas, avec une voix ou une attitude différente.",
+    "effect": "Jouer un rôle ensemble crée un espace ludique où l'humour peut s'exprimer librement, loin des rôles habituels du quotidien. Elle explore une version différente d'elle-même dans un cadre totalement sans conséquence.",
+    "sectionTitle": "La soirée déguisement improvisée",
+    "predictable": "Les rôles joués et l'humour de personnage sont rares dans les interactions habituelles du quotidien",
+    "themes": [
+      "Jeu",
+      "Légèreté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Inventez ensemble le nom et l'histoire de vos personnages avant de commencer.",
+      "Essayez de tenir le personnage le plus longtemps possible sans craquer de rire."
+    ]
+  },
+  {
+    "actionTitle": "Le déguisement thème film",
+    "text": "Choisissez un film ou une série que vous aimez tous les deux et déguisez-vous en ses personnages pour la soirée.",
+    "effect": "Partager une référence culturelle commune à travers le déguisement renforce la complicité autour d'un univers que vous aimez tous les deux. Elle vit un hommage ludique et partagé à quelque chose que vous appréciez ensemble.",
+    "sectionTitle": "La soirée déguisement improvisée",
+    "predictable": "Les références culturelles partagées sont rarement incarnées physiquement ensemble à travers un déguisement",
+    "themes": [
+      "Complicité",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Improvisez une scène du film ou de la série une fois déguisés.",
+      "Prenez une photo souvenir dans vos déguisements improvisés."
+    ]
+  },
+  {
+    "actionTitle": "Le déguisement mystère",
+    "text": "Préparez chacun un déguisement en secret et révélez-le à l'autre en même temps, sans indice préalable.",
+    "effect": "Garder le déguisement secret jusqu'à la révélation ajoute un élément de surprise mutuelle qui intensifie le moment de découverte. Elle vit un instant de surprise partagée, où deux créativités indépendantes se rencontrent enfin.",
+    "sectionTitle": "La soirée déguisement improvisée",
+    "predictable": "Les activités créatives communes se préparent généralement ensemble plutôt qu'en secret avec révélation simultanée",
+    "themes": [
+      "Surprise",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ne donnez aucun indice avant le moment de la révélation.",
+      "Comptez ensemble jusqu'à trois pour vous révéler vos déguisements en même temps."
+    ]
+  },
+  {
+    "actionTitle": "Le déguisement du futur soi",
+    "text": "Déguisez-vous chacun en une version imaginaire de vous-même dans vingt ans, et présentez ce personnage à l'autre.",
+    "effect": "Se projeter physiquement dans une version future de soi ouvre un espace ludique pour explorer des espoirs ou des craintes sur l'avenir. Elle partage une vision imaginaire d'elle-même dans le futur, révélant des aspirations à travers le jeu.",
+    "sectionTitle": "La soirée déguisement improvisée",
+    "predictable": "Les projections sur le futur soi restent généralement abstraites plutôt qu'incarnées physiquement en jeu",
+    "themes": [
+      "Projection",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Présentez votre personnage futur avec des détails précis et amusants.",
+      "Posez des questions à l'autre sur sa vie imaginaire dans vingt ans."
+    ]
+  },
+  {
+    "actionTitle": "Le pique-nique improvisé sur une couverture",
+    "text": "Un soir ordinaire, étalez une couverture sur le sol du salon et mangez assis par terre comme en pique-nique.",
+    "effect": "Changer la posture et le cadre habituel d'un repas rompt la routine sans nécessiter de sortir ni de préparer quoi que ce soit d'extraordinaire. Elle vit un dîner ordinaire transformé en petite aventure simplement grâce au changement de décor.",
+    "sectionTitle": "Le pique-nique sur le sol du salon",
+    "predictable": "Les repas du soir se déroulent généralement à table, sans variation de posture ou de décor",
+    "themes": [
+      "Légèreté",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Éteignez les lumières principales et utilisez seulement des bougies ou une lampe douce.",
+      "Préparez des aliments qui se mangent facilement avec les mains, pour l'esprit pique-nique."
+    ]
+  },
+  {
+    "actionTitle": "Le pique-nique thématique surprise",
+    "text": "Organisez un pique-nique intérieur autour d'un thème surprise que vous ne révélez qu'au moment de vous installer.",
+    "effect": "Ajouter un élément de surprise thématique à un moment déjà inhabituel intensifie encore l'aspect ludique et mémorable de l'expérience. Elle découvre un thème inattendu qui transforme un repas simple en petit événement à part entière.",
+    "sectionTitle": "Le pique-nique sur le sol du salon",
+    "predictable": "Les repas à la maison n'incluent généralement pas d'élément thématique surprise révélé au dernier moment",
+    "themes": [
+      "Surprise",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez un thème lié à un souvenir ou une envie commune.",
+      "Habillez-vous ou décorez légèrement l'espace en lien avec le thème choisi."
+    ]
+  },
+  {
+    "actionTitle": "Le pique-nique sans couverts",
+    "text": "Préparez un repas entier composé uniquement d'aliments à manger avec les doigts, pour tout le repas.",
+    "effect": "Éliminer les couverts change la texture sensorielle et sociale du repas, le rendant plus décontracté et physiquement engagé. Elle vit un repas où la formalité habituelle disparaît au profit d'une expérience plus tactile et ludique.",
+    "sectionTitle": "Le pique-nique sur le sol du salon",
+    "predictable": "Les repas partagés impliquent généralement des couverts, rarement un repas entier mangé avec les doigts",
+    "themes": [
+      "Légèreté",
+      "Sensorialité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez des aliments variés pour multiplier les textures à découvrir.",
+      "Mettez à disposition beaucoup de serviettes, pour rester dans l'esprit décontracté sans stress."
+    ]
+  },
+  {
+    "actionTitle": "Le pique-nique avec vue improvisée",
+    "text": "Installez le pique-nique face à la fenêtre avec la meilleure vue possible, même si c'est juste la rue ou le ciel.",
+    "effect": "Orienter intentionnellement le repas vers une vue, même modeste, ajoute une intention presque touristique à un moment ordinaire à la maison. Elle vit un repas où même un cadre simple est traité avec l'attention qu'on porterait à un lieu spécial.",
+    "sectionTitle": "Le pique-nique sur le sol du salon",
+    "predictable": "Les repas à la maison sont rarement orientés intentionnellement vers une vue, même modeste",
+    "themes": [
+      "Intention",
+      "Romantique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Nettoyez la fenêtre avant si besoin, pour que la vue soit vraiment dégagée.",
+      "Commentez ensemble ce que vous voyez dehors pendant le repas."
+    ]
+  },
+  {
+    "actionTitle": "Le pique-nique du petit-déjeuner",
+    "text": "Faites l'expérience inverse : un pique-nique sur le sol, mais pour le petit-déjeuner plutôt que le dîner.",
+    "effect": "Appliquer une idée inhabituelle à un moment de la journée différent renouvelle l'effet de surprise plutôt que de le réserver uniquement au soir. Elle commence sa journée par un moment décalé et joyeux plutôt que par une routine matinale classique.",
+    "sectionTitle": "Le pique-nique sur le sol du salon",
+    "predictable": "Les changements de routine sont généralement réservés au soir plutôt qu'appliqués au petit-déjeuner",
+    "themes": [
+      "Légèreté",
+      "Spontanéité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Préparez la veille pour que ce soit prêt dès le réveil, sans effort matinal.",
+      "Restez plus longtemps que d'habitude à table, sans vous presser pour la journée."
+    ]
+  },
+  {
+    "actionTitle": "La leçon inversée",
+    "text": "Si elle conduit ou fait du vélo mieux que toi dans certaines situations, demande-lui de t'apprendre une technique précise.",
+    "effect": "Se positionner comme élève dans un domaine où elle excelle inverse la dynamique habituelle et valorise directement sa compétence. Elle enseigne activement une chose qu'elle maîtrise, renforçant son sentiment de capacité reconnue.",
+    "sectionTitle": "La leçon de conduite (ou de vélo) inversée",
+    "predictable": "Les compétences pratiques comme la conduite sont rarement explicitement transmises d'elle vers lui",
+    "themes": [
+      "Reconnaissance",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pose des questions précises sur sa technique, pas juste des questions vagues.",
+      "Remercie-la spécifiquement pour un conseil qui t'a vraiment aidé."
+    ]
+  },
+  {
+    "actionTitle": "Le trajet en passager attentif",
+    "text": "La prochaine fois qu'elle conduit, sois un passager pleinement présent et complimente sa conduite sincèrement.",
+    "effect": "Offrir une attention et une validation explicites pendant un moment où elle est habituellement seule à gérer la tâche renforce sa confiance en tant que conductrice. Elle reçoit une reconnaissance directe pour une compétence souvent tenue pour acquise ou ignorée.",
+    "sectionTitle": "La leçon de conduite (ou de vélo) inversée",
+    "predictable": "La compétence de conduite est rarement explicitement complimentée pendant le trajet lui-même",
+    "themes": [
+      "Reconnaissance",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois précis sur ce que tu apprécies dans sa façon de conduire.",
+      "Évite tout commentaire correctif à moins qu'elle ne le demande explicitement."
+    ]
+  },
+  {
+    "actionTitle": "Le défi du parcours à vélo",
+    "text": "Proposez de faire un parcours à vélo ensemble où elle choisit l'itinéraire et le rythme entièrement.",
+    "effect": "Lui laisser le contrôle total du parcours et du rythme inverse la dynamique habituelle de qui décide pendant une activité partagée. Elle expérimente le plaisir de guider entièrement une sortie plutôt que de suivre les choix de l'autre.",
+    "sectionTitle": "La leçon de conduite (ou de vélo) inversée",
+    "predictable": "Le contrôle du rythme et de l'itinéraire pendant une activité partagée revient généralement à la même personne",
+    "themes": [
+      "Équilibre",
+      "Aventure"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Suis vraiment son rythme, même s'il est différent du tien habituellement.",
+      "Complimente son choix d'itinéraire une fois arrivé."
+    ]
+  },
+  {
+    "actionTitle": "La leçon de conduite pour un débutant imaginaire",
+    "text": "Demandez-lui d'expliquer, comme si elle enseignait à un débutant complet, comment elle gère une situation de conduite délicate.",
+    "effect": "Formuler son expertise à voix haute pour un débutant imaginaire l'oblige à articuler consciemment un savoir souvent automatique et invisible. Elle prend conscience de sa propre compétence en la mettant en mots pour quelqu'un d'autre.",
+    "sectionTitle": "La leçon de conduite (ou de vélo) inversée",
+    "predictable": "Les compétences automatiques restent généralement implicites plutôt que verbalisées consciemment",
+    "themes": [
+      "Reconnaissance",
+      "Réflexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Écoute vraiment son explication sans l'interrompre ni la compléter.",
+      "Dis-lui ensuite ce que tu as appris de cette explication."
+    ]
+  },
+  {
+    "actionTitle": "Le test de conduite amical",
+    "text": "Proposez un petit test ludique et sans enjeu où elle évalue ta conduite ou ton vélo, pour rire, avec des notes.",
+    "effect": "Inverser qui évalue qui dans un contexte ludique et sans enjeu réel permet à chacun d'expérimenter le rôle de juge de façon légère. Elle occupe une position d'autorité amusante et sans pression, renforçant la complicité par le jeu.",
+    "sectionTitle": "La leçon de conduite (ou de vélo) inversée",
+    "predictable": "Les rôles d'évaluation dans les compétences pratiques restent généralement figés dans le même sens",
+    "themes": [
+      "Jeu",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Inventez des critères de notation volontairement absurdes pour le comique.",
+      "Accepte gracieusement le verdict, même s'il n'est pas flatteur."
+    ]
+  },
+  {
+    "actionTitle": "Le duel de grimaces",
+    "text": "Faites un vrai concours de grimaces, chacun votre tour, jusqu'à ce que l'un de vous deux craque de rire.",
+    "effect": "S'engager dans un jeu purement physique et absurde retire toute pression esthétique ou de contrôle de soi habituelle. Elle vit un moment de lâcher-prise total, où le ridicule assumé devient source de rire partagé.",
+    "sectionTitle": "Le concours de grimaces",
+    "predictable": "Les moments de lâcher-prise physique et absurde sont rares dans les interactions adultes habituelles",
+    "themes": [
+      "Légèreté",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Filmez discrètement pour immortaliser les meilleures grimaces.",
+      "Instaurez une règle : le premier qui rit a perdu, pour ajouter du challenge."
+    ]
+  },
+  {
+    "actionTitle": "La grimace miroir",
+    "text": "Essayez de reproduire exactement la grimace de l'autre, comme un miroir, aussi vite que possible.",
+    "effect": "Le jeu d'imitation physique instantanée crée une connexion ludique qui nécessite une attention totale à l'expression de l'autre. Elle vit un moment de connexion physique légère centré entièrement sur l'observation mutuelle.",
+    "sectionTitle": "Le concours de grimaces",
+    "predictable": "L'attention totale portée à l'expression physique de l'autre est rare dans les interactions quotidiennes",
+    "themes": [
+      "Connexion",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Changez de grimace rapidement pour rendre l'imitation plus difficile.",
+      "Inversez les rôles après quelques essais, pour équilibrer le jeu."
+    ]
+  },
+  {
+    "actionTitle": "La grimace du souvenir",
+    "text": "Essayez de refaire la grimace ou l'expression que l'un de vous a faite lors d'un souvenir marquant, pour en rire ensemble.",
+    "effect": "Recréer physiquement un souvenir spécifique à travers l'humour ravive la mémoire commune d'une façon plus vivante qu'un simple récit verbal. Elle revit un moment marquant à travers le jeu, renforçant le lien avec l'histoire partagée.",
+    "sectionTitle": "Le concours de grimaces",
+    "predictable": "Les souvenirs marquants sont généralement racontés verbalement plutôt que recréés physiquement pour en rire",
+    "themes": [
+      "Nostalgie",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Laissez l'autre deviner de quel souvenir il s'agit avant de le révéler.",
+      "Choisissez un souvenir particulièrement drôle ou embarrassant pour maximiser le rire."
+    ]
+  },
+  {
+    "actionTitle": "Le concours de grimaces à distance",
+    "text": "Envoyez-vous des photos de grimaces pendant la journée, à distance, pour voir qui fait la plus ridicule.",
+    "effect": "Transposer le jeu physique en version à distance maintient une connexion ludique même en dehors des moments passés ensemble. Elle reçoit des moments de légèreté inattendus qui rompent la routine d'une journée passée séparément.",
+    "sectionTitle": "Le concours de grimaces",
+    "predictable": "La légèreté et le jeu physique sont rarement transposés dans les échanges à distance pendant la journée",
+    "themes": [
+      "Légèreté",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Envoyez la photo à un moment inattendu de la journée, pour la surprise.",
+      "Décidez ensemble le soir qui a gagné le concours de la journée."
+    ]
+  },
+  {
+    "actionTitle": "La grimace figée sur commande",
+    "text": "À un moment aléatoire de la journée, dites simplement \"grimace\" et l'autre doit en faire une immédiatement, sans réfléchir.",
+    "effect": "L'imprévisibilité du moment déclencheur empêche toute préparation, garantissant une réaction spontanée et authentique plutôt que performée. Elle vit des irruptions ludiques imprévisibles dans le quotidien, cassant la routine par surprise.",
+    "sectionTitle": "Le concours de grimaces",
+    "predictable": "Les moments ludiques et spontanés surgissent rarement de façon imprévisible dans une journée normale",
+    "themes": [
+      "Spontanéité",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez des moments vraiment inattendus, pas juste pendant les temps calmes.",
+      "Gardez ce jeu actif toute une semaine pour voir combien de fois ça arrive."
+    ]
+  },
+  {
+    "actionTitle": "La capsule temporelle d'un an",
+    "text": "Écrivez chacun une lettre sur votre état d'esprit actuel et vos espoirs, à sceller et ouvrir dans un an exactement.",
+    "effect": "Se projeter ensemble sur une échéance précise crée un engagement tangible envers la continuité de la relation dans le temps. Elle participe à un projet commun qui affirme implicitement une vision partagée du futur à moyen terme.",
+    "sectionTitle": "La capsule temporelle",
+    "predictable": "Les espoirs et pensées actuels sur la relation sont rarement consignés pour être comparés à une échéance future précise",
+    "themes": [
+      "Projection",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ajoutez chacun un petit objet symbolique dans la capsule, pas seulement des mots.",
+      "Choisissez ensemble une date précise et notez-la quelque part pour ne pas l'oublier."
+    ]
+  },
+  {
+    "actionTitle": "La capsule des objets du moment",
+    "text": "Rassemblez quelques petits objets qui représentent votre vie actuelle ensemble, à conserver dans une boîte fermée.",
+    "effect": "Sélectionner ensemble des objets représentatifs du présent transforme des éléments banals du quotidien en artefacts porteurs de sens partagé. Elle participe à la création d'une mémoire tangible de cette période précise de votre histoire commune.",
+    "sectionTitle": "La capsule temporelle",
+    "predictable": "Les objets représentatifs du quotidien ne sont généralement pas intentionnellement conservés comme mémoire partagée",
+    "themes": [
+      "Nostalgie",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Expliquez-vous mutuellement pourquoi vous avez choisi chaque objet.",
+      "Décorez la boîte ensemble avant de la fermer, pour en faire un vrai projet."
+    ]
+  },
+  {
+    "actionTitle": "La capsule des prédictions amusantes",
+    "text": "Écrivez chacun des prédictions ludiques sur votre année à venir ensemble, à ouvrir et comparer plus tard.",
+    "effect": "Ajouter une dimension ludique aux prédictions retire la pression du sérieux tout en gardant l'aspect projectif et engageant de l'exercice. Elle participe à un jeu léger sur l'avenir qui reste néanmoins porteur d'une vraie curiosité partagée.",
+    "sectionTitle": "La capsule temporelle",
+    "predictable": "Les prédictions sur l'avenir de la relation prennent rarement une forme ludique et écrite à comparer plus tard",
+    "themes": [
+      "Jeu",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Faites au moins une prédiction volontairement exagérée, pour le comique.",
+      "Relisez-les ensemble à voix haute au moment venu, en riant des écarts."
+    ]
+  },
+  {
+    "actionTitle": "La capsule des chansons du moment",
+    "text": "Incluez dans votre capsule temporelle une liste des chansons qui définissent cette période précise de votre relation.",
+    "effect": "Ancrer un moment de vie commun dans une bande-son spécifique crée un déclencheur sensoriel puissant pour raviver ce souvenir plus tard. Elle contribue à créer un marqueur temporel évocateur qui pourra faire resurgir des émotions précises dans le futur.",
+    "sectionTitle": "La capsule temporelle",
+    "predictable": "Les moments précis d'une relation ne sont généralement pas intentionnellement associés à une bande-son conservée pour plus tard",
+    "themes": [
+      "Nostalgie",
+      "Créativité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez chacun au moins une chanson et expliquez pourquoi à l'autre.",
+      "Réécoutez la liste ensemble le jour où vous ouvrirez la capsule."
+    ]
+  },
+  {
+    "actionTitle": "La capsule ouverte ensemble",
+    "text": "Le jour où vous ouvrez une capsule temporelle précédente, faites-en un vrai petit événement, avec du temps dédié.",
+    "effect": "Traiter l'ouverture d'une capsule comme un événement à part entière, plutôt qu'un geste rapide, honore l'investissement émotionnel initial du projet. Elle vit un moment de retrouvailles avec une version passée de vous deux, célébré avec l'attention qu'il mérite.",
+    "sectionTitle": "La capsule temporelle",
+    "predictable": "Les projets à long terme comme une capsule temporelle risquent d'être ouverts rapidement sans moment dédié",
+    "themes": [
+      "Célébration",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prévoyez un moment calme et sans distraction pour l'ouverture.",
+      "Discutez ensemble de ce qui a changé et de ce qui est resté pareil depuis."
+    ]
+  },
+  {
+    "actionTitle": "Le massage des pieds sans prévenir",
+    "text": "Un soir où elle semble fatiguée, propose-lui spontanément un massage des pieds, sans qu'elle ait à demander.",
+    "effect": "Anticiper un besoin physique de repos avant qu'il ne soit exprimé montre une attention fine à son état, au-delà des mots. Elle reçoit un soin physique offert par observation plutôt que par demande explicite de sa part.",
+    "sectionTitle": "Le massage des pieds surprise",
+    "predictable": "Les soins physiques comme un massage dépendent généralement d'une demande explicite plutôt que d'une initiative spontanée",
+    "themes": [
+      "Care",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prépare un peu d'huile ou de crème pour rendre le moment plus agréable.",
+      "Propose-le sans rien demander en retour, juste pour son confort à elle."
+    ]
+  },
+  {
+    "actionTitle": "Le massage des pieds pendant un film",
+    "text": "Pendant que vous regardez un film ensemble, masse-lui les pieds sans interrompre le moment, juste en plus.",
+    "effect": "Combiner un soin physique discret avec une activité de détente déjà en cours ajoute une couche de confort sans exiger d'attention supplémentaire de sa part. Elle bénéficie d'un geste de soin qui ne demande rien en retour, intégré naturellement au moment.",
+    "sectionTitle": "Le massage des pieds surprise",
+    "predictable": "Les gestes de soin physique nécessitent généralement une interruption dédiée plutôt qu'une intégration discrète à un moment existant",
+    "themes": [
+      "Care",
+      "Confort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais-le sans rien dire, juste en commençant doucement.",
+      "Continue même si elle s'endort à moitié, c'est le signe que ça marche."
+    ]
+  },
+  {
+    "actionTitle": "Le massage des pieds après une longue journée",
+    "text": "Demande-lui comment s'est passée sa journée, puis propose un massage des pieds en fonction de ce qu'elle raconte.",
+    "effect": "Relier le soin physique à ce qu'elle vient de partager verbalement montre que l'écoute active se traduit en action concrète et adaptée. Elle sent que son vécu de la journée a directement influencé un geste de soin pensé pour elle spécifiquement.",
+    "sectionTitle": "Le massage des pieds surprise",
+    "predictable": "Les gestes de soin physique sont rarement explicitement reliés à ce qu'elle vient de raconter sur sa journée",
+    "themes": [
+      "Attention",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Écoute vraiment avant de proposer, pour que ça paraisse sincère.",
+      "Adapte la pression du massage selon ce qu'elle dit apprécier sur le moment."
+    ]
+  },
+  {
+    "actionTitle": "Le massage des pieds en duo",
+    "text": "Proposez de vous masser mutuellement les pieds, chacun votre tour, un soir tranquille.",
+    "effect": "Rendre le soin réciproque plutôt qu'à sens unique équilibre le geste et transforme un moment de service en moment de connexion partagée. Elle vit un échange équilibré de soin physique, où donner et recevoir alternent naturellement.",
+    "sectionTitle": "Le massage des pieds surprise",
+    "predictable": "Les gestes de soin physique restent généralement à sens unique plutôt que réciproques et alternés",
+    "themes": [
+      "Équilibre",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Chronométrez équitablement le temps accordé à chacun.",
+      "Discutez de ce que vous préférez pendant que vous le faites, pour ajuster."
+    ]
+  },
+  {
+    "actionTitle": "Le massage des pieds avec musique douce",
+    "text": "Mets une musique douce et propose un massage des pieds comme moment calme dédié, sans autre distraction.",
+    "effect": "Créer une ambiance dédiée autour du soin physique l'élève d'un geste rapide à un véritable moment ritualisé et intentionnel. Elle vit un instant de détente pleinement dédié, sans que rien d'autre ne vienne le distraire ou le presser.",
+    "sectionTitle": "Le massage des pieds surprise",
+    "predictable": "Les gestes de soin physique manquent généralement d'un cadre dédié et intentionnel autour d'eux",
+    "themes": [
+      "Care",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis une musique qu'elle aime particulièrement pour ce moment.",
+      "Prends vraiment ton temps, sans regarder l'heure ni te presser."
+    ]
+  },
+  {
+    "actionTitle": "Le lever de soleil improvisé",
+    "text": "Un matin, réveillez-vous plus tôt que d'habitude pour regarder le lever du soleil ensemble, même depuis la fenêtre.",
+    "effect": "S'extraire volontairement de la routine du sommeil pour un moment partagé rare crée une expérience mémorable simplement par son caractère inhabituel. Elle vit un début de journée exceptionnel, choisi intentionnellement plutôt que subi par la routine.",
+    "sectionTitle": "Le rendez-vous au lever du soleil",
+    "predictable": "Les débuts de journée suivent généralement une routine fixe plutôt qu'un moment intentionnellement choisi et partagé",
+    "themes": [
+      "Aventure",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Préparez un café ou thé chaud à emporter pour accompagner le moment.",
+      "Restez en silence à observer, sans parler, jusqu'à ce que le soleil soit complètement levé."
+    ]
+  },
+  {
+    "actionTitle": "Le petit-déjeuner au lever du jour",
+    "text": "Préparez un petit-déjeuner spécial à déguster ensemble pendant que le soleil se lève, dehors si possible.",
+    "effect": "Combiner un moment visuel rare avec un repas soigné transforme un lever tôt en véritable petit événement plutôt qu'un simple sacrifice de sommeil. Elle vit une expérience sensorielle complète, où la vue et le goût se rejoignent dans un moment partagé.",
+    "sectionTitle": "Le rendez-vous au lever du soleil",
+    "predictable": "Les levers tôt sont généralement vécus comme une contrainte plutôt que comme l'occasion d'un moment sensoriel soigné",
+    "themes": [
+      "Romantique",
+      "Sensorialité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Préparez le petit-déjeuner la veille pour ne pas perdre de temps le matin.",
+      "Choisissez un lieu avec une belle vue, même proche de la maison."
+    ]
+  },
+  {
+    "actionTitle": "Le vœu du lever du soleil",
+    "text": "Pendant que le soleil se lève, formulez chacun silencieusement un souhait pour la journée ou pour vous deux.",
+    "effect": "Associer un moment naturel symbolique à une intention personnelle silencieuse ajoute une dimension presque rituelle à l'expérience partagée. Elle vit un moment de connexion intérieure, en parallèle d'un moment de connexion partagée avec toi.",
+    "sectionTitle": "Le rendez-vous au lever du soleil",
+    "predictable": "Les moments naturels partagés manquent généralement d'une dimension intentionnelle ou symbolique explicite",
+    "themes": [
+      "Intention",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ne révélez pas immédiatement le vœu, gardez un peu de mystère.",
+      "Demandez plus tard dans la journée si le vœu semble se réaliser."
+    ]
+  },
+  {
+    "actionTitle": "Le lever de soleil photographié",
+    "text": "Prenez une photo ensemble avec le lever de soleil en arrière-plan, comme souvenir de ce moment précis.",
+    "effect": "Immortaliser un moment éphémère par une photo transforme une expérience fugace en souvenir tangible et consultable plus tard. Elle garde une trace visuelle d'un moment rare, qu'elle pourra revoir pour raviver l'émotion ressentie.",
+    "sectionTitle": "Le rendez-vous au lever du soleil",
+    "predictable": "Les moments naturels partagés et éphémères ne sont pas toujours intentionnellement immortalisés en photo",
+    "themes": [
+      "Nostalgie",
+      "Romantique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prenez plusieurs photos pour choisir la meilleure ensemble après coup.",
+      "Imprimez ou affichez la photo choisie quelque part visible chez vous."
+    ]
+  },
+  {
+    "actionTitle": "Le lever de soleil comme nouveau départ",
+    "text": "Utilisez un lever de soleil partagé comme symbole pour parler ensemble d'un nouveau départ ou d'une intention pour la période à venir.",
+    "effect": "Associer un symbole naturel fort à une conversation sur l'avenir donne un poids émotionnel supplémentaire à une discussion qui pourrait autrement sembler ordinaire. Elle vit une conversation sur l'avenir ancrée dans un moment visuellement et symboliquement marquant.",
+    "sectionTitle": "Le rendez-vous au lever du soleil",
+    "predictable": "Les conversations sur les intentions futures manquent généralement d'un ancrage symbolique fort pour les accompagner",
+    "themes": [
+      "Projection",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Laissez le silence du lever de soleil précéder la conversation, sans se presser.",
+      "Terminez la conversation par une intention concrète et partagée pour la suite."
+    ]
   }
 ]

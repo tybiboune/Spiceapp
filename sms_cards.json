@@ -10785,5 +10785,855 @@
       "Heard something today that reminded me of a strength of yours, felt lucky.",
       "Something today made me think of how great you are at that one thing."
     ]
+  },
+  {
+    "actionTitle": "La fierté sans raison précise",
+    "text": "Je suis fier de toi aujourd'hui, pas pour une raison particulière, juste pour la personne que tu es en général.",
+    "effect": "Exprimer une fierté générale plutôt que liée à un accomplissement précis valorise son identité entière plutôt qu'une seule performance. Elle reçoit une reconnaissance qui ne dépend d'aucune réussite spécifique à prouver.",
+    "sectionTitle": "SMS - Le texto \"je suis fier de toi\"",
+    "predictable": "La fierté exprimée est généralement liée à un accomplissement précis plutôt qu'à la personne en général",
+    "themes": [
+      "Reconnaissance",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fier de toi aujourd'hui, sans raison particulière, juste pour qui tu es.",
+      "Pas besoin d'un exploit précis, je suis fier de toi comme ça, simplement."
+    ]
+  },
+  {
+    "actionTitle": "La fierté pour un effort discret",
+    "text": "Je sais que ce que tu fais en ce moment n'est pas facile, et je suis fier de la façon dont tu t'y accroches.",
+    "effect": "Reconnaître un effort discret et continu plutôt qu'un résultat visible valorise la persévérance souvent invisible aux yeux des autres. Elle sent que son endurance silencieuse face à une difficulté est vue et honorée.",
+    "sectionTitle": "SMS - Le texto \"je suis fier de toi\"",
+    "predictable": "Les efforts discrets et continus sont rarement reconnus, contrairement aux résultats visibles",
+    "themes": [
+      "Reconnaissance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que tu traverses n'est pas simple, fier de voir comme tu t'accroches.",
+      "Sais que c'est dur en ce moment, fier de ta persévérance là-dedans."
+    ]
+  },
+  {
+    "actionTitle": "Le souvenir du jour précis",
+    "text": "Ça fait exactement [X] que ce moment qu'on a adoré s'est passé, et j'y repense encore avec le sourire.",
+    "effect": "Marquer une date précise liée à un souvenir montre une mémoire active et intentionnelle plutôt qu'une évocation vague et occasionnelle. Elle réalise que des moments précis de votre histoire sont suivis avec une attention presque calendaire.",
+    "sectionTitle": "SMS - Le rappel du souvenir précis",
+    "predictable": "Les souvenirs communs sont rarement associés à une date précise suivie consciemment dans le temps",
+    "themes": [
+      "Nostalgie",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ça fait pile ce temps-là depuis ce moment qu'on a adoré, toujours le sourire.",
+      "Petite pensée pour ce jour précis, toujours aussi marquant avec le recul."
+    ]
+  },
+  {
+    "actionTitle": "Le détail du souvenir retrouvé",
+    "text": "Je me suis souvenu d'un détail précis de ce moment qu'on a partagé, un truc que j'avais presque oublié jusqu'à aujourd'hui.",
+    "effect": "Faire remonter un détail spécifique et oublié montre une mémoire qui continue de se réactiver spontanément, pas figée une fois pour toutes. Elle découvre que votre histoire commune continue de se révéler par fragments, même longtemps après.",
+    "sectionTitle": "SMS - Le rappel du souvenir précis",
+    "predictable": "Les détails oubliés des souvenirs communs ne remontent généralement pas spontanément après coup",
+    "themes": [
+      "Nostalgie",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un détail de ce moment m'est revenu, un truc presque oublié jusque-là.",
+      "Repensé à un petit détail de ce jour-là, ça m'avait presque échappé."
+    ]
+  },
+  {
+    "actionTitle": "Le bulletin intérieur du matin",
+    "text": "Météo intérieure de ce matin : calme, avec une petite éclaircie dès que je pense à te revoir plus tard.",
+    "effect": "Utiliser une métaphore météo pour décrire un état émotionnel interne offre un moyen léger et imagé de partager son ressenti. Elle reçoit un aperçu de ton état intérieur sous une forme ludique plutôt que littérale et sérieuse.",
+    "sectionTitle": "SMS - Le texto météo intérieure",
+    "predictable": "Les états émotionnels internes sont généralement décrits directement plutôt qu'à travers une métaphore météo",
+    "themes": [
+      "Légèreté",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Météo intérieure du matin : calme, éclaircie prévue en pensant à toi.",
+      "Intérieur nuageux ce matin, mais ça s'arrange en pensant à te revoir."
+    ]
+  },
+  {
+    "actionTitle": "Le bulletin intérieur du soir",
+    "text": "Météo intérieure de ce soir : un peu chargée, mais ça devrait se dégager vite en te voyant.",
+    "effect": "Partager un état émotionnel légèrement difficile sous une forme légère permet d'être honnête sans alourdir excessivement l'échange. Elle est informée sincèrement de ton état sans que cela pèse lourd dans l'échange.",
+    "sectionTitle": "SMS - Le texto météo intérieure",
+    "predictable": "Les états émotionnels un peu difficiles sont rarement partagés sous une forme légère et imagée",
+    "themes": [
+      "Sincérité",
+      "Légèreté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Météo du soir un peu chargée, ça devrait vite se dégager en te voyant.",
+      "Petit orage intérieur ce soir, prévision d'amélioration rapide avec toi."
+    ]
+  },
+  {
+    "actionTitle": "Le compte à rebours avant le café ensemble",
+    "text": "Plus que quelques minutes avant qu'on partage un café ensemble, j'ai déjà hâte de cette petite pause.",
+    "effect": "Anticiper une pause courte et ordinaire, comme un café partagé, valorise les petits moments autant que les grandes occasions. Elle perçoit qu'un moment aussi simple qu'un café est activement attendu, pas juste subi comme une habitude.",
+    "sectionTitle": "SMS - Le compte à rebours du café",
+    "predictable": "Les pauses café partagées sont rarement anticipées explicitement comme un moment attendu avec impatience",
+    "themes": [
+      "Anticipation",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Plus que quelques minutes avant notre café ensemble, déjà hâte.",
+      "Compte à rebours lancé pour notre petite pause café tout à l'heure."
+    ]
+  },
+  {
+    "actionTitle": "Le café qui approche",
+    "text": "Le café qu'on va partager tout à l'heure est en train de devenir le meilleur moment prévu de ma journée.",
+    "effect": "Élever une pause courte au rang de moment fort de la journée souligne que la qualité du temps partagé importe plus que sa durée. Elle réalise qu'un moment bref avec elle peut surpasser en importance des événements objectivement plus longs.",
+    "sectionTitle": "SMS - Le compte à rebours du café",
+    "predictable": "Les courtes pauses partagées sont rarement présentées comme le meilleur moment prévu de la journée",
+    "themes": [
+      "Anticipation",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce café tout à l'heure devient le meilleur moment prévu de ma journée.",
+      "Déjà le point fort de ma journée, ce petit café à venir avec toi."
+    ]
+  },
+  {
+    "actionTitle": "La victoire du jour, même petite",
+    "text": "Raconte-moi une victoire de ta journée, même minuscule, je veux vraiment savoir ce qui s'est bien passé.",
+    "effect": "Solliciter activement une réussite, même mineure, oriente l'attention vers le positif plutôt que de laisser la conversation se limiter aux difficultés. Elle a un espace dédié pour partager une fierté, même petite, qui pourrait autrement passer inaperçue.",
+    "sectionTitle": "SMS - Le texto \"raconte-moi ta victoire du jour\"",
+    "predictable": "Les échanges sur la journée se concentrent souvent sur les difficultés plutôt que sur les petites victoires",
+    "themes": [
+      "Reconnaissance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Raconte-moi une victoire du jour, même minuscule, vraiment curieux.",
+      "Une réussite de ta journée, même petite, je veux vraiment l'entendre."
+    ]
+  },
+  {
+    "actionTitle": "La victoire inattendue",
+    "text": "Y a-t-il eu un truc aujourd'hui qui t'a surprise en bien, même un détail ? Raconte-moi ça.",
+    "effect": "Demander spécifiquement une surprise positive invite à partager des moments de joie inattendue plutôt que prévue ou planifiée. Elle explore sa journée sous un angle particulier, cherchant activement ce qui l'a agréablement surprise.",
+    "sectionTitle": "SMS - Le texto \"raconte-moi ta victoire du jour\"",
+    "predictable": "Les surprises positives de la journée sont rarement activement recherchées et partagées à la demande",
+    "themes": [
+      "Curiosité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un truc qui t'a surprise en bien aujourd'hui, même petit ? Raconte.",
+      "Curieux de savoir si un détail agréable t'a surprise aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Le mini-défi du sourire",
+    "text": "Petit défi pour toi aujourd'hui : fais sourire un inconnu, juste pour voir, et raconte-moi ce soir.",
+    "effect": "Proposer un petit défi social à distance introduit un élément de jeu partagé même en dehors de votre présence physique commune. Elle vit un moment de sa journée coloré par une intention ludique venue de toi, même à distance.",
+    "sectionTitle": "SMS - Le mini-défi à distance",
+    "predictable": "Les journées passées séparément manquent généralement d'un élément de jeu partagé initié à distance",
+    "themes": [
+      "Jeu",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Défi du jour : fais sourire un inconnu, raconte-moi ce soir comment ça s'est passé.",
+      "Petit challenge : un sourire à un inconnu aujourd'hui, je veux les détails ce soir."
+    ]
+  },
+  {
+    "actionTitle": "Le mini-défi de la pause",
+    "text": "Défi du jour : prends cinq minutes rien que pour toi aujourd'hui, sans culpabiliser, et dis-moi si tu l'as fait.",
+    "effect": "Transformer un rappel de self-care en défi ludique le rend plus engageant qu'une simple suggestion, tout en normalisant le repos. Elle reçoit une permission déguisée en jeu, ce qui peut faciliter le fait de se l'accorder sans culpabilité.",
+    "sectionTitle": "SMS - Le mini-défi à distance",
+    "predictable": "Les rappels à prendre soin de soi sont rarement présentés sous forme de défi ludique plutôt que de suggestion sérieuse",
+    "themes": [
+      "Care",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Défi du jour : cinq minutes rien que pour toi, sans culpabiliser, dis-moi si fait.",
+      "Petit challenge : une vraie pause pour toi aujourd'hui, raconte-moi ce soir."
+    ]
+  },
+  {
+    "actionTitle": "Si j'étais là maintenant, première partie",
+    "text": "Si j'étais avec toi maintenant, je pense que je te prendrais juste dans mes bras sans rien dire.",
+    "effect": "Décrire un geste imaginaire précis rend la distance plus tangible tout en offrant une forme de présence symbolique et sincère. Elle imagine concrètement un geste tendre qui n'est pas possible physiquement, mais qui reste réel dans l'intention.",
+    "sectionTitle": "SMS - Le texto \"si j'étais avec toi maintenant\"",
+    "predictable": "L'affection est généralement exprimée par des mots plutôt qu'en décrivant un geste physique imaginaire précis",
+    "themes": [
+      "Tendresse",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si j'étais là, je te prendrais juste dans mes bras, sans un mot.",
+      "Là maintenant, je crois que je te serrerais fort, en silence."
+    ]
+  },
+  {
+    "actionTitle": "Si j'étais là maintenant, deuxième partie",
+    "text": "Si j'étais avec toi maintenant, je te dirais probablement une bêtise pour te faire rire, connaissant ton humeur.",
+    "effect": "Adapter le geste imaginaire à son humeur actuelle montre une attention précise à son état émotionnel présent, pas générique. Elle sent que même à distance, l'imaginaire que tu projettes est ajusté spécifiquement à ce qu'elle vit là maintenant.",
+    "sectionTitle": "SMS - Le texto \"si j'étais avec toi maintenant\"",
+    "predictable": "Les gestes imaginaires à distance sont rarement ajustés précisément à son humeur actuelle spécifique",
+    "themes": [
+      "Attention",
+      "Légèreté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si j'étais là, je te sortirais sûrement une bêtise pour te faire rire.",
+      "Connaissant ton humeur là, je te ferais probablement rire avec une bêtise."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel tendre du rendez-vous",
+    "text": "Petit rappel tout doux : on se voit bientôt, et je voulais juste te le dire pour le plaisir de l'anticiper ensemble.",
+    "effect": "Envoyer un rappel de rendez-vous chargé d'anticipation positive, plutôt que purement informatif, transforme une logistique en moment affectif. Elle reçoit une confirmation pratique enveloppée d'une intention tendre plutôt qu'un simple rappel fonctionnel.",
+    "sectionTitle": "SMS - Le rappel doux de rendez-vous",
+    "predictable": "Les rappels de rendez-vous sont généralement purement informatifs plutôt que chargés d'anticipation affective",
+    "themes": [
+      "Anticipation",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Petit rappel tout doux qu'on se voit bientôt, hâte d'y être.",
+      "Juste pour le plaisir de le dire : on se voit bientôt, j'ai hâte."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel avec un détail personnel",
+    "text": "Rappel pour tout à l'heure : n'oublie pas [détail personnel], et sache que j'ai vraiment hâte de te voir.",
+    "effect": "Ajouter un détail personnel pertinent au rappel logistique montre une attention concrète à ses besoins spécifiques, pas juste une notification générique. Elle reçoit un rappel qui prouve que tu penses à ses besoins précis, pas seulement à l'heure du rendez-vous.",
+    "sectionTitle": "SMS - Le rappel doux de rendez-vous",
+    "predictable": "Les rappels de rendez-vous incluent rarement un détail personnel pertinent en plus de l'information logistique",
+    "themes": [
+      "Attention",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rappel pour tout à l'heure, avec un petit détail utile juste pour toi.",
+      "N'oublie pas ce détail pour tout à l'heure, hâte vraiment de te voir."
+    ]
+  },
+  {
+    "actionTitle": "La chanson du jour pour toi",
+    "text": "Cette chanson m'a fait penser à toi aujourd'hui spécifiquement, quelque chose dans l'énergie te correspond bien.",
+    "effect": "Relier une chanson précise à son énergie du jour montre une attention qui dépasse une association générique et constante. Elle réalise que même des détails changeants comme son énergie du jour sont remarqués et traduits en attention.",
+    "sectionTitle": "SMS - Le texto \"chanson qui te va bien aujourd'hui\"",
+    "predictable": "Les associations musicales la concernant sont rarement ajustées à son énergie spécifique du jour",
+    "themes": [
+      "Attention",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette chanson colle à ton énergie d'aujourd'hui, pensé à toi direct.",
+      "Écouté ça et pensé à toi, ça correspond bien à ta vibe du jour."
+    ]
+  },
+  {
+    "actionTitle": "La chanson qui devrait t'accompagner",
+    "text": "Je crois que cette chanson devrait accompagner ta journée aujourd'hui, écoute-la et dis-moi si j'ai visé juste.",
+    "effect": "Proposer une chanson comme accompagnement de sa journée entière, plutôt qu'un simple partage ponctuel, ajoute une intention de soin continu. Elle reçoit une suggestion pensée pour l'accompagner tout au long de sa journée, pas juste un instant isolé.",
+    "sectionTitle": "SMS - Le texto \"chanson qui te va bien aujourd'hui\"",
+    "predictable": "Les recommandations musicales sont rarement présentées comme un accompagnement pensé pour toute la journée",
+    "themes": [
+      "Care",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette chanson devrait t'accompagner aujourd'hui, dis-moi si j'ai visé juste.",
+      "Je te propose ça comme bande-son du jour, curieux de savoir si ça colle."
+    ]
+  },
+  {
+    "actionTitle": "Le premier pas après une tension",
+    "text": "Je sais qu'on n'est pas d'accord sur ce sujet en ce moment, mais je tenais à te dire que je t'aime quand même, fort.",
+    "effect": "Séparer explicitement le désaccord ponctuel de l'affection globale rassure sur la stabilité du lien malgré une tension présente. Elle reçoit la confirmation que le conflit actuel ne menace pas le socle affectif de la relation.",
+    "sectionTitle": "SMS - Le texto de fin de dispute",
+    "predictable": "L'affection n'est pas toujours explicitement réaffirmée pendant une période de désaccord ou de tension",
+    "themes": [
+      "Réassurance",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pas d'accord là-dessus en ce moment, mais je t'aime quand même, fort.",
+      "Malgré la tension actuelle, sache que ça ne change rien à mon amour pour toi."
+    ]
+  },
+  {
+    "actionTitle": "La pause avant de continuer",
+    "text": "Je crois qu'on a tous les deux besoin d'une petite pause dans cette discussion, mais je reviens vers toi bientôt, promis.",
+    "effect": "Proposer explicitement une pause, plutôt que de l'imposer silencieusement, montre un respect du rythme de chacun tout en garantissant un retour. Elle sait que l'éloignement momentané n'est pas un abandon, mais une pause annoncée et suivie d'un retour certain.",
+    "sectionTitle": "SMS - Le texto de fin de dispute",
+    "predictable": "Les pauses prises pendant une discussion tendue sont rarement explicitement annoncées et assorties d'une promesse de retour",
+    "themes": [
+      "Respect",
+      "Réassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je crois qu'on a besoin d'une pause là-dessus, mais je reviens vers toi bientôt.",
+      "Petite pause nécessaire je pense, mais promis, on en reparle vite."
+    ]
+  },
+  {
+    "actionTitle": "La fierté du petit courage",
+    "text": "Je sais que ce que tu as fait aujourd'hui demandait un peu de courage, même si ça semblait anodin, et je suis fier de toi.",
+    "effect": "Reconnaître le courage nécessaire même pour un geste apparemment anodin valide un effort intérieur invisible aux yeux extérieurs. Elle sent que sa bravoure discrète, même dans de petites choses, est perçue et honorée.",
+    "sectionTitle": "SMS - Le texto \"je suis fier de toi\"",
+    "predictable": "Le courage nécessaire pour des gestes apparemment anodins reste généralement invisible et non reconnu",
+    "themes": [
+      "Reconnaissance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que tu as fait demandait du courage, même petit, fier de toi pour ça.",
+      "Anodin pour d'autres peut-être, mais je sais que ça demandait du courage, bravo."
+    ]
+  },
+  {
+    "actionTitle": "La fierté anticipée",
+    "text": "Je suis déjà fier de toi pour ce que tu vas faire demain, avant même que ça arrive.",
+    "effect": "Exprimer une fierté par anticipation, avant l'accomplissement lui-même, montre une confiance qui précède le résultat. Elle reçoit un soutien qui ne dépend pas du succès futur, mais qui existe déjà simplement par confiance en elle.",
+    "sectionTitle": "SMS - Le texto \"je suis fier de toi\"",
+    "predictable": "La fierté est généralement exprimée après un accomplissement plutôt qu'en anticipation avant qu'il n'arrive",
+    "themes": [
+      "Confiance",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Déjà fier de toi pour demain, avant même que ça n'arrive.",
+      "Fier par avance de ce que tu vas accomplir demain, quoi qu'il arrive."
+    ]
+  },
+  {
+    "actionTitle": "La visite du souvenir marquant",
+    "text": "Je repensais à ce moment marquant qu'on a vécu ensemble, et je me demandais si tu t'en souviens aussi précisément que moi.",
+    "effect": "Interroger sa propre mémoire du souvenir invite à un échange plutôt qu'une simple déclaration univoque de nostalgie. Elle est invitée à comparer sa version du souvenir à la tienne, créant un dialogue plutôt qu'un simple constat.",
+    "sectionTitle": "SMS - Le rappel du souvenir précis",
+    "predictable": "Les souvenirs communs évoqués restent généralement des déclarations univoques plutôt que des invitations à comparer les versions",
+    "themes": [
+      "Nostalgie",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensé à ce moment marquant, tu t'en souviens aussi précisément que moi ?",
+      "Ce souvenir m'est revenu, curieux de savoir si ta version est la même."
+    ]
+  },
+  {
+    "actionTitle": "Le souvenir associé à un lieu précis",
+    "text": "Je suis passé près de l'endroit exact où ce moment marquant entre nous s'est passé, ça m'a fait tout revivre d'un coup.",
+    "effect": "Associer un souvenir à un lieu géographique précis ancre la mémoire commune dans l'espace réel plutôt que dans l'abstrait. Elle réalise que des lieux traversés au hasard peuvent faire ressurgir intensément des moments partagés précis.",
+    "sectionTitle": "SMS - Le rappel du souvenir précis",
+    "predictable": "Les lieux précis liés à des souvenirs communs ne déclenchent généralement pas un rappel explicite et partagé",
+    "themes": [
+      "Nostalgie",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Passé près de l'endroit exact de ce souvenir, tout m'est revenu d'un coup.",
+      "Cet endroit précis m'a fait revivre ce moment entre nous, intact."
+    ]
+  },
+  {
+    "actionTitle": "Le bulletin intérieur de l'après-midi",
+    "text": "Météo intérieure de l'après-midi : plutôt stable, avec une pensée récurrente pour toi qui revient sans prévenir.",
+    "effect": "Décrire un état émotionnel stable mais ponctué de pensées pour elle montre une présence constante mais discrète tout au long de la journée. Elle apprend que même dans un état neutre, des pensées pour elle continuent de faire surface spontanément.",
+    "sectionTitle": "SMS - Le texto météo intérieure",
+    "predictable": "Un état émotionnel stable est rarement décrit comme ponctué de pensées récurrentes et spontanées pour elle",
+    "themes": [
+      "Tendresse",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Météo stable cet après-midi, avec une pensée pour toi qui revient souvent.",
+      "Plutôt calme comme après-midi, sauf une pensée pour toi qui persiste."
+    ]
+  },
+  {
+    "actionTitle": "Le bulletin intérieur avant de dormir",
+    "text": "Météo intérieure avant de dormir : apaisée, principalement grâce à cette journée passée avec toi dans un coin de ma tête.",
+    "effect": "Clore la journée sur une description apaisée de l'état intérieur, explicitement liée à sa présence mentale, installe un sentiment de gratitude avant le sommeil. Elle s'endort en sachant que son influence sur ton état intérieur a été explicitement reconnue ce soir.",
+    "sectionTitle": "SMS - Le texto météo intérieure",
+    "predictable": "L'état intérieur avant de dormir est rarement explicitement relié à sa présence mentale tout au long de la journée",
+    "themes": [
+      "Tendresse",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Météo apaisée avant de dormir, grâce à toi dans un coin de ma tête.",
+      "Calme ce soir avant de dormir, surtout grâce à une pensée pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le compte à rebours du café du matin",
+    "text": "Plus que quelques minutes avant notre café du matin, ce petit rituel reste mon moment préféré de la journée.",
+    "effect": "Désigner explicitement un rituel court et quotidien comme le moment préféré de la journée valorise la régularité autant que la nouveauté. Elle perçoit qu'un moment répété chaque jour garde toute sa valeur, sans jamais devenir banal à tes yeux.",
+    "sectionTitle": "SMS - Le compte à rebours du café",
+    "predictable": "Les rituels quotidiens répétés sont rarement désignés explicitement comme le moment préféré de la journée",
+    "themes": [
+      "Régularité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Plus que quelques minutes avant notre café, mon moment préféré du jour.",
+      "Compte à rebours pour notre rituel café, toujours aussi précieux pour moi."
+    ]
+  },
+  {
+    "actionTitle": "Le café qui vaut le détour",
+    "text": "Même si la journée est chargée, ce petit café ensemble tout à l'heure reste non négociable pour moi.",
+    "effect": "Affirmer qu'un moment court reste prioritaire malgré une journée chargée montre que rien ne le fait passer au second plan. Elle réalise que même sous pression, ce moment avec elle garde une place protégée et non négociable dans ton emploi du temps.",
+    "sectionTitle": "SMS - Le compte à rebours du café",
+    "predictable": "Les moments courts partagés cèdent souvent la priorité face à une journée chargée plutôt que rester non négociables",
+    "themes": [
+      "Priorité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Journée chargée ou pas, ce café ensemble reste non négociable pour moi.",
+      "Peu importe le programme, ce petit café avec toi ne bouge pas."
+    ]
+  },
+  {
+    "actionTitle": "La victoire du jour racontée en détail",
+    "text": "Raconte-moi ta victoire du jour avec tous les détails, je veux vraiment vivre ce moment à travers ton récit.",
+    "effect": "Demander explicitement des détails plutôt qu'un résumé rapide montre un intérêt sincère et approfondi pour son vécu. Elle sent que son récit mérite d'être développé pleinement, pas juste résumé en une phrase rapide.",
+    "sectionTitle": "SMS - Le texto \"raconte-moi ta victoire du jour\"",
+    "predictable": "Les récits de petites victoires sont souvent résumés rapidement plutôt qu'racontés avec tous les détails demandés",
+    "themes": [
+      "Attention",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Raconte ta victoire du jour avec tous les détails, je veux vraiment savoir.",
+      "Donne-moi tous les détails de ta réussite du jour, ça m'intéresse vraiment."
+    ]
+  },
+  {
+    "actionTitle": "La victoire partagée deux fois",
+    "text": "Ta victoire d'hier me trotte encore dans la tête aujourd'hui, je voulais te redire à quel point c'était bien.",
+    "effect": "Revenir sur une réussite après coup, plutôt que de la mentionner une seule fois, prolonge la reconnaissance au-delà du moment initial. Elle réalise qu'une fierté exprimée une fois peut continuer d'être ravivée et répétée, pas juste dite en passant.",
+    "sectionTitle": "SMS - Le texto \"raconte-moi ta victoire du jour\"",
+    "predictable": "Les réussites mentionnées ne sont généralement évoquées qu'une seule fois plutôt que ravivées le lendemain",
+    "themes": [
+      "Reconnaissance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ta victoire d'hier me trotte encore en tête, vraiment fier de toi pour ça.",
+      "Repensé à ta réussite d'hier, je voulais vraiment te le redire aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Le mini-défi de la gentillesse",
+    "text": "Défi du jour : fais un petit geste gentil pour quelqu'un sans qu'il le sache, et raconte-moi ce soir ce que tu as choisi.",
+    "effect": "Proposer un défi orienté vers la gentillesse anonyme introduit une dimension de générosité dans le jeu partagé à distance. Elle vit sa journée avec une intention généreuse suggérée par toi, même en dehors de votre présence commune.",
+    "sectionTitle": "SMS - Le mini-défi à distance",
+    "predictable": "Les défis ludiques à distance intègrent rarement une dimension de générosité anonyme envers un tiers",
+    "themes": [
+      "Générosité",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Défi du jour : un geste gentil anonyme, raconte-moi ce soir lequel.",
+      "Petit challenge : fais quelque chose de gentil sans le dire, détails ce soir."
+    ]
+  },
+  {
+    "actionTitle": "Le mini-défi du compliment",
+    "text": "Défi du jour : fais un compliment sincère à quelqu'un que tu croises, et dis-moi sa réaction ce soir.",
+    "effect": "Étendre le jeu à un défi social impliquant un tiers ajoute une dimension d'audace légère à l'échange à distance. Elle vit une petite aventure sociale suggérée par toi, qui rend sa journée légèrement différente de d'habitude.",
+    "sectionTitle": "SMS - Le mini-défi à distance",
+    "predictable": "Les défis ludiques à distance impliquent rarement une interaction sociale audacieuse avec un tiers",
+    "themes": [
+      "Jeu",
+      "Audace"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Défi du jour : un compliment sincère à quelqu'un, raconte la réaction ce soir.",
+      "Petit challenge : complimente quelqu'un aujourd'hui, je veux les détails ce soir."
+    ]
+  },
+  {
+    "actionTitle": "Si j'étais là maintenant, troisième partie",
+    "text": "Si j'étais avec toi maintenant, je crois que je resterais juste silencieux à côté de toi, sans rien avoir besoin de dire.",
+    "effect": "Décrire une présence imaginaire silencieuse valorise la simple compagnie au-delà des mots ou des gestes, même en pensée. Elle imagine un accompagnement paisible qui ne demande rien, juste une présence tranquille à ses côtés.",
+    "sectionTitle": "SMS - Le texto \"si j'étais avec toi maintenant\"",
+    "predictable": "Les gestes imaginaires à distance impliquent rarement une simple présence silencieuse plutôt qu'une action précise",
+    "themes": [
+      "Présence",
+      "Calme"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si j'étais là, je resterais juste silencieux à côté de toi, simplement.",
+      "Là maintenant, je crois que je serais juste présent, sans rien dire."
+    ]
+  },
+  {
+    "actionTitle": "Si j'étais là maintenant, quatrième partie",
+    "text": "Si j'étais avec toi maintenant, je te préparerais sûrement quelque chose à manger, juste pour prendre soin de toi un peu.",
+    "effect": "Imaginer un geste de soin concret, plutôt qu'un geste purement affectif, montre que l'attention se traduit aussi en action pratique dans l'esprit. Elle perçoit que même à distance, ton imagination te porte vers des gestes de soin concret envers elle.",
+    "sectionTitle": "SMS - Le texto \"si j'étais avec toi maintenant\"",
+    "predictable": "Les gestes imaginaires à distance restent généralement affectifs plutôt que traduits en action pratique de soin",
+    "themes": [
+      "Care",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si j'étais là, je te préparerais sûrement à manger, pour prendre soin de toi.",
+      "Là maintenant, je crois que je m'occuperais de te nourrir, simplement."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel doux avec compte à rebours",
+    "text": "Rappel tout doux : encore quelques heures avant notre rendez-vous, et l'attente devient agréable plutôt que longue.",
+    "effect": "Reformuler l'attente comme agréable plutôt que pesante change la perception du temps avant un rendez-vous en quelque chose de positif. Elle sent que le temps qui sépare de vos retrouvailles est vécu positivement plutôt que comme une contrainte à subir.",
+    "sectionTitle": "SMS - Le rappel doux de rendez-vous",
+    "predictable": "L'attente avant un rendez-vous est généralement perçue comme neutre plutôt qu'explicitement qualifiée d'agréable",
+    "themes": [
+      "Anticipation",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Encore quelques heures avant notre rendez-vous, l'attente est agréable.",
+      "Rappel doux : plus très longtemps avant de te voir, et ça me plaît d'attendre."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel avec une intention précise",
+    "text": "Rappel pour tout à l'heure : j'ai prévu un petit truc pour nous, rien de grand, mais j'ai hâte de te le montrer.",
+    "effect": "Annoncer une petite intention préparée, sans trop en dire, ajoute une couche d'anticipation positive au rappel logistique habituel. Elle sait qu'un petit geste l'attend, ce qui transforme le rappel pratique en promesse d'un moment un peu spécial.",
+    "sectionTitle": "SMS - Le rappel doux de rendez-vous",
+    "predictable": "Les rappels de rendez-vous n'incluent généralement pas l'annonce d'une petite intention préparée en amont",
+    "themes": [
+      "Anticipation",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rappel pour tout à l'heure : j'ai prévu un petit truc, hâte de te montrer.",
+      "Petit rappel, et sache que j'ai préparé un petit quelque chose pour nous."
+    ]
+  },
+  {
+    "actionTitle": "La chanson qui raconte la semaine",
+    "text": "Cette chanson résume un peu comment je vois notre semaine ensemble, écoute-la et dis-moi ce que t'en penses.",
+    "effect": "Étendre l'association musicale à toute la semaine, plutôt qu'à une seule journée, montre une réflexion continue sur la relation dans son ensemble. Elle est invitée à interpréter une vision plus large de votre temps partagé, à travers un medium créatif plutôt que des mots directs.",
+    "sectionTitle": "SMS - Le texto \"chanson qui te va bien aujourd'hui\"",
+    "predictable": "Les associations musicales sont généralement limitées à un jour précis plutôt qu'étendues à toute une semaine partagée",
+    "themes": [
+      "Réflexion",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette chanson résume notre semaine pour moi, dis-moi ce que tu en penses.",
+      "Écoute ça, ça capture un peu comment je vois notre semaine ensemble."
+    ]
+  },
+  {
+    "actionTitle": "La chanson envoyée sans contexte",
+    "text": "Voici une chanson, sans aucune explication de ma part, juste envie de te la partager là maintenant.",
+    "effect": "Envoyer une chanson sans justification laisse toute la place à l'interprétation personnelle plutôt qu'à une explication dirigée. Elle reçoit un partage spontané et ouvert, sans intention imposée, qu'elle peut interpréter à sa façon.",
+    "sectionTitle": "SMS - Le texto \"chanson qui te va bien aujourd'hui\"",
+    "predictable": "Les partages musicaux sont généralement accompagnés d'une explication plutôt que laissés totalement ouverts à l'interprétation",
+    "themes": [
+      "Spontanéité",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Une chanson, sans explication, juste envie de la partager là maintenant.",
+      "Voici ça, sans contexte, juste une envie spontanée de te l'envoyer."
+    ]
+  },
+  {
+    "actionTitle": "Le message après une tension apaisée",
+    "text": "Content qu'on ait pu se reparler calmement tout à l'heure, ça compte beaucoup pour moi qu'on ait trouvé les mots.",
+    "effect": "Reconnaître explicitement une réconciliation réussie valide l'effort commun fourni pour dépasser une tension passée. Elle réalise que l'effort de reparler calmement après une tension est remarqué et apprécié, pas juste considéré comme acquis.",
+    "sectionTitle": "SMS - Le texto de fin de dispute",
+    "predictable": "Les réconciliations réussies après une tension sont rarement explicitement reconnues et valorisées après coup",
+    "themes": [
+      "Reconnaissance",
+      "Réassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Content qu'on ait pu se reparler calmement, ça compte vraiment pour moi.",
+      "Vraiment content qu'on ait trouvé les mots tout à l'heure, ça compte."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui referme la parenthèse",
+    "text": "Ce qui s'est passé plus tôt est vraiment derrière nous maintenant, je voulais juste que ce soit clair entre nous.",
+    "effect": "Clore explicitement un désaccord passé évite toute ambiguïté résiduelle sur son statut et rassure sur la stabilité retrouvée. Elle n'a plus à se demander si le sujet reste ouvert ou non, la clarté étant explicitement offerte.",
+    "sectionTitle": "SMS - Le texto de fin de dispute",
+    "predictable": "Le statut d'un désaccord passé reste souvent implicite plutôt qu'explicitement clarifié comme résolu",
+    "themes": [
+      "Clarté",
+      "Réassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce qui s'est passé est vraiment derrière nous, je voulais que ce soit clair.",
+      "Je voulais juste confirmer que c'est bien clos entre nous maintenant."
+    ]
+  },
+  {
+    "actionTitle": "La fierté du regard extérieur",
+    "text": "Quelqu'un a mentionné un truc que tu as fait récemment, et j'étais fier de dire que je te connaissais.",
+    "effect": "Rapporter la fierté ressentie devant un tiers, plutôt que seulement en privé, montre que cette fierté existe aussi dans le monde extérieur. Elle réalise que ta fierté envers elle se manifeste même quand elle n'est pas présente pour l'entendre.",
+    "sectionTitle": "SMS - Le texto \"je suis fier de toi\"",
+    "predictable": "La fierté ressentie envers elle est rarement rapportée comme s'étant manifestée devant un tiers en son absence",
+    "themes": [
+      "Reconnaissance",
+      "Fierté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quelqu'un a parlé de toi récemment, j'étais fier de dire que je te connais.",
+      "On a mentionné un truc que tu as fait, fier d'avoir pu dire que c'était toi."
+    ]
+  },
+  {
+    "actionTitle": "Le souvenir qui refait surface en rêve",
+    "text": "J'ai rêvé d'un moment qu'on a vécu ensemble cette nuit, et je me suis réveillé avec le sourire à cause de ça.",
+    "effect": "Partager un souvenir qui a resurgi dans un rêve montre que la mémoire commune s'active même de façon involontaire et inconsciente. Elle réalise que votre histoire commune continue de vivre même dans ton inconscient, pas seulement dans tes pensées éveillées.",
+    "sectionTitle": "SMS - Le rappel du souvenir précis",
+    "predictable": "Les souvenirs communs qui resurgissent dans les rêves sont rarement partagés le matin suivant",
+    "themes": [
+      "Nostalgie",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rêvé d'un moment à nous cette nuit, réveillé avec le sourire à cause de ça.",
+      "Un souvenir de nous est apparu dans mon rêve cette nuit, beau réveil du coup."
+    ]
+  },
+  {
+    "actionTitle": "Le bulletin intérieur de la pause déjeuner",
+    "text": "Météo intérieure de la pause déjeuner : ensoleillée, principalement parce que je t'ai envoyé ce message.",
+    "effect": "Situer le rapport à un moment précis de la journée montre une attention continue à son état intérieur, pas seulement aux extrêmes du jour. Elle réalise que même un point précis de ta journée, comme la pause déjeuner, est marqué par une pensée pour elle.",
+    "sectionTitle": "SMS - Le texto météo intérieure",
+    "predictable": "Les bulletins d'humeur sont rarement situés précisément à un moment spécifique comme la pause déjeuner",
+    "themes": [
+      "Tendresse",
+      "Légèreté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Météo de la pause déjeuner : ensoleillée, grâce à ce message pour toi.",
+      "Ensoleillé pendant cette pause, surtout parce que je pensais à t'écrire."
+    ]
+  },
+  {
+    "actionTitle": "Le compte à rebours du café partagé demain",
+    "text": "Déjà hâte du café qu'on partagera demain matin, ça me met de bonne humeur d'y penser dès maintenant.",
+    "effect": "Anticiper un rituel encore à venir, dès la veille, montre que l'anticipation positive commence bien avant le moment lui-même. Elle réalise qu'un moment simple du lendemain occupe déjà positivement tes pensées la veille au soir.",
+    "sectionTitle": "SMS - Le compte à rebours du café",
+    "predictable": "L'anticipation d'un rituel quotidien commence rarement explicitement la veille au soir",
+    "themes": [
+      "Anticipation",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Déjà hâte du café de demain matin, ça me met de bonne humeur d'y penser.",
+      "Rien qu'en pensant au café de demain, je suis déjà de bonne humeur ce soir."
+    ]
+  },
+  {
+    "actionTitle": "La victoire du jour racontée en avance",
+    "text": "Je parie que tu as eu une petite victoire aujourd'hui, raconte-la-moi avant même que je te le demande ce soir.",
+    "effect": "Anticiper sa réussite avant même de la connaître montre une confiance optimiste en ses capacités quotidiennes. Elle sent que sa réussite du jour est présumée avec confiance, avant même d'être confirmée ou racontée.",
+    "sectionTitle": "SMS - Le texto \"raconte-moi ta victoire du jour\"",
+    "predictable": "La confiance en une réussite quotidienne est rarement exprimée avant même qu'elle ne soit confirmée par elle",
+    "themes": [
+      "Confiance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je parie que tu as eu une victoire aujourd'hui, raconte avant que je demande.",
+      "Certain que quelque chose de bien t'est arrivé aujourd'hui, raconte-moi vite."
+    ]
+  },
+  {
+    "actionTitle": "Le mini-défi du souvenir photo",
+    "text": "Défi du jour : prends une photo d'un moment qui te fait sourire aujourd'hui, et montre-la-moi ce soir.",
+    "effect": "Orienter le défi vers la capture d'un instant de joie encourage une attention active à repérer le positif dans sa journée. Elle vit sa journée avec une intention de repérer et capturer des moments de joie, suggérée par toi à distance.",
+    "sectionTitle": "SMS - Le mini-défi à distance",
+    "predictable": "Les défis ludiques à distance orientent rarement vers la capture active d'un moment de joie dans la journée",
+    "themes": [
+      "Jeu",
+      "Positivité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Défi du jour : prends en photo un moment qui te fait sourire, montre ce soir.",
+      "Petit challenge : capture un moment joyeux aujourd'hui, je veux voir ce soir."
+    ]
+  },
+  {
+    "actionTitle": "Si j'étais là maintenant, cinquième partie",
+    "text": "Si j'étais avec toi maintenant, je crois que je te ferais écouter une chanson en te regardant sourire pendant qu'elle joue.",
+    "effect": "Décrire un geste imaginaire précis combinant musique et observation ajoute une scène vivante et sensorielle à la projection affective. Elle imagine une scène tendre et précise, où sa réaction elle-même devient le centre de l'attention imaginée.",
+    "sectionTitle": "SMS - Le texto \"si j'étais avec toi maintenant\"",
+    "predictable": "Les gestes imaginaires à distance décrivent rarement une scène précise centrée sur l'observation de sa réaction",
+    "themes": [
+      "Tendresse",
+      "Sensorialité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si j'étais là, je te ferais écouter une chanson en te regardant sourire.",
+      "Là maintenant, je te passerais un morceau juste pour voir ton sourire."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel doux avec une touche d'humour",
+    "text": "Rappel officiel et très sérieux : dans quelques heures, on se voit, et je suis ridiculement content de ça.",
+    "effect": "Ajouter une touche d'humour faussement formel au rappel logistique rend l'annonce plus légère et personnelle qu'une notification neutre. Elle reçoit un rappel qui la fait sourire par son ton, en plus de transmettre l'information pratique nécessaire.",
+    "sectionTitle": "SMS - Le rappel doux de rendez-vous",
+    "predictable": "Les rappels de rendez-vous sont rarement formulés avec une touche d'humour faussement formel",
+    "themes": [
+      "Légèreté",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rappel officiel et très sérieux : dans quelques heures, on se voit, trop content.",
+      "Annonce importante : bientôt notre rendez-vous, et je suis ridiculement content."
+    ]
+  },
+  {
+    "actionTitle": "La chanson qui capture un souvenir précis",
+    "text": "Cette chanson me ramène direct à un souvenir précis de nous, et je voulais la partager avec toi maintenant.",
+    "effect": "Relier explicitement une chanson à un souvenir précis, plutôt qu'à une humeur générale, personnalise davantage le partage musical. Elle reçoit un partage musical enrichi d'un souvenir concret, renforçant la dimension nostalgique et personnelle de l'échange.",
+    "sectionTitle": "SMS - Le texto \"chanson qui te va bien aujourd'hui\"",
+    "predictable": "Les partages musicaux sont rarement explicitement reliés à un souvenir précis plutôt qu'à une humeur générale",
+    "themes": [
+      "Nostalgie",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette chanson me ramène à un souvenir précis de nous, voulais la partager.",
+      "Direct ramené à un souvenir de nous en écoutant ça, fallait que je t'envoie."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui propose un vrai temps d'échange",
+    "text": "Après ce qui s'est passé, j'aimerais qu'on prenne un vrai moment rien que pour en reparler calmement, quand tu es prête.",
+    "effect": "Proposer explicitement un temps dédié à la discussion, plutôt que de laisser le sujet en suspens, montre un engagement actif vers la résolution. Elle reçoit une offre concrète d'espace et de temps pour aborder le sujet à son rythme, sans pression immédiate.",
+    "sectionTitle": "SMS - Le texto de fin de dispute",
+    "predictable": "Les sujets sensibles après une tension ne s'accompagnent généralement pas d'une proposition explicite de temps dédié pour en reparler",
+    "themes": [
+      "Respect",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "J'aimerais qu'on prenne un vrai moment pour reparler calmement, quand tu es prête.",
+      "Prenons un vrai temps pour en reparler ensemble, à ton rythme, pas de pression."
+    ]
   }
 ]

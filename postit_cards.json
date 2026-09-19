@@ -10882,5 +10882,855 @@
       "Once this hits one hundred percent, hope you do too, tonight.",
       "Hope you're fully recharged by tonight, just like this will be."
     ]
+  },
+  {
+    "actionTitle": "Dans la boîte à bijoux",
+    "text": "Rien ici ne brille autant que ton sourire quand tu ne t'y attends pas, garde ça en tête aujourd'hui.",
+    "effect": "Comparer des objets précieux à un trait d'elle inverse la hiérarchie habituelle entre la valeur matérielle et sa valeur propre. Elle découvre une déclaration qui place sa personne au-dessus de tout objet précieux qu'elle pourrait porter.",
+    "sectionTitle": "Post-its - Boîte à bijoux",
+    "predictable": "Les objets précieux ne sont généralement pas explicitement comparés défavorablement à une qualité personnelle d'elle",
+    "themes": [
+      "Tendresse",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rien ici ne brille autant que ton sourire, garde ça en tête aujourd'hui.",
+      "Ces bijoux sont jolis, ton sourire reste quand même la plus belle chose ici."
+    ]
+  },
+  {
+    "actionTitle": "Sur le chargeur de voiture",
+    "text": "Que ton téléphone tienne la journée ou pas, sache que mon affection pour toi ne tombe jamais en panne.",
+    "effect": "Jouer sur le parallèle entre batterie et affection introduit un clin d'œil léger dans un objet purement fonctionnel. Elle découvre une déclaration tendre glissée dans un contexte entièrement pratique et quotidien.",
+    "sectionTitle": "Post-its - Chargeur de voiture",
+    "predictable": "Les objets fonctionnels liés à la technologie ne contiennent généralement pas de déclaration affective cachée",
+    "themes": [
+      "Tendresse",
+      "Légèreté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Batterie ou pas, mon affection pour toi ne tombe jamais en panne.",
+      "Que le téléphone tienne ou pas, moi je tiens toujours, promis."
+    ]
+  },
+  {
+    "actionTitle": "Sur le tapis de bain",
+    "text": "Avant même de commencer ta journée, sache qu'un pas de plus vers moi est toujours un bon pas à faire.",
+    "effect": "Placer un message tendre au tout début de la routine matinale, avant même de quitter la salle de bain, l'installe comme première pensée. Elle rencontre une déclaration douce dès les tout premiers instants concrets de sa journée.",
+    "sectionTitle": "Post-its - Tapis de bain",
+    "predictable": "Les tout premiers instants de la routine matinale ne contiennent généralement aucun message affectif caché",
+    "themes": [
+      "Tendresse",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Avant même de commencer la journée, un pas vers moi reste toujours bon.",
+      "Premier pas de la journée ici, et le meilleur reste toujours celui vers moi."
+    ]
+  },
+  {
+    "actionTitle": "Dans la boîte à couture",
+    "text": "Comme un bon point de couture tient les choses ensemble, sache que je fais pareil de mon côté pour nous deux.",
+    "effect": "Filer la métaphore de la couture vers l'idée de tenir la relation ensemble ajoute une image concrète à un engagement abstrait. Elle reçoit une déclaration d'engagement traduite à travers un objet du quotidien qu'elle manipule rarement en y pensant.",
+    "sectionTitle": "Post-its - Boîte à outils de couture",
+    "predictable": "Les objets liés à la couture ne contiennent généralement pas de métaphore sur l'engagement dans la relation",
+    "themes": [
+      "Engagement",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme un bon point tient les choses ensemble, je fais pareil pour nous.",
+      "Cette boîte répare des tissus, moi je fais tout pour qu'on tienne bon."
+    ]
+  },
+  {
+    "actionTitle": "À côté de l'interrupteur",
+    "text": "Avant d'éteindre ce soir, sache que même dans le noir, une pensée pour toi reste allumée quelque part.",
+    "effect": "Jouer sur le contraste entre l'obscurité physique et la continuité affective invisible crée une image tendre et rassurante avant le sommeil. Elle reçoit une dernière pensée douce juste avant la transition vers le sommeil, un moment souvent silencieux.",
+    "sectionTitle": "Post-its - Interrupteur de la chambre",
+    "predictable": "La transition vers le sommeil ne contient généralement pas de message affectif placé juste avant d'éteindre la lumière",
+    "themes": [
+      "Tendresse",
+      "Continuité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Avant d'éteindre, sache qu'une pensée pour toi reste allumée quelque part.",
+      "Même dans le noir ce soir, une petite lumière pour toi reste allumée."
+    ]
+  },
+  {
+    "actionTitle": "Dans le sac à main",
+    "text": "Où que ce sac t'emmène aujourd'hui, sache qu'une partie de moi espère juste que ta journée sera douce.",
+    "effect": "Glisser un souhait discret dans un objet qui accompagne tous ses déplacements assure une présence symbolique tout au long de sa journée. Elle porte avec elle, sans le savoir jusqu'à la découverte, un souhait tendre pour sa journée entière.",
+    "sectionTitle": "Post-its - Sac à main",
+    "predictable": "Les objets transportés quotidiennement ne contiennent généralement pas de souhait caché pour la journée",
+    "themes": [
+      "Care",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Où que ce sac t'emmène, j'espère juste que ta journée sera douce.",
+      "Ce sac va partout avec toi, j'espère que ta journée sera aussi douce."
+    ]
+  },
+  {
+    "actionTitle": "Dans le carnet de rendez-vous",
+    "text": "Parmi tous tes rendez-vous cette semaine, sache que celui avec moi reste toujours celui que je préfère le plus.",
+    "effect": "Se positionner explicitement parmi ses engagements officiels affirme une priorité affective dans un contexte purement organisationnel. Elle découvre une déclaration de préférence glissée dans un outil habituellement neutre et fonctionnel.",
+    "sectionTitle": "Post-its - Carnet de rendez-vous",
+    "predictable": "Les outils d'organisation ne contiennent généralement pas de déclaration de préférence affective explicite",
+    "themes": [
+      "Tendresse",
+      "Priorité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Parmi tous tes rendez-vous, celui avec moi reste mon préféré, toujours.",
+      "De tous les rendez-vous ici, celui avec moi est clairement mon favori."
+    ]
+  },
+  {
+    "actionTitle": "Sur la boîte de filtres à café",
+    "text": "Comme ce filtre garde le meilleur du café, j'essaie chaque jour de garder le meilleur pour toi.",
+    "effect": "Filer la métaphore de la filtration vers l'intention de préserver ce qu'il y a de mieux pour elle personnalise un objet purement utilitaire. Elle découvre une intention explicite de lui offrir le meilleur, traduite à travers un objet banal du quotidien.",
+    "sectionTitle": "Post-its - Filtre à café",
+    "predictable": "Les objets utilitaires de la cuisine ne contiennent généralement pas de métaphore sur l'intention de lui offrir le meilleur",
+    "themes": [
+      "Care",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme ce filtre garde le meilleur du café, j'essaie de te garder le meilleur.",
+      "Ce filtre retient l'essentiel, j'essaie de faire pareil pour toi chaque jour."
+    ]
+  },
+  {
+    "actionTitle": "Sur le panier à linge",
+    "text": "Même les tâches les plus banales comme celle-ci deviennent plus légères simplement en sachant que tu existes dans ma vie.",
+    "effect": "Attribuer une valeur affective à une corvée purement fonctionnelle transforme la perception d'une tâche ingrate en occasion de gratitude. Elle réalise que même les aspects les plus routiniers du quotidien sont teintés par la reconnaissance de sa présence.",
+    "sectionTitle": "Post-its - Panier à linge",
+    "predictable": "Les tâches ménagères routinières ne sont généralement pas explicitement reliées à la gratitude envers elle",
+    "themes": [
+      "Reconnaissance",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même cette corvée devient plus légère en sachant que tu existes dans ma vie.",
+      "Tâche banale ici, mais ta présence dans ma vie rend tout plus léger."
+    ]
+  },
+  {
+    "actionTitle": "Sur l'étagère à livres",
+    "text": "Parmi toutes ces histoires ici, la nôtre reste quand même celle que je préfère lire encore et encore.",
+    "effect": "Comparer la relation à une histoire préférée parmi des livres réels valorise le récit commun comme quelque chose digne d'être relu et chéri. Elle perçoit votre histoire commune comme un récit qu'on choisit activement de revisiter, pas un simple fait acquis.",
+    "sectionTitle": "Post-its - Étagère à livres",
+    "predictable": "Les objets liés à la lecture ne contiennent généralement pas de comparaison entre une histoire fictive et la relation elle-même",
+    "themes": [
+      "Tendresse",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Parmi toutes ces histoires, la nôtre reste celle que je préfère relire.",
+      "Plein de récits ici, mais notre histoire reste mon préféré de loin."
+    ]
+  },
+  {
+    "actionTitle": "La boîte à bijoux, le second mot",
+    "text": "Porte ce que tu veux aujourd'hui, mais souviens-toi que ta vraie valeur ne dépend jamais de ce que tu portes.",
+    "effect": "Dissocier explicitement la valeur personnelle des objets matériels qu'elle choisit de porter contrecarre toute pression esthétique implicite. Elle reçoit une réassurance sur sa valeur intrinsèque, indépendante de tout choix vestimentaire ou accessoire.",
+    "sectionTitle": "Post-its - Boîte à bijoux",
+    "predictable": "La valeur personnelle est rarement explicitement dissociée des objets matériels portés au quotidien",
+    "themes": [
+      "Affirmation",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Porte ce que tu veux, ta valeur ne dépend jamais de ça de toute façon.",
+      "Peu importe ce que tu choisis de porter, ta valeur reste la même, toujours."
+    ]
+  },
+  {
+    "actionTitle": "La boîte à bijoux, le souvenir attaché",
+    "text": "Si tu choisis quelque chose ici aujourd'hui, pense au souvenir qu'on a construit ensemble et souris un peu.",
+    "effect": "Relier un choix vestimentaire quotidien à un souvenir partagé infuse un geste banal d'une résonance affective inattendue. Elle associe un choix ordinaire du matin à un moment précieux de votre histoire commune.",
+    "sectionTitle": "Post-its - Boîte à bijoux",
+    "predictable": "Les choix vestimentaires quotidiens ne sont généralement pas reliés à un souvenir affectif partagé",
+    "themes": [
+      "Nostalgie",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que tu choisis aujourd'hui, pense à notre souvenir et souris un peu.",
+      "En choisissant ici, repense à ce qu'on a construit ensemble, avec le sourire."
+    ]
+  },
+  {
+    "actionTitle": "La boîte à bijoux, le compliment discret",
+    "text": "Peu importe ce que tu portes aujourd'hui, sache que c'est toujours toi qui rends les choses plus belles, pas l'inverse.",
+    "effect": "Inverser la logique habituelle où les accessoires embellissent la personne renforce l'idée que sa présence transcende tout objet. Elle reçoit un compliment qui la place au-dessus de tout ce qu'elle pourrait porter, plutôt que l'inverse habituel.",
+    "sectionTitle": "Post-its - Boîte à bijoux",
+    "predictable": "Les accessoires sont généralement présentés comme embellissant la personne, rarement l'inverse",
+    "themes": [
+      "Reconnaissance",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe ce que tu portes, c'est toi qui rends les choses belles.",
+      "Ce n'est jamais l'objet qui t'embellit, c'est toujours l'inverse en fait."
+    ]
+  },
+  {
+    "actionTitle": "La boîte à bijoux, le mot du soir",
+    "text": "En rangeant tout ça ce soir, souviens-toi que la meilleure partie de ta journée n'était probablement pas ici, mais ailleurs.",
+    "effect": "Suggérer que les moments les plus précieux de la journée échappent aux objets matériels invite à une réflexion sur ce qui compte vraiment. Elle est invitée à réfléchir, en rangeant, à ce qui a réellement rendu sa journée belle, au-delà du matériel.",
+    "sectionTitle": "Post-its - Boîte à bijoux",
+    "predictable": "Le rangement d'objets précieux le soir ne s'accompagne généralement pas d'une invitation à réfléchir à ce qui compte vraiment",
+    "themes": [
+      "Réflexion",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "En rangeant ce soir, la meilleure partie de ta journée était sûrement ailleurs.",
+      "Rangeant tout ça, pense à ce qui a vraiment compté aujourd'hui, ailleurs."
+    ]
+  },
+  {
+    "actionTitle": "Le chargeur de voiture, le trajet du retour",
+    "text": "Que la route du retour soit longue ou courte, sache qu'à l'arrivée quelqu'un sera content de te voir.",
+    "effect": "Rassurer sur l'accueil à l'arrivée pendant un trajet solitaire transforme l'attente du retour en quelque chose d'anticipé positivement. Elle conduit en sachant qu'un accueil chaleureux concret l'attend, peu importe la durée du trajet.",
+    "sectionTitle": "Post-its - Chargeur de voiture",
+    "predictable": "Les trajets de retour en voiture ne s'accompagnent généralement pas d'une réassurance sur l'accueil à l'arrivée",
+    "themes": [
+      "Care",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Route longue ou courte, à l'arrivée quelqu'un sera content de te voir.",
+      "Peu importe la route, je serai content de te voir en arrivant."
+    ]
+  },
+  {
+    "actionTitle": "Le chargeur de voiture, la pensée qui recharge",
+    "text": "Comme ce câble recharge ton téléphone, j'espère que penser un peu à moi te recharge aussi, un tout petit peu.",
+    "effect": "Étendre la métaphore de la recharge à l'effet espéré d'une pensée affective introduit une image tendre et légère dans un objet fonctionnel. Elle reçoit un souhait humble et tendre que même une pensée passagère pour toi puisse lui apporter un peu d'énergie.",
+    "sectionTitle": "Post-its - Chargeur de voiture",
+    "predictable": "Les objets fonctionnels de recharge ne contiennent généralement pas de souhait sur l'effet énergisant d'une pensée affective",
+    "themes": [
+      "Tendresse",
+      "Légèreté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme ce câble recharge ton téléphone, j'espère que penser à moi te recharge aussi.",
+      "Ce câble charge ton téléphone, une pensée pour moi pourrait te charger aussi, un peu."
+    ]
+  },
+  {
+    "actionTitle": "Le chargeur de voiture, avant le trajet",
+    "text": "Avant de démarrer, prends une seconde pour respirer, la route peut attendre ce petit instant pour toi.",
+    "effect": "Encourager une pause consciente avant de conduire valorise son bien-être immédiat au-dessus de l'urgence perçue du trajet. Elle reçoit une permission explicite de ralentir avant même de commencer à rouler, plutôt que de foncer directement.",
+    "sectionTitle": "Post-its - Chargeur de voiture",
+    "predictable": "Le début d'un trajet en voiture ne s'accompagne généralement pas d'une permission explicite de ralentir d'abord",
+    "themes": [
+      "Care",
+      "Calme"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Avant de démarrer, prends une seconde pour respirer, la route peut attendre.",
+      "Un petit instant pour toi avant de partir, la route ne bouge pas, elle attend."
+    ]
+  },
+  {
+    "actionTitle": "Le chargeur de voiture, le mot d'encouragement",
+    "text": "Où que cette route t'emmène aujourd'hui, sache que tu es capable de gérer ce qui t'attend là-bas.",
+    "effect": "Associer un trajet fonctionnel à un message de confiance en ses capacités élève un objet neutre au rang de rappel motivant. Elle part sur la route avec une affirmation de confiance en elle fraîchement rappelée, pas juste un trajet neutre.",
+    "sectionTitle": "Post-its - Chargeur de voiture",
+    "predictable": "Les trajets en voiture ne s'accompagnent généralement pas d'un message explicite de confiance en ses capacités",
+    "themes": [
+      "Confiance",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Où que cette route t'emmène, tu es capable de gérer ce qui t'attend.",
+      "Cette route t'emmène quelque part, et tu es prête pour ce qui t'attend là-bas."
+    ]
+  },
+  {
+    "actionTitle": "Le tapis de bain, le mot du miroir voisin",
+    "text": "Juste avant de sortir de cette pièce, souviens-toi que tu n'as rien à prouver à personne aujourd'hui.",
+    "effect": "Retirer explicitement la pression de performance sociale juste avant qu'elle n'affronte le reste de sa journée allège son état d'esprit. Elle quitte cet espace avec une permission claire de simplement être elle-même sans obligation de prouver quoi que ce soit.",
+    "sectionTitle": "Post-its - Tapis de bain",
+    "predictable": "La sortie de la salle de bain ne s'accompagne généralement pas d'une permission explicite de ne rien avoir à prouver",
+    "themes": [
+      "Permission",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Avant de sortir d'ici, souviens-toi que tu n'as rien à prouver aujourd'hui.",
+      "En sortant de cette pièce, rappelle-toi que tu n'as rien à prouver à personne."
+    ]
+  },
+  {
+    "actionTitle": "Le tapis de bain, la routine ralentie",
+    "text": "Prends ton temps ce matin, il n'y a vraiment aucune urgence à commencer la journée à toute vitesse.",
+    "effect": "Contester l'urgence implicite souvent ressentie le matin offre une permission explicite de ralentir dès le début de la journée. Elle reçoit une invitation directe à ralentir sa routine matinale, plutôt que de subir une pression de rapidité implicite.",
+    "sectionTitle": "Post-its - Tapis de bain",
+    "predictable": "Les routines matinales sont souvent vécues sous une pression de rapidité implicite plutôt qu'une invitation à ralentir",
+    "themes": [
+      "Calme",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prends ton temps ce matin, aucune urgence à tout faire vite.",
+      "Aucune urgence ce matin, prends vraiment le temps qu'il te faut."
+    ]
+  },
+  {
+    "actionTitle": "Le tapis de bain, la pensée d'eau",
+    "text": "Comme l'eau qui coule ici emporte tout, laisse les tensions d'hier partir aussi avec elle ce matin.",
+    "effect": "Utiliser l'image de l'eau qui s'écoule comme métaphore de lâcher-prise offre une image apaisante pour commencer la journée. Elle reçoit une invitation symbolique à relâcher les tensions passées avant même d'affronter la nouvelle journée.",
+    "sectionTitle": "Post-its - Tapis de bain",
+    "predictable": "Les tensions de la veille ne sont généralement pas symboliquement associées à un geste matinal de lâcher-prise",
+    "themes": [
+      "Calme",
+      "Réflexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme l'eau qui coule, laisse les tensions d'hier partir aussi ce matin.",
+      "Laisse les tensions d'hier s'en aller avec l'eau, comme un nouveau départ."
+    ]
+  },
+  {
+    "actionTitle": "Le tapis de bain, le mot joyeux",
+    "text": "Peu importe ce qui t'attend aujourd'hui, offre-toi au moins un petit sourire là, maintenant, juste pour commencer.",
+    "effect": "Encourager un sourire délibéré avant même que la journée ne commence influence positivement l'état d'esprit dès le départ. Elle est invitée à initier consciemment une émotion positive plutôt que d'attendre qu'elle survienne d'elle-même.",
+    "sectionTitle": "Post-its - Tapis de bain",
+    "predictable": "Le début de journée ne s'accompagne généralement pas d'une invitation explicite à provoquer volontairement un sourire",
+    "themes": [
+      "Légèreté",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe ce qui t'attend, offre-toi un petit sourire là, maintenant.",
+      "Avant de commencer, un petit sourire ici, juste pour bien démarrer."
+    ]
+  },
+  {
+    "actionTitle": "La boîte à couture, le fil discret",
+    "text": "Comme ce fil invisible tient un vêtement entier, les petits gestes du quotidien tiennent notre relation bien plus qu'on le pense.",
+    "effect": "Filer davantage la métaphore vers les petits gestes quotidiens souligne leur importance souvent sous-estimée dans la solidité d'une relation. Elle réalise que les petites attentions du quotidien, comme ce fil invisible, jouent un rôle bien plus grand qu'il n'y paraît.",
+    "sectionTitle": "Post-its - Boîte à outils de couture",
+    "predictable": "Les petits gestes quotidiens sont souvent sous-estimés dans leur contribution réelle à la solidité de la relation",
+    "themes": [
+      "Reconnaissance",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme ce fil invisible tient tout, les petits gestes tiennent notre relation.",
+      "Ce fil discret tient beaucoup, comme nos petites attentions du quotidien."
+    ]
+  },
+  {
+    "actionTitle": "La boîte à couture, la réparation",
+    "text": "Comme on répare un accroc avec patience, je veux qu'on prenne toujours le temps de réparer les choses entre nous aussi.",
+    "effect": "Utiliser l'image de la réparation minutieuse d'un tissu comme métaphore pour l'engagement à résoudre les conflits ajoute une image tangible et rassurante. Elle reçoit un engagement clair envers la résolution patiente des tensions, illustré par un geste concret et familier.",
+    "sectionTitle": "Post-its - Boîte à outils de couture",
+    "predictable": "L'engagement à résoudre patiemment les tensions relationnelles est rarement illustré par une métaphore concrète et familière",
+    "themes": [
+      "Engagement",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme on répare un accroc avec patience, je veux réparer les choses entre nous aussi.",
+      "On prend le temps de réparer un tissu, prenons le temps pour nous aussi."
+    ]
+  },
+  {
+    "actionTitle": "La boîte à couture, le bouton retrouvé",
+    "text": "Même les petits détails oubliés méritent d'être retrouvés et réparés, comme ce bouton, comme certaines de nos habitudes.",
+    "effect": "Étendre la métaphore aux habitudes relationnelles négligées invite à une réflexion sur les petites choses à raviver dans la relation. Elle est invitée à repenser à des petites habitudes tendres peut-être oubliées, méritant d'être ravivées comme un bouton recousu.",
+    "sectionTitle": "Post-its - Boîte à outils de couture",
+    "predictable": "Les petites habitudes relationnelles négligées sont rarement explicitement comparées à un détail oublié qui mérite d'être réparé",
+    "themes": [
+      "Réflexion",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Les petits détails oubliés méritent d'être réparés, comme certaines de nos habitudes.",
+      "Ce bouton oublié mérite d'être recousu, comme certaines de nos petites habitudes."
+    ]
+  },
+  {
+    "actionTitle": "La boîte à couture, le patchwork",
+    "text": "Notre relation ressemble un peu à un patchwork, plein de morceaux différents cousus ensemble pour former quelque chose de solide.",
+    "effect": "Comparer la relation à un patchwork valorise la diversité des expériences vécues ensemble comme source de solidité plutôt que de fragilité. Elle perçoit la diversité de vos expériences partagées comme une force qui rend la relation plus riche et résistante.",
+    "sectionTitle": "Post-its - Boîte à outils de couture",
+    "predictable": "La diversité des expériences vécues dans une relation est rarement explicitement valorisée comme source de solidité",
+    "themes": [
+      "Reconnaissance",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Notre relation ressemble à un patchwork, plein de morceaux cousus solidement.",
+      "Comme un patchwork, plein de pièces différentes qui forment quelque chose de fort."
+    ]
+  },
+  {
+    "actionTitle": "L'interrupteur, le mot du matin",
+    "text": "En allumant cette lumière ce matin, sache que tu illumines mes journées bien plus que n'importe quelle ampoule.",
+    "effect": "Comparer son effet sur les journées à celui de la lumière physique introduit une déclaration tendre dans un geste purement mécanique. Elle reçoit une comparaison flatteuse glissée dans un geste quotidien totalement anodin et automatique.",
+    "sectionTitle": "Post-its - Interrupteur de la chambre",
+    "predictable": "Les gestes mécaniques du quotidien comme allumer une lumière ne contiennent généralement pas de déclaration affective cachée",
+    "themes": [
+      "Tendresse",
+      "Légèreté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "En allumant ça ce matin, sache que tu illumines mes journées bien plus.",
+      "Cette lumière s'allume facilement, toi tu illumines encore plus mes journées."
+    ]
+  },
+  {
+    "actionTitle": "L'interrupteur, le mot de la sieste",
+    "text": "Si tu allumes ou éteins pour une sieste, sache que même endormie, tu occupes une bonne partie de mes pensées.",
+    "effect": "Étendre le message affectif aux moments de repos, pas seulement au coucher du soir, montre une présence constante à travers différents moments de la journée. Elle apprend que même pendant ses moments de repos furtifs, elle continue d'occuper une place dans tes pensées.",
+    "sectionTitle": "Post-its - Interrupteur de la chambre",
+    "predictable": "Les messages affectifs liés à la lumière se limitent généralement au coucher du soir plutôt qu'aux siestes",
+    "themes": [
+      "Tendresse",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sieste ou pas, même endormie tu occupes une bonne partie de mes pensées.",
+      "Que ce soit pour une sieste, sache que tu restes dans mes pensées quand même."
+    ]
+  },
+  {
+    "actionTitle": "L'interrupteur, le mot de la nuit blanche",
+    "text": "Si cette lumière reste allumée tard ce soir, sache que je suis là aussi, disponible si tu en as besoin.",
+    "effect": "Offrir explicitement sa disponibilité en cas de nuit difficile ou agitée renforce le sentiment de ne jamais être seule, même tard le soir. Elle sait qu'une présence disponible existe même pendant les heures tardives et inhabituelles, pas seulement en journée.",
+    "sectionTitle": "Post-its - Interrupteur de la chambre",
+    "predictable": "La disponibilité pendant les heures tardives ou une nuit agitée n'est généralement pas explicitement offerte",
+    "themes": [
+      "Care",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si la lumière reste allumée tard, sache que je suis là aussi, disponible.",
+      "Nuit agitée ou pas, je reste disponible pour toi, même tard le soir."
+    ]
+  },
+  {
+    "actionTitle": "L'interrupteur, le mot du réveil",
+    "text": "Au moment où tu allumeras cette lumière demain matin, sache qu'une nouvelle journée avec toi m'enthousiasme déjà.",
+    "effect": "Projeter un enthousiasme explicite vers le lendemain, avant même qu'il n'arrive, montre une anticipation positive constante de sa présence future. Elle réalise que même avant qu'un nouveau jour ne commence, ta présence à ses côtés est déjà anticipée avec joie.",
+    "sectionTitle": "Post-its - Interrupteur de la chambre",
+    "predictable": "L'anticipation d'une nouvelle journée ensemble est rarement exprimée explicitement la veille au soir",
+    "themes": [
+      "Anticipation",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Demain matin, en allumant ça, sache qu'une journée avec toi m'enthousiasme déjà.",
+      "Une nouvelle journée avec toi demain, et ça m'enthousiasme déjà ce soir."
+    ]
+  },
+  {
+    "actionTitle": "Le sac à main, la protection discrète",
+    "text": "Comme ce sac protège tes affaires importantes, sache que je veux aussi être ce genre de protection pour toi.",
+    "effect": "Étendre la fonction protectrice du sac vers une intention explicite de protection émotionnelle ajoute une couche de sens affectif à un objet purement pratique. Elle découvre une intention explicite de protection émotionnelle, glissée dans un objet qu'elle utilise sans y penser.",
+    "sectionTitle": "Post-its - Sac à main",
+    "predictable": "Les objets de protection matérielle du quotidien ne contiennent généralement pas d'intention explicite de protection émotionnelle",
+    "themes": [
+      "Care",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme ce sac protège tes affaires, je veux être ce genre de protection pour toi.",
+      "Ce sac garde tes affaires en sécurité, je veux faire pareil pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le sac à main, le poids allégé",
+    "text": "Que ce sac soit lourd ou léger aujourd'hui, sache que je suis toujours prêt à t'aider à porter ce qui pèse trop.",
+    "effect": "Utiliser le poids physique du sac comme métaphore pour offrir un soutien face aux charges émotionnelles ou pratiques introduit une offre d'aide concrète. Elle reçoit une offre explicite de soutien, formulée à travers une image concrète et facilement compréhensible.",
+    "sectionTitle": "Post-its - Sac à main",
+    "predictable": "Le poids physique des objets transportés est rarement utilisé comme métaphore pour offrir explicitement du soutien",
+    "themes": [
+      "Care",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Lourd ou léger, je suis prêt à t'aider à porter ce qui pèse trop.",
+      "Peu importe le poids aujourd'hui, je suis là pour t'aider à porter."
+    ]
+  },
+  {
+    "actionTitle": "Le sac à main, le mot caché tout au fond",
+    "text": "Si tu creuses tout au fond de ce sac un jour, sache que ce petit mot t'attendait patiemment, comme moi je t'attends toujours.",
+    "effect": "Placer un message dans un endroit rarement exploré ajoute une dimension de découverte patiente à la déclaration, renforçant l'idée d'une attente fidèle. Elle découvre un message qui a attendu patiemment d'être trouvé, en écho à une fidélité affective similaire.",
+    "sectionTitle": "Post-its - Sac à main",
+    "predictable": "Les messages cachés dans des recoins peu explorés ne sont généralement pas associés à une métaphore d'attente fidèle",
+    "themes": [
+      "Tendresse",
+      "Fidélité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce petit mot t'attendait patiemment tout au fond, comme moi je t'attends.",
+      "Trouvé tout au fond, ce mot patient, comme mon attente pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le sac à main, le mot léger",
+    "text": "Où que tu ailles avec ce sac aujourd'hui, j'espère que la journée sera aussi légère à porter que possible.",
+    "effect": "Souhaiter explicitement une légèreté émotionnelle pour la journée entière, pas seulement matérielle, montre une préoccupation pour son bien-être global. Elle porte avec elle un souhait de légèreté qui dépasse le simple poids physique du sac, touchant à son bien-être général.",
+    "sectionTitle": "Post-its - Sac à main",
+    "predictable": "Les souhaits pour la journée liés aux objets transportés restent généralement matériels plutôt qu'émotionnels",
+    "themes": [
+      "Care",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Où que tu ailles, j'espère que la journée sera légère à porter.",
+      "J'espère que ta journée sera aussi légère que possible aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Le carnet de rendez-vous, la page vierge",
+    "text": "Sur une page encore vide de ce carnet, sache que j'espère y trouver plein de moments avec toi à venir.",
+    "effect": "Projeter des rendez-vous futurs avec elle sur une page encore non planifiée exprime un désir explicite de continuité dans le temps. Elle perçoit un désir explicite de continuer à occuper une place importante dans ton emploi du temps futur.",
+    "sectionTitle": "Post-its - Carnet de rendez-vous",
+    "predictable": "Les pages non planifiées d'un carnet ne contiennent généralement pas de projection explicite de désir de continuité",
+    "themes": [
+      "Projection",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sur une page encore vide, j'espère y trouver plein de moments avec toi.",
+      "Cette page vide, j'espère la remplir de plein de moments avec toi à venir."
+    ]
+  },
+  {
+    "actionTitle": "Le carnet de rendez-vous, le rendez-vous imprévu",
+    "text": "Si un jour ce carnet se libère de façon imprévue, sache que je suis toujours partant pour un moment improvisé avec toi.",
+    "effect": "Exprimer une disponibilité ouverte pour l'improvisation contraste avec la nature planifiée habituelle de l'objet, ajoutant une touche de spontanéité bienvenue. Elle sait qu'au-delà de la planification rigide, une place reste toujours ouverte pour un moment spontané ensemble.",
+    "sectionTitle": "Post-its - Carnet de rendez-vous",
+    "predictable": "Les outils de planification rigide n'incluent généralement pas d'ouverture explicite à l'improvisation spontanée",
+    "themes": [
+      "Spontanéité",
+      "Disponibilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si ce carnet se libère un jour, je suis partant pour un moment improvisé.",
+      "Une place se libère ? Toujours partant pour un moment improvisé avec toi."
+    ]
+  },
+  {
+    "actionTitle": "Le carnet de rendez-vous, la priorité affichée",
+    "text": "Regarde bien la semaine à venir, et sache que je m'arrangerai toujours pour trouver une place pour toi quelque part.",
+    "effect": "Affirmer explicitement un engagement à faire de la place, quelle que soit la charge de la semaine, place sa présence au-dessus des autres priorités. Elle réalise qu'un effort actif est fait pour lui garantir une place, malgré la densité possible de l'agenda.",
+    "sectionTitle": "Post-its - Carnet de rendez-vous",
+    "predictable": "L'engagement à faire de la place dans un agenda chargé n'est généralement pas explicitement affirmé",
+    "themes": [
+      "Priorité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette semaine, je trouverai toujours une place pour toi quelque part.",
+      "Peu importe la semaine, je m'arrangerai toujours pour te faire une place."
+    ]
+  },
+  {
+    "actionTitle": "Le carnet de rendez-vous, le souvenir d'un ancien rendez-vous",
+    "text": "En feuilletant les pages passées, je retombe parfois sur un vieux rendez-vous avec toi, et ça me fait toujours sourire.",
+    "effect": "Revisiter d'anciennes pages du carnet fait remonter des souvenirs concrets, transformant un outil purement fonctionnel en archive sentimentale. Elle réalise que même les traces les plus banales de votre organisation passée peuvent raviver une émotion positive.",
+    "sectionTitle": "Post-its - Carnet de rendez-vous",
+    "predictable": "Les anciennes pages d'un outil de planification ne sont généralement pas explicitement revisitées comme archive sentimentale",
+    "themes": [
+      "Nostalgie",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "En feuilletant les pages passées, je retombe sur un vieux rendez-vous, et je souris.",
+      "Un vieux rendez-vous avec toi retrouvé par hasard, ça me fait toujours plaisir."
+    ]
+  },
+  {
+    "actionTitle": "Le filtre à café, le réveil difficile",
+    "text": "Si ce matin est plus difficile que d'habitude, sache que ce café, comme moi, est là pour t'aider à repartir doucement.",
+    "effect": "Associer un geste matinal fonctionnel à une reconnaissance explicite d'une journée qui commence difficilement montre une attention empathique. Elle reçoit une reconnaissance douce que certains matins sont plus durs, accompagnée d'un soutien symbolique.",
+    "sectionTitle": "Post-its - Filtre à café",
+    "predictable": "Les matins difficiles ne sont généralement pas explicitement reconnus à travers un objet aussi banal qu'un filtre à café",
+    "themes": [
+      "Care",
+      "Empathie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si ce matin est plus difficile, ce café, comme moi, est là pour t'aider.",
+      "Matin dur ou pas, ce café est là pour t'aider à repartir doucement."
+    ]
+  },
+  {
+    "actionTitle": "Le filtre à café, la pause méritée",
+    "text": "Prends le temps de vraiment savourer ce café aujourd'hui, tu mérites bien cette petite pause avant de foncer.",
+    "effect": "Encourager une consommation consciente plutôt que rapide et automatique valorise le droit à une pause méritée avant l'agitation de la journée. Elle reçoit une permission explicite de ralentir et savourer un moment souvent expédié sans y penser.",
+    "sectionTitle": "Post-its - Filtre à café",
+    "predictable": "La consommation du café matinal est généralement expédiée rapidement plutôt que consciemment savourée",
+    "themes": [
+      "Permission",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prends le temps de savourer ce café, tu mérites cette petite pause.",
+      "Savoure vraiment ce café aujourd'hui, cette pause est méritée avant de foncer."
+    ]
+  },
+  {
+    "actionTitle": "Le filtre à café, la comparaison tendre",
+    "text": "Comme un bon café réveille les sens, ta présence dans ma vie réveille quelque chose en moi chaque jour.",
+    "effect": "Comparer l'effet stimulant du café à celui de sa présence introduit une déclaration tendre dans un objet purement fonctionnel du quotidien. Elle découvre une comparaison flatteuse entre un plaisir simple du quotidien et l'effet qu'elle a réellement sur toi.",
+    "sectionTitle": "Post-its - Filtre à café",
+    "predictable": "Les objets liés au café ne contiennent généralement pas de comparaison explicite avec l'effet de sa présence",
+    "themes": [
+      "Tendresse",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme un bon café réveille les sens, ta présence réveille quelque chose en moi.",
+      "Ce café réveille le corps, toi tu réveilles quelque chose de plus profond."
+    ]
+  },
+  {
+    "actionTitle": "Le filtre à café, la préparation attentionnée",
+    "text": "J'ai pensé à toi en préparant ça ce matin, en espérant que ce petit geste rende ta journée un peu meilleure.",
+    "effect": "Expliciter l'intention derrière un geste routinier comme préparer le café révèle une attention consciente plutôt qu'un automatisme habituel. Elle apprend qu'un geste apparemment automatique était en réalité empreint d'une intention consciente et affectueuse envers elle.",
+    "sectionTitle": "Post-its - Filtre à café",
+    "predictable": "Les gestes routiniers comme préparer le café sont rarement explicitement présentés comme une intention consciente pour elle",
+    "themes": [
+      "Attention",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pensé à toi en préparant ça ce matin, en espérant que ça t'aide un peu.",
+      "J'ai préparé ça en pensant à toi, pour rendre ta journée un peu meilleure."
+    ]
+  },
+  {
+    "actionTitle": "Le panier à linge, la corvée transformée",
+    "text": "Même une corvée aussi banale que celle-ci me rappelle qu'on construit une vie ensemble, un petit geste à la fois.",
+    "effect": "Élever une tâche ménagère ingrate au rang de symbole de construction commune valorise les aspects les moins glamour de la vie partagée. Elle réalise que même les tâches les plus banales portent, à tes yeux, le poids symbolique d'une vie construite ensemble.",
+    "sectionTitle": "Post-its - Panier à linge",
+    "predictable": "Les tâches ménagères ingrates ne sont généralement pas explicitement valorisées comme symbole de construction commune",
+    "themes": [
+      "Reconnaissance",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même cette corvée me rappelle qu'on construit une vie ensemble, geste par geste.",
+      "Corvée banale, mais ça me rappelle qu'on bâtit une vie ensemble, petit à petit."
+    ]
+  },
+  {
+    "actionTitle": "Le panier à linge, le partage équitable",
+    "text": "Je remarque tout ce que tu fais au quotidien pour qu'on vive bien ensemble, même les choses les plus invisibles comme ça.",
+    "effect": "Reconnaître explicitement les tâches invisibles qu'elle accomplit contrecarre le sentiment fréquent que ce travail passe inaperçu. Elle réalise que même les aspects les plus invisibles de sa contribution quotidienne sont vus et reconnus.",
+    "sectionTitle": "Post-its - Panier à linge",
+    "predictable": "Les tâches ménagères invisibles accomplies au quotidien restent généralement non reconnues explicitement",
+    "themes": [
+      "Reconnaissance",
+      "Équité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je remarque tout ce que tu fais au quotidien, même les choses invisibles.",
+      "Même les tâches les plus invisibles que tu fais, je les remarque vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Le panier à linge, l'aide proposée",
+    "text": "La prochaine fois, laisse-moi m'occuper de ça, tu as déjà tellement à gérer sans que j'en rajoute.",
+    "effect": "Proposer explicitement de prendre en charge une tâche montre une volonté active de rééquilibrer la charge domestique plutôt que de la laisser reposer sur elle. Elle reçoit une offre concrète de réduire sa charge mentale et physique, pas juste une reconnaissance passive de son travail.",
+    "sectionTitle": "Post-its - Panier à linge",
+    "predictable": "La charge des tâches ménagères repose souvent sur une personne sans offre explicite de la reprendre à son compte",
+    "themes": [
+      "Équité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La prochaine fois, laisse-moi m'en occuper, tu as déjà assez à gérer.",
+      "Je m'occupe de ça la prochaine fois, tu en fais déjà bien assez comme ça."
+    ]
+  },
+  {
+    "actionTitle": "Le panier à linge, le geste qui compte",
+    "text": "Ce geste répétitif et banal fait partie de ce qui, mis bout à bout, forme une vie stable et confortable pour nous deux.",
+    "effect": "Situer une tâche répétitive dans le contexte plus large de la stabilité relationnelle construite valorise sa contribution cumulative dans le temps. Elle comprend que les gestes répétés jour après jour participent activement à bâtir la stabilité de votre vie commune.",
+    "sectionTitle": "Post-its - Panier à linge",
+    "predictable": "Les gestes répétitifs du quotidien sont rarement explicitement situés dans le contexte de la stabilité relationnelle construite",
+    "themes": [
+      "Reconnaissance",
+      "Stabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce geste banal fait partie de ce qui construit une vie stable pour nous deux.",
+      "Répétitif, oui, mais ça participe à bâtir une vie confortable ensemble."
+    ]
+  },
+  {
+    "actionTitle": "L'étagère à livres, le chapitre à venir",
+    "text": "Si notre histoire était un livre, je suis vraiment curieux de savoir ce que le prochain chapitre nous réserve.",
+    "effect": "Utiliser la métaphore littéraire pour exprimer une curiosité sincère envers l'avenir de la relation ajoute une dimension narrative et engageante à la projection future. Elle perçoit un intérêt actif et positif pour la suite de votre histoire commune, formulé à travers une image qu'elle reconnaît facilement.",
+    "sectionTitle": "Post-its - Étagère à livres",
+    "predictable": "La curiosité envers l'avenir de la relation est rarement formulée à travers une métaphore littéraire explicite",
+    "themes": [
+      "Projection",
+      "Curiosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si notre histoire était un livre, curieux de voir ce que réserve le prochain chapitre.",
+      "Vraiment curieux de savoir ce que le chapitre suivant de notre histoire nous réserve."
+    ]
+  },
+  {
+    "actionTitle": "L'étagère à livres, le livre qu'on relit",
+    "text": "Certains livres ici, on ne les relit jamais deux fois, mais notre histoire à nous, je pourrais la revivre encore et encore.",
+    "effect": "Contraster l'usage unique de certains livres avec l'envie répétée de revivre l'histoire commune souligne la valeur exceptionnelle accordée à la relation. Elle réalise que, contrairement à la plupart des récits qu'on ne relit qu'une fois, votre histoire commune est perçue comme digne d'être revécue indéfiniment.",
+    "sectionTitle": "Post-its - Étagère à livres",
+    "predictable": "La valeur exceptionnelle de vouloir revivre une histoire commune n'est généralement pas comparée explicitement à des livres qu'on ne relit qu'une fois",
+    "themes": [
+      "Tendresse",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Certains livres, on ne les relit jamais, notre histoire je la revivrais sans fin.",
+      "La plupart des livres ici, une seule fois suffit, nous deux, jamais assez."
+    ]
+  },
+  {
+    "actionTitle": "L'étagère à livres, la dédicace imaginaire",
+    "text": "Si j'écrivais un livre sur nous, la première page commencerait sûrement par tout ce que j'apprécie chez toi.",
+    "effect": "Imaginer une dédicace fictive centrée sur son appréciation d'elle transforme un objet neutre en support d'une déclaration affective imaginative. Elle reçoit une déclaration d'appréciation formulée à travers un exercice imaginatif plutôt qu'une phrase directe habituelle.",
+    "sectionTitle": "Post-its - Étagère à livres",
+    "predictable": "Les déclarations d'appréciation sont rarement formulées à travers l'exercice imaginatif d'une dédicace fictive",
+    "themes": [
+      "Tendresse",
+      "Créativité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si j'écrivais un livre sur nous, la première page parlerait de ce que j'aime chez toi.",
+      "Un livre sur nous commencerait sûrement par tout ce que j'apprécie chez toi."
+    ]
+  },
+  {
+    "actionTitle": "L'étagère à livres, la fin heureuse",
+    "text": "Peu importe les rebondissements qu'on traverse, je reste convaincu qu'on écrit ensemble une histoire qui finit bien.",
+    "effect": "Exprimer une confiance explicite dans un dénouement positif malgré d'éventuelles difficultés rassure sur l'engagement à long terme dans la relation. Elle reçoit une réassurance profonde sur ta confiance en l'avenir de la relation, indépendamment des obstacles rencontrés en chemin.",
+    "sectionTitle": "Post-its - Étagère à livres",
+    "predictable": "La confiance en un dénouement positif de la relation, malgré les difficultés, est rarement explicitement affirmée",
+    "themes": [
+      "Confiance",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe les rebondissements, je crois qu'on écrit une histoire qui finit bien.",
+      "Quels que soient les obstacles, notre histoire finira bien, j'en suis convaincu."
+    ]
   }
 ]
