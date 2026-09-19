@@ -11635,5 +11635,855 @@
       "J'aimerais qu'on prenne un vrai moment pour reparler calmement, quand tu es prête.",
       "Prenons un vrai temps pour en reparler ensemble, à ton rythme, pas de pression."
     ]
+  },
+  {
+    "actionTitle": "The real how-are-you",
+    "text": "How are you actually feeling today, physically? Not the quick answer, the real one, I actually want to know.",
+    "effect": "Explicitly asking for the non-automatic answer signals that her physical state is worth more than a passing check-in. She gets an opening to name something real instead of defaulting to a reflexive fine.",
+    "sectionTitle": "SMS - The Wellness Check-In",
+    "predictable": "Wellness check-ins over text usually invite the automatic, reflexive answer rather than the honest one",
+    "themes": [
+      "Health",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "How are you really feeling today, physically? Want the honest answer.",
+      "Actual check-in: how's your body doing today, not just the quick answer?"
+    ]
+  },
+  {
+    "actionTitle": "The hydration nudge",
+    "text": "Drink some water if you haven't in a while, just a small reminder because I want you feeling good today.",
+    "effect": "A small, specific physical reminder shows attentiveness to her basic needs even from a distance. She receives a tiny nudge of care aimed squarely at her physical wellbeing, not just a generic thinking-of-you text.",
+    "sectionTitle": "SMS - The Wellness Check-In",
+    "predictable": "Basic physical reminders like hydration are rarely sent as a small, specific act of remote care",
+    "themes": [
+      "Health",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Drink some water if you haven't, small reminder because I care.",
+      "Hydration check: have some water, just want you feeling good today."
+    ]
+  },
+  {
+    "actionTitle": "The recommendation with a reason",
+    "text": "Found something — a book, a show, an artist — that I think you'd genuinely love, and I can tell you exactly why.",
+    "effect": "Offering a considered recommendation with reasoning behind it shows the suggestion is tailored to her, not just generic sharing. She receives something chosen with her specific taste in mind, backed by real thought.",
+    "sectionTitle": "SMS - The Culture Recommendation",
+    "predictable": "Cultural recommendations are often shared without explaining the specific reason it made you think of her",
+    "themes": [
+      "Culture",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Found something I think you'd love, and I know exactly why.",
+      "This made me think of you specifically, want to tell you why."
+    ]
+  },
+  {
+    "actionTitle": "The question about her taste",
+    "text": "What's something from your culture or background you wish more people actually understood or appreciated?",
+    "effect": "Asking about an aspect of her cultural background invites her to share something personal that might rarely get asked about directly. She's given space to talk about a part of her identity often left unexplored in daily conversation.",
+    "sectionTitle": "SMS - The Culture Recommendation",
+    "predictable": "Aspects of a partner's cultural background rarely get directly and genuinely asked about",
+    "themes": [
+      "Culture",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Genuinely curious, what's something from your background people misunderstand?",
+      "What's a part of your culture you wish got more appreciation? Curious."
+    ]
+  },
+  {
+    "actionTitle": "The old photo resurfaced",
+    "text": "Found an old photo of us today, and it made me smile for way longer than a photo probably should.",
+    "effect": "Sharing a resurfaced photo unprompted shows that memories of your shared history continue to surface spontaneously. She's reminded that a past moment together still has the power to genuinely affect you today.",
+    "sectionTitle": "SMS - The Photo Memory",
+    "predictable": "Old photos of shared moments are rarely resurfaced and shared spontaneously without a specific occasion",
+    "themes": [
+      "Photography",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Found an old photo of us, smiled way longer than expected.",
+      "This old photo of us just showed up and made my whole moment better."
+    ]
+  },
+  {
+    "actionTitle": "The photo you should take",
+    "text": "You should take a photo of whatever you're looking at right now, I bet it's more interesting than you realize.",
+    "effect": "Prompting her to notice and capture her present surroundings encourages mindful attention to an ordinary moment she might otherwise overlook. She's nudged to see her immediate environment as worth documenting, not just passing through.",
+    "sectionTitle": "SMS - The Photo Memory",
+    "predictable": "Ordinary surroundings in the middle of a normal moment are rarely prompted to be noticed and photographed",
+    "themes": [
+      "Photography",
+      "Presence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take a photo of whatever you're looking at, probably more interesting than you think.",
+      "Snap a picture of right now, I bet it's worth keeping."
+    ]
+  },
+  {
+    "actionTitle": "The offer before she asks",
+    "text": "If there's anything on your list today I could help with, just say the word, genuinely happy to take something off it.",
+    "effect": "Proactively offering help before it's requested shows willingness that doesn't wait for her to reach the point of asking. She's offered relief without having to first decide her load is heavy enough to justify asking.",
+    "sectionTitle": "SMS - The Quiet Favor",
+    "predictable": "Offers of help usually wait for her to explicitly ask rather than being proactively extended first",
+    "themes": [
+      "Service",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Anything on your list today, happy to take something off it, just say.",
+      "Let me know if there's anything I can grab or handle for you today."
+    ]
+  },
+  {
+    "actionTitle": "The quiet favor confirmed",
+    "text": "Took care of that thing for you, didn't want to make a big deal of it, just wanted it off your plate.",
+    "effect": "Reporting a completed favor without fanfare emphasizes that the help was motivated by usefulness, not by seeking recognition. She learns a task is handled while also seeing that the gesture wasn't done for credit.",
+    "sectionTitle": "SMS - The Quiet Favor",
+    "predictable": "Completed favors are sometimes mentioned with more emphasis on the effort than the simple fact of it being done",
+    "themes": [
+      "Service",
+      "Generosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Took care of that thing, wanted it off your plate, no big deal.",
+      "Handled that for you, just wanted it done so you don't have to think about it."
+    ]
+  },
+  {
+    "actionTitle": "The team text",
+    "text": "We make a pretty good team, thinking about that thing we figured out together earlier, still kind of proud of us.",
+    "effect": "Explicitly naming the relationship as a functioning team reinforces the value placed on shared effort and joint problem-solving. She feels the collaborative moment you shared is remembered and valued, not just quietly forgotten afterward.",
+    "sectionTitle": "SMS - The Team Text",
+    "predictable": "Moments of successful collaboration are rarely explicitly named and revisited afterward as a point of pride",
+    "themes": [
+      "Collaboration",
+      "Pride"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "We make a good team, still thinking about what we figured out earlier.",
+      "Still proud of how we handled that together earlier, good teamwork."
+    ]
+  },
+  {
+    "actionTitle": "The idea I want your input on",
+    "text": "Working through something and I actually want your take on it, not just to vent, your opinion would genuinely help.",
+    "effect": "Explicitly requesting her input, rather than just venting, positions her as a valued collaborator on a real problem. She's invited into active problem-solving rather than just being a passive listener to a complaint.",
+    "sectionTitle": "SMS - The Team Text",
+    "predictable": "Sharing a problem over text often defaults to venting rather than explicitly requesting her actual input",
+    "themes": [
+      "Collaboration",
+      "Trust"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Working through something, actually want your take, not just venting.",
+      "Could use your actual opinion on something, not just to vent about it."
+    ]
+  },
+  {
+    "actionTitle": "The future thought",
+    "text": "Been thinking about where we're headed lately, and honestly, I like what I'm picturing when I imagine it.",
+    "effect": "Sharing an unprompted positive thought about the shared future signals ongoing investment beyond the immediate present. She receives reassurance about the relationship's direction without having to ask or wonder about it herself.",
+    "sectionTitle": "SMS - The Future Text",
+    "predictable": "Thoughts about the relationship's future direction are rarely shared unprompted and outside of a specific occasion",
+    "themes": [
+      "Engagement",
+      "Projection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Been thinking about where we're headed, like what I'm picturing.",
+      "Thinking about our future lately, honestly like where it's going."
+    ]
+  },
+  {
+    "actionTitle": "The concrete plan starter",
+    "text": "Let's actually pick a date for that thing we keep talking about doing together someday, name a day that works.",
+    "effect": "Pushing a vague future intention toward an actual date shows genuine follow-through rather than letting it stay hypothetical indefinitely. She sees a shared idea move concretely closer to happening rather than remaining a recurring, unrealized topic.",
+    "sectionTitle": "SMS - The Future Text",
+    "predictable": "Ideas about things to do together someday often stay vague rather than being pushed toward an actual date",
+    "themes": [
+      "Engagement",
+      "Follow-through"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let's pick an actual date for that thing we keep talking about.",
+      "Name a day that works, let's actually make that thing happen."
+    ]
+  },
+  {
+    "actionTitle": "The admiration text",
+    "text": "Been thinking about how you handled that situation recently, and honestly, I really admire how you did it.",
+    "effect": "Sending unprompted admiration about a specific past situation shows the impression it left continues to resonate afterward. She learns that her handling of something continues to be genuinely admired well after the moment passed.",
+    "sectionTitle": "SMS - The Admiration Text",
+    "predictable": "Admiration for how she handled a specific past situation is rarely revisited and sent afterward",
+    "themes": [
+      "Admiration",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Been thinking about how you handled that, honestly really admire it.",
+      "Still impressed by how you dealt with that recently, genuinely admire it."
+    ]
+  },
+  {
+    "actionTitle": "The admiration for the everyday",
+    "text": "Just watching you go about your day sometimes, and honestly, the way you handle everything is pretty admirable.",
+    "effect": "Expressing admiration for ordinary, everyday competence rather than a single standout moment values consistency over spectacle. She hears that even her routine, unremarkable capability is genuinely noticed and admired.",
+    "sectionTitle": "SMS - The Admiration Text",
+    "predictable": "Admiration is often reserved for standout moments rather than expressed for ordinary, everyday competence",
+    "themes": [
+      "Admiration",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Just watching you handle your day, honestly pretty admirable stuff.",
+      "The way you handle everything day to day is genuinely admirable, noticed."
+    ]
+  },
+  {
+    "actionTitle": "The mood you're setting for tonight",
+    "text": "Setting up something a little different for tonight, just a small shift in the mood, hope you're into surprises.",
+    "effect": "Announcing an intentional atmospheric change ahead of time builds anticipation for a deliberately shaped evening rather than a default one. She anticipates arriving into a space that was thoughtfully prepared, not just left as-is.",
+    "sectionTitle": "SMS - The Mood-Setter Text",
+    "predictable": "Evenings together are rarely announced in advance as having an intentionally shaped, different mood",
+    "themes": [
+      "Atmosphere",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Setting up something different for tonight, small mood shift, hope you like surprises.",
+      "Doing something a little different with tonight's vibe, can't wait to show you."
+    ]
+  },
+  {
+    "actionTitle": "The song for the mood",
+    "text": "Sending you this song, it's basically the mood I'm hoping tonight has, tell me if it matches what you're picturing too.",
+    "effect": "Using a song to convey an intended emotional tone for an upcoming evening adds a creative, sensory layer to planning. She's invited into co-creating the mood rather than just being told what to expect directly.",
+    "sectionTitle": "SMS - The Mood-Setter Text",
+    "predictable": "The intended mood for an upcoming evening is rarely conveyed indirectly through a chosen song",
+    "themes": [
+      "Atmosphere",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sending this song, it's the mood I'm hoping tonight has, tell me what you think.",
+      "This song is basically tonight's vibe I'm going for, does it match yours too?"
+    ]
+  },
+  {
+    "actionTitle": "The reassurance of confidentiality",
+    "text": "Just want you to know that what you told me stays exactly there, with me, always, no matter what.",
+    "effect": "Explicitly reaffirming confidentiality over text reinforces trust in a way that's easy to assume but rarely stated outright. She receives clear, unprompted confirmation that her vulnerability was met with reliability, not just silence.",
+    "sectionTitle": "SMS - The Trust Text",
+    "predictable": "Confidentiality around something shared is usually assumed rather than explicitly reaffirmed afterward",
+    "themes": [
+      "Trust",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "What you told me stays exactly there, with me, always, no matter what.",
+      "Just know that stays between us, always, you can trust that completely."
+    ]
+  },
+  {
+    "actionTitle": "The honest text you didn't have to send",
+    "text": "Being honest, I could have avoided telling you this, but I'd rather you hear the real thing from me directly.",
+    "effect": "Choosing to send an honest message that could have been easily avoided demonstrates a deliberate commitment to transparency. She learns that even inconvenient truths are prioritized over comfortable omission.",
+    "sectionTitle": "SMS - The Trust Text",
+    "predictable": "Inconvenient honest truths are sometimes avoided in favor of comfortable omission rather than deliberately shared",
+    "themes": [
+      "Trust",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Could have avoided saying this, but wanted you to hear it from me directly.",
+      "Being honest here even though I didn't have to, wanted you to know."
+    ]
+  },
+  {
+    "actionTitle": "The confirmed follow-through",
+    "text": "Done, exactly like I said I would, wanted you to know it's handled so you don't have to wonder about it.",
+    "effect": "Confirming that a stated commitment was completed exactly as promised removes any need for her to follow up or wonder. She can fully trust that what was said would happen, happened, without needing to check in herself.",
+    "sectionTitle": "SMS - The Dependable Text",
+    "predictable": "Completed commitments are sometimes left unconfirmed, requiring her to check in rather than being told directly",
+    "themes": [
+      "Reliability",
+      "Trust"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Done, exactly like I said, wanted you to know it's handled.",
+      "Handled, just like promised, didn't want you wondering about it."
+    ]
+  },
+  {
+    "actionTitle": "The same time, every time",
+    "text": "Just checking in, same time as always, because I like that this is something you can actually count on.",
+    "effect": "Explicitly naming the consistency of a recurring check-in reinforces that its reliability is intentional, not accidental. She recognizes a small ritual as something deliberately maintained as dependable, not just a habit that happened to stick.",
+    "sectionTitle": "SMS - The Dependable Text",
+    "predictable": "The reliability of a recurring habit is rarely explicitly named and valued as an intentional choice",
+    "themes": [
+      "Reliability",
+      "Regularity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Checking in, same time as always, like that you can count on this.",
+      "Same time as always, wanted this to be something reliable for you."
+    ]
+  },
+  {
+    "actionTitle": "The rest reminder",
+    "text": "If today's been a lot, it's genuinely fine to stop early tonight, your body will thank you tomorrow.",
+    "effect": "Explicitly permitting an early stop to the day removes the implicit pressure to push through fatigue for its own sake. She receives a clear nudge that rest is not something to earn through extra effort first.",
+    "sectionTitle": "SMS - The Wellness Check-In",
+    "predictable": "Permission to stop a demanding day early is rarely offered explicitly rather than assumed to require justification",
+    "themes": [
+      "Health",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If today's been a lot, genuinely fine to stop early tonight.",
+      "No shame in calling it early tonight if today wore you out."
+    ]
+  },
+  {
+    "actionTitle": "The gentle exercise nudge",
+    "text": "No pressure at all, but a short walk later might feel good if you get a chance, just a thought, not a demand.",
+    "effect": "Framing a suggestion as low-pressure and optional avoids adding guilt to something meant to support her wellbeing. She receives a caring suggestion without any implied obligation attached to it.",
+    "sectionTitle": "SMS - The Wellness Check-In",
+    "predictable": "Suggestions about physical activity sometimes carry implicit pressure rather than being framed as fully optional",
+    "themes": [
+      "Health",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No pressure, but a short walk later might feel good, just a thought.",
+      "Totally optional, but a little walk today might help, just a suggestion."
+    ]
+  },
+  {
+    "actionTitle": "The concert you'd both love",
+    "text": "Saw there's a show or exhibit coming up that feels exactly like something we'd both genuinely enjoy together.",
+    "effect": "Proactively surfacing a shared cultural opportunity shows ongoing attentiveness to activities that would resonate with both of you. She sees a concrete plan taking shape from genuine shared interest, not just a passing idea.",
+    "sectionTitle": "SMS - The Culture Recommendation",
+    "predictable": "Upcoming cultural events matching both partners' interests aren't always proactively noticed and suggested",
+    "themes": [
+      "Culture",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Saw a show coming up that feels exactly like something we'd both love.",
+      "There's an exhibit coming up, feels like something we'd genuinely enjoy together."
+    ]
+  },
+  {
+    "actionTitle": "The word from another language",
+    "text": "Learned a word today from a language neither of us speaks, and it perfectly describes something about you.",
+    "effect": "Sharing a foreign word tied specifically to her shows curiosity about language translating directly into thoughtfulness about her. She receives a small, unusual compliment made more meaningful by the effort behind discovering it.",
+    "sectionTitle": "SMS - The Culture Recommendation",
+    "predictable": "Words learned from unfamiliar languages are rarely connected back to something specific about her",
+    "themes": [
+      "Culture",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Learned a word today that perfectly describes something about you.",
+      "Found a word from another language that fits you perfectly, wanted to share."
+    ]
+  },
+  {
+    "actionTitle": "The photo from years ago",
+    "text": "Just found this from years back, look how far we've come since then, still can't get over it honestly.",
+    "effect": "Rediscovering and sharing an old photo unprompted shows an active engagement with your shared history rather than letting it stay archived. She's reminded of the distance traveled together, revisited spontaneously rather than only on anniversaries.",
+    "sectionTitle": "SMS - The Photo Memory",
+    "predictable": "Old photos marking how far a relationship has come are rarely rediscovered and shared spontaneously",
+    "themes": [
+      "Photography",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Just found this from years back, look how far we've come, still amazed.",
+      "Old photo just resurfaced, can't believe how far we've come since then."
+    ]
+  },
+  {
+    "actionTitle": "The photo I want to take of you",
+    "text": "There's a photo I've been wanting to take of you for a while now, remind me to actually do it soon.",
+    "effect": "Voicing an intention to photograph her, tied to genuine appreciation, shows a desire to capture something specific about her presence. She learns that a specific image of her has been on your mind, waiting for the right moment.",
+    "sectionTitle": "SMS - The Photo Memory",
+    "predictable": "The intention to photograph her in a specific way is rarely voiced ahead of actually doing it",
+    "themes": [
+      "Photography",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "There's a photo I've wanted to take of you for a while, remind me.",
+      "Been meaning to take a photo of you doing that thing you do, let's do it soon."
+    ]
+  },
+  {
+    "actionTitle": "The favor already in motion",
+    "text": "Already started handling that thing you mentioned needing to do, figured I'd just get ahead of it for you.",
+    "effect": "Acting on a mentioned need before being formally asked shows attentiveness translated directly into initiative. She experiences a need being addressed proactively, without her having to formally request the help.",
+    "sectionTitle": "SMS - The Quiet Favor",
+    "predictable": "Needs mentioned in passing are rarely acted on proactively before being formally requested",
+    "themes": [
+      "Service",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Already started on that thing you mentioned, figured I'd get ahead of it.",
+      "Got a head start on that thing you needed done, wanted to help out."
+    ]
+  },
+  {
+    "actionTitle": "The thank you for something small",
+    "text": "Just want to say thank you for something small you did today that probably felt automatic to you but mattered to me.",
+    "effect": "Thanking her for a small, seemingly automatic action counters the assumption that only big gestures deserve acknowledgment. She learns that even actions she barely registered as significant were noticed and appreciated.",
+    "sectionTitle": "SMS - The Quiet Favor",
+    "predictable": "Small automatic actions rarely receive explicit thanks, usually reserved for bigger, more visible gestures",
+    "themes": [
+      "Service",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thank you for something small today that probably felt automatic to you.",
+      "Something small you did today mattered more than you probably realize, thank you."
+    ]
+  },
+  {
+    "actionTitle": "The good problem-solving duo",
+    "text": "Still thinking about how well we worked through that together, we're actually a pretty solid team when it counts.",
+    "effect": "Reflecting on a past collaborative success reinforces confidence in the partnership's ability to handle challenges together. She's reminded that difficult moments handled together become sources of pride rather than just resolved and forgotten.",
+    "sectionTitle": "SMS - The Team Text",
+    "predictable": "Successful joint problem-solving is rarely revisited afterward as an explicit source of shared pride",
+    "themes": [
+      "Collaboration",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Still thinking about how well we worked through that, solid team.",
+      "We handled that really well together, we're a good team when it counts."
+    ]
+  },
+  {
+    "actionTitle": "The next project together",
+    "text": "Thinking we should find another little project to work on together soon, liked how that felt last time.",
+    "effect": "Proposing a future collaborative project shows a desire to repeat the positive experience of working together, not just once. She sees an invitation to continue building shared accomplishments rather than treating the last one as a one-off.",
+    "sectionTitle": "SMS - The Team Text",
+    "predictable": "The positive feeling of a past joint project is rarely explicitly used to propose doing another one soon",
+    "themes": [
+      "Collaboration",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "We should find another project to work on together soon, liked how that felt.",
+      "Let's find something else to tackle together, enjoyed working on that last one."
+    ]
+  },
+  {
+    "actionTitle": "The vision I keep coming back to",
+    "text": "There's a version of our future I keep picturing, and I wanted you to know it includes you in every detail.",
+    "effect": "Sharing a recurring, vivid vision of the future explicitly centered on her reinforces long-term commitment beyond vague statements. She receives concrete reassurance that future plans consistently and specifically include her, not just abstractly.",
+    "sectionTitle": "SMS - The Future Text",
+    "predictable": "Recurring personal visions of the future are rarely shared explicitly with confirmation that she's centrally included",
+    "themes": [
+      "Engagement",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "There's a future I keep picturing, and it includes you in every detail.",
+      "Keep picturing a future that has you in it, every single detail, wanted you to know."
+    ]
+  },
+  {
+    "actionTitle": "The commitment restated",
+    "text": "Just want to reaffirm, out of nowhere, that I'm genuinely all in on us, no doubts, just wanted to say it plainly.",
+    "effect": "Restating commitment unprompted, without a triggering event, reassures through consistency rather than only during moments of uncertainty. She receives reassurance that isn't reactive to doubt but freely and confidently offered.",
+    "sectionTitle": "SMS - The Future Text",
+    "predictable": "Reaffirmations of commitment are usually reactive to doubt rather than offered freely without any trigger",
+    "themes": [
+      "Engagement",
+      "Reassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Out of nowhere, just want to say I'm genuinely all in on us, no doubts.",
+      "Wanted to plainly say, no trigger needed, I'm fully committed to us."
+    ]
+  },
+  {
+    "actionTitle": "The admiration for patience",
+    "text": "Really admire how patient you were today with something that would've frustrated a lot of people, that's not nothing.",
+    "effect": "Naming patience specifically as an admired trait, tied to a real situation, validates emotional regulation that often goes unnoticed. She learns that her composure under frustration is recognized as a genuine strength, not just expected.",
+    "sectionTitle": "SMS - The Admiration Text",
+    "predictable": "Patience shown under frustrating circumstances often goes unacknowledged as a genuinely admirable trait",
+    "themes": [
+      "Admiration",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Really admire how patient you were today, that's not nothing.",
+      "That patience today would've been hard for most people, genuinely admire it."
+    ]
+  },
+  {
+    "actionTitle": "The admiration for showing up",
+    "text": "Admire that you showed up today even when it clearly would've been easier not to, that takes real character.",
+    "effect": "Admiring the act of showing up despite difficulty values effort and character over outcomes or visible success. She's told that her willingness to persist, even reluctantly, is recognized as a meaningful strength.",
+    "sectionTitle": "SMS - The Admiration Text",
+    "predictable": "Simply showing up despite difficulty is rarely explicitly named as an admirable act of character",
+    "themes": [
+      "Admiration",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Admire that you showed up today even when it would've been easier not to.",
+      "Showing up today when it was hard says a lot about you, genuinely admire that."
+    ]
+  },
+  {
+    "actionTitle": "The mood for later",
+    "text": "Trying to figure out the right mood for later tonight, got any preference, or should I just surprise you with it?",
+    "effect": "Inviting her input on the planned atmosphere for the evening treats mood-setting as a collaborative choice rather than a unilateral decision. She's given a voice in shaping the emotional tone of shared time, or the option to be pleasantly surprised.",
+    "sectionTitle": "SMS - The Mood-Setter Text",
+    "predictable": "The mood for an evening together is rarely opened up as a collaborative choice rather than decided unilaterally",
+    "themes": [
+      "Atmosphere",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Figuring out the mood for later, preference, or want to be surprised?",
+      "Trying to set the right vibe for tonight, your call or should I surprise you?"
+    ]
+  },
+  {
+    "actionTitle": "The small atmosphere spoiler",
+    "text": "Small hint about tonight: it's going to feel a lot calmer and cozier than our usual evenings, on purpose.",
+    "effect": "Giving a partial preview of an intentionally shaped atmosphere builds anticipation while confirming the deliberate effort behind it. She anticipates a specific emotional tone for the evening, rather than discovering it completely unprepared.",
+    "sectionTitle": "SMS - The Mood-Setter Text",
+    "predictable": "The intended emotional tone of an evening is rarely partially revealed in advance to build anticipation",
+    "themes": [
+      "Atmosphere",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Small hint: tonight's going to feel calmer and cozier than usual, on purpose.",
+      "Tonight's vibe is going to be different, calmer, cozier, on purpose, small hint."
+    ]
+  },
+  {
+    "actionTitle": "The trust in your judgment",
+    "text": "Whatever you decide about that, I trust your judgment completely, you know what's right here better than I do.",
+    "effect": "Explicitly deferring to her judgment on a decision reinforces trust in her competence rather than needing to weigh in yourself. She experiences genuine confidence placed in her ability to decide, not just polite deference.",
+    "sectionTitle": "SMS - The Trust Text",
+    "predictable": "Trust in her judgment on a decision is often implied rather than explicitly and directly stated",
+    "themes": [
+      "Trust",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you decide, trust your judgment completely on this one.",
+      "You know this better than I do, trust your call completely here."
+    ]
+  },
+  {
+    "actionTitle": "The safe space reminder",
+    "text": "Whatever you need to say, you can say it to me without worrying how I'll react, that's always true, always.",
+    "effect": "Reaffirming emotional safety for open communication invites her to speak freely without fear of a negative reaction. She receives explicit reassurance that honesty with you carries no hidden risk of judgment or overreaction.",
+    "sectionTitle": "SMS - The Trust Text",
+    "predictable": "Emotional safety for open communication is rarely explicitly reaffirmed rather than just quietly assumed",
+    "themes": [
+      "Trust",
+      "Safety"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you need to say, say it without worrying how I'll react.",
+      "You can always tell me anything without worrying about my reaction, always."
+    ]
+  },
+  {
+    "actionTitle": "The reminder you can set your watch by",
+    "text": "Home by the usual time tonight, wanted you to know so you're not left wondering, same as always.",
+    "effect": "Providing a specific, expected update reinforces predictability that lets her plan around your reliability with confidence. She doesn't have to wonder or ask, because the information she needs is offered before she has to seek it.",
+    "sectionTitle": "SMS - The Dependable Text",
+    "predictable": "Expected details like arrival times are sometimes left for her to wonder about rather than proactively shared",
+    "themes": [
+      "Reliability",
+      "Predictability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Home by the usual time tonight, wanted you to know, same as always.",
+      "Same time as always tonight, wanted you to have that, not wondering."
+    ]
+  },
+  {
+    "actionTitle": "The pattern you can count on",
+    "text": "Noticed we've kept up that little thing we started a few weeks ago, kind of proud that it stuck, honestly.",
+    "effect": "Acknowledging the sustained continuation of a shared habit reinforces that its reliability wasn't accidental but genuinely maintained. She sees explicit recognition that a small routine has become something dependable, not something that quietly faded.",
+    "sectionTitle": "SMS - The Dependable Text",
+    "predictable": "The sustained continuation of a shared habit is rarely explicitly acknowledged as something worth being proud of",
+    "themes": [
+      "Reliability",
+      "Consistency"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noticed we've kept up that thing we started, proud it stuck, honestly.",
+      "That little routine we started weeks ago, still going, kind of proud of that."
+    ]
+  },
+  {
+    "actionTitle": "The body deserves credit too",
+    "text": "Whatever your body got through today, it did a lot of quiet work, give it a little credit tonight.",
+    "effect": "Acknowledging the body's effort through an ordinary day, rather than only its appearance, values physical wellbeing on its own terms. She's reminded to appreciate her body for what it accomplished, not just how it looked or felt.",
+    "sectionTitle": "SMS - The Wellness Check-In",
+    "predictable": "The body's daily effort is rarely explicitly acknowledged and credited on its own terms",
+    "themes": [
+      "Health",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever your body got through today, give it a little credit tonight.",
+      "Your body did quiet work today, give it some credit before bed."
+    ]
+  },
+  {
+    "actionTitle": "The dish from your childhood",
+    "text": "What's a dish from your childhood or background I still haven't tried? Feels like I'm missing out on something important.",
+    "effect": "Asking about a formative cultural dish invites her to share a personal history through food rather than an abstract fact. She gets to introduce a piece of her past that carries real personal meaning, not just trivia.",
+    "sectionTitle": "SMS - The Culture Recommendation",
+    "predictable": "Formative dishes from someone's childhood or background rarely get directly asked about by a partner",
+    "themes": [
+      "Culture",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "What's a dish from your childhood I still haven't tried? Feel like I'm missing out.",
+      "Is there a dish from your background I haven't had yet? Want to try it."
+    ]
+  },
+  {
+    "actionTitle": "The photo you'll want later",
+    "text": "Take a photo of today even if it feels ordinary, future you will probably be glad this one exists.",
+    "effect": "Encouraging documentation of an unremarkable day anticipates future nostalgia for moments that don't feel significant yet. She's nudged to preserve something that will likely matter more in hindsight than it does right now.",
+    "sectionTitle": "SMS - The Photo Memory",
+    "predictable": "Ordinary days are rarely photographed with the explicit anticipation that they'll matter more in hindsight",
+    "themes": [
+      "Photography",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take a photo of today even if it feels ordinary, future you will be glad.",
+      "Snap something today, even ordinary, future you will probably appreciate it."
+    ]
+  },
+  {
+    "actionTitle": "The favor you won't notice yet",
+    "text": "Did something for you today that you probably won't notice until later, just wanted to give you a heads up.",
+    "effect": "Flagging an invisible favor in advance, without revealing it, builds gentle anticipation around discovering it later. She anticipates a small discovery ahead of time, adding a layer of curiosity to an otherwise quiet gesture.",
+    "sectionTitle": "SMS - The Quiet Favor",
+    "predictable": "Invisible favors are rarely flagged in advance with a heads-up before she actually discovers them",
+    "themes": [
+      "Service",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Did something today you probably won't notice until later, heads up.",
+      "Small thing done today you'll probably notice later, just a heads up now."
+    ]
+  },
+  {
+    "actionTitle": "The good kind of stubborn",
+    "text": "We were both pretty stubborn about that decision earlier, and honestly, I think that's exactly why it worked out.",
+    "effect": "Reframing mutual stubbornness during a joint decision as a strength rather than a flaw values honest disagreement within collaboration. She sees a moment of friction reframed positively as part of what made the collaboration ultimately successful.",
+    "sectionTitle": "SMS - The Team Text",
+    "predictable": "Moments of mutual disagreement during collaboration are rarely reframed afterward as a positive contributing factor",
+    "themes": [
+      "Collaboration",
+      "Reflection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "We were both stubborn about that decision, honestly think that's why it worked.",
+      "Stubborn about that one earlier, but I think that's exactly why it worked out."
+    ]
+  },
+  {
+    "actionTitle": "The five year thought",
+    "text": "Randomly pictured us five years from now today, and honestly, it made me smile more than I expected.",
+    "effect": "Sharing a spontaneous long-term projection of the relationship shows the future is imagined with genuine positive emotion, not obligation. She receives an unprompted glimpse into how the future is imagined, met with real warmth rather than duty.",
+    "sectionTitle": "SMS - The Future Text",
+    "predictable": "Long-term projections of the relationship are rarely shared spontaneously outside of a specific prompting occasion",
+    "themes": [
+      "Engagement",
+      "Projection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Randomly pictured us five years from now today, made me smile more than expected.",
+      "Had a random thought about us years from now, honestly made me really happy."
+    ]
+  },
+  {
+    "actionTitle": "The admiration for asking for help",
+    "text": "Admire that you asked for help today instead of trying to push through it alone, that's genuinely not easy to do.",
+    "effect": "Admiring the act of asking for help reframes vulnerability as strength rather than a weakness to be minimized. She learns that reaching out, often seen as difficult, is genuinely respected rather than quietly judged.",
+    "sectionTitle": "SMS - The Admiration Text",
+    "predictable": "Asking for help is rarely explicitly admired, more often just quietly accepted without comment",
+    "themes": [
+      "Admiration",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Admire that you asked for help today instead of pushing through alone.",
+      "Asking for help today wasn't easy, genuinely admire that you did it."
+    ]
+  },
+  {
+    "actionTitle": "The atmosphere check-in",
+    "text": "How's the vibe where you are right now, calm, chaotic, somewhere in between? Genuinely curious about your surroundings.",
+    "effect": "Asking specifically about her immediate atmosphere shows interest in her present environment, not just her emotional state. She's invited to describe her physical surroundings, a detail rarely asked about directly.",
+    "sectionTitle": "SMS - The Mood-Setter Text",
+    "predictable": "Questions about a partner's current environment are rarely asked directly, usually focused only on her feelings",
+    "themes": [
+      "Atmosphere",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "How's the vibe where you are right now, calm or chaotic? Genuinely curious.",
+      "What's the atmosphere like around you right now? Curious about your surroundings."
+    ]
+  },
+  {
+    "actionTitle": "The trust in the hard moment",
+    "text": "Whatever's hard right now, I trust you to handle it your way, and I'm right here if you want backup.",
+    "effect": "Balancing trust in her independent capability with an explicit offer of support avoids either overstepping or seeming distant. She experiences confidence in her ability paired with reassurance that help remains available if wanted.",
+    "sectionTitle": "SMS - The Trust Text",
+    "predictable": "Trust in her handling a hard moment independently is rarely paired explicitly with an offer of backup if wanted",
+    "themes": [
+      "Trust",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever's hard right now, trust you to handle it, here for backup if needed.",
+      "Trust you completely with this one, just here if you want backup at all."
+    ]
+  },
+  {
+    "actionTitle": "The pattern that's become us",
+    "text": "Realized the little things we do consistently are basically what makes this feel like us, not random habits.",
+    "effect": "Recognizing consistent small routines as core to relational identity, rather than incidental, elevates their meaning beyond mere habit. She sees repeated small actions reframed as meaningful proof of who you are together, not just coincidence.",
+    "sectionTitle": "SMS - The Dependable Text",
+    "predictable": "Consistent small routines are rarely explicitly reframed as core evidence of relational identity rather than incidental habit",
+    "themes": [
+      "Reliability",
+      "Identity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Realized the little consistent things we do are basically what makes this us.",
+      "Those small things we keep doing consistently are honestly what make this us."
+    ]
   }
 ]

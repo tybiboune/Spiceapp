@@ -13288,5 +13288,855 @@
       "Laissez le silence du lever de soleil précéder la conversation, sans se presser.",
       "Terminez la conversation par une intention concrète et partagée pour la suite."
     ]
+  },
+  {
+    "actionTitle": "The real check-in",
+    "text": "Ask her how she's actually doing physically, not the polite version, and really wait for the honest answer.",
+    "effect": "Asking twice, past the automatic reflex answer, signals that her real physical state matters more than a quick social exchange. She gets space to admit something she'd normally brush past to keep things moving.",
+    "sectionTitle": "The Wellness Check-In",
+    "predictable": "Questions about physical wellbeing usually get a reflexive, polite answer that's never pushed past",
+    "themes": [
+      "Health",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask a specific follow-up if her first answer sounds rehearsed.",
+      "Share your own honest state first, to make it easier for her to be honest too."
+    ]
+  },
+  {
+    "actionTitle": "The unprompted glass of water",
+    "text": "Notice when she's been busy for hours without a break, and bring her water without being asked.",
+    "effect": "Anticipating a basic physical need she hasn't voiced yet shows attentiveness to her wellbeing beyond words. She experiences care applied to her body's needs before she has to interrupt herself to ask.",
+    "sectionTitle": "The Wellness Check-In",
+    "predictable": "Basic physical needs during a busy stretch usually go unnoticed until she interrupts herself to address them",
+    "themes": [
+      "Health",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Bring it without comment, just set it where she'll see it.",
+      "Add a small snack alongside it if it's been an especially long stretch."
+    ]
+  },
+  {
+    "actionTitle": "The rest permission",
+    "text": "Tell her explicitly that it's okay to stop and rest today, without needing to earn it first.",
+    "effect": "Explicitly granting permission to rest removes the internal pressure many people feel to justify downtime through productivity. She receives rest as a given rather than something she has to negotiate for herself.",
+    "sectionTitle": "The Wellness Check-In",
+    "predictable": "Permission to rest is rarely granted explicitly, usually assumed to require justification first",
+    "themes": [
+      "Health",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Say it plainly, without adding conditions or exceptions.",
+      "Follow through by actually taking something off her plate for the day."
+    ]
+  },
+  {
+    "actionTitle": "The walk for no reason",
+    "text": "Suggest a short walk together with the only goal being to move a little and get some air, nothing else.",
+    "effect": "Framing movement as purely restorative rather than goal-oriented removes any performance pressure from physical activity. She experiences her body being cared for without any expectation attached to the outcome.",
+    "sectionTitle": "The Wellness Check-In",
+    "predictable": "Physical activity usually comes with an attached goal rather than being purely restorative and pressure-free",
+    "themes": [
+      "Health",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Leave phones behind so it stays genuinely unhurried.",
+      "Let her set the pace entirely, without any implied destination."
+    ]
+  },
+  {
+    "actionTitle": "The sleep advocate",
+    "text": "If she's been staying up too late, gently suggest an earlier night and actually help make that happen.",
+    "effect": "Actively supporting a healthier habit, rather than just commenting on it, shows investment in her wellbeing beyond passive observation. She experiences someone actively helping protect her rest, not just noting that she needs more of it.",
+    "sectionTitle": "The Wellness Check-In",
+    "predictable": "Comments about needing more rest are common, but active support in making it happen is rare",
+    "themes": [
+      "Health",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Handle something on her behalf so she actually has time to go to bed earlier.",
+      "Join her in winding down early instead of staying up without her."
+    ]
+  },
+  {
+    "actionTitle": "The museum without a plan",
+    "text": "Go to a museum or gallery together with no set itinerary, just wandering toward whatever catches your eye.",
+    "effect": "Removing structure from a cultural outing lets curiosity, rather than obligation, guide the shared experience. She explores freely rather than following a checklist, making room for genuine, unplanned discovery together.",
+    "sectionTitle": "The Culture Swap Night",
+    "predictable": "Cultural outings are usually structured around a plan rather than open, unstructured wandering",
+    "themes": [
+      "Culture",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Split up for twenty minutes and compare what you each found most interesting.",
+      "Pick just one piece each to really linger on instead of rushing through everything."
+    ]
+  },
+  {
+    "actionTitle": "The book swap",
+    "text": "Exchange a book you love with one she loves, and commit to actually reading each other's pick.",
+    "effect": "Trading a personally meaningful book invites access into each other's inner world through something the other person chose to value. She shares a piece of her taste and gets a window into what shaped your own.",
+    "sectionTitle": "The Culture Swap Night",
+    "predictable": "Personal favorite books are rarely actively exchanged and read as a way to understand each other better",
+    "themes": [
+      "Culture",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Write a short note inside explaining why this book matters to you.",
+      "Set a rough date to discuss it together once you've both finished."
+    ]
+  },
+  {
+    "actionTitle": "The foreign film night",
+    "text": "Watch a film from a culture neither of you knows well, subtitles and all, just to see something unfamiliar together.",
+    "effect": "Choosing unfamiliar cultural material together turns a normal movie night into a small act of shared curiosity and discovery. She experiences an evening oriented toward learning something new together rather than familiar comfort viewing.",
+    "sectionTitle": "The Culture Swap Night",
+    "predictable": "Movie nights usually default to familiar genres rather than deliberately unfamiliar cultural material",
+    "themes": [
+      "Culture",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick it somewhat randomly rather than researching extensively first.",
+      "Look up one thing about the culture it's from afterward, together."
+    ]
+  },
+  {
+    "actionTitle": "The recipe from elsewhere",
+    "text": "Cook a dish from a culture or region neither of you has tried before, following an authentic recipe together.",
+    "effect": "Attempting an unfamiliar recipe together turns dinner into a small shared act of cultural exploration rather than routine cooking. She experiences a collaborative adventure where neither of you has the advantage of prior experience.",
+    "sectionTitle": "The Culture Swap Night",
+    "predictable": "Home cooking usually stays within familiar, already-mastered dishes rather than exploring unfamiliar cuisines",
+    "themes": [
+      "Culture",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Read a little about the dish's origin before cooking it together.",
+      "Accept that it might not turn out perfectly, and laugh about it if it doesn't."
+    ]
+  },
+  {
+    "actionTitle": "The local culture you've never explored",
+    "text": "Visit a cultural spot in your own city or region that neither of you has ever actually been to, despite living nearby.",
+    "effect": "Exploring overlooked local culture together treats familiar surroundings as worth discovering rather than something already fully known. She experiences even a well-known area revealing something new when approached with intentional curiosity.",
+    "sectionTitle": "The Culture Swap Night",
+    "predictable": "Local cultural spots are often overlooked precisely because they're assumed to already be familiar or accessible anytime",
+    "themes": [
+      "Culture",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick somewhere you've both said you'd visit someday but never have.",
+      "Take a photo together there to mark finally having gone."
+    ]
+  },
+  {
+    "actionTitle": "The candid over the posed",
+    "text": "Take a photo of her in a genuine unposed moment today, and tell her afterward what you liked about it.",
+    "effect": "Capturing an authentic moment, rather than a performed one, values her as she actually is rather than how she presents on request. She sees herself appreciated in a state of genuine ease rather than through a curated pose.",
+    "sectionTitle": "The Photo Ritual",
+    "predictable": "Photos taken together are usually posed on request rather than capturing a genuine, unprompted moment",
+    "themes": [
+      "Photography",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Don't ask her to pose, just capture what's already happening.",
+      "Show her the photo right after and say specifically what you liked about the moment."
+    ]
+  },
+  {
+    "actionTitle": "The photo of the small thing",
+    "text": "Take a photo of something small and ordinary that reminded you of her today, and send it with a short note.",
+    "effect": "Photographing an everyday object linked to her shows that she surfaces in your thoughts even through unrelated, mundane triggers. She realizes that ordinary moments of your day are quietly threaded with thoughts of her.",
+    "sectionTitle": "The Photo Ritual",
+    "predictable": "Everyday objects that spark a thought of her rarely get photographed and shared as proof of that thought",
+    "themes": [
+      "Photography",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Keep the note short, just enough to explain the connection.",
+      "Send it in the middle of an ordinary moment, not built up as a big gesture."
+    ]
+  },
+  {
+    "actionTitle": "The recreated old photo",
+    "text": "Find an old photo of the two of you and try to recreate it exactly, in the same pose if possible.",
+    "effect": "Recreating a past photo lets you visibly measure and celebrate how far the relationship has come since that moment. She experiences an affectionate comparison between where you started and where you are now.",
+    "sectionTitle": "The Photo Ritual",
+    "predictable": "The distance traveled in a relationship is rarely measured through a deliberately recreated old photo",
+    "themes": [
+      "Photography",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Match the pose and expression as closely as you can, even if it's silly.",
+      "Put the two photos side by side afterward and talk about what's changed."
+    ]
+  },
+  {
+    "actionTitle": "The photo she doesn't know about yet",
+    "text": "Take a photo of a moment together and don't tell her — save it to show her later as a surprise.",
+    "effect": "Delaying the reveal of a captured moment builds anticipation and shows that thoughtfulness sometimes plays out over time, not instantly. She experiences a small unexpected gift later, built from a moment she didn't realize was being preserved.",
+    "sectionTitle": "The Photo Ritual",
+    "predictable": "Photos taken together are usually shown immediately rather than saved as a delayed surprise",
+    "themes": [
+      "Photography",
+      "Surprise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Wait at least a day before revealing it, to build a bit of anticipation.",
+      "Pick a moment where her reaction or expression was especially genuine."
+    ]
+  },
+  {
+    "actionTitle": "The photo essay of a day",
+    "text": "Document an entire ordinary day together in photos, from morning to night, just to see it laid out afterward.",
+    "effect": "Documenting an unremarkable day elevates it to something worth preserving, valuing the ordinary as much as special occasions. She realizes that a day with no particular occasion still held enough worth capturing in full.",
+    "sectionTitle": "The Photo Ritual",
+    "predictable": "Full days are rarely documented in photos unless the day is already marked as special or an occasion",
+    "themes": [
+      "Photography",
+      "Presence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Aim for at least one photo per few hours, to capture the whole arc.",
+      "Look through them together that night and pick a favorite from the day."
+    ]
+  },
+  {
+    "actionTitle": "The task taken off her plate",
+    "text": "Notice one task she's been dreading or postponing, and quietly take care of it for her without announcement.",
+    "effect": "Handling an unwanted task without fanfare demonstrates attentiveness to her mental load rather than seeking credit for the help. She experiences relief from a burden she didn't have to ask anyone to lift.",
+    "sectionTitle": "The Acts of Service Day",
+    "predictable": "Dreaded or postponed tasks usually stay on her plate until she deals with them herself or explicitly asks for help",
+    "themes": [
+      "Service",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Don't mention it until she notices, let her discover it naturally.",
+      "Pick something she's mentioned in passing rather than something obvious."
+    ]
+  },
+  {
+    "actionTitle": "The errand run without being asked",
+    "text": "If you're heading out anyway, ask if there's anything on her list you could grab or handle at the same time.",
+    "effect": "Proactively offering to combine errands shows initiative in easing her logistics rather than waiting to be assigned tasks. She experiences a small reduction in her mental checklist without having to delegate it herself.",
+    "sectionTitle": "The Acts of Service Day",
+    "predictable": "Combining errands to help with her list usually requires her to think to ask rather than being offered",
+    "themes": [
+      "Service",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask specifically, not just a vague general offer to help.",
+      "Follow through completely, even if it means a small detour for you."
+    ]
+  },
+  {
+    "actionTitle": "The service with no expectation of thanks",
+    "text": "Do something genuinely helpful for her today and specifically don't mention it or wait for acknowledgment.",
+    "effect": "Performing a helpful act without seeking recognition proves the act was motivated by care rather than a desire for credit. She may not even notice consciously, but benefits from a form of care that asks nothing in return.",
+    "sectionTitle": "The Acts of Service Day",
+    "predictable": "Helpful acts are often subtly followed by a hint or mention, seeking at least some acknowledgment",
+    "themes": [
+      "Service",
+      "Generosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Resist any urge to bring it up later, even casually.",
+      "Choose something practical rather than something showy or easily noticed."
+    ]
+  },
+  {
+    "actionTitle": "The morning made easier",
+    "text": "Set up one small thing the night before that will make her morning routine smoother without her having to think about it.",
+    "effect": "Preparing something in advance for her future self shows care that extends beyond the present moment into her near future. She experiences a morning slightly lighter than usual, without immediately knowing why.",
+    "sectionTitle": "The Acts of Service Day",
+    "predictable": "Morning routines are rarely eased in advance the night before without being explicitly requested",
+    "themes": [
+      "Service",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick something small and specific rather than a big gesture.",
+      "Let her discover it on her own rather than pointing it out."
+    ]
+  },
+  {
+    "actionTitle": "The service she'd never ask for",
+    "text": "Do something helpful that she would never think to ask for because she assumes it's not a big deal to handle herself.",
+    "effect": "Addressing an unspoken need she's never voiced, because she considers it minor, shows attentiveness beyond what's explicitly requested. She experiences care applied to something she'd normally just quietly handle alone without complaint.",
+    "sectionTitle": "The Acts of Service Day",
+    "predictable": "Small tasks she quietly handles herself without complaint rarely get proactively noticed and taken over",
+    "themes": [
+      "Service",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Think about what she handles without ever mentioning it, and do that.",
+      "Keep it low-key rather than turning it into a big announced gesture."
+    ]
+  },
+  {
+    "actionTitle": "The shared whiteboard project",
+    "text": "Start a small shared project together — a list, a plan, a goal — where you both actively contribute ideas equally.",
+    "effect": "Building something together where both contributions are equally weighted reinforces that the relationship operates as a true partnership. She experiences her ideas treated as equally valid and necessary to the project's shape.",
+    "sectionTitle": "The Shared Project",
+    "predictable": "Shared projects sometimes default to one person leading while the other mostly follows along",
+    "themes": [
+      "Collaboration",
+      "Equality"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Make sure you're not dominating the direction, actively ask for her input.",
+      "Revisit the project together regularly rather than letting one person run with it alone."
+    ]
+  },
+  {
+    "actionTitle": "The decision made together",
+    "text": "Take a small upcoming decision you'd normally make alone and bring it to her as a real joint decision instead.",
+    "effect": "Extending shared decision-making into a domain usually handled solo signals trust in her judgment and investment in her perspective. She experiences being included in a decision that could have easily excluded her without objection.",
+    "sectionTitle": "The Shared Project",
+    "predictable": "Small decisions that don't strictly require two people are usually made alone rather than opened up as joint",
+    "themes": [
+      "Collaboration",
+      "Trust"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Present it as genuinely open, not already decided with her input as formality.",
+      "Follow her input even if it differs from what you would have chosen alone."
+    ]
+  },
+  {
+    "actionTitle": "The build-something-together afternoon",
+    "text": "Set aside an afternoon to build or organize something together — a shelf, a space, a system — as an actual team effort.",
+    "effect": "Working side by side on a tangible task creates a shared sense of accomplishment that a solo effort or division of labor doesn't produce. She experiences the satisfaction of a finished result that both of you can point to as jointly made.",
+    "sectionTitle": "The Shared Project",
+    "predictable": "Practical tasks are often divided and done separately rather than tackled together as one team effort",
+    "themes": [
+      "Collaboration",
+      "Accomplishment"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Work on the same part together rather than splitting into separate tasks.",
+      "Step back afterward and acknowledge the result as something you built together."
+    ]
+  },
+  {
+    "actionTitle": "The collaborative playlist",
+    "text": "Build a shared playlist together in one sitting, taking turns adding songs and reacting to each other's picks live.",
+    "effect": "Creating something together in real time, rather than asynchronously, makes the collaboration itself a shared experience, not just the result. She experiences immediate engagement with her choices rather than a delayed or passive reaction.",
+    "sectionTitle": "The Shared Project",
+    "predictable": "Shared creative projects like playlists are often built asynchronously rather than together in the same sitting",
+    "themes": [
+      "Collaboration",
+      "Complicity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "React out loud to each pick as it's added, rather than staying quiet.",
+      "Alternate turns strictly so neither of you dominates the additions."
+    ]
+  },
+  {
+    "actionTitle": "The two-person brainstorm",
+    "text": "Pick a problem or goal either of you is facing and spend fifteen minutes brainstorming solutions together as a team.",
+    "effect": "Turning an individual problem into a shared brainstorming session shows that her challenges are treated as things you tackle together. She experiences a struggle she might normally face alone becoming a joint effort instead.",
+    "sectionTitle": "The Shared Project",
+    "predictable": "Individual problems are usually worked through alone rather than opened up as a joint brainstorming session",
+    "themes": [
+      "Collaboration",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Write down every idea, even the bad ones, without judging them first.",
+      "Let her lead the direction of the brainstorm rather than steering it yourself."
+    ]
+  },
+  {
+    "actionTitle": "The honest future question",
+    "text": "Ask her a genuine, open question about how she pictures your future together, and really listen to the answer.",
+    "effect": "Inviting an open conversation about the future, rather than assuming shared assumptions, shows active engagement with where the relationship is heading. She gets space to voice her actual vision rather than guessing at yours.",
+    "sectionTitle": "The Future Conversation",
+    "predictable": "Assumptions about the shared future often go unvoiced and unconfirmed between partners",
+    "themes": [
+      "Engagement",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask it without steering toward a particular answer you want to hear.",
+      "Share your own honest picture afterward, as an equal exchange."
+    ]
+  },
+  {
+    "actionTitle": "The small commitment made concrete",
+    "text": "Take something you've talked about doing together someday and set an actual date or first step for it now.",
+    "effect": "Converting a vague future intention into a concrete commitment demonstrates genuine investment beyond just talking about possibilities. She sees a shared idea move from hypothetical to real, backed by an actual next step.",
+    "sectionTitle": "The Future Conversation",
+    "predictable": "Shared future intentions often stay abstract, discussed but never converted into an actual concrete step",
+    "themes": [
+      "Engagement",
+      "Follow-through"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick the smallest possible first step, to make it easy to actually start.",
+      "Put the date somewhere visible so it stays real rather than forgotten."
+    ]
+  },
+  {
+    "actionTitle": "The check-in on where things stand",
+    "text": "Ask her directly how she feels about where the relationship is right now, without waiting for a milestone to prompt it.",
+    "effect": "Initiating a check-in without an external trigger shows ongoing, active investment in the relationship's health, not just reactive attention. She experiences the relationship being tended to proactively rather than only during moments of visible tension.",
+    "sectionTitle": "The Future Conversation",
+    "predictable": "Check-ins about relationship satisfaction usually happen reactively rather than being proactively initiated",
+    "themes": [
+      "Engagement",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask when things are calm, not right after a conflict, so it reads as genuine.",
+      "Really sit with her answer instead of rushing to reassure or fix anything."
+    ]
+  },
+  {
+    "actionTitle": "The shared goal for the season",
+    "text": "Set one small shared goal for the coming season or month together, something you both actively work toward.",
+    "effect": "Establishing a joint short-term goal creates a sense of shared forward motion rather than each person pursuing separate paths. She experiences a concrete, time-bound reason to feel like you're building something together right now.",
+    "sectionTitle": "The Future Conversation",
+    "predictable": "Shared goals tend to be long-term and abstract rather than concrete and set for a near, specific timeframe",
+    "themes": [
+      "Engagement",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Make it specific enough that you'll both know clearly when it's achieved.",
+      "Check in on it partway through the season, not just at the very end."
+    ]
+  },
+  {
+    "actionTitle": "The question about what she needs more of",
+    "text": "Ask her plainly what she'd like more of from you in the relationship right now, and take the answer seriously.",
+    "effect": "Directly soliciting what she wants more of removes the burden of her having to bring it up unprompted or hint at it. She's given a clear, low-pressure opening to name something without having to initiate the conversation herself.",
+    "sectionTitle": "The Future Conversation",
+    "predictable": "What a partner wants more of often goes unspoken unless directly and explicitly asked",
+    "themes": [
+      "Engagement",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask it plainly, without qualifiers that might make it feel like a trap.",
+      "Follow up with an actual change, however small, based on her answer."
+    ]
+  },
+  {
+    "actionTitle": "The admiration said out loud",
+    "text": "Tell her directly, out of nowhere, one specific thing you genuinely admire about how she moves through the world.",
+    "effect": "Voicing admiration unprompted and specifically, rather than generically, proves it's a considered observation rather than a reflexive compliment. She hears something precise about herself that shows she's truly been watched and appreciated.",
+    "sectionTitle": "The Out-Loud Admiration",
+    "predictable": "Admiration for specific qualities is often felt privately but rarely voiced directly and unprompted",
+    "themes": [
+      "Admiration",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be as specific as possible, not a generic compliment.",
+      "Say it plainly, without following it with a joke that undercuts the sincerity."
+    ]
+  },
+  {
+    "actionTitle": "The admiration for how she handles hard things",
+    "text": "Tell her specifically that you admire how she handles difficulty, citing something concrete you've actually observed.",
+    "effect": "Admiring resilience during difficulty, backed by a specific example, validates strength that often goes unacknowledged in the moment. She receives recognition for a quality that's easy to take for granted once the hard moment has passed.",
+    "sectionTitle": "The Out-Loud Admiration",
+    "predictable": "Strength shown during difficult moments is often noticed but rarely explicitly named and admired afterward",
+    "themes": [
+      "Admiration",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reference the actual moment you're thinking of, not just a general statement.",
+      "Let the compliment stand without immediately shifting to something else."
+    ]
+  },
+  {
+    "actionTitle": "The admiration in front of someone else",
+    "text": "In a conversation with someone else, mention something you genuinely admire about her, so she gets to overhear it.",
+    "effect": "Expressing admiration where she can overhear it validates that this appreciation exists beyond private, one-on-one moments. She discovers that your admiration for her holds up even when she's not the intended audience.",
+    "sectionTitle": "The Out-Loud Admiration",
+    "predictable": "Private admiration rarely surfaces in a way she can overhear in conversation with someone else",
+    "themes": [
+      "Admiration",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Keep it natural in the conversation, not obviously staged for her to hear.",
+      "Bring it up with her afterward, so she knows you meant every word."
+    ]
+  },
+  {
+    "actionTitle": "The admiration for a skill she underrates",
+    "text": "Point out a skill or quality she has that she seems to underrate or dismiss in herself, and tell her why it matters.",
+    "effect": "Highlighting an underrated strength challenges her own dismissive framing and offers an outside perspective she may not credit herself. She hears a quality she considers unremarkable described as genuinely admirable by someone who knows her well.",
+    "sectionTitle": "The Out-Loud Admiration",
+    "predictable": "Skills or qualities a person underrates in themselves rarely get directly challenged and reframed by someone close to them",
+    "themes": [
+      "Admiration",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Explain specifically why it matters, not just that it's good.",
+      "Bring concrete examples of times it's made a real difference."
+    ]
+  },
+  {
+    "actionTitle": "The written admiration",
+    "text": "Write down, in a few sentences, something you admire about her, and give it to her to keep rather than just saying it.",
+    "effect": "Putting admiration in writing gives it permanence and weight beyond a spoken compliment that fades from memory. She holds something she can return to and reread whenever she needs the reminder.",
+    "sectionTitle": "The Out-Loud Admiration",
+    "predictable": "Admiration expressed verbally fades from memory quickly, unlike something given in a lasting written form",
+    "themes": [
+      "Admiration",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Keep it short but specific, rather than long and vague.",
+      "Give it to her physically rather than sending it as a text."
+    ]
+  },
+  {
+    "actionTitle": "The lighting change",
+    "text": "Before she gets home or before an ordinary evening, change the lighting in the room to something warmer and softer.",
+    "effect": "Deliberately adjusting the physical environment signals intentional care for the shared space, not just passive acceptance of it. She walks into an atmosphere that was consciously shaped for her, even without a special occasion attached.",
+    "sectionTitle": "The Mood-Setting Evening",
+    "predictable": "The physical atmosphere of shared spaces is usually left as-is rather than intentionally shaped for an ordinary evening",
+    "themes": [
+      "Atmosphere",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Use candles or a warm lamp instead of overhead lighting.",
+      "Pair it with a specific scent or music to complete the mood shift."
+    ]
+  },
+  {
+    "actionTitle": "The playlist for the mood you want",
+    "text": "Before spending time together tonight, put on a playlist chosen specifically for the mood you want the evening to have.",
+    "effect": "Curating the auditory environment shows intentional thought about the emotional tone of shared time, not just letting it happen randomly. She experiences an evening shaped with a deliberate emotional intention behind it.",
+    "sectionTitle": "The Mood-Setting Evening",
+    "predictable": "The mood of an evening together is usually left to chance rather than deliberately set through music",
+    "themes": [
+      "Atmosphere",
+      "Intention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choose songs that build toward the mood rather than starting at full intensity.",
+      "Tell her afterward what mood you were going for, and ask if it landed."
+    ]
+  },
+  {
+    "actionTitle": "The scent that means something",
+    "text": "Introduce a specific scent — a candle, incense, an essential oil — into your space, tied to a mood or memory you want to create.",
+    "effect": "Deliberately using scent to shape atmosphere adds a sensory layer to the shared environment that's easy to overlook entirely. She experiences a space that engages more of her senses than just sight and sound.",
+    "sectionTitle": "The Mood-Setting Evening",
+    "predictable": "Shared spaces rarely have their atmosphere shaped through deliberate, intentional use of scent",
+    "themes": [
+      "Atmosphere",
+      "Sensory"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick a scent tied to a specific memory or mood you want to evoke.",
+      "Mention afterward what the scent was meant to make her feel."
+    ]
+  },
+  {
+    "actionTitle": "The declutter for calm",
+    "text": "Spend fifteen minutes tidying the space you'll share tonight, specifically to create a calmer physical atmosphere.",
+    "effect": "Clearing physical clutter before spending time together removes a subtle source of tension from the shared environment. She experiences a space that feels calmer and more intentional, even if she can't immediately articulate why.",
+    "sectionTitle": "The Mood-Setting Evening",
+    "predictable": "The physical clutter of a shared space is rarely addressed specifically to improve the evening's atmosphere",
+    "themes": [
+      "Atmosphere",
+      "Calm"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Focus on the specific area you'll actually spend time in together.",
+      "Don't mention you did it, just let the calmer space speak for itself."
+    ]
+  },
+  {
+    "actionTitle": "The temperature and comfort check",
+    "text": "Before settling in together, make sure the space is at a comfortable temperature and has enough soft, cozy elements.",
+    "effect": "Attending to basic physical comfort in the shared environment shows care for the small conditions that shape how relaxed an evening feels. She settles into a space that was proactively made physically comfortable for her.",
+    "sectionTitle": "The Mood-Setting Evening",
+    "predictable": "Basic physical comfort of a shared space is often left unaddressed until someone complains about it",
+    "themes": [
+      "Atmosphere",
+      "Comfort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Add a blanket or cushion specifically for her spot.",
+      "Adjust the temperature before she even mentions being cold or warm."
+    ]
+  },
+  {
+    "actionTitle": "The vulnerable share",
+    "text": "Share something with her you don't usually talk about, something that requires a bit of trust to say out loud.",
+    "effect": "Offering a vulnerable disclosure invites deeper intimacy by modeling the trust you hope she'll feel safe extending toward you too. She receives access to a part of you that isn't usually shared, deepening the mutual sense of safety.",
+    "sectionTitle": "The Trust Exercise",
+    "predictable": "Deeper, more vulnerable disclosures are often withheld in favor of safer, more surface-level conversation",
+    "themes": [
+      "Trust",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choose something real rather than something safe that only sounds vulnerable.",
+      "Give her space to respond without rushing to fill the silence yourself."
+    ]
+  },
+  {
+    "actionTitle": "The apology without defense",
+    "text": "If something you did recently hurt her, apologize for it clearly, without adding an explanation that softens your responsibility.",
+    "effect": "Apologizing without self-justification shows that her experience of being hurt matters more than protecting your own narrative. She receives an apology focused entirely on her experience, not diluted by your defense of yourself.",
+    "sectionTitle": "The Trust Exercise",
+    "predictable": "Apologies often come bundled with an explanation that quietly shifts some responsibility away",
+    "themes": [
+      "Trust",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Resist the urge to explain your reasoning, even if it feels important to you.",
+      "Ask her afterward what would actually help repair things."
+    ]
+  },
+  {
+    "actionTitle": "The secret kept without being asked",
+    "text": "If she's shared something in confidence recently, mention that you've kept it exactly that — to reinforce that trust wasn't misplaced.",
+    "effect": "Explicitly reaffirming that a confidence was respected reassures her that her vulnerability was met with reliability, not just assumed. She hears concrete proof that trusting you with something private was the right call.",
+    "sectionTitle": "The Trust Exercise",
+    "predictable": "Respecting a confidence usually goes unmentioned, leaving trust reinforced only implicitly rather than confirmed",
+    "themes": [
+      "Trust",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Bring it up naturally, not as if seeking credit for something basic.",
+      "Reassure her the topic stays exactly where she left it, with you only."
+    ]
+  },
+  {
+    "actionTitle": "The plan you follow through on exactly",
+    "text": "Make a small specific promise — a time, a task, a detail — and follow through on it exactly as said, without adjustment.",
+    "effect": "Following through precisely on a small stated commitment builds trust through consistent, demonstrated reliability rather than big declarations. She experiences your word matching your actions in a small, concrete, verifiable way.",
+    "sectionTitle": "The Trust Exercise",
+    "predictable": "Small stated commitments sometimes drift or get adjusted rather than being followed through on exactly",
+    "themes": [
+      "Trust",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choose something specific enough that follow-through is clearly verifiable.",
+      "Don't mention that you did it exactly as promised, just let the consistency speak."
+    ]
+  },
+  {
+    "actionTitle": "The honest answer to a hard question",
+    "text": "If she asks you something difficult, answer honestly even if the easier response would be a softer, vaguer version.",
+    "effect": "Choosing honesty over comfort in a difficult moment reinforces that she can rely on your word even when it's not easy to hear. She learns that what you tell her can be trusted, even in situations where a softer lie might feel easier.",
+    "sectionTitle": "The Trust Exercise",
+    "predictable": "Difficult questions are sometimes met with a softened or vague answer rather than full honesty",
+    "themes": [
+      "Trust",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take a breath before answering rather than rushing into a safer version.",
+      "Follow the honest answer with care, not just bluntness."
+    ]
+  },
+  {
+    "actionTitle": "The same time every week",
+    "text": "Pick one small ritual — a call, a walk, a coffee — and commit to it at the exact same time every week, without fail.",
+    "effect": "Establishing a fixed, unwavering ritual demonstrates reliability through repeated action rather than a one-time gesture. She gains a dependable anchor point she can count on regardless of how chaotic the rest of the week gets.",
+    "sectionTitle": "The Promise Kept",
+    "predictable": "Small rituals are often flexible or occasional rather than fixed at the same reliable time every week",
+    "themes": [
+      "Reliability",
+      "Regularity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Protect that time even when something else tempts you to skip it once.",
+      "If you ever do have to miss it, reschedule it rather than letting it just lapse."
+    ]
+  },
+  {
+    "actionTitle": "The follow-through on a small ask",
+    "text": "The next time she asks you for something small, do it fully and promptly, without needing a reminder.",
+    "effect": "Completing a small request without needing a follow-up reminder shows that her asks are taken seriously the first time. She experiences not having to manage or chase the request after making it once.",
+    "sectionTitle": "The Promise Kept",
+    "predictable": "Small requests sometimes require a reminder before they actually get completed",
+    "themes": [
+      "Reliability",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Do it as soon as reasonably possible, not just eventually.",
+      "Let her know it's done, so she doesn't have to wonder or ask."
+    ]
+  },
+  {
+    "actionTitle": "The promise you write down",
+    "text": "Make a small promise to her and write it down somewhere visible, so it's tracked rather than just verbally said and forgotten.",
+    "effect": "Writing down a promise adds a layer of accountability beyond spoken words, making the commitment harder to quietly abandon. She sees tangible proof that the commitment is being tracked and taken seriously, not just casually mentioned.",
+    "sectionTitle": "The Promise Kept",
+    "predictable": "Small promises are usually only spoken, with nothing tracking whether they were actually followed through on",
+    "themes": [
+      "Reliability",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Put it somewhere you'll both actually see it regularly.",
+      "Cross it off together once it's done, to make the follow-through visible."
+    ]
+  },
+  {
+    "actionTitle": "The consistency over the grand gesture",
+    "text": "Instead of one big surprise this week, choose to show up consistently in five small, reliable ways instead.",
+    "effect": "Prioritizing repeated small reliability over one large gesture demonstrates that dependability, not spectacle, is the deeper value being offered. She experiences steady, trustworthy presence built through repetition rather than a single memorable but isolated moment.",
+    "sectionTitle": "The Promise Kept",
+    "predictable": "Grand one-time gestures are often prioritized over the quieter, harder consistency of repeated small reliability",
+    "themes": [
+      "Reliability",
+      "Consistency"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Plan the five small things in advance so they don't get lost in the week.",
+      "Notice at the end of the week whether the pattern felt different from a single big gesture."
+    ]
+  },
+  {
+    "actionTitle": "The reliable presence during a hard week",
+    "text": "During a week she's clearly struggling, show up in the exact same steady way each day, without needing to be asked twice.",
+    "effect": "Maintaining consistent presence during a difficult stretch, without requiring repeated requests, proves reliability holds up under real pressure. She doesn't have to manage your involvement on top of everything else she's dealing with that week.",
+    "sectionTitle": "The Promise Kept",
+    "predictable": "Support during a hard week sometimes requires repeated requests rather than being consistently offered without prompting",
+    "themes": [
+      "Reliability",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Check in at a similar time each day, so it becomes a predictable anchor.",
+      "Don't wait for her to ask again if she didn't respond to the first offer."
+    ]
   }
 ]

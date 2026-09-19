@@ -11732,5 +11732,855 @@
       "Peu importe les rebondissements, je crois qu'on écrit une histoire qui finit bien.",
       "Quels que soient les obstacles, notre histoire finira bien, j'en suis convaincu."
     ]
+  },
+  {
+    "actionTitle": "Inside the first aid kit",
+    "text": "Whatever small thing you're patching up, remember that you're allowed to ask for help with the bigger ones too.",
+    "effect": "Extending a note about physical first aid toward a reminder about emotional support widens the message beyond its literal container. She's reminded that support isn't limited to small physical fixes, but extends to bigger things too.",
+    "sectionTitle": "Post-its - First Aid Kit",
+    "predictable": "Objects meant for physical care rarely carry a reminder that emotional support is just as available",
+    "themes": [
+      "Health",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you're patching up, remember bigger help is available too.",
+      "Small fix here, but remember you can ask for help with bigger things too."
+    ]
+  },
+  {
+    "actionTitle": "Tucked in an old ticket stub",
+    "text": "Keeping this from that day we explored something new together, it's a small proof that curiosity looks good on us.",
+    "effect": "Preserving a physical memento of a shared cultural outing shows the moment was valued enough to be intentionally kept. She discovers a small, tangible proof that the experience mattered enough to hold onto afterward.",
+    "sectionTitle": "Post-its - Museum Ticket Stub",
+    "predictable": "Small mementos from shared cultural outings are rarely intentionally kept and later rediscovered",
+    "themes": [
+      "Culture",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Keeping this from that day, proof curiosity looks good on us.",
+      "Small souvenir from that day exploring together, glad I kept it."
+    ]
+  },
+  {
+    "actionTitle": "Inside the camera bag",
+    "text": "Whatever you photograph today, remember that some of the best moments never make it into a frame, and that's okay too.",
+    "effect": "Reminding her that not every meaningful moment needs to be captured relieves any pressure to document everything perfectly. She's given permission to simply experience some moments fully rather than always mediating them through a lens.",
+    "sectionTitle": "Post-its - Camera Bag",
+    "predictable": "The pressure to capture every meaningful moment rarely gets explicitly relieved by a reminder that it's okay not to",
+    "themes": [
+      "Photography",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you shoot today, some best moments never make it into frame, and that's fine.",
+      "Not everything needs a photo today, some moments are just for living in."
+    ]
+  },
+  {
+    "actionTitle": "Above the dish rack",
+    "text": "Every one of these got clean because of something you did today, even the small stuff counts, thank you.",
+    "effect": "Explicitly thanking her for an invisible, repetitive task counters how easily such labor goes unnoticed in daily routine. She receives recognition for a chore so routine it usually passes without comment at all.",
+    "sectionTitle": "Post-its - Dish Rack",
+    "predictable": "Routine household tasks like washing dishes rarely receive explicit, specific thanks for the effort behind them",
+    "themes": [
+      "Service",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Every one of these is clean because of you today, even the small stuff counts.",
+      "All this clean because of what you did today, thank you, really."
+    ]
+  },
+  {
+    "actionTitle": "In the corner of the whiteboard",
+    "text": "Whatever we're figuring out together this week, I like that it's a we and not just a me or a you.",
+    "effect": "Highlighting the shared nature of a task, rather than individual ownership, reinforces the value placed on doing things together. She sees an explicit appreciation for collaboration itself, not just the task being worked through.",
+    "sectionTitle": "Post-its - Whiteboard",
+    "predictable": "Shared tasks are rarely explicitly appreciated for being collaborative rather than individually owned",
+    "themes": [
+      "Collaboration",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever we're figuring out, glad it's a we and not just one of us.",
+      "Like that this is something we're working through together, not alone."
+    ]
+  },
+  {
+    "actionTitle": "On the little ring dish",
+    "text": "Whatever you set down here each day, know that thinking about our future together is something I do more than you'd guess.",
+    "effect": "Placing a message about future commitment on an object symbolically tied to engagement adds quiet weight to an everyday habit. She encounters a sincere note about the future in an object she interacts with almost unconsciously each day.",
+    "sectionTitle": "Post-its - Ring Dish",
+    "predictable": "Objects tied to small daily habits rarely carry a sincere note about long-term future commitment",
+    "themes": [
+      "Engagement",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you set here daily, I think about our future more than you'd guess.",
+      "Small dish, big thought: I think about us long-term more often than you know."
+    ]
+  },
+  {
+    "actionTitle": "On the trophy shelf",
+    "text": "None of these compare to the quiet things you do that nobody gives an award for, but I notice, every time.",
+    "effect": "Contrasting visible achievements with unrecognized everyday qualities elevates the latter as equally, if not more, admirable. She learns that admiration extends beyond what's publicly celebrated to what's quietly, consistently true about her.",
+    "sectionTitle": "Post-its - Trophy Shelf",
+    "predictable": "Objects celebrating visible achievement rarely acknowledge the quieter, unrecognized qualities that go unrewarded",
+    "themes": [
+      "Admiration",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "None of these compare to the quiet things you do that go unrewarded.",
+      "No trophy for it, but I notice the quiet things you do, every time."
+    ]
+  },
+  {
+    "actionTitle": "On the candle jar",
+    "text": "Light this when you want the room to feel like a small pause from everything else, that's exactly what it's for.",
+    "effect": "Framing a candle as a deliberate tool for creating a calming atmosphere gives an ordinary object explicit emotional purpose. She's offered a simple, physical way to intentionally shift the mood of her space whenever she needs it.",
+    "sectionTitle": "Post-its - Candle Jar",
+    "predictable": "Everyday objects meant to shape atmosphere rarely come with an explicit note on their intended emotional purpose",
+    "themes": [
+      "Atmosphere",
+      "Calm"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Light this when you want the room to feel like a small pause, that's its job.",
+      "This is for when you need the room to feel calmer, exactly what it's for."
+    ]
+  },
+  {
+    "actionTitle": "On the house keys",
+    "text": "These open the door to a place where you never have to pretend, sorry, I mean that in the most sincere way possible.",
+    "effect": "Linking physical access to the home with emotional permission to be fully authentic reframes a mundane object as symbolically significant. She's reminded that the space these keys open is meant to be one of total honesty, not performance.",
+    "sectionTitle": "Post-its - House Keys",
+    "predictable": "Everyday objects like house keys rarely carry a message about the emotional safety of the space they open",
+    "themes": [
+      "Trust",
+      "Safety"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "These open a place where you never have to pretend, genuinely mean that.",
+      "This door leads somewhere you can always be fully yourself, promise."
+    ]
+  },
+  {
+    "actionTitle": "On the alarm clock",
+    "text": "This goes off every day without fail, and honestly, I want to be that kind of steady for you too, every day.",
+    "effect": "Comparing personal reliability to the dependable function of an alarm clock reframes a mundane object as a small statement of intent. She encounters a quiet promise of consistency tied to something she interacts with every single morning.",
+    "sectionTitle": "Post-its - Alarm Clock",
+    "predictable": "Everyday reliable objects rarely carry an explicit personal promise of the same kind of consistency",
+    "themes": [
+      "Reliability",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This goes off every day without fail, I want to be that steady for you too.",
+      "Reliable every morning, that's what I want to be for you too, always."
+    ]
+  },
+  {
+    "actionTitle": "Under the first aid kit lid",
+    "text": "Not every hurt needs a bandage, some just need someone to sit with you for a while, I'm good at that too.",
+    "effect": "Distinguishing between physical and emotional forms of care within a purely physical object broadens its symbolic meaning. She's reminded that support comes in forms beyond the practical fix this container usually holds.",
+    "sectionTitle": "Post-its - First Aid Kit",
+    "predictable": "Objects for physical care rarely distinguish between what needs a fix and what just needs presence",
+    "themes": [
+      "Health",
+      "Presence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Not every hurt needs a bandage, sometimes just needs company, I'm here.",
+      "Some things in here fix cuts, some things just need someone to sit with you."
+    ]
+  },
+  {
+    "actionTitle": "Taped to the first aid kit",
+    "text": "If you're reaching for this because of a rough day rather than a scraped knee, that counts too, come find me after.",
+    "effect": "Extending the kit's purpose to metaphorical rough days validates emotional difficulty as worthy of the same attention as physical injury. She's offered a bridge from a literal object to an invitation for emotional support afterward.",
+    "sectionTitle": "Post-its - First Aid Kit",
+    "predictable": "Physical care objects rarely extend an invitation toward emotional support for a difficult day",
+    "themes": [
+      "Health",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If it's a rough day and not a scrape, that counts too, come find me.",
+      "Reaching for this over a hard day instead of an injury still counts, I'm around."
+    ]
+  },
+  {
+    "actionTitle": "Inside the first aid kit, a smaller note",
+    "text": "A body that's cared for is one less thing to worry about today, so drink some water and take your time.",
+    "effect": "Framing basic physical care as a way of reducing daily mental load links wellness directly to overall ease. She receives a gentle nudge tying a small act of self-care to feeling generally lighter through the day.",
+    "sectionTitle": "Post-its - First Aid Kit",
+    "predictable": "Basic physical self-care is rarely explicitly framed as a way of reducing the day's overall mental load",
+    "themes": [
+      "Health",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A cared-for body is one less thing to worry about, drink water, take your time.",
+      "Taking care of your body today is one less thing to carry, small reminder."
+    ]
+  },
+  {
+    "actionTitle": "The first aid kit, last line",
+    "text": "Whatever today asks of your body, remember that resting isn't giving up, it's part of taking care of yourself well.",
+    "effect": "Reframing rest as an active component of self-care, rather than a failure to push through, removes guilt from choosing recovery. She receives explicit validation that resting is a legitimate form of taking care of herself, not a compromise.",
+    "sectionTitle": "Post-its - First Aid Kit",
+    "predictable": "Rest is sometimes implicitly framed as giving up rather than explicitly validated as active self-care",
+    "themes": [
+      "Health",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Resting isn't giving up, it's part of taking care of yourself well, remember that.",
+      "Whatever today asks of you, rest counts as taking care of yourself too."
+    ]
+  },
+  {
+    "actionTitle": "Behind the ticket stub, a second note",
+    "text": "Keep collecting these with me, every stub is proof we chose curiosity over staying comfortable that day.",
+    "effect": "Framing accumulated mementos as evidence of a shared value, choosing curiosity, gives the collection ongoing meaning beyond nostalgia. She sees a growing collection reframed as intentional evidence of shared adventurousness, not just clutter.",
+    "sectionTitle": "Post-its - Museum Ticket Stub",
+    "predictable": "Small accumulated mementos are rarely reframed as intentional evidence of a shared value being actively chosen",
+    "themes": [
+      "Culture",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Keep collecting these, proof we chose curiosity over comfort that day.",
+      "Every stub here means we picked something new over staying in, let's keep going."
+    ]
+  },
+  {
+    "actionTitle": "Under the ticket stub",
+    "text": "Next time, let's pick something completely outside what either of us usually likes, just to see what happens.",
+    "effect": "Proposing to deliberately choose unfamiliar cultural experiences challenges routine taste in favor of genuine shared discovery. She's invited into planning future exploration together rather than only reflecting on past outings.",
+    "sectionTitle": "Post-its - Museum Ticket Stub",
+    "predictable": "Cultural outings are rarely planned around deliberately choosing something outside usual taste for either partner",
+    "themes": [
+      "Culture",
+      "Adventure"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Next time let's pick something totally outside what we usually like.",
+      "Let's try something neither of us would normally choose, just to see."
+    ]
+  },
+  {
+    "actionTitle": "Folded around the ticket stub",
+    "text": "This one surprised us both, remember? Let's keep looking for the things that catch us off guard like that.",
+    "effect": "Recalling a specific outing that defied expectations reinforces the value of continuing to seek out unexpected cultural experiences. She's reminded of a specific shared surprise, framed as something worth actively pursuing again.",
+    "sectionTitle": "Post-its - Museum Ticket Stub",
+    "predictable": "Specific past cultural surprises are rarely explicitly recalled as a reason to keep seeking similar experiences",
+    "themes": [
+      "Culture",
+      "Surprise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This one surprised us both, let's keep looking for more like that.",
+      "Remember how this caught us off guard? Let's find more like it."
+    ]
+  },
+  {
+    "actionTitle": "The ticket stub, a quieter note",
+    "text": "It wasn't really about the place, it was about doing it with you, that's the part I actually kept.",
+    "effect": "Clarifying that the value of the outing was the shared experience, not the destination itself, centers the relationship over the activity. She learns that what made the outing memorable was her presence, not the specific cultural content.",
+    "sectionTitle": "Post-its - Museum Ticket Stub",
+    "predictable": "The value of a shared cultural outing is rarely explicitly attributed to companionship rather than the destination itself",
+    "themes": [
+      "Culture",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Wasn't really about the place, it was about doing it with you, that's what stuck.",
+      "The place was fine, but really it was about being there with you, that's it."
+    ]
+  },
+  {
+    "actionTitle": "Zipped into the camera bag",
+    "text": "The best shots are usually the ones you almost didn't take, so keep pointing this at the ordinary stuff too.",
+    "effect": "Encouraging photography of ordinary, unplanned moments challenges the instinct to only document obviously significant events. She's nudged to see mundane, easily overlooked instants as equally worth capturing.",
+    "sectionTitle": "Post-its - Camera Bag",
+    "predictable": "Photography tends to focus on obviously significant moments rather than being encouraged toward ordinary ones too",
+    "themes": [
+      "Photography",
+      "Presence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Best shots are usually the ones you almost didn't take, keep shooting the ordinary stuff.",
+      "Point this at the everyday stuff too, those shots end up mattering most."
+    ]
+  },
+  {
+    "actionTitle": "Inside the camera bag, a smaller pocket",
+    "text": "Take one of me you actually like this time, not the one I always ask you to delete, I trust your eye on this.",
+    "effect": "Requesting a genuine photo, rather than a performed one, shows trust in her perspective and a willingness to be seen authentically. She's invited to see him without needing constant approval, building mutual comfort with unfiltered images.",
+    "sectionTitle": "Post-its - Camera Bag",
+    "predictable": "Requests for genuine, unfiltered photos are rare compared to the usual back-and-forth over flattering ones",
+    "themes": [
+      "Photography",
+      "Trust"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take one of me you actually like, not the one I always ask to delete.",
+      "Trust your eye on this one, take whatever photo feels right to you."
+    ]
+  },
+  {
+    "actionTitle": "On the camera bag strap",
+    "text": "Somewhere in here is probably a photo neither of us has looked at in a while, worth a scroll back sometime soon.",
+    "effect": "Suggesting a return to old, unreviewed photos invites revisiting shared history stored but forgotten in a device. She's invited to rediscover moments together that have simply gone unrevisited rather than being actively treasured.",
+    "sectionTitle": "Post-its - Camera Bag",
+    "predictable": "Old, unreviewed photos are rarely explicitly suggested as worth revisiting after they've been taken and forgotten",
+    "themes": [
+      "Photography",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Somewhere in here is a photo we haven't looked at in a while, worth a scroll back.",
+      "Bet there's an old photo in here worth rediscovering, let's look sometime."
+    ]
+  },
+  {
+    "actionTitle": "The camera bag, one more line",
+    "text": "Whatever you photograph today, I hope at least one shot is just for you, not for anyone else to see.",
+    "effect": "Encouraging photography purely for personal enjoyment, rather than for sharing, values her private relationship with the practice. She's reminded that not every photo needs an audience, some can exist just for her own pleasure.",
+    "sectionTitle": "Post-its - Camera Bag",
+    "predictable": "Photography is often framed around sharing with others rather than encouraged as something purely personal",
+    "themes": [
+      "Photography",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you shoot today, hope one photo is just for you, no one else.",
+      "Take at least one today that's just for you, not meant for anyone else."
+    ]
+  },
+  {
+    "actionTitle": "Below the dish rack, a second note",
+    "text": "The pile gets smaller because of you, over and over, and that kind of quiet consistency deserves more thanks than it gets.",
+    "effect": "Highlighting the repetitive, often invisible nature of a chore draws attention to consistency as valuable in its own right. She receives acknowledgment for a task easy to overlook precisely because it happens so reliably and often.",
+    "sectionTitle": "Post-its - Dish Rack",
+    "predictable": "Repetitive household tasks rarely receive acknowledgment specifically for their reliable consistency over time",
+    "themes": [
+      "Service",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The pile gets smaller because of you, over and over, deserves more thanks.",
+      "This quiet consistency of yours deserves way more thanks than it usually gets."
+    ]
+  },
+  {
+    "actionTitle": "Taped near the dish rack",
+    "text": "Next time, let me take this one, you've done more than your share this week and I noticed.",
+    "effect": "Explicitly offering to take over a shared task, backed by having noticed an imbalance, shows active attention to fairness. She receives concrete relief along with confirmation that her extra effort didn't go unnoticed.",
+    "sectionTitle": "Post-its - Dish Rack",
+    "predictable": "Noticing an imbalance in shared chores rarely leads to an explicit offer to rebalance it directly",
+    "themes": [
+      "Service",
+      "Equity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let me take this one next time, you've done more than your share, I noticed.",
+      "Noticed you've done extra this week, let me take the next one, fair's fair."
+    ]
+  },
+  {
+    "actionTitle": "Above the dish rack, a lighter note",
+    "text": "Not the most exciting chore, I know, but doing it while thinking of you somehow makes it less boring.",
+    "effect": "Admitting the mundane nature of the task while reframing it through affection shows small chores can carry unexpected warmth. She learns that even a boring task becomes bearable, even pleasant, when it's connected to thinking of her.",
+    "sectionTitle": "Post-its - Dish Rack",
+    "predictable": "Mundane chores are rarely reframed as more bearable specifically because they're connected to thinking of her",
+    "themes": [
+      "Service",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Not the most exciting chore, but thinking of you makes it less boring.",
+      "Boring task, honestly, but doing it while thinking of you helps somehow."
+    ]
+  },
+  {
+    "actionTitle": "The dish rack, final word",
+    "text": "This is one small way I show up for us, not glamorous, but consistent, and consistent is what actually matters most.",
+    "effect": "Framing an unglamorous task as a meaningful form of showing up reinforces that reliability, not spectacle, is the real measure of care. She sees a mundane act reframed as a deliberate, ongoing choice to contribute to the relationship.",
+    "sectionTitle": "Post-its - Dish Rack",
+    "predictable": "Unglamorous, repetitive contributions are rarely explicitly framed as a meaningful, deliberate way of showing up",
+    "themes": [
+      "Service",
+      "Consistency"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This is one small way I show up, not glamorous, but consistent, and that matters.",
+      "Not flashy, but this is how I show up for us, consistency matters most."
+    ]
+  },
+  {
+    "actionTitle": "Below the whiteboard, a second thought",
+    "text": "Some of the best ideas we've had started as a messy scribble here, don't erase this one too fast.",
+    "effect": "Valuing the messy, unfinished stage of collaborative thinking encourages patience with imperfect ideas before they're refined. She's reminded that rough, undeveloped ideas deserve space before being judged or discarded too quickly.",
+    "sectionTitle": "Post-its - Whiteboard",
+    "predictable": "Early, unrefined collaborative ideas are rarely explicitly protected from being judged or erased too quickly",
+    "themes": [
+      "Collaboration",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Some of our best ideas started messy here, don't erase this one too fast.",
+      "This messy scribble might be something, give it a bit before erasing."
+    ]
+  },
+  {
+    "actionTitle": "Corner of the whiteboard, a lighter note",
+    "text": "I like that neither of us has to have all the answers here, figuring it out together is honestly the fun part.",
+    "effect": "Normalizing shared uncertainty in a collaborative process removes pressure for either person to individually have it all figured out. She experiences relief in shared not-knowing, framed as enjoyable rather than stressful.",
+    "sectionTitle": "Post-its - Whiteboard",
+    "predictable": "Shared uncertainty during collaboration is rarely explicitly reframed as an enjoyable part of the process",
+    "themes": [
+      "Collaboration",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Neither of us needs all the answers here, figuring it out together is the fun part.",
+      "Love that we don't need it all figured out, working it out together is fun."
+    ]
+  },
+  {
+    "actionTitle": "Whiteboard, bottom edge",
+    "text": "Whatever we're planning this week, remember it works better when we actually say what we're thinking, out loud.",
+    "effect": "Reminding both partners of the value of open communication during collaboration reinforces process, not just outcome. She's nudged to keep voicing thoughts actively rather than assuming shared understanding without saying it.",
+    "sectionTitle": "Post-its - Whiteboard",
+    "predictable": "The value of actively voicing thoughts during collaboration is rarely explicitly reinforced as a reminder",
+    "themes": [
+      "Collaboration",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever we're planning, it works better when we actually say what we think.",
+      "Remember to say what you're actually thinking here, works better that way."
+    ]
+  },
+  {
+    "actionTitle": "Whiteboard, a closing note",
+    "text": "I genuinely like working through things with you, even the boring logistics somehow feel lighter as a team.",
+    "effect": "Extending appreciation for collaboration even to unglamorous, logistical tasks shows the value isn't limited to exciting projects. She learns that even tedious planning feels different, better, because it's done together rather than alone.",
+    "sectionTitle": "Post-its - Whiteboard",
+    "predictable": "Appreciation for collaboration is rarely extended explicitly to unglamorous, purely logistical tasks",
+    "themes": [
+      "Collaboration",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I genuinely like working through things with you, even boring logistics feel lighter.",
+      "Even the boring stuff feels lighter as a team, genuinely like this part."
+    ]
+  },
+  {
+    "actionTitle": "Beside the ring dish, a second line",
+    "text": "Whatever this dish holds on a given day, know it represents something I don't take lightly, not for a second.",
+    "effect": "Reinforcing the seriousness behind an object symbolically tied to commitment counters any assumption that the sentiment is casual. She's reassured that whatever this object represents carries real, ongoing weight, not a fleeting thought.",
+    "sectionTitle": "Post-its - Ring Dish",
+    "predictable": "Objects symbolically tied to commitment rarely get an explicit reminder that the sentiment behind them is taken seriously",
+    "themes": [
+      "Engagement",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever this holds, know it represents something I don't take lightly.",
+      "This isn't casual to me, whatever it holds, I mean it seriously."
+    ]
+  },
+  {
+    "actionTitle": "Under the ring dish",
+    "text": "I think about us long after the day is done, in the quiet moments where nobody's watching, more than you'd think.",
+    "effect": "Revealing private, unwitnessed thoughts about the relationship shows genuine, unperformed investment beyond visible gestures. She learns that her place in your thoughts extends into private moments she'll never directly see or verify.",
+    "sectionTitle": "Post-its - Ring Dish",
+    "predictable": "Private, unwitnessed thoughts about the relationship are rarely explicitly revealed after the fact",
+    "themes": [
+      "Engagement",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I think about us in quiet moments nobody's watching, more than you'd think.",
+      "In the quiet moments alone, you're still on my mind more than you'd guess."
+    ]
+  },
+  {
+    "actionTitle": "Beside the ring dish, a lighter note",
+    "text": "No rush on anything, just know that wherever this is headed, I'm genuinely enjoying the getting there part too.",
+    "effect": "Balancing future-oriented commitment with appreciation for the present removes pressure while still affirming long-term investment. She receives reassurance that the journey itself is valued, not just treated as a means to an eventual endpoint.",
+    "sectionTitle": "Post-its - Ring Dish",
+    "predictable": "Long-term commitment is sometimes framed only around the destination rather than appreciating the present journey too",
+    "themes": [
+      "Engagement",
+      "Presence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No rush on anything, genuinely enjoying wherever this is headed, and the journey too.",
+      "Wherever this goes, I'm enjoying getting there with you, no rush at all."
+    ]
+  },
+  {
+    "actionTitle": "The ring dish, one more thought",
+    "text": "Some days I catch myself imagining details of a future with you so specific it almost surprises me, in a good way.",
+    "effect": "Sharing the specificity of imagined future scenarios shows depth of commitment beyond vague, generic future statements. She learns that thoughts about a shared future are detailed and vivid, not just abstract intentions.",
+    "sectionTitle": "Post-its - Ring Dish",
+    "predictable": "Imagined future scenarios are rarely described as specific and detailed rather than vague future intentions",
+    "themes": [
+      "Engagement",
+      "Projection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Some days I imagine details of our future so specific it surprises me, good way.",
+      "Catch myself picturing very specific future moments with you, in a good way."
+    ]
+  },
+  {
+    "actionTitle": "Below the trophy shelf, a second line",
+    "text": "If patience had an award, you'd have run out of shelf space by now, I mean that as the highest compliment.",
+    "effect": "Framing a common frustration, running out of trophy space, as a metaphor for her patience elevates the compliment through humor. She receives an admiring compliment made more memorable through a playful comparison to something concrete.",
+    "sectionTitle": "Post-its - Trophy Shelf",
+    "predictable": "Unrecognized qualities like patience rarely get compared humorously to a physical shortage of trophy space",
+    "themes": [
+      "Admiration",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If patience had an award, you'd have run out of shelf space by now.",
+      "You'd need more shelves if patience counted for a trophy, that's how good you are at it."
+    ]
+  },
+  {
+    "actionTitle": "Corner of the trophy shelf",
+    "text": "The most impressive thing about you isn't on display anywhere, it's just how you are when nobody's looking.",
+    "effect": "Distinguishing between public achievement and private character emphasizes that what's admired most is often unwitnessed by others. She learns that admiration for her isn't dependent on visible accomplishment but on consistent, private character.",
+    "sectionTitle": "Post-its - Trophy Shelf",
+    "predictable": "Admiration is often reserved for visible achievement rather than acknowledged for consistent private character",
+    "themes": [
+      "Admiration",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The most impressive thing about you isn't on display, it's how you are unseen.",
+      "What impresses me most about you isn't visible anywhere, just who you are quietly."
+    ]
+  },
+  {
+    "actionTitle": "Trophy shelf, a warmer note",
+    "text": "I'd trade every trophy on this shelf for one more ordinary evening with you, honestly wouldn't think twice.",
+    "effect": "Comparing tangible achievements unfavorably to simple time together reinforces that presence matters more than any external accolade. She receives a striking declaration that her company outweighs any visible marker of success or achievement.",
+    "sectionTitle": "Post-its - Trophy Shelf",
+    "predictable": "Tangible achievements are rarely explicitly ranked below the simple value of an ordinary evening spent together",
+    "themes": [
+      "Admiration",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I'd trade every trophy here for one more ordinary evening with you.",
+      "Every trophy here matters less than one more regular evening together, easily."
+    ]
+  },
+  {
+    "actionTitle": "Trophy shelf, last word",
+    "text": "You don't need a shelf full of these to prove anything to me, I already know exactly what you're made of.",
+    "effect": "Explicitly stating that visible proof isn't needed reassures her that her worth is already firmly established, not contingent. She receives unconditional recognition of her character, independent of any external validation or achievement.",
+    "sectionTitle": "Post-its - Trophy Shelf",
+    "predictable": "Recognition of character is sometimes implicitly tied to visible proof rather than explicitly stated as unconditional",
+    "themes": [
+      "Admiration",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Don't need a shelf full of these, already know exactly what you're made of.",
+      "You've got nothing to prove to me, I already know exactly who you are."
+    ]
+  },
+  {
+    "actionTitle": "Beside the candle jar, a second note",
+    "text": "Light this on the nights that feel a little heavier than usual, let the small flame do a little of the work.",
+    "effect": "Suggesting a simple ritual specifically for harder emotional moments offers a small, tangible tool for self-soothing. She's given a concrete, low-effort action to reach for during difficult evenings rather than facing them without any support.",
+    "sectionTitle": "Post-its - Candle Jar",
+    "predictable": "Small self-soothing rituals for harder evenings are rarely explicitly suggested as an accessible tool",
+    "themes": [
+      "Atmosphere",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Light this on the heavier nights, let the small flame help a little.",
+      "For the nights that feel heavier, this small flame can help a little too."
+    ]
+  },
+  {
+    "actionTitle": "Under the candle jar",
+    "text": "This isn't much, just wax and a wick, but I like the idea of it holding a little bit of calm for you.",
+    "effect": "Downplaying the object's simplicity while assigning it symbolic emotional purpose adds meaning to something otherwise unremarkable. She encounters an ordinary object reframed as intentionally holding a small offering of calm meant for her.",
+    "sectionTitle": "Post-its - Candle Jar",
+    "predictable": "Simple household objects rarely get explicitly reframed as intentionally holding an emotional offering for her",
+    "themes": [
+      "Atmosphere",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Just wax and a wick, but I like it holding a little calm for you.",
+      "Not much really, but I like thinking of this as a little calm just for you."
+    ]
+  },
+  {
+    "actionTitle": "Candle jar, a playful note",
+    "text": "Light this and put on whatever music makes you want to dance around the kitchen a little, atmosphere goes both ways.",
+    "effect": "Extending the mood-setting object toward playful energy, not just calm, broadens its purpose to fit different emotional needs. She's invited to use the ritual for joy and energy as much as for relaxation, depending on what she needs.",
+    "sectionTitle": "Post-its - Candle Jar",
+    "predictable": "Mood-setting objects are usually associated only with calm rather than also being extended toward playful energy",
+    "themes": [
+      "Atmosphere",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Light this and dance around the kitchen a little, atmosphere goes both ways.",
+      "This works for calm nights or dancing around the kitchen nights, your call."
+    ]
+  },
+  {
+    "actionTitle": "Candle jar, closing thought",
+    "text": "Whatever mood you're setting tonight, I hope wherever you are in the house feels a little more like yours.",
+    "effect": "Wishing for her physical space to feel personally hers, rather than just shared, values her sense of ownership and comfort. She's reminded that the atmosphere of the home is meant to reflect and belong to her too, not just be neutral.",
+    "sectionTitle": "Post-its - Candle Jar",
+    "predictable": "Shared living spaces are rarely explicitly wished to feel personally owned and comfortable specifically for her",
+    "themes": [
+      "Atmosphere",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever mood tonight, hope wherever you are in the house feels like yours.",
+      "Hope the space around you tonight feels a little more like it's truly yours."
+    ]
+  },
+  {
+    "actionTitle": "Below the house keys, a second line",
+    "text": "Whoever locks up tonight, know that what's behind this door includes someone who's genuinely trying, every day.",
+    "effect": "Acknowledging ongoing effort behind the trust represented by the keys reassures her that the relationship's foundation is actively maintained. She learns that the trust symbolized by this object is backed by continuous, deliberate effort, not just assumed.",
+    "sectionTitle": "Post-its - House Keys",
+    "predictable": "The trust symbolized by shared access to a home is rarely explicitly backed by acknowledgment of ongoing effort",
+    "themes": [
+      "Trust",
+      "Effort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whoever locks up, know what's behind this door includes someone genuinely trying.",
+      "Behind this door is someone trying every day to be worth trusting, always."
+    ]
+  },
+  {
+    "actionTitle": "Taped near the house keys",
+    "text": "This only works because we both decided to trust each other with it, that's not nothing, I don't take it lightly.",
+    "effect": "Highlighting the mutual, deliberate nature of the trust involved in shared access elevates a mundane object to a meaningful symbol. She recognizes shared trust as an ongoing, mutual decision rather than a passive, assumed given.",
+    "sectionTitle": "Post-its - House Keys",
+    "predictable": "Mutual trust behind shared access to a home is rarely explicitly named as a deliberate, ongoing decision",
+    "themes": [
+      "Trust",
+      "Mutuality"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This only works because we both chose to trust each other, don't take it lightly.",
+      "We both decided to trust each other with this, that means something to me."
+    ]
+  },
+  {
+    "actionTitle": "House keys, a softer note",
+    "text": "Whatever happened out there today, know that what's on the other side of this door is safe, always, no exceptions.",
+    "effect": "Reassuring unconditional safety inside the home regardless of external circumstances reinforces the space as a reliable refuge. She's reminded that no matter what she faces outside, this space remains a consistent, safe constant.",
+    "sectionTitle": "Post-its - House Keys",
+    "predictable": "The home is rarely explicitly reaffirmed as an unconditionally safe refuge regardless of what happened outside",
+    "themes": [
+      "Trust",
+      "Safety"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever happened out there, what's behind this door is safe, always.",
+      "No matter your day out there, this door leads somewhere safe, no exceptions."
+    ]
+  },
+  {
+    "actionTitle": "House keys, last line",
+    "text": "I don't say it enough, but I'm genuinely grateful you trust me with the small everyday things, not just the big ones.",
+    "effect": "Expressing gratitude specifically for being trusted with small, mundane matters values consistent trust over only dramatic moments. She learns that her everyday trust in you, not just big leaps of faith, is genuinely noticed and appreciated.",
+    "sectionTitle": "Post-its - House Keys",
+    "predictable": "Gratitude for being trusted with small everyday matters is rarely explicitly expressed, usually reserved for bigger moments",
+    "themes": [
+      "Trust",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Don't say it enough, genuinely grateful you trust me with the small things too.",
+      "Grateful you trust me with the everyday stuff, not just the big moments, truly."
+    ]
+  },
+  {
+    "actionTitle": "Below the alarm clock, a second line",
+    "text": "Some mornings are harder to face than others, but I'll be just as steady on those mornings too, promise.",
+    "effect": "Extending the reliability metaphor specifically to difficult mornings reassures her that consistency holds especially when it matters most. She learns that dependability isn't just for easy days, but explicitly promised for the hardest ones too.",
+    "sectionTitle": "Post-its - Alarm Clock",
+    "predictable": "Promises of consistency are rarely explicitly extended to specifically cover the hardest, most difficult days",
+    "themes": [
+      "Reliability",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Some mornings are harder, but I'll be just as steady on those too, promise.",
+      "Hard mornings included, I'll be just as steady then too, that's the promise."
+    ]
+  },
+  {
+    "actionTitle": "Beside the alarm clock",
+    "text": "This wakes you up the same way every day, no surprises, and honestly, I think there's something comforting in that.",
+    "effect": "Reframing predictability as comforting, rather than boring, values consistency as an underrated form of emotional security. She's reminded that reliability, even in something as mundane as an alarm, holds real comfort worth appreciating.",
+    "sectionTitle": "Post-its - Alarm Clock",
+    "predictable": "Predictable, unchanging routines are rarely explicitly reframed as comforting rather than simply mundane",
+    "themes": [
+      "Reliability",
+      "Comfort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Wakes you up the same way every day, no surprises, kind of comforting really.",
+      "No surprises with this thing, and honestly, that predictability is comforting."
+    ]
+  },
+  {
+    "actionTitle": "Alarm clock, a warmer note",
+    "text": "Every morning this goes off is one more day I get to try to show up for you the way you deserve, again.",
+    "effect": "Framing each new day as another opportunity to demonstrate reliability reinforces an ongoing, renewed commitment rather than a one-time promise. She sees consistency framed as a daily, active choice rather than a fact settled once and taken for granted.",
+    "sectionTitle": "Post-its - Alarm Clock",
+    "predictable": "Daily reliability is rarely explicitly framed as a renewed, active choice made fresh again each morning",
+    "themes": [
+      "Reliability",
+      "Commitment"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Every morning this rings is another day I get to try to show up for you.",
+      "Each time this goes off, it's one more day I get to show up for you, again."
+    ]
+  },
+  {
+    "actionTitle": "Alarm clock, closing thought",
+    "text": "However today goes, know that tomorrow this will still go off at the same time, and so will my effort for you.",
+    "effect": "Linking the certainty of a recurring alarm to a renewed promise of effort reassures her that setbacks today don't threaten future reliability. She's reassured that whatever happens today, tomorrow brings another guaranteed, consistent chance to show up.",
+    "sectionTitle": "Post-its - Alarm Clock",
+    "predictable": "The certainty of a recurring routine is rarely explicitly linked to reassurance about renewed future effort",
+    "themes": [
+      "Reliability",
+      "Reassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "However today goes, tomorrow this rings the same time, and so does my effort.",
+      "Whatever today brings, tomorrow's alarm and my effort both go off the same, promise."
+    ]
   }
 ]
