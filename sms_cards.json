@@ -13494,5 +13494,855 @@
       "Laisse un mot manuscrit sur la table du petit-déjeuner citant un moment précis où tu l'as vue faire preuve de cette qualité.",
       "Appelle-la deux minutes avant l'épreuve, pas pour parler de l'épreuve, mais pour lui raconter une blague qui la fera rire juste avant."
     ]
+  },
+  {
+    "actionTitle": "The one suggestion text",
+    "text": "For that thing you're deciding on, my actual suggestion is the second option, for what it's worth.",
+    "effect": "Offering a concrete suggestion by text, rather than staying neutral, actively participates in easing her decision-making burden. She receives a real opinion to weigh, not just a noncommittal 'up to you' that leaves her deciding alone.",
+    "sectionTitle": "SMS - The Guided Choice",
+    "predictable": "Decisions shared over text are often met with noncommittal neutrality rather than an actual concrete suggestion",
+    "themes": [
+      "Guidance",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "My actual suggestion is the second option, for what it's worth.",
+      "If it helps, I'd lean toward the second one, but genuinely your call."
+    ]
+  },
+  {
+    "actionTitle": "The quick pointer before the thing",
+    "text": "Before your thing today, quick pointer: focus on the part you're most confident about first, it'll settle your nerves.",
+    "effect": "Offering a specific tactical pointer before a stressful event shows practical support beyond generic encouragement. She receives useful, actionable guidance rather than just a vague good-luck message before something important.",
+    "sectionTitle": "SMS - The Guided Choice",
+    "predictable": "Encouragement before a stressful event is usually generic rather than offering an actual specific, tactical pointer",
+    "themes": [
+      "Guidance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quick pointer: focus on the part you're most confident about first.",
+      "One tip before you go in: lead with what you know best, settles the nerves."
+    ]
+  },
+  {
+    "actionTitle": "The plan for a shared first",
+    "text": "Found something neither of us has ever tried, want to make it a whole thing this weekend, our first time at it together?",
+    "effect": "Proposing a genuinely new shared experience shows active effort to keep discovering things together rather than repeating familiar routines. She's invited into planning a moment where you'll both be equally new to something, rather than one of you already knowing what to expect.",
+    "sectionTitle": "SMS - The Shared First Time",
+    "predictable": "Weekend plans often default to familiar, already-experienced activities rather than something genuinely new to both",
+    "themes": [
+      "Shared Experience",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Found something neither of us has tried, want to make it a whole thing this weekend?",
+      "Let's finally try that thing neither of us has done, this weekend, together."
+    ]
+  },
+  {
+    "actionTitle": "The reaction requested live",
+    "text": "Whatever you're seeing or hearing right now that's new to you, send me your real-time reaction, want to experience it alongside you.",
+    "effect": "Requesting a live reaction to something new, rather than a summary afterward, seeks genuine shared presence even while physically apart. She's invited to share a discovery as it's actually happening, making the moment feel jointly experienced despite the distance.",
+    "sectionTitle": "SMS - The Shared First Time",
+    "predictable": "New experiences had while apart are usually only summarized afterward rather than shared live as they happen",
+    "themes": [
+      "Shared Experience",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Send me your real-time reaction to whatever's new right now, want in on it.",
+      "Whatever you're discovering right now, send it live, want to feel part of it too."
+    ]
+  },
+  {
+    "actionTitle": "The detail you brought up weeks ago",
+    "text": "Remember that small thing you mentioned a few weeks back? I actually thought about it again today and wanted to say so.",
+    "effect": "Bringing up a minor detail from weeks prior proves it genuinely stuck rather than being politely forgotten after the moment passed. She learns that even her smallest offhand comments continue occupying real space in your memory long after they were said.",
+    "sectionTitle": "SMS - The Thoughtful Detail",
+    "predictable": "Small details mentioned weeks ago rarely get referenced again as proof they were genuinely retained",
+    "themes": [
+      "Thoughtful",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That small thing you mentioned weeks back, thought about it again today.",
+      "Random thought, but that thing you said a few weeks ago crossed my mind again."
+    ]
+  },
+  {
+    "actionTitle": "The thoughtful thing noticed",
+    "text": "Noticed you've been dealing with a small annoying thing lately, thinking of a way to help with it, more soon.",
+    "effect": "Flagging awareness of a minor ongoing annoyance, with a promise of help to come, shows attentiveness beyond the obvious big issues. She learns that even her smaller frustrations are being actively thought about, not just the larger, more visible problems.",
+    "sectionTitle": "SMS - The Thoughtful Detail",
+    "predictable": "Awareness of small ongoing annoyances is rarely flagged in advance with a promise of active thought toward a solution",
+    "themes": [
+      "Thoughtful",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noticed that small annoying thing you've been dealing with, thinking on a fix.",
+      "Been thinking about that little thing bugging you, want to help sort it out."
+    ]
+  },
+  {
+    "actionTitle": "The turn is yours to name",
+    "text": "Did something for you earlier, now it's your turn to name something, anything, I'm genuinely happy to do it back.",
+    "effect": "Explicitly inviting her to name a return favor treats reciprocity as an open, active offer rather than an assumed unspoken debt. She's given genuine agency to request something specific, rather than having to guess whether a return gesture is expected or welcome.",
+    "sectionTitle": "SMS - The Equal Exchange",
+    "predictable": "Return favors are usually left unspoken rather than explicitly and openly invited for her to name",
+    "themes": [
+      "Reciprocity",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Did something for you earlier, your turn to name something, happy to do it.",
+      "Now it's your turn, name anything, genuinely happy to return the favor."
+    ]
+  },
+  {
+    "actionTitle": "The thanks that offers something back",
+    "text": "Thank you for that earlier, seriously, what can I do for you today, want to actually even things out a bit.",
+    "effect": "Pairing a thank-you with an explicit offer of return effort keeps gratitude active rather than purely verbal and one-directional. She receives more than words of appreciation, she gets an active offer to rebalance the exchange concretely.",
+    "sectionTitle": "SMS - The Equal Exchange",
+    "predictable": "Thank-you messages are usually purely verbal rather than paired with an explicit offer of something in return",
+    "themes": [
+      "Reciprocity",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thank you for earlier, what can I do for you today, want to even things out.",
+      "Seriously, thanks for that, let me know what I can do for you back today."
+    ]
+  },
+  {
+    "actionTitle": "The plan that saves a trip",
+    "text": "Before you head out, let me know if there's anything you need, I can grab it on my way and save you a separate trip.",
+    "effect": "Proactively offering to combine errands before they happen shows forward-thinking care for reducing her unnecessary effort. She avoids a redundant trip entirely because the logistics were thought through in advance, not just offered reactively.",
+    "sectionTitle": "SMS - The Smooth Handoff",
+    "predictable": "Errands are usually run separately rather than proactively combined in advance to save an unnecessary trip",
+    "themes": [
+      "Efficiency",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let me know if you need anything, can grab it on my way, save you a trip.",
+      "Heading out later, tell me if you need something so you can skip the trip."
+    ]
+  },
+  {
+    "actionTitle": "The quick heads-up that saves time",
+    "text": "Quick heads-up before you get here: the thing you were worried about is already handled, one less thing to think about.",
+    "effect": "Sending a proactive update that removes a worry before it needs to be raised saves her time and mental energy. She arrives already relieved of a concern, rather than having to ask about it or worry unnecessarily in the meantime.",
+    "sectionTitle": "SMS - The Smooth Handoff",
+    "predictable": "Concerns are usually left for her to ask about rather than proactively resolved and communicated in advance",
+    "themes": [
+      "Efficiency",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Heads-up, the thing you were worried about is already handled.",
+      "Before you get here, that thing on your mind is already sorted, one less worry."
+    ]
+  },
+  {
+    "actionTitle": "The pattern named honestly",
+    "text": "Realized today I do that thing again where I get quiet instead of saying what's actually bothering me, working on it.",
+    "effect": "Naming a personal pattern unprompted, over text, shows ongoing self-reflection happening even outside of direct confrontation. She sees active self-awareness in motion, not just triggered by a specific incident or her pointing something out.",
+    "sectionTitle": "SMS - The Honest Self-Check",
+    "predictable": "Personal patterns are usually named only when directly confronted rather than reflected on and shared unprompted",
+    "themes": [
+      "Self-awareness",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Realized I do that quiet thing again instead of saying what's bothering me.",
+      "Noticed myself doing that pattern again today, actually working on it."
+    ]
+  },
+  {
+    "actionTitle": "The honest admission mid-day",
+    "text": "Being honest, I overreacted to something small this morning, it wasn't really about that, still figuring out what it was actually about.",
+    "effect": "Admitting an overreaction and its uncertain root cause, mid-day rather than after full reflection, shows real-time honesty over polish. She receives an honest, imperfect admission in the moment, rather than a neatly resolved explanation delivered only once fully processed.",
+    "sectionTitle": "SMS - The Honest Self-Check",
+    "predictable": "Admissions about overreacting are usually delivered fully resolved later rather than honestly mid-process",
+    "themes": [
+      "Self-awareness",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Overreacted to something small this morning, still figuring out what it was really about.",
+      "Being honest, that reaction this morning wasn't really about what I said it was."
+    ]
+  },
+  {
+    "actionTitle": "The growth noticed from afar",
+    "text": "Random thought during my day, but I've really noticed you handling stuff differently lately, in a good way, proud of that.",
+    "effect": "Sending an unprompted observation about her growth, during an unrelated moment, shows it's genuinely on your mind, not performative. She receives recognition of her personal development that surfaces spontaneously, not just when convenient or expected.",
+    "sectionTitle": "SMS - The Growth Moment",
+    "predictable": "Observations about someone's personal growth are rarely sent spontaneously during an unrelated moment of the day",
+    "themes": [
+      "Growth",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noticed you handling stuff differently lately, in a good way, proud of that.",
+      "Random thought, but you've really grown in how you handle things lately."
+    ]
+  },
+  {
+    "actionTitle": "The small growth goal shared",
+    "text": "Trying something new this week, working on not checking my phone the second I wake up, wish me luck.",
+    "effect": "Sharing a small, specific personal growth attempt over text invites her into your process rather than keeping it entirely private. She's given visibility into an active, ongoing effort at self-improvement, not just told about it after it's already succeeded or failed.",
+    "sectionTitle": "SMS - The Growth Moment",
+    "predictable": "Small personal growth attempts are often kept private rather than shared as they're actively being attempted",
+    "themes": [
+      "Growth",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Trying not to check my phone the second I wake up this week, wish me luck.",
+      "Working on something small this week, trying to break a habit, wish me luck."
+    ]
+  },
+  {
+    "actionTitle": "The commitment reaffirmed out of nowhere",
+    "text": "No specific reason, just wanted to say I'm fully in on this, on us, today and every day, no doubts.",
+    "effect": "Reaffirming commitment without any triggering event shows it's a standing truth, not something reactive to reassurance-seeking. She receives an unconditional statement of commitment that isn't tied to resolving a specific doubt or concern.",
+    "sectionTitle": "SMS - The Standing Commitment",
+    "predictable": "Commitment reaffirmations are usually triggered by a specific doubt rather than sent for no particular reason at all",
+    "themes": [
+      "Commitment",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No reason, just wanted to say I'm fully in on this, on us, no doubts.",
+      "Out of nowhere: still fully committed to us, today and every day, always."
+    ]
+  },
+  {
+    "actionTitle": "The promise followed through remotely",
+    "text": "That thing I promised I'd handle, done, wanted you to know it's taken care of exactly like I said.",
+    "effect": "Confirming follow-through on a promise, over text, removes any need for her to wonder or check in on its status herself. She can fully trust that stated commitments translate into completed action, without having to track it herself.",
+    "sectionTitle": "SMS - The Standing Commitment",
+    "predictable": "Promises made are sometimes left unconfirmed, requiring her to check in rather than being told directly they're done",
+    "themes": [
+      "Commitment",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That thing I promised, done, exactly like I said, wanted you to know.",
+      "Handled that thing I promised, wanted to confirm it's taken care of."
+    ]
+  },
+  {
+    "actionTitle": "The credit given by text",
+    "text": "Just told someone about that thing we pulled off, made sure to mention it was as much your doing as mine, if not more.",
+    "effect": "Reporting that credit was explicitly shared with a third party ensures she knows her contribution wasn't quietly absorbed into your account. She hears direct confirmation that her role in a shared success was properly acknowledged, even when she wasn't present to hear it.",
+    "sectionTitle": "SMS - The Fair Share",
+    "predictable": "Credit for shared successes recounted to others isn't always confirmed back to the partner whose contribution mattered",
+    "themes": [
+      "Equity",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Told someone about that thing we did, made sure to credit your part of it.",
+      "Mentioned that thing we pulled off to someone, made sure you got proper credit."
+    ]
+  },
+  {
+    "actionTitle": "The check on balance this week",
+    "text": "Feels like I've had it a bit easier than you this week, let's actually rebalance something before the weekend.",
+    "effect": "Proactively naming a perceived imbalance in effort, before she has to raise it, shows active monitoring of fairness in the relationship. She sees fairness treated as something actively tracked and adjusted, not something she has to flag herself when it tips too far.",
+    "sectionTitle": "SMS - The Fair Share",
+    "predictable": "Imbalances in effort between partners are usually flagged by the person carrying more, rather than proactively noticed",
+    "themes": [
+      "Equity",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Feels like I've had it easier this week, let's rebalance something before the weekend.",
+      "Think the balance has been off this week, want to fix that before the weekend."
+    ]
+  },
+  {
+    "actionTitle": "The vulnerable thing shared back",
+    "text": "Since you shared that with me earlier, want to be equally honest: here's something I don't usually say out loud either.",
+    "effect": "Explicitly matching received vulnerability with your own, over text, ensures emotional openness isn't one-directional even at a distance. She experiences genuine reciprocity in emotional openness, rather than being the only one who shared something real.",
+    "sectionTitle": "SMS - The Two-Way Street",
+    "predictable": "Vulnerable sharing over text sometimes flows only one direction rather than being explicitly matched in return",
+    "themes": [
+      "Mutuality",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Since you shared that earlier, want to be equally honest about something too.",
+      "You were open with me earlier, want to be just as open back, here goes."
+    ]
+  },
+  {
+    "actionTitle": "The honest ask about your own role",
+    "text": "Genuinely asking, not fishing for reassurance: is there anything about how I've been showing up lately that's been off?",
+    "effect": "Directly soliciting honest feedback about your own behavior, rather than assuming things are fine, reinforces mutual accountability in the relationship. She's invited to offer real, unfiltered feedback on your role, rather than only being the one whose wellbeing is checked on.",
+    "sectionTitle": "SMS - The Two-Way Street",
+    "predictable": "Feedback on one's own behavior in the relationship is rarely directly and genuinely solicited via text",
+    "themes": [
+      "Mutuality",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Genuinely asking: anything about how I've been showing up that's felt off?",
+      "Not fishing for reassurance, but really want to know if I've been off lately."
+    ]
+  },
+  {
+    "actionTitle": "The direction offered gently",
+    "text": "If it helps at all, my honest read on that situation is pretty clear, want me to just say it plainly?",
+    "effect": "Offering to share a clear opinion, while still asking permission first, balances guidance with respect for her autonomy. She's offered direction without it being imposed, keeping the choice to receive it entirely hers.",
+    "sectionTitle": "SMS - The Guided Choice",
+    "predictable": "Clear opinions on a situation are often withheld entirely rather than offered gently with permission first",
+    "themes": [
+      "Guidance",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "My honest read on that is pretty clear, want me to just say it plainly?",
+      "Happy to share my actual take if that would help, just say the word."
+    ]
+  },
+  {
+    "actionTitle": "The reminder of your own strength",
+    "text": "For whatever you're deciding right now, remember you've handled harder calls than this before, trust that.",
+    "effect": "Reminding her of past capability, rather than offering a new opinion, redirects guidance toward trust in her own judgment. She receives confidence-building guidance rooted in her own track record, rather than an external opinion replacing her own instincts.",
+    "sectionTitle": "SMS - The Guided Choice",
+    "predictable": "Guidance during a decision is often external opinion rather than a reminder pointing back to her own proven judgment",
+    "themes": [
+      "Guidance",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Remember you've handled harder calls than this before, trust that.",
+      "Whatever you decide, you've made tougher calls before, trust yourself here."
+    ]
+  },
+  {
+    "actionTitle": "The shared playlist for a new place",
+    "text": "Building us a playlist for that new place we're trying this weekend, want it to feel like its own little soundtrack.",
+    "effect": "Creating a dedicated soundtrack for an upcoming new shared experience adds intentional preparation to a moment of joint discovery. She sees active thought put into making a shared first feel distinct and memorable before it even happens.",
+    "sectionTitle": "SMS - The Shared First Time",
+    "predictable": "Upcoming new shared experiences rarely receive dedicated preparation like a custom soundtrack made in advance",
+    "themes": [
+      "Shared Experience",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Building us a playlist for that new place this weekend, its own soundtrack.",
+      "Making a little soundtrack for our first time there this weekend, can't wait."
+    ]
+  },
+  {
+    "actionTitle": "The countdown to trying it together",
+    "text": "Counting down to trying that thing together this weekend, neither of us has done it, that's what makes it exciting.",
+    "effect": "Explicitly anticipating a shared first as exciting specifically because it's mutual and unfamiliar reframes uncertainty as a positive draw. She experiences anticipation built specifically around the fact that neither of you has an advantage, which is framed as the appeal itself.",
+    "sectionTitle": "SMS - The Shared First Time",
+    "predictable": "Anticipation for shared plans is rarely explicitly tied to the appeal of neither partner having done it before",
+    "themes": [
+      "Shared Experience",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Counting down to trying that together this weekend, neither of us has done it.",
+      "Can't wait for our first time at that this weekend, exciting that it's new for both."
+    ]
+  },
+  {
+    "actionTitle": "The detail from a conversation days ago",
+    "text": "Something you said a few days ago is still sitting with me, wanted you to know it actually landed.",
+    "effect": "Referencing a conversation from several days prior proves it continued to resonate well beyond the moment it was said. She learns that her words from days ago are still being carried and considered, not just heard and forgotten.",
+    "sectionTitle": "SMS - The Thoughtful Detail",
+    "predictable": "Conversations from several days prior rarely get referenced again as still resonating well after the fact",
+    "themes": [
+      "Thoughtful",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Something you said a few days ago is still sitting with me, it landed.",
+      "Been thinking about something you said days ago, wanted you to know it stuck."
+    ]
+  },
+  {
+    "actionTitle": "The specific thing you did right",
+    "text": "Noticed exactly how you handled that thing earlier, the specific choice you made was the right one, wanted to say so.",
+    "effect": "Naming the exact choice within a broader situation, rather than a vague compliment, proves close, attentive observation. She hears precisely what was noticed, rather than a general approval that could apply to anything she did.",
+    "sectionTitle": "SMS - The Thoughtful Detail",
+    "predictable": "Compliments on handling a situation well are often vague rather than naming the exact specific choice observed",
+    "themes": [
+      "Thoughtful",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noticed the specific choice you made earlier, it was the right one.",
+      "The exact way you handled that earlier, that specific choice, was spot on."
+    ]
+  },
+  {
+    "actionTitle": "The favor bank staying even",
+    "text": "Keeping mental track, and I think I owe you one after that, tell me when and I'll make good on it.",
+    "effect": "Explicitly acknowledging an owed favor, rather than letting it go unspoken, treats the relationship's give-and-take as consciously tracked. She knows a debt of kindness is genuinely remembered and will be actively repaid, not just quietly forgotten over time.",
+    "sectionTitle": "SMS - The Equal Exchange",
+    "predictable": "Owed favors after a kind gesture are usually left unspoken rather than explicitly acknowledged and promised in return",
+    "themes": [
+      "Reciprocity",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I owe you one after that, tell me when and I'll make good on it.",
+      "Keeping track, definitely owe you one now, just say when to collect."
+    ]
+  },
+  {
+    "actionTitle": "The check on who's initiating lately",
+    "text": "Realized I've been the one reaching out less lately, that's on me, expect more of that from me starting today.",
+    "effect": "Naming an imbalance in who initiates contact, and committing to correct it, treats reciprocity in effort as something actively monitored. She sees an honest acknowledgment of an imbalance paired with a concrete commitment to change it, not just a passive observation.",
+    "sectionTitle": "SMS - The Equal Exchange",
+    "predictable": "Imbalances in who initiates contact are rarely explicitly named and paired with a concrete commitment to change",
+    "themes": [
+      "Reciprocity",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Realized I've been reaching out less lately, expect more starting today.",
+      "Noticed I haven't been initiating enough lately, changing that starting now."
+    ]
+  },
+  {
+    "actionTitle": "The shortcut worth sharing",
+    "text": "Found a way to cut ten minutes off that thing we both hate doing, sending you the details now, should help us both.",
+    "effect": "Sharing a discovered efficiency improvement benefits both partners equally, reinforcing a shared-systems approach to daily friction. She receives a genuinely useful improvement to a shared hassle, framed as something discovered specifically to help you both.",
+    "sectionTitle": "SMS - The Smooth Handoff",
+    "predictable": "Discovered efficiency improvements to shared tasks aren't always explicitly shared as something benefiting both partners",
+    "themes": [
+      "Efficiency",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Found a way to cut ten minutes off that thing we both hate, sending details.",
+      "Figured out a shortcut for that annoying thing we both deal with, sending it now."
+    ]
+  },
+  {
+    "actionTitle": "The reminder sent just in time",
+    "text": "Quick reminder before you forget, that thing is due today, figured I'd flag it so it's one less thing to track mentally.",
+    "effect": "Sending a timely reminder before something is forgotten reduces her mental load by proactively catching what she might miss. She experiences a small but genuine reduction in things she has to actively remember and track herself.",
+    "sectionTitle": "SMS - The Smooth Handoff",
+    "predictable": "Time-sensitive reminders are sometimes left for her to catch herself rather than proactively flagged before it's forgotten",
+    "themes": [
+      "Efficiency",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quick reminder, that thing is due today, one less thing to track mentally.",
+      "Flagging this before you forget, it's due today, wanted to lighten the mental load."
+    ]
+  },
+  {
+    "actionTitle": "The honest thing about today's mood",
+    "text": "Being self-aware for a second: I've been a bit short today, and it's not about you, just wanted to name that clearly.",
+    "effect": "Naming a personal mood and clarifying it's unrelated to her, mid-day, prevents misattribution while modeling real-time self-awareness. She's spared the burden of wondering whether she caused a shift in your mood, since it's clearly and honestly named for her.",
+    "sectionTitle": "SMS - The Honest Self-Check",
+    "predictable": "Shifts in mood are sometimes left unexplained, leaving her to wonder if she caused them, rather than clearly named",
+    "themes": [
+      "Self-awareness",
+      "Clarity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Been a bit short today, not about you, wanted to name that clearly.",
+      "Self-awareness check: a bit off today, not because of you, just wanted to say."
+    ]
+  },
+  {
+    "actionTitle": "The trigger identified honestly",
+    "text": "Figured out what actually set me off earlier, it wasn't really about the thing itself, more about something older, working through it.",
+    "effect": "Sharing a deeper root cause behind a reaction, rather than the surface trigger, shows real self-examination beyond a quick apology. She gains genuine insight into what's really happening beneath a reaction, rather than a surface-level explanation that doesn't fully account for it.",
+    "sectionTitle": "SMS - The Honest Self-Check",
+    "predictable": "Explanations for a reaction often stop at the surface trigger rather than exploring and sharing the deeper root cause",
+    "themes": [
+      "Self-awareness",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Figured out what actually set me off, wasn't really about the thing itself.",
+      "Realized the real reason behind that reaction earlier, working through it now."
+    ]
+  },
+  {
+    "actionTitle": "The growth spotted in a small moment",
+    "text": "The way you handled that little thing today, small moment, but it said a lot about how far you've come, noticed.",
+    "effect": "Highlighting growth visible in a minor, easily overlooked moment shows attentiveness to development beyond obvious milestones. She learns that her growth is tracked even in small, unremarkable moments, not just at major, easily noticed turning points.",
+    "sectionTitle": "SMS - The Growth Moment",
+    "predictable": "Personal growth is usually noticed at major milestones rather than in small, easily overlooked everyday moments",
+    "themes": [
+      "Growth",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The way you handled that little thing today said a lot about how far you've come.",
+      "Small moment today, but it really showed how much you've grown, noticed."
+    ]
+  },
+  {
+    "actionTitle": "The growth you're rooting for",
+    "text": "Whatever you're working on for yourself right now, just know I'm genuinely rooting for that version of you.",
+    "effect": "Explicitly rooting for her personal growth goals, without specifying which one, shows general support for her evolving self broadly. She feels support extended to her growth in general, not conditional on any one specific goal succeeding or failing.",
+    "sectionTitle": "SMS - The Growth Moment",
+    "predictable": "Support for personal growth is sometimes tied to a specific goal rather than expressed broadly for her evolving self overall",
+    "themes": [
+      "Growth",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you're working on for yourself, genuinely rooting for that version of you.",
+      "Rooting for whatever growth you're chasing right now, genuinely, all of it."
+    ]
+  },
+  {
+    "actionTitle": "The commitment through the boring parts",
+    "text": "Even the boring, unglamorous parts of this, the logistics and errands, I'm just as committed to those as the exciting parts.",
+    "effect": "Explicitly extending commitment to mundane, unglamorous aspects of the relationship counters the idea that commitment only applies to exciting moments. She learns that your commitment covers the full reality of shared life, not just its most appealing or romantic moments.",
+    "sectionTitle": "SMS - The Standing Commitment",
+    "predictable": "Commitment is often implicitly associated with the exciting parts of a relationship rather than explicitly extended to the mundane ones too",
+    "themes": [
+      "Commitment",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Even the boring logistics parts, I'm just as committed to those too.",
+      "Committed to the unglamorous stuff too, not just the exciting parts, all of it."
+    ]
+  },
+  {
+    "actionTitle": "The commitment that doesn't need daily proof",
+    "text": "You don't have to wonder about this, my commitment to you isn't something that needs daily proving, it's just there.",
+    "effect": "Reassuring that commitment is stable and doesn't require constant demonstration relieves any pressure she might feel to seek daily validation. She's freed from needing repeated reassurance, trusting instead that the commitment is a stable, unwavering constant.",
+    "sectionTitle": "SMS - The Standing Commitment",
+    "predictable": "Commitment is sometimes implicitly treated as needing regular proof rather than explicitly framed as a stable constant",
+    "themes": [
+      "Commitment",
+      "Reassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "You don't have to wonder, my commitment doesn't need daily proving, it's just there.",
+      "This isn't something that needs proving every day, it's just steady, always there."
+    ]
+  },
+  {
+    "actionTitle": "The equal say confirmed by text",
+    "text": "Thinking more about that decision, want to make sure your take carries just as much weight as mine before we land anywhere.",
+    "effect": "Explicitly confirming equal weighting of input before finalizing a decision reinforces fairness even in the middle of a private deliberation. She sees active effort to ensure her voice genuinely shapes the outcome, rather than being consulted as a formality after a decision is basically made.",
+    "sectionTitle": "SMS - The Fair Share",
+    "predictable": "Equal weighting of input on a decision is rarely explicitly confirmed mid-deliberation rather than just assumed",
+    "themes": [
+      "Equity",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Want your take to carry just as much weight as mine before we decide anything.",
+      "Making sure this decision genuinely weighs your input equally before we land anywhere."
+    ]
+  },
+  {
+    "actionTitle": "The load check sent honestly",
+    "text": "Being honest, think I've been coasting a bit this week while you've carried more, let's fix that starting tonight.",
+    "effect": "Proactively admitting to coasting while she's carried more shows active self-monitoring of fairness rather than waiting to be called out. She sees an unprompted, honest admission of imbalance paired with an immediate commitment to correct it that same day.",
+    "sectionTitle": "SMS - The Fair Share",
+    "predictable": "Coasting while a partner carries more is rarely proactively admitted, usually only addressed once she raises it herself",
+    "themes": [
+      "Equity",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Been coasting a bit this week while you carried more, fixing that tonight.",
+      "Honestly think I've let you carry more this week, changing that starting tonight."
+    ]
+  },
+  {
+    "actionTitle": "The two-way thank you",
+    "text": "Thank you for today, and also, thank you for putting up with me today, feels only fair to say both.",
+    "effect": "Pairing gratitude for her actions with acknowledgment of your own imperfection frames appreciation as mutual rather than one-directional. She receives a thank-you that includes recognition of what she tolerates from you too, not just praise for what she gave.",
+    "sectionTitle": "SMS - The Two-Way Street",
+    "predictable": "Gratitude expressed is usually one-directional, focused on what she gave rather than also what she put up with",
+    "themes": [
+      "Mutuality",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thank you for today, and for putting up with me today too, feels fair to say both.",
+      "Grateful for today, and honestly grateful you put up with me too, both matter."
+    ]
+  },
+  {
+    "actionTitle": "The mutual effort named plainly",
+    "text": "This only works because we're both actually trying, not just you, wanted to say that plainly for once.",
+    "effect": "Explicitly naming mutual effort, rather than letting her assume she's the only one working at it, reinforces the relationship as genuinely two-sided. She hears direct acknowledgment that your effort matches hers, rather than being left to wonder if she's carrying the relationship alone.",
+    "sectionTitle": "SMS - The Two-Way Street",
+    "predictable": "Mutual effort in a relationship is rarely explicitly named plainly, often left for one partner to simply assume",
+    "themes": [
+      "Mutuality",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This only works because we're both actually trying, not just you.",
+      "Wanted to say plainly: we're both actually trying here, not just you."
+    ]
+  },
+  {
+    "actionTitle": "The guidance offered without judgment",
+    "text": "Whatever you decide about that, no judgment either way from me, just here if you want to talk it through first.",
+    "effect": "Explicitly removing judgment from an offer of guidance frees her to seek input without fear of disapproval shaping the conversation. She receives support that's genuinely neutral, rather than guidance that subtly pushes toward a preferred outcome.",
+    "sectionTitle": "SMS - The Guided Choice",
+    "predictable": "Offers of guidance sometimes carry implicit judgment rather than being explicitly and genuinely neutral",
+    "themes": [
+      "Guidance",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No judgment either way, just here if you want to talk it through first.",
+      "Whatever you decide, no judgment, happy to just think it through with you."
+    ]
+  },
+  {
+    "actionTitle": "The new thing we're trying blind",
+    "text": "Going into that new thing this weekend completely blind, on purpose, no reviews, no research, just us finding out together.",
+    "effect": "Committing explicitly to avoiding research before a shared new experience protects its status as a genuinely unfiltered discovery. She knows the anticipation is being deliberately preserved rather than diminished by advance information gathering.",
+    "sectionTitle": "SMS - The Shared First Time",
+    "predictable": "Shared new experiences are rarely explicitly protected from advance research in order to preserve genuine discovery",
+    "themes": [
+      "Shared Experience",
+      "Spontaneity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Going in completely blind this weekend, on purpose, just us finding out together.",
+      "No research on that thing this weekend, going in blind together, on purpose."
+    ]
+  },
+  {
+    "actionTitle": "The detail worth a second look",
+    "text": "That small thing you mentioned yesterday, went back and thought about it more, wanted to ask you a follow-up question actually.",
+    "effect": "Returning to a minor detail with a genuine follow-up question shows active engagement rather than passive listening in the moment. She experiences a conversation extended thoughtfully beyond its original moment, proving real interest rather than polite acknowledgment.",
+    "sectionTitle": "SMS - The Thoughtful Detail",
+    "predictable": "Small details mentioned in conversation rarely receive a genuine follow-up question after the fact",
+    "themes": [
+      "Thoughtful",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That thing you mentioned yesterday, thought about it more, have a follow-up question.",
+      "Went back to something you said yesterday, actually have a question about it now."
+    ]
+  },
+  {
+    "actionTitle": "The favor logged for later",
+    "text": "Noting mentally that you covered that for me, my turn is coming, just haven't figured out what yet, stay tuned.",
+    "effect": "Acknowledging an owed favor with a lighthearted promise of future repayment keeps reciprocity active and anticipated rather than forgotten. She knows a return gesture is coming, adding a small note of anticipation to an otherwise simple acknowledgment.",
+    "sectionTitle": "SMS - The Equal Exchange",
+    "predictable": "Owed favors are sometimes left unacknowledged rather than paired with a lighthearted promise of future repayment",
+    "themes": [
+      "Reciprocity",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noting that you covered that, my turn is coming, haven't figured out what yet.",
+      "You covered that, my turn is coming eventually, stay tuned for what it'll be."
+    ]
+  },
+  {
+    "actionTitle": "The efficient thank you",
+    "text": "Quick one before I forget: thanks for handling that, saved me a bunch of time today, noticed and appreciated it.",
+    "effect": "Sending a prompt, specific thank-you for a time-saving action reinforces that efficiency contributions are noticed, not just outcomes assumed. She hears direct confirmation that her effort to streamline something was both noticed and genuinely appreciated.",
+    "sectionTitle": "SMS - The Smooth Handoff",
+    "predictable": "Time-saving contributions are sometimes assumed rather than explicitly and promptly thanked for the effort behind them",
+    "themes": [
+      "Efficiency",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thanks for handling that, saved me a bunch of time today, noticed it.",
+      "Quick thanks for that, saved real time today, genuinely appreciated it."
+    ]
+  },
+  {
+    "actionTitle": "The self-check sent honestly mid-argument",
+    "text": "Pausing for a second here, realizing I'm getting defensive instead of actually listening, want to reset and try again.",
+    "effect": "Naming defensiveness in real time, during a disagreement, shows active self-monitoring that can genuinely redirect the interaction. She witnesses self-awareness functioning live during conflict, rather than only surfacing afterward in apology or reflection.",
+    "sectionTitle": "SMS - The Honest Self-Check",
+    "predictable": "Self-awareness during a disagreement usually surfaces only afterward rather than named honestly in the middle of it",
+    "themes": [
+      "Self-awareness",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Realizing I'm getting defensive instead of listening, want to reset and try again.",
+      "Pausing here, noticing I'm not really listening, let's reset this conversation."
+    ]
+  },
+  {
+    "actionTitle": "The growth check-in requested",
+    "text": "How do you think I've grown, or not, over the past few months? Genuinely want your honest read on it.",
+    "effect": "Directly requesting her perspective on your own growth invites honest external feedback rather than relying solely on self-assessment. She's given a real opening to share observations about your development that she might not otherwise have volunteered unprompted.",
+    "sectionTitle": "SMS - The Growth Moment",
+    "predictable": "Perspectives on personal growth are rarely directly and genuinely requested from a partner's honest point of view",
+    "themes": [
+      "Growth",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "How do you think I've grown, or not, these past months? Want your honest read.",
+      "Genuinely curious, how have you seen me grow lately, if at all, be honest."
+    ]
+  },
+  {
+    "actionTitle": "The commitment sent after a small disagreement",
+    "text": "Even after that little disagreement earlier, just want you to know nothing about my commitment to us changed one bit.",
+    "effect": "Explicitly reaffirming commitment right after a minor conflict prevents any lingering doubt from a small disagreement growing unaddressed. She receives immediate reassurance that a small conflict didn't shake the underlying foundation of your commitment to the relationship.",
+    "sectionTitle": "SMS - The Standing Commitment",
+    "predictable": "Commitment is rarely explicitly reaffirmed immediately following a minor disagreement, often just left implicitly assumed",
+    "themes": [
+      "Commitment",
+      "Reassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Even after that small disagreement, nothing about my commitment changed at all.",
+      "That little disagreement earlier changed nothing about how committed I am to us."
+    ]
+  },
+  {
+    "actionTitle": "The equity check after the fact",
+    "text": "Looking back at this week, think it was pretty balanced between us, wanted to say so rather than just assume it silently.",
+    "effect": "Explicitly confirming a perceived balance in effort, rather than assuming it silently, makes fairness a topic actively discussed, not just hoped for. She hears direct confirmation that the week's balance was noticed and named, not just quietly taken for granted.",
+    "sectionTitle": "SMS - The Fair Share",
+    "predictable": "Perceived balance in shared effort over a week is rarely explicitly confirmed out loud rather than silently assumed",
+    "themes": [
+      "Equity",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Looking back, this week was pretty balanced between us, wanted to say so.",
+      "This week felt pretty fair between us, wanted to actually say that out loud."
+    ]
+  },
+  {
+    "actionTitle": "The mutual gratitude sent both ways",
+    "text": "Grateful for you today, and also just grateful that this thing between us actually goes both ways, not everyone gets that.",
+    "effect": "Expressing gratitude for the relationship's mutual nature, not just for her individually, values reciprocity as something worth appreciating itself. She sees gratitude extended beyond her personally to the shared, reciprocal structure of the relationship as a whole.",
+    "sectionTitle": "SMS - The Two-Way Street",
+    "predictable": "Gratitude expressed is usually about the partner individually rather than about the relationship's mutual, two-way nature itself",
+    "themes": [
+      "Mutuality",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Grateful for you, and grateful this actually goes both ways, not everyone gets that.",
+      "Thankful for you today, and honestly thankful this whole thing is mutual."
+    ]
   }
 ]

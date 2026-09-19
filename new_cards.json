@@ -14794,5 +14794,855 @@
       "Dis-le sérieusement, sans le transformer en blague à la fin.",
       "Explique brièvement pourquoi, pour que ce soit plus qu'une simple formule."
     ]
+  },
+  {
+    "actionTitle": "The gentle steer",
+    "text": "If she's stuck deciding something small today, offer one clear suggestion instead of just saying 'whatever you want'.",
+    "effect": "Offering a concrete suggestion, rather than deflecting the decision back to her, actively shares the mental load of choosing. She experiences a partner willing to offer direction rather than leaving her to carry every small decision alone.",
+    "sectionTitle": "The Guided Choice",
+    "predictable": "Small decisions are often deflected back with 'whatever you want' rather than met with an actual suggestion",
+    "themes": [
+      "Guidance",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Offer one clear suggestion instead of just deflecting the choice back to her.",
+      "Give her a real opinion to react to, rather than an open-ended shrug."
+    ]
+  },
+  {
+    "actionTitle": "The map for the new thing",
+    "text": "If she's about to try something unfamiliar, offer to walk her through what to expect, step by step, without taking over.",
+    "effect": "Providing orientation for an unfamiliar situation, without controlling the outcome, respects her autonomy while easing her uncertainty. She approaches something new with a clearer sense of what's ahead, without having to face total ambiguity alone.",
+    "sectionTitle": "The Guided Choice",
+    "predictable": "Unfamiliar situations are often faced with either total ambiguity or someone else taking over completely",
+    "themes": [
+      "Guidance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Walk her through what to expect, step by step, without taking over.",
+      "Offer a quick rundown of what's ahead, then let her handle it her way."
+    ]
+  },
+  {
+    "actionTitle": "The question that points the way",
+    "text": "Instead of giving her the answer to something she's puzzling over, ask her a question that helps her find it herself.",
+    "effect": "Guiding through questions, rather than handing over the answer, builds her confidence in her own problem-solving rather than dependency. She arrives at her own conclusion with support, rather than simply being told what to think.",
+    "sectionTitle": "The Guided Choice",
+    "predictable": "Problems she's puzzling over are usually met with a direct answer rather than a guiding question",
+    "themes": [
+      "Guidance",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask a question that nudges her toward the answer, rather than giving it directly.",
+      "Let her arrive at the conclusion herself, even if it takes a bit longer."
+    ]
+  },
+  {
+    "actionTitle": "The offer to think out loud together",
+    "text": "If she's weighing a decision, offer to think through it out loud with her, laying out the options together rather than deciding for her.",
+    "effect": "Thinking through options together, rather than deciding unilaterally, positions guidance as collaborative rather than directive. She gets structured support for her decision while retaining full ownership of the final choice.",
+    "sectionTitle": "The Guided Choice",
+    "predictable": "Decisions being weighed are usually worked through alone or decided for her rather than thought through together",
+    "themes": [
+      "Guidance",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Lay out the options together out loud, rather than deciding for her.",
+      "Ask what factors matter most to her before offering your own take."
+    ]
+  },
+  {
+    "actionTitle": "The reminder of what's worked before",
+    "text": "If she's facing something she's dealt with before, gently remind her what worked last time, without being condescending.",
+    "effect": "Recalling a past successful strategy offers useful direction grounded in her own history, rather than generic advice. She receives guidance drawn specifically from her own proven experience, which feels more credible than abstract suggestions.",
+    "sectionTitle": "The Guided Choice",
+    "predictable": "Past successful strategies are rarely explicitly recalled and offered as guidance for a similar current situation",
+    "themes": [
+      "Guidance",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Remind her what worked last time, gently, without sounding condescending.",
+      "Ask if the same approach from before might help again this time."
+    ]
+  },
+  {
+    "actionTitle": "The first taste together",
+    "text": "Try a food or drink neither of you has ever had before, at the exact same moment, and compare reactions immediately.",
+    "effect": "Experiencing something entirely new simultaneously creates a genuinely shared first impression rather than one person's experience described secondhand. She gets a real-time, mutual reaction to compare against her own, rather than hearing about it after the fact.",
+    "sectionTitle": "The Shared First Time",
+    "predictable": "New experiences are often had separately and only described to each other afterward rather than lived simultaneously",
+    "themes": [
+      "Shared Experience",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Try it at the exact same moment and compare first reactions immediately.",
+      "Don't warn each other what to expect, let the surprise be genuinely shared."
+    ]
+  },
+  {
+    "actionTitle": "The first watch together",
+    "text": "Watch something neither of you has seen before, and pause it right after to talk about your unfiltered first reactions.",
+    "effect": "Pausing immediately after a shared first viewing captures reactions while they're still raw, rather than filtered through later reflection. She gets your honest, unedited response in the moment, not a summarized version after time has passed.",
+    "sectionTitle": "The Shared First Time",
+    "predictable": "Reactions to new shared media are usually discussed later, filtered rather than captured immediately and unedited",
+    "themes": [
+      "Shared Experience",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pause right after and talk about your unfiltered first reactions.",
+      "Say the very first word that comes to mind before organizing your thoughts."
+    ]
+  },
+  {
+    "actionTitle": "The first attempt at something hard",
+    "text": "Try learning a genuinely difficult skill together for the first time, where neither of you has any advantage over the other.",
+    "effect": "Starting from equal footing on something difficult removes the usual dynamic of one person teaching and the other following. She experiences you both as equally new and vulnerable, which levels a dynamic usually tilted toward one expert.",
+    "sectionTitle": "The Shared First Time",
+    "predictable": "Learning new skills together usually involves one person already having more experience than the other",
+    "themes": [
+      "Shared Experience",
+      "Equality"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick something where neither of you has any real advantage over the other.",
+      "Laugh together at both of your mistakes, rather than one coaching the other."
+    ]
+  },
+  {
+    "actionTitle": "The first time revisited",
+    "text": "Talk together about a genuine 'first' you shared early in the relationship, and notice what's different about experiencing it again now.",
+    "effect": "Revisiting an early shared first, rather than just referencing it in passing, invites a reflective comparison between then and now. She gets to actively compare her past and present self in that same shared moment, deepening the sense of a continuous story.",
+    "sectionTitle": "The Shared First Time",
+    "predictable": "Early shared firsts are usually referenced only briefly in passing rather than genuinely revisited and reflected on",
+    "themes": [
+      "Shared Experience",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Talk about what's genuinely different about experiencing it again now.",
+      "Ask her what she remembers most vividly from that first time."
+    ]
+  },
+  {
+    "actionTitle": "The first no-plan outing",
+    "text": "Go somewhere neither of you has been, with zero research done beforehand, and experience it completely fresh together.",
+    "effect": "Deliberately avoiding research before a shared outing preserves a genuinely unfiltered first impression rather than one shaped by expectations. She experiences discovery in real time alongside you, rather than a moment pre-shaped by prior research.",
+    "sectionTitle": "The Shared First Time",
+    "predictable": "Shared outings are usually researched in advance rather than deliberately experienced with zero prior expectations",
+    "themes": [
+      "Shared Experience",
+      "Adventure"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Go in with zero research done beforehand, experience it completely fresh.",
+      "Resist looking anything up while you're there, just react to what you find."
+    ]
+  },
+  {
+    "actionTitle": "The detail remembered from weeks ago",
+    "text": "Bring up something small she mentioned weeks ago, in passing, and show her you actually remembered it.",
+    "effect": "Recalling a minor detail from weeks earlier proves sustained attention rather than momentary listening that fades quickly. She realizes that even her smallest, most offhand comments are genuinely retained, not just politely heard.",
+    "sectionTitle": "The Thoughtful Detail",
+    "predictable": "Small details mentioned in passing weeks ago are rarely brought up again as proof of sustained attention",
+    "themes": [
+      "Thoughtful",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Bring it up naturally, not as if testing whether she'll notice you remembered.",
+      "Explain briefly why it stuck with you, to show it wasn't just chance recall."
+    ]
+  },
+  {
+    "actionTitle": "The thoughtful substitution",
+    "text": "If something she usually uses or enjoys runs out, quietly replace it with something just as good before she even notices.",
+    "effect": "Noticing and addressing a small unmet need before she does shows attentiveness to her routine that goes beyond the obvious. She experiences continuity in her daily comforts without having to notice a gap or ask for it to be filled.",
+    "sectionTitle": "The Thoughtful Detail",
+    "predictable": "Small routine items running out are usually noticed and addressed by her rather than anticipated and handled first",
+    "themes": [
+      "Thoughtful",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Replace it quietly, before she even notices it's running low.",
+      "Choose something just as good, not just the most convenient option."
+    ]
+  },
+  {
+    "actionTitle": "The thoughtful timing",
+    "text": "Do something kind for her at a moment you know is specifically hard for her, rather than a random convenient time.",
+    "effect": "Timing a thoughtful gesture to a known difficult moment, rather than convenience, shows attentiveness to her actual emotional patterns. She receives support precisely when it's most needed, rather than at a moment that's simply easiest for you.",
+    "sectionTitle": "The Thoughtful Detail",
+    "predictable": "Thoughtful gestures are often timed for convenience rather than deliberately aligned with a known difficult moment for her",
+    "themes": [
+      "Thoughtful",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Time it specifically to a moment you know is hard for her.",
+      "Don't make a big deal of the timing, just let the gesture land quietly."
+    ]
+  },
+  {
+    "actionTitle": "The thoughtful question about her day",
+    "text": "Instead of asking 'how was your day', ask about one specific thing you know she had going on today.",
+    "effect": "Referencing a specific known event, rather than a generic question, proves you were tracking the actual content of her day. She feels her day was genuinely followed, not just politely inquired about in the vaguest possible way.",
+    "sectionTitle": "The Thoughtful Detail",
+    "predictable": "Check-ins about the day usually default to a generic question rather than referencing something specific you knew about",
+    "themes": [
+      "Thoughtful",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask about the specific thing you knew she had going on today.",
+      "Follow up on how it actually went, not just whether it happened."
+    ]
+  },
+  {
+    "actionTitle": "The thoughtful adjustment",
+    "text": "Notice one small thing in your shared routine that's been mildly inconvenient for her, and quietly fix it without announcement.",
+    "effect": "Fixing a minor inconvenience she hasn't explicitly complained about shows observational care beyond simply responding to stated complaints. She experiences a small friction disappearing from her life without having had to raise it herself.",
+    "sectionTitle": "The Thoughtful Detail",
+    "predictable": "Minor unaddressed inconveniences usually persist until explicitly raised rather than being quietly noticed and fixed",
+    "themes": [
+      "Thoughtful",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fix it quietly, without announcing that you did it.",
+      "Pick something small enough that she probably assumed it wasn't worth mentioning."
+    ]
+  },
+  {
+    "actionTitle": "The equal turn",
+    "text": "The next time you do something kind for her, ask directly what you can do for each other equally, turn for turn.",
+    "effect": "Explicitly proposing an equal exchange, rather than a one-sided gesture, frames kindness as a mutual practice rather than a favor owed. She experiences generosity offered as part of a balanced back-and-forth, not as a gift she now has to repay unprompted.",
+    "sectionTitle": "The Equal Exchange",
+    "predictable": "Kind gestures are usually offered one-sidedly rather than explicitly framed as part of a balanced, mutual exchange",
+    "themes": [
+      "Reciprocity",
+      "Equity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask directly what you can do for each other, turn for turn.",
+      "Follow through on your own turn promptly, not just hers."
+    ]
+  },
+  {
+    "actionTitle": "The favor returned unprompted",
+    "text": "Think of the last thing she did for you without being asked, and return an equivalent favor without her having to ask either.",
+    "effect": "Proactively returning an unprompted favor, rather than waiting to be asked, demonstrates that reciprocity is remembered and valued. She sees that her generosity toward you doesn't go unnoticed or require prompting to be matched.",
+    "sectionTitle": "The Equal Exchange",
+    "predictable": "Unprompted favors are often not explicitly matched with an equally unprompted favor in return",
+    "themes": [
+      "Reciprocity",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Return an equivalent favor without her having to ask, just like she did for you.",
+      "Reference what she did for you, so she knows this is a direct response to it."
+    ]
+  },
+  {
+    "actionTitle": "The listening turned around",
+    "text": "After she listens to you vent about something, ask her directly if there's something on her mind she'd like the same space for.",
+    "effect": "Actively offering the same listening space you just received ensures emotional support flows both directions, not just toward you. She's given an explicit invitation to receive the same attentive listening she just provided, rather than it being assumed as one-directional.",
+    "sectionTitle": "The Equal Exchange",
+    "predictable": "Emotional listening space is sometimes given mostly in one direction rather than explicitly offered back in return",
+    "themes": [
+      "Reciprocity",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask directly if there's something she'd like the same listening space for.",
+      "Give her your full attention in return, the same way she just gave you hers."
+    ]
+  },
+  {
+    "actionTitle": "The compliment matched",
+    "text": "The next time she compliments you, take a moment to give her an equally thoughtful compliment in return, not just a quick thanks.",
+    "effect": "Matching a received compliment with an equally considered one, rather than a brief acknowledgment, keeps appreciation flowing both ways. She experiences a genuine two-way exchange of recognition, rather than being the only one who regularly offers it.",
+    "sectionTitle": "The Equal Exchange",
+    "predictable": "Compliments received are often met with a quick thanks rather than an equally thoughtful compliment in return",
+    "themes": [
+      "Reciprocity",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Give her an equally thoughtful compliment in return, not just a quick thanks.",
+      "Take a moment to actually think of something specific, rather than a generic reply."
+    ]
+  },
+  {
+    "actionTitle": "The chore swap for a day",
+    "text": "Offer to swap one of your usual responsibilities with one of hers for a day, just to share the load differently for once.",
+    "effect": "Proposing a temporary swap of responsibilities shows willingness to genuinely share the load, not just assist within a fixed division. She experiences a concrete, if temporary, rebalancing of effort rather than the same fixed roles continuing indefinitely.",
+    "sectionTitle": "The Equal Exchange",
+    "predictable": "Divisions of responsibility tend to stay fixed rather than being occasionally and deliberately swapped to share the load",
+    "themes": [
+      "Reciprocity",
+      "Equity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Offer to swap one of your usual responsibilities with one of hers for a day.",
+      "Follow through fully on her task, not just a partial effort."
+    ]
+  },
+  {
+    "actionTitle": "The streamlined morning",
+    "text": "Set up one small system together that makes your shared morning routine measurably smoother, and actually test it out.",
+    "effect": "Deliberately designing a smoother routine, rather than tolerating daily friction, shows investment in genuinely improving shared time. She experiences mornings that run more smoothly because effort was consciously put into removing friction.",
+    "sectionTitle": "The Smooth Handoff",
+    "predictable": "Daily friction in shared routines is often tolerated rather than deliberately addressed with a designed improvement",
+    "themes": [
+      "Efficiency",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Set up the system together, then actually test it out for real.",
+      "Adjust it after the first try if something about it didn't quite work."
+    ]
+  },
+  {
+    "actionTitle": "The handoff that actually works",
+    "text": "If you're handing off a task to her, or she's handing one to you, make sure all the needed information is given clearly upfront.",
+    "effect": "Providing complete information upfront when handing off a task avoids the friction of follow-up questions later. She receives a smooth transition rather than having to circle back with clarifying questions you could have anticipated.",
+    "sectionTitle": "The Smooth Handoff",
+    "predictable": "Task handoffs often require follow-up questions rather than including all needed information upfront",
+    "themes": [
+      "Efficiency",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Give all the needed information clearly upfront, not piecemeal later.",
+      "Ask if anything is unclear before considering the handoff complete."
+    ]
+  },
+  {
+    "actionTitle": "The errand combined",
+    "text": "Look at your errands and hers for the week and see if any can be combined or handled together more efficiently.",
+    "effect": "Actively looking for ways to combine tasks demonstrates a shared-systems mindset rather than treating each person's errands as separate. She experiences a reduction in overall effort because logistics were thought through together rather than duplicated separately.",
+    "sectionTitle": "The Smooth Handoff",
+    "predictable": "Errands and tasks are usually planned separately rather than actively reviewed together for possible efficiency gains",
+    "themes": [
+      "Efficiency",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Look at both lists together and combine what can genuinely be combined.",
+      "Actually follow through on the combined plan, not just the idea of it."
+    ]
+  },
+  {
+    "actionTitle": "The one thing that keeps going wrong",
+    "text": "Identify the one recurring small hassle in your shared routine that keeps causing friction, and actually fix the root cause.",
+    "effect": "Addressing a recurring hassle at its root, rather than repeatedly patching the symptom, shows real investment in long-term ease. She experiences a persistent irritation finally resolved, rather than continuing to quietly deal with it over and over.",
+    "sectionTitle": "The Smooth Handoff",
+    "predictable": "Recurring small hassles are often repeatedly tolerated or patched rather than fixed at their actual root cause",
+    "themes": [
+      "Efficiency",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Identify the actual root cause, not just the symptom you keep noticing.",
+      "Fix it together so you both understand why it happened before."
+    ]
+  },
+  {
+    "actionTitle": "The plan that saves a step",
+    "text": "Before your next shared task or outing, take two minutes to plan it out so you're not backtracking or repeating steps.",
+    "effect": "Taking a brief moment to plan ahead prevents wasted effort from backtracking, showing respect for both of your time and energy. She experiences a task completed more smoothly because a small planning investment paid off in avoided friction.",
+    "sectionTitle": "The Smooth Handoff",
+    "predictable": "Shared tasks or outings are often started without a brief planning step, leading to avoidable backtracking",
+    "themes": [
+      "Efficiency",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take two minutes to plan it out before starting, together.",
+      "Identify any step you're likely to forget or repeat, and fix it in advance."
+    ]
+  },
+  {
+    "actionTitle": "The honest pattern named",
+    "text": "Name out loud to her a pattern in your own behavior that you've noticed affects the relationship, before she has to point it out.",
+    "effect": "Proactively naming your own pattern, rather than waiting for her to point it out, shows genuine self-reflection rather than defensiveness. She experiences a partner actively examining his own behavior, rather than only reacting once confronted about it.",
+    "sectionTitle": "The Honest Self-Check",
+    "predictable": "Behavioral patterns affecting the relationship are usually pointed out by her rather than proactively named by you first",
+    "themes": [
+      "Self-awareness",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Name it before she has to point it out, plainly and without excuses.",
+      "Share what you plan to do differently, not just the observation itself."
+    ]
+  },
+  {
+    "actionTitle": "The reaction examined afterward",
+    "text": "After reacting strongly to something small today, take a moment to reflect honestly on why it hit you the way it did, and share that with her.",
+    "effect": "Reflecting on and sharing the reasoning behind a strong reaction shows willingness to understand yourself rather than just apologize and move on. She gains insight into your inner world, rather than just witnessing the reaction without any explanation.",
+    "sectionTitle": "The Honest Self-Check",
+    "predictable": "Strong reactions to small things are usually followed by an apology rather than genuine shared reflection on the cause",
+    "themes": [
+      "Self-awareness",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reflect honestly on why it hit you that way, then actually share it with her.",
+      "Avoid minimizing your reaction, just try to genuinely understand it."
+    ]
+  },
+  {
+    "actionTitle": "The habit you're working on",
+    "text": "Tell her about one specific habit you're actively trying to change, and ask her to help hold you accountable for it.",
+    "effect": "Sharing a personal growth goal and inviting accountability shows trust in her and genuine commitment beyond private intention. She's brought into your process of self-improvement as an active partner, not just an observer of eventual change.",
+    "sectionTitle": "The Honest Self-Check",
+    "predictable": "Personal habits being worked on are usually kept private rather than shared with an explicit invitation for accountability",
+    "themes": [
+      "Self-awareness",
+      "Trust"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask her directly to help hold you accountable for it.",
+      "Check in with her about your progress rather than letting her have to ask."
+    ]
+  },
+  {
+    "actionTitle": "The moment you almost snapped",
+    "text": "If you catch yourself about to react poorly to something, name it out loud in the moment: 'I'm about to snap, give me a second.'",
+    "effect": "Naming an impending poor reaction in real time, rather than after the fact, shows active self-monitoring that protects the interaction as it happens. She witnesses self-awareness functioning live, in the moment it matters most, rather than only in retrospective apology.",
+    "sectionTitle": "The Honest Self-Check",
+    "predictable": "Self-awareness about a poor reaction usually surfaces only after the fact, in apology, rather than in the moment itself",
+    "themes": [
+      "Self-awareness",
+      "Maîtrise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Name it out loud in the moment, and take the second you need.",
+      "Follow up afterward on what actually triggered it, once you've calmed down."
+    ]
+  },
+  {
+    "actionTitle": "The question about your own blind spot",
+    "text": "Ask her directly if there's a blind spot in how you show up in the relationship that you might not be seeing yourself.",
+    "effect": "Directly soliciting feedback on a personal blind spot shows genuine openness to growth rather than defensive avoidance of critique. She's given real permission to name something honestly, rather than having to find an indirect way to raise it herself.",
+    "sectionTitle": "The Honest Self-Check",
+    "predictable": "Personal blind spots in the relationship are rarely directly solicited, usually surfacing only when indirectly raised by her",
+    "themes": [
+      "Self-awareness",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask directly if there's a blind spot you might not be seeing yourself.",
+      "Actually listen to the answer without getting defensive about it."
+    ]
+  },
+  {
+    "actionTitle": "The skill you're building together",
+    "text": "Pick something neither of you is good at yet and commit to genuinely improving at it together over the next month.",
+    "effect": "Committing to a shared growth process over time, rather than a one-off attempt, shows sustained investment in developing together. She experiences ongoing, shared progress rather than an isolated activity with no continuity or follow-through.",
+    "sectionTitle": "The Growth Moment",
+    "predictable": "Shared activities are often one-off attempts rather than sustained commitments to genuinely improve together over time",
+    "themes": [
+      "Growth",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Commit to genuinely improving at it together over the next month.",
+      "Check in on your progress together partway through, not just at the end."
+    ]
+  },
+  {
+    "actionTitle": "The growth acknowledged out loud",
+    "text": "Tell her specifically how you've seen her grow in some way over the past months, citing a concrete example.",
+    "effect": "Naming specific personal growth, backed by a concrete example, validates development that might otherwise go unrecognized. She hears her own progress reflected back to her clearly, rather than assuming it went unnoticed by anyone but herself.",
+    "sectionTitle": "The Growth Moment",
+    "predictable": "Personal growth over time often goes unacknowledged by others, even when clearly visible in hindsight",
+    "themes": [
+      "Growth",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cite a concrete example of how you've seen her grow.",
+      "Tell her specifically what that growth has meant to you, too."
+    ]
+  },
+  {
+    "actionTitle": "The uncomfortable growth step",
+    "text": "Encourage her to take one small step outside her comfort zone this week, and genuinely support her through it either way it goes.",
+    "effect": "Encouraging a growth step while genuinely supporting any outcome removes the pressure of needing to succeed to be validated. She feels supported in the attempt itself, not just conditionally praised if the outcome happens to go well.",
+    "sectionTitle": "The Growth Moment",
+    "predictable": "Encouragement toward growth is sometimes conditional on success rather than genuinely offered regardless of outcome",
+    "themes": [
+      "Growth",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Support her through it either way it goes, not just if it succeeds.",
+      "Check in afterward on how it felt, not just on the result."
+    ]
+  },
+  {
+    "actionTitle": "The old version of you named",
+    "text": "Tell her honestly about a way you used to be that you're not anymore, and what changed that.",
+    "effect": "Reflecting openly on personal change over time shows self-awareness of growth and invites her into that evolving story. She gains insight into your development as a person, not just the current version of you she already knows.",
+    "sectionTitle": "The Growth Moment",
+    "predictable": "Personal evolution over time is rarely reflected on openly and shared as an honest before-and-after story",
+    "themes": [
+      "Growth",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be honest about what actually changed and why.",
+      "Ask her if she's noticed that shift too, from her own perspective."
+    ]
+  },
+  {
+    "actionTitle": "The growth you want to see in yourself",
+    "text": "Share with her one specific way you'd like to grow in the coming year, something real, not just a vague resolution.",
+    "effect": "Naming a specific, genuine growth intention, rather than a vague resolution, invites her into a real conversation about your future self. She gets insight into your actual aspirations for personal change, not just a passing New Year's-style statement.",
+    "sectionTitle": "The Growth Moment",
+    "predictable": "Growth intentions are often kept vague or unspoken rather than shared specifically and genuinely with a partner",
+    "themes": [
+      "Growth",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be specific and real, not just a vague resolution.",
+      "Ask her if she has a similar growth intention of her own to share too."
+    ]
+  },
+  {
+    "actionTitle": "The commitment restated in action",
+    "text": "Pick one small promise you've made to her before, and follow through on it today in a way she can clearly see.",
+    "effect": "Following through visibly on a previously stated promise proves commitment through demonstrated action rather than words alone. She sees a past commitment made real and tangible, rather than left as a statement that was simply said once.",
+    "sectionTitle": "The Standing Commitment",
+    "predictable": "Past promises are often stated once and then left unconfirmed, rather than followed through on visibly later",
+    "themes": [
+      "Commitment",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Follow through on it today in a way she can clearly see.",
+      "Don't mention that you're doing it on purpose, just let the action speak."
+    ]
+  },
+  {
+    "actionTitle": "The commitment named without prompting",
+    "text": "Tell her plainly, without any lead-up or occasion, that you're fully committed to this relationship and to her.",
+    "effect": "Stating commitment plainly and without prompting reinforces it as an active, ongoing choice rather than something assumed silently. She hears your commitment affirmed directly, rather than having to infer it only from your actions.",
+    "sectionTitle": "The Standing Commitment",
+    "predictable": "Commitment to the relationship is often assumed silently rather than plainly stated without any specific occasion prompting it",
+    "themes": [
+      "Commitment",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Say it plainly, without any particular lead-up or occasion.",
+      "Follow it with one specific reason why, to make it feel concrete."
+    ]
+  },
+  {
+    "actionTitle": "The commitment through the hard patch",
+    "text": "During a difficult stretch, tell her clearly that this difficulty doesn't change your commitment to working through it together.",
+    "effect": "Explicitly reaffirming commitment specifically during difficulty shows it holds under real pressure, not just in easy circumstances. She receives direct reassurance that hardship isn't shaking the foundation of your commitment to her.",
+    "sectionTitle": "The Standing Commitment",
+    "predictable": "Commitment is often assumed to hold during hardship rather than explicitly reaffirmed in the middle of a difficult stretch",
+    "themes": [
+      "Commitment",
+      "Reassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tell her clearly that this difficulty doesn't change your commitment.",
+      "Follow it with a concrete way you plan to work through it together."
+    ]
+  },
+  {
+    "actionTitle": "The commitment to a small standing ritual",
+    "text": "Commit explicitly to one small ritual becoming a permanent, non-negotiable part of your routine together, and say so out loud.",
+    "effect": "Explicitly declaring a small ritual as permanent and non-negotiable elevates it from a casual habit to a genuine standing commitment. She understands a small shared practice as something you've deliberately decided to protect long-term, not something that might quietly fade.",
+    "sectionTitle": "The Standing Commitment",
+    "predictable": "Small shared rituals often stay casual rather than being explicitly declared as a permanent, protected commitment",
+    "themes": [
+      "Commitment",
+      "Regularity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Say out loud that it's becoming a permanent, non-negotiable part of your routine.",
+      "Protect it from being skipped, even when something else feels more urgent."
+    ]
+  },
+  {
+    "actionTitle": "The commitment to figuring it out together",
+    "text": "On a bigger unresolved question facing you both, commit clearly to figuring it out together rather than avoiding it.",
+    "effect": "Committing explicitly to face a difficult unresolved question together, rather than avoiding it, demonstrates real investment in resolution. She experiences a clear, stated intention to work through something hard together, rather than an indefinite avoidance of the topic.",
+    "sectionTitle": "The Standing Commitment",
+    "predictable": "Bigger unresolved questions are often avoided indefinitely rather than met with an explicit commitment to work through them",
+    "themes": [
+      "Commitment",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Commit clearly to figuring it out together rather than avoiding it.",
+      "Suggest an actual time to sit down and start working through it."
+    ]
+  },
+  {
+    "actionTitle": "The invisible labor named",
+    "text": "Name out loud one piece of invisible labor she regularly does that usually goes unacknowledged, and thank her for it specifically.",
+    "effect": "Explicitly naming invisible labor, rather than letting it remain unspoken, validates effort that's easy to take for granted. She hears specific acknowledgment of work that usually goes completely unnoticed, not just a general thanks.",
+    "sectionTitle": "The Fair Share",
+    "predictable": "Invisible labor performed regularly usually goes unnamed and unacknowledged rather than specifically recognized",
+    "themes": [
+      "Equity",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Name the specific piece of invisible labor, not just a general thanks.",
+      "Follow it by actually taking that task off her plate at least once."
+    ]
+  },
+  {
+    "actionTitle": "The equal say in a decision that affects you both",
+    "text": "On an upcoming decision that affects you both, make sure her input carries equal weight to yours, even if you disagree initially.",
+    "effect": "Deliberately equalizing decision-making weight, even amid disagreement, ensures fairness isn't just assumed but actively practiced. She experiences her voice genuinely shaping outcomes, not just being heard as a formality before your preference wins out.",
+    "sectionTitle": "The Fair Share",
+    "predictable": "Decisions affecting both partners sometimes default to one person's preference rather than genuinely equal weighting",
+    "themes": [
+      "Equity",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Make sure her input carries equal weight, even amid initial disagreement.",
+      "If you land on your preference anyway, explain clearly why, not just default to it."
+    ]
+  },
+  {
+    "actionTitle": "The equal access to rest",
+    "text": "Check honestly whether you're both getting an equal amount of genuine rest and downtime lately, and adjust if not.",
+    "effect": "Explicitly auditing rest distribution, rather than assuming it's balanced, catches an imbalance that often goes unexamined. She benefits from an active check on whether her downtime is genuinely equal to yours, not just assumed to be fine.",
+    "sectionTitle": "The Fair Share",
+    "predictable": "The balance of rest and downtime between partners is rarely explicitly checked, usually just assumed to be fine",
+    "themes": [
+      "Equity",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Check honestly whether you're both getting equal genuine rest lately.",
+      "If it's unbalanced, actually adjust something concrete this week."
+    ]
+  },
+  {
+    "actionTitle": "The equal credit given",
+    "text": "The next time you tell someone about a shared success, make sure you explicitly credit her contribution, not just your own part.",
+    "effect": "Explicitly crediting her contribution when recounting a shared success ensures recognition isn't skewed toward whoever tells the story. She hears her role in a joint success acknowledged publicly, rather than quietly absorbed into a one-sided account.",
+    "sectionTitle": "The Fair Share",
+    "predictable": "Shared successes are sometimes recounted with uneven credit rather than explicitly acknowledging both contributions",
+    "themes": [
+      "Equity",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Explicitly credit her contribution, not just your own part of it.",
+      "Be specific about what she actually did, not just a vague mention."
+    ]
+  },
+  {
+    "actionTitle": "The fair check on financial decisions",
+    "text": "On a shared financial decision, make sure her preferences and priorities are given equal consideration to yours before deciding.",
+    "effect": "Ensuring equal consideration of financial priorities, rather than one person's preferences dominating, applies fairness to a commonly imbalanced area. She experiences genuine influence over shared financial decisions, not just token input before a predetermined outcome.",
+    "sectionTitle": "The Fair Share",
+    "predictable": "Financial decisions sometimes default to one partner's preferences dominating rather than genuinely equal consideration",
+    "themes": [
+      "Equity",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Make sure her priorities get equal consideration before deciding.",
+      "Ask directly what matters most to her financially before sharing your own view."
+    ]
+  },
+  {
+    "actionTitle": "The two-way vulnerability",
+    "text": "After she shares something vulnerable with you, share something equally vulnerable back, rather than just responding to hers.",
+    "effect": "Matching vulnerability with vulnerability, rather than only receiving hers, ensures emotional openness flows in both directions. She experiences an exchange of genuine openness, not a dynamic where she's consistently the only one being vulnerable.",
+    "sectionTitle": "The Two-Way Street",
+    "predictable": "Vulnerable sharing sometimes flows mostly in one direction rather than being genuinely matched and reciprocated",
+    "themes": [
+      "Mutuality",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Share something equally vulnerable back, not just respond to hers.",
+      "Don't rush past her moment to get to yours, let both have real space."
+    ]
+  },
+  {
+    "actionTitle": "The mutual check-in",
+    "text": "Ask her how you're doing as a partner right now, genuinely open to hearing something you might not want to hear.",
+    "effect": "Actively soliciting honest feedback about your own role reinforces the relationship as a two-way, mutually examined partnership. She's invited to offer honest input on the relationship's health, not just receive check-ins about her own wellbeing.",
+    "sectionTitle": "The Two-Way Street",
+    "predictable": "Check-ins about the relationship sometimes focus on her wellbeing without equally inviting feedback on your own role",
+    "themes": [
+      "Mutuality",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask genuinely, open to hearing something you might not want to hear.",
+      "Actually sit with her answer rather than getting defensive about it."
+    ]
+  },
+  {
+    "actionTitle": "The mutual dependence named",
+    "text": "Tell her honestly about one way you actually depend on her, not just what you provide for her.",
+    "effect": "Naming a genuine dependency on her, rather than only framing yourself as the provider, reframes the relationship as mutually supportive. She sees herself as someone you genuinely rely on too, not just someone who receives your support one-directionally.",
+    "sectionTitle": "The Two-Way Street",
+    "predictable": "Relationships are sometimes framed around one partner providing for the other rather than genuine mutual dependence",
+    "themes": [
+      "Mutuality",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tell her honestly one way you actually depend on her.",
+      "Be specific, not just a general statement that you need her."
+    ]
+  },
+  {
+    "actionTitle": "The shared responsibility for the mood",
+    "text": "If the mood between you feels off today, take responsibility for your half of it rather than waiting for her to fix it.",
+    "effect": "Taking responsibility for your own half of a shared mood, rather than waiting passively, treats emotional atmosphere as a mutual responsibility. She experiences a partner actively contributing to repairing the mood, not one who waits for her to carry that effort alone.",
+    "sectionTitle": "The Two-Way Street",
+    "predictable": "An off mood between partners is sometimes left for one person to fix rather than treated as a mutual responsibility",
+    "themes": [
+      "Mutuality",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take responsibility for your half of it rather than waiting for her to fix it.",
+      "Ask what you could each do right now to shift it together."
+    ]
+  },
+  {
+    "actionTitle": "The mutual list of what you give each other",
+    "text": "Sit down together and each list a few things you feel you genuinely give the other, then compare and discuss honestly.",
+    "effect": "Explicitly comparing perceived mutual contributions surfaces any mismatch in perception before it becomes an unspoken source of resentment. She gets a concrete, honest look at how contributions are perceived on both sides, rather than assuming they're seen the same way.",
+    "sectionTitle": "The Two-Way Street",
+    "predictable": "Perceptions of what each partner contributes are rarely explicitly compared, often just assumed to align",
+    "themes": [
+      "Mutuality",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "List a few things you each feel you genuinely give the other, honestly.",
+      "Compare the lists together and discuss anything that surprises either of you."
+    ]
   }
 ]
