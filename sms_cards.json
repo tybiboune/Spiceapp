@@ -13335,5 +13335,164 @@
       "Je le dirai jamais à moitié : vraiment heureux avec toi, sans réserve, sans condition.",
       "Sans détour : heureux avec toi, pleinement, sans aucune condition à ça."
     ]
+  },
+  {
+    "actionTitle": "Le compliment à trois mots",
+    "text": "Trois mots seulement, sans contexte ni explication, qui décrivent ce que tu ressens pour elle à cet instant (ex : 'Fière, forte, toi.').",
+    "effect": "La contrainte du format la pousse à réfléchir à chaque mot choisi, ce qui rend le compliment plus dense émotionnellement. Elle savoure la simplicité brute du message, sans fioriture. Ce petit rituel peut devenir un jeu récurrent entre vous.",
+    "sectionTitle": "SMS - Les mots qui atterrissent au bon moment",
+    "predictable": "Les messages du quotidien sont surtout fonctionnels ou liés à la logistique du jour.",
+    "themes": [
+      "Poetic",
+      "Communication",
+      "Romantic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Demande-lui en retour de te décrire en trois mots, pour en faire un échange régulier.",
+      "Choisis trois mots qui décrivent un souvenir précis de la semaine plutôt qu'un sentiment général."
+    ]
+  },
+  {
+    "actionTitle": "L'Ultimatum du Désir",
+    "text": "Tu as jusqu'à ce soir 21h pour me dire une chose que tu meurs d'envie que je te fasse. Passé ce délai, c'est moi qui déciderai pour nous deux, et je ne serai pas tendre dans mon choix.",
+    "effect": "La contrainte de temps la pousse à sortir de sa réserve habituelle pour formuler un désir clair, plutôt que de rester dans l'implicite. Le risque assumé de te laisser décider si elle ne répond pas ajoute une tension excitante entre reprise de contrôle et abandon volontaire.",
+    "sectionTitle": "SMS - L'Autorité Bienveillante",
+    "predictable": "Remplace les envies jamais formulées clairement, laissées à l'implicite par pudeur.",
+    "themes": [
+      "Dominance",
+      "Desire",
+      "Power Dynamics"
+    ],
+    "dramaIntensity": 5,
+    "sexualIntensity": 5,
+    "variations": [
+      "Raccourcis le délai à une heure seulement pour intensifier la pression et l'urgence du choix.",
+      "Si elle ne répond pas dans les temps, prépare une enveloppe scellée à l'avance contenant ta propre décision, à ouvrir ensemble le soir."
+    ]
+  },
+  {
+    "actionTitle": "L'Éloge Retardé",
+    "text": "J'ai remarqué quelque chose d'incroyable chez toi aujourd'hui. Je te le dirai ce soir.",
+    "effect": "Elle passe la journée à se demander de quoi il s'agit, ce qui installe une anticipation légère et agréable sans aucune ambiguïté déplacée. Le compliment livré le soir prend d'autant plus de valeur qu'elle l'a attendu, et se sent vraiment observée plutôt que flattée au hasard.",
+    "sectionTitle": "SMS - Le jeu discret du quotidien",
+    "predictable": "Remplace le compliment instantané, vite dit et vite oublié, par une promesse tenue qui prolonge l'attention dans le temps.",
+    "themes": [
+      "Compliment",
+      "Intrigue",
+      "Tender"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais la même chose avec un souvenir plutôt qu'un compliment : 'Un souvenir de nous m'est revenu aujourd'hui, je te le raconte ce soir.'",
+      "Inverse le jeu : demande-lui de te dire, elle aussi, une chose qu'elle a remarquée chez toi, à révéler seulement au moment du dîner."
+    ]
+  },
+  {
+    "actionTitle": "Le Contrat du Parfum Imposé",
+    "text": "Aujourd'hui, porte tel parfum précis. J'ai une raison, tu la sauras ce soir.",
+    "effect": "Elle passe sa journée avec une petite énigme en tête, se sentant choisie et pensée à distance de manière très concrète. La révélation du soir, sensorielle et personnelle, transforme un choix anodin en un fil narratif que vous partagez tous les deux.",
+    "sectionTitle": "SMS - Le langage secret",
+    "predictable": "Remplace le message du matin classique du type 'Bonne journée, je t'aime'.",
+    "themes": [
+      "Secret Language",
+      "Desire",
+      "Power Dynamics"
+    ],
+    "dramaIntensity": 3,
+    "sexualIntensity": 2,
+    "variations": [
+      "Demande-lui de porter une couleur précise (pas un vêtement particulier, juste une teinte) et révèle le soir venu ce que cette couleur évoque pour toi.",
+      "Choisis pour elle la musique qu'elle doit écouter pendant son trajet du matin, et explique le soir le lien secret entre ce morceau et vous deux."
+    ]
+  },
+  {
+    "actionTitle": "Le message avant l'arrivée",
+    "text": "Cinq minutes avant qu'elle rentre, envoie-lui un message qui la fait sourire, pour qu'elle arrive déjà de bonne humeur.",
+    "effect": "Préparer son humeur avant même son arrivée physique montre une attention anticipative plutôt que réactive. Elle franchit la porte avec un sourire déjà là, ce qui change la tonalité de toute la soirée.",
+    "sectionTitle": "SMS - Le rituel de la porte",
+    "predictable": "L'humeur du retour dépend uniquement de la journée vécue, sans intervention extérieure",
+    "themes": [
+      "Playful",
+      "Care",
+      "Tender"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Envoie une photo ou un mot doux juste avant qu'elle ne prenne le chemin du retour.",
+      "Prépare une petite musique ou une ambiance particulière pour son arrivée, sans qu'elle s'y attende."
+    ]
+  },
+  {
+    "actionTitle": "La chanson qui te fait penser à elle",
+    "text": "Envoie-lui une chanson en expliquant précisément pourquoi elle te fait penser à elle en ce moment.",
+    "effect": "Associer explicitement un choix musical à sa personne rend visible un processus de pensée normalement invisible et privé. Elle découvre qu'elle occupe une place dans tes pensées même à travers des déclencheurs aussi anodins qu'une chanson entendue par hasard.",
+    "sectionTitle": "SMS - Playlist commune en construction",
+    "predictable": "Les pensées spontanées la concernant restent généralement invisibles et non partagées",
+    "themes": [
+      "Tendresse",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Explique le lien précis, que ce soit les paroles, le rythme ou une ambiance particulière.",
+      "Envoie-la sans explication et laisse-la deviner pourquoi, avant de révéler la vraie raison."
+    ]
+  },
+  {
+    "actionTitle": "Le message du même moment chaque jour",
+    "text": "Choisis un moment précis de la journée, comme midi ou dix-huit heures, et envoie-lui systématiquement un message à cette heure-là, chaque jour cette semaine.",
+    "effect": "Créer une régularité temporelle précise dans les échanges quotidiens installe un point de repère fiable au milieu d'une journée autrement imprévisible. Elle sait qu'à un moment précis de sa journée, une pensée pour elle arrive toujours, sans exception.",
+    "sectionTitle": "SMS - Le rythme qu'on ne lâche pas",
+    "predictable": "Les messages échangés au cours de la journée arrivent généralement à des moments aléatoires plutôt qu'à une heure fixe et répétée",
+    "themes": [
+      "Régularité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis une heure réaliste que tu pourras vraiment tenir chaque jour.",
+      "Varie le contenu du message tout en gardant l'heure fixe, pour éviter la routine ennuyeuse."
+    ]
+  },
+  {
+    "actionTitle": "Le message de milieu de journée",
+    "text": "Tout va bien entre nous, je pense à toi.",
+    "effect": "Envoyer une réassurance sans lien avec un événement précis prouve qu'elle n'a pas besoin d'un problème pour recevoir ce genre de confirmation. Elle reçoit une tranquillité d'esprit offerte gratuitement, sans qu'un doute ait eu besoin d'être exprimé au préalable.",
+    "sectionTitle": "SMS - La parole qui rassure",
+    "predictable": "Les messages de réassurance sont généralement envoyés en réaction à un doute plutôt que gratuitement, sans déclencheur",
+    "themes": [
+      "Réassurance",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Envoie-le à un moment complètement ordinaire, sans lien avec un événement particulier.",
+      "Garde-le simple, sans sur-expliquer, juste la confirmation elle-même."
+    ]
+  },
+  {
+    "actionTitle": "Le Compliment Avant l'Épreuve",
+    "text": "Le matin d'un jour important pour elle (entretien, présentation, rendez-vous stressant), envoie un message qui ne parle pas de son physique mais d'une compétence précise qu'elle possède : 'Ton calme sous pression est une arme secrète, ils ne savent pas ce qui les attend.'",
+    "effect": "Elle se sent soutenue dans sa compétence et sa force, pas seulement rassurée affectivement. Ce type de compliment nourrit sa confiance au moment exact où elle en a besoin.",
+    "sectionTitle": "SMS - Les preuves d'admiration",
+    "predictable": "Remplace le 'bonne chance, ça va bien se passer' générique par une reconnaissance précise d'une qualité réelle.",
+    "themes": [
+      "Confidence",
+      "Compliment",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Laisse un mot manuscrit sur la table du petit-déjeuner citant un moment précis où tu l'as vue faire preuve de cette qualité.",
+      "Appelle-la deux minutes avant l'épreuve, pas pour parler de l'épreuve, mais pour lui raconter une blague qui la fera rire juste avant."
+    ]
   }
 ]

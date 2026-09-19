@@ -13432,5 +13432,40 @@
       "Un jour tu verras ici ce que je vois déjà, quelqu'un de vraiment remarquable.",
       "Tu verras un jour dans ce miroir ce que je vois depuis longtemps, une personne remarquable."
     ]
+  },
+  {
+    "actionTitle": "Le Message dans la Bouteille",
+    "text": "Écris un mot court et intrigant sur un bout de papier ('Ce que je veux te faire ce soir tient en une phrase, mais tu ne la liras qu'à 21h'), roule-le et glisse-le dans une bouteille vide ou un petit flacon que tu poses bien en évidence sur la table, sans un mot d'explication.",
+    "effect": "Toute la fin d'après-midi, elle repense à cette bouteille sur la table et à l'heure fixée. L'attente devient un compte à rebours ludique qu'elle porte avec elle, ce qui construit une anticipation bien plus forte qu'une annonce directe.",
+    "sectionTitle": "Post-its - L'Art de l'Attente",
+    "predictable": "Annoncer directement ce que tu as envie de faire le soir même, sans laisser de place au mystère ni à l'attente.",
+    "themes": [
+      "Mysterious",
+      "Adventure",
+      "Secret Language"
+    ],
+    "dramaIntensity": 3,
+    "sexualIntensity": 3,
+    "variations": [
+      "Cache le mot dans sa trousse de maquillage avec l'inscription 'À lire seulement si tu oses.'",
+      "Envoie une photo de la bouteille scellée par message avec juste 'Le compte à rebours a commencé', sans autre détail."
+    ]
+  },
+  {
+    "actionTitle": "La gratitude sur un post-it caché",
+    "text": "Écris sur un post-it une chose précise que tu apprécies chez elle aujourd'hui, et cache-le dans un endroit qu'elle visitera bientôt.",
+    "effect": "Combiner l'écrit et la surprise physique intensifie l'impact d'une reconnaissance qui pourrait autrement se limiter à des mots dits en passant. Elle découvre une preuve tangible et inattendue de reconnaissance au moment où elle s'y attend le moins.",
+    "sectionTitle": "Post-its - La liste de gratitude à deux",
+    "predictable": "La reconnaissance exprimée reste généralement verbale plutôt que matérialisée en surprise physique",
+    "themes": [
+      "Reconnaissance",
+      "Surprise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois très précis sur ce que tu apprécies, pas juste général.",
+      "Cache-le à un endroit lié directement à ce que tu apprécies chez elle."
+    ]
   }
 ]

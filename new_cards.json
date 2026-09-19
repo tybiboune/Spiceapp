@@ -288,24 +288,6 @@
     ]
   },
   {
-    "actionTitle": "Le compliment à trois mots",
-    "text": "Envoie-lui un message avec exactement trois mots, sans contexte ni explication, qui décrivent ce que tu ressens pour elle à cet instant (ex : 'Fière, forte, toi.').",
-    "effect": "La contrainte du format la pousse à réfléchir à chaque mot choisi, ce qui rend le compliment plus dense émotionnellement. Elle savoure la simplicité brute du message, sans fioriture. Ce petit rituel peut devenir un jeu récurrent entre vous.",
-    "sectionTitle": "Les mots qui atterrissent au bon moment",
-    "predictable": "Les messages du quotidien sont surtout fonctionnels ou liés à la logistique du jour.",
-    "themes": [
-      "Poetic",
-      "Communication",
-      "Romantic"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Demande-lui en retour de te décrire en trois mots, pour en faire un échange régulier.",
-      "Choisis trois mots qui décrivent un souvenir précis de la semaine plutôt qu'un sentiment général."
-    ]
-  },
-  {
     "actionTitle": "Le Duel du Marché",
     "text": "Au supermarché, dans l'allée des fruits, choisis un fruit charnu (une pêche, une figue), tiens-le devant toi et dis d'un air très sérieux : 'Celui-là ou toi, il va falloir choisir, et c'est serré.' Repose-le lentement dans le chariot sans le quitter des yeux.",
     "effect": "Elle passe d'une corvée banale à un jeu de séduction improvisé en public, ce qui la fait rire et la flatte en même temps. La tension légère du lieu inattendu (pas la chambre, pas le canapé) rend le compliment plus vivant qu'un mot doux classique.",
@@ -321,24 +303,6 @@
     "variations": [
       "Devant le rayon des vins, prends une bouteille et dis : 'Celle-ci a du corps, mais toi tu as bien plus de caractère.'",
       "À la caisse, pendant qu'elle range les courses, murmure : 'Je viens de réaliser que t'observer choisir des tomates est officiellement mon activité préférée du mardi.'"
-    ]
-  },
-  {
-    "actionTitle": "Le Message dans la Bouteille",
-    "text": "Écris un mot court et intrigant sur un bout de papier ('Ce que je veux te faire ce soir tient en une phrase, mais tu ne la liras qu'à 21h'), roule-le et glisse-le dans une bouteille vide ou un petit flacon que tu poses bien en évidence sur la table, sans un mot d'explication.",
-    "effect": "Toute la fin d'après-midi, elle repense à cette bouteille sur la table et à l'heure fixée. L'attente devient un compte à rebours ludique qu'elle porte avec elle, ce qui construit une anticipation bien plus forte qu'une annonce directe.",
-    "sectionTitle": "L'Art de l'Attente",
-    "predictable": "Annoncer directement ce que tu as envie de faire le soir même, sans laisser de place au mystère ni à l'attente.",
-    "themes": [
-      "Mysterious",
-      "Adventure",
-      "Secret Language"
-    ],
-    "dramaIntensity": 3,
-    "sexualIntensity": 3,
-    "variations": [
-      "Cache le mot dans sa trousse de maquillage avec l'inscription 'À lire seulement si tu oses.'",
-      "Envoie une photo de la bouteille scellée par message avec juste 'Le compte à rebours a commencé', sans autre détail."
     ]
   },
   {
@@ -882,24 +846,6 @@
     ]
   },
   {
-    "actionTitle": "L'Ultimatum du Désir",
-    "text": "Envoie-lui un message dans l'après-midi : 'Tu as jusqu'à ce soir 21h pour me dire une chose que tu meurs d'envie que je te fasse. Passé ce délai, c'est moi qui déciderai pour nous deux, et je ne serai pas tendre dans mon choix.' Tiens fermement ce délai.",
-    "effect": "La contrainte de temps la pousse à sortir de sa réserve habituelle pour formuler un désir clair, plutôt que de rester dans l'implicite. Le risque assumé de te laisser décider si elle ne répond pas ajoute une tension excitante entre reprise de contrôle et abandon volontaire.",
-    "sectionTitle": "L'Autorité Bienveillante",
-    "predictable": "Remplace les envies jamais formulées clairement, laissées à l'implicite par pudeur.",
-    "themes": [
-      "Dominance",
-      "Desire",
-      "Power Dynamics"
-    ],
-    "dramaIntensity": 5,
-    "sexualIntensity": 5,
-    "variations": [
-      "Raccourcis le délai à une heure seulement pour intensifier la pression et l'urgence du choix.",
-      "Si elle ne répond pas dans les temps, prépare une enveloppe scellée à l'avance contenant ta propre décision, à ouvrir ensemble le soir."
-    ]
-  },
-  {
     "actionTitle": "Le Certificat Inventé",
     "text": "Rédige à la main un faux 'certificat officiel' qui reconnaît une qualité qu'elle sous-estime chez elle, comme 'Championne incontestée de la patience un lundi matin'. Glisse-le discrètement dans son sac ou son agenda pour qu'elle le trouve seule.",
     "effect": "Elle se sent vue pour quelque chose de plus profond que son apparence, et l'humour de la mise en forme désamorce toute gêne face au compliment. Ça la fait sourire toute seule, souvent plusieurs fois dans la journée en y repensant.",
@@ -951,24 +897,6 @@
     "variations": [
       "Réserve une table dans un restaurant d'une cuisine que vous n'avez jamais goûtée, et annonce-le seulement en chemin.",
       "Achète deux places pour un concert ou une pièce de théâtre d'un genre qu'elle ne choisirait jamais elle-même."
-    ]
-  },
-  {
-    "actionTitle": "Le Compliment Avant l'Épreuve",
-    "text": "Le matin d'un jour important pour elle (entretien, présentation, rendez-vous stressant), envoie un message qui ne parle pas de son physique mais d'une compétence précise qu'elle possède : 'Ton calme sous pression est une arme secrète, ils ne savent pas ce qui les attend.'",
-    "effect": "Elle se sent soutenue dans sa compétence et sa force, pas seulement rassurée affectivement. Ce type de compliment nourrit sa confiance au moment exact où elle en a besoin.",
-    "sectionTitle": "Les preuves d'admiration",
-    "predictable": "Remplace le 'bonne chance, ça va bien se passer' générique par une reconnaissance précise d'une qualité réelle.",
-    "themes": [
-      "Confidence",
-      "Compliment",
-      "Care"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Laisse un mot manuscrit sur la table du petit-déjeuner citant un moment précis où tu l'as vue faire preuve de cette qualité.",
-      "Appelle-la deux minutes avant l'épreuve, pas pour parler de l'épreuve, mais pour lui raconter une blague qui la fera rire juste avant."
     ]
   },
   {
@@ -2142,24 +2070,6 @@
     ]
   },
   {
-    "actionTitle": "L'Éloge Retardé",
-    "text": "En pleine journée, envoie-lui un message : 'J'ai remarqué quelque chose d'incroyable chez toi aujourd'hui. Je te le dirai ce soir.' Ne donne aucun indice, et tiens ta promesse le soir venu avec un compliment réellement sincère et précis.",
-    "effect": "Elle passe la journée à se demander de quoi il s'agit, ce qui installe une anticipation légère et agréable sans aucune ambiguïté déplacée. Le compliment livré le soir prend d'autant plus de valeur qu'elle l'a attendu, et se sent vraiment observée plutôt que flattée au hasard.",
-    "sectionTitle": "Le jeu discret du quotidien",
-    "predictable": "Remplace le compliment instantané, vite dit et vite oublié, par une promesse tenue qui prolonge l'attention dans le temps.",
-    "themes": [
-      "Compliment",
-      "Intrigue",
-      "Tender"
-    ],
-    "dramaIntensity": 2,
-    "sexualIntensity": 1,
-    "variations": [
-      "Fais la même chose avec un souvenir plutôt qu'un compliment : 'Un souvenir de nous m'est revenu aujourd'hui, je te le raconte ce soir.'",
-      "Inverse le jeu : demande-lui de te dire, elle aussi, une chose qu'elle a remarquée chez toi, à révéler seulement au moment du dîner."
-    ]
-  },
-  {
     "actionTitle": "Le Bras de Fer du Pouvoir",
     "text": "Un soir, pose ton coude sur la table et défie-la d'un air très sérieux : 'Bras de fer. Le gagnant décide de tout, absolument tout, pour les deux prochaines heures.' Joue le jeu à fond, même en trichant un peu avec humour.",
     "effect": "Elle bascule instantanément dans un mode ludique et compétitif, loin de la routine du soir. Le fait que l'enjeu soit réel (obéissance totale) crée une excitation mêlée de rire, et le contact physique du duel installe déjà une tension entre vos deux corps.",
@@ -2229,24 +2139,6 @@
     "variations": [
       "Utilise un simple bruit blanc (ventilateur, pluie enregistrée) au lieu du silence total, pour brouiller ses repères sans l'isoler complètement.",
       "Alterne des périodes avec et sans le casque, en la laissant deviner combien de temps chaque phase va durer."
-    ]
-  },
-  {
-    "actionTitle": "Le Contrat du Parfum Imposé",
-    "text": "Le matin, envoie-lui un message : 'Aujourd'hui, porte tel parfum précis. J'ai une raison, tu la sauras ce soir.' Tiens ta promesse le soir en lui expliquant, à voix basse, pourquoi cette odeur précise t'obsède.",
-    "effect": "Elle passe sa journée avec une petite énigme en tête, se sentant choisie et pensée à distance de manière très concrète. La révélation du soir, sensorielle et personnelle, transforme un choix anodin en un fil narratif que vous partagez tous les deux.",
-    "sectionTitle": "Le langage secret",
-    "predictable": "Remplace le message du matin classique du type 'Bonne journée, je t'aime'.",
-    "themes": [
-      "Secret Language",
-      "Desire",
-      "Power Dynamics"
-    ],
-    "dramaIntensity": 3,
-    "sexualIntensity": 2,
-    "variations": [
-      "Demande-lui de porter une couleur précise (pas un vêtement particulier, juste une teinte) et révèle le soir venu ce que cette couleur évoque pour toi.",
-      "Choisis pour elle la musique qu'elle doit écouter pendant son trajet du matin, et explique le soir le lien secret entre ce morceau et vous deux."
     ]
   },
   {
@@ -7163,24 +7055,6 @@
     ]
   },
   {
-    "actionTitle": "Le message avant l'arrivée",
-    "text": "Cinq minutes avant qu'elle rentre, envoie-lui un message qui la fait sourire, pour qu'elle arrive déjà de bonne humeur.",
-    "effect": "Préparer son humeur avant même son arrivée physique montre une attention anticipative plutôt que réactive. Elle franchit la porte avec un sourire déjà là, ce qui change la tonalité de toute la soirée.",
-    "sectionTitle": "Le rituel de la porte",
-    "predictable": "L'humeur du retour dépend uniquement de la journée vécue, sans intervention extérieure",
-    "themes": [
-      "Playful",
-      "Care",
-      "Tender"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Envoie une photo ou un mot doux juste avant qu'elle ne prenne le chemin du retour.",
-      "Prépare une petite musique ou une ambiance particulière pour son arrivée, sans qu'elle s'y attende."
-    ]
-  },
-  {
     "actionTitle": "La question qui change tout",
     "text": "Remplace le classique 'ça va ?' du retour par une question plus précise, comme 'quel a été le meilleur moment de ta journée ?'",
     "effect": "Une question plus spécifique invite à une réponse plus riche et sincère qu'un simple 'ça va' souvent répondu par automatisme. Elle se sent réellement écoutée, ce qui approfondit la conversation dès les premières minutes du retour.",
@@ -11432,23 +11306,6 @@
     ]
   },
   {
-    "actionTitle": "La chanson qui te fait penser à elle",
-    "text": "Envoie-lui une chanson en expliquant précisément pourquoi elle te fait penser à elle en ce moment.",
-    "effect": "Associer explicitement un choix musical à sa personne rend visible un processus de pensée normalement invisible et privé. Elle découvre qu'elle occupe une place dans tes pensées même à travers des déclencheurs aussi anodins qu'une chanson entendue par hasard.",
-    "sectionTitle": "Playlist commune en construction",
-    "predictable": "Les pensées spontanées la concernant restent généralement invisibles et non partagées",
-    "themes": [
-      "Tendresse",
-      "Sincérité"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Explique le lien précis, que ce soit les paroles, le rythme ou une ambiance particulière.",
-      "Envoie-la sans explication et laisse-la deviner pourquoi, avant de révéler la vraie raison."
-    ]
-  },
-  {
     "actionTitle": "La bande-son de votre histoire",
     "text": "Créez ensemble une playlist chronologique reprenant les chansons marquantes de chaque étape de votre relation.",
     "effect": "Structurer une playlist selon une chronologie relationnelle transforme la musique en récit tangible de votre histoire commune. Elle vit une célébration du chemin parcouru à travers un support concret et réécoutable à volonté.",
@@ -12471,23 +12328,6 @@
     "variations": [
       "Tenez-vous la main pendant que vous le dites, pour renforcer le moment.",
       "Alternez qui commence chaque soir, pour que ce soit équilibré."
-    ]
-  },
-  {
-    "actionTitle": "La gratitude sur un post-it caché",
-    "text": "Écris sur un post-it une chose précise que tu apprécies chez elle aujourd'hui, et cache-le dans un endroit qu'elle visitera bientôt.",
-    "effect": "Combiner l'écrit et la surprise physique intensifie l'impact d'une reconnaissance qui pourrait autrement se limiter à des mots dits en passant. Elle découvre une preuve tangible et inattendue de reconnaissance au moment où elle s'y attend le moins.",
-    "sectionTitle": "La liste de gratitude à deux",
-    "predictable": "La reconnaissance exprimée reste généralement verbale plutôt que matérialisée en surprise physique",
-    "themes": [
-      "Reconnaissance",
-      "Surprise"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Sois très précis sur ce que tu apprécies, pas juste général.",
-      "Cache-le à un endroit lié directement à ce que tu apprécies chez elle."
     ]
   },
   {
@@ -14667,23 +14507,6 @@
     ]
   },
   {
-    "actionTitle": "Le message du même moment chaque jour",
-    "text": "Choisis un moment précis de la journée, comme midi ou dix-huit heures, et envoie-lui systématiquement un message à cette heure-là, chaque jour cette semaine.",
-    "effect": "Créer une régularité temporelle précise dans les échanges quotidiens installe un point de repère fiable au milieu d'une journée autrement imprévisible. Elle sait qu'à un moment précis de sa journée, une pensée pour elle arrive toujours, sans exception.",
-    "sectionTitle": "Le rythme qu'on ne lâche pas",
-    "predictable": "Les messages échangés au cours de la journée arrivent généralement à des moments aléatoires plutôt qu'à une heure fixe et répétée",
-    "themes": [
-      "Régularité",
-      "Tendresse"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Choisis une heure réaliste que tu pourras vraiment tenir chaque jour.",
-      "Varie le contenu du message tout en gardant l'heure fixe, pour éviter la routine ennuyeuse."
-    ]
-  },
-  {
     "actionTitle": "Le bilan hebdomadaire du couple",
     "text": "Prenez dix minutes chaque semaine, toujours le même jour, pour faire ensemble un petit bilan de comment vous allez tous les deux.",
     "effect": "Instaurer un rendez-vous récurrent dédié à l'état de la relation évite que ce sujet ne soit abordé seulement en cas de crise. Elle bénéficie d'un espace régulier et prévisible pour exprimer ce qui va bien ou moins bien, avant que cela ne s'accumule.",
@@ -14783,23 +14606,6 @@
     "variations": [
       "Sois spécifique sur pourquoi tu penses toujours que c'était la bonne décision.",
       "Demande-lui aussi comment elle se sent avec le recul, pour ouvrir le dialogue."
-    ]
-  },
-  {
-    "actionTitle": "Le message de milieu de journée",
-    "text": "En plein milieu d'une journée ordinaire, envoie-lui un message qui ne dit rien d'autre que : tout va bien entre nous, je pense à toi.",
-    "effect": "Envoyer une réassurance sans lien avec un événement précis prouve qu'elle n'a pas besoin d'un problème pour recevoir ce genre de confirmation. Elle reçoit une tranquillité d'esprit offerte gratuitement, sans qu'un doute ait eu besoin d'être exprimé au préalable.",
-    "sectionTitle": "La parole qui rassure",
-    "predictable": "Les messages de réassurance sont généralement envoyés en réaction à un doute plutôt que gratuitement, sans déclencheur",
-    "themes": [
-      "Réassurance",
-      "Tendresse"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Envoie-le à un moment complètement ordinaire, sans lien avec un événement particulier.",
-      "Garde-le simple, sans sur-expliquer, juste la confirmation elle-même."
     ]
   },
   {

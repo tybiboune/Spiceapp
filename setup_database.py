@@ -1545,11 +1545,54 @@ def load_extra_cards(filename, category, existing_actions):
     return added
 
 
+# Some of the original hand-written FULL_TEXT entries are, on inspection,
+# not really an "action" at all: their entire deliverable is "send her this
+# text", with no separate real-world step. That's what the SMS category is
+# for, so these are reclassified here (by title) rather than left
+# mis-categorized under ACTIONS. Deliberately excludes lookalikes whose
+# main step is a real-world action that merely *uses* a text as a tool
+# (e.g. "Le Rituel de Décompression" institutes a recurring evening rule;
+# "Le Recadrage de la Fatigue" is about how *you* react to *her* text).
+RECLASSIFY_TO_SMS = {
+    "Le Compliment sans Contexte": "Maîtriser l'Art de l'Omission",
+    "La Commande Mémorielle": "La Mémoire Sensuelle Projetée",
+    "L'Écho Charnel": "La Mémoire Sensuelle Projetée",
+    "La Mission Olfactive": "Les Devoirs Sensoriels",
+    "La Mission Artistique": "Les Devoirs Sensoriels",
+    "Le Mot Unique": "Le Leadership Émotionnel",
+    "Le Complot du Lundi": "La Création d'un Ennemi Commun",
+    "La Mission des Sens": "Le Service Requalifié",
+    "Le Scénario du Soir (par message)": "La Visualisation Guidée",
+    "Message crypté en journée": "La Visualisation Guidée",
+    "Danse des mots": "La Visualisation Guidée",
+    "Cartes postales virtuelles": "La Visualisation Guidée",
+    "Vague sonore": "La Visualisation Guidée",
+    "Le Compliment Avant l'Épreuve": "Les preuves d'admiration",
+}
+
+
+def _reclassify_base_actions(actions):
+    """Moves the FULL_TEXT entries named in RECLASSIFY_TO_SMS from ACTIONS
+    to SMS in place, prefixing their section title to match the SMS
+    category's "SMS - <section>" convention used everywhere else."""
+    moved = 0
+    for action in actions:
+        new_section = RECLASSIFY_TO_SMS.get(action['actionTitle'])
+        if new_section is None:
+            continue
+        action['category'] = 'SMS'
+        action['sectionTitle'] = "SMS - " + new_section
+        moved += 1
+    print(f"   - Reclassified {moved} FULL_TEXT entries from ACTIONS to SMS "
+          f"(their content is entirely 'send her this text').")
+
+
 if __name__ == "__main__":
     print("--- Starting Database Setup from Full Text ---")
     PREGENERATED_DATA = parse_and_prepare_data(FULL_TEXT)
     for action in PREGENERATED_DATA:
         action['category'] = 'ACTIONS'
+    _reclassify_base_actions(PREGENERATED_DATA)
     PREGENERATED_DATA.extend(load_extra_cards("new_cards.json", "ACTIONS", PREGENERATED_DATA))
     PREGENERATED_DATA.extend(load_extra_cards("sms_cards.json", "SMS", PREGENERATED_DATA))
     PREGENERATED_DATA.extend(load_extra_cards("postit_cards.json", "POSTITS", PREGENERATED_DATA))
