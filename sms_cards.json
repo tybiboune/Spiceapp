@@ -12485,5 +12485,855 @@
       "Realized the little consistent things we do are basically what makes this us.",
       "Those small things we keep doing consistently are honestly what make this us."
     ]
+  },
+  {
+    "actionTitle": "Le message qui ne demande rien",
+    "text": "Petit message juste pour te faire sourire, sans aucune raison particulière et sans rien attendre en retour.",
+    "effect": "Envoyer un message affectueux explicitement sans attente de retour souligne une générosité pure, motivée uniquement par le désir de faire plaisir. Elle reçoit une attention gratuite qui ne cherche même pas une réponse en échange.",
+    "sectionTitle": "SMS - Le grand élan de générosité",
+    "predictable": "Les messages affectueux sont rarement explicitement présentés comme n'attendant absolument rien en retour",
+    "themes": [
+      "Générosité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Petit message pour te faire sourire, sans raison, sans rien attendre en retour.",
+      "Juste pour illuminer ta journée un peu, sans rien attendre en échange."
+    ]
+  },
+  {
+    "actionTitle": "Le compliment offert en cadeau",
+    "text": "Voici un compliment gratuit du jour : ta façon de voir les choses rend tout plus intéressant autour de toi.",
+    "effect": "Présenter un compliment comme un cadeau explicite transforme un geste verbal simple en une offrande consciente et généreuse. Elle reçoit une reconnaissance présentée comme un don plutôt qu'une remarque en passant.",
+    "sectionTitle": "SMS - Le grand élan de générosité",
+    "predictable": "Les compliments sont rarement présentés explicitement comme un cadeau offert plutôt qu'une remarque ordinaire",
+    "themes": [
+      "Générosité",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Compliment gratuit du jour : ta façon de voir les choses rend tout plus intéressant.",
+      "Cadeau du jour, sans emballage : ta perspective sur les choses est précieuse."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui confirme la présence",
+    "text": "Juste pour que tu le saches : je suis là, aujourd'hui, demain, et je ne vais nulle part.",
+    "effect": "Réaffirmer explicitement une présence continue, sans lien avec un événement précis, installe une base de sécurité affective stable. Elle reçoit une confirmation directe que ta présence n'est pas conditionnelle ni incertaine.",
+    "sectionTitle": "SMS - Le socle de sécurité",
+    "predictable": "La continuité de la présence dans la relation est rarement explicitement confirmée sans lien avec un événement précis",
+    "themes": [
+      "Sécurité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Juste pour que tu saches : je suis là, aujourd'hui, demain, je ne pars nulle part.",
+      "Petit rappel : je reste là, peu importe ce qui arrive, tu peux compter dessus."
+    ]
+  },
+  {
+    "actionTitle": "Le texto avant un moment difficile",
+    "text": "Avant ce truc difficile que tu as aujourd'hui, sache que quoi qu'il arrive, je serai là après, prête à t'écouter.",
+    "effect": "Anticiper un soutien avant un événement difficile, plutôt qu'après coup seulement, rassure sur la continuité du soutien indépendamment du résultat. Elle aborde un moment difficile en sachant qu'un accueil sûr et inconditionnel l'attend après, peu importe l'issue.",
+    "sectionTitle": "SMS - Le socle de sécurité",
+    "predictable": "Le soutien avant un événement difficile est généralement offert après coup plutôt qu'anticipé avant qu'il n'ait lieu",
+    "themes": [
+      "Sécurité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Avant ce truc difficile, sache que je serai là après, quoi qu'il arrive.",
+      "Quoi qu'il arrive avec ça aujourd'hui, je suis là après pour t'écouter."
+    ]
+  },
+  {
+    "actionTitle": "La suite d'hier",
+    "text": "Je repensais à ce qu'on se disait hier, et je voulais continuer cette conversation, elle n'est pas vraiment finie pour moi.",
+    "effect": "Relancer explicitement une conversation antérieure prouve qu'elle continue d'exister dans ta réflexion au-delà du moment où elle s'est arrêtée. Elle réalise qu'un échange peut rester actif dans ton esprit bien après qu'il se soit interrompu.",
+    "sectionTitle": "SMS - Le fil qui ne se rompt pas",
+    "predictable": "Les conversations de la veille sont généralement considérées comme closes plutôt que délibérément relancées le lendemain",
+    "themes": [
+      "Continuité",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensais à ce qu'on disait hier, cette conversation n'est pas finie pour moi.",
+      "Ce sujet d'hier me trotte encore en tête, on continue quand tu veux."
+    ]
+  },
+  {
+    "actionTitle": "Le même mot chaque soir",
+    "text": "Comme chaque soir depuis quelque temps maintenant, je voulais juste te dire bonne nuit avant de fermer les yeux.",
+    "effect": "Souligner explicitement la répétition d'un geste quotidien renforce sa valeur en tant que rituel fiable plutôt qu'un message ponctuel. Elle reconnaît un fil continu et volontairement entretenu dans la routine de vos échanges quotidiens.",
+    "sectionTitle": "SMS - Le fil qui ne se rompt pas",
+    "predictable": "La répétition d'un message quotidien est rarement explicitement soulignée comme un fil volontairement entretenu",
+    "themes": [
+      "Continuité",
+      "Régularité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme chaque soir maintenant, bonne nuit avant de fermer les yeux.",
+      "Encore un de ces bonne nuit qu'on se dit chaque soir, toujours sincère."
+    ]
+  },
+  {
+    "actionTitle": "Le message sans pression de réponse",
+    "text": "Prends tout le temps qu'il te faut pour répondre à ça, vraiment aucune urgence de mon côté, à ton rythme.",
+    "effect": "Retirer explicitement toute pression temporelle sur une réponse attendue offre un espace de patience rarement accordé dans les échanges textuels. Elle peut répondre à son propre rythme, sans se sentir observée ou pressée par le temps qui passe.",
+    "sectionTitle": "SMS - L'art d'attendre sans presser",
+    "predictable": "Les messages textuels impliquent souvent une attente implicite de réponse rapide plutôt qu'un temps ouvert et sans pression",
+    "themes": [
+      "Patience",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prends le temps qu'il te faut pour répondre, vraiment aucune urgence.",
+      "Réponds quand tu veux, à ton rythme, pas de pression de mon côté du tout."
+    ]
+  },
+  {
+    "actionTitle": "Le texto qui attend sans relance",
+    "text": "Je sais que tu es prise aujourd'hui, je n'attends pas de réponse immédiate, je voulais juste que tu saches que je pense à toi.",
+    "effect": "Anticiper et accepter un délai de réponse, sans relance implicite, montre une patience proactive plutôt que subie après coup. Elle reçoit un message qui n'exerce aucune pression, malgré l'attente naturelle d'une réponse.",
+    "sectionTitle": "SMS - L'art d'attendre sans presser",
+    "predictable": "Les messages envoyés attendent généralement une réponse rapide, même sans le dire explicitement",
+    "themes": [
+      "Patience",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sais que t'es prise aujourd'hui, pas besoin de répondre vite, pense à toi c'est tout.",
+      "Aucune urgence pour répondre à ça, voulais juste te dire que je pense à toi."
+    ]
+  },
+  {
+    "actionTitle": "Le partage équitable de la charge mentale",
+    "text": "Je veux qu'on partage vraiment équitablement ce qui nous pèse cette semaine, dis-moi ce que je peux prendre en charge de ton côté.",
+    "effect": "Ouvrir explicitement la question de la répartition de la charge mentale invite à un rééquilibrage actif plutôt qu'une simple bonne intention silencieuse. Elle a l'occasion concrète de déléguer une partie de son fardeau, sans avoir à le demander en premier.",
+    "sectionTitle": "SMS - L'équilibre qu'on ajuste ensemble",
+    "predictable": "La répartition de la charge mentale entre partenaires est rarement ouvertement abordée et activement rééquilibrée",
+    "themes": [
+      "Équité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Veux qu'on partage vraiment équitablement ce qui pèse cette semaine, dis-moi quoi prendre.",
+      "Dis-moi ce que je peux prendre en charge cette semaine, pour équilibrer un peu."
+    ]
+  },
+  {
+    "actionTitle": "Le merci qui reconnaît l'équilibre",
+    "text": "Je réalise à quel point tu fais ta part, et honnêtement autant que moi, merci pour ça, sincèrement.",
+    "effect": "Reconnaître explicitement un équilibre perçu dans les contributions respectives valide un effort qui pourrait autrement passer inaperçu. Elle entend une reconnaissance directe que sa part de l'effort commun est vue comme égale, pas secondaire.",
+    "sectionTitle": "SMS - L'équilibre qu'on ajuste ensemble",
+    "predictable": "La perception d'un équilibre réel dans les contributions de chacun est rarement explicitement verbalisée et reconnue",
+    "themes": [
+      "Équité",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Réalise à quel point tu fais ta part, autant que moi, merci sincèrement.",
+      "Tu contribues autant que moi à tout ça, et je voulais vraiment te le dire, merci."
+    ]
+  },
+  {
+    "actionTitle": "L'idée un peu folle du jour",
+    "text": "J'ai une idée un peu folle pour ce week-end, rien de dangereux, juste quelque chose qu'on n'a jamais fait, ça te tente ?",
+    "effect": "Proposer explicitement une idée décrite comme un peu folle invite à sortir ensemble de la zone de confort habituelle des projets communs. Elle reçoit une invitation à l'aventure qui casse la routine des plans habituels et prévisibles.",
+    "sectionTitle": "SMS - Le pas vers l'inconnu",
+    "predictable": "Les projets de week-end restent généralement dans un registre familier plutôt que présentés comme une idée un peu folle",
+    "themes": [
+      "Aventure",
+      "Spontanéité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Idée un peu folle pour ce week-end, rien de dangereux, ça te tente ?",
+      "Envie de faire un truc qu'on n'a jamais fait ce week-end ? J'ai une idée."
+    ]
+  },
+  {
+    "actionTitle": "Le lieu mystère",
+    "text": "Prépare-toi pour samedi, je t'emmène quelque part, mais je ne dis rien de plus, garde ça pour la surprise.",
+    "effect": "Garder secrète la destination d'une sortie prévue crée une anticipation aventureuse basée sur l'inconnu plutôt que la planification habituelle. Elle vit une anticipation teintée de mystère, où l'excitation vient précisément de ne pas savoir à quoi s'attendre.",
+    "sectionTitle": "SMS - Le pas vers l'inconnu",
+    "predictable": "Les sorties prévues sont généralement annoncées avec leur destination plutôt que gardées secrètes jusqu'au dernier moment",
+    "themes": [
+      "Aventure",
+      "Mystère"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prépare-toi pour samedi, je t'emmène quelque part, garde le mystère.",
+      "Samedi c'est une surprise, ne dis rien de plus, laisse-toi surprendre."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui revient toujours",
+    "text": "Comme tous les [jour de la semaine], voici ton message hebdomadaire pour te dire que je pense fort à toi.",
+    "effect": "Nommer explicitement la récurrence d'un message hebdomadaire souligne sa fiabilité en tant que rituel plutôt qu'un envoi occasionnel. Elle reconnaît un rendez-vous fixe qu'elle peut anticiper avec certitude chaque semaine.",
+    "sectionTitle": "SMS - Le rythme qu'on ne lâche pas",
+    "predictable": "Les messages récurrents sont rarement explicitement présentés comme un rendez-vous fixe et anticipable chaque semaine",
+    "themes": [
+      "Régularité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme chaque semaine, ton message hebdomadaire pour dire que je pense à toi.",
+      "Rendez-vous hebdomadaire respecté : je pense fort à toi aujourd'hui aussi."
+    ]
+  },
+  {
+    "actionTitle": "Le check-in fiable du soir",
+    "text": "Comme toujours à cette heure-ci, un petit message pour clore la journée avec toi dans mes pensées.",
+    "effect": "Souligner la constance d'un rituel de fin de journée renforce sa fiabilité en tant que point fixe et rassurant du quotidien. Elle bénéficie d'un dernier contact quotidien fiable, toujours au même moment, qui structure la fin de sa journée.",
+    "sectionTitle": "SMS - Le rythme qu'on ne lâche pas",
+    "predictable": "Les rituels de fin de journée sont rarement explicitement soulignés comme un point fixe et fiable du quotidien",
+    "themes": [
+      "Régularité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme toujours à cette heure, petit message pour clore la journée avec toi en tête.",
+      "Fidèle au rendez-vous du soir, dernière pensée de la journée pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui dissipe un doute",
+    "text": "Si un doute quelconque te traverse l'esprit aujourd'hui à propos de nous, sache que la réponse est toujours la même : je suis là, engagé, sûr de nous.",
+    "effect": "Anticiper un doute potentiel et y répondre à l'avance offre une réassurance proactive plutôt que réactive à une inquiétude déjà exprimée. Elle reçoit une confirmation avant même d'avoir eu à formuler la moindre inquiétude.",
+    "sectionTitle": "SMS - La parole qui rassure",
+    "predictable": "La réassurance sur la relation est généralement offerte après qu'un doute ait été exprimé plutôt qu'anticipée à l'avance",
+    "themes": [
+      "Réassurance",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si un doute te traverse aujourd'hui, sache que la réponse reste la même : je suis là.",
+      "Au cas où un doute passerait par ta tête, non, rien n'a changé, toujours sûr de nous."
+    ]
+  },
+  {
+    "actionTitle": "Le texto qui confirme après coup",
+    "text": "Après notre conversation de tout à l'heure, je voulais juste confirmer que tout va bien entre nous, vraiment bien.",
+    "effect": "Confirmer explicitement l'état de la relation après un échange potentiellement ambigu évite qu'un doute résiduel ne s'installe sans réponse. Elle reçoit une clarté immédiate plutôt que d'avoir à deviner comment interpréter un échange précédent.",
+    "sectionTitle": "SMS - La parole qui rassure",
+    "predictable": "L'état de la relation après un échange ambigu reste généralement non confirmé plutôt qu'explicitement clarifié après coup",
+    "themes": [
+      "Réassurance",
+      "Clarté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Après notre conversation tout à l'heure, voulais confirmer que tout va vraiment bien.",
+      "Juste pour être sûr que c'est clair : tout va bien entre nous après ça."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui ralentit la journée",
+    "text": "Respire un peu, où que tu sois là maintenant, prends deux secondes rien que pour toi avant de continuer.",
+    "effect": "Envoyer un rappel explicite de ralentir, en plein milieu d'une journée active, offre une pause de calme suggérée à distance. Elle reçoit une invitation à ralentir précisément dans un moment où elle n'y aurait probablement pas pensé elle-même.",
+    "sectionTitle": "SMS - Le calme qu'on choisit ensemble",
+    "predictable": "Les rappels de ralentir pendant une journée active sont rarement envoyés à distance de façon explicite",
+    "themes": [
+      "Calme",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Respire un peu là où tu es, deux secondes rien que pour toi.",
+      "Petite pause suggérée : deux secondes de calme avant de continuer ta journée."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel qu'il n'y a pas d'urgence",
+    "text": "Quoi que tu sois en train de gérer là, rappelle-toi que rien de tout ça ne vaut la peine de te stresser à ce point.",
+    "effect": "Relativiser explicitement l'urgence perçue d'une situation stressante aide à remettre en perspective une pression souvent disproportionnée. Elle reçoit un rappel extérieur et bienveillant qui l'aide à redescendre en intensité émotionnelle.",
+    "sectionTitle": "SMS - Le calme qu'on choisit ensemble",
+    "predictable": "L'urgence ressentie face à une situation stressante est rarement relativisée depuis l'extérieur de façon explicite",
+    "themes": [
+      "Calme",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quoi que tu gères là, ça ne vaut pas la peine de te stresser autant.",
+      "Rappel doux : rien de tout ça ne mérite tout ce stress, respire."
+    ]
+  },
+  {
+    "actionTitle": "L'affirmation sans filtre",
+    "text": "Je t'aime, sans détour, sans blague pour alléger, juste ça, simplement et sincèrement dit comme ça.",
+    "effect": "Affirmer un sentiment sans l'atténuer par l'humour ou la légèreté donne à la déclaration tout son poids et sa sincérité brute. Elle reçoit une affirmation pleinement assumée, sans échappatoire ni minimisation implicite.",
+    "sectionTitle": "SMS - L'affirmation sans détour",
+    "predictable": "Les déclarations de sentiments sont souvent atténuées par l'humour plutôt que dites simplement et sans détour",
+    "themes": [
+      "Affirmation",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je t'aime, sans détour, sans blague, juste ça, simplement et sincèrement.",
+      "Aucun détour aujourd'hui : je t'aime, simplement, sincèrement, point final."
+    ]
+  },
+  {
+    "actionTitle": "Le soutien affirmé par texto",
+    "text": "Pour ce que ça vaut, je pense que tu as complètement raison sur ce sujet, et je voulais te le dire clairement.",
+    "effect": "Affirmer explicitement son accord sur un sujet, sans nuance diluée, valide sa position de façon claire et sans ambiguïté. Elle reçoit un soutien direct et assumé plutôt qu'une approbation timide ou conditionnelle.",
+    "sectionTitle": "SMS - L'affirmation sans détour",
+    "predictable": "Le soutien sur un sujet est souvent exprimé avec des nuances diluées plutôt qu'affirmé clairement et sans détour",
+    "themes": [
+      "Affirmation",
+      "Loyauté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pour ce que ça vaut, tu as complètement raison là-dessus, voulais le dire clairement.",
+      "Sans détour : je pense que tu as raison sur ça, complètement."
+    ]
+  },
+  {
+    "actionTitle": "Le temps offert par texto",
+    "text": "Ce soir, mon temps t'appartient entièrement, aucune autre priorité, dis-moi juste ce que tu as envie de faire.",
+    "effect": "Offrir explicitement du temps sans condition ni contre-proposition traite sa présence comme la seule priorité de la soirée. Elle reçoit une disponibilité totale annoncée à l'avance, plutôt que négociée au dernier moment.",
+    "sectionTitle": "SMS - Le grand élan de générosité",
+    "predictable": "Le temps offert le soir est rarement annoncé à l'avance comme entièrement dédié et sans autre priorité",
+    "themes": [
+      "Générosité",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce soir mon temps t'appartient entièrement, dis-moi ce que tu veux faire.",
+      "Aucune autre priorité ce soir, ton temps avec moi c'est tout ce qui compte."
+    ]
+  },
+  {
+    "actionTitle": "Le petit plaisir offert sans raison",
+    "text": "En rentrant je t'ai pris un petit truc que tu aimes, sans raison particulière, juste pour te faire sourire un peu.",
+    "effect": "Annoncer un petit cadeau offert sans occasion particulière valorise la spontanéité de la générosité plutôt que sa justification. Elle reçoit l'annonce d'une attention gratuite avant même de la découvrir, prolongeant le plaisir de l'anticipation.",
+    "sectionTitle": "SMS - Le grand élan de générosité",
+    "predictable": "Les petits cadeaux sans occasion particulière sont rarement annoncés par texto avant même d'être découverts",
+    "themes": [
+      "Générosité",
+      "Surprise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "En rentrant je t'ai pris un petit truc que tu aimes, sans raison, juste pour sourire.",
+      "T'ai pris un petit quelque chose sans raison, juste pour te faire plaisir un peu."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui protège à distance",
+    "text": "Fais bien attention à toi aujourd'hui, où que tu sois, sache que je veille sur toi même à distance.",
+    "effect": "Exprimer une vigilance protectrice même en l'absence physique rassure sur une continuité de la sécurité affective malgré la distance. Elle sent qu'une attention protectrice l'accompagne même quand vous n'êtes pas physiquement ensemble.",
+    "sectionTitle": "SMS - Le socle de sécurité",
+    "predictable": "La vigilance protectrice est rarement explicitement exprimée à distance, plutôt réservée à la présence physique",
+    "themes": [
+      "Sécurité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais attention à toi où que tu sois, je veille sur toi même à distance.",
+      "Je pense à ta sécurité aujourd'hui même de loin, fais attention à toi."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel que la porte reste ouverte",
+    "text": "Quoi que tu ressentes aujourd'hui, la porte pour m'en parler reste toujours grande ouverte, sans jugement, jamais.",
+    "effect": "Réaffirmer explicitement une ouverture inconditionnelle à la communication rassure sur l'absence de jugement, quel que soit le sujet abordé. Elle sait qu'aucun sujet n'est trop lourd ou trop délicat pour être partagé sans crainte d'être jugée.",
+    "sectionTitle": "SMS - Le socle de sécurité",
+    "predictable": "L'ouverture inconditionnelle à la communication sans jugement est rarement explicitement réaffirmée par texto",
+    "themes": [
+      "Sécurité",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quoi que tu ressentes, la porte pour en parler reste ouverte, sans jugement.",
+      "Toujours prêt à écouter, sans jugement, peu importe ce que c'est, toujours."
+    ]
+  },
+  {
+    "actionTitle": "Le fil qui continue même loin",
+    "text": "Même si on n'est pas ensemble là maintenant, cette conversation dans ma tête avec toi ne s'arrête jamais vraiment.",
+    "effect": "Décrire une conversation intérieure continue, même en l'absence physique, montre que la connexion persiste au-delà des échanges réels. Elle réalise qu'une forme de dialogue intérieur avec elle continue d'exister dans tes pensées, même à distance.",
+    "sectionTitle": "SMS - Le fil qui ne se rompt pas",
+    "predictable": "La continuité d'une conversation intérieure en l'absence physique est rarement explicitement décrite et partagée",
+    "themes": [
+      "Continuité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même loin, cette conversation dans ma tête avec toi ne s'arrête jamais vraiment.",
+      "On n'est pas ensemble là, mais dans ma tête la conversation continue sans arrêt."
+    ]
+  },
+  {
+    "actionTitle": "Le prochain chapitre annoncé",
+    "text": "Ce qu'on vit en ce moment n'est qu'un chapitre parmi d'autres, et honnêtement, j'ai hâte de voir la suite avec toi.",
+    "effect": "Situer le moment présent dans une continuité narrative plus large montre une vision de la relation comme une histoire en cours, pas figée. Elle perçoit le présent comme une étape parmi d'autres à venir, renforçant le sentiment d'un futur partagé et continu.",
+    "sectionTitle": "SMS - Le fil qui ne se rompt pas",
+    "predictable": "Le moment présent est rarement explicitement situé dans une continuité narrative plus large avec la suite anticipée",
+    "themes": [
+      "Continuité",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce qu'on vit n'est qu'un chapitre parmi d'autres, hâte de voir la suite avec toi.",
+      "Juste un chapitre de plus dans notre histoire, et la suite s'annonce bien."
+    ]
+  },
+  {
+    "actionTitle": "Le message sans compte à rebours",
+    "text": "Réponds-moi quand tu veux, dans une heure, demain, la semaine prochaine, ça n'a vraiment aucune importance pour moi.",
+    "effect": "Étendre explicitement le délai acceptable pour une réponse au-delà de l'immédiat montre une patience véritable plutôt qu'une tolérance de façade. Elle bénéficie d'une liberté totale sur le moment de sa réponse, sans aucune limite implicite fixée.",
+    "sectionTitle": "SMS - L'art d'attendre sans presser",
+    "predictable": "La liberté totale sur le délai de réponse à un message est rarement explicitement étendue au-delà de l'immédiat",
+    "themes": [
+      "Patience",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Réponds quand tu veux, dans une heure ou la semaine prochaine, aucune importance.",
+      "Prends tout le temps que tu veux pour répondre, vraiment, ça ne presse pas du tout."
+    ]
+  },
+  {
+    "actionTitle": "Le texto qui ne relance jamais",
+    "text": "Je remarque que je n'ai pas eu de nouvelles depuis un moment, et c'est complètement normal, pas besoin de te justifier.",
+    "effect": "Reconnaître explicitement un silence sans en faire une demande implicite de justification retire toute pression liée au manque de réponse. Elle n'a pas à se sentir redevable d'une explication pour un simple délai dans les échanges.",
+    "sectionTitle": "SMS - L'art d'attendre sans presser",
+    "predictable": "Un silence prolongé dans les échanges entraîne souvent une relance implicite plutôt qu'une acceptation sans besoin de justification",
+    "themes": [
+      "Patience",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Remarque que pas de nouvelles depuis un moment, complètement normal, pas de justification.",
+      "Pas de nouvelles depuis un moment, tout va bien, pas besoin de te justifier."
+    ]
+  },
+  {
+    "actionTitle": "Le partage annoncé à l'avance",
+    "text": "Ce week-end, je veux vraiment qu'on partage équitablement les tâches et les choix d'activités, dis-moi ce que tu préfères en premier.",
+    "effect": "Annoncer explicitement l'intention d'un partage équitable avant même le début du week-end installe l'équité comme intention consciente plutôt qu'improvisée. Elle a l'occasion d'exprimer ses préférences en premier, inversant la dynamique habituelle de qui décide en premier.",
+    "sectionTitle": "SMS - L'équilibre qu'on ajuste ensemble",
+    "predictable": "L'intention d'un partage équitable des tâches et choix est rarement explicitement annoncée avant le début du temps partagé",
+    "themes": [
+      "Équité",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce week-end je veux qu'on partage équitablement, dis-moi ta préférence en premier.",
+      "Voulais qu'on partage équitablement ce week-end, à toi de choisir en premier."
+    ]
+  },
+  {
+    "actionTitle": "Le merci qui équilibre la balance",
+    "text": "Merci d'avoir géré cette partie de notre truc commun cette semaine, je vais m'occuper de la suivante, promis.",
+    "effect": "Reconnaître explicitement une contribution récente tout en annonçant une prise en charge future équilibre concrètement les responsabilités partagées. Elle voit un engagement clair à rééquilibrer les tâches, pas juste une reconnaissance passive de ce qu'elle a déjà fait.",
+    "sectionTitle": "SMS - L'équilibre qu'on ajuste ensemble",
+    "predictable": "La reconnaissance d'une contribution s'accompagne rarement d'un engagement explicite à prendre en charge la suivante",
+    "themes": [
+      "Équité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Merci d'avoir géré cette partie cette semaine, je m'occupe de la suivante, promis.",
+      "Merci pour ça cette semaine, la prochaine fois c'est moi qui m'en occupe."
+    ]
+  },
+  {
+    "actionTitle": "L'aventure proposée sur un coup de tête",
+    "text": "Là, maintenant, sans plan précis, ça te dirait qu'on parte faire quelque chose d'imprévu ensemble, juste pour voir ?",
+    "effect": "Proposer une improvisation spontanée, sans préparation préalable, introduit un élan d'aventure pure dans un quotidien habituellement planifié. Elle reçoit une invitation à l'imprévu total, où l'incertitude elle-même devient la source d'excitation.",
+    "sectionTitle": "SMS - Le pas vers l'inconnu",
+    "predictable": "Les propositions d'activités sont généralement planifiées à l'avance plutôt que lancées spontanément sans aucun plan précis",
+    "themes": [
+      "Aventure",
+      "Spontanéité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Là maintenant, sans plan, ça te dirait qu'on parte faire un truc imprévu ?",
+      "Sur un coup de tête, envie de faire quelque chose d'imprévu là maintenant ?"
+    ]
+  },
+  {
+    "actionTitle": "Le pari un peu fou",
+    "text": "Petit pari : si je trouve un truc complètement inattendu à faire d'ici ce soir, tu me suis sans poser de questions ?",
+    "effect": "Encadrer une proposition d'aventure sous forme de pari ludique ajoute un élément de jeu à l'incertitude, la rendant plus engageante. Elle est invitée à faire confiance à l'inconnu dans un cadre ludique plutôt que sérieux, ce qui allège la prise de risque.",
+    "sectionTitle": "SMS - Le pas vers l'inconnu",
+    "predictable": "Les propositions d'activités imprévues sont rarement présentées sous forme de pari ludique plutôt que de suggestion directe",
+    "themes": [
+      "Aventure",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Petit pari : je trouve un truc inattendu d'ici ce soir, tu me suis sans poser de questions ?",
+      "Pari lancé : un truc complètement inattendu ce soir, partante sans poser de questions ?"
+    ]
+  },
+  {
+    "actionTitle": "Le message envoyé pile à l'heure habituelle",
+    "text": "Comme toujours à cette heure précise, un message pour toi, parce que c'est devenu notre petit rendez-vous fixe.",
+    "effect": "Nommer explicitement un message comme faisant partie d'un rendez-vous fixe renforce sa valeur de rituel plutôt qu'un envoi occasionnel parmi d'autres. Elle reconnaît la régularité d'un geste comme un engagement conscient plutôt qu'une habitude accidentelle.",
+    "sectionTitle": "SMS - Le rythme qu'on ne lâche pas",
+    "predictable": "Les messages envoyés à heure fixe sont rarement explicitement nommés comme un rendez-vous conscient plutôt qu'une habitude",
+    "themes": [
+      "Régularité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme toujours à cette heure, un message, notre petit rendez-vous fixe.",
+      "Pile à l'heure habituelle, comme toujours, parce que c'est devenu notre rendez-vous."
+    ]
+  },
+  {
+    "actionTitle": "Le même jour, chaque semaine",
+    "text": "C'est le jour de la semaine où je t'envoie toujours ce genre de message, tu peux compter dessus, encore et encore.",
+    "effect": "Souligner explicitement la fiabilité hebdomadaire d'un geste renforce son statut de point d'ancrage prévisible dans le quotidien. Elle bénéficie d'un repère régulier sur lequel elle peut se fier avec une certitude totale, semaine après semaine.",
+    "sectionTitle": "SMS - Le rythme qu'on ne lâche pas",
+    "predictable": "La fiabilité hebdomadaire d'un geste récurrent est rarement explicitement soulignée comme un repère sur lequel compter",
+    "themes": [
+      "Régularité",
+      "Fiabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "C'est le jour où je t'envoie toujours ce genre de message, tu peux compter dessus.",
+      "Comme chaque semaine ce jour-là, ce message, tu peux toujours compter dessus."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui efface un malentendu",
+    "text": "Repensant à notre échange de tout à l'heure, je crois qu'il y a eu un petit malentendu, et je veux juste que ce soit clair : tout va bien entre nous.",
+    "effect": "Identifier proactivement un malentendu possible et le clarifier immédiatement évite qu'un doute ne s'installe sans réponse claire. Elle reçoit une clarification rapide plutôt que de devoir se demander comment interpréter un échange ambigu.",
+    "sectionTitle": "SMS - La parole qui rassure",
+    "predictable": "Les malentendus potentiels sont rarement identifiés et clarifiés proactivement plutôt que laissés en suspens",
+    "themes": [
+      "Réassurance",
+      "Clarté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensant à tout à l'heure, petit malentendu je crois, tout va bien entre nous.",
+      "Je crois qu'il y a eu un malentendu tout à l'heure, juste pour clarifier : tout va bien."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel que tu comptes plus que tout",
+    "text": "Parmi toutes les choses qui occupent ma tête aujourd'hui, toi tu restes celle qui compte le plus, toujours, sans exception.",
+    "effect": "Affirmer explicitement une priorité constante parmi de multiples préoccupations rassure sur une hiérarchie affective stable, quelle que soit la journée. Elle reçoit une confirmation claire que rien ne prend le dessus sur l'importance qu'elle occupe dans tes pensées.",
+    "sectionTitle": "SMS - La parole qui rassure",
+    "predictable": "La priorité accordée à la relation parmi de multiples préoccupations quotidiennes est rarement explicitement affirmée",
+    "themes": [
+      "Réassurance",
+      "Priorité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Parmi tout ce qui m'occupe aujourd'hui, toi tu comptes le plus, toujours.",
+      "Peu importe ce qui se passe aujourd'hui, tu restes ce qui compte le plus pour moi."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui invite à respirer ensemble",
+    "text": "Où que tu sois là, prends une grande respiration avec moi, juste une, ça aide toujours un peu, même à distance.",
+    "effect": "Proposer un exercice de respiration partagé à distance crée un moment de calme synchronisé malgré la séparation physique. Elle vit un instant de connexion apaisante, même en l'absence de présence physique réelle.",
+    "sectionTitle": "SMS - Le calme qu'on choisit ensemble",
+    "predictable": "Les moments de calme partagé sont rarement proposés à distance sous forme d'exercice synchronisé malgré la séparation",
+    "themes": [
+      "Calme",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Où que tu sois, une grande respiration avec moi, juste une, ça aide toujours.",
+      "Prends une respiration avec moi là, à distance, ça aide quand même un peu."
+    ]
+  },
+  {
+    "actionTitle": "Le calme annoncé pour ce soir",
+    "text": "Pas de plan compliqué prévu ce soir, juste du temps calme ensemble, sans pression d'aller quelque part ou de faire quoi que ce soit.",
+    "effect": "Annoncer explicitement l'absence de plan complexe pour la soirée libère l'anticipation de toute pression de performance ou d'organisation. Elle sait à l'avance que la soirée sera un espace de détente sans attentes particulières, ce qui allège son anticipation.",
+    "sectionTitle": "SMS - Le calme qu'on choisit ensemble",
+    "predictable": "L'absence explicite de plan compliqué pour une soirée est rarement annoncée à l'avance pour alléger l'anticipation",
+    "themes": [
+      "Calme",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pas de plan compliqué ce soir, juste du temps calme ensemble, sans pression.",
+      "Ce soir, rien de prévu, juste toi, moi, et du calme, sans pression du tout."
+    ]
+  },
+  {
+    "actionTitle": "La qualité affirmée par texto",
+    "text": "Je veux te dire clairement : ta franchise est une des choses que j'admire le plus chez toi, sans aucune réserve.",
+    "effect": "Affirmer sans réserve une qualité précise, par texto, donne une trace écrite et consultable d'une reconnaissance sincère. Elle possède une déclaration claire et sans ambiguïté qu'elle peut relire quand elle en a besoin.",
+    "sectionTitle": "SMS - L'affirmation sans détour",
+    "predictable": "Les qualités admirées sont rarement affirmées par écrit de façon claire et sans réserve, plutôt mentionnées oralement en passant",
+    "themes": [
+      "Affirmation",
+      "Admiration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ta franchise est une des choses que j'admire le plus chez toi, sans réserve.",
+      "Veux te le dire clairement : ta franchise, j'admire ça énormément chez toi."
+    ]
+  },
+  {
+    "actionTitle": "Le calme qu'on choisit deux fois",
+    "text": "Rien qu'à l'idée de te retrouver calmement ce soir, je sens déjà mon rythme ralentir un peu, dans le bon sens.",
+    "effect": "Anticiper un moment calme à venir montre que le simple fait d'y penser produit déjà un effet apaisant réel. Elle réalise qu'elle a un effet calmant sur toi rien qu'en étant anticipée, avant même d'être présente.",
+    "sectionTitle": "SMS - Le calme qu'on choisit ensemble",
+    "predictable": "L'effet apaisant d'un moment à venir est rarement explicitement décrit comme se produisant avant même qu'il n'arrive",
+    "themes": [
+      "Calme",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rien qu'à l'idée de te retrouver ce soir, mon rythme ralentit déjà, dans le bon sens.",
+      "Penser à ce soir calme avec toi me détend déjà, avant même que ça arrive."
+    ]
+  },
+  {
+    "actionTitle": "L'affirmation qui ne bouge pas",
+    "text": "Peu importe ce qui se passe cette semaine, ce que je ressens pour toi reste affirmé, clair, et n'a pas besoin d'être reconfirmé sans arrêt.",
+    "effect": "Affirmer la stabilité des sentiments indépendamment des circonstances évite d'avoir à les reconfirmer constamment, ce qui rassure sur leur solidité. Elle reçoit une déclaration de constance affective qui n'a pas besoin d'être renouvelée à chaque situation ou épreuve.",
+    "sectionTitle": "SMS - L'affirmation sans détour",
+    "predictable": "La stabilité des sentiments face aux circonstances changeantes est rarement affirmée comme n'ayant pas besoin d'être reconfirmée sans arrêt",
+    "themes": [
+      "Affirmation",
+      "Stabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe cette semaine, ce que je ressens reste clair, pas besoin de le reconfirmer sans cesse.",
+      "Ce que je ressens pour toi reste affirmé et clair, quoi qu'il arrive cette semaine."
+    ]
+  },
+  {
+    "actionTitle": "Le générosité sans mesure",
+    "text": "Aujourd'hui j'ai envie de te donner plus que ce qui est raisonnable, plus de temps, plus d'attention, juste plus, sans calculer.",
+    "effect": "Rejeter volontairement une logique de mesure ou de retour dans un élan de générosité montre une envie de donner au-delà du raisonnable. Elle reçoit une déclaration de générosité débordante, explicitement libérée de tout calcul ou attente proportionnée.",
+    "sectionTitle": "SMS - Le grand élan de générosité",
+    "predictable": "La générosité envers l'autre reste souvent implicitement mesurée plutôt que délibérément désignée comme débordante et sans calcul",
+    "themes": [
+      "Générosité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Envie de te donner plus que raisonnable aujourd'hui, plus de temps, plus d'attention, sans calculer.",
+      "Aujourd'hui j'ai envie de donner sans compter, plus de tout, juste pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui protège le sommeil",
+    "text": "Dors tranquille ce soir, je veille sur le reste, tu n'as rien à porter de plus que ton repos.",
+    "effect": "Offrir explicitement de porter les responsabilités à sa place pendant qu'elle se repose renforce un sentiment de sécurité totale pendant le sommeil. Elle peut se reposer pleinement, sachant que rien ne repose sur ses épaules pendant cette nuit précise.",
+    "sectionTitle": "SMS - Le socle de sécurité",
+    "predictable": "Le sommeil s'accompagne rarement d'une offre explicite de prendre en charge tout le reste à sa place",
+    "themes": [
+      "Sécurité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dors tranquille ce soir, je veille sur le reste, rien à porter de plus pour toi.",
+      "Ce soir, repose-toi complètement, je m'occupe de tout le reste à ta place."
+    ]
+  },
+  {
+    "actionTitle": "Le fil renoué après un silence",
+    "text": "Ça fait un moment qu'on n'a pas eu une vraie conversation, et je voulais juste dire que le fil entre nous n'a jamais vraiment lâché.",
+    "effect": "Rassurer explicitement sur la continuité du lien malgré une période de silence relatif évite qu'un vide de communication ne soit interprété comme une distanciation. Elle reçoit une confirmation que le lien affectif reste intact, indépendamment de la fréquence récente des échanges.",
+    "sectionTitle": "SMS - Le fil qui ne se rompt pas",
+    "predictable": "Les périodes de silence relatif dans la communication s'accompagnent rarement d'une réassurance explicite sur la continuité du lien",
+    "themes": [
+      "Continuité",
+      "Réassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ça fait un moment qu'on n'a pas vraiment parlé, mais le fil entre nous n'a jamais lâché.",
+      "Pas beaucoup parlé dernièrement, mais sache que rien n'a changé entre nous, le fil tient."
+    ]
+  },
+  {
+    "actionTitle": "La patience pour le sujet difficile",
+    "text": "Sur ce sujet compliqué entre nous, prenons tout le temps qu'il faut, aucune urgence à tout résoudre d'un coup aujourd'hui.",
+    "effect": "Explicitement retirer toute urgence autour d'un sujet sensible normalise le fait qu'il puisse nécessiter plusieurs conversations plutôt qu'une résolution immédiate. Elle bénéficie d'un espace où la complexité du sujet est reconnue, sans pression de tout régler en une seule fois.",
+    "sectionTitle": "SMS - L'art d'attendre sans presser",
+    "predictable": "Les sujets compliqués sont souvent abordés avec une urgence implicite de résolution plutôt qu'avec une patience explicitement accordée",
+    "themes": [
+      "Patience",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sur ce sujet compliqué, prenons le temps, aucune urgence à tout résoudre aujourd'hui.",
+      "Pas besoin de tout régler d'un coup sur ce sujet, on a le temps, vraiment."
+    ]
+  },
+  {
+    "actionTitle": "L'équité dans le mérite partagé",
+    "text": "Cette réussite récente, c'est autant la tienne que la mienne, même si c'est moi qui ai eu le crédit visible pour l'instant.",
+    "effect": "Corriger explicitement une reconnaissance publique déséquilibrée en réaffirmant le mérite partagé restaure une équité perçue dans les contributions. Elle reçoit une reconnaissance directe que sa contribution reste pleinement valorisée, même quand la reconnaissance extérieure a été inégale.",
+    "sectionTitle": "SMS - L'équilibre qu'on ajuste ensemble",
+    "predictable": "La reconnaissance publique inégale d'une réussite commune est rarement explicitement corrigée par une réaffirmation du mérite partagé",
+    "themes": [
+      "Équité",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette réussite est autant la tienne que la mienne, même si j'ai eu le crédit visible.",
+      "Le mérite de ça nous revient à tous les deux, peu importe qui semblait en avant."
+    ]
+  },
+  {
+    "actionTitle": "L'aventure qu'on garde pour plus tard",
+    "text": "Gardons cette idée un peu folle qu'on a eue en tête pour un futur pas trop lointain, ne la laissons pas s'éteindre.",
+    "effect": "S'engager explicitement à préserver une idée aventureuse plutôt que de la laisser s'oublier montre une intention réelle de la concrétiser un jour. Elle perçoit un engagement sincère à ne pas laisser une envie partagée d'aventure disparaître simplement faute de suite donnée.",
+    "sectionTitle": "SMS - Le pas vers l'inconnu",
+    "predictable": "Les idées aventureuses évoquées ensemble sont souvent oubliées plutôt qu'explicitement préservées avec l'intention de les concrétiser",
+    "themes": [
+      "Aventure",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Gardons cette idée un peu folle pour un futur proche, ne la laissons pas s'éteindre.",
+      "Cette idée d'aventure qu'on a eue, gardons-la vivante pour bientôt, promis."
+    ]
+  },
+  {
+    "actionTitle": "La régularité qui devient un souvenir",
+    "text": "Un jour, je crois qu'on regardera en arrière et qu'on se dira que ce petit rituel régulier a été une des meilleures choses qu'on ait faites.",
+    "effect": "Se projeter dans le futur pour valoriser rétrospectivement un rituel actuel souligne l'importance accordée à la régularité, même dans le présent. Elle perçoit qu'un petit geste répété aujourd'hui est déjà considéré comme une réussite qui comptera dans votre histoire commune future.",
+    "sectionTitle": "SMS - Le rythme qu'on ne lâche pas",
+    "predictable": "Les rituels réguliers actuels sont rarement explicitement projetés comme de futurs souvenirs précieux à valoriser rétrospectivement",
+    "themes": [
+      "Régularité",
+      "Projection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un jour on regardera en arrière et on dira que ce rituel a été une super idée.",
+      "Je crois qu'un jour ce petit rituel régulier comptera parmi nos meilleurs souvenirs."
+    ]
+  },
+  {
+    "actionTitle": "La réassurance sans raison précise",
+    "text": "Aucune raison particulière, juste envie de te dire que tout va bien entre nous, vraiment bien, aujourd'hui comme toujours.",
+    "effect": "Envoyer une réassurance générale sans lien avec un événement précis prouve que la confirmation de la relation ne dépend pas d'un doute déclencheur. Elle reçoit une tranquillité d'esprit offerte librement, sans qu'aucun incident n'ait eu besoin de la motiver.",
+    "sectionTitle": "SMS - La parole qui rassure",
+    "predictable": "La réassurance générale sur l'état de la relation est rarement envoyée sans lien avec un événement ou un doute précis",
+    "themes": [
+      "Réassurance",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Aucune raison précise, juste envie de dire que tout va bien entre nous, vraiment.",
+      "Pas de raison particulière, mais tout va bien entre nous, aujourd'hui comme toujours."
+    ]
+  },
+  {
+    "actionTitle": "L'affirmation qui ferme la porte au doute",
+    "text": "Je ne dirai jamais ça à moitié : je suis vraiment heureux avec toi, sans réserve, sans condition, juste heureux.",
+    "effect": "Affirmer un bonheur relationnel sans réserve ni condition ferme la porte à toute ambiguïté possible dans son interprétation. Elle reçoit une déclaration de bonheur affirmée dans sa totalité, sans place pour le doute ou la nuance minimisante.",
+    "sectionTitle": "SMS - L'affirmation sans détour",
+    "predictable": "Le bonheur relationnel est parfois exprimé avec des nuances ou réserves plutôt qu'affirmé sans aucune condition",
+    "themes": [
+      "Affirmation",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je le dirai jamais à moitié : vraiment heureux avec toi, sans réserve, sans condition.",
+      "Sans détour : heureux avec toi, pleinement, sans aucune condition à ça."
+    ]
   }
 ]

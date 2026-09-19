@@ -12582,5 +12582,855 @@
       "However today goes, tomorrow this rings the same time, and so does my effort.",
       "Whatever today brings, tomorrow's alarm and my effort both go off the same, promise."
     ]
+  },
+  {
+    "actionTitle": "Dans le panier de dons",
+    "text": "Ce qu'on donne ici revient toujours d'une façon ou d'une autre, comme ce que je te donne chaque jour sans y penser deux fois.",
+    "effect": "Relier un geste de générosité matérielle à la générosité affective quotidienne élargit le sens d'un objet fonctionnel destiné aux autres. Elle découvre une réflexion sur la générosité qui s'étend d'un panier de dons jusqu'à votre relation elle-même.",
+    "sectionTitle": "Post-its - Panier de dons",
+    "predictable": "Les objets liés à la générosité envers des tiers ne contiennent généralement pas de réflexion sur la générosité au sein du couple",
+    "themes": [
+      "Générosité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce qu'on donne revient toujours, comme ce que je te donne chaque jour.",
+      "Ce panier de dons me fait penser à tout ce que je te donne sans y penser."
+    ]
+  },
+  {
+    "actionTitle": "Sur la boîte à fusibles",
+    "text": "Cette boîte protège la maison des surcharges, et moi j'essaie de faire pareil pour toi, à ma façon, chaque jour.",
+    "effect": "Filer la métaphore de la protection électrique vers l'idée de protection affective ajoute une image concrète à un engagement de sécurité. Elle découvre une déclaration de protection cachée dans un objet purement technique et généralement ignoré.",
+    "sectionTitle": "Post-its - Boîte à fusibles",
+    "predictable": "Les objets techniques liés à la sécurité électrique ne contiennent généralement pas de déclaration de protection affective",
+    "themes": [
+      "Sécurité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette boîte protège des surcharges, j'essaie de faire pareil pour toi chaque jour.",
+      "Comme cette boîte protège la maison, j'essaie de te protéger à ma façon."
+    ]
+  },
+  {
+    "actionTitle": "Sur le calendrier mural",
+    "text": "Chaque jour qui passe sur ce calendrier est un jour de plus où je choisis à nouveau d'être avec toi, encore et encore.",
+    "effect": "Relier le passage du temps représenté par le calendrier à un choix quotidien renouvelé souligne la continuité active de l'engagement. Elle perçoit chaque jour qui passe non pas comme une routine acquise, mais comme un choix quotidien répété consciemment.",
+    "sectionTitle": "Post-its - Calendrier mural",
+    "predictable": "Le passage du temps sur un calendrier n'est généralement pas relié à un choix quotidien renouvelé dans la relation",
+    "themes": [
+      "Continuité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Chaque jour ici est un jour de plus où je choisis d'être avec toi, encore.",
+      "Ce calendrier avance, et chaque jour je te choisis à nouveau, sans exception."
+    ]
+  },
+  {
+    "actionTitle": "Sur la bouilloire",
+    "text": "Ça prend quelques minutes à chauffer, comme beaucoup de bonnes choses dans la vie, je suis prêt à attendre pour toi aussi.",
+    "effect": "Utiliser le temps d'attente nécessaire à un objet du quotidien comme métaphore de la patience relationnelle ajoute une image légère et tangible. Elle découvre une réflexion sur la patience glissée dans un objet associé à une attente quotidienne banale.",
+    "sectionTitle": "Post-its - Bouilloire",
+    "predictable": "Les objets associés à une attente quotidienne banale ne contiennent généralement pas de réflexion sur la patience en amour",
+    "themes": [
+      "Patience",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ça prend du temps à chauffer, comme les bonnes choses, prêt à attendre pour toi.",
+      "Comme cette bouilloire, certaines choses prennent du temps, et ça me va très bien."
+    ]
+  },
+  {
+    "actionTitle": "Sur la balance de cuisine",
+    "text": "Cette balance cherche toujours l'équilibre parfait, un peu comme j'essaie de le faire entre nous deux, chaque jour.",
+    "effect": "Filer la métaphore de l'équilibrage précis vers l'effort relationnel d'équité ajoute une image concrète et légère à un engagement abstrait. Elle découvre une réflexion sur l'équilibre du couple glissée dans un objet dont la fonction est justement de peser équitablement.",
+    "sectionTitle": "Post-its - Balance de cuisine",
+    "predictable": "Les objets de mesure précise ne contiennent généralement pas de réflexion sur l'équilibre recherché dans la relation",
+    "themes": [
+      "Équité",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette balance cherche l'équilibre parfait, comme j'essaie de le faire entre nous.",
+      "Comme cette balance, j'essaie toujours de garder les choses équilibrées entre nous."
+    ]
+  },
+  {
+    "actionTitle": "Sur la boussole",
+    "text": "Peu importe la direction que pointe cette aiguille, la seule direction qui compte vraiment pour moi, c'est vers toi.",
+    "effect": "Utiliser un objet symbolisant l'orientation et l'exploration pour affirmer une direction affective constante ajoute une image poétique à une déclaration simple. Elle découvre une déclaration d'attachement glissée dans un objet associé à l'aventure et à l'inconnu.",
+    "sectionTitle": "Post-its - Boussole",
+    "predictable": "Les objets liés à l'orientation et à l'aventure ne contiennent généralement pas de déclaration affective sur une direction constante",
+    "themes": [
+      "Aventure",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe où pointe l'aiguille, la seule direction qui compte c'est vers toi.",
+      "Cette boussole pointe partout, mais moi je pointe toujours vers toi."
+    ]
+  },
+  {
+    "actionTitle": "Dans l'agenda",
+    "text": "Parmi toutes ces pages remplies de rendez-vous, sache que penser à toi ne figure sur aucune page parce que c'est déjà partout, tout le temps.",
+    "effect": "Contraster la nature planifiée de l'agenda avec une pensée constante et non planifiée souligne l'omniprésence de l'attachement au-delà de toute organisation. Elle découvre que son importance dépasse le cadre même de ce qui peut être noté ou programmé.",
+    "sectionTitle": "Post-its - Agenda",
+    "predictable": "Les outils de planification ne contiennent généralement pas de déclaration sur une pensée constante qui dépasse toute organisation",
+    "themes": [
+      "Régularité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Penser à toi ne figure sur aucune page parce que c'est déjà partout, tout le temps.",
+      "Parmi tous ces rendez-vous, toi tu es déjà partout, pas besoin de le noter."
+    ]
+  },
+  {
+    "actionTitle": "Accroché au doudou",
+    "text": "Si jamais tu as besoin de te sentir en sécurité aujourd'hui, souviens-toi que je suis aussi fiable que ce petit compagnon ici.",
+    "effect": "Comparer sa propre fiabilité à celle d'un objet réconfortant familier depuis l'enfance ajoute une touche tendre et rassurante à la déclaration. Elle reçoit une promesse de stabilité affective comparée à quelque chose qu'elle associe déjà à la sécurité profonde.",
+    "sectionTitle": "Post-its - Doudou",
+    "predictable": "Les objets réconfortants d'enfance ne contiennent généralement pas de comparaison explicite avec la fiabilité d'un partenaire",
+    "themes": [
+      "Réassurance",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Besoin de te sentir en sécurité aujourd'hui ? Je suis aussi fiable que ce compagnon.",
+      "Comme ce doudou, je suis là, fiable, toujours prêt à te rassurer."
+    ]
+  },
+  {
+    "actionTitle": "Sur le diffuseur",
+    "text": "Que cette pièce sente le calme aujourd'hui, et que tu saches que je souhaite la même chose pour ce qui se passe dans ta tête.",
+    "effect": "Étendre l'effet apaisant d'un diffuseur d'huiles essentielles vers un souhait de calme mental élargit sa fonction au-delà du simple parfum de la pièce. Elle reçoit un souhait de tranquillité intérieure, pas seulement un souhait lié à l'ambiance physique de l'espace.",
+    "sectionTitle": "Post-its - Diffuseur d'huiles essentielles",
+    "predictable": "Les objets liés à l'ambiance physique d'une pièce ne contiennent généralement pas de souhait explicite de calme mental",
+    "themes": [
+      "Calme",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Que cette pièce sente le calme, et que ta tête ressente la même chose aujourd'hui.",
+      "J'espère que ce parfum calme la pièce autant que je souhaite calmer tes pensées."
+    ]
+  },
+  {
+    "actionTitle": "Dans le miroir de poche",
+    "text": "La prochaine fois que tu te regardes ici, dis-toi une chose vraie et bonne sur toi, je le pense sincèrement moi aussi.",
+    "effect": "Encourager une affirmation personnelle positive, tout en y ajoutant son propre soutien sincère, combine l'auto-affirmation et la validation extérieure. Elle est invitée à s'affirmer elle-même, tout en sachant que cette affirmation est aussi partagée et soutenue de l'extérieur.",
+    "sectionTitle": "Post-its - Miroir de poche",
+    "predictable": "Les objets de reflet personnel ne contiennent généralement pas d'encouragement explicite à l'auto-affirmation soutenu par un tiers",
+    "themes": [
+      "Affirmation",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La prochaine fois que tu te regardes ici, dis-toi une chose vraie et bonne, j'y crois aussi.",
+      "Regarde-toi ici et affirme quelque chose de bon sur toi, sincèrement, je le pense aussi."
+    ]
+  },
+  {
+    "actionTitle": "Le panier de dons, un second mot",
+    "text": "Chaque objet ici va faire du bien à quelqu'un qu'on ne connaîtra jamais, un peu comme certains de tes gestes envers moi.",
+    "effect": "Comparer l'impact anonyme de dons matériels à des gestes affectueux souvent discrets élargit la portée symbolique de la générosité quotidienne. Elle réalise que ses petits gestes envers toi ont un impact réel, même quand ils passent inaperçus sur le moment.",
+    "sectionTitle": "Post-its - Panier de dons",
+    "predictable": "Les gestes affectueux discrets ne sont généralement pas comparés à l'impact anonyme d'un don matériel envers un inconnu",
+    "themes": [
+      "Générosité",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Chaque objet ici aide quelqu'un qu'on ne connaîtra jamais, comme certains de tes gestes envers moi.",
+      "Ce panier aide des inconnus, comme tes petits gestes m'aident sans que tu le saches toujours."
+    ]
+  },
+  {
+    "actionTitle": "Sous le panier de dons",
+    "text": "Donner sans rien attendre en retour, c'est un peu ce que j'essaie de faire avec toi chaque jour, à ma façon.",
+    "effect": "Relier explicitement la philosophie du don désintéressé à l'approche quotidienne de la relation ancre un principe abstrait dans du concret. Elle perçoit une intention consciente derrière tes gestes du quotidien, pas juste des habitudes sans réflexion derrière.",
+    "sectionTitle": "Post-its - Panier de dons",
+    "predictable": "La philosophie du don désintéressé est rarement explicitement reliée à l'approche quotidienne adoptée dans la relation",
+    "themes": [
+      "Générosité",
+      "Intention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Donner sans rien attendre, c'est ce que j'essaie de faire avec toi chaque jour.",
+      "Comme ce panier, j'essaie de donner sans compter, à ma façon, tous les jours."
+    ]
+  },
+  {
+    "actionTitle": "Le panier de dons, dernière ligne",
+    "text": "La générosité qu'on montre aux inconnus, on devrait se la montrer encore plus l'un à l'autre, ne l'oublions jamais.",
+    "effect": "Suggérer que la générosité envers des inconnus devrait aussi, voire davantage, s'appliquer au sein du couple recentre l'attention sur la relation elle-même. Elle est invitée à réfléchir avec toi sur l'importance de ne pas négliger la générosité dans votre propre relation.",
+    "sectionTitle": "Post-its - Panier de dons",
+    "predictable": "La générosité envers des inconnus est rarement explicitement comparée à celle qui devrait exister d'abord dans le couple",
+    "themes": [
+      "Générosité",
+      "Réflexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La générosité pour des inconnus, montrons-la encore plus l'un à l'autre.",
+      "Ce qu'on donne à des inconnus, ne l'oublions jamais entre nous non plus."
+    ]
+  },
+  {
+    "actionTitle": "Le panier de dons, un mot léger",
+    "text": "Un jour, on devrait remplir ce panier ensemble, juste pour le plaisir de donner un peu de nous à quelqu'un d'autre.",
+    "effect": "Proposer un projet futur de générosité partagée transforme une réflexion individuelle en projet de couple concret et à venir. Elle envisage un futur moment de générosité vécu à deux, plutôt qu'une simple pensée passagère sur le sujet.",
+    "sectionTitle": "Post-its - Panier de dons",
+    "predictable": "La générosité envers des tiers est rarement proposée explicitement comme un futur projet à réaliser ensemble en couple",
+    "themes": [
+      "Générosité",
+      "Projection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un jour, remplissons ce panier ensemble, juste pour le plaisir de donner un peu.",
+      "On devrait faire ça ensemble un jour, donner un peu de nous à quelqu'un d'autre."
+    ]
+  },
+  {
+    "actionTitle": "La boîte à fusibles, un second mot",
+    "text": "Si jamais quelque chose disjoncte entre nous, sache que je suis du genre à chercher à réparer, pas à couper le courant.",
+    "effect": "Filer davantage la métaphore électrique vers l'engagement à résoudre les conflits plutôt qu'à fuir souligne une posture active face aux difficultés. Elle reçoit une promesse implicite que les tensions seront affrontées et réparées, jamais évitées ou abandonnées.",
+    "sectionTitle": "Post-its - Boîte à fusibles",
+    "predictable": "Les objets liés à la sécurité électrique ne contiennent généralement pas de promesse sur la façon de gérer les conflits",
+    "themes": [
+      "Sécurité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si ça disjoncte entre nous, je cherche à réparer, jamais à couper le courant.",
+      "Quand quelque chose disjoncte, je répare, je ne coupe jamais le courant entre nous."
+    ]
+  },
+  {
+    "actionTitle": "Sous la boîte à fusibles",
+    "text": "Cette boîte est là pour qu'on ne s'inquiète jamais des petits problèmes électriques, un peu comme j'aimerais que tu ne t'inquiètes jamais avec moi.",
+    "effect": "Étendre la fonction protectrice de l'objet technique vers un souhait explicite de tranquillité d'esprit relationnelle élargit son sens symbolique. Elle découvre un souhait sincère que sa relation avec toi soit aussi exempte d'inquiétude que la sécurité électrique de la maison.",
+    "sectionTitle": "Post-its - Boîte à fusibles",
+    "predictable": "Les objets techniques de sécurité domestique ne contiennent généralement pas de souhait explicite de tranquillité relationnelle",
+    "themes": [
+      "Sécurité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette boîte évite les soucis électriques, j'aimerais que tu n'aies jamais de souci avec moi.",
+      "Comme cette boîte protège des pannes, j'aimerais te protéger de toute inquiétude."
+    ]
+  },
+  {
+    "actionTitle": "La boîte à fusibles, un mot pratique",
+    "text": "On ne pense à cette boîte que quand quelque chose ne va pas, essayons de penser à notre sécurité affective même quand tout va bien.",
+    "effect": "Souligner que la sécurité, qu'elle soit électrique ou affective, mérite d'être considérée même en l'absence de crise renforce une attention proactive. Elle est invitée à cultiver consciemment un sentiment de sécurité, sans attendre qu'un problème ne le rende nécessaire.",
+    "sectionTitle": "Post-its - Boîte à fusibles",
+    "predictable": "La sécurité affective est généralement considérée seulement en cas de crise plutôt que cultivée activement même quand tout va bien",
+    "themes": [
+      "Sécurité",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "On y pense que quand ça ne va pas, pensons à notre sécurité même quand tout va bien.",
+      "Comme cette boîte, pensons à notre sécurité affective même sans problème apparent."
+    ]
+  },
+  {
+    "actionTitle": "La boîte à fusibles, dernier mot",
+    "text": "Ce petit interrupteur ramène tout à la normale en un instant, et je veux être ce genre de présence stable pour toi aussi.",
+    "effect": "Comparer la fonction réparatrice immédiate d'un dispositif de sécurité à l'aspiration d'être une présence stabilisatrice ajoute une image concrète à l'engagement. Elle perçoit une intention claire d'être un point de stabilité fiable, à l'image de cet objet technique simple mais essentiel.",
+    "sectionTitle": "Post-its - Boîte à fusibles",
+    "predictable": "Les dispositifs techniques de réparation rapide ne sont généralement pas comparés à l'aspiration d'être une présence stabilisatrice",
+    "themes": [
+      "Sécurité",
+      "Stabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cet interrupteur ramène tout à la normale vite, je veux être ça pour toi aussi.",
+      "Comme ce petit interrupteur, je veux être une présence stable et fiable pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le calendrier mural, un second mot",
+    "text": "Regarde tous ces jours déjà passés ensemble, et sache que je suis encore plus impatient pour tous ceux qui restent à venir.",
+    "effect": "Relier le passé accumulé visible sur le calendrier à une anticipation positive du futur montre une continuité qui s'étend dans les deux directions temporelles. Elle perçoit que la valeur accordée au temps partagé ne se limite pas au passé, mais s'étend avec enthousiasme vers l'avenir aussi.",
+    "sectionTitle": "Post-its - Calendrier mural",
+    "predictable": "Les calendriers muraux ne contiennent généralement pas de réflexion reliant les jours passés à une anticipation du futur",
+    "themes": [
+      "Continuité",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Regarde tous ces jours passés ensemble, et je suis impatient pour ceux à venir.",
+      "Tant de jours déjà passés ici ensemble, et j'ai hâte pour tous ceux qui restent."
+    ]
+  },
+  {
+    "actionTitle": "Sous le calendrier mural",
+    "text": "Peu importe combien de pages on tourne ensemble, l'histoire qu'on écrit reste la même, juste de plus en plus riche.",
+    "effect": "Utiliser la métaphore des pages tournées pour souligner la continuité narrative de la relation, malgré le passage du temps, valorise sa constance. Elle perçoit votre histoire comme une continuité enrichie plutôt qu'une succession d'épisodes déconnectés les uns des autres.",
+    "sectionTitle": "Post-its - Calendrier mural",
+    "predictable": "Le passage des pages d'un calendrier n'est généralement pas relié explicitement à la continuité narrative d'une histoire de couple",
+    "themes": [
+      "Continuité",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe combien de pages on tourne, notre histoire reste la même, plus riche.",
+      "Chaque page tournée ici, notre histoire continue, toujours plus riche qu'avant."
+    ]
+  },
+  {
+    "actionTitle": "Le calendrier mural, un mot léger",
+    "text": "Un jour de plus qui passe est un jour de plus de preuves qu'on tient bon, ensemble, à travers tout.",
+    "effect": "Interpréter chaque jour écoulé comme une preuve cumulative de résilience relationnelle valorise la durée elle-même comme un accomplissement. Elle perçoit le simple fait de durer ensemble comme une réussite active plutôt qu'un fait neutre et évident.",
+    "sectionTitle": "Post-its - Calendrier mural",
+    "predictable": "Le simple passage du temps dans une relation est rarement explicitement interprété comme une preuve cumulative de résilience",
+    "themes": [
+      "Continuité",
+      "Fierté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un jour de plus, une preuve de plus qu'on tient bon ensemble, à travers tout.",
+      "Chaque jour qui passe ici est une preuve de plus qu'on tient bon, ensemble."
+    ]
+  },
+  {
+    "actionTitle": "Le calendrier mural, dernière ligne",
+    "text": "Peu importe ce qui est prévu sur cette page ce mois-ci, la seule chose vraiment fixe, c'est toi et moi, ensemble.",
+    "effect": "Affirmer que la relation reste la constante fondamentale, indépendamment des événements planifiés qui changent d'un mois à l'autre, rassure sur sa stabilité. Elle perçoit la relation comme l'élément fixe et immuable, contrastant avec tout ce qui change et se planifie autour.",
+    "sectionTitle": "Post-its - Calendrier mural",
+    "predictable": "La relation est rarement explicitement présentée comme l'élément fixe et immuable au milieu d'un calendrier qui change constamment",
+    "themes": [
+      "Continuité",
+      "Stabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe ce qui est prévu ce mois-ci, la seule chose fixe c'est toi et moi.",
+      "Tout change sur cette page chaque mois, sauf nous deux, toujours là, ensemble."
+    ]
+  },
+  {
+    "actionTitle": "La bouilloire, un second mot",
+    "text": "Comme cette eau qui met du temps à bouillir, certaines de nos meilleures discussions ont aussi besoin d'un peu de temps pour vraiment chauffer.",
+    "effect": "Étendre la métaphore de la chaleur progressive vers la dynamique des conversations importantes normalise le fait qu'elles ne se déploient pas instantanément. Elle perçoit une validation implicite que les échanges profonds prennent du temps à se développer pleinement, sans que ce soit un problème.",
+    "sectionTitle": "Post-its - Bouilloire",
+    "predictable": "Les objets liés à un temps de chauffe ne sont généralement pas reliés à la dynamique progressive des conversations importantes",
+    "themes": [
+      "Patience",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme cette eau qui met du temps à bouillir, nos meilleures discussions aussi.",
+      "Cette eau prend son temps pour chauffer, nos vraies conversations aussi parfois."
+    ]
+  },
+  {
+    "actionTitle": "Sous la bouilloire",
+    "text": "Le thé infuse toujours mieux quand on ne le presse pas, un peu comme les moments importants entre nous, je crois.",
+    "effect": "Comparer le processus d'infusion à la maturation naturelle des moments relationnels importants valorise la patience comme condition de qualité. Elle perçoit une réflexion douce sur le fait que précipiter les choses importantes de la relation ne les rendrait pas meilleures.",
+    "sectionTitle": "Post-its - Bouilloire",
+    "predictable": "Le processus d'infusion n'est généralement pas comparé explicitement à la maturation naturelle des moments relationnels",
+    "themes": [
+      "Patience",
+      "Réflexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le thé infuse mieux sans être pressé, comme les moments importants entre nous.",
+      "Comme une bonne infusion, les moments importants entre nous prennent leur temps."
+    ]
+  },
+  {
+    "actionTitle": "La bouilloire, un mot chaud",
+    "text": "Chaque tasse qu'on partage ici représente pour moi un petit moment de patience récompensée, comme beaucoup de choses avec toi.",
+    "effect": "Relier un rituel quotidien simple à une réflexion plus large sur la patience récompensée dans la relation donne du sens à un geste banal. Elle perçoit un objet ordinaire transformé en symbole de la valeur accordée à la patience partagée entre vous.",
+    "sectionTitle": "Post-its - Bouilloire",
+    "predictable": "Les rituels quotidiens simples comme partager une boisson chaude ne sont pas généralement reliés à une réflexion sur la patience",
+    "themes": [
+      "Patience",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Chaque tasse partagée ici, un petit moment de patience récompensée, comme avec toi.",
+      "Ces tasses partagées représentent pour moi la patience qui finit toujours par payer."
+    ]
+  },
+  {
+    "actionTitle": "La bouilloire, dernier mot",
+    "text": "Le sifflement de cette bouilloire annonce toujours que quelque chose de bon arrive bientôt, un peu comme ma patience avec toi.",
+    "effect": "Comparer le signal annonciateur d'un objet quotidien à la promesse implicite que la patience relationnelle porte toujours ses fruits ajoute une image chaleureuse. Elle perçoit une déclaration rassurante que ta patience envers elle mène toujours vers quelque chose de positif, tout comme le signal familier de cet objet.",
+    "sectionTitle": "Post-its - Bouilloire",
+    "predictable": "Le signal sonore annonciateur d'un objet quotidien n'est généralement pas comparé à la promesse de la patience en amour",
+    "themes": [
+      "Patience",
+      "Réassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le sifflement annonce que du bon arrive bientôt, comme ma patience avec toi.",
+      "Ce sifflement annonce toujours du bon, comme ma patience finit toujours par payer avec toi."
+    ]
+  },
+  {
+    "actionTitle": "La balance, un second mot",
+    "text": "Cette balance ne ment jamais sur le poids réel des choses, et j'essaie d'être aussi honnête que ça sur l'équilibre entre nous.",
+    "effect": "Relier la précision objective d'un instrument de mesure à un engagement d'honnêteté sur l'équilibre relationnel ajoute une dimension de sincérité à l'équité. Elle perçoit une promesse d'honnêteté sur la façon dont tu perçois et évalues l'équilibre de vos contributions respectives.",
+    "sectionTitle": "Post-its - Balance de cuisine",
+    "predictable": "Les instruments de mesure précis ne sont généralement pas reliés à un engagement d'honnêteté sur l'équilibre relationnel",
+    "themes": [
+      "Équité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette balance ne ment jamais, j'essaie d'être aussi honnête sur l'équilibre entre nous.",
+      "Comme cette balance, j'essaie d'être honnête sur ce qui est vraiment équilibré entre nous."
+    ]
+  },
+  {
+    "actionTitle": "Sous la balance de cuisine",
+    "text": "Un tout petit ajustement ici change tout le résultat, un peu comme un petit geste d'équité peut changer beaucoup entre nous.",
+    "effect": "Utiliser la sensibilité d'un instrument de précision comme métaphore de l'impact des petits ajustements relationnels valorise les gestes mineurs d'équité. Elle perçoit que même de petits efforts pour rééquilibrer les choses peuvent avoir un effet significatif sur la relation dans son ensemble.",
+    "sectionTitle": "Post-its - Balance de cuisine",
+    "predictable": "La sensibilité d'un instrument de mesure n'est généralement pas comparée à l'impact des petits ajustements relationnels",
+    "themes": [
+      "Équité",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un tout petit ajustement ici change tout, comme un petit geste d'équité entre nous.",
+      "Un petit changement ici change tout le résultat, un petit geste équitable aussi."
+    ]
+  },
+  {
+    "actionTitle": "La balance, un mot pratique",
+    "text": "Peser les ingrédients avec précision, c'est facile ; peser équitablement les efforts dans une relation, ça demande un peu plus d'attention chaque jour.",
+    "effect": "Contraster la facilité de mesurer des ingrédients avec la complexité de mesurer l'équité relationnelle reconnaît l'effort continu nécessaire à l'équité réelle. Elle perçoit une reconnaissance honnête que l'équité entre vous demande un effort actif et non un simple équilibre naturel et automatique.",
+    "sectionTitle": "Post-its - Balance de cuisine",
+    "predictable": "La précision facile de mesurer des ingrédients n'est généralement pas contrastée avec la complexité de l'équité relationnelle",
+    "themes": [
+      "Équité",
+      "Effort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peser des ingrédients c'est facile, peser équitablement les efforts demande plus d'attention.",
+      "Facile de peser des ingrédients, plus dur de peser équitablement nos efforts, mais j'essaie."
+    ]
+  },
+  {
+    "actionTitle": "La balance, dernier mot",
+    "text": "Le jour où cette balance affiche zéro parfait, ça me rappelle qu'un vrai équilibre entre nous, ça se construit, pas juste ça arrive.",
+    "effect": "Utiliser le moment de calibrage parfait d'un instrument comme métaphore de l'effort actif nécessaire à un équilibre relationnel réel souligne que l'équité se construit consciemment. Elle perçoit une réflexion honnête sur le fait que l'équilibre entre vous demande un travail actif plutôt qu'un état naturel acquis une fois pour toutes.",
+    "sectionTitle": "Post-its - Balance de cuisine",
+    "predictable": "Le calibrage précis d'un instrument de mesure n'est généralement pas relié à l'idée que l'équilibre relationnel se construit activement",
+    "themes": [
+      "Équité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le zéro parfait ici me rappelle qu'un vrai équilibre entre nous se construit.",
+      "Cette balance à zéro me rappelle que notre équilibre se construit, ça n'arrive pas tout seul."
+    ]
+  },
+  {
+    "actionTitle": "La boussole, un second mot",
+    "text": "Une boussole ne pointe jamais vers un endroit précis, juste une direction, un peu comme mon envie constante de me rapprocher de toi.",
+    "effect": "Distinguer entre une destination fixe et une direction constante souligne que l'orientation affective repose sur un mouvement continu plutôt qu'un objectif figé. Elle perçoit une déclaration sur un attachement dynamique et constant, plutôt qu'un objectif ponctuel atteint puis abandonné.",
+    "sectionTitle": "Post-its - Boussole",
+    "predictable": "Les objets d'orientation ne sont généralement pas reliés à la distinction entre un objectif figé et une direction affective constante",
+    "themes": [
+      "Aventure",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Une boussole pointe une direction, pas un endroit, comme mon envie de me rapprocher de toi.",
+      "Ça pointe toujours une direction, pas un point fixe, comme mon envie constante de toi."
+    ]
+  },
+  {
+    "actionTitle": "Sous la boussole",
+    "text": "Même perdu quelque part, cet objet retrouve toujours le nord, un peu comme je sais toujours retrouver le chemin vers toi.",
+    "effect": "Utiliser la fiabilité d'une boussole face à l'égarement comme métaphore de la certitude affective malgré les périodes de confusion ou de difficulté. Elle perçoit une promesse rassurante que, quoi qu'il arrive, tu trouveras toujours le chemin de retour vers elle.",
+    "sectionTitle": "Post-its - Boussole",
+    "predictable": "La fiabilité d'un instrument d'orientation face à l'égarement n'est généralement pas comparée à la certitude affective en amour",
+    "themes": [
+      "Aventure",
+      "Réassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même perdu, ça retrouve toujours le nord, comme je retrouve toujours le chemin vers toi.",
+      "Cet objet retrouve toujours sa direction, moi je retrouve toujours le chemin vers toi."
+    ]
+  },
+  {
+    "actionTitle": "La boussole, un mot d'aventure",
+    "text": "La prochaine fois qu'on ne sait pas où aller, laissons cette petite aiguille décider pour nous, juste pour le plaisir de l'aventure.",
+    "effect": "Proposer d'abandonner le contrôle décisionnel à un instrument aléatoire introduit un élément ludique d'aventure dans la prise de décision quotidienne. Elle est invitée à un futur moment d'incertitude partagée et assumée avec légèreté, plutôt qu'anxieusement évitée.",
+    "sectionTitle": "Post-its - Boussole",
+    "predictable": "Le contrôle décisionnel sur une destination n'est généralement pas proposé d'être abandonné à un instrument aléatoire pour le jeu",
+    "themes": [
+      "Aventure",
+      "Spontanéité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La prochaine fois qu'on hésite, laissons cette aiguille décider, juste pour le plaisir.",
+      "On devrait laisser cette petite aiguille décider un jour, juste pour l'aventure."
+    ]
+  },
+  {
+    "actionTitle": "La boussole, dernier mot",
+    "text": "Le nord ne change jamais vraiment, seulement notre façon de le voir, un peu comme mes sentiments pour toi restent constants malgré tout.",
+    "effect": "Comparer l'immuabilité d'un point cardinal fixe à la stabilité des sentiments, malgré les fluctuations de perspective, rassure sur leur constance profonde. Elle reçoit une déclaration rassurante sur la permanence de tes sentiments, indépendamment des variations superficielles du quotidien.",
+    "sectionTitle": "Post-its - Boussole",
+    "predictable": "L'immuabilité d'un point cardinal fixe n'est généralement pas comparée à la stabilité constante des sentiments amoureux",
+    "themes": [
+      "Aventure",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le nord ne change jamais, comme mes sentiments pour toi restent constants malgré tout.",
+      "Ça pointe toujours pareil au fond, comme mes sentiments pour toi, toujours constants."
+    ]
+  },
+  {
+    "actionTitle": "L'agenda, un second mot",
+    "text": "Il y a des choses qu'on ne planifie jamais et qui comptent le plus, comme le moment précis où j'ai su que je t'aimais.",
+    "effect": "Contraster ce qui est méthodiquement planifié avec les moments les plus significatifs qui échappent totalement à toute organisation valorise l'imprévu émotionnel. Elle réalise que les instants les plus marquants de votre histoire ne figurent jamais réellement dans un agenda, et c'est précisément ce qui les rend précieux.",
+    "sectionTitle": "Post-its - Agenda",
+    "predictable": "Les outils de planification ne contiennent généralement pas de réflexion sur les moments significatifs qui échappent à toute organisation",
+    "themes": [
+      "Régularité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Y a des choses qu'on ne planifie jamais qui comptent le plus, comme t'aimer.",
+      "Le moment où j'ai su que je t'aimais n'était sur aucune page ici, et c'est parfait comme ça."
+    ]
+  },
+  {
+    "actionTitle": "Sous l'agenda",
+    "text": "Entre deux rendez-vous prévus ici, il y a toi, constamment présente, sans jamais avoir eu besoin d'un créneau réservé.",
+    "effect": "Souligner que sa présence dans tes pensées n'a jamais nécessité de planification formelle contraste avec la nature méthodique de l'objet lui-même. Elle perçoit qu'elle occupe une place constante et naturelle dans ton esprit, bien au-delà de ce qu'un simple emploi du temps pourrait capturer.",
+    "sectionTitle": "Post-its - Agenda",
+    "predictable": "Les outils de planification ne contiennent généralement pas de déclaration sur une présence constante qui dépasse toute organisation",
+    "themes": [
+      "Régularité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Entre deux rendez-vous ici, il y a toi, sans jamais avoir eu besoin d'un créneau.",
+      "Tu es constamment là entre ces pages, sans jamais avoir eu besoin d'être planifiée."
+    ]
+  },
+  {
+    "actionTitle": "L'agenda, un mot fiable",
+    "text": "Chaque page tournée ici est une preuve de plus qu'on continue d'avancer ensemble, semaine après semaine, sans exception.",
+    "effect": "Utiliser le rythme structuré d'un agenda comme preuve tangible de la continuité et de la fiabilité de la relation dans le temps. Elle perçoit une reconnaissance concrète que la régularité du quotidien partagé constitue en elle-même une preuve d'engagement continu.",
+    "sectionTitle": "Post-its - Agenda",
+    "predictable": "Le rythme structuré d'un agenda n'est généralement pas explicitement relié à une preuve de continuité relationnelle dans le temps",
+    "themes": [
+      "Régularité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Chaque page tournée ici, une preuve qu'on avance ensemble, semaine après semaine.",
+      "Page après page, la preuve qu'on continue ensemble, sans exception, toujours."
+    ]
+  },
+  {
+    "actionTitle": "L'agenda, dernière ligne",
+    "text": "Peu importe combien de choses sont notées ici cette semaine, le rendez-vous le plus important reste toujours celui avec toi, chaque jour.",
+    "effect": "Affirmer explicitement la priorité constante accordée à la relation, malgré la multitude d'engagements planifiés, renforce sa place centrale. Elle perçoit une hiérarchie claire où, malgré un emploi du temps chargé, elle reste toujours en tête des priorités réelles.",
+    "sectionTitle": "Post-its - Agenda",
+    "predictable": "La priorité accordée à la relation parmi de multiples engagements planifiés est rarement explicitement affirmée par écrit",
+    "themes": [
+      "Régularité",
+      "Priorité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe ce qui est noté cette semaine, le rendez-vous le plus important reste avec toi.",
+      "Autant de choses notées cette semaine, mais le plus important reste toujours toi, chaque jour."
+    ]
+  },
+  {
+    "actionTitle": "Le doudou, un second mot",
+    "text": "Ce petit compagnon a traversé des tempêtes avec toi depuis longtemps, et j'aimerais être aussi fiable pour le reste de ta vie.",
+    "effect": "Reconnaître explicitement la fonction historique de réconfort d'un objet d'enfance, tout en aspirant à occuper un rôle similaire, montre une ambition affective sincère. Elle perçoit une aspiration sincère à devenir une source de réconfort aussi constante que celle offerte par cet objet depuis toujours.",
+    "sectionTitle": "Post-its - Doudou",
+    "predictable": "Les objets réconfortants d'enfance ne sont généralement pas reliés à une aspiration explicite à devenir soi-même une source de réconfort",
+    "themes": [
+      "Réassurance",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce compagnon a traversé des tempêtes avec toi, j'aimerais être aussi fiable pour toi.",
+      "Il t'accompagne depuis longtemps, j'aimerais être un réconfort aussi constant pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Sous le doudou",
+    "text": "Même les objets les plus doux ont besoin d'être serrés fort parfois, comme moi j'ai parfois besoin que tu me serres fort aussi.",
+    "effect": "Retourner la dynamique de réconfort habituelle en révélant une vulnérabilité personnelle crée une réciprocité inattendue dans l'échange de soutien. Elle découvre que le besoin de réconfort n'est pas à sens unique, ce qui invite à une forme d'intimité et de vulnérabilité partagée.",
+    "sectionTitle": "Post-its - Doudou",
+    "predictable": "Le besoin de réconfort est généralement présenté à sens unique plutôt que reconnu comme réciproque et partagé",
+    "themes": [
+      "Réassurance",
+      "Vulnérabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même les objets doux ont besoin d'être serrés fort, moi aussi parfois, avec toi.",
+      "Ce doudou a besoin d'être serré fort, et moi aussi parfois, j'ai besoin de toi comme ça."
+    ]
+  },
+  {
+    "actionTitle": "Le doudou, un mot tendre",
+    "text": "La douceur de ce petit compagnon me rappelle à quel point tu adoucis tout ce qui pourrait sembler dur dans ma vie.",
+    "effect": "Relier la texture réconfortante d'un objet familier à l'effet apaisant global de sa présence dans ta vie ajoute une comparaison tendre et sensorielle. Elle reçoit une déclaration sincère sur l'effet global et apaisant de sa présence, comparé à quelque chose d'intimement familier et rassurant.",
+    "sectionTitle": "Post-its - Doudou",
+    "predictable": "La texture réconfortante d'un objet familier n'est généralement pas comparée à l'effet apaisant global de la présence d'une personne",
+    "themes": [
+      "Réassurance",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La douceur de ce compagnon me rappelle comme tu adoucis tout dans ma vie.",
+      "Ce petit doudou est doux, mais tu adoucis encore plus de choses dans ma vie."
+    ]
+  },
+  {
+    "actionTitle": "Le doudou, dernier mot",
+    "text": "On garde ce genre d'objet parce qu'il nous rappelle qu'on n'est jamais vraiment seuls, exactement comme je veux que tu te sentes avec moi.",
+    "effect": "Interpréter la fonction psychologique profonde d'un objet transitionnel d'enfance comme un parallèle direct à l'engagement affectif offert dans la relation actuelle. Elle perçoit une promesse explicite que ta présence vise à recréer ce même sentiment fondamental de ne jamais être seule.",
+    "sectionTitle": "Post-its - Doudou",
+    "predictable": "La fonction psychologique d'un objet transitionnel d'enfance n'est généralement pas explicitement reliée à l'engagement affectif d'un partenaire adulte",
+    "themes": [
+      "Réassurance",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "On garde ça parce que ça rappelle qu'on n'est jamais seul, comme avec moi.",
+      "Cet objet rappelle qu'on n'est jamais vraiment seul, exactement ce que je veux pour toi avec moi."
+    ]
+  },
+  {
+    "actionTitle": "Le diffuseur, un second mot",
+    "text": "Un peu de vapeur, quelques gouttes, et toute la pièce change d'ambiance, un peu comme un petit geste de calme peut changer toute une soirée.",
+    "effect": "Comparer la transformation rapide et légère d'une pièce par un diffuseur à l'effet significatif de petits gestes apaisants dans la relation valorise leur impact. Elle perçoit que de petites actions simples peuvent avoir un effet disproportionné sur l'ambiance générale d'un moment partagé.",
+    "sectionTitle": "Post-its - Diffuseur d'huiles essentielles",
+    "predictable": "Les objets liés à l'ambiance physique ne sont généralement pas reliés explicitement à l'impact de petits gestes apaisants sur une soirée",
+    "themes": [
+      "Calme",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un peu de vapeur change toute la pièce, comme un petit geste de calme change une soirée.",
+      "Quelques gouttes changent l'ambiance, comme un petit geste calme change tout entre nous."
+    ]
+  },
+  {
+    "actionTitle": "Sous le diffuseur",
+    "text": "Cette odeur douce reste même après que l'appareil s'est arrêté, un peu comme le calme qu'on se donne l'un à l'autre reste après un bon moment ensemble.",
+    "effect": "Souligner la persistance d'un effet apaisant, même après la fin de l'action qui l'a produit, valorise la durabilité des effets du calme partagé. Elle perçoit que les moments de calme partagés laissent une empreinte positive durable, bien après que le moment lui-même soit terminé.",
+    "sectionTitle": "Post-its - Diffuseur d'huiles essentielles",
+    "predictable": "La persistance d'un effet apaisant après la fin d'une action n'est généralement pas comparée à la durabilité du calme partagé en couple",
+    "themes": [
+      "Calme",
+      "Continuité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette odeur reste après l'arrêt, comme le calme qu'on se donne reste après un bon moment.",
+      "Ça sent bon encore après, comme le calme entre nous reste bien après le moment lui-même."
+    ]
+  },
+  {
+    "actionTitle": "Le diffuseur, un mot doux",
+    "text": "Choisis le parfum qui te fait le plus de bien aujourd'hui, tu as le droit de prioriser ce qui t'apaise, sans culpabiliser.",
+    "effect": "Encourager explicitement la priorisation du confort personnel, sans culpabilité, valide le besoin légitime de calme comme un droit plutôt qu'un luxe. Elle reçoit une permission directe de choisir ce qui l'apaise, sans avoir besoin de le justifier davantage.",
+    "sectionTitle": "Post-its - Diffuseur d'huiles essentielles",
+    "predictable": "La priorisation du confort personnel apaisant est rarement explicitement encouragée et validée sans besoin de justification",
+    "themes": [
+      "Calme",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis le parfum qui te fait du bien aujourd'hui, tu as le droit, sans culpabiliser.",
+      "Priorise ce qui t'apaise aujourd'hui, tu en as le droit, pas besoin de te justifier."
+    ]
+  },
+  {
+    "actionTitle": "Le diffuseur, dernier mot",
+    "text": "Le calme qu'on cultive ici, dans cette pièce, j'espère qu'il se propage aussi un peu à tout le reste de ta vie dehors.",
+    "effect": "Étendre l'effet apaisant local d'un objet domestique vers un souhait plus large de calme dans l'ensemble de sa vie quotidienne élargit sa portée symbolique. Elle reçoit un souhait sincère que le calme cultivé chez vous rayonne aussi au-delà de ces murs, dans tout ce qu'elle vit ailleurs.",
+    "sectionTitle": "Post-its - Diffuseur d'huiles essentielles",
+    "predictable": "Le calme cultivé dans un espace domestique n'est généralement pas explicitement souhaité comme se propageant au reste de la vie",
+    "themes": [
+      "Calme",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le calme qu'on cultive ici, j'espère qu'il se propage un peu à tout le reste de ta vie.",
+      "J'espère que ce calme d'ici te suit un peu partout ailleurs dans ta vie aussi."
+    ]
+  },
+  {
+    "actionTitle": "Le miroir de poche, un second mot",
+    "text": "Ce petit miroir ne montre qu'une partie de toi à la fois, mais moi je vois toute la personne, en entier, et j'aime ce que je vois.",
+    "effect": "Contraster la vision partielle offerte par un petit miroir avec une perception globale et affectueuse de sa personne entière valorise une reconnaissance complète. Elle reçoit une déclaration affirmant que ta perception d'elle dépasse largement ce qu'un simple reflet physique pourrait montrer.",
+    "sectionTitle": "Post-its - Miroir de poche",
+    "predictable": "Les objets de reflet partiel ne sont généralement pas contrastés avec une déclaration sur une perception globale et affectueuse",
+    "themes": [
+      "Affirmation",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce miroir montre une partie de toi, moi je vois toute la personne, et j'aime ça.",
+      "Ce petit miroir ne montre qu'un bout, moi je vois tout de toi, et c'est ce que j'aime."
+    ]
+  },
+  {
+    "actionTitle": "Sous le miroir de poche",
+    "text": "Ce que ce miroir reflète change selon l'angle, mais ce que je pense de toi reste identique, peu importe sous quel jour tu te montres.",
+    "effect": "Comparer la variabilité du reflet selon l'angle de vue à la constance de la perception affective, malgré les différentes facettes montrées, rassure sur sa stabilité. Elle reçoit une affirmation que ton appréciation d'elle reste stable et constante, indépendamment des variations de son propre état ou humeur.",
+    "sectionTitle": "Post-its - Miroir de poche",
+    "predictable": "La variabilité d'un reflet selon l'angle n'est généralement pas comparée à la constance de la perception affective d'un partenaire",
+    "themes": [
+      "Affirmation",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que ça reflète change selon l'angle, ce que je pense de toi reste identique toujours.",
+      "Le reflet change selon l'angle, mon avis sur toi ne change jamais, peu importe le jour."
+    ]
+  },
+  {
+    "actionTitle": "Le miroir de poche, un mot direct",
+    "text": "Regarde-toi dans ce miroir et dis à voix haute une chose que tu aimes chez toi, même si c'est difficile au début.",
+    "effect": "Encourager activement une pratique d'auto-affirmation, même face à une résistance initiale, pousse doucement vers une reconnaissance personnelle plus consciente. Elle est invitée à pratiquer concrètement une affirmation de soi, avec un encouragement explicite à persévérer malgré la difficulté possible.",
+    "sectionTitle": "Post-its - Miroir de poche",
+    "predictable": "L'encouragement actif à une pratique concrète d'auto-affirmation, malgré la difficulté, est rarement explicitement proposé",
+    "themes": [
+      "Affirmation",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Regarde-toi ici et dis à voix haute une chose que tu aimes chez toi, même si c'est dur.",
+      "Dis à voix haute une chose que tu aimes chez toi en te regardant ici, essaie vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Le miroir de poche, dernier mot",
+    "text": "Un jour tu verras dans ce miroir exactement ce que je vois déjà depuis longtemps, quelqu'un de vraiment remarquable.",
+    "effect": "Projeter vers un futur où sa propre perception d'elle-même rejoindra enfin celle, déjà positive, que tu as depuis longtemps, offre un espoir affectueux. Elle reçoit une promesse patiente que sa propre estime de soi finira par refléter la valeur que tu lui reconnais déjà pleinement.",
+    "sectionTitle": "Post-its - Miroir de poche",
+    "predictable": "La projection future d'une perception de soi rejoignant celle déjà positive d'un partenaire est rarement explicitement exprimée",
+    "themes": [
+      "Affirmation",
+      "Espoir"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un jour tu verras ici ce que je vois déjà, quelqu'un de vraiment remarquable.",
+      "Tu verras un jour dans ce miroir ce que je vois depuis longtemps, une personne remarquable."
+    ]
   }
 ]

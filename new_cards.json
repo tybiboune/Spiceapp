@@ -14138,5 +14138,855 @@
       "Check in at a similar time each day, so it becomes a predictable anchor.",
       "Don't wait for her to ask again if she didn't respond to the first offer."
     ]
+  },
+  {
+    "actionTitle": "Le geste gratuit du jour",
+    "text": "Fais quelque chose pour elle aujourd'hui qui ne te coûte presque rien, mais qui lui fait vraiment plaisir.",
+    "effect": "Un geste généreux qui ne demande presque aucun effort ni ressource montre que la générosité peut naître de l'attention plutôt que du sacrifice. Elle reçoit une preuve que ton envie de lui faire plaisir ne dépend pas de grands moyens.",
+    "sectionTitle": "Le grand élan de générosité",
+    "predictable": "Les gestes de générosité sont souvent associés à un effort ou une dépense importante plutôt qu'à un geste simple et gratuit",
+    "themes": [
+      "Générosité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis un geste qui ne te coûte presque rien mais qui compte vraiment pour elle.",
+      "Fais-le sans qu'elle ait à le demander, juste par envie de donner."
+    ]
+  },
+  {
+    "actionTitle": "Le dernier morceau qui lui revient",
+    "text": "La prochaine fois que vous partagez quelque chose à manger, laisse-lui volontairement le meilleur morceau sans qu'elle le remarque.",
+    "effect": "Céder discrètement la meilleure part sans chercher de reconnaissance illustre une générosité désintéressée plutôt que performative. Elle profite d'une attention généreuse qui ne cherche même pas à être vue ou remerciée.",
+    "sectionTitle": "Le grand élan de générosité",
+    "predictable": "La générosité dans le partage de nourriture est rarement discrète, elle cherche souvent à être remarquée",
+    "themes": [
+      "Générosité",
+      "Discrétion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais-le sans le souligner, juste en actes.",
+      "Si elle le remarque, minimise-le plutôt que d'en faire un événement."
+    ]
+  },
+  {
+    "actionTitle": "Le temps offert sans compter",
+    "text": "Offre-lui une heure de ton temps aujourd'hui, entièrement à sa disposition, sans autre projet ni distraction de ton côté.",
+    "effect": "Donner du temps sans arrière-pensée ni attente de retour immédiat traite le temps comme une ressource précieuse à offrir librement. Elle bénéficie d'une disponibilité totale, rare dans un quotidien généralement fragmenté entre plusieurs priorités.",
+    "sectionTitle": "Le grand élan de générosité",
+    "predictable": "Le temps offert à l'autre est généralement fragmenté entre plusieurs priorités plutôt que donné entièrement et sans compter",
+    "themes": [
+      "Générosité",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Éteins ton téléphone pendant cette heure pour que ce soit vraiment total.",
+      "Laisse-la décider entièrement de ce que vous ferez de ce temps."
+    ]
+  },
+  {
+    "actionTitle": "Le compliment généreux et précis",
+    "text": "Complimente-la aujourd'hui sur quelque chose de précis, en donnant plus de détails que d'habitude, juste pour la valoriser pleinement.",
+    "effect": "Développer un compliment avec des détails, plutôt que de rester bref, montre une générosité d'attention et de mots rarement offerte. Elle reçoit une reconnaissance élaborée qui prend le temps de vraiment nommer ce qui est apprécié.",
+    "sectionTitle": "Le grand élan de générosité",
+    "predictable": "Les compliments restent généralement brefs plutôt que développés avec des détails généreux",
+    "themes": [
+      "Générosité",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Donne au moins trois détails précis plutôt qu'une phrase générale.",
+      "Explique pourquoi chaque détail compte vraiment pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le cadeau sans occasion",
+    "text": "Offre-lui un petit quelque chose aujourd'hui, sans qu'il y ait de date spéciale ni de raison particulière.",
+    "effect": "Offrir un cadeau en dehors de toute occasion prouve que la générosité n'a pas besoin d'un prétexte calendaire pour s'exprimer. Elle reçoit une preuve d'attention totalement gratuite, détachée de toute convention sociale ou obligation.",
+    "sectionTitle": "Le grand élan de générosité",
+    "predictable": "Les cadeaux sont généralement liés à une occasion spéciale plutôt qu'offerts sans aucune raison particulière",
+    "themes": [
+      "Générosité",
+      "Surprise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis quelque chose de petit et symbolique plutôt que coûteux.",
+      "N'explique pas la raison, laisse le geste parler de lui-même."
+    ]
+  },
+  {
+    "actionTitle": "Le mot qui rassure avant de partir",
+    "text": "Avant qu'elle parte quelque part seule, dis-lui explicitement que tu penseras à elle et que tout ira bien.",
+    "effect": "Verbaliser une pensée rassurante avant une séparation temporaire transforme un moment potentiellement anxiogène en instant de sécurité affective. Elle part avec une parole concrète de soutien plutôt qu'un silence qui pourrait laisser place au doute.",
+    "sectionTitle": "Le socle de sécurité",
+    "predictable": "Les départs et séparations temporaires se passent généralement sans parole explicite de réconfort avant de partir",
+    "themes": [
+      "Sécurité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dis-le clairement, sans minimiser ni tourner ça en blague.",
+      "Ajoute un geste physique simple, comme une main sur l'épaule, pour appuyer les mots."
+    ]
+  },
+  {
+    "actionTitle": "Le message d'arrivée attendu",
+    "text": "Demande-lui de te prévenir dès qu'elle est bien arrivée quelque part, et montre que ça compte vraiment pour toi de le savoir.",
+    "effect": "Exprimer explicitement le besoin d'être rassuré sur son arrivée montre une préoccupation sincère pour sa sécurité physique. Elle sent que son trajet est suivi avec une attention réelle, pas juste par politesse formelle.",
+    "sectionTitle": "Le socle de sécurité",
+    "predictable": "La sécurité physique pendant un trajet est rarement suivie avec une attention explicitement exprimée",
+    "themes": [
+      "Sécurité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Explique pourquoi ça compte pour toi, pas juste que tu le demandes.",
+      "Réponds toujours avec un mot chaleureux quand elle te confirme être arrivée."
+    ]
+  },
+  {
+    "actionTitle": "L'engagement de présence en cas de coup dur",
+    "text": "Dis-lui clairement que si quelque chose de difficile arrive, tu seras là, sans condition ni hésitation, quoi qu'il arrive.",
+    "effect": "Affirmer explicitement une disponibilité inconditionnelle en cas de difficulté future installe une base de sécurité affective durable. Elle sait qu'elle peut compter sur ta présence future, pas seulement sur ton soutien présent.",
+    "sectionTitle": "Le socle de sécurité",
+    "predictable": "La disponibilité inconditionnelle en cas de difficulté future reste généralement implicite plutôt qu'explicitement affirmée",
+    "themes": [
+      "Sécurité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dis-le sans attendre qu'un problème survienne, juste comme ça.",
+      "Sois précis sur ce que \"être là\" veut vraiment dire pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le rangement qui protège",
+    "text": "Range ou sécurise quelque chose chez vous qui pourrait représenter un petit risque, sans qu'elle ait eu à le demander.",
+    "effect": "Anticiper un risque physique mineur avant qu'il ne devienne un problème montre une vigilance protectrice discrète et proactive. Elle bénéficie d'un environnement rendu plus sûr sans avoir eu à remarquer ou signaler le danger elle-même.",
+    "sectionTitle": "Le socle de sécurité",
+    "predictable": "Les petits risques physiques du quotidien sont généralement traités après avoir été remarqués plutôt qu'anticipés",
+    "themes": [
+      "Sécurité",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais-le discrètement, sans en faire une annonce.",
+      "Choisis quelque chose qu'elle n'avait probablement même pas remarqué."
+    ]
+  },
+  {
+    "actionTitle": "La conversation sur ce qui la fait se sentir en sécurité",
+    "text": "Demande-lui directement ce qui la fait se sentir le plus en sécurité dans la relation, et écoute vraiment sa réponse.",
+    "effect": "Poser directement la question de ce qui procure un sentiment de sécurité, plutôt que de le supposer, centre ses besoins réels plutôt que tes hypothèses. Elle a l'occasion de nommer précisément ce qui compte pour elle, plutôt que de devoir l'exprimer indirectement.",
+    "sectionTitle": "Le socle de sécurité",
+    "predictable": "Ce qui procure un sentiment de sécurité dans la relation est généralement supposé plutôt que directement demandé",
+    "themes": [
+      "Sécurité",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pose la question sans qu'elle se sente jugée sur sa réponse.",
+      "Note mentalement sa réponse et essaie d'y revenir plus tard dans un geste concret."
+    ]
+  },
+  {
+    "actionTitle": "Le rituel qui ne s'arrête jamais",
+    "text": "Choisissez ensemble un tout petit rituel, comme un mot ou un geste, que vous ferez systématiquement chaque jour, sans exception.",
+    "effect": "Instaurer un geste quotidien immuable crée un fil conducteur stable qui traverse les hauts et les bas du quotidien. Elle bénéficie d'un point fixe fiable, peu importe le déroulement du reste de la journée.",
+    "sectionTitle": "Le fil qui ne se rompt pas",
+    "predictable": "Les petits rituels quotidiens sont souvent abandonnés dès que l'emploi du temps se complique un peu",
+    "themes": [
+      "Continuité",
+      "Régularité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez quelque chose de vraiment simple, réalisable même les jours chargés.",
+      "Si vous le manquez un jour, reprenez-le dès le lendemain sans culpabiliser."
+    ]
+  },
+  {
+    "actionTitle": "La suite du sujet d'hier",
+    "text": "Reprends volontairement une conversation que vous aviez laissée en suspens hier, pour montrer que le fil n'est jamais vraiment coupé.",
+    "effect": "Relancer délibérément un sujet précédent montre que les conversations passées restent actives dans ta mémoire, pas juste closes une fois terminées. Elle réalise qu'un échange peut se poursuivre au-delà du moment où il a été interrompu.",
+    "sectionTitle": "Le fil qui ne se rompt pas",
+    "predictable": "Les conversations laissées en suspens restent généralement closes plutôt que délibérément reprises plus tard",
+    "themes": [
+      "Continuité",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Mentionne précisément où vous en étiez, pour montrer que tu t'en souviens.",
+      "Demande-lui si elle a eu d'autres pensées sur le sujet depuis."
+    ]
+  },
+  {
+    "actionTitle": "Le geste répété d'une semaine à l'autre",
+    "text": "Reprends un geste tendre que tu as fait une fois récemment, et refais-le cette semaine, sans qu'elle s'y attende.",
+    "effect": "Répéter volontairement un geste apprécié, plutôt que de le laisser être un one-shot, en fait un motif reconnaissable et attendu. Elle découvre qu'un geste apprécié une fois peut redevenir un plaisir renouvelé plutôt qu'un souvenir isolé.",
+    "sectionTitle": "Le fil qui ne se rompt pas",
+    "predictable": "Les gestes tendres appréciés restent souvent des occurrences uniques plutôt que d'être volontairement répétés",
+    "themes": [
+      "Continuité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ne préviens pas à l'avance, laisse la surprise de la répétition faire effet.",
+      "Demande-lui si elle avait remarqué que c'était la deuxième fois."
+    ]
+  },
+  {
+    "actionTitle": "Le lien entre deux souvenirs",
+    "text": "Trouve un moment présent qui rappelle un souvenir passé précis, et fais explicitement le lien à voix haute avec elle.",
+    "effect": "Relier consciemment un moment présent à un souvenir passé tisse une continuité narrative entre votre histoire d'hier et d'aujourd'hui. Elle perçoit votre relation comme une histoire continue plutôt qu'une suite de moments déconnectés les uns des autres.",
+    "sectionTitle": "Le fil qui ne se rompt pas",
+    "predictable": "Les moments présents sont rarement explicitement reliés à voix haute à un souvenir passé précis",
+    "themes": [
+      "Continuité",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois précis sur le souvenir auquel tu penses, pas juste vague.",
+      "Demande-lui si elle voit aussi le lien, ou si elle le voit différemment."
+    ]
+  },
+  {
+    "actionTitle": "La promesse d'un prochain rendez-vous",
+    "text": "Avant même que le moment présent ne se termine, proposez déjà une prochaine date ou un prochain moment ensemble.",
+    "effect": "Enchaîner sur la suite avant la fin d'un moment évite toute impression de rupture entre les occasions de se retrouver. Elle vit une continuité sans interruption, où chaque moment ensemble annonce déjà le suivant.",
+    "sectionTitle": "Le fil qui ne se rompt pas",
+    "predictable": "La fin d'un moment ensemble laisse généralement place à un vide plutôt qu'à l'annonce immédiate du suivant",
+    "themes": [
+      "Continuité",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Propose quelque chose de concret, même petit, pas juste une intention vague.",
+      "Fixe si possible une date précise avant de vous quitter."
+    ]
+  },
+  {
+    "actionTitle": "L'attente sans un mot d'impatience",
+    "text": "La prochaine fois qu'elle prend du temps pour se préparer ou décider quelque chose, attends sans manifester la moindre impatience.",
+    "effect": "S'abstenir consciemment de tout signe d'impatience, même minime, crée un espace où elle peut prendre son temps sans pression. Elle vit un moment d'attente débarrassé de la tension silencieuse qui accompagne souvent ce genre de situation.",
+    "sectionTitle": "L'art d'attendre sans presser",
+    "predictable": "Les moments d'attente s'accompagnent souvent de signes discrets d'impatience, même non verbalisés",
+    "themes": [
+      "Patience",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Occupe-toi calmement de ton côté plutôt que de rester à attendre visiblement.",
+      "Si elle s'excuse du temps pris, rassure-la que ce n'est vraiment pas un problème."
+    ]
+  },
+  {
+    "actionTitle": "La question posée deux fois avec la même douceur",
+    "text": "Si elle met du temps à répondre à une question ou à se décider, repose-la avec la même douceur que la première fois, sans soupir.",
+    "effect": "Maintenir le même ton bienveillant à la deuxième tentative, plutôt que de laisser transparaître l'agacement, montre une patience authentique et non feinte. Elle sent qu'elle peut prendre son temps pour répondre sans craindre un changement de ton chez toi.",
+    "sectionTitle": "L'art d'attendre sans presser",
+    "predictable": "Une question reposée une deuxième fois s'accompagne souvent d'un ton légèrement différent, trahissant l'impatience",
+    "themes": [
+      "Patience",
+      "Douceur"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais bien attention à garder exactement le même ton que la première fois.",
+      "Laisse-lui le temps qu'il faut, sans fixer de limite implicite."
+    ]
+  },
+  {
+    "actionTitle": "Le projet qu'on laisse mûrir",
+    "text": "Si vous avez un projet commun en cours, résiste à l'envie de le presser vers une conclusion rapide, laissez-le avancer à son rythme.",
+    "effect": "Accepter qu'un projet commun prenne le temps nécessaire, sans chercher à accélérer artificiellement son aboutissement, respecte son rythme naturel. Elle vit une collaboration où la précipitation n'écrase pas le plaisir du processus.",
+    "sectionTitle": "L'art d'attendre sans presser",
+    "predictable": "Les projets communs sont souvent poussés vers une conclusion rapide plutôt que laissés à leur rythme naturel",
+    "themes": [
+      "Patience",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rappelle-toi que le chemin compte autant que le résultat final.",
+      "Si tu sens de l'impatience monter, prends un moment pour toi plutôt que de la presser."
+    ]
+  },
+  {
+    "actionTitle": "L'explication reformulée sans lassitude",
+    "text": "Si elle a besoin que tu réexpliques quelque chose une deuxième ou troisième fois, fais-le avec la même énergie que la première fois.",
+    "effect": "Réexpliquer sans lassitude apparente, même après plusieurs tentatives, montre que sa compréhension compte plus que ton confort personnel. Elle peut redemander des clarifications sans craindre de devenir un fardeau ou de provoquer de l'agacement.",
+    "sectionTitle": "L'art d'attendre sans presser",
+    "predictable": "Réexpliquer quelque chose plusieurs fois s'accompagne souvent d'une lassitude perceptible, même non verbalisée",
+    "themes": [
+      "Patience",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reformule différemment plutôt que de répéter mot pour mot, pour l'aider vraiment.",
+      "Termine en lui demandant si c'est plus clair maintenant, sans ton condescendant."
+    ]
+  },
+  {
+    "actionTitle": "Le silence qui laisse de la place",
+    "text": "Après lui avoir posé une question importante, résiste à l'envie de combler le silence, laisse-lui vraiment le temps de réfléchir.",
+    "effect": "Tolérer un silence inconfortable après une question importante, plutôt que de le combler par anxiété, donne un espace réel à sa réflexion. Elle peut réfléchir pleinement à sa réponse sans se sentir pressée de répondre immédiatement.",
+    "sectionTitle": "L'art d'attendre sans presser",
+    "predictable": "Les silences après une question importante sont souvent comblés rapidement plutôt que respectés pleinement",
+    "themes": [
+      "Patience",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Compte mentalement jusqu'à dix avant de dire quoi que ce soit d'autre.",
+      "Résiste à l'envie de reformuler ou d'ajouter des options pendant qu'elle réfléchit."
+    ]
+  },
+  {
+    "actionTitle": "Le partage des tâches revisité",
+    "text": "Prenez un moment pour lister ensemble qui fait quoi au quotidien, et ajustez ensemble si quelque chose semble déséquilibré.",
+    "effect": "Rendre explicite et visible la répartition des tâches, plutôt que de la laisser implicite, permet de repérer et corriger les déséquilibres réels. Elle a l'occasion de nommer un déséquilibre ressenti sans avoir à le soulever seule comme une plainte.",
+    "sectionTitle": "L'équilibre qu'on ajuste ensemble",
+    "predictable": "La répartition des tâches du quotidien reste généralement implicite plutôt que rendue explicite et révisée ensemble",
+    "themes": [
+      "Équité",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Faites cette liste sans jugement, juste pour avoir une vue d'ensemble claire.",
+      "Proposez chacun un ajustement plutôt que d'attendre que l'autre le fasse."
+    ]
+  },
+  {
+    "actionTitle": "Le tour de parole respecté",
+    "text": "Pendant une conversation ce soir, fais particulièrement attention à ce que le temps de parole soit vraiment équilibré entre vous deux.",
+    "effect": "Porter une attention consciente à l'équilibre du temps de parole évite qu'une personne domine systématiquement l'échange sans s'en rendre compte. Elle bénéficie d'un espace conversationnel où sa voix occupe une place égale, pas secondaire.",
+    "sectionTitle": "L'équilibre qu'on ajuste ensemble",
+    "predictable": "Le temps de parole dans une conversation est rarement consciemment surveillé pour rester équilibré entre les deux personnes",
+    "themes": [
+      "Équité",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pose-lui plus de questions que d'habitude pour équilibrer naturellement.",
+      "Remarque si tu as tendance à couper la parole, et corrige-le sur le moment."
+    ]
+  },
+  {
+    "actionTitle": "La décision qui compte double",
+    "text": "Sur une prochaine décision commune, veille à ce que sa préférence pèse autant que la tienne, même si vous n'êtes pas d'accord au départ.",
+    "effect": "Accorder consciemment un poids égal aux deux préférences, plutôt que de laisser l'une dominer par habitude, restaure un équilibre décisionnel réel. Elle sent que son avis a une influence réelle sur le résultat, pas seulement une écoute de façade.",
+    "sectionTitle": "L'équilibre qu'on ajuste ensemble",
+    "predictable": "Les décisions communes accordent parfois plus de poids à une préférence par habitude plutôt que consciemment de façon égale",
+    "themes": [
+      "Équité",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si vous êtes en désaccord, cherchez vraiment un compromis plutôt qu'un compromis de façade.",
+      "Demande-lui explicitement ce qu'elle préfère avant de donner ton avis."
+    ]
+  },
+  {
+    "actionTitle": "Le compliment donné en miroir",
+    "text": "Si elle te complimente sur quelque chose aujourd'hui, prends un moment pour lui renvoyer un compliment tout aussi sincère et développé.",
+    "effect": "Répondre à un compliment par un compliment équivalent, plutôt que par une réponse brève, équilibre l'échange de reconnaissance mutuelle. Elle vit un échange de valorisation réciproque plutôt qu'un flux de compliments à sens unique.",
+    "sectionTitle": "L'équilibre qu'on ajuste ensemble",
+    "predictable": "Les compliments reçus sont parfois accueillis brièvement plutôt que rendus avec la même sincérité et le même développement",
+    "themes": [
+      "Équité",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prends le temps de vraiment réfléchir à ton compliment en retour, pas juste une formule automatique.",
+      "Sois aussi précis dans ton compliment qu'elle l'a été dans le sien."
+    ]
+  },
+  {
+    "actionTitle": "Le week-end équilibré entre vos envies",
+    "text": "En planifiant le prochain week-end, veillez à ce qu'il y ait autant d'activités qu'elle préfère que d'activités que tu préfères.",
+    "effect": "Équilibrer délibérément les activités choisies par chacun évite qu'un des deux se sente systématiquement en train de suivre les envies de l'autre. Elle vit un temps partagé où ses préférences occupent une place aussi centrale que les tiennes.",
+    "sectionTitle": "L'équilibre qu'on ajuste ensemble",
+    "predictable": "La planification d'un temps partagé penche parfois vers les préférences d'une seule personne plutôt qu'un équilibre conscient",
+    "themes": [
+      "Équité",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comptez littéralement les activités de chacun pour vérifier l'équilibre.",
+      "Laisse-la choisir en premier cette fois-ci."
+    ]
+  },
+  {
+    "actionTitle": "La direction tirée au sort",
+    "text": "Sortez de chez vous et laissez le hasard décider de la direction à prendre, en tirant à pile ou face ou au hasard un chiffre.",
+    "effect": "Confier une décision de trajet au hasard retire toute prévisibilité de la sortie et transforme un moment ordinaire en petite aventure improvisée. Elle vit une sortie où l'inconnu remplace la routine habituelle, avec la surprise comme seul plan.",
+    "sectionTitle": "Le pas vers l'inconnu",
+    "predictable": "Les sorties suivent généralement un itinéraire décidé à l'avance plutôt que confié entièrement au hasard",
+    "themes": [
+      "Aventure",
+      "Spontanéité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Engagez-vous à suivre la direction tirée au sort, même si elle semble étrange.",
+      "Fixez une limite de temps ou de distance pour garder l'aventure gérable."
+    ]
+  },
+  {
+    "actionTitle": "L'activité jamais tentée",
+    "text": "Choisissez ensemble une activité que vous n'avez absolument jamais essayée, même une petite chose simple, et lancez-vous cette semaine.",
+    "effect": "S'engager dans une première expérience commune, même modeste, introduit une dose de nouveauté et de risque partagé rarement présente dans la routine. Elle vit un moment où l'inconnu est exploré à deux, renforçant le sentiment d'équipe face à la nouveauté.",
+    "sectionTitle": "Le pas vers l'inconnu",
+    "predictable": "Les activités partagées restent généralement dans un répertoire déjà connu plutôt que d'explorer quelque chose de jamais tenté",
+    "themes": [
+      "Aventure",
+      "Curiosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez quelque chose d'accessible plutôt que trop ambitieux pour la première fois.",
+      "Riez ensemble si vous êtes maladroits au début, ça fait partie du jeu."
+    ]
+  },
+  {
+    "actionTitle": "Le plan B improvisé",
+    "text": "Si un plan prévu tombe à l'eau aujourd'hui, transformez-le volontairement en occasion d'improviser quelque chose d'inattendu ensemble.",
+    "effect": "Réagir à un imprévu par l'improvisation plutôt que la déception transforme une contrariété en occasion d'aventure spontanée. Elle vit un moment où l'imprévu devient une opportunité plutôt qu'une simple frustration à gérer.",
+    "sectionTitle": "Le pas vers l'inconnu",
+    "predictable": "Un plan qui tombe à l'eau mène généralement à la déception plutôt qu'à une improvisation volontaire et joyeuse",
+    "themes": [
+      "Aventure",
+      "Positivité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Proposez chacun une idée improvisée en trente secondes, sans trop réfléchir.",
+      "Engagez-vous pleinement dans le plan B, sans regarder en arrière vers le plan initial."
+    ]
+  },
+  {
+    "actionTitle": "Le territoire inconnu à explorer",
+    "text": "Choisissez un lieu proche de chez vous que vous n'avez jamais exploré, et allez-y ensemble sans savoir à quoi vous attendre.",
+    "effect": "Explorer un territoire géographiquement proche mais totalement inconnu révèle que l'aventure n'exige pas nécessairement la distance, juste la curiosité. Elle vit une découverte authentique, sans savoir à l'avance ce qui vous attend sur place.",
+    "sectionTitle": "Le pas vers l'inconnu",
+    "predictable": "Les lieux proches et jamais explorés restent généralement ignorés au profit de destinations plus connues ou plus lointaines",
+    "themes": [
+      "Aventure",
+      "Curiosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "N'utilisez aucune application pour vous guider, laissez-vous simplement surprendre.",
+      "Notez une chose inattendue que vous avez découverte une fois sur place."
+    ]
+  },
+  {
+    "actionTitle": "Le défi physique inattendu",
+    "text": "Proposez-vous mutuellement un petit défi physique inhabituel, comme grimper quelque chose ou tester un nouvel équilibre, juste pour le frisson.",
+    "effect": "S'engager ensemble dans un petit défi physique inhabituel injecte une pointe d'adrénaline partagée rarement présente dans le quotidien. Elle vit un moment de dépassement léger et ludique, où le frisson remplace la routine habituelle.",
+    "sectionTitle": "Le pas vers l'inconnu",
+    "predictable": "Les défis physiques inhabituels sont rares dans les activités partagées du quotidien, dominées par la routine",
+    "themes": [
+      "Aventure",
+      "Adrénaline"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez quelque chose de sûr mais qui sort vraiment de l'ordinaire.",
+      "Encouragez-vous mutuellement plutôt que de vous mettre en compétition."
+    ]
+  },
+  {
+    "actionTitle": "Le rendez-vous fixe de la semaine",
+    "text": "Fixez un créneau précis chaque semaine, toujours le même jour à la même heure, entièrement dédié à être ensemble sans distraction.",
+    "effect": "Ancrer un moment partagé à un créneau fixe et récurrent, plutôt que de le laisser dépendre des disponibilités, garantit sa protection dans le temps. Elle bénéficie d'un rendez-vous fiable sur lequel elle peut compter chaque semaine, sans avoir à le négocier.",
+    "sectionTitle": "Le rythme qu'on ne lâche pas",
+    "predictable": "Les moments partagés dépendent généralement des disponibilités du moment plutôt que d'un créneau fixe protégé chaque semaine",
+    "themes": [
+      "Régularité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Protégez ce créneau comme vous protégeriez un rendez-vous professionnel important.",
+      "Si vous devez le déplacer exceptionnellement, refixez-le tout de suite plutôt que de le laisser filer."
+    ]
+  },
+  {
+    "actionTitle": "Le message du même moment chaque jour",
+    "text": "Choisis un moment précis de la journée, comme midi ou dix-huit heures, et envoie-lui systématiquement un message à cette heure-là, chaque jour cette semaine.",
+    "effect": "Créer une régularité temporelle précise dans les échanges quotidiens installe un point de repère fiable au milieu d'une journée autrement imprévisible. Elle sait qu'à un moment précis de sa journée, une pensée pour elle arrive toujours, sans exception.",
+    "sectionTitle": "Le rythme qu'on ne lâche pas",
+    "predictable": "Les messages échangés au cours de la journée arrivent généralement à des moments aléatoires plutôt qu'à une heure fixe et répétée",
+    "themes": [
+      "Régularité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis une heure réaliste que tu pourras vraiment tenir chaque jour.",
+      "Varie le contenu du message tout en gardant l'heure fixe, pour éviter la routine ennuyeuse."
+    ]
+  },
+  {
+    "actionTitle": "Le bilan hebdomadaire du couple",
+    "text": "Prenez dix minutes chaque semaine, toujours le même jour, pour faire ensemble un petit bilan de comment vous allez tous les deux.",
+    "effect": "Instaurer un rendez-vous récurrent dédié à l'état de la relation évite que ce sujet ne soit abordé seulement en cas de crise. Elle bénéficie d'un espace régulier et prévisible pour exprimer ce qui va bien ou moins bien, avant que cela ne s'accumule.",
+    "sectionTitle": "Le rythme qu'on ne lâche pas",
+    "predictable": "L'état de la relation est généralement discuté seulement en cas de problème plutôt que lors d'un rendez-vous régulier prévu",
+    "themes": [
+      "Régularité",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Gardez ce moment léger et bienveillant, pas seulement centré sur les problèmes.",
+      "Notez ensemble une chose positive de la semaine à chaque bilan."
+    ]
+  },
+  {
+    "actionTitle": "La routine du matin partagée",
+    "text": "Choisissez un petit geste à faire systématiquement ensemble chaque matin, comme un câlin de dix secondes avant de vous séparer pour la journée.",
+    "effect": "Ancrer un geste tendre dans la routine matinale, de façon systématique, garantit une connexion quotidienne minimale même les jours les plus chargés. Elle commence chaque journée avec la certitude d'un moment de tendresse déjà vécu, peu importe ce qui suit.",
+    "sectionTitle": "Le rythme qu'on ne lâche pas",
+    "predictable": "Les matins chargés laissent souvent de côté les petits gestes tendres au profit de l'efficacité et de la rapidité",
+    "themes": [
+      "Régularité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Faites-en une priorité non négociable, même les matins les plus pressés.",
+      "Gardez le geste simple pour qu'il reste facile à tenir sur la durée."
+    ]
+  },
+  {
+    "actionTitle": "Le même souvenir évoqué chaque mois",
+    "text": "Le même jour chaque mois, prenez un moment pour évoquer ensemble un souvenir marquant de votre histoire, toujours un différent.",
+    "effect": "Instaurer un rituel mensuel de rappel de souvenirs entretient activement la mémoire commune plutôt que de la laisser s'estomper avec le temps. Elle vit une redécouverte régulière et prévisible de votre histoire partagée, entretenue consciemment mois après mois.",
+    "sectionTitle": "Le rythme qu'on ne lâche pas",
+    "predictable": "Les souvenirs communs sont rarement évoqués selon un rythme régulier et prévu à l'avance",
+    "themes": [
+      "Régularité",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez une date facile à retenir, comme le même quantième chaque mois.",
+      "Alternez qui choisit le souvenir à évoquer d'un mois à l'autre."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel que rien n'a changé",
+    "text": "Après une journée un peu tendue ou distante entre vous, dis-lui clairement que tes sentiments pour elle n'ont pas bougé d'un pouce.",
+    "effect": "Réaffirmer explicitement la stabilité de tes sentiments après un moment de tension évite qu'un doute silencieux ne s'installe inutilement. Elle reçoit une confirmation claire que la distance ressentie était passagère, pas le signe d'un changement plus profond.",
+    "sectionTitle": "La parole qui rassure",
+    "predictable": "Après une journée tendue ou distante, les sentiments ne sont généralement pas explicitement réaffirmés pour dissiper le doute",
+    "themes": [
+      "Réassurance",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dis-le clairement, sans minimiser la tension qui a existé.",
+      "Explique brièvement pourquoi la journée a été comme ça, si tu le sais."
+    ]
+  },
+  {
+    "actionTitle": "La réponse à une inquiétude non dite",
+    "text": "Si tu sens qu'elle a une inquiétude qu'elle n'exprime pas clairement, aborde doucement le sujet toi-même pour la rassurer directement.",
+    "effect": "Prendre l'initiative d'aborder une inquiétude perçue mais non formulée montre une attention fine qui dépasse l'attente d'une demande explicite. Elle n'a pas à porter seule le poids de nommer son inquiétude, tu l'as déjà remarquée.",
+    "sectionTitle": "La parole qui rassure",
+    "predictable": "Les inquiétudes non exprimées restent généralement non abordées tant qu'elles ne sont pas verbalisées explicitement par la personne concernée",
+    "themes": [
+      "Réassurance",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Aborde le sujet avec douceur, sans la mettre sur la défensive.",
+      "Laisse-la confirmer ou corriger ce que tu as perçu, sans imposer ton interprétation."
+    ]
+  },
+  {
+    "actionTitle": "La confirmation après une décision difficile",
+    "text": "Après une décision difficile prise récemment, dis-lui que tu penses toujours que c'était la bonne chose à faire ensemble.",
+    "effect": "Réaffirmer la validité d'une décision passée après coup rassure sur le fait que le doute rétrospectif n'a pas pris le dessus. Elle reçoit une confirmation que le choix fait ensemble reste soutenu, même après un peu de recul dans le temps.",
+    "sectionTitle": "La parole qui rassure",
+    "predictable": "Les décisions difficiles prises ensemble sont rarement explicitement réaffirmées comme valides après un peu de recul",
+    "themes": [
+      "Réassurance",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois spécifique sur pourquoi tu penses toujours que c'était la bonne décision.",
+      "Demande-lui aussi comment elle se sent avec le recul, pour ouvrir le dialogue."
+    ]
+  },
+  {
+    "actionTitle": "Le message de milieu de journée",
+    "text": "En plein milieu d'une journée ordinaire, envoie-lui un message qui ne dit rien d'autre que : tout va bien entre nous, je pense à toi.",
+    "effect": "Envoyer une réassurance sans lien avec un événement précis prouve qu'elle n'a pas besoin d'un problème pour recevoir ce genre de confirmation. Elle reçoit une tranquillité d'esprit offerte gratuitement, sans qu'un doute ait eu besoin d'être exprimé au préalable.",
+    "sectionTitle": "La parole qui rassure",
+    "predictable": "Les messages de réassurance sont généralement envoyés en réaction à un doute plutôt que gratuitement, sans déclencheur",
+    "themes": [
+      "Réassurance",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Envoie-le à un moment complètement ordinaire, sans lien avec un événement particulier.",
+      "Garde-le simple, sans sur-expliquer, juste la confirmation elle-même."
+    ]
+  },
+  {
+    "actionTitle": "Le regard qui confirme silencieusement",
+    "text": "Pendant un moment calme ensemble ce soir, prends le temps de la regarder dans les yeux assez longtemps pour que ça devienne une vraie confirmation silencieuse.",
+    "effect": "Prolonger volontairement un contact visuel, au-delà de sa durée habituelle, communique une réassurance qui dépasse ce que les mots pourraient exprimer. Elle ressent une confirmation profonde et non verbale de ta présence et de ton attachement, sans qu'un mot soit nécessaire.",
+    "sectionTitle": "La parole qui rassure",
+    "predictable": "Le contact visuel prolongé est rare dans le quotidien, dépassant rarement sa fonction purement fonctionnelle",
+    "themes": [
+      "Réassurance",
+      "Intimité"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ne dis rien pendant ce moment, laisse le regard parler de lui-même.",
+      "Accompagne-le d'un léger sourire, sans le forcer."
+    ]
+  },
+  {
+    "actionTitle": "La pause avant de réagir",
+    "text": "La prochaine fois qu'une petite friction surgit entre vous, prends volontairement trois respirations avant de répondre quoi que ce soit.",
+    "effect": "S'imposer une courte pause avant de réagir à une tension évite l'escalade impulsive et privilégie une réponse posée et réfléchie. Elle interagit avec une version plus calme de toi, moins susceptible de réagir sous le coup de l'émotion immédiate.",
+    "sectionTitle": "Le calme qu'on choisit ensemble",
+    "predictable": "Les petites frictions du quotidien déclenchent souvent une réaction immédiate plutôt qu'une pause volontaire avant de répondre",
+    "themes": [
+      "Calme",
+      "Maîtrise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Compte réellement jusqu'à trois respirations avant de parler.",
+      "Si besoin, dis-lui simplement que tu prends un instant, plutôt que de rester silencieux sans explication."
+    ]
+  },
+  {
+    "actionTitle": "La soirée sans urgence",
+    "text": "Un soir cette semaine, décrétez ensemble qu'absolument rien n'est urgent, et laissez le temps s'étirer sans aucune contrainte d'horaire.",
+    "effect": "Décréter explicitement l'absence d'urgence libère la soirée de toute pression temporelle habituellement présente même sans raison précise. Elle vit un temps rare où rien ne presse, où chaque instant peut simplement se dérouler sans contrainte.",
+    "sectionTitle": "Le calme qu'on choisit ensemble",
+    "predictable": "Les soirées partagées restent souvent traversées par une notion implicite d'horaire ou d'urgence, même sans raison précise",
+    "themes": [
+      "Calme",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Éteignez les rappels et notifications qui pourraient créer une sensation d'urgence.",
+      "Laissez une activité se prolonger naturellement, sans la couper pour passer à la suivante."
+    ]
+  },
+  {
+    "actionTitle": "Le ton baissé volontairement",
+    "text": "Si une conversation commence à monter en intensité, choisis consciemment de baisser ton ton de voix plutôt que de suivre l'escalade.",
+    "effect": "Choisir délibérément de désamorcer une tension par le ton, plutôt que de suivre l'escalade naturelle, ramène activement du calme dans l'échange. Elle perçoit un effort conscient de ta part pour maintenir un climat apaisé, même quand la tension pourrait monter.",
+    "sectionTitle": "Le calme qu'on choisit ensemble",
+    "predictable": "Le ton d'une conversation tendue a tendance à suivre l'escalade naturelle plutôt qu'être volontairement ramené au calme",
+    "themes": [
+      "Calme",
+      "Maîtrise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Baisse vraiment le volume de ta voix, pas juste le contenu de tes propos.",
+      "Propose une pause si le calme ne suffit pas à apaiser la tension."
+    ]
+  },
+  {
+    "actionTitle": "L'espace calme dans la maison",
+    "text": "Aménagez ensemble un petit coin de la maison spécifiquement dédié au calme, sans écran ni notification, juste pour s'y poser quand besoin.",
+    "effect": "Créer un espace physique dédié explicitement au calme donne une option concrète et immédiate pour se retirer et respirer quand nécessaire. Elle dispose d'un lieu tangible où se réfugier pour retrouver de la tranquillité, sans avoir à quitter la maison.",
+    "sectionTitle": "Le calme qu'on choisit ensemble",
+    "predictable": "Les espaces de la maison sont rarement spécifiquement dédiés et aménagés pour offrir un refuge calme et sans écran",
+    "themes": [
+      "Calme",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez ensemble ce qui rend cet espace vraiment apaisant pour vous deux.",
+      "Mettez-vous d'accord pour ne jamais y apporter de discussion tendue."
+    ]
+  },
+  {
+    "actionTitle": "La marche silencieuse du soir",
+    "text": "Faites une petite marche ensemble le soir, en silence complet, juste pour laisser retomber le bruit de la journée avant de dormir.",
+    "effect": "Marcher ensemble en silence volontaire offre une transition apaisante entre l'agitation de la journée et le repos du soir. Elle vit un moment de décompression partagée, où le silence lui-même devient une forme de connexion calme.",
+    "sectionTitle": "Le calme qu'on choisit ensemble",
+    "predictable": "La transition entre la journée active et le coucher manque généralement d'un moment dédié et silencieux pour redescendre",
+    "themes": [
+      "Calme",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ne forcez pas la conversation, laissez le silence être confortable.",
+      "Marchez à un rythme lent, sans autre objectif que la marche elle-même."
+    ]
+  },
+  {
+    "actionTitle": "La qualité nommée sans détour",
+    "text": "Dis-lui directement, sans détour ni humour pour atténuer, une qualité précise que tu admires chez elle et que tu ne mentionnes pas souvent.",
+    "effect": "Affirmer une qualité sans l'adoucir par l'humour donne du poids réel à la déclaration plutôt que de la désamorcer par légèreté. Elle reçoit une affirmation prise au sérieux, sans échappatoire ni minimisation de ta part.",
+    "sectionTitle": "L'affirmation sans détour",
+    "predictable": "Les compliments sont souvent atténués par l'humour plutôt que dits directement et pris au sérieux",
+    "themes": [
+      "Affirmation",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis une qualité que tu ne mentionnes pas souvent, pour que ce soit marquant.",
+      "Dis-le en la regardant dans les yeux, sans détourner le regard."
+    ]
+  },
+  {
+    "actionTitle": "Le soutien affirmé publiquement",
+    "text": "Devant quelqu'un d'autre, affirme clairement ton soutien à une décision ou une opinion qu'elle a exprimée récemment.",
+    "effect": "Affirmer un soutien devant un tiers, plutôt que seulement en privé, valide sa position de façon visible et sans ambiguïté. Elle sent que ton soutien pour elle ne se limite pas à l'intimité, mais s'affiche aussi ouvertement devant les autres.",
+    "sectionTitle": "L'affirmation sans détour",
+    "predictable": "Le soutien à une opinion ou une décision reste généralement privé plutôt qu'affirmé clairement devant un tiers",
+    "themes": [
+      "Affirmation",
+      "Loyauté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis un moment naturel dans la conversation pour l'affirmer.",
+      "Reste ferme si quelqu'un remet en question cette position, sans te défiler."
+    ]
+  },
+  {
+    "actionTitle": "La demande formulée clairement",
+    "text": "La prochaine fois que tu as besoin de quelque chose d'elle, formule ta demande clairement et directement, sans tourner autour du sujet.",
+    "effect": "Formuler une demande de façon directe, plutôt qu'indirecte ou hésitante, respecte à la fois ton propre besoin et sa capacité à y répondre clairement. Elle reçoit une demande facile à comprendre et à laquelle elle peut répondre sans avoir à deviner ce que tu veux vraiment.",
+    "sectionTitle": "L'affirmation sans détour",
+    "predictable": "Les besoins et demandes sont souvent exprimés de façon indirecte ou hésitante plutôt que clairement affirmés",
+    "themes": [
+      "Affirmation",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Formule ta demande en une phrase simple et directe.",
+      "Accepte sa réponse, qu'elle soit oui ou non, sans culpabiliser."
+    ]
+  },
+  {
+    "actionTitle": "La limite posée avec respect",
+    "text": "Si quelque chose te dérange un peu dans votre quotidien, affirme cette limite clairement, avec respect, plutôt que de la laisser filer en silence.",
+    "effect": "Affirmer une limite plutôt que la taire par confort immédiat protège la relation d'un ressentiment silencieux qui s'accumule avec le temps. Elle bénéficie d'une communication honnête, où les petites frustrations sont exprimées avant de devenir de plus gros problèmes.",
+    "sectionTitle": "L'affirmation sans détour",
+    "predictable": "Les petites frustrations du quotidien sont souvent tues plutôt qu'affirmées clairement et avec respect",
+    "themes": [
+      "Affirmation",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis un moment calme pour l'exprimer, pas en plein pic de frustration.",
+      "Formule-le en parlant de ton ressenti plutôt que d'accuser directement."
+    ]
+  },
+  {
+    "actionTitle": "La fierté affirmée sans retenue",
+    "text": "Dis-lui sans retenue à quel point tu es fier d'être avec elle, sans minimiser ni transformer ça en blague.",
+    "effect": "Affirmer sans retenue ni ironie une fierté sincère lui donne accès à une émotion rarement exprimée avec autant de clarté. Elle reçoit une déclaration pleinement assumée, sans la distance habituelle de l'humour ou de la pudeur.",
+    "sectionTitle": "L'affirmation sans détour",
+    "predictable": "La fierté d'être en couple est souvent exprimée avec une pointe d'humour plutôt qu'affirmée sans retenue",
+    "themes": [
+      "Affirmation",
+      "Fierté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dis-le sérieusement, sans le transformer en blague à la fin.",
+      "Explique brièvement pourquoi, pour que ce soit plus qu'une simple formule."
+    ]
   }
 ]
