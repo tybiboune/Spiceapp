@@ -14344,5 +14344,855 @@
       "Grateful for you, and grateful this actually goes both ways, not everyone gets that.",
       "Thankful for you today, and honestly thankful this whole thing is mutual."
     ]
+  },
+  {
+    "actionTitle": "Le message qui libère de tout compte à rendre",
+    "text": "Fais exactement ce que tu as envie de faire aujourd'hui, aucune explication à me donner, promis.",
+    "effect": "Accorder explicitement une liberté totale par message retire toute pression de justification, même à distance. Elle reçoit une permission claire qui l'accompagne toute la journée, pas seulement dans un moment précis en face à face.",
+    "sectionTitle": "SMS - L'espace de liberté offert",
+    "predictable": "La liberté d'action sans justification est rarement accordée explicitement par message, à distance",
+    "themes": [
+      "Liberté",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais exactement ce que tu veux aujourd'hui, aucune explication à donner, promis.",
+      "Aujourd'hui, zéro compte à rendre de ton côté, fais ce qui te fait envie."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui retire une attente implicite",
+    "text": "Si tu n'as pas envie de faire ce qu'on avait prévu, c'est vraiment ok, aucune pression de mon côté.",
+    "effect": "Retirer explicitement une attente implicite libère d'un engagement qui pourrait peser sans raison valable. Elle sent qu'elle peut changer d'avis sans crainte de décevoir, ce qui est rarement dit aussi clairement.",
+    "sectionTitle": "SMS - L'espace de liberté offert",
+    "predictable": "Les attentes implicites liées à des plans prévus sont rarement explicitement retirées par message",
+    "themes": [
+      "Liberté",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si t'as pas envie de faire ce qu'on avait prévu, vraiment ok, aucune pression.",
+      "Pas grave du tout si tu changes d'avis pour ce qu'on avait prévu, zéro souci."
+    ]
+  },
+  {
+    "actionTitle": "Le texto de célébration immédiate",
+    "text": "Je viens d'apprendre ta réussite et je voulais te le dire tout de suite : je suis vraiment content pour toi, bravo.",
+    "effect": "Envoyer une célébration immédiate, dès l'annonce d'une réussite, montre que la joie ressentie pour elle ne peut attendre. Elle reçoit une reconnaissance instantanée plutôt qu'une réaction différée qui perdrait de son intensité.",
+    "sectionTitle": "SMS - La célébration en deux temps",
+    "predictable": "Les réussites annoncées ne reçoivent pas toujours une célébration immédiate et spontanée par message",
+    "themes": [
+      "Célébration",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Viens d'apprendre ta réussite, voulais te le dire tout de suite, vraiment content.",
+      "Bravo pour ça, tenais à te le dire immédiatement, je suis vraiment content pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le texto qui prolonge la fête",
+    "text": "Toujours aussi content pour toi pour hier, ça mérite d'être encore célébré aujourd'hui, non ?",
+    "effect": "Prolonger une célébration au-delà du jour initial montre que la joie ressentie pour elle ne s'éteint pas immédiatement. Elle réalise qu'une réussite continue d'être valorisée même après le moment de l'annonce, pas juste sur le coup.",
+    "sectionTitle": "SMS - La célébration en deux temps",
+    "predictable": "Les célébrations d'une réussite sont rarement explicitement prolongées le lendemain via un message",
+    "themes": [
+      "Célébration",
+      "Continuité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Toujours aussi content pour toi pour hier, ça mérite d'être encore célébré aujourd'hui.",
+      "Repensais à ta réussite d'hier, ça mérite bien un peu plus de célébration encore."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui prépare le confort",
+    "text": "Rentre tranquille ce soir, j'ai préparé un petit cocon confortable pour toi, tout est prêt.",
+    "effect": "Annoncer à l'avance un espace confortable préparé crée une anticipation apaisante avant même qu'elle ne rentre. Elle sait qu'un moment de confort l'attend, ce qui allège potentiellement le reste de sa journée avant même d'arriver.",
+    "sectionTitle": "SMS - Le confort entretenu",
+    "predictable": "Les espaces confortables préparés à l'avance sont rarement annoncés par message avant même son retour",
+    "themes": [
+      "Confort",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rentre tranquille ce soir, un petit cocon confortable t'attend, tout est prêt.",
+      "Prépare-toi à rentrer dans un vrai cocon confortable ce soir, tout est en place."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi sur le confort installé",
+    "text": "Alors, ce coin confortable d'hier, c'était vraiment agréable ou il y a un truc à ajuster pour la prochaine fois ?",
+    "effect": "Demander un retour sur un aménagement confortable installé la veille transforme un geste ponctuel en amélioration continue. Elle a l'occasion de donner un avis honnête qui influencera réellement le prochain geste, pas juste un compliment poli sans suite.",
+    "sectionTitle": "SMS - Le confort entretenu",
+    "predictable": "Les aménagements confortables installés ne reçoivent que rarement une demande de retour explicite le lendemain",
+    "themes": [
+      "Confort",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce coin confortable d'hier, vraiment agréable ou un truc à ajuster la prochaine fois ?",
+      "Dis-moi honnêtement si le confort d'hier était top ou s'il y a un ajustement à faire."
+    ]
+  },
+  {
+    "actionTitle": "Le mot doux sans lien avec la journée",
+    "text": "Peu importe comment se passe ta journée, voici un petit mot doux, juste pour ça, sans autre raison.",
+    "effect": "Envoyer un message doux sans lien avec le contexte de la journée offre une tendresse détachée de toute circonstance particulière. Elle reçoit une douceur qui ne dépend de rien, ce qui la rend plus sincère qu'un mot lié à une bonne nouvelle précise.",
+    "sectionTitle": "SMS - La douceur qui persiste",
+    "predictable": "Les mots doux envoyés par message sont généralement liés à un contexte précis plutôt qu'offerts sans aucune raison",
+    "themes": [
+      "Douceur",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe ta journée, un petit mot doux, juste pour ça, sans autre raison.",
+      "Message doux sans lien avec quoi que ce soit aujourd'hui, juste pour le plaisir."
+    ]
+  },
+  {
+    "actionTitle": "Le mot doux qui revient le lendemain",
+    "text": "Comme hier, un petit mot doux pour toi ce matin, j'aime bien que ça devienne une habitude entre nous.",
+    "effect": "Nommer explicitement la répétition d'un mot doux, d'un jour à l'autre, en fait un rituel assumé plutôt qu'une coïncidence. Elle perçoit une intention claire de construire une habitude de douceur, pas juste un geste répété par hasard.",
+    "sectionTitle": "SMS - La douceur qui persiste",
+    "predictable": "La répétition d'un mot doux d'un jour à l'autre est rarement explicitement nommée comme une habitude volontaire",
+    "themes": [
+      "Douceur",
+      "Régularité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme hier, un petit mot doux ce matin, j'aime que ça devienne une habitude.",
+      "Encore un mot doux aujourd'hui, comme hier, j'espère que ça devient notre truc."
+    ]
+  },
+  {
+    "actionTitle": "Le message d'espoir avant l'épreuve",
+    "text": "Pour ce qui t'attend aujourd'hui, j'ai vraiment espoir que ça se passe mieux que ce que tu redoutes.",
+    "effect": "Exprimer un espoir concret avant une épreuve redoutée offre un contrepoids positif à l'anxiété anticipatoire. Elle aborde le moment difficile avec une pensée d'espoir sincère en tête, pas seulement un vague encouragement générique.",
+    "sectionTitle": "SMS - L'espoir nourri",
+    "predictable": "Les épreuves redoutées reçoivent rarement un message exprimant un espoir concret et sincère avant qu'elles n'aient lieu",
+    "themes": [
+      "Espoir",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "J'ai vraiment espoir que ça se passe mieux que ce que tu redoutes aujourd'hui.",
+      "Pour aujourd'hui, sincèrement, j'espère que ça se passe mieux que prévu."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi de l'espoir exprimé",
+    "text": "Alors, ça s'est passé comment finalement ? J'espère vraiment que ça a été mieux que ce que tu craignais.",
+    "effect": "Redemander des nouvelles après une épreuve, en référence à l'espoir exprimé avant, prouve que cet espoir n'était pas juste un mot en passant. Elle sent que ton attention pour elle continue après le moment redouté, pas seulement avant quand c'était facile de le dire.",
+    "sectionTitle": "SMS - L'espoir nourri",
+    "predictable": "L'espoir exprimé avant une épreuve est rarement suivi d'une vraie demande de nouvelles une fois l'épreuve passée",
+    "themes": [
+      "Espoir",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Alors, ça s'est passé comment ? Espère vraiment que ça a été mieux que prévu.",
+      "Comment ça s'est passé finalement ? J'espérais sincèrement que ce soit plus facile."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui valide sans juger",
+    "text": "Ce que tu ressens là, ça a tout son sens, je comprends complètement, aucune raison de minimiser ça.",
+    "effect": "Valider explicitement un ressenti, sans jugement ni minimisation, offre une empathie directe rarement exprimée aussi clairement par message. Elle sent que son émotion est légitimée immédiatement, sans avoir à se justifier davantage.",
+    "sectionTitle": "SMS - L'empathie mise en pratique",
+    "predictable": "Les ressentis partagés reçoivent rarement une validation explicite et sans jugement formulée clairement par message",
+    "themes": [
+      "Empathie",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que tu ressens a tout son sens, comprends complètement, aucune raison de minimiser.",
+      "Ton ressenti est complètement légitime, pas besoin de te justifier davantage avec moi."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi empathique du lendemain",
+    "text": "Repensais à ce que tu m'as dit hier, comment tu te sens aujourd'hui par rapport à tout ça ?",
+    "effect": "Redemander des nouvelles le lendemain, sur un sujet émotionnel partagé la veille, prolonge l'empathie au-delà du moment initial. Elle réalise que son ressenti continue d'être suivi avec attention, pas juste écouté une fois puis oublié.",
+    "sectionTitle": "SMS - L'empathie mise en pratique",
+    "predictable": "Les sujets émotionnels partagés ne reçoivent que rarement un suivi explicite le lendemain par message",
+    "themes": [
+      "Empathie",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensais à ce que tu m'as dit hier, comment tu te sens aujourd'hui par rapport à ça ?",
+      "Comment ça va aujourd'hui, par rapport à ce dont on a parlé hier ?"
+    ]
+  },
+  {
+    "actionTitle": "Le message qui confirme sans qu'on demande",
+    "text": "Comme promis, c'est fait, exactement comme prévu, voulais te le confirmer sans que tu aies à demander.",
+    "effect": "Confirmer proactivement qu'une promesse est tenue, sans attendre qu'elle demande, prouve une fiabilité qui anticipe plutôt que réagit. Elle n'a jamais à se demander si quelque chose a été fait, la confirmation arrive toujours d'elle-même.",
+    "sectionTitle": "SMS - La fiabilité prouvée deux fois",
+    "predictable": "Les promesses tenues sont rarement confirmées proactivement par message avant même que la question ne soit posée",
+    "themes": [
+      "Fiabilité",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme promis, c'est fait, exactement comme prévu, voulais confirmer sans que tu demandes.",
+      "Fait, comme promis, exactement comme prévu, tu n'as pas eu à me le rappeler."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel de la fiabilité constante",
+    "text": "Deuxième fois cette semaine que je tiens ce genre de promesse pile comme annoncé, je veux que ça devienne la norme.",
+    "effect": "Souligner explicitement la répétition d'une fiabilité tenue, à deux reprises, en fait un motif conscient plutôt qu'une coïncidence. Elle perçoit une intention claire de faire de la fiabilité une norme constante, pas juste un heureux hasard répété.",
+    "sectionTitle": "SMS - La fiabilité prouvée deux fois",
+    "predictable": "La répétition d'une fiabilité tenue plusieurs fois de suite est rarement explicitement nommée comme une norme visée",
+    "themes": [
+      "Fiabilité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Deuxième fois cette semaine que je tiens ça pile comme annoncé, veux que ce soit la norme.",
+      "Encore une fois tenu comme promis, veux vraiment que ça devienne notre norme."
+    ]
+  },
+  {
+    "actionTitle": "Le message du même type, deux jours de suite",
+    "text": "Comme hier, une pensée pour toi ce matin, j'aime bien garder ce genre de message constant entre nous.",
+    "effect": "Nommer explicitement la répétition d'un même type de message, deux jours de suite, en fait un motif volontaire et assumé. Elle perçoit une intention claire de constance plutôt qu'une répétition accidentelle ou sans signification particulière.",
+    "sectionTitle": "SMS - La constance en deux gestes",
+    "predictable": "La répétition volontaire d'un même type de message, deux jours de suite, est rarement explicitement nommée comme telle",
+    "themes": [
+      "Constance",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme hier, une pensée pour toi ce matin, j'aime garder ce genre de message constant.",
+      "Encore une pensée pour toi aujourd'hui, comme hier, c'est devenu notre petite constance."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi qui confirme la constance",
+    "text": "Ça fait deux fois cette semaine que je t'écris à ce moment précis de la journée, tu l'avais remarqué ?",
+    "effect": "Souligner la régularité d'un message envoyé au même moment, à deux reprises, transforme une habitude naissante en motif remarqué et confirmé. Elle réalise qu'un geste répété consciemment devient un vrai repère fiable dans sa journée, pas juste un hasard d'horaires.",
+    "sectionTitle": "SMS - La constance en deux gestes",
+    "predictable": "La régularité d'un message envoyé au même moment plusieurs fois est rarement explicitement soulignée et vérifiée",
+    "themes": [
+      "Constance",
+      "Régularité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ça fait deux fois cette semaine que je t'écris à ce moment précis, remarqué ?",
+      "Deuxième fois cette semaine à cette heure précise, tu avais remarqué le motif ?"
+    ]
+  },
+  {
+    "actionTitle": "Le message qui recentre sur le positif",
+    "text": "Je sais que la journée a été difficile, mais repense juste à ce petit moment sympa de ce matin, ça compte aussi.",
+    "effect": "Recentrer sur un moment positif, sans nier la difficulté globale de la journée, offre un contrepoids doux plutôt qu'une minimisation. Elle reçoit une invitation à revoir sa journée sous un angle un peu plus équilibré, sans que sa difficulté ne soit ignorée.",
+    "sectionTitle": "SMS - La positivité relancée",
+    "predictable": "Les journées difficiles reçoivent rarement un message qui recentre spécifiquement vers un moment positif vécu plus tôt",
+    "themes": [
+      "Positivité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Journée difficile je sais, mais repense au petit moment sympa de ce matin, ça compte.",
+      "Dur aujourd'hui, mais n'oublie pas ce petit truc sympa de ce matin, ça compte aussi."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi sur l'effet du recentrage",
+    "text": "Ça a un peu aidé de repenser à ce moment positif, ou la journée reste vraiment compliquée malgré tout ?",
+    "effect": "Vérifier l'effet réel d'un précédent recentrage positif montre un intérêt sincère pour son impact concret, pas juste un geste isolé. Elle sent que l'intention derrière le premier message était authentique, suivie d'un vrai souci de savoir si ça a aidé.",
+    "sectionTitle": "SMS - La positivité relancée",
+    "predictable": "Les tentatives de recentrage positif sont rarement suivies d'une vérification honnête de leur effet réel",
+    "themes": [
+      "Positivité",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ça a aidé de repenser à ce moment positif, ou la journée reste compliquée ?",
+      "Dis-moi honnêtement, ça a un peu aidé tout à l'heure ou pas vraiment ?"
+    ]
+  },
+  {
+    "actionTitle": "Le message qui ajuste une attente",
+    "text": "Pour ce truc de ce soir, soyons réalistes, ça risque de prendre plus de temps que prévu, on ajuste ?",
+    "effect": "Ajuster une attente à la réalité, avant qu'elle ne devienne source de frustration, évite une déception évitable plus tard. Elle apprécie une communication honnête sur ce qui est réellement probable, plutôt qu'un optimisme qui mène à la déception.",
+    "sectionTitle": "SMS - Le pas réaliste, puis le suivant",
+    "predictable": "Les attentes autour d'un plan prévu sont rarement ajustées à la réalité de façon proactive avant qu'elles ne deviennent un problème",
+    "themes": [
+      "Réalisme",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pour ce soir, soyons réalistes, ça va prendre plus de temps que prévu, on ajuste ?",
+      "Honnêtement pour ce soir, ça risque d'être plus long que prévu, ajustons ensemble."
+    ]
+  },
+  {
+    "actionTitle": "Le bilan honnête sur l'ajustement fait",
+    "text": "Avec le recul, cet ajustement qu'on avait fait était vraiment le bon choix, content qu'on ait été réalistes.",
+    "effect": "Revenir sur un ajustement réaliste passé, avec le recul, confirme sa pertinence plutôt que de le laisser sans validation finale. Elle voit que l'honnêteté initiale a porté ses fruits, ce qui renforce la confiance dans les futurs ajustements similaires.",
+    "sectionTitle": "SMS - Le pas réaliste, puis le suivant",
+    "predictable": "Les ajustements réalistes faits à l'avance sont rarement explicitement validés après coup une fois le résultat connu",
+    "themes": [
+      "Réalisme",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Avec le recul, cet ajustement était vraiment le bon choix, content qu'on ait été réalistes.",
+      "Bilan honnête : on avait bien fait d'ajuster ça, content de notre réalisme là-dessus."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui laisse le champ libre",
+    "text": "Aujourd'hui, aucune attente de ma part sur quoi que ce soit, fais vraiment ce qui te fait plaisir, librement.",
+    "effect": "Retirer explicitement toute attente implicite pour une journée entière libère d'une pression souvent invisible mais bien présente. Elle vit une journée sans avoir à deviner ce qui est attendu d'elle, ce qui est rarement offert aussi clairement.",
+    "sectionTitle": "SMS - L'espace de liberté offert",
+    "predictable": "Les journées entières sont rarement explicitement libérées de toute attente implicite via un message clair",
+    "themes": [
+      "Liberté",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Aucune attente de ma part aujourd'hui, fais vraiment ce qui te fait plaisir.",
+      "Journée libre de toute attente aujourd'hui, fais ce qui te tente vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi sur la liberté accordée",
+    "text": "Alors, cette liberté totale d'hier, tu en as fait quoi, et est-ce que ça t'a fait du bien ?",
+    "effect": "Redemander comment une liberté accordée la veille a été utilisée montre un intérêt sincère pour son expérience, pas un geste creux. Elle sent que la liberté offerte n'était pas qu'un mot en l'air, mais un vrai sujet d'intérêt suivi ensuite.",
+    "sectionTitle": "SMS - L'espace de liberté offert",
+    "predictable": "La liberté accordée la veille est rarement suivie d'une question sincère sur la façon dont elle a été utilisée",
+    "themes": [
+      "Liberté",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette liberté totale d'hier, tu en as fait quoi, ça t'a fait du bien ?",
+      "Alors, la liberté d'hier, comment tu l'as utilisée, et ça t'a fait plaisir ?"
+    ]
+  },
+  {
+    "actionTitle": "Le message qui célèbre avant même le résultat",
+    "text": "Peu importe comment ça se passe aujourd'hui, je célèbre déjà le courage que ça prend d'essayer.",
+    "effect": "Célébrer la démarche avant même de connaître le résultat valorise le courage indépendamment de l'issue finale. Elle reçoit une reconnaissance qui ne dépend d'aucun succès à venir, ce qui allège la pression de la performance.",
+    "sectionTitle": "SMS - La célébration en deux temps",
+    "predictable": "La célébration liée à une tentative est généralement offerte après le résultat plutôt qu'avant, indépendamment de l'issue",
+    "themes": [
+      "Célébration",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe le résultat aujourd'hui, je célèbre déjà le courage d'essayer.",
+      "Quel que soit le résultat, je célèbre déjà le fait que tu oses essayer."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui célèbre le chemin parcouru",
+    "text": "En repensant à où tu en étais il y a un an, je trouve qu'il y a vraiment de quoi célébrer le chemin parcouru.",
+    "effect": "Célébrer une progression sur le long terme, plutôt qu'un seul événement ponctuel, valorise l'ensemble d'un parcours souvent invisible au jour le jour. Elle prend conscience d'une évolution qu'elle ne mesure peut-être pas elle-même au quotidien, révélée par un regard extérieur bienveillant.",
+    "sectionTitle": "SMS - La célébration en deux temps",
+    "predictable": "Le chemin parcouru sur le long terme est rarement explicitement célébré, contrairement aux réussites ponctuelles isolées",
+    "themes": [
+      "Célébration",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensant à où tu en étais il y a un an, il y a de quoi célébrer le chemin parcouru.",
+      "Le chemin parcouru depuis un an mérite vraiment d'être célébré, franchement."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui prolonge le confort du soir",
+    "text": "Reste bien installée dans ton confort ce soir, aucune obligation de bouger, prends tout ton temps.",
+    "effect": "Autoriser explicitement l'inactivité et le confort prolongé retire toute culpabilité liée à la productivité attendue. Elle reçoit une permission claire de ne rien faire d'autre que profiter du confort, sans pression de passer à autre chose.",
+    "sectionTitle": "SMS - Le confort entretenu",
+    "predictable": "Le confort du soir s'accompagne rarement d'une permission explicite de ne rien faire d'autre sans culpabilité",
+    "themes": [
+      "Confort",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reste bien installée ce soir, aucune obligation de bouger, prends ton temps.",
+      "Profite du confort ce soir, pas d'obligation de faire autre chose, vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui anticipe un petit inconfort",
+    "text": "Pensé à toi en voyant qu'il allait faire froid ce soir, ai sorti une couverture en plus pour que tu sois bien.",
+    "effect": "Anticiper un inconfort lié à la météo, avant qu'il ne survienne, montre une attention pratique tournée vers son confort physique futur. Elle découvre qu'un souci pratique a été anticipé et résolu avant même qu'elle n'ait à y penser elle-même.",
+    "sectionTitle": "SMS - Le confort entretenu",
+    "predictable": "Les inconforts liés à des facteurs externes comme la météo sont rarement anticipés à l'avance pour son confort",
+    "themes": [
+      "Confort",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sorti une couverture en plus pour ce soir, pensé à ton confort avec le froid.",
+      "Vu qu'il ferait froid ce soir, ai préparé une couverture en plus pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le message doux envoyé sans contexte particulier",
+    "text": "Aucune raison précise, juste une pensée douce pour toi qui traverse mon esprit là maintenant.",
+    "effect": "Envoyer une douceur sans aucun contexte déclencheur prouve sa spontanéité et sa sincérité, plutôt qu'une réaction à quelque chose de précis. Elle reçoit une tendresse qui existe indépendamment de tout événement, ce qui la rend d'autant plus authentique.",
+    "sectionTitle": "SMS - La douceur qui persiste",
+    "predictable": "Les mots doux sont généralement liés à un contexte ou un événement précis plutôt qu'envoyés sans aucune raison particulière",
+    "themes": [
+      "Douceur",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Aucune raison précise, juste une pensée douce pour toi là maintenant.",
+      "Sans contexte particulier, une pensée douce pour toi qui traverse mon esprit."
+    ]
+  },
+  {
+    "actionTitle": "Le message doux qui clôt bien la journée",
+    "text": "Quoi qu'il se soit passé aujourd'hui, j'espère que ce petit mot doux adoucit un peu la fin de ta journée.",
+    "effect": "Offrir une douceur explicitement destinée à adoucir la fin d'une journée, quelle qu'elle ait été, valide la difficulté potentielle sans la nommer précisément. Elle reçoit un geste de tendresse conçu spécifiquement pour clôturer doucement sa journée, peu importe comment elle s'est déroulée.",
+    "sectionTitle": "SMS - La douceur qui persiste",
+    "predictable": "La fin de journée ne reçoit pas toujours un mot doux explicitement destiné à l'adoucir, quelle qu'ait été la journée",
+    "themes": [
+      "Douceur",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quoi qu'il se soit passé aujourd'hui, j'espère que ce mot adoucit ta soirée.",
+      "J'espère que ce petit mot doux adoucit un peu la fin de ta journée, peu importe comment elle a été."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui garde espoir pour quelque chose en cours",
+    "text": "Toujours autant d'espoir pour ce projet qu'on a en cours, ça avance doucement mais sûrement je trouve.",
+    "effect": "Réaffirmer un espoir constant pour un projet en cours, plutôt qu'un espoir ponctuel, montre une conviction qui tient dans la durée. Elle sent que ton optimisme pour un projet commun ne faiblit pas, même face à la lenteur naturelle des choses qui avancent progressivement.",
+    "sectionTitle": "SMS - L'espoir nourri",
+    "predictable": "L'espoir pour un projet en cours est rarement explicitement réaffirmé par message pendant sa progression",
+    "themes": [
+      "Espoir",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Toujours autant d'espoir pour ce projet, ça avance doucement mais sûrement.",
+      "Garde espoir pour notre projet en cours, ça progresse doucement mais ça progresse."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui espère pour elle spécifiquement",
+    "text": "J'espère sincèrement que cette semaine t'apporte exactement ce dont tu as besoin en ce moment.",
+    "effect": "Formuler un espoir précisément orienté vers ses besoins actuels, plutôt qu'un souhait générique, montre une attention à sa situation spécifique. Elle reçoit un espoir qui semble taillé pour elle et sa situation du moment, pas une formule passe-partout envoyée sans réflexion.",
+    "sectionTitle": "SMS - L'espoir nourri",
+    "predictable": "Les souhaits de bonne semaine restent généralement génériques plutôt que formulés autour de ses besoins spécifiques actuels",
+    "themes": [
+      "Espoir",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Espère sincèrement que cette semaine t'apporte ce dont tu as besoin en ce moment.",
+      "J'espère que cette semaine t'apporte exactement ce qu'il te faut là maintenant."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui comprend sans minimiser",
+    "text": "Je ne peux pas tout à fait ressentir ce que tu vis, mais je comprends que ce soit vraiment difficile pour toi.",
+    "effect": "Reconnaître honnêtement les limites de sa propre compréhension, tout en validant la difficulté ressentie, évite une empathie feinte ou exagérée. Elle reçoit une empathie sincère et mesurée, qui ne prétend pas tout comprendre mais qui valide pleinement son vécu.",
+    "sectionTitle": "SMS - L'empathie mise en pratique",
+    "predictable": "L'empathie exprimée prétend parfois tout comprendre plutôt que de reconnaître honnêtement ses propres limites de compréhension",
+    "themes": [
+      "Empathie",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peux pas tout ressentir ce que tu vis, mais comprends que ce soit dur pour toi.",
+      "Je ne vis pas exactement la même chose, mais je comprends que ce soit difficile."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui offre une présence empathique",
+    "text": "Pas besoin de mots là, juste sache que je suis complètement présent pour toi en ce moment, quoi qu'il arrive.",
+    "effect": "Offrir une présence empathique sans exiger de mots en retour laisse de l'espace à son ressenti sans pression de devoir s'expliquer. Elle sent une disponibilité totale et inconditionnelle, sans avoir à produire un discours pour la mériter.",
+    "sectionTitle": "SMS - L'empathie mise en pratique",
+    "predictable": "La présence empathique offerte par message inclut rarement une reconnaissance explicite qu'aucune réponse n'est nécessaire",
+    "themes": [
+      "Empathie",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pas besoin de mots, juste sache que je suis complètement présent pour toi là.",
+      "Aucun mot nécessaire de ta part, je suis juste présent pour toi maintenant."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui confirme une fiabilité passée",
+    "text": "Ça fait la troisième fois ce mois-ci que je tiens ce genre d'engagement pile comme prévu, content de cette constance.",
+    "effect": "Souligner explicitement une troisième occurrence de fiabilité tenue renforce la perception d'un trait constant plutôt qu'un hasard répété. Elle perçoit une fiabilité confirmée par la répétition, ce qui installe une vraie confiance construite sur des faits vérifiables.",
+    "sectionTitle": "SMS - La fiabilité prouvée deux fois",
+    "predictable": "La répétition d'une fiabilité tenue à plusieurs reprises dans le mois est rarement explicitement comptabilisée et soulignée",
+    "themes": [
+      "Fiabilité",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Troisième fois ce mois que je tiens ça pile comme prévu, content de cette constance.",
+      "Ça fait trois fois ce mois-ci, tenu pile comme prévu, vraiment content de ça."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui rassure sur la fiabilité future",
+    "text": "Tu peux compter sur moi pour ce qui arrive, comme toujours, ce n'est pas près de changer.",
+    "effect": "Réaffirmer une fiabilité future, en la reliant explicitement à une fiabilité passée constante, projette la confiance vers l'avenir. Elle reçoit une assurance que sa confiance actuelle en toi restera justifiée dans les situations à venir aussi, pas juste dans le passé.",
+    "sectionTitle": "SMS - La fiabilité prouvée deux fois",
+    "predictable": "La fiabilité future est rarement explicitement reliée et projetée à partir d'une fiabilité passée déjà constatée",
+    "themes": [
+      "Fiabilité",
+      "Réassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tu peux compter sur moi pour ce qui arrive, comme toujours, ça ne va pas changer.",
+      "Comme toujours, tu peux compter sur moi pour ça, ce n'est pas près de changer."
+    ]
+  },
+  {
+    "actionTitle": "Le message constant du même style, une troisième fois",
+    "text": "Encore un petit mot dans le même esprit que les derniers jours, j'aime bien garder ce rythme avec toi.",
+    "effect": "Nommer explicitement une troisième répétition consécutive d'un même type de message renforce sa reconnaissance en tant que motif stable et volontaire. Elle perçoit un rythme affectif désormais bien établi, qu'elle peut anticiper avec confiance chaque jour qui passe.",
+    "sectionTitle": "SMS - La constance en deux gestes",
+    "predictable": "La troisième répétition consécutive d'un même type de message est rarement explicitement nommée comme un rythme établi",
+    "themes": [
+      "Constance",
+      "Régularité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Encore un mot dans le même esprit que les derniers jours, j'aime ce rythme.",
+      "Toujours le même genre de message ces derniers jours, j'aime bien ce rythme avec toi."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui note une constance chez elle",
+    "text": "J'ai remarqué que toi aussi tu es restée constante là-dedans ces derniers temps, ça ne passe pas inaperçu.",
+    "effect": "Reconnaître une constance chez elle, en miroir de l'effort fourni de ton côté, valorise la réciprocité de l'engagement dans la relation. Elle réalise que sa propre régularité et son propre engagement sont eux aussi remarqués et appréciés, pas seulement les tiens.",
+    "sectionTitle": "SMS - La constance en deux gestes",
+    "predictable": "La constance observée chez l'autre est rarement explicitement reconnue et nommée en miroir de son propre effort",
+    "themes": [
+      "Constance",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Remarqué que toi aussi tu es restée constante là-dedans, ça ne passe pas inaperçu.",
+      "Toi aussi tu as été constante ces derniers temps, je le remarque et ça compte."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui trouve du positif dans l'imprévu",
+    "text": "Ce truc qui ne s'est pas passé comme prévu aujourd'hui, en fait ça a débouché sur un bon moment inattendu, non ?",
+    "effect": "Recadrer positivement un imprévu contrariant en soulignant ce qu'il a néanmoins apporté de bon transforme la déception en opportunité positive. Elle est invitée à revoir un événement frustrant sous un jour plus constructif, sans que sa frustration initiale soit niée.",
+    "sectionTitle": "SMS - La positivité relancée",
+    "predictable": "Les imprévus contrariants sont rarement recadrés explicitement pour souligner ce qu'ils ont finalement apporté de positif",
+    "themes": [
+      "Positivité",
+      "Réflexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce truc imprévu aujourd'hui a débouché sur un bon moment inattendu, non ?",
+      "Finalement cet imprévu a donné un bon moment, tu ne trouves pas ?"
+    ]
+  },
+  {
+    "actionTitle": "Le message positif qui anticipe demain",
+    "text": "Peu importe comment s'est terminée cette journée, demain est une nouvelle occasion, et j'ai hâte de la vivre avec toi.",
+    "effect": "Projeter une positivité vers le lendemain, indépendamment de la journée passée, offre un nouveau départ symbolique et encourageant. Elle termine sa journée avec une perspective tournée vers l'avenir plutôt que focalisée uniquement sur les difficultés déjà vécues.",
+    "sectionTitle": "SMS - La positivité relancée",
+    "predictable": "La fin d'une journée difficile reçoit rarement un message qui projette explicitement une positivité vers le lendemain",
+    "themes": [
+      "Positivité",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe comment s'est terminée cette journée, demain est une nouvelle occasion.",
+      "Quelle que soit cette journée, hâte de vivre demain avec toi, nouvelle occasion."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui ajuste réalistement un projet en cours",
+    "text": "En regardant où on en est vraiment sur ce projet, je pense qu'on devrait ajuster le calendrier plutôt que de forcer.",
+    "effect": "Proposer un ajustement réaliste d'un calendrier, plutôt que de maintenir une pression artificielle, montre une honnêteté pragmatique sur l'avancement réel. Elle reçoit une communication honnête sur la réalité du projet, plutôt qu'un optimisme de façade qui mènerait à plus de frustration.",
+    "sectionTitle": "SMS - Le pas réaliste, puis le suivant",
+    "predictable": "Les calendriers de projets communs sont rarement ajustés de façon proactive et honnête plutôt que maintenus sous pression artificielle",
+    "themes": [
+      "Réalisme",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Vu où on en est vraiment, on devrait ajuster le calendrier plutôt que forcer.",
+      "Soyons réalistes sur ce projet, ajustons le calendrier plutôt que de forcer les choses."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui offre une porte de sortie",
+    "text": "Si ce plan d'aujourd'hui ne te tente plus, c'est vraiment ok de me le dire, aucune liberté perdue à ça.",
+    "effect": "Offrir explicitement une porte de sortie sur un plan déjà établi préserve sa liberté de changer d'avis sans crainte de décevoir. Elle sent que son consentement initial n'est jamais figé, ce qui est rarement rendu aussi explicite une fois un plan lancé.",
+    "sectionTitle": "SMS - L'espace de liberté offert",
+    "predictable": "Les plans déjà établis s'accompagnent rarement d'une porte de sortie explicitement offerte en cours de route",
+    "themes": [
+      "Liberté",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si ce plan ne te tente plus, vraiment ok de le dire, aucune liberté perdue.",
+      "Toujours possible de dire non à ce plan, aucun souci de mon côté, vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Le texto qui célèbre un an après",
+    "text": "Ça fait pile un an depuis cette réussite dont tu étais si fière, je voulais marquer le coup aujourd'hui aussi.",
+    "effect": "Célébrer une réussite passée exactement un an après montre que sa valeur ne s'efface pas avec le temps. Elle réalise qu'un accomplissement continue d'être honoré bien après le moment initial, pas juste célébré une fois puis oublié.",
+    "sectionTitle": "SMS - La célébration en deux temps",
+    "predictable": "Les réussites passées sont rarement célébrées à nouveau précisément un an après leur accomplissement initial",
+    "themes": [
+      "Célébration",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pile un an depuis cette réussite dont tu étais fière, voulais marquer le coup aujourd'hui.",
+      "Un an jour pour jour depuis cette réussite, ça méritait bien un petit mot aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui prolonge un confort partagé",
+    "text": "Ce moment confortable qu'on a eu hier soir, j'aimerais vraiment qu'on en refasse un similaire cette semaine.",
+    "effect": "Proposer explicitement de répéter un moment confortable apprécié montre une volonté active de faire du confort partagé une habitude, pas un hasard. Elle sent que ce moment agréable n'était pas isolé mais le début possible d'un vrai rituel entre vous.",
+    "sectionTitle": "SMS - Le confort entretenu",
+    "predictable": "Les moments confortables partagés sont rarement suivis d'une proposition explicite de les reproduire dans la semaine",
+    "themes": [
+      "Confort",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce moment confortable d'hier soir, j'aimerais qu'on en refasse un cette semaine.",
+      "Envie de refaire un moment aussi confortable que celui d'hier soir cette semaine."
+    ]
+  },
+  {
+    "actionTitle": "Le mot doux qui n'attend pas de réponse",
+    "text": "Pas besoin de répondre à ça, juste un petit mot doux comme ça, envoyé simplement parce que j'en avais envie.",
+    "effect": "Préciser qu'aucune réponse n'est attendue libère le message doux de toute obligation conversationnelle, le rendant plus pur dans son intention. Elle reçoit une tendresse offerte sans contrepartie attendue, ce qui renforce sa sincérité désintéressée.",
+    "sectionTitle": "SMS - La douceur qui persiste",
+    "predictable": "Les mots doux envoyés par message s'accompagnent rarement d'une précision explicite qu'aucune réponse n'est attendue",
+    "themes": [
+      "Douceur",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pas besoin de répondre, juste un mot doux envoyé parce que j'en avais envie.",
+      "Aucune réponse nécessaire ici, juste une douceur envoyée simplement pour le plaisir."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui espère pour un futur proche",
+    "text": "Rien de précis encore, mais j'ai vraiment hâte et de l'espoir pour ce qu'on prépare ensemble ces prochaines semaines.",
+    "effect": "Exprimer un espoir général pour un futur proche, sans détail précis encore disponible, maintient une anticipation positive avant même que les plans ne soient finalisés. Elle ressent un optimisme partagé pour ce qui approche, même dans l'incertitude encore présente des détails.",
+    "sectionTitle": "SMS - L'espoir nourri",
+    "predictable": "L'espoir pour un futur proche encore incertain est rarement exprimé explicitement avant même que les détails ne soient connus",
+    "themes": [
+      "Espoir",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rien de précis encore, mais vraiment hâte et de l'espoir pour ces prochaines semaines.",
+      "Pas de détails encore, mais j'ai bon espoir pour ce qu'on prépare ces prochaines semaines."
+    ]
+  },
+  {
+    "actionTitle": "Le message empathique envoyé au bon moment",
+    "text": "Sais que c'est probablement en ce moment précis que ça doit être le plus dur, pensée pour toi là maintenant.",
+    "effect": "Envoyer un message empathique précisément au moment estimé le plus difficile, plutôt qu'à un moment arbitraire, montre une attention fine au timing émotionnel. Elle reçoit un soutien qui arrive exactement quand elle en a probablement le plus besoin, pas à un moment générique choisi au hasard.",
+    "sectionTitle": "SMS - L'empathie mise en pratique",
+    "predictable": "Les messages de soutien sont rarement envoyés en anticipant précisément le moment estimé le plus difficile pour elle",
+    "themes": [
+      "Empathie",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sais que c'est probablement le plus dur maintenant, pensée pour toi à cet instant.",
+      "Ça doit être dur pile maintenant je pense, juste une pensée pour toi à ce moment précis."
+    ]
+  },
+  {
+    "actionTitle": "Le texto qui confirme une fiabilité constante",
+    "text": "Ça fait un moment que tu peux compter sur moi pour ce genre de truc maintenant, et ça ne va pas s'arrêter là.",
+    "effect": "Affirmer explicitement la continuité d'une fiabilité déjà établie, en la projetant vers l'avenir, renforce la confiance construite dans le temps. Elle reçoit une confirmation que sa confiance actuelle repose sur des bases solides qui continueront de tenir, pas seulement un passé révolu.",
+    "sectionTitle": "SMS - La fiabilité prouvée deux fois",
+    "predictable": "La continuité future d'une fiabilité déjà établie est rarement explicitement affirmée plutôt que simplement implicite",
+    "themes": [
+      "Fiabilité",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ça fait un moment que tu peux compter sur moi pour ça, et ça ne va pas s'arrêter.",
+      "Tu peux compter sur moi pour ce genre de truc depuis un moment, ça continue comme ça."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui remarque une constance mutuelle",
+    "text": "On tient vraiment bien ce petit rythme ensemble depuis quelques semaines maintenant, j'aime beaucoup ça entre nous.",
+    "effect": "Reconnaître explicitement une constance mutuelle installée sur plusieurs semaines valorise l'effort partagé plutôt qu'unilatéral dans la construction d'une habitude. Elle perçoit que cette régularité est perçue comme un accomplissement commun, pas seulement le résultat de ses propres efforts ou des tiens seul.",
+    "sectionTitle": "SMS - La constance en deux gestes",
+    "predictable": "La constance mutuelle installée sur plusieurs semaines est rarement explicitement reconnue comme un accomplissement partagé",
+    "themes": [
+      "Constance",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "On tient vraiment bien ce rythme depuis quelques semaines, j'aime ça entre nous.",
+      "Ce petit rythme qu'on tient depuis des semaines maintenant, j'aime vraiment ça entre nous."
+    ]
+  },
+  {
+    "actionTitle": "Le message positif envoyé en pleine semaine chargée",
+    "text": "Sais que la semaine est chargée, mais voici quand même un petit rappel que de bonnes choses arrivent aussi.",
+    "effect": "Envoyer un rappel positif en pleine période chargée, plutôt qu'après coup, offre un contrepoids immédiat à une phase potentiellement stressante. Elle reçoit une bulle de positivité précisément quand elle en a probablement le plus besoin, pas différée à un moment plus calme et donc moins utile.",
+    "sectionTitle": "SMS - La positivité relancée",
+    "predictable": "Les rappels positifs sont rarement envoyés précisément en pleine période chargée plutôt que différés à un moment plus calme",
+    "themes": [
+      "Positivité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La semaine est chargée je sais, mais voici un rappel que de bonnes choses arrivent aussi.",
+      "Sais que c'est chargé cette semaine, petit rappel quand même que du bon arrive aussi."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui ajuste une attente sur un cadeau",
+    "text": "Pour ton anniversaire, soyons réalistes ensemble sur ce que je peux offrir cette année, pas de fausses promesses.",
+    "effect": "Ajuster honnêtement les attentes autour d'un cadeau, plutôt que de laisser planer une promesse irréaliste, évite une déception évitable liée à un excès d'optimisme. Elle apprécie une communication transparente sur ce qui est réellement possible, plutôt qu'une fausse promesse qui mènerait à la déception le moment venu.",
+    "sectionTitle": "SMS - Le pas réaliste, puis le suivant",
+    "predictable": "Les attentes autour d'un cadeau à venir sont rarement ajustées honnêtement à l'avance plutôt que laissées vagues et potentiellement décevantes",
+    "themes": [
+      "Réalisme",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pour ton anniversaire, soyons réalistes sur ce que je peux offrir, pas de fausses promesses.",
+      "Honnêtement, pour ton anniversaire, restons réalistes sur ce qui est possible cette année."
+    ]
+  },
+  {
+    "actionTitle": "Le bilan réaliste après un objectif atteint",
+    "text": "On avait fixé cet objectif de façon réaliste, et regarde, on l'a atteint, content qu'on n'ait pas visé trop haut.",
+    "effect": "Confirmer après coup que fixer un objectif réaliste, plutôt qu'ambitieux à l'excès, a permis de réellement l'atteindre valide cette approche pour l'avenir. Elle voit la preuve concrète que le réalisme choisi ensemble a porté ses fruits, renforçant la confiance dans cette méthode pour les prochains objectifs.",
+    "sectionTitle": "SMS - Le pas réaliste, puis le suivant",
+    "predictable": "Les objectifs fixés de façon réaliste sont rarement explicitement validés après coup une fois effectivement atteints",
+    "themes": [
+      "Réalisme",
+      "Accomplissement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "On avait visé réaliste pour cet objectif, et on l'a atteint, content qu'on n'ait pas visé trop haut.",
+      "Objectif réaliste fixé, objectif atteint, content qu'on n'ait pas visé trop haut cette fois."
+    ]
   }
 ]

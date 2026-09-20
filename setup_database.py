@@ -1568,23 +1568,38 @@ RECLASSIFY_TO_SMS = {
     "Cartes postales virtuelles": "La Visualisation Guidée",
     "Vague sonore": "La Visualisation Guidée",
     "Le Compliment Avant l'Épreuve": "Les preuves d'admiration",
+    "La Mission du Jour": "Lancer des Défis Ludiques",
+    "Le Protocole du Jour": "Le Protocole de l'Attente",
+}
+
+# Same idea, but for entries whose entire deliverable is "write this on a
+# note/post-it and hide it for her to find" — that's what the POSTITS
+# category is for.
+RECLASSIFY_TO_POSTITS = {
+    "Dessin fugace": "La Visualisation Guidée",
 }
 
 
 def _reclassify_base_actions(actions):
-    """Moves the FULL_TEXT entries named in RECLASSIFY_TO_SMS from ACTIONS
-    to SMS in place, prefixing their section title to match the SMS
-    category's "SMS - <section>" convention used everywhere else."""
-    moved = 0
+    """Moves the FULL_TEXT entries named in RECLASSIFY_TO_SMS/POSTITS from
+    ACTIONS to their real category in place, prefixing their section title
+    to match the "<Category> - <section>" convention used everywhere else."""
+    moved_sms = 0
+    moved_postits = 0
     for action in actions:
-        new_section = RECLASSIFY_TO_SMS.get(action['actionTitle'])
-        if new_section is None:
-            continue
-        action['category'] = 'SMS'
-        action['sectionTitle'] = "SMS - " + new_section
-        moved += 1
-    print(f"   - Reclassified {moved} FULL_TEXT entries from ACTIONS to SMS "
+        title = action['actionTitle']
+        if title in RECLASSIFY_TO_SMS:
+            action['category'] = 'SMS'
+            action['sectionTitle'] = "SMS - " + RECLASSIFY_TO_SMS[title]
+            moved_sms += 1
+        elif title in RECLASSIFY_TO_POSTITS:
+            action['category'] = 'POSTITS'
+            action['sectionTitle'] = "Post-its - " + RECLASSIFY_TO_POSTITS[title]
+            moved_postits += 1
+    print(f"   - Reclassified {moved_sms} FULL_TEXT entries from ACTIONS to SMS "
           f"(their content is entirely 'send her this text').")
+    print(f"   - Reclassified {moved_postits} FULL_TEXT entries from ACTIONS to POSTITS "
+          f"(their content is entirely 'write this on a note and hide it').")
 
 
 if __name__ == "__main__":

@@ -14317,5 +14317,855 @@
       "Whatever storms come, literal or not, we grab the same umbrella and figure it out.",
       "Storms of any kind, I like that we always grab the same umbrella together."
     ]
+  },
+  {
+    "actionTitle": "Sur la porte de garage",
+    "text": "Peu importe la direction que tu prends aujourd'hui en sortant d'ici, sache que c'est entièrement la tienne à choisir.",
+    "effect": "Placer un message sur le seuil de sortie physique du foyer associe symboliquement le départ à une liberté de choix affirmée. Elle quitte la maison avec un rappel explicite que sa journée lui appartient entièrement, sans attente cachée de ta part.",
+    "sectionTitle": "Post-its - Porte de garage",
+    "predictable": "Les seuils de sortie du foyer ne portent généralement pas de message explicite sur la liberté de choix de la journée à venir",
+    "themes": [
+      "Liberté",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe la direction prise aujourd'hui, elle est entièrement la tienne à choisir.",
+      "Ta journée t'appartient entièrement à partir d'ici, fais-en ce que tu veux."
+    ]
+  },
+  {
+    "actionTitle": "Sur la boîte à gâteau",
+    "text": "Pas besoin d'une grande occasion pour ouvrir ça, célébrons quelque chose de petit aujourd'hui, juste parce qu'on peut.",
+    "effect": "Retirer la nécessité d'une grande occasion pour célébrer valorise les célébrations spontanées et sans prétexte particulier. Elle découvre une invitation à la légèreté festive sans qu'aucune réussite précise n'ait à être justifiée au préalable.",
+    "sectionTitle": "Post-its - Boîte à gâteau",
+    "predictable": "Les objets liés à la célébration sont généralement réservés à de grandes occasions plutôt qu'à une célébration spontanée sans prétexte",
+    "themes": [
+      "Célébration",
+      "Légèreté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pas besoin d'une grande occasion, célébrons quelque chose de petit aujourd'hui.",
+      "Ouvrons ça juste parce qu'on peut, aucune grande occasion nécessaire."
+    ]
+  },
+  {
+    "actionTitle": "Sur le plaid du canapé",
+    "text": "Ce plaid est là pour que tu te sentes bien sans avoir à le demander, comme j'aimerais que ce soit pour tout le reste aussi.",
+    "effect": "Étendre la fonction réconfortante d'un objet physique vers une intention plus large de confort général dans la relation élargit son sens symbolique. Elle perçoit une déclaration sur ton envie de lui offrir du confort sans qu'elle ait jamais à le demander explicitement.",
+    "sectionTitle": "Post-its - Plaid du canapé",
+    "predictable": "Les objets de confort physique ne portent généralement pas de déclaration élargie sur l'intention de confort général dans la relation",
+    "themes": [
+      "Confort",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce plaid est là pour ton confort sans que tu aies à demander, comme le reste aussi.",
+      "Comme ce plaid, j'aimerais que ton confort n'ait jamais besoin d'être demandé."
+    ]
+  },
+  {
+    "actionTitle": "Sur le gant de toilette",
+    "text": "Ce petit geste du matin est doux sans même y penser, un peu comme j'essaie de l'être avec toi chaque jour.",
+    "effect": "Comparer la douceur automatique d'un geste d'hygiène quotidienne à une aspiration personnelle de douceur relationnelle ajoute une image tendre à un objet banal. Elle découvre une déclaration de douceur glissée dans un des objets les plus routiniers et insignifiants du quotidien.",
+    "sectionTitle": "Post-its - Gant de toilette",
+    "predictable": "Les objets d'hygiène quotidienne les plus routiniers ne portent généralement pas de déclaration sur une aspiration à la douceur relationnelle",
+    "themes": [
+      "Douceur",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce geste du matin est doux sans y penser, comme j'essaie de l'être avec toi.",
+      "Doux sans effort, ce petit geste, un peu comme j'essaie d'être avec toi chaque jour."
+    ]
+  },
+  {
+    "actionTitle": "Sur le sachet de graines",
+    "text": "Comme cette graine, certaines choses entre nous ont juste besoin d'un peu de temps et de soin pour vraiment s'épanouir.",
+    "effect": "Utiliser la métaphore de la croissance végétale pour exprimer un espoir sur l'évolution de la relation ajoute une image organique et rassurante. Elle perçoit une déclaration d'espoir patiente, qui accepte que certaines choses prennent du temps sans que ça remette en cause leur valeur.",
+    "sectionTitle": "Post-its - Graine de plante",
+    "predictable": "Les objets liés à la croissance végétale ne portent généralement pas de métaphore explicite sur l'espoir et la patience en amour",
+    "themes": [
+      "Espoir",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme cette graine, certaines choses entre nous ont besoin de temps pour s'épanouir.",
+      "Cette graine me rappelle que ce qui prend du temps peut quand même bien pousser."
+    ]
+  },
+  {
+    "actionTitle": "Sur la boîte de mouchoirs",
+    "text": "Si tu en as besoin aujourd'hui, sache que peu importe la raison, ce que tu ressens compte et sera entendu sans jugement.",
+    "effect": "Associer un objet lié aux larmes à une validation explicite du ressenti émotionnel, sans jugement, transforme un objet fonctionnel en promesse d'écoute. Elle découvre un message d'empathie précisément dans un moment où elle pourrait se sentir vulnérable et jugée.",
+    "sectionTitle": "Post-its - Boîte de mouchoirs",
+    "predictable": "Les objets associés aux larmes ne portent généralement pas de message explicite de validation émotionnelle sans jugement",
+    "themes": [
+      "Empathie",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si tu en as besoin, ce que tu ressens compte et sera entendu sans jugement.",
+      "Peu importe la raison, ce que tu ressens sera toujours entendu ici, sans jugement."
+    ]
+  },
+  {
+    "actionTitle": "Sur la batterie externe",
+    "text": "Comme cette batterie qui recharge sans faute à chaque fois, j'essaie d'être ce genre de présence fiable pour toi, toujours.",
+    "effect": "Comparer la fiabilité mécanique constante d'un objet technique à une aspiration personnelle de constance ajoute une image concrète et rassurante. Elle découvre une promesse de fiabilité affective comparée à un objet dont la fonction est justement de ne jamais faire défaut.",
+    "sectionTitle": "Post-its - Batterie externe",
+    "predictable": "Les objets techniques fiables ne portent généralement pas de comparaison explicite avec une aspiration personnelle de fiabilité affective",
+    "themes": [
+      "Fiabilité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme cette batterie fiable à chaque fois, j'essaie d'être cette présence pour toi.",
+      "Recharge sans faute, comme j'essaie d'être une présence fiable pour toi, toujours."
+    ]
+  },
+  {
+    "actionTitle": "Sur le métronome",
+    "text": "Ce petit objet garde le même rythme, encore et encore, un peu comme mon attachement pour toi, jour après jour.",
+    "effect": "Utiliser la régularité mécanique d'un métronome comme métaphore de la constance affective ajoute une image précise et rassurante à une déclaration de sentiment. Elle perçoit un attachement décrit comme stable et répétitif dans le bon sens, plutôt que sujet à des variations imprévisibles.",
+    "sectionTitle": "Post-its - Métronome",
+    "predictable": "Les objets liés au rythme régulier ne portent généralement pas de métaphore explicite sur la constance d'un attachement affectif",
+    "themes": [
+      "Constance",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce petit objet garde le même rythme, comme mon attachement pour toi, jour après jour.",
+      "Toujours le même tempo, comme mes sentiments pour toi, stables jour après jour."
+    ]
+  },
+  {
+    "actionTitle": "Sur le cadre photo",
+    "text": "Ce moment capturé ici me rappelle que même dans les journées compliquées, il y a toujours quelque chose de bon à trouver.",
+    "effect": "Utiliser une photo d'un souvenir heureux comme rappel concret de positivité ancre un état d'esprit optimiste dans un objet tangible et visible au quotidien. Elle découvre un objet du quotidien transformé en rappel actif que le positif reste accessible même les jours plus difficiles.",
+    "sectionTitle": "Post-its - Cadre photo",
+    "predictable": "Les objets contenant des souvenirs heureux ne portent généralement pas de message explicite les reliant à un état d'esprit positif à cultiver",
+    "themes": [
+      "Positivité",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce moment ici me rappelle qu'il y a toujours du bon à trouver, même les jours compliqués.",
+      "Cette photo me rappelle que le positif reste accessible, même dans les journées dures."
+    ]
+  },
+  {
+    "actionTitle": "Sur le carnet de liste de courses",
+    "text": "Comme cette liste qui reste simple et réaliste, j'essaie de garder mes attentes envers nous deux tout aussi raisonnables et honnêtes.",
+    "effect": "Comparer la simplicité pragmatique d'une liste de courses à une approche réaliste des attentes relationnelles ajoute une image légère et concrète à une réflexion plus sérieuse. Elle perçoit une déclaration honnête sur le fait que les attentes envers la relation restent volontairement ancrées dans le réalisme, pas dans l'idéalisation.",
+    "sectionTitle": "Post-its - Liste de courses",
+    "predictable": "Les objets pratiques et simples du quotidien ne portent généralement pas de réflexion sur le réalisme des attentes relationnelles",
+    "themes": [
+      "Réalisme",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme cette liste simple et réaliste, j'essaie de garder nos attentes tout aussi raisonnables.",
+      "Cette liste reste simple et honnête, comme j'essaie de garder mes attentes envers nous."
+    ]
+  },
+  {
+    "actionTitle": "Porte de garage, un second mot",
+    "text": "Que tu ailles loin ou nulle part aujourd'hui, cette porte s'ouvre toujours sur autant de choix que tu veux en faire.",
+    "effect": "Étendre la métaphore de la porte comme seuil de choix, quelle que soit la destination, renforce l'idée que la liberté ne dépend pas de l'ampleur du déplacement. Elle perçoit que même une journée sans grand projet reste pleinement sienne à façonner comme elle l'entend.",
+    "sectionTitle": "Post-its - Porte de garage",
+    "predictable": "Les seuils de sortie ne portent généralement pas de message reliant l'ampleur du déplacement à la liberté de choix qu'il représente",
+    "themes": [
+      "Liberté",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Que tu ailles loin ou nulle part, cette porte ouvre sur autant de choix que tu veux.",
+      "Loin ou pas aujourd'hui, cette sortie t'ouvre sur tous les choix que tu veux faire."
+    ]
+  },
+  {
+    "actionTitle": "Porte de garage, un mot pratique",
+    "text": "Personne ne t'attend à une heure précise aujourd'hui de mon côté, prends vraiment tout le temps qu'il te faut dehors.",
+    "effect": "Retirer explicitement toute contrainte horaire implicite libère d'une pression temporelle souvent sous-entendue sans être formulée. Elle sait qu'aucune horloge silencieuse ne compte les heures de son côté, ce qui est rarement dit aussi clairement.",
+    "sectionTitle": "Post-its - Porte de garage",
+    "predictable": "L'absence de contrainte horaire pour une sortie est rarement explicitement confirmée plutôt que simplement sous-entendue",
+    "themes": [
+      "Liberté",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Personne ne t'attend à une heure précise, prends tout le temps qu'il te faut.",
+      "Aucune heure fixe de mon côté, prends vraiment ton temps dehors aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Porte de garage, un mot chaleureux",
+    "text": "Sors et reviens comme tu veux aujourd'hui, la seule chose qui compte c'est que tu te sentes bien dans tes choix.",
+    "effect": "Affirmer que le bien-être ressenti dans ses choix prime sur toute autre considération recentre la liberté sur son expérience subjective plutôt que sur des attentes externes. Elle reçoit une validation explicite que son ressenti personnel est le seul critère qui importe vraiment dans sa journée.",
+    "sectionTitle": "Post-its - Porte de garage",
+    "predictable": "La liberté de mouvement accordée est rarement explicitement recentrée sur le seul critère de son ressenti personnel",
+    "themes": [
+      "Liberté",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sors et reviens comme tu veux, seul compte que tu te sentes bien dans tes choix.",
+      "La seule chose qui compte aujourd'hui, c'est que tu te sentes bien dans ce que tu choisis."
+    ]
+  },
+  {
+    "actionTitle": "Porte de garage, dernier mot",
+    "text": "Cette liberté que je t'offre aujourd'hui n'attend rien en retour, ni gratitude ni compte-rendu, juste profite.",
+    "effect": "Préciser explicitement qu'aucune contrepartie n'est attendue en retour d'une liberté offerte élimine toute dette implicite qui pourrait peser sur elle. Elle comprend que la liberté accordée est un cadeau véritablement gratuit, sans obligation cachée de reconnaissance ou d'explication.",
+    "sectionTitle": "Post-its - Porte de garage",
+    "predictable": "La liberté accordée s'accompagne rarement d'une clarification explicite qu'aucune contrepartie n'est attendue en retour",
+    "themes": [
+      "Liberté",
+      "Générosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette liberté n'attend rien en retour, ni gratitude ni compte-rendu, juste profite.",
+      "Pas besoin de me remercier ou de rendre des comptes, profite juste de cette liberté."
+    ]
+  },
+  {
+    "actionTitle": "Boîte à gâteau, un second mot",
+    "text": "Peu importe ce qu'il y a dedans aujourd'hui, considère que c'est déjà une petite fête, sans raison particulière nécessaire.",
+    "effect": "Réaffirmer qu'aucune raison particulière n'est nécessaire pour transformer un moment ordinaire en petite célébration valorise la spontanéité festive au quotidien. Elle découvre une permission renouvelée de célébrer sans justification, glissée dans un objet directement associé au plaisir et à la fête.",
+    "sectionTitle": "Post-its - Boîte à gâteau",
+    "predictable": "Les objets liés à la fête ne portent généralement pas de rappel explicite qu'aucune raison particulière n'est nécessaire pour célébrer",
+    "themes": [
+      "Célébration",
+      "Spontanéité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe ce qu'il y a dedans, considère que c'est déjà une petite fête, sans raison.",
+      "Ce qu'il y a là-dedans est déjà une petite fête, aucune raison particulière requise."
+    ]
+  },
+  {
+    "actionTitle": "Boîte à gâteau, un mot gourmand",
+    "text": "Un petit morceau de quelque chose de bon aujourd'hui, juste parce qu'on mérite tous les deux un peu de douceur sucrée.",
+    "effect": "Justifier une petite indulgence par le simple fait de la mériter, sans autre condition, normalise le plaisir immédiat sans culpabilité associée. Elle reçoit une permission explicite de savourer quelque chose de bon simplement parce que ça fait du bien, sans autre justification nécessaire.",
+    "sectionTitle": "Post-its - Boîte à gâteau",
+    "predictable": "Les petites indulgences gourmandes sont rarement explicitement justifiées uniquement par le simple fait de les mériter",
+    "themes": [
+      "Célébration",
+      "Légèreté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un petit morceau de quelque chose de bon, juste parce qu'on mérite un peu de douceur.",
+      "On mérite tous les deux un peu de douceur sucrée aujourd'hui, simplement parce que oui."
+    ]
+  },
+  {
+    "actionTitle": "Boîte à gâteau, un mot festif",
+    "text": "La prochaine fois qu'on ouvre ça, inventons ensemble une raison complètement absurde de fêter quelque chose, juste pour rire.",
+    "effect": "Proposer d'inventer une raison délibérément absurde de célébrer introduit une dimension ludique dans l'idée même de fêter quelque chose. Elle est invitée à un futur moment de légèreté partagée, où l'absurdité du prétexte devient elle-même source d'amusement.",
+    "sectionTitle": "Post-its - Boîte à gâteau",
+    "predictable": "Les célébrations partagées incluent rarement l'invitation explicite à inventer ensemble une raison absurde de fêter",
+    "themes": [
+      "Célébration",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La prochaine fois, inventons une raison absurde de fêter quelque chose, pour rire.",
+      "Trouvons ensemble une excuse complètement absurde de célébrer la prochaine fois."
+    ]
+  },
+  {
+    "actionTitle": "Boîte à gâteau, dernier mot",
+    "text": "Chaque fois qu'on partage ça ensemble, ça devient un petit souvenir de plus, même si le gâteau ne dure jamais bien longtemps.",
+    "effect": "Souligner que même un plaisir éphémère comme un gâteau laisse une trace durable sous forme de souvenir valorise la valeur du moment partagé au-delà de sa durée matérielle. Elle réalise que ce qui compte vraiment dans ces petits moments, c'est le souvenir qu'ils créent, pas l'objet lui-même qui disparaît vite.",
+    "sectionTitle": "Post-its - Boîte à gâteau",
+    "predictable": "Les plaisirs éphémères partagés sont rarement explicitement valorisés pour le souvenir durable qu'ils laissent au-delà de leur brièveté",
+    "themes": [
+      "Célébration",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Chaque fois qu'on partage ça, ça devient un souvenir de plus, même si ça dure peu.",
+      "Le gâteau ne dure jamais longtemps, mais le souvenir partagé lui, reste."
+    ]
+  },
+  {
+    "actionTitle": "Plaid du canapé, un second mot",
+    "text": "Enroule-toi bien là-dedans ce soir, aucune obligation de faire quoi que ce soit d'autre que d'être confortable.",
+    "effect": "Autoriser explicitement l'inactivité totale sous cet objet de confort retire toute pression implicite de productivité une fois installée. Elle reçoit une permission claire de simplement exister confortablement, sans qu'aucune autre attente ne pèse sur ce moment.",
+    "sectionTitle": "Post-its - Plaid du canapé",
+    "predictable": "Le confort physique offert par cet objet s'accompagne rarement d'une permission explicite de n'avoir rien d'autre à faire",
+    "themes": [
+      "Confort",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Enroule-toi bien là-dedans, aucune obligation de faire autre chose que d'être confortable.",
+      "Sous ce plaid ce soir, rien d'autre à faire qu'être bien, c'est suffisant."
+    ]
+  },
+  {
+    "actionTitle": "Plaid du canapé, un mot doux",
+    "text": "Ce plaid a toujours la même texture douce, un peu prévisible je sais, mais j'aime cette prévisibilité réconfortante autant que toi.",
+    "effect": "Valoriser la prévisibilité d'un objet de confort familier, plutôt que la nouveauté, célèbre la valeur rassurante de ce qui reste stable et connu. Elle perçoit une réflexion tendre sur le fait que la familiarité peut être une qualité recherchée, pas seulement quelque chose à fuir par ennui.",
+    "sectionTitle": "Post-its - Plaid du canapé",
+    "predictable": "La prévisibilité rassurante d'un objet familier est rarement explicitement valorisée plutôt que perçue comme un manque de nouveauté",
+    "themes": [
+      "Confort",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Toujours la même texture douce, prévisible je sais, mais j'aime ce réconfort autant que toi.",
+      "Cette douceur prévisible du plaid, je l'aime autant que toi je pense."
+    ]
+  },
+  {
+    "actionTitle": "Plaid du canapé, un mot pratique",
+    "text": "Gardé bien à portée de main pour toi ce soir, pas besoin de te lever pour le chercher quand tu voudras t'y blottir.",
+    "effect": "Anticiper l'accessibilité physique d'un objet de confort avant qu'elle n'en ait besoin élimine un petit effort qui pourrait sinon interrompre son moment de détente. Elle découvre un objet déjà positionné pour son confort immédiat, preuve d'une anticipation pensée spécifiquement pour elle.",
+    "sectionTitle": "Post-its - Plaid du canapé",
+    "predictable": "L'accessibilité anticipée d'un objet de confort avant même le moment où il devient nécessaire est rarement explicitement pensée à l'avance",
+    "themes": [
+      "Confort",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Gardé à portée de main pour ce soir, pas besoin de te lever pour le chercher.",
+      "Déjà là, prêt pour toi ce soir, pas besoin de bouger pour t'y blottir."
+    ]
+  },
+  {
+    "actionTitle": "Plaid du canapé, dernier mot",
+    "text": "Le confort que je veux t'offrir ne se limite pas à ce plaid, c'est une intention qui dépasse largement cet objet précis.",
+    "effect": "Clarifier que l'intention de confort dépasse largement l'objet physique lui-même élargit sa portée symbolique vers un engagement affectif plus large et durable. Elle comprend que le geste concret n'est qu'une expression parmi d'autres d'une intention de confort qui s'étend bien au-delà de ce moment précis.",
+    "sectionTitle": "Post-its - Plaid du canapé",
+    "predictable": "Les objets de confort physique s'accompagnent rarement d'une clarification explicite que l'intention derrière dépasse largement l'objet lui-même",
+    "themes": [
+      "Confort",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le confort que je veux t'offrir dépasse largement ce plaid, c'est une intention plus large.",
+      "Ce plaid n'est qu'un exemple, mon intention de confort pour toi va bien au-delà."
+    ]
+  },
+  {
+    "actionTitle": "Gant de toilette, un second mot",
+    "text": "Un petit geste doux répété chaque matin, sans même y penser, c'est peut-être ça la vraie preuve d'un amour constant.",
+    "effect": "Relier la répétition automatique d'un geste doux quotidien à une réflexion sur la nature constante et discrète de l'amour ajoute une profondeur inattendue à un objet banal. Elle découvre une réflexion sincère glissée dans un des gestes les plus routiniers et invisibles de sa journée.",
+    "sectionTitle": "Post-its - Gant de toilette",
+    "predictable": "Les gestes doux automatiques du quotidien ne portent généralement pas de réflexion explicite sur la nature constante de l'amour",
+    "themes": [
+      "Douceur",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un geste doux répété chaque matin sans y penser, c'est peut-être ça un amour constant.",
+      "Ce petit geste doux et automatique, c'est peut-être la vraie preuve d'un amour qui dure."
+    ]
+  },
+  {
+    "actionTitle": "Gant de toilette, un mot léger",
+    "text": "Que ta journée commence en douceur avec ce petit geste, et j'espère qu'elle continue sur cette même lancée toute la journée.",
+    "effect": "Souhaiter que la douceur d'un geste matinal se prolonge tout au long de la journée étend l'intention d'un moment isolé vers une ambition plus large. Elle reçoit un souhait qui dépasse le simple geste du matin pour englober l'ensemble de sa journée à venir.",
+    "sectionTitle": "Post-its - Gant de toilette",
+    "predictable": "Les souhaits liés à un geste matinal doux sont rarement explicitement étendus à l'ensemble de la journée qui suit",
+    "themes": [
+      "Douceur",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Que ta journée commence en douceur, et continue sur cette lancée toute la journée.",
+      "Douceur dès ce matin avec ce geste, j'espère que ça continue toute la journée."
+    ]
+  },
+  {
+    "actionTitle": "Gant de toilette, un mot tendre",
+    "text": "Même les gestes les plus simples et répétitifs du quotidien peuvent porter une intention tendre, comme celui-ci chaque matin.",
+    "effect": "Affirmer que même les gestes les plus routiniers peuvent porter une intention tendre élève la banalité quotidienne au rang de vecteur affectif possible. Elle réalise que la tendresse ne réside pas seulement dans les grands gestes, mais peut aussi habiter les habitudes les plus ordinaires de sa vie.",
+    "sectionTitle": "Post-its - Gant de toilette",
+    "predictable": "Les gestes répétitifs les plus simples du quotidien ne sont généralement pas explicitement reconnus comme pouvant porter une intention tendre",
+    "themes": [
+      "Douceur",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même les gestes les plus simples peuvent porter une intention tendre, comme celui-ci.",
+      "Ce geste répétitif du matin porte une vraie intention tendre, même s'il est tout simple."
+    ]
+  },
+  {
+    "actionTitle": "Gant de toilette, dernier mot",
+    "text": "La douceur ne demande jamais d'effort particulier pour exister, elle est juste là, comme j'essaie de l'être pour toi.",
+    "effect": "Comparer la nature sans effort de la douceur physique à une aspiration personnelle d'être naturellement doux dans la relation évite toute connotation de performance. Elle perçoit une déclaration sur une douceur qui se veut authentique et sans calcul, pas un effort visible ou forcé.",
+    "sectionTitle": "Post-its - Gant de toilette",
+    "predictable": "La douceur relationnelle est rarement explicitement décrite comme une qualité sans effort plutôt qu'une performance visible",
+    "themes": [
+      "Douceur",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La douceur ne demande aucun effort pour exister, elle est juste là, comme j'essaie de l'être.",
+      "Sans effort particulier, la douceur existe juste, comme j'essaie d'être pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Sachet de graines, un second mot",
+    "text": "On ne voit jamais la graine pousser en la regardant fixement, un peu comme certains changements entre nous prennent du temps invisible.",
+    "effect": "Étendre la métaphore de la croissance invisible vers les évolutions relationnelles qui semblent lentes mais qui progressent réellement sous la surface rassure sur leur réalité. Elle perçoit une validation que le changement, même quand il paraît lent ou invisible, reste bien réel et en cours.",
+    "sectionTitle": "Post-its - Sachet de graines",
+    "predictable": "La croissance invisible d'une graine n'est généralement pas reliée explicitement aux évolutions relationnelles qui semblent lentes",
+    "themes": [
+      "Espoir",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "On ne voit jamais la graine pousser en la fixant, comme certains changements entre nous.",
+      "Certains de nos changements sont comme cette graine, invisibles mais bien réels."
+    ]
+  },
+  {
+    "actionTitle": "Sachet de graines, un mot d'attente",
+    "text": "Chaque graine plantée est un petit acte de confiance dans l'avenir, même sans savoir exactement ce qu'elle donnera.",
+    "effect": "Comparer l'acte de planter à un acte de confiance dans un futur incertain valorise l'espoir malgré l'absence de garantie sur le résultat. Elle perçoit une réflexion sur la confiance nécessaire pour espérer, même sans certitude absolue sur ce que l'avenir apportera précisément.",
+    "sectionTitle": "Post-its - Sachet de graines",
+    "predictable": "L'acte de planter n'est généralement pas explicitement relié à une réflexion sur la confiance nécessaire pour espérer sans certitude",
+    "themes": [
+      "Espoir",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Chaque graine plantée est un acte de confiance dans l'avenir, sans savoir ce qu'elle donnera.",
+      "Planter, c'est faire confiance à l'avenir sans certitude, un peu comme espérer avec toi."
+    ]
+  },
+  {
+    "actionTitle": "Sachet de graines, un mot d'encouragement",
+    "text": "Rien ne pousse jamais sans un minimum de soin régulier, et ça vaut aussi bien pour les plantes que pour nous deux.",
+    "effect": "Relier le soin régulier nécessaire à la croissance végétale à l'entretien continu de la relation renforce l'idée que l'espoir se nourrit d'efforts constants. Elle perçoit un rappel doux que l'espoir seul ne suffit pas, qu'il a aussi besoin d'attention régulière pour vraiment porter ses fruits.",
+    "sectionTitle": "Post-its - Sachet de graines",
+    "predictable": "Le soin régulier nécessaire à la croissance n'est généralement pas explicitement relié à l'entretien continu d'une relation",
+    "themes": [
+      "Espoir",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rien ne pousse sans un minimum de soin régulier, ça vaut pour les plantes et pour nous.",
+      "Comme une plante, ça a besoin de soin régulier, un peu comme nous deux aussi."
+    ]
+  },
+  {
+    "actionTitle": "Sachet de graines, dernier mot",
+    "text": "Un jour, ce qu'on plante aujourd'hui donnera quelque chose de bien plus grand qu'on ne l'imagine encore maintenant.",
+    "effect": "Projeter une croissance future potentiellement plus grande que ce qui est actuellement visible nourrit un espoir ambitieux mais patient pour l'avenir. Elle reçoit une vision optimiste sur le potentiel encore invisible de ce que vous construisez ensemble, au-delà de ce qui est perceptible aujourd'hui.",
+    "sectionTitle": "Post-its - Sachet de graines",
+    "predictable": "La projection d'une croissance future plus grande que ce qui est actuellement visible est rarement explicitement formulée comme espoir partagé",
+    "themes": [
+      "Espoir",
+      "Projection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce qu'on plante aujourd'hui donnera quelque chose de plus grand qu'on ne l'imagine.",
+      "Un jour, ça donnera bien plus grand que ce qu'on imagine aujourd'hui, j'en suis sûr."
+    ]
+  },
+  {
+    "actionTitle": "Boîte de mouchoirs, un second mot",
+    "text": "Que ce soit des larmes de tristesse ou de joie, sache que les deux méritent tout autant d'être pleinement vécues ici.",
+    "effect": "Valider explicitement toutes les formes de larmes, positives comme négatives, sans hiérarchie entre elles, normalise l'expression émotionnelle complète. Elle reçoit une permission élargie d'exprimer toute forme d'émotion intense, sans avoir à justifier laquelle est la plus légitime.",
+    "sectionTitle": "Post-its - Boîte de mouchoirs",
+    "predictable": "Les objets associés aux larmes valident rarement explicitement toutes les formes d'émotions intenses sans hiérarchie entre elles",
+    "themes": [
+      "Empathie",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Larmes de tristesse ou de joie, les deux méritent d'être pleinement vécues ici.",
+      "Que ce soit triste ou joyeux, ces larmes méritent toutes d'être vécues pleinement."
+    ]
+  },
+  {
+    "actionTitle": "Boîte de mouchoirs, un mot rassurant",
+    "text": "Personne ne va te demander d'arrêter de ressentir ce que tu ressens ici, prends tout le temps qu'il te faut pour ça.",
+    "effect": "Retirer toute pression implicite de contrôle émotionnel offre un espace de vulnérabilité totalement libre de jugement temporel. Elle reçoit une permission explicite de vivre pleinement son émotion sans se sentir pressée d'y mettre fin rapidement.",
+    "sectionTitle": "Post-its - Boîte de mouchoirs",
+    "predictable": "L'expression émotionnelle intense s'accompagne rarement d'une permission explicite de prendre tout le temps nécessaire, sans pression",
+    "themes": [
+      "Empathie",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Personne ne va te demander d'arrêter de ressentir ça, prends le temps qu'il te faut.",
+      "Prends tout le temps nécessaire ici, personne ne presse ce que tu ressens."
+    ]
+  },
+  {
+    "actionTitle": "Boîte de mouchoirs, un mot présent",
+    "text": "Si tu as besoin de ça aujourd'hui, sache que je suis aussi disponible, pas seulement l'objet qui est là.",
+    "effect": "Rappeler sa propre disponibilité en complément de l'objet fonctionnel évite que la présence humaine ne soit remplacée par le simple objet réconfortant. Elle comprend que le soutien réel dépasse l'objet lui-même et inclut une vraie disponibilité personnelle si elle en a besoin.",
+    "sectionTitle": "Post-its - Boîte de mouchoirs",
+    "predictable": "Les objets liés au réconfort émotionnel ne rappellent généralement pas explicitement la disponibilité personnelle qui les accompagne",
+    "themes": [
+      "Empathie",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si tu en as besoin, sache que je suis aussi disponible, pas juste l'objet qui est là.",
+      "Cet objet aide, mais moi aussi je suis disponible si tu as besoin de plus."
+    ]
+  },
+  {
+    "actionTitle": "Boîte de mouchoirs, dernier mot",
+    "text": "L'empathie n'a pas besoin de tout comprendre pour être réelle, elle a juste besoin d'être sincèrement présente.",
+    "effect": "Distinguer la compréhension intellectuelle complète de la sincérité de la présence empathique élargit ce que signifie vraiment soutenir quelqu'un émotionnellement. Elle perçoit que le soutien offert ne prétend pas tout comprendre parfaitement, mais reste néanmoins pleinement sincère et présent.",
+    "sectionTitle": "Post-its - Boîte de mouchoirs",
+    "predictable": "L'empathie offerte est rarement explicitement distinguée de la nécessité de tout comprendre parfaitement pour être authentique",
+    "themes": [
+      "Empathie",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "L'empathie n'a pas besoin de tout comprendre pour être réelle, juste d'être sincère.",
+      "Pas besoin de tout comprendre pour être présent sincèrement, l'empathie marche comme ça."
+    ]
+  },
+  {
+    "actionTitle": "Batterie externe, un second mot",
+    "text": "Même quand elle est presque vide, elle finit toujours par se recharger complètement, comme moi je finis toujours par revenir vers toi.",
+    "effect": "Étendre la métaphore de la recharge complète, même après une décharge quasi totale, vers une promesse de retour constant dans la relation ajoute une image rassurante. Elle perçoit une déclaration de fiabilité même dans les moments où l'énergie ou la disponibilité semble momentanément au plus bas.",
+    "sectionTitle": "Post-its - Batterie externe",
+    "predictable": "Les objets rechargeables ne portent généralement pas de métaphore sur la fiabilité du retour même après une baisse d'énergie",
+    "themes": [
+      "Fiabilité",
+      "Réassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même presque vide, elle se recharge toujours complètement, comme je reviens toujours vers toi.",
+      "Elle finit toujours par se recharger complètement, comme moi je reviens toujours à toi."
+    ]
+  },
+  {
+    "actionTitle": "Batterie externe, un mot pratique",
+    "text": "Gardée chargée et prête pour toi au cas où, un peu comme j'essaie toujours d'être prêt quand tu as besoin de moi.",
+    "effect": "Relier l'état de préparation constante d'un objet technique à une aspiration personnelle d'être toujours disponible en cas de besoin ajoute une dimension symbolique. Elle découvre une intention de disponibilité constante, comparée à un objet dont la seule fonction est justement d'être toujours prêt à servir.",
+    "sectionTitle": "Post-its - Batterie externe",
+    "predictable": "La préparation constante d'un objet technique n'est généralement pas explicitement comparée à une aspiration personnelle de disponibilité",
+    "themes": [
+      "Fiabilité",
+      "Disponibilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Gardée chargée et prête pour toi, comme j'essaie d'être prêt quand tu as besoin.",
+      "Toujours prête au cas où, comme j'essaie toujours de l'être pour toi aussi."
+    ]
+  },
+  {
+    "actionTitle": "Batterie externe, un mot honnête",
+    "text": "Contrairement à cette batterie, je ne serai pas toujours parfaitement fiable, mais je te promets de faire de mon mieux, toujours.",
+    "effect": "Reconnaître honnêtement ses propres limites, en contraste avec la fiabilité mécanique parfaite d'un objet, ajoute une sincérité rassurante plutôt qu'une promesse irréaliste. Elle reçoit une promesse authentique et mesurée, plus crédible qu'une déclaration de perfection impossible à tenir.",
+    "sectionTitle": "Post-its - Batterie externe",
+    "predictable": "Les déclarations de fiabilité personnelle prennent rarement soin de reconnaître honnêtement leurs propres limites face à un objet parfaitement fiable",
+    "themes": [
+      "Fiabilité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Contrairement à cette batterie, je ne serai pas toujours parfait, mais je ferai de mon mieux.",
+      "Je ne suis pas aussi fiable qu'une batterie parfaite, mais je te promets de faire de mon mieux."
+    ]
+  },
+  {
+    "actionTitle": "Batterie externe, dernier mot",
+    "text": "Ce qui me rend fiable, ce n'est pas d'être parfait, c'est de continuer à essayer même après avoir raté une fois.",
+    "effect": "Redéfinir la fiabilité comme persévérance après l'échec, plutôt que comme absence totale d'erreur, offre une vision plus réaliste et rassurante de la constance. Elle comprend que ta fiabilité repose sur ta capacité à continuer d'essayer, pas sur une exigence irréaliste de perfection sans faille.",
+    "sectionTitle": "Post-its - Batterie externe",
+    "predictable": "La fiabilité personnelle est rarement explicitement redéfinie comme persévérance après l'échec plutôt que comme absence d'erreur",
+    "themes": [
+      "Fiabilité",
+      "Persévérance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce qui me rend fiable, c'est de continuer à essayer même après avoir raté une fois.",
+      "Fiable, ça veut dire continuer d'essayer après une erreur, pas être parfait."
+    ]
+  },
+  {
+    "actionTitle": "Métronome, un second mot",
+    "text": "Ce rythme reste le même, jour après jour, sans jamais se lasser de battre exactement la même mesure, encore et encore.",
+    "effect": "Souligner l'absence de lassitude dans la répétition constante d'un métronome ajoute une image rassurante d'engagement qui ne s'épuise jamais. Elle perçoit une déclaration sur un attachement qui ne se fatigue jamais de se répéter, contrairement à ce qu'on pourrait craindre de la routine.",
+    "sectionTitle": "Post-its - Métronome",
+    "predictable": "La répétition constante d'un objet mécanique n'est généralement pas explicitement reliée à un attachement affectif qui ne se lasse jamais",
+    "themes": [
+      "Constance",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce rythme reste le même jour après jour, sans jamais se lasser de le répéter.",
+      "Toujours la même mesure, sans jamais se lasser, comme mon attachement pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Métronome, un mot musical",
+    "text": "Un rythme constant donne à toute musique sa structure, un peu comme notre constance donne une vraie structure à ce qu'on construit ensemble.",
+    "effect": "Utiliser la fonction structurante du rythme en musique comme métaphore de la constance relationnelle valorise son rôle fondamental plutôt que secondaire. Elle perçoit la constance non pas comme quelque chose d'ennuyeux, mais comme le fondement même qui permet à la relation de tenir et de se développer.",
+    "sectionTitle": "Post-its - Métronome",
+    "predictable": "La fonction structurante du rythme en musique n'est généralement pas explicitement comparée au rôle de la constance dans une relation",
+    "themes": [
+      "Constance",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un rythme constant structure la musique, comme notre constance structure ce qu'on construit.",
+      "La constance nous donne une vraie structure, comme le rythme structure une chanson."
+    ]
+  },
+  {
+    "actionTitle": "Métronome, un mot patient",
+    "text": "Le rythme ne presse jamais, il avance juste régulièrement, à son propre tempo, sans jamais forcer l'allure.",
+    "effect": "Associer la régularité d'un métronome à une absence de précipitation valorise la constance patiente plutôt qu'une urgence forcée. Elle perçoit une réflexion sur le fait que la constance véritable ne nécessite pas d'être rapide ou pressée, juste régulière et fiable dans son propre tempo.",
+    "sectionTitle": "Post-its - Métronome",
+    "predictable": "La régularité constante n'est généralement pas explicitement associée à une absence de précipitation ou d'urgence forcée",
+    "themes": [
+      "Constance",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le rythme ne presse jamais, il avance régulièrement, à son propre tempo, sans forcer.",
+      "Jamais pressé, ce rythme, juste régulier à son tempo, comme j'essaie d'être avec toi."
+    ]
+  },
+  {
+    "actionTitle": "Métronome, dernier mot",
+    "text": "Même quand la vie devient chaotique autour de nous, j'aimerais qu'on garde ce genre de rythme stable entre nous deux.",
+    "effect": "Exprimer le souhait de préserver une constance relationnelle malgré le chaos extérieur valorise la stabilité intérieure du couple comme refuge face aux aléas. Elle reçoit un souhait sincère que, peu importe l'agitation extérieure, votre rythme à deux reste un point d'ancrage fiable et immuable.",
+    "sectionTitle": "Post-its - Métronome",
+    "predictable": "Le souhait de préserver une constance relationnelle stable malgré le chaos extérieur est rarement explicitement formulé",
+    "themes": [
+      "Constance",
+      "Stabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même dans le chaos autour de nous, j'aimerais qu'on garde ce rythme stable entre nous.",
+      "Peu importe l'agitation dehors, j'aimerais qu'on garde ce genre de rythme stable ensemble."
+    ]
+  },
+  {
+    "actionTitle": "Cadre photo, un second mot",
+    "text": "Ce sourire capturé ici existe encore aujourd'hui, quelque part, même dans les jours où tu as du mal à le retrouver.",
+    "effect": "Rappeler que le bonheur capturé dans le passé continue d'exister potentiellement dans le présent, même s'il est temporairement difficile d'accès, offre une réassurance douce. Elle reçoit un rappel que sa joie n'a pas disparu définitivement, juste qu'elle peut être momentanément plus difficile à ressentir certains jours.",
+    "sectionTitle": "Post-its - Cadre photo",
+    "predictable": "Les photos de moments heureux ne portent généralement pas de message rappelant que ce bonheur reste accessible même les jours difficiles",
+    "themes": [
+      "Positivité",
+      "Réassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce sourire existe encore aujourd'hui, même les jours où tu as du mal à le retrouver.",
+      "Ce bonheur capturé ici est toujours là, même quand il semble difficile à retrouver."
+    ]
+  },
+  {
+    "actionTitle": "Cadre photo, un mot joyeux",
+    "text": "Regarde ce moment chaque fois que tu passes devant, ça ne coûte rien et ça fait toujours un peu de bien, non ?",
+    "effect": "Encourager une habitude simple et gratuite de regarder régulièrement un souvenir heureux normalise un petit rituel de positivité accessible à tout moment. Elle est invitée à intégrer un geste minuscule mais potentiellement bénéfique dans sa routine quotidienne, sans effort particulier requis.",
+    "sectionTitle": "Post-its - Cadre photo",
+    "predictable": "Les objets contenant des souvenirs heureux ne s'accompagnent généralement pas d'une invitation explicite à les regarder régulièrement comme rituel",
+    "themes": [
+      "Positivité",
+      "Régularité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Regarde ce moment chaque fois que tu passes devant, ça fait toujours un peu de bien.",
+      "Ça ne coûte rien de regarder ça en passant, et ça fait du bien à chaque fois, non ?"
+    ]
+  },
+  {
+    "actionTitle": "Cadre photo, un mot d'anticipation",
+    "text": "Il y aura d'autres photos comme celle-ci à venir, d'autres moments tout aussi bons qui attendent encore d'être vécus.",
+    "effect": "Projeter la promesse de futurs moments heureux similaires, au-delà du souvenir déjà capturé, nourrit une positivité tournée vers l'avenir plutôt que seulement le passé. Elle perçoit une anticipation joyeuse que le bonheur déjà vécu n'est pas un point final, mais le début d'une série encore à venir.",
+    "sectionTitle": "Post-its - Cadre photo",
+    "predictable": "Les photos de bons souvenirs s'accompagnent rarement d'une promesse explicite que d'autres moments similaires restent encore à venir",
+    "themes": [
+      "Positivité",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "D'autres photos comme celle-ci viendront, d'autres bons moments encore à vivre.",
+      "Ce n'est pas le dernier bon moment comme ça, d'autres attendent encore d'arriver."
+    ]
+  },
+  {
+    "actionTitle": "Cadre photo, dernier mot",
+    "text": "La positivité ne consiste pas à ignorer ce qui est difficile, juste à se souvenir que ce n'est jamais toute l'histoire.",
+    "effect": "Clarifier que la positivité n'exclut pas la reconnaissance des difficultés, mais offre simplement une perspective plus large, évite toute minimisation déplacée. Elle reçoit une définition mature de la positivité, qui ne nie rien du difficile mais refuse simplement de le laisser occuper toute la place.",
+    "sectionTitle": "Post-its - Cadre photo",
+    "predictable": "La positivité valorisée n'est généralement pas explicitement distinguée du déni ou de la minimisation des difficultés réelles",
+    "themes": [
+      "Positivité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La positivité n'ignore pas ce qui est difficile, elle rappelle juste que ce n'est pas toute l'histoire.",
+      "Rester positif, ça ne nie rien du difficile, ça rappelle juste que c'est pas toute l'histoire."
+    ]
+  },
+  {
+    "actionTitle": "Liste de courses, un second mot",
+    "text": "On n'achète jamais tout d'un coup sur cette liste, juste ce qu'il faut, un peu à la fois, et ça marche très bien comme ça.",
+    "effect": "Souligner la sagesse d'une approche progressive et réaliste, plutôt que tout vouloir d'un coup, ajoute une métaphore concrète à la patience nécessaire dans les grands projets. Elle perçoit une réflexion sur le fait que les choses importantes se construisent souvent étape par étape, sans précipitation nécessaire.",
+    "sectionTitle": "Post-its - Liste de courses",
+    "predictable": "Les objets pratiques du quotidien ne portent généralement pas de réflexion sur l'approche progressive à privilégier dans les grands projets",
+    "themes": [
+      "Réalisme",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "On n'achète jamais tout d'un coup ici, juste ce qu'il faut, un peu à la fois.",
+      "Rien n'est acheté d'un coup sur cette liste, juste étape par étape, et ça marche bien."
+    ]
+  },
+  {
+    "actionTitle": "Liste de courses, un mot pratique",
+    "text": "Cette liste change chaque semaine selon nos besoins réels, un peu comme nos attentes devraient aussi s'ajuster à la réalité du moment.",
+    "effect": "Comparer l'adaptabilité hebdomadaire d'une liste de courses à la nécessité d'ajuster continuellement les attentes relationnelles à la réalité actuelle valorise la flexibilité honnête. Elle perçoit une réflexion sur l'importance de ne pas figer les attentes, mais de les laisser évoluer selon ce qui est réellement vrai à chaque instant.",
+    "sectionTitle": "Post-its - Liste de courses",
+    "predictable": "L'adaptabilité d'une liste pratique n'est généralement pas explicitement comparée à la nécessité d'ajuster continuellement les attentes relationnelles",
+    "themes": [
+      "Réalisme",
+      "Flexibilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette liste change chaque semaine selon nos besoins, comme nos attentes devraient s'ajuster aussi.",
+      "Ça change chaque semaine selon la réalité, nos attentes devraient faire pareil je pense."
+    ]
+  },
+  {
+    "actionTitle": "Liste de courses, un mot honnête",
+    "text": "Parfois on oublie des choses sur cette liste, et ce n'est jamais grave, on ajuste et on continue, simplement.",
+    "effect": "Normaliser l'oubli occasionnel sur une liste pratique comme métaphore pour accepter les imperfections dans les projets communs plus larges. Elle reçoit une réassurance implicite que les erreurs ou oublis dans la vie commune ne sont pas des échecs, juste des ajustements normaux du quotidien.",
+    "sectionTitle": "Post-its - Liste de courses",
+    "predictable": "L'acceptation normale des oublis sur une liste pratique n'est généralement pas explicitement reliée à l'acceptation des imperfections dans la vie commune",
+    "themes": [
+      "Réalisme",
+      "Bienveillance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Parfois on oublie des choses ici, jamais grave, on ajuste et on continue simplement.",
+      "On oublie des trucs parfois sur cette liste, pas grave, on ajuste et voilà."
+    ]
+  },
+  {
+    "actionTitle": "Liste de courses, dernier mot",
+    "text": "Être réaliste ensemble, ça ne veut jamais dire renoncer à rêver, ça veut juste dire savoir quel est le prochain pas concret à faire.",
+    "effect": "Distinguer le réalisme de l'abandon des rêves, en le redéfinissant comme la capacité à identifier des étapes concrètes, évite toute connotation pessimiste. Elle comprend que le réalisme partagé n'éteint jamais les grands espoirs, il les rend simplement atteignables un pas concret après l'autre.",
+    "sectionTitle": "Post-its - Liste de courses",
+    "predictable": "Le réalisme dans une relation est rarement explicitement distingué du renoncement aux rêves, plutôt défini comme la capacité à identifier des étapes concrètes",
+    "themes": [
+      "Réalisme",
+      "Espoir"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Être réaliste ne veut jamais dire renoncer à rêver, juste savoir le prochain pas concret.",
+      "Réaliste ensemble, ça veut dire connaître le prochain pas concret, pas abandonner le rêve."
+    ]
   }
 ]
