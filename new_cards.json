@@ -16494,5 +16494,855 @@
       "Discutez du plan B calmement, sans que ça sonne comme un manque de confiance dans le plan initial.",
       "Si besoin, activez le plan B sans dramatiser, comme prévu ensemble à l'avance."
     ]
+  },
+  {
+    "actionTitle": "The pride said plainly",
+    "text": "Tell her plainly today that you're proud of her, citing something specific. A few days later, bring up that same thing again in passing, to prove it wasn't a one-time line.",
+    "effect": "Naming pride for something specific, rather than a vague statement, proves the observation was genuine and considered. Bringing it up again days later confirms the pride wasn't a passing remark but a lasting impression that stuck with you.",
+    "sectionTitle": "The Pride Named Twice",
+    "predictable": "Expressions of pride are usually said once and never revisited, rather than confirmed again days later",
+    "themes": [
+      "Pride",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cite something specific, not a vague general statement of pride.",
+      "Days later, bring it up again in passing, without making it a big deal."
+    ]
+  },
+  {
+    "actionTitle": "The pride shown to someone else",
+    "text": "The next time you're with someone else, mention something you're proud of her for, so she gets to overhear it. Later that day, tell her directly what you said and to whom, so she knows it wasn't just for show.",
+    "effect": "Letting her overhear pride expressed to a third party proves it exists even outside moments meant for her ears specifically. Confirming it to her directly afterward removes any doubt that it was a performance rather than a genuine, consistent feeling.",
+    "sectionTitle": "The Pride Named Twice",
+    "predictable": "Pride expressed to a third party is rarely followed up with direct confirmation to her that it happened",
+    "themes": [
+      "Pride",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Mention it naturally in conversation, not obviously staged for her to overhear.",
+      "Later, tell her directly what you said and who you said it to."
+    ]
+  },
+  {
+    "actionTitle": "The pride for a quiet strength",
+    "text": "Name a quiet strength of hers you're proud of, one that rarely gets noticed by others. A week later, point out a moment where you saw that same strength show up again.",
+    "effect": "Naming an underrated, quiet strength values something she may not realize is seen at all. Pointing out a recurrence a week later proves this strength is actively tracked, not a single observation made once and forgotten.",
+    "sectionTitle": "The Pride Named Twice",
+    "predictable": "Quiet, underrated strengths are rarely named once, let alone tracked and pointed out again later",
+    "themes": [
+      "Pride",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choose a strength that's genuinely easy to overlook, not an obvious one.",
+      "A week later, point out a specific moment where you saw it show up again."
+    ]
+  },
+  {
+    "actionTitle": "The pride before it's earned",
+    "text": "Tell her you're already proud of her for something she's about to attempt, before the outcome is known. Afterward, regardless of the result, tell her the pride still stands exactly as it was.",
+    "effect": "Expressing pride before an outcome is known values the attempt itself, not a result yet to be determined. Confirming it holds regardless of the outcome proves the pride was never conditional on success in the first place.",
+    "sectionTitle": "The Pride Named Twice",
+    "predictable": "Pride expressed before an outcome is known is rarely reconfirmed afterward as unconditional on the result",
+    "themes": [
+      "Pride",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Say it before the outcome is known, so it's clearly not about the result.",
+      "Afterward, regardless of how it went, confirm the pride still stands exactly the same."
+    ]
+  },
+  {
+    "actionTitle": "The pride for who she's become",
+    "text": "Tell her you're proud of who she's become over time, not just what she's done recently. A month later, name one more specific way you've seen that growth continue since.",
+    "effect": "Naming pride for personal growth over time, rather than a recent achievement, values her evolving identity as a whole. Following up a month later with a new specific example proves this pride is an ongoing observation, not a single compliment offered once.",
+    "sectionTitle": "The Pride Named Twice",
+    "predictable": "Pride for long-term personal growth is rarely followed up a month later with a fresh, specific example",
+    "themes": [
+      "Pride",
+      "Growth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Focus on who she's become, not just a single recent accomplishment.",
+      "A month later, name one more specific way you've seen that growth continue."
+    ]
+  },
+  {
+    "actionTitle": "The same comfort, every time",
+    "text": "Pick one small comforting gesture and do it exactly the same way today. Do the exact same gesture, the same way, again next week, so she can start to count on it.",
+    "effect": "Repeating a comforting gesture identically builds a reliable pattern she can count on rather than a pleasant surprise she can't predict. Doing it again the following week, unchanged, turns it into a dependable constant rather than a one-time nice moment.",
+    "sectionTitle": "The Predictable Comfort",
+    "predictable": "Comforting gestures are usually varied or one-off rather than deliberately repeated identically to become dependable",
+    "themes": [
+      "Predictability",
+      "Comfort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Do the gesture exactly the same way, without adding variation this time.",
+      "Next week, repeat it identically again, so it becomes something she can count on."
+    ]
+  },
+  {
+    "actionTitle": "The reliable check-in time",
+    "text": "Text or call her at the same time today that you plan to repeat going forward. Do it again at that exact same time tomorrow, to start establishing it as a predictable anchor in her day.",
+    "effect": "Choosing a fixed time for a check-in, rather than a random moment, turns a nice gesture into a dependable anchor point. Repeating it at the same time the next day begins to establish a predictable rhythm she can rely on rather than a pleasant one-off.",
+    "sectionTitle": "The Predictable Comfort",
+    "predictable": "Check-ins are usually sent at random times rather than deliberately fixed to become a predictable daily anchor",
+    "themes": [
+      "Predictability",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick a specific time today and actually stick to it precisely.",
+      "Tomorrow, repeat it at that same exact time, to start building the pattern."
+    ]
+  },
+  {
+    "actionTitle": "The consistent response to a hard day",
+    "text": "The next time she has a hard day, respond in a specific, consistent way. The next time she has another hard day, respond the exact same way again, so she learns what to expect from you.",
+    "effect": "Responding to difficulty in a consistent, repeatable way lets her learn what kind of support to expect from you specifically. Repeating that same response during a second hard day confirms it wasn't circumstantial, but a dependable pattern she can count on.",
+    "sectionTitle": "The Predictable Comfort",
+    "predictable": "Responses to a hard day are usually improvised each time rather than deliberately kept consistent across occurrences",
+    "themes": [
+      "Predictability",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choose a specific, repeatable response rather than improvising each time.",
+      "The next hard day, respond the exact same way again, to confirm the pattern."
+    ]
+  },
+  {
+    "actionTitle": "The dependable weekend shape",
+    "text": "Give this weekend a predictable shape with one fixed element she can count on. Give next weekend that same fixed element too, so it starts to feel like a dependable structure rather than a coincidence.",
+    "effect": "Giving a weekend a predictable fixed element, rather than leaving it entirely open, offers a reliable anchor amid otherwise unstructured time. Repeating that same element the following weekend turns a single choice into a dependable structure she can start counting on.",
+    "sectionTitle": "The Predictable Comfort",
+    "predictable": "Weekends are usually shaped freshly each time rather than given a deliberately repeated, dependable fixed element",
+    "themes": [
+      "Predictability",
+      "Stability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pick one fixed element for the weekend and actually follow through on it.",
+      "Next weekend, repeat that same fixed element, so it starts to feel dependable."
+    ]
+  },
+  {
+    "actionTitle": "The predictable good morning",
+    "text": "Send or say good morning in a specific, particular way today. Do it the exact same particular way again tomorrow morning, so it becomes recognizably yours.",
+    "effect": "Delivering a good morning message in a distinctive, repeatable way makes it recognizably yours rather than a generic daily greeting. Repeating it identically the next morning confirms it as a dependable signature rather than something said once by chance.",
+    "sectionTitle": "The Predictable Comfort",
+    "predictable": "Morning greetings are usually generic and vary daily rather than delivered in a consistent, recognizable way",
+    "themes": [
+      "Predictability",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Make it distinctive enough that it's recognizably yours, not generic.",
+      "Tomorrow morning, repeat it the exact same particular way again."
+    ]
+  },
+  {
+    "actionTitle": "The need stated plainly",
+    "text": "State one specific need you have plainly today, without hedging or softening it. Check in a few days later on whether that need is actually being met now that it's been named.",
+    "effect": "Stating a need plainly, without hedging, removes the ambiguity that often leaves real needs unaddressed. Checking in days later on whether it's actually being met turns a moment of clarity into a verified, lasting change rather than a single admission.",
+    "sectionTitle": "The Clear Conversation",
+    "predictable": "Needs are usually hedged or softened rather than stated plainly, and rarely checked on again once named",
+    "themes": [
+      "Clarity",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "State the need plainly, without softening it or adding excessive qualifiers.",
+      "A few days later, check honestly whether that need is actually being met now."
+    ]
+  },
+  {
+    "actionTitle": "The expectation made explicit",
+    "text": "On something you've both assumed but never actually said, make the expectation explicit today. A week later, confirm together that the explicit expectation is actually holding up in practice.",
+    "effect": "Making an assumed expectation explicit removes the risk of misalignment that silent assumptions often create. Confirming a week later that it's holding up in practice turns a one-time clarification into a genuinely shared, verified understanding.",
+    "sectionTitle": "The Clear Conversation",
+    "predictable": "Assumed expectations are rarely made explicit, and even more rarely verified again a week after being clarified",
+    "themes": [
+      "Clarity",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Say the expectation plainly out loud, don't leave it implied even slightly.",
+      "A week later, confirm together whether it's actually holding up as expected."
+    ]
+  },
+  {
+    "actionTitle": "The honest answer to a direct question",
+    "text": "Ask her a direct question you've been avoiding, and give her an equally direct, honest answer in return. A few days later, ask if the clarity from that exchange has actually made things easier between you.",
+    "effect": "Exchanging a direct question and honest answer, rather than continuing to avoid the topic, replaces ambiguity with real clarity. Checking days later whether that clarity actually helped confirms the exchange had a lasting, positive effect rather than just momentary relief.",
+    "sectionTitle": "The Clear Conversation",
+    "predictable": "Avoided topics are rarely addressed with direct honesty, and the resulting clarity is rarely checked on afterward",
+    "themes": [
+      "Clarity",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask the question you've genuinely been avoiding, not a softer version of it.",
+      "A few days later, ask if that clarity has actually made things easier since."
+    ]
+  },
+  {
+    "actionTitle": "The confusing situation named out loud",
+    "text": "If something between you has felt unclear or confusing lately, name that confusion out loud today. Revisit it together in a few days to see if naming it actually helped bring more clarity.",
+    "effect": "Naming a confusing situation out loud, rather than letting it linger unspoken, opens the door to actually resolving it. Revisiting it days later to check whether naming it helped turns a single admission into a genuine step toward lasting clarity.",
+    "sectionTitle": "The Clear Conversation",
+    "predictable": "Confusing or unclear situations are rarely named out loud, and even less often revisited to check if it helped",
+    "themes": [
+      "Clarity",
+      "Honesty"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Name the confusion specifically, not just a vague sense that something's off.",
+      "In a few days, revisit it together to see if naming it actually helped."
+    ]
+  },
+  {
+    "actionTitle": "The plan clarified in detail",
+    "text": "On an upcoming shared plan that's stayed vague, nail down the actual details together today. The day before it happens, confirm together that the details are still clear and nothing has drifted back into ambiguity.",
+    "effect": "Nailing down vague details of a shared plan removes the low-grade uncertainty that vague plans often carry. Confirming the details again right before it happens ensures the clarity achieved earlier actually held, rather than quietly reverting to vagueness.",
+    "sectionTitle": "The Clear Conversation",
+    "predictable": "Vague shared plans are rarely nailed down in detail, and even less often reconfirmed right before they happen",
+    "themes": [
+      "Clarity",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Nail down the actual specific details, not just the general idea of the plan.",
+      "The day before, confirm together that nothing has drifted back into vagueness."
+    ]
+  },
+  {
+    "actionTitle": "The optimistic take offered first",
+    "text": "On something she's worried about, offer a genuinely optimistic take before she has to ask for one. Once the situation resolves, revisit whether that optimism turned out to be justified or not, honestly.",
+    "effect": "Offering an optimistic perspective unprompted, before it's requested, shows proactive emotional support rather than reactive comfort. Revisiting it honestly once resolved, whether right or wrong, builds real credibility for future optimism rather than empty cheerleading.",
+    "sectionTitle": "The Optimism Tested",
+    "predictable": "Optimistic perspectives are usually offered only when requested, and rarely revisited honestly once the outcome is known",
+    "themes": [
+      "Optimism",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Offer the optimistic take before she has to ask for one.",
+      "Once it resolves, revisit honestly whether the optimism was actually justified."
+    ]
+  },
+  {
+    "actionTitle": "The bet on a good outcome",
+    "text": "Make a lighthearted bet with her that something worrying her will actually turn out fine. Once it resolves, follow through honestly on the bet, whether you won or lost it.",
+    "effect": "Turning optimism into a playful bet adds lightness to genuine reassurance, making it feel less like empty positivity. Following through honestly on the bet's outcome afterward keeps the gesture sincere rather than a hollow promise forgotten once made.",
+    "sectionTitle": "The Optimism Tested",
+    "predictable": "Optimistic reassurance is rarely framed as a playful bet, and even less often followed up on honestly afterward",
+    "themes": [
+      "Optimism",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Make the bet lighthearted, not dismissive of her actual worry.",
+      "Once it resolves, follow through honestly on the bet, win or lose."
+    ]
+  },
+  {
+    "actionTitle": "The optimism written down",
+    "text": "Write down an optimistic prediction about something uncertain you're both facing, and seal it somewhere. Once the uncertainty resolves, open it together and see how close the prediction actually was.",
+    "effect": "Writing down an optimistic prediction, rather than just saying it, creates a tangible record that can be honestly checked later. Opening it together once resolved turns a passing hopeful comment into a real, verifiable moment of shared anticipation and reflection.",
+    "sectionTitle": "The Optimism Tested",
+    "predictable": "Optimistic predictions are rarely written down and sealed for later, honest comparison against the actual outcome",
+    "themes": [
+      "Optimism",
+      "Projection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Write the actual prediction down, don't just say it out loud.",
+      "Once resolved, open it together and see honestly how close it was."
+    ]
+  },
+  {
+    "actionTitle": "The optimism shared for her specifically",
+    "text": "Tell her one specific reason you're optimistic about something in her life right now. Check back in on that specific thing later to see if your optimism has held up.",
+    "effect": "Naming a specific reason for optimism, rather than a generic encouragement, shows real thought behind the positive outlook. Checking back later on that specific thing confirms the optimism wasn't just a nice thing to say in the moment.",
+    "sectionTitle": "The Optimism Tested",
+    "predictable": "Optimism about something specific in her life is rarely checked back on later to see if it held up",
+    "themes": [
+      "Optimism",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be specific about the reason for your optimism, not just generically positive.",
+      "Check back in later specifically on that thing to see if the optimism held up."
+    ]
+  },
+  {
+    "actionTitle": "The optimism that survives a setback",
+    "text": "If something goes wrong today, offer an honestly optimistic view of what comes next, without dismissing the setback itself. A few days later, check whether that optimism about what comes next has started to prove true.",
+    "effect": "Offering optimism about what follows a setback, without dismissing the setback itself, balances honesty with genuine hope. Checking a few days later whether that hope is starting to prove true keeps the optimism grounded rather than a hollow reassurance offered once.",
+    "sectionTitle": "The Optimism Tested",
+    "predictable": "Optimism offered after a setback is rarely checked on again days later to see if it's actually starting to prove true",
+    "themes": [
+      "Optimism",
+      "Resilience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Don't dismiss the setback itself, just offer real optimism about what's next.",
+      "A few days later, check whether that optimism has started to prove true."
+    ]
+  },
+  {
+    "actionTitle": "The steady presence during chaos",
+    "text": "During a chaotic or hectic moment today, be a deliberately steady, calm presence for her. The next time chaos hits, do the same again, so she learns she can count on your steadiness specifically.",
+    "effect": "Being deliberately steady during one chaotic moment can feel situational, but repeating it the next time chaos hits proves it's a reliable trait. She learns she can count on your calm specifically during hard moments, not just occasionally by chance.",
+    "sectionTitle": "The Stable Ground",
+    "predictable": "Steady presence during chaos is rarely deliberately repeated across multiple chaotic moments to prove it's reliable",
+    "themes": [
+      "Stability",
+      "Calm"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be deliberately calm and steady, even if you don't feel entirely calm inside.",
+      "The next time chaos hits, do the same again to prove it's reliable, not situational."
+    ]
+  },
+  {
+    "actionTitle": "The unchanging thing named",
+    "text": "Tell her one specific thing about you or the relationship that hasn't changed and isn't going to. A month later, reaffirm that same unchanging thing again, to prove it really has held steady.",
+    "effect": "Naming something specifically unchanging offers a concrete point of stability rather than a vague reassurance. Reaffirming that same unchanging thing a month later proves it actually held steady, rather than being a claim made once and never revisited.",
+    "sectionTitle": "The Stable Ground",
+    "predictable": "Claims of something unchanging are rarely reaffirmed again later to actually prove they held steady over time",
+    "themes": [
+      "Stability",
+      "Reassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be specific about what exactly hasn't changed and won't.",
+      "A month later, reaffirm that same thing again to prove it actually held steady."
+    ]
+  },
+  {
+    "actionTitle": "The consistent foundation during a big change",
+    "text": "During a period of change or upheaval, deliberately keep one small routine exactly the same as an anchor. Keep that same routine unchanged through the next period of change too, so it becomes a proven constant.",
+    "effect": "Deliberately preserving one small routine during upheaval offers a concrete anchor amid broader instability. Keeping that same routine unchanged through a second period of change proves it as a genuinely reliable constant, not a coincidence of one particular moment.",
+    "sectionTitle": "The Stable Ground",
+    "predictable": "Small routines are rarely deliberately preserved as an anchor through more than one period of change or upheaval",
+    "themes": [
+      "Stability",
+      "Continuity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choose a small, easy-to-maintain routine as the anchor during change.",
+      "Keep that same routine unchanged through the next period of change too."
+    ]
+  },
+  {
+    "actionTitle": "The stable ground offered after bad news",
+    "text": "If she gets unsettling news today, be a stable, grounded presence rather than reacting with equal alarm. Check in again in a few days to make sure that stability held, not just in the first moment.",
+    "effect": "Staying grounded rather than matching her alarm offers a stabilizing counterweight precisely when it's needed most. Checking in again days later ensures that stability was sustained, not just an initial reaction that faded once the moment passed.",
+    "sectionTitle": "The Stable Ground",
+    "predictable": "Stability offered right after unsettling news is rarely checked on again days later to confirm it actually held",
+    "themes": [
+      "Stability",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Stay grounded rather than matching her alarm, even if you feel it too.",
+      "Check in again in a few days to make sure that stability actually held."
+    ]
+  },
+  {
+    "actionTitle": "The financial stability conversation",
+    "text": "Have an honest conversation about one specific thing that would make your shared stability feel more solid. A month later, follow up on whether that specific thing has actually been addressed.",
+    "effect": "Naming a specific factor that would strengthen shared stability turns a vague desire for security into an actionable conversation. Following up a month later on whether it was addressed confirms real progress rather than a conversation that led nowhere concrete.",
+    "sectionTitle": "The Stable Ground",
+    "predictable": "Conversations about strengthening shared stability rarely get an explicit follow-up a month later to confirm real progress",
+    "themes": [
+      "Stability",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Name one specific, concrete thing rather than a vague sense of insecurity.",
+      "A month later, follow up honestly on whether that specific thing was addressed."
+    ]
+  },
+  {
+    "actionTitle": "The task taken on before being asked",
+    "text": "Notice one task that's usually hers to initiate, and take the initiative on it yourself today, without being asked. Do the same again next time that task comes up, so it becomes something she can stop expecting to have to start herself.",
+    "effect": "Taking initiative on a task usually hers to start shows proactive care rather than waiting passively to be asked. Repeating it the next time confirms this initiative is a lasting shift, not a one-time gesture she can't actually count on.",
+    "sectionTitle": "The Initiative Taken First",
+    "predictable": "Tasks usually initiated by her are rarely proactively taken over more than once to become a lasting pattern",
+    "themes": [
+      "Initiative",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take initiative on it without waiting to be asked, even slightly.",
+      "Next time that task comes up, take the initiative again, to make it a real pattern."
+    ]
+  },
+  {
+    "actionTitle": "The conversation started first",
+    "text": "Start a conversation today on a topic you'd normally wait for her to bring up. The next time that same kind of topic is relevant, take the initiative to start it again.",
+    "effect": "Initiating a conversation on a topic usually left for her to raise shows proactive engagement rather than passive waiting. Repeating that initiative the next relevant time confirms a genuine shift in who typically starts these conversations, not a single exception.",
+    "sectionTitle": "The Initiative Taken First",
+    "predictable": "Conversations on certain topics are usually left for her to initiate, rarely proactively started more than once by you",
+    "themes": [
+      "Initiative",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Actually start the conversation, don't just think about starting it.",
+      "Next time that kind of topic is relevant, take the initiative again."
+    ]
+  },
+  {
+    "actionTitle": "The plan proposed without prompting",
+    "text": "Propose a specific plan for time together today, without her having to suggest it first. The next time plans need making, propose something again first, before she has to.",
+    "effect": "Proposing a specific plan unprompted shows active investment in shared time, rather than leaving the planning to her by default. Repeating that initiative the next time plans are needed confirms a genuine shift in who typically drives planning between you.",
+    "sectionTitle": "The Initiative Taken First",
+    "predictable": "Plans for shared time are usually proposed by her first, rarely proactively initiated by you more than once",
+    "themes": [
+      "Initiative",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Make the plan specific, not just a vague offer to do something sometime.",
+      "Next time plans need making, propose something again first, before she does."
+    ]
+  },
+  {
+    "actionTitle": "The apology offered before being asked for one",
+    "text": "If you know you did something that needs addressing, offer the apology today before she has to bring it up. The next time something similar happens, take that same initiative again, without waiting.",
+    "effect": "Offering an unprompted apology shows proactive accountability rather than waiting for her to have to raise the issue herself. Repeating that initiative the next time confirms a genuine pattern of taking responsibility first, not a single act of good behavior.",
+    "sectionTitle": "The Initiative Taken First",
+    "predictable": "Apologies for something needing addressing are usually offered only once raised by her, rarely proactively initiated repeatedly",
+    "themes": [
+      "Initiative",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Offer the apology before she has to bring it up, even slightly.",
+      "Next time something similar happens, take that same initiative again."
+    ]
+  },
+  {
+    "actionTitle": "The problem solved before it's mentioned",
+    "text": "Notice a small problem before she mentions it, and take the initiative to solve it today. The next time you notice something similar, take initiative on it again, before she has to bring it up.",
+    "effect": "Solving a small problem before it's mentioned shows attentiveness that anticipates needs rather than reacting once she raises them. Repeating that initiative the next time confirms this proactive attentiveness as a real pattern, not a single lucky catch.",
+    "sectionTitle": "The Initiative Taken First",
+    "predictable": "Small problems are usually addressed only once she mentions them, rarely proactively solved more than once beforehand",
+    "themes": [
+      "Initiative",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Solve it fully before she has to mention it at all.",
+      "Next time you notice something similar, take initiative on it again first."
+    ]
+  },
+  {
+    "actionTitle": "The accomplishment marked with a small ritual",
+    "text": "The next time she accomplishes something, mark it with a small, specific ritual rather than just words. Do the same ritual again for her next accomplishment, so it becomes a recognizable tradition.",
+    "effect": "Marking an accomplishment with a specific ritual, rather than just words, makes the recognition more memorable and tangible. Repeating that same ritual for a future accomplishment turns it into a recognizable tradition she can look forward to, not a one-off gesture.",
+    "sectionTitle": "The Accomplishment Marked",
+    "predictable": "Accomplishments are usually marked with words alone rather than a specific, repeatable ritual that becomes a tradition",
+    "themes": [
+      "Accomplishment",
+      "Celebration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Make the ritual specific and repeatable, not just a generic congratulation.",
+      "Do the same ritual again for her next accomplishment, to build a real tradition."
+    ]
+  },
+  {
+    "actionTitle": "The accomplishment revisited later",
+    "text": "Bring up a past accomplishment of hers today, out of nowhere, and tell her it still impresses you. A month later, bring up a different past accomplishment the same way, unprompted.",
+    "effect": "Revisiting a past accomplishment unprompted proves it continues to genuinely impress you, not just in the moment it happened. Repeating this with a different accomplishment a month later shows a real ongoing habit of appreciation, not a single nostalgic mention.",
+    "sectionTitle": "The Accomplishment Marked",
+    "predictable": "Past accomplishments are rarely revisited unprompted more than once as an ongoing habit of appreciation",
+    "themes": [
+      "Accomplishment",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Bring it up completely out of nowhere, not tied to a related conversation.",
+      "A month later, do the same with a different past accomplishment, unprompted."
+    ]
+  },
+  {
+    "actionTitle": "The accomplishment shared with pride",
+    "text": "Tell someone else about one of her accomplishments today, with genuine pride in your voice. Tell her afterward that you did, and what you said, so she knows the pride is real and consistent.",
+    "effect": "Sharing her accomplishment with someone else, with genuine pride, proves your admiration exists beyond moments meant just for her ears. Confirming it to her afterward removes any doubt that it was performative rather than a sincere, ongoing pride in what she's achieved.",
+    "sectionTitle": "The Accomplishment Marked",
+    "predictable": "Accomplishments shared with others are rarely confirmed back to her afterward as proof the pride is genuine",
+    "themes": [
+      "Accomplishment",
+      "Pride"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Share it with genuine pride, not just a passing factual mention.",
+      "Afterward, tell her what you said and to whom, so she knows it was sincere."
+    ]
+  },
+  {
+    "actionTitle": "The accomplishment given its due weight",
+    "text": "If she downplays an accomplishment today, push back gently and name why it actually deserves more credit. The next time she downplays something, push back again the same way, consistently.",
+    "effect": "Pushing back on her tendency to downplay an accomplishment names its real value against her own minimization. Doing this consistently the next time confirms it as a genuine practice of restoring due credit, not a single correction offered once.",
+    "sectionTitle": "The Accomplishment Marked",
+    "predictable": "Downplayed accomplishments are rarely consistently and repeatedly pushed back on to restore their actual due credit",
+    "themes": [
+      "Accomplishment",
+      "Confidence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Push back gently but genuinely, naming specifically why it deserves more credit.",
+      "Next time she downplays something else, push back again, consistently."
+    ]
+  },
+  {
+    "actionTitle": "The small accomplishment counted",
+    "text": "Notice and name a small accomplishment today that would normally go completely uncounted. Do the same for another small, uncounted accomplishment later in the week.",
+    "effect": "Naming a small, usually overlooked accomplishment shows that success doesn't need to be major to be worth recognizing. Repeating this for another small accomplishment later in the week confirms a genuine practice of noticing, not a single unusual moment of attention.",
+    "sectionTitle": "The Accomplishment Marked",
+    "predictable": "Small accomplishments that would normally go uncounted are rarely repeatedly noticed and named more than once",
+    "themes": [
+      "Accomplishment",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choose something genuinely small that would normally go completely unnoticed.",
+      "Later in the week, do the same for another small, uncounted accomplishment."
+    ]
+  },
+  {
+    "actionTitle": "The effort named specifically",
+    "text": "Notice a specific effort she put into something today, even if the result wasn't perfect, and name it precisely. A few days later, notice and name another specific effort, to make it a genuine habit.",
+    "effect": "Naming a specific effort, independent of the result, values the process rather than just the outcome achieved. Repeating this for another specific effort days later confirms a genuine habit of noticing effort, not a single unusual compliment.",
+    "sectionTitle": "The Effort Noticed",
+    "predictable": "Effort is usually acknowledged only when tied to a good result, rarely named specifically and repeatedly on its own",
+    "themes": [
+      "Effort",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Name the specific effort, independent of whether the result was perfect.",
+      "A few days later, notice and name another specific effort, to build a real habit."
+    ]
+  },
+  {
+    "actionTitle": "The effort matched with effort",
+    "text": "Notice one area where she's been putting in real effort lately, and match it with equal effort of your own in a related area. Check back in a week on whether that matched effort actually made a visible difference.",
+    "effect": "Matching her observed effort with your own related effort shows genuine partnership rather than one-sided striving. Checking back a week later on whether it made a visible difference confirms the matched effort was substantive, not just a symbolic gesture.",
+    "sectionTitle": "The Effort Noticed",
+    "predictable": "Observed effort from her is rarely deliberately matched with equal effort in a related area from you",
+    "themes": [
+      "Effort",
+      "Reciprocity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Match the effort in a genuinely related area, not something unrelated.",
+      "Check back in a week on whether the matched effort made a visible difference."
+    ]
+  },
+  {
+    "actionTitle": "The effort behind the scenes acknowledged",
+    "text": "Name one piece of effort she's put in behind the scenes, invisible to most people, that you specifically noticed. The next time you notice invisible effort like that, name it again, consistently.",
+    "effect": "Naming invisible, behind-the-scenes effort proves it's actually seen, not just the effort that happens to be visible to others. Repeating this consistently the next time confirms a genuine habit of noticing what's easy to overlook, not a single unusual instance.",
+    "sectionTitle": "The Effort Noticed",
+    "predictable": "Invisible, behind-the-scenes effort is rarely consistently and repeatedly named as it continues to happen",
+    "themes": [
+      "Effort",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choose effort that's genuinely invisible to most other people around her.",
+      "The next time you notice invisible effort like that, name it again, consistently."
+    ]
+  },
+  {
+    "actionTitle": "The effort supported concretely",
+    "text": "Notice an effort she's currently putting into something, and offer one concrete way to support it today. Check in a few days later on whether that concrete support actually helped the effort along.",
+    "effect": "Offering concrete support for an ongoing effort, rather than just verbal encouragement, translates recognition into real assistance. Checking in days later on whether it actually helped confirms the support was substantive, not just a nice gesture offered once.",
+    "sectionTitle": "The Effort Noticed",
+    "predictable": "Ongoing effort is usually met with verbal encouragement alone rather than concrete support that's checked on afterward",
+    "themes": [
+      "Effort",
+      "Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Offer something concrete, not just verbal encouragement for the effort.",
+      "A few days later, check in on whether that concrete support actually helped."
+    ]
+  },
+  {
+    "actionTitle": "The effort in a hard week named",
+    "text": "During a particularly hard week for her, name the sheer effort it's taking just to get through it, specifically. At the end of that week, name it again, acknowledging that the effort held up the whole way through.",
+    "effect": "Naming the effort required just to get through a hard week validates struggle that's easy to overlook amid the difficulty itself. Naming it again at the week's end acknowledges sustained effort over time, not just a single moment of difficulty noticed once.",
+    "sectionTitle": "The Effort Noticed",
+    "predictable": "The sheer effort of getting through a hard week is rarely named both at the start and again at its end",
+    "themes": [
+      "Effort",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Name the effort specifically, not just sympathy for the difficulty itself.",
+      "At the end of the week, name it again, acknowledging it held up the whole way."
+    ]
+  },
+  {
+    "actionTitle": "The identity honored beyond a role",
+    "text": "Tell her today that you see her as more than just her role in the relationship or household, naming something specific. A week later, name another specific part of her identity beyond that role, unprompted.",
+    "effect": "Naming a specific part of her identity beyond a functional role values her as a whole person, not just her function in shared life. Repeating this a week later with another specific trait confirms a genuine, ongoing recognition of her full identity, not a single compliment.",
+    "sectionTitle": "The Identity Honored",
+    "predictable": "Recognition of identity beyond a functional role is rarely repeated with a different specific trait a week later",
+    "themes": [
+      "Identity",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be specific about the part of her identity you're naming, not vague.",
+      "A week later, name another specific part of her identity, unprompted."
+    ]
+  },
+  {
+    "actionTitle": "The old interest revived",
+    "text": "Ask about a part of her identity or an old interest that's gotten less space lately, and give it real attention today. Follow up on that same interest again in a couple of weeks, to show it wasn't a one-time question.",
+    "effect": "Reviving attention to a neglected part of her identity shows care for who she is beyond current daily routines. Following up again in a couple of weeks confirms genuine, ongoing interest, rather than a single question asked once and then dropped.",
+    "sectionTitle": "The Identity Honored",
+    "predictable": "Neglected parts of someone's identity are rarely followed up on again a couple of weeks after first being asked about",
+    "themes": [
+      "Identity",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Give it real, genuine attention today, not just a passing mention.",
+      "In a couple of weeks, follow up on that same interest again, to show real care."
+    ]
+  },
+  {
+    "actionTitle": "The identity defended in her absence",
+    "text": "If her identity or a choice tied to it gets questioned by someone while she's not there, defend it clearly. Tell her afterward that you did, and what you said, so she knows where you stand.",
+    "effect": "Defending her identity or choices when she's not present to hear it proves your support exists beyond moments meant for her benefit. Telling her afterward removes any doubt that your support is consistent, not just performed when it's convenient or visible to her.",
+    "sectionTitle": "The Identity Honored",
+    "predictable": "Defense of her identity in her absence is rarely confirmed back to her afterward as proof of consistent support",
+    "themes": [
+      "Identity",
+      "Loyalty"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Defend it clearly and genuinely, not half-heartedly to avoid conflict.",
+      "Afterward, tell her what happened and what you said, so she knows where you stand."
+    ]
+  },
+  {
+    "actionTitle": "The identity celebrated through a small gift",
+    "text": "Give her a small gift today tied specifically to a part of her identity that has nothing to do with your relationship. Notice and mention if she uses or enjoys it later, to show it wasn't a random guess.",
+    "effect": "Choosing a gift tied to an identity unrelated to the relationship itself values her as an individual beyond her role as a partner. Noticing and mentioning her enjoyment of it later confirms attentiveness continued past the initial giving of the gift.",
+    "sectionTitle": "The Identity Honored",
+    "predictable": "Gifts tied to an identity unrelated to the relationship itself are rarely followed up with a later mention of noticed enjoyment",
+    "themes": [
+      "Identity",
+      "Thoughtful"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choose something tied specifically to who she is outside the relationship.",
+      "Notice and mention later if she uses or enjoys it, to show real attentiveness."
+    ]
+  },
+  {
+    "actionTitle": "The question about who she's becoming",
+    "text": "Ask her honestly who she feels she's becoming these days, beyond any role or title. A month later, ask again, and notice together what's changed since the first answer.",
+    "effect": "Asking about her evolving sense of self, beyond fixed roles, invites reflection on identity as something dynamic rather than static. Asking again a month later, and comparing answers, shows genuine ongoing interest in her evolution, not a single curious question asked once.",
+    "sectionTitle": "The Identity Honored",
+    "predictable": "Questions about evolving personal identity are rarely asked again a month later to compare against the first answer",
+    "themes": [
+      "Identity",
+      "Growth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask genuinely, beyond any role or title she currently holds.",
+      "A month later, ask again and notice together what's changed since the first answer."
+    ]
+  },
+  {
+    "actionTitle": "The reflection shared out loud",
+    "text": "Share an honest reflection today about something you've been thinking about regarding the relationship. A few days later, ask her what she's been reflecting on since, to make it a two-way exchange.",
+    "effect": "Sharing a personal reflection invites vulnerability and opens space for deeper conversation beyond daily logistics. Asking what she's been reflecting on days later turns a one-sided share into a genuine two-way exchange of ongoing thought.",
+    "sectionTitle": "The Reflection Shared",
+    "predictable": "Personal reflections about the relationship are rarely followed by an explicit invitation for her own reflections later",
+    "themes": [
+      "Reflection",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Share something genuinely honest, not a surface-level or safe observation.",
+      "A few days later, ask what she's been reflecting on since, to make it mutual."
+    ]
+  },
+  {
+    "actionTitle": "The lesson learned named",
+    "text": "Tell her about a lesson you've recently learned about yourself, related to the relationship. A month later, tell her whether you've actually managed to apply that lesson since.",
+    "effect": "Naming a self-reflective lesson shows willingness to examine your own patterns rather than only observing hers. Following up a month later on whether you've applied it proves the reflection led to real change, not just a passing insight mentioned once.",
+    "sectionTitle": "The Reflection Shared",
+    "predictable": "Self-reflective lessons are rarely followed up a month later with an honest account of whether they were actually applied",
+    "themes": [
+      "Reflection",
+      "Self-awareness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be genuinely honest about the lesson, not a flattering version of yourself.",
+      "A month later, honestly tell her whether you've actually applied that lesson."
+    ]
+  },
+  {
+    "actionTitle": "The reflection on a shared moment",
+    "text": "After a meaningful moment together today, share a genuine reflection on what it meant to you. A few days later, ask if her reflection on that same moment has evolved or stayed the same.",
+    "effect": "Sharing a genuine reflection on a meaningful moment deepens its significance beyond just having experienced it together. Asking days later whether her own reflection has evolved invites continued reflection rather than treating the moment as fully processed and closed.",
+    "sectionTitle": "The Reflection Shared",
+    "predictable": "Reflections on a meaningful shared moment are rarely revisited days later to see if either person's perspective evolved",
+    "themes": [
+      "Reflection",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Share something genuine about what the moment meant, not just that it was nice.",
+      "A few days later, ask if her reflection on it has evolved or stayed the same."
+    ]
+  },
+  {
+    "actionTitle": "The reflection on a mistake owned",
+    "text": "Reflect out loud today on a mistake you've made in the relationship, without excusing it. A week later, share what you've concretely done differently since that reflection.",
+    "effect": "Reflecting openly on a past mistake, without excusing it, models honest self-examination rather than defensiveness. Sharing concrete change a week later proves the reflection led to real action, not just words offered once without follow-through.",
+    "sectionTitle": "The Reflection Shared",
+    "predictable": "Reflections on a past mistake are rarely followed a week later by a concrete account of what's actually changed since",
+    "themes": [
+      "Reflection",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reflect on it honestly, without excusing or minimizing the mistake.",
+      "A week later, share what you've concretely done differently since then."
+    ]
+  },
+  {
+    "actionTitle": "The end-of-year reflection together",
+    "text": "Sit down together today and reflect honestly on how the relationship has evolved recently. Revisit that same reflection again in a month, to see what's shifted since you first talked about it.",
+    "effect": "Reflecting together on the relationship's evolution creates a shared, honest snapshot of where things currently stand. Revisiting that same reflection a month later shows genuine ongoing engagement with the relationship's direction, not a single conversation left behind.",
+    "sectionTitle": "The Reflection Shared",
+    "predictable": "Joint reflections on the relationship's evolution are rarely revisited again a month later to track what's shifted",
+    "themes": [
+      "Reflection",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be genuinely honest together, not just reassuring or surface-level.",
+      "In a month, revisit that same reflection to see what's shifted since."
+    ]
   }
 ]

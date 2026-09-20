@@ -15194,5 +15194,855 @@
       "On avait visé réaliste pour cet objectif, et on l'a atteint, content qu'on n'ait pas visé trop haut.",
       "Objectif réaliste fixé, objectif atteint, content qu'on n'ait pas visé trop haut cette fois."
     ]
+  },
+  {
+    "actionTitle": "The pride texted plainly",
+    "text": "Just want to say, genuinely proud of you for that, wanted you to have it in writing too.",
+    "effect": "Putting pride in writing, not just saying it, gives her something she can return to and reread whenever she needs it. She receives a lasting, tangible record of your pride rather than a fleeting spoken compliment that fades from memory.",
+    "sectionTitle": "SMS - The Pride Named Twice",
+    "predictable": "Expressions of pride are usually spoken rather than put in writing as something she can return to later",
+    "themes": [
+      "Pride",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Genuinely proud of you for that, wanted it in writing too.",
+      "Proud of you for that, put it in writing so you have it to keep."
+    ]
+  },
+  {
+    "actionTitle": "The pride sent mid-day",
+    "text": "Random text in the middle of my day, but still thinking about how proud I am of you for that thing.",
+    "effect": "Sending pride unprompted mid-day, outside any obvious triggering moment, proves it continues to occupy your thoughts spontaneously. She learns her accomplishment keeps resurfacing in your mind well after the moment it happened, not just once in passing.",
+    "sectionTitle": "SMS - The Pride Named Twice",
+    "predictable": "Expressions of pride rarely resurface unprompted in the middle of an unrelated day, well after the original moment",
+    "themes": [
+      "Pride",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Random text in the middle of the day, still thinking about how proud I am.",
+      "Out of nowhere, still proud of you for that thing, wanted to say it again."
+    ]
+  },
+  {
+    "actionTitle": "The same message, same time, again",
+    "text": "Like always at this time, thinking of you, this one's not going anywhere anytime soon.",
+    "effect": "Naming the consistency of a message sent at the same time reinforces its status as a dependable, recurring anchor. She recognizes a deliberate pattern rather than a coincidence, which she can count on continuing into the future.",
+    "sectionTitle": "SMS - The Predictable Comfort",
+    "predictable": "The consistency of a message sent at the same time is rarely explicitly named as a deliberate, dependable pattern",
+    "themes": [
+      "Predictability",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Like always at this time, thinking of you, this one's not going anywhere.",
+      "Same time as always, this message, and it's staying that way going forward."
+    ]
+  },
+  {
+    "actionTitle": "The dependable evening text",
+    "text": "Every evening around now, same message different words, just wanted you to know you can count on that.",
+    "effect": "Explicitly stating that an evening text is dependable, even while its wording varies, reassures her of its underlying constancy. She learns to expect this message reliably, regardless of small daily variations in what it actually says.",
+    "sectionTitle": "SMS - The Predictable Comfort",
+    "predictable": "The dependable timing of a recurring text is rarely explicitly confirmed even as its specific wording varies daily",
+    "themes": [
+      "Predictability",
+      "Comfort"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Every evening around now, different words, but you can always count on this.",
+      "Same time each evening, wording changes, but you can always count on it arriving."
+    ]
+  },
+  {
+    "actionTitle": "The need stated by text",
+    "text": "Being direct here: what I actually need right now is a bit more space this week, wanted to say it plainly.",
+    "effect": "Stating a need plainly by text, without softening language, removes ambiguity that could otherwise leave the need unaddressed. She receives a clear, direct communication rather than having to interpret a vague hint about what's actually needed.",
+    "sectionTitle": "SMS - The Clear Conversation",
+    "predictable": "Needs communicated by text are usually softened or hinted at rather than stated plainly and directly",
+    "themes": [
+      "Clarity",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Being direct: what I actually need right now is a bit more space, plainly stated.",
+      "Saying this plainly: I need a bit more space this week, wanted to be direct."
+    ]
+  },
+  {
+    "actionTitle": "The clarity check sent later",
+    "text": "Following up on what I said plainly the other day, just checking that landed clearly and we're on the same page.",
+    "effect": "Following up on a previous direct statement confirms mutual understanding rather than assuming clarity was automatically achieved. She's given a chance to clarify anything that might have been misunderstood, rather than letting a potential misalignment linger unaddressed.",
+    "sectionTitle": "SMS - The Clear Conversation",
+    "predictable": "Direct statements sent by text are rarely followed up on to confirm they actually landed clearly",
+    "themes": [
+      "Clarity",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Following up on what I said the other day, checking it landed clearly.",
+      "Just checking that thing I said plainly landed right, we on the same page?"
+    ]
+  },
+  {
+    "actionTitle": "The optimistic text before the thing",
+    "text": "For what it's worth, genuinely think today is going to go better than you're expecting, real optimism here.",
+    "effect": "Sending genuine optimism before an uncertain event offers proactive emotional support rather than waiting to be asked for reassurance. She receives real encouragement heading into something uncertain, backed by sincere belief rather than empty positivity.",
+    "sectionTitle": "SMS - The Optimism Tested",
+    "predictable": "Optimism about an uncertain upcoming event is rarely sent proactively by text before it's specifically requested",
+    "themes": [
+      "Optimism",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Genuinely think today goes better than you're expecting, real optimism here.",
+      "For what it's worth, real optimism that today goes better than expected."
+    ]
+  },
+  {
+    "actionTitle": "The optimism revisited honestly",
+    "text": "Thinking back to what I said before that thing, glad the optimism actually turned out to be right this time.",
+    "effect": "Revisiting a past optimistic prediction, and honestly confirming whether it held, builds credibility for future reassurance. She sees that your optimism isn't just empty encouragement but something you're willing to track and honestly evaluate afterward.",
+    "sectionTitle": "SMS - The Optimism Tested",
+    "predictable": "Past optimistic predictions are rarely revisited by text afterward to honestly confirm whether they turned out to be right",
+    "themes": [
+      "Optimism",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thinking back to what I said, glad the optimism turned out right this time.",
+      "Glad that optimism from before actually panned out, thinking back on it now."
+    ]
+  },
+  {
+    "actionTitle": "The steady text during a rough patch",
+    "text": "Whatever's going on right now, just know I'm steady here, not going anywhere, not shaken by any of it.",
+    "effect": "Explicitly affirming steadiness during a difficult period reassures her that your presence remains unshaken despite external turmoil. She receives a grounding message precisely when stability might otherwise feel uncertain, offering a reliable anchor from a distance.",
+    "sectionTitle": "SMS - The Stable Ground",
+    "predictable": "Steadiness during a rough patch is rarely explicitly affirmed by text as unshaken despite whatever is happening",
+    "themes": [
+      "Stability",
+      "Reassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever's going on, I'm steady here, not going anywhere, not shaken.",
+      "Just know I'm steady through whatever this is, not shaken, not going anywhere."
+    ]
+  },
+  {
+    "actionTitle": "The constant thing reaffirmed by text",
+    "text": "Same as I said last month, that thing between us hasn't changed one bit, still exactly as solid as before.",
+    "effect": "Reaffirming a previously stated constant, explicitly referencing when it was first said, proves genuine stability rather than a one-time claim. She sees direct evidence that a foundational truth has held steady over time, not just been asserted once and left unverified.",
+    "sectionTitle": "SMS - The Stable Ground",
+    "predictable": "Previously stated constants are rarely explicitly reaffirmed by text with a direct reference to when they were first said",
+    "themes": [
+      "Stability",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Same as I said last month, that thing hasn't changed one bit, still solid.",
+      "Still exactly as solid as when I said it last month, hasn't changed a bit."
+    ]
+  },
+  {
+    "actionTitle": "The plan proposed by text first",
+    "text": "Already thinking about this weekend, here's an idea, wanted to be the one suggesting something for once.",
+    "effect": "Proposing a plan by text unprompted, and naming the intention to be the one initiating, shows deliberate effort to shift a usual pattern. She receives a concrete proposal along with the explicit acknowledgment that this initiative was intentional, not incidental.",
+    "sectionTitle": "SMS - The Initiative Taken First",
+    "predictable": "Plans proposed by text rarely come with an explicit acknowledgment that taking the initiative this time was intentional",
+    "themes": [
+      "Initiative",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Already thinking about this weekend, here's an idea, wanted to suggest something for once.",
+      "Have an idea for this weekend, wanted to be the one to bring it up first."
+    ]
+  },
+  {
+    "actionTitle": "The follow-up that confirms the initiative continues",
+    "text": "Like last time, thought of something for us before you had to ask, becoming a habit I actually like.",
+    "effect": "Referencing a previous instance of unprompted initiative, and naming it as a growing habit, confirms this shift is lasting rather than accidental. She sees explicit evidence that taking initiative has become a genuine pattern, not a single unusual gesture.",
+    "sectionTitle": "SMS - The Initiative Taken First",
+    "predictable": "Repeated instances of unprompted initiative are rarely explicitly named as a growing, intentional habit",
+    "themes": [
+      "Initiative",
+      "Consistency"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Like last time, thought of something before you had to ask, a habit I like.",
+      "Same as before, initiative taken first again, actually enjoying this habit."
+    ]
+  },
+  {
+    "actionTitle": "The accomplishment celebrated by text",
+    "text": "Still can't get over that thing you pulled off, seriously, that deserves way more credit than a quick congrats.",
+    "effect": "Emphasizing that a quick congratulations isn't enough elevates the significance of her accomplishment beyond a routine acknowledgment. She senses genuine enthusiasm for what she achieved, rather than a formulaic congratulatory message sent out of obligation.",
+    "sectionTitle": "SMS - The Accomplishment Marked",
+    "predictable": "Congratulatory texts rarely explicitly acknowledge that a quick message alone isn't sufficient recognition for the accomplishment",
+    "themes": [
+      "Accomplishment",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Still can't get over what you pulled off, deserves way more than a quick congrats.",
+      "That thing you did deserves more than just a quick text, seriously impressive."
+    ]
+  },
+  {
+    "actionTitle": "The accomplishment brought up again by text",
+    "text": "Randomly thought again about that thing you accomplished a while back, still genuinely impressive to me.",
+    "effect": "Bringing up a past accomplishment unprompted, well after the fact, shows its impression on you hasn't faded with time. She learns that her achievement continues to resurface as a genuine source of admiration, not something acknowledged once and then forgotten.",
+    "sectionTitle": "SMS - The Accomplishment Marked",
+    "predictable": "Past accomplishments are rarely brought up again unprompted by text a while after they originally happened",
+    "themes": [
+      "Accomplishment",
+      "Admiration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Randomly thought about that thing you accomplished a while back, still impressive.",
+      "That accomplishment of yours from a while ago, still genuinely impressive to me."
+    ]
+  },
+  {
+    "actionTitle": "The effort noticed by text",
+    "text": "Noticed how much effort you put into that today, regardless of how it turns out, wanted to say I saw it.",
+    "effect": "Naming the effort itself, independent of the eventual outcome, values her process rather than only judging the final result. She receives recognition for what went into the attempt, which she might otherwise assume goes unnoticed if the outcome isn't perfect.",
+    "sectionTitle": "SMS - The Effort Noticed",
+    "predictable": "Effort is usually acknowledged by text only after a result is known rather than specifically named independent of it",
+    "themes": [
+      "Effort",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noticed the effort you put in today, regardless of outcome, wanted to say I saw it.",
+      "Saw how much effort that took today, whatever happens, wanted you to know."
+    ]
+  },
+  {
+    "actionTitle": "The effort followed up on",
+    "text": "Checking in on that thing you've been putting so much effort into, how's it actually going for you now?",
+    "effect": "Following up specifically on an ongoing effort shows sustained interest, rather than a one-time acknowledgment that fades from attention. She feels her sustained effort continues to be tracked and cared about, not just noticed once in an isolated moment.",
+    "sectionTitle": "SMS - The Effort Noticed",
+    "predictable": "Ongoing effort acknowledged once is rarely followed up on again by text to check on its actual progress",
+    "themes": [
+      "Effort",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Checking in on that thing you've been putting effort into, how's it going now?",
+      "How's that thing going that you've been working so hard at lately?"
+    ]
+  },
+  {
+    "actionTitle": "The identity affirmed by text",
+    "text": "Just thinking about how much I admire that part of you that has nothing to do with us, just who you are.",
+    "effect": "Affirming a part of her identity unrelated to the relationship values her as a whole person, not just in her role as a partner. She receives recognition for who she is independently, which is easy to overlook amid the daily logistics of shared life.",
+    "sectionTitle": "SMS - The Identity Honored",
+    "predictable": "Texts of admiration rarely specifically affirm a part of identity that exists entirely separate from the relationship itself",
+    "themes": [
+      "Identity",
+      "Admiration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thinking about how much I admire that part of you unrelated to us, just who you are.",
+      "Admiring that part of you that has nothing to do with us, just genuinely you."
+    ]
+  },
+  {
+    "actionTitle": "The old interest checked in on",
+    "text": "How's that thing going that you used to be really into, been meaning to ask about it again for a while.",
+    "effect": "Following up on a previously mentioned, possibly neglected interest shows sustained curiosity about her identity beyond immediate concerns. She senses that this part of her isn't forgotten, but genuinely remembered and periodically revisited with real interest.",
+    "sectionTitle": "SMS - The Identity Honored",
+    "predictable": "Previously mentioned personal interests are rarely followed up on again by text after some time has passed",
+    "themes": [
+      "Identity",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "How's that thing going you used to be really into, meant to ask again.",
+      "Been meaning to ask, how's that old interest of yours going these days?"
+    ]
+  },
+  {
+    "actionTitle": "The reflection shared by text",
+    "text": "Been reflecting on us lately, and honestly, I like where my head's at about it, wanted to share that.",
+    "effect": "Sharing a personal reflection unprompted, over text, invites her into your inner process rather than keeping it entirely private. She gains insight into your ongoing thoughts about the relationship, offered spontaneously rather than only during a formal conversation.",
+    "sectionTitle": "SMS - The Reflection Shared",
+    "predictable": "Personal reflections about the relationship are rarely shared unprompted by text outside of a formal conversation",
+    "themes": [
+      "Reflection",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Been reflecting on us lately, like where my head's at, wanted to share.",
+      "Reflecting on us lately, genuinely liking where my thoughts are, sharing that."
+    ]
+  },
+  {
+    "actionTitle": "The follow-up on a shared reflection",
+    "text": "Been thinking more about what we talked through the other day, still sitting with it in a good way.",
+    "effect": "Following up on a previous shared reflection shows it continues to be genuinely processed, not just discussed once and dropped. She sees that a meaningful conversation left a lasting impression rather than being forgotten once the moment passed.",
+    "sectionTitle": "SMS - The Reflection Shared",
+    "predictable": "Shared reflections from a previous conversation are rarely followed up on again by text days later",
+    "themes": [
+      "Reflection",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Been thinking more about what we talked through, still sitting with it, good way.",
+      "Still processing what we discussed the other day, in a genuinely good way."
+    ]
+  },
+  {
+    "actionTitle": "The pride for handling something hard",
+    "text": "That hard thing you dealt with today, genuinely proud of how you handled it, wanted to say that clearly.",
+    "effect": "Naming pride specifically for handling difficulty, rather than a general achievement, values resilience under pressure. She receives recognition for composure during a hard moment, which often goes unacknowledged compared to visible wins.",
+    "sectionTitle": "SMS - The Pride Named Twice",
+    "predictable": "Pride for handling something difficult is rarely explicitly named separately from pride tied to visible wins or results",
+    "themes": [
+      "Pride",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That hard thing today, genuinely proud of how you handled it, saying it clearly.",
+      "Proud of how you handled that difficult thing today, wanted to say it plainly."
+    ]
+  },
+  {
+    "actionTitle": "The pride that doesn't need an occasion",
+    "text": "No real reason for this text except that I'm proud of you today, just generally, as a person.",
+    "effect": "Expressing general pride without tying it to any specific occasion or achievement values her as a whole person, not just her actions. She receives affirmation untethered to any particular event, which feels more foundational than situational praise.",
+    "sectionTitle": "SMS - The Pride Named Twice",
+    "predictable": "General pride in her as a person is rarely expressed without being tied to a specific occasion or recent achievement",
+    "themes": [
+      "Pride",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No real reason, just proud of you today, generally, as a person.",
+      "Proud of you today, no specific reason, just generally proud of who you are."
+    ]
+  },
+  {
+    "actionTitle": "The predictable text before bed",
+    "text": "Like every night, last thing before I sleep is a message to you, this one's not changing anytime soon.",
+    "effect": "Naming the nightly consistency of a pre-sleep message reinforces it as a dependable closing ritual rather than a random habit. She recognizes a reliable pattern she can expect every night, regardless of how the day went.",
+    "sectionTitle": "SMS - The Predictable Comfort",
+    "predictable": "The nightly consistency of a pre-sleep message is rarely explicitly named as a dependable, unchanging closing ritual",
+    "themes": [
+      "Predictability",
+      "Régularité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Like every night, last thing before sleep, this message, not changing anytime soon.",
+      "Every night, same closing message before I sleep, staying that way for good."
+    ]
+  },
+  {
+    "actionTitle": "The reliable weekly check-in confirmed",
+    "text": "Same day, same check-in, week after week, you can set your watch by this one at this point honestly.",
+    "effect": "Explicitly confirming the reliability of a weekly check-in, using a playful reference to precision timing, reinforces its dependability. She perceives a pattern so consistent it's become a genuine fixture, not something that might quietly lapse.",
+    "sectionTitle": "SMS - The Predictable Comfort",
+    "predictable": "The reliability of a weekly recurring check-in is rarely explicitly confirmed as something dependable enough to set a watch by",
+    "themes": [
+      "Predictability",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Same day, same check-in, week after week, set your watch by this one.",
+      "Week after week, same check-in, honestly reliable enough to set a watch by."
+    ]
+  },
+  {
+    "actionTitle": "The clear boundary stated by text",
+    "text": "Want to be really clear: this specific thing isn't something I'm comfortable with, saying it plainly so there's no confusion.",
+    "effect": "Stating a boundary plainly and explicitly removes any ambiguity that could otherwise lead to it being unintentionally crossed. She receives an unambiguous communication rather than having to infer a limit from indirect hints or body language.",
+    "sectionTitle": "SMS - The Clear Conversation",
+    "predictable": "Personal boundaries communicated by text are usually implied indirectly rather than stated plainly and explicitly",
+    "themes": [
+      "Clarity",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Want to be clear: this specific thing isn't something I'm comfortable with, plainly.",
+      "Saying this plainly so there's no confusion: not comfortable with that specific thing."
+    ]
+  },
+  {
+    "actionTitle": "The clarity on where things stand now",
+    "text": "Just want us both clear on where things actually stand right now, not where we assumed they were a while back.",
+    "effect": "Explicitly updating a shared understanding, rather than relying on outdated assumptions, keeps clarity current rather than stale. She receives an accurate, present-tense picture of the relationship's status, rather than operating on assumptions that may no longer be accurate.",
+    "sectionTitle": "SMS - The Clear Conversation",
+    "predictable": "Shared understanding of where things stand is rarely explicitly updated by text rather than relying on outdated assumptions",
+    "themes": [
+      "Clarity",
+      "Honesty"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Want us both clear on where things stand now, not where we assumed before.",
+      "Let's be clear on where things actually stand now, not an old assumption."
+    ]
+  },
+  {
+    "actionTitle": "The optimism sent for a specific fear",
+    "text": "Know that specific thing worries you, but honestly, real optimism here that it's going to be fine.",
+    "effect": "Directing optimism at a specific named fear, rather than a general reassurance, shows the message was tailored to her actual concern. She receives targeted encouragement that proves the worry was heard and taken seriously, not brushed aside with generic positivity.",
+    "sectionTitle": "SMS - The Optimism Tested",
+    "predictable": "Optimism sent by text is often generic rather than directed specifically at a fear she's actually named or expressed",
+    "themes": [
+      "Optimism",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Know that specific thing worries you, but real optimism it's going to be fine.",
+      "That specific worry of yours, genuine optimism it's going to turn out fine."
+    ]
+  },
+  {
+    "actionTitle": "The optimism that admits uncertainty honestly",
+    "text": "Honestly don't know for sure how this turns out, but I choose to believe it goes well, and I mean that.",
+    "effect": "Admitting genuine uncertainty while still choosing optimism shows the positivity isn't naive but a deliberate, honest choice. She receives a more credible form of encouragement, grounded in acknowledged uncertainty rather than empty, unconditional positivity.",
+    "sectionTitle": "SMS - The Optimism Tested",
+    "predictable": "Optimism sent by text rarely explicitly admits genuine uncertainty while still choosing to believe in a good outcome",
+    "themes": [
+      "Optimism",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Don't know for sure how this turns out, but choose to believe it goes well.",
+      "Honestly uncertain, but choosing optimism here, and genuinely mean it."
+    ]
+  },
+  {
+    "actionTitle": "The stability offered without being asked",
+    "text": "Nothing you need to ask me for right now, just offering this: I'm steady, and that's not changing.",
+    "effect": "Offering stability proactively, without waiting to be asked, shows attentiveness to a need she might not voice directly. She receives grounding reassurance volunteered freely, rather than only available if she specifically requests it.",
+    "sectionTitle": "SMS - The Stable Ground",
+    "predictable": "Stability is usually offered only when explicitly requested rather than proactively volunteered without being asked",
+    "themes": [
+      "Stability",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Nothing to ask for, just offering: I'm steady, and that's not changing.",
+      "Not waiting to be asked, just offering that I'm steady, staying that way."
+    ]
+  },
+  {
+    "actionTitle": "The stable text after a scare",
+    "text": "That scared you earlier, I know, but I'm right here, steady, nothing about that has changed on my end.",
+    "effect": "Reaffirming steadiness immediately after a frightening moment offers grounding precisely when reassurance is most needed. She receives confirmation that your presence remains unshaken, providing a stabilizing counterweight to whatever caused the fear.",
+    "sectionTitle": "SMS - The Stable Ground",
+    "predictable": "Steadiness is rarely explicitly reaffirmed by text immediately following a specific frightening or scary moment",
+    "themes": [
+      "Stability",
+      "Reassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That scared you earlier, but I'm right here, steady, nothing has changed.",
+      "Know that scared you, but I'm steady here, nothing's changed on my end."
+    ]
+  },
+  {
+    "actionTitle": "The initiative taken on logistics",
+    "text": "Already booked that thing we needed to sort out, figured I'd take the lead on it for once.",
+    "effect": "Taking the lead on logistics unprompted, and naming it as unusual for you, shows deliberate effort to shift a typical pattern. She experiences a task handled proactively, with explicit acknowledgment that this initiative was a conscious choice.",
+    "sectionTitle": "SMS - The Initiative Taken First",
+    "predictable": "Logistics handled proactively are rarely explicitly framed as an unusual, deliberate shift from a typical pattern",
+    "themes": [
+      "Initiative",
+      "Efficiency"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Already booked that thing, figured I'd take the lead on it for once.",
+      "Sorted that logistics thing already, took the lead on it this time."
+    ]
+  },
+  {
+    "actionTitle": "The initiative on reaching out to someone",
+    "text": "Already reached out to that person we'd been meaning to contact, wanted to be the one to finally do it.",
+    "effect": "Taking initiative on a socially delayed task, and naming the intent to finally act, shows deliberate follow-through on something previously stalled. She sees a task move from indefinite postponement to completion, driven by your proactive decision to finally act.",
+    "sectionTitle": "SMS - The Initiative Taken First",
+    "predictable": "Socially delayed tasks are rarely explicitly moved forward by proactive initiative framed as finally following through",
+    "themes": [
+      "Initiative",
+      "Follow-through"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Already reached out to that person, wanted to finally be the one to do it.",
+      "Reached out to that person we'd been meaning to contact, finally did it."
+    ]
+  },
+  {
+    "actionTitle": "The accomplishment texted the moment it happens",
+    "text": "Heard your good news the second it happened and had to tell you right away how proud I am.",
+    "effect": "Sending immediate recognition the instant an accomplishment happens shows genuine excitement rather than a delayed, considered response. She feels the impact of instant celebration, which conveys more authentic enthusiasm than a reply that comes later.",
+    "sectionTitle": "SMS - The Accomplishment Marked",
+    "predictable": "Recognition for an accomplishment is often sent after some delay rather than the instant it actually happens",
+    "themes": [
+      "Accomplishment",
+      "Enthusiasm"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Heard the second it happened, had to tell you right away how proud I am.",
+      "The moment I heard, had to text immediately, so proud of you right now."
+    ]
+  },
+  {
+    "actionTitle": "The accomplishment linked to past effort",
+    "text": "That accomplishment today, remember all that effort you put in months ago, this is what it was all leading to.",
+    "effect": "Linking a recent accomplishment to earlier effort connects the outcome to the process that made it possible, honoring both. She sees her success framed as the culmination of sustained work, not an isolated event disconnected from what led to it.",
+    "sectionTitle": "SMS - The Accomplishment Marked",
+    "predictable": "Recent accomplishments are rarely explicitly linked back to the earlier sustained effort that specifically led to them",
+    "themes": [
+      "Accomplishment",
+      "Reflection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Remember all that effort months ago, this is what it was leading to.",
+      "That accomplishment today, all that earlier effort finally paid off, see that?"
+    ]
+  },
+  {
+    "actionTitle": "The effort noticed even in failure",
+    "text": "Even though that didn't work out the way you wanted, the effort you put in was still genuinely impressive.",
+    "effect": "Acknowledging effort despite an unsuccessful outcome separates the value of trying from the pressure of succeeding. She receives recognition that isn't contingent on results, which softens the disappointment of an outcome that didn't go as hoped.",
+    "sectionTitle": "SMS - The Effort Noticed",
+    "predictable": "Effort is usually acknowledged mainly when the outcome is successful rather than explicitly recognized despite failure",
+    "themes": [
+      "Effort",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Even though that didn't work out, the effort you put in was genuinely impressive.",
+      "Didn't go how you wanted, but that effort was still genuinely impressive."
+    ]
+  },
+  {
+    "actionTitle": "The effort acknowledged as ongoing",
+    "text": "This isn't a one-time thing I noticed, the effort you keep putting in day after day, I see all of it.",
+    "effect": "Explicitly framing noticed effort as ongoing, rather than a single instance, confirms sustained attentiveness rather than a one-time compliment. She learns her consistent daily effort is tracked over time, not just occasionally spotted in isolated moments.",
+    "sectionTitle": "SMS - The Effort Noticed",
+    "predictable": "Acknowledged effort is rarely explicitly framed as an ongoing pattern noticed over time rather than a single instance",
+    "themes": [
+      "Effort",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Not a one-time thing, the effort you keep putting in daily, I see all of it.",
+      "Every day, that effort you keep putting in, I genuinely see all of it."
+    ]
+  },
+  {
+    "actionTitle": "The identity valued outside any label",
+    "text": "Thinking about you today, not as anything specific, just as exactly who you are, and that's plenty.",
+    "effect": "Affirming her value entirely outside any specific label or role emphasizes her intrinsic worth beyond any functional identity. She receives recognition for simply being herself, untethered from any particular role, achievement, or category.",
+    "sectionTitle": "SMS - The Identity Honored",
+    "predictable": "Affirmations of value rarely explicitly detach entirely from any specific label, role, or category to focus purely on being",
+    "themes": [
+      "Identity",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thinking of you today, not as anything specific, just exactly who you are.",
+      "Not thinking of you as any particular role today, just who you are, and that's enough."
+    ]
+  },
+  {
+    "actionTitle": "The identity noticed in a small choice",
+    "text": "Noticed a small choice you made today that felt so completely you, made me smile thinking about it.",
+    "effect": "Noticing a small, characteristic choice affirms her individuality expressed even in minor, everyday decisions. She learns that even her smallest, most personal choices are seen and appreciated as genuine expressions of who she is.",
+    "sectionTitle": "SMS - The Identity Honored",
+    "predictable": "Small everyday choices are rarely explicitly noticed and named as characteristic expressions of someone's individual identity",
+    "themes": [
+      "Identity",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noticed a small choice today that felt so completely you, made me smile.",
+      "That small choice you made today felt so you, made me smile thinking about it."
+    ]
+  },
+  {
+    "actionTitle": "The reflection prompted by something small",
+    "text": "Something small happened today that got me reflecting on us, in a genuinely good way, wanted to share that.",
+    "effect": "Sharing that an ordinary, unremarkable moment triggered genuine reflection shows the relationship occupies your thoughts even outside major events. She learns that even small daily happenings prompt real reflection on the relationship, not just significant milestones or conflicts.",
+    "sectionTitle": "SMS - The Reflection Shared",
+    "predictable": "Genuine reflection about the relationship is rarely explicitly attributed to something small and unremarkable that happened that day",
+    "themes": [
+      "Reflection",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Something small today got me reflecting on us, in a genuinely good way.",
+      "A small thing today got me thinking about us, genuinely in a good way."
+    ]
+  },
+  {
+    "actionTitle": "The reflection that changed your mind a little",
+    "text": "Been reflecting on that thing you said, and honestly, it shifted my perspective a bit, wanted you to know.",
+    "effect": "Admitting that reflection actually changed your perspective shows genuine openness rather than reflection as a passive, inconsequential exercise. She sees tangible proof that her words genuinely influence your thinking, not just prompt polite acknowledgment.",
+    "sectionTitle": "SMS - The Reflection Shared",
+    "predictable": "Reflections prompted by something she said rarely come with an explicit admission that it actually shifted your perspective",
+    "themes": [
+      "Reflection",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Been reflecting on what you said, honestly shifted my perspective a bit.",
+      "That thing you said, reflected on it, genuinely shifted my perspective some."
+    ]
+  },
+  {
+    "actionTitle": "The pride reserved just for texting",
+    "text": "Some things I only ever say by text, and this is one: genuinely, deeply proud of you today.",
+    "effect": "Framing a written declaration of pride as something reserved specifically for text gives it a distinct, deliberate weight. She receives a sentiment marked as special precisely because of the medium chosen to deliver it, rather than said casually in passing.",
+    "sectionTitle": "SMS - The Pride Named Twice",
+    "predictable": "Declarations of pride rarely get explicitly framed as something specifically reserved for the written form of a text",
+    "themes": [
+      "Pride",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Some things I only say by text, this is one: genuinely proud of you today.",
+      "Reserved for text only: genuinely, deeply proud of you today, meant sincerely."
+    ]
+  },
+  {
+    "actionTitle": "The predictable text that never skips a week",
+    "text": "Never missed a week yet with this kind of message, and today's no exception, right on schedule as always.",
+    "effect": "Explicitly confirming that a recurring message has never been skipped reinforces its reliability as an unbroken, dependable pattern. She perceives concrete evidence of consistency maintained over time, not just a claim of intended regularity.",
+    "sectionTitle": "SMS - The Predictable Comfort",
+    "predictable": "The unbroken continuity of a recurring message is rarely explicitly confirmed as never having skipped a single week",
+    "themes": [
+      "Predictability",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Never missed a week with this message, today's no exception, right on schedule.",
+      "Not a single week missed with this one, today's right on schedule as always."
+    ]
+  },
+  {
+    "actionTitle": "The direct answer given without hedging",
+    "text": "Straight answer, no hedging: yes, that's exactly how I feel, wanted you to have total clarity on that.",
+    "effect": "Explicitly stating that an answer comes without hedging emphasizes deliberate directness rather than the usual softened phrasing. She receives confirmation that this particular answer was intentionally unambiguous, not just incidentally clear.",
+    "sectionTitle": "SMS - The Clear Conversation",
+    "predictable": "Direct answers rarely come with an explicit acknowledgment that they were deliberately given without any hedging",
+    "themes": [
+      "Clarity",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Straight answer, no hedging: yes, exactly how I feel, wanted total clarity.",
+      "No hedging here: yes, that's exactly how I feel, wanted you to have clarity."
+    ]
+  },
+  {
+    "actionTitle": "The optimism sent purely because it's Monday",
+    "text": "No specific reason except it's Monday, but genuinely optimistic this week turns out to be a good one for you.",
+    "effect": "Attaching optimism to an arbitrary marker like the start of the week, rather than a specific event, shows positivity offered freely and without condition. She receives encouragement that isn't tied to any particular worry, just a spontaneous, unconditional wish for a good week ahead.",
+    "sectionTitle": "SMS - The Optimism Tested",
+    "predictable": "Optimism for the week ahead is rarely sent for no specific reason other than the arbitrary marker of it being Monday",
+    "themes": [
+      "Optimism",
+      "Spontaneity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No reason except it's Monday, genuinely optimistic this week is a good one.",
+      "Just because it's Monday, genuine optimism this week turns out good for you."
+    ]
+  },
+  {
+    "actionTitle": "The stability named as a choice, not a given",
+    "text": "Want you to know being steady for you isn't just something that happens automatically, it's a choice I make daily.",
+    "effect": "Framing stability as an active daily choice, rather than a passive trait, emphasizes the ongoing effort behind consistent steadiness. She perceives your reliability as something intentionally chosen and renewed each day, not simply assumed to exist without effort.",
+    "sectionTitle": "SMS - The Stable Ground",
+    "predictable": "Stability offered in a relationship is rarely explicitly framed as a conscious daily choice rather than a passive, automatic trait",
+    "themes": [
+      "Stability",
+      "Intention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Being steady for you isn't automatic, it's a choice I make daily, genuinely.",
+      "Want you to know, steadiness is a daily choice for me, not something automatic."
+    ]
+  },
+  {
+    "actionTitle": "The initiative on something she'd never ask for",
+    "text": "Did something today you'd never actually ask me to do, just wanted to take that initiative myself, no request needed.",
+    "effect": "Taking initiative on something she would never explicitly request shows attentiveness that goes beyond responding to stated needs. She experiences care extended proactively into territory she wouldn't even think to ask for help with.",
+    "sectionTitle": "SMS - The Initiative Taken First",
+    "predictable": "Initiative is rarely proactively taken on something she would never actually think to explicitly request help with",
+    "themes": [
+      "Initiative",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Did something today you'd never ask for, took that initiative myself, no request.",
+      "Something today you'd never actually ask for, took the initiative on it myself."
+    ]
+  },
+  {
+    "actionTitle": "The accomplishment that still gets mentioned",
+    "text": "People still bring up that thing you accomplished, and every time they do, I get to feel proud all over again.",
+    "effect": "Sharing that others continue referencing her accomplishment shows its impact extends beyond your own private admiration. She learns her achievement continues to resonate in wider circles, not just within the relationship, reinforcing its lasting significance.",
+    "sectionTitle": "SMS - The Accomplishment Marked",
+    "predictable": "Ongoing external references to a past accomplishment are rarely shared back with her as proof of its lasting significance",
+    "themes": [
+      "Accomplishment",
+      "Pride"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "People still bring that up, and every time, I get to feel proud all over again.",
+      "That thing you did, people still mention it, still makes me proud every time."
+    ]
+  },
+  {
+    "actionTitle": "The effort you don't have to finish to be seen",
+    "text": "Even if you don't finish that thing you're working on, the effort so far already means something real to me.",
+    "effect": "Decoupling recognition of effort from the requirement of completion removes pressure to finish in order to be valued. She receives validation for work in progress, regardless of whether it's ultimately completed or abandoned partway through.",
+    "sectionTitle": "SMS - The Effort Noticed",
+    "predictable": "Recognition for effort is usually implicitly tied to eventual completion rather than explicitly decoupled from needing to finish",
+    "themes": [
+      "Effort",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Even if you don't finish that, the effort so far already means something real.",
+      "Don't have to finish that for the effort so far to already mean something to me."
+    ]
+  },
+  {
+    "actionTitle": "The identity that predates the relationship",
+    "text": "Thinking today about who you were before we even met, and genuinely admiring that person too, not just who you are now.",
+    "effect": "Explicitly admiring her identity from before the relationship began acknowledges a whole self that exists independent of your shared history. She perceives recognition extending backward in time, valuing who she was as much as who she's become with you.",
+    "sectionTitle": "SMS - The Identity Honored",
+    "predictable": "Admiration is rarely explicitly extended to the version of her identity that existed before the relationship even began",
+    "themes": [
+      "Identity",
+      "Admiration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thinking about who you were before we met, genuinely admiring that person too.",
+      "Admiring who you were before we even met, not just who you are now."
+    ]
+  },
+  {
+    "actionTitle": "The reflection sent right before sleep",
+    "text": "Last thought before I sleep tonight is a reflection on how lucky I feel to be figuring life out alongside you.",
+    "effect": "Sharing a reflection as the final thought of the day gives it a sense of genuine, unguarded sincerity before sleep. She receives a closing thought that carries real weight, offered in a moment typically reserved for private, honest reflection.",
+    "sectionTitle": "SMS - The Reflection Shared",
+    "predictable": "Reflections about the relationship are rarely explicitly framed as the very last conscious thought before falling asleep",
+    "themes": [
+      "Reflection",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Last thought before sleep tonight: how lucky I feel figuring life out with you.",
+      "Falling asleep thinking about how lucky I am figuring life out alongside you."
+    ]
   }
 ]

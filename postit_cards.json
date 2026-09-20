@@ -15167,5 +15167,855 @@
       "Être réaliste ne veut jamais dire renoncer à rêver, juste savoir le prochain pas concret.",
       "Réaliste ensemble, ça veut dire connaître le prochain pas concret, pas abandonner le rêve."
     ]
+  },
+  {
+    "actionTitle": "Inside a running shoe",
+    "text": "Every step you take in these, remember I'm proud of you for showing up, not just for how far you go.",
+    "effect": "Extending pride to the act of showing up, rather than only distance or performance, values effort over measurable achievement. She finds encouragement rooted in her consistency rather than a result, precisely in an object tied to a habit she repeats often.",
+    "sectionTitle": "Post-its - Running Shoes",
+    "predictable": "Objects tied to physical activity rarely carry a message valuing the act of showing up over measurable performance",
+    "themes": [
+      "Pride",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Every step in these, proud of you for showing up, not just how far you go.",
+      "Proud of you for lacing these up at all, not just for the distance covered."
+    ]
+  },
+  {
+    "actionTitle": "On the rearview mirror",
+    "text": "Whatever's ahead of you today, know that coming back to the same steady thing here is something you can always count on.",
+    "effect": "Placing a message about dependable constancy on an object literally used to look back reframes it as pointing toward a reliable return. She receives reassurance that stability awaits her return, regardless of what she encounters on the road ahead.",
+    "sectionTitle": "Post-its - Rearview Mirror",
+    "predictable": "Objects used to look backward while driving rarely carry a message about the dependable stability waiting on return",
+    "themes": [
+      "Predictability",
+      "Stability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever's ahead today, the same steady thing here is something to count on.",
+      "No matter what's ahead, coming back to something steady is always here."
+    ]
+  },
+  {
+    "actionTitle": "On the recipe card",
+    "text": "A good recipe never leaves you guessing about the steps, and I want to be just as clear with you about where we stand.",
+    "effect": "Comparing the precision of a written recipe to a personal commitment toward honest, unambiguous communication adds a concrete, relatable metaphor. She encounters a declaration of clarity tucked into an object whose entire purpose is to remove guesswork and confusion.",
+    "sectionTitle": "Post-its - Recipe Card",
+    "predictable": "Objects designed for precise, step-by-step instructions rarely carry a declaration about clarity in communication within the relationship",
+    "themes": [
+      "Clarity",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A good recipe never leaves you guessing, want to be that clear about us too.",
+      "No guesswork in a good recipe, and I want us to have that same clarity."
+    ]
+  },
+  {
+    "actionTitle": "On the desk lamp",
+    "text": "Whatever you're working through under this light today, I genuinely believe it's going to turn out better than you think.",
+    "effect": "Associating a source of literal illumination with a statement of genuine optimism reframes a functional object as a symbol of hopeful perspective. She receives sincere encouragement precisely during a moment of focused, possibly stressful work, offering light in more than one sense.",
+    "sectionTitle": "Post-its - Desk Lamp",
+    "predictable": "Functional lighting objects rarely carry an explicit statement of genuine optimism about the work being done under them",
+    "themes": [
+      "Optimism",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever's under this light today, genuinely believe it turns out better than you think.",
+      "Working under this light, believe it turns out better than you're expecting."
+    ]
+  },
+  {
+    "actionTitle": "On the car keys",
+    "text": "Wherever these take you today, know that what's waiting for you back here hasn't moved an inch and isn't going to.",
+    "effect": "Contrasting the literal mobility enabled by car keys with the fixed stability of what awaits at home reinforces a sense of grounded permanence. She departs knowing that, regardless of where the day takes her, a stable foundation remains exactly as she left it.",
+    "sectionTitle": "Post-its - Car Keys",
+    "predictable": "Objects enabling daily mobility rarely carry a contrasting message about the fixed stability of what's waiting at home",
+    "themes": [
+      "Stability",
+      "Reassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Wherever these take you, what's waiting here hasn't moved an inch, isn't going to.",
+      "This stays exactly as solid as always, wherever these keys take you today."
+    ]
+  },
+  {
+    "actionTitle": "On the watch strap",
+    "text": "Time waits for no one, so today I'm not waiting either, already thinking of something to do for you first.",
+    "effect": "Playing on the association between a watch and time moving forward introduces a lighthearted pivot toward taking proactive initiative. She discovers a playful but genuine declaration that you're choosing to act first today, rather than waiting passively as usual.",
+    "sectionTitle": "Post-its - Watch Strap",
+    "predictable": "Objects tied to timekeeping rarely carry a playful pivot toward a declaration of proactive initiative for the day",
+    "themes": [
+      "Initiative",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Time waits for no one, not waiting either, thinking of something for you first.",
+      "Not waiting around today, already got something in mind to do for you first."
+    ]
+  },
+  {
+    "actionTitle": "On the bookmark",
+    "text": "This marks where you left off in a story, but I also want to mark, right here, how far you've come lately.",
+    "effect": "Extending the function of a bookmark, marking a place, toward marking personal progress reframes a simple object as a marker of accomplishment. She encounters an unexpected reflection on her recent growth, tucked inside an object entirely unrelated to her actual achievements.",
+    "sectionTitle": "Post-its - Bookmark",
+    "predictable": "Objects marking a place in a story rarely carry an unexpected reflection marking personal accomplishment instead",
+    "themes": [
+      "Accomplishment",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This marks a story, but I also want to mark how far you've come lately.",
+      "Marks your page here, and I want to mark how far you've come too."
+    ]
+  },
+  {
+    "actionTitle": "On the yoga block",
+    "text": "This is here to support you exactly where you are, not where you should be, and I try to be that too.",
+    "effect": "Comparing a support prop used to meet the body where it currently is to a personal aspiration of meeting her without judgment adds a gentle metaphor. She receives reassurance that effort is valued at whatever stage it's currently at, not measured against some idealized standard.",
+    "sectionTitle": "Post-its - Yoga Block",
+    "predictable": "Support props used to meet physical limitations rarely carry a metaphor about accepting effort exactly where it currently stands",
+    "themes": [
+      "Effort",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This supports you exactly where you are, not where you should be, I try to too.",
+      "Meets you exactly where you are, not where you should be, like I try to."
+    ]
+  },
+  {
+    "actionTitle": "On the vitamin bottle",
+    "text": "This takes care of your body, but I want you to know the rest of who you are gets just as much care from me.",
+    "effect": "Extending physical wellness care to a broader statement about valuing her full identity elevates a routine health object into an affirmation of her whole self. She discovers a reminder that her identity, beyond just physical health, is equally cared for and recognized.",
+    "sectionTitle": "Post-its - Vitamin Bottle",
+    "predictable": "Objects associated with physical health rarely carry an extended message about caring for someone's full identity beyond the body",
+    "themes": [
+      "Identity",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This takes care of your body, the rest of who you are gets just as much care.",
+      "Takes care of your body here, but all of who you are gets cared for too."
+    ]
+  },
+  {
+    "actionTitle": "In the backpack pocket",
+    "text": "Tucked away here like a thought I keep coming back to, I've been reflecting on us lately, and I like what I find.",
+    "effect": "Comparing a small, easily overlooked pocket to a private, recurring reflection adds intimacy to a mundane, hidden location. She discovers a sincere, ongoing reflection tucked into a space she might check only occasionally, making the discovery feel more personal.",
+    "sectionTitle": "Post-its - Backpack Pocket",
+    "predictable": "Small overlooked storage spaces rarely carry a message reflecting genuine, ongoing thought about the relationship",
+    "themes": [
+      "Reflection",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tucked here like a thought I keep returning to, reflecting on us, like what I find.",
+      "Like this pocket, a thought I keep coming back to, reflecting on us lately."
+    ]
+  },
+  {
+    "actionTitle": "Running shoe, a second note",
+    "text": "These get worn out and replaced eventually, but the pride I feel watching you lace up again never does.",
+    "effect": "Contrasting the temporary wear of the physical object with the lasting nature of pride reinforces that the sentiment outlasts the object itself. She encounters a declaration of enduring pride tucked into something explicitly described as impermanent by comparison.",
+    "sectionTitle": "Post-its - Running Shoes",
+    "predictable": "Objects that wear out over time rarely carry an explicit contrast highlighting the permanence of the pride felt watching their use",
+    "themes": [
+      "Pride",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "These wear out eventually, but the pride watching you lace up never does.",
+      "Shoes wear out over time, the pride I feel watching you never does though."
+    ]
+  },
+  {
+    "actionTitle": "Running shoe, a warm note",
+    "text": "Whatever pace you go today, fast or slow or somewhere in between, every single one makes me proud of you.",
+    "effect": "Explicitly including every possible pace, without favoring one, removes any implicit standard she might feel pressured to meet. She receives unconditional pride regardless of performance, rather than pride implicitly tied to a specific level of achievement.",
+    "sectionTitle": "Post-its - Running Shoes",
+    "predictable": "Pride tied to physical activity is rarely explicitly extended unconditionally to every possible pace or level of performance",
+    "themes": [
+      "Pride",
+      "Unconditional Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fast or slow or in between, every pace today makes me proud of you.",
+      "Whatever pace today, fast, slow, anything between, all of it makes me proud."
+    ]
+  },
+  {
+    "actionTitle": "Rearview mirror, a second note",
+    "text": "This shows you what's behind, but what's ahead of you today is still wide open, full of things worth looking forward to.",
+    "effect": "Balancing the backward-looking function of the object with a forward-looking message about future possibility broadens its symbolic meaning. She encounters an encouraging reminder that the past doesn't limit what's still ahead, precisely in an object designed to look backward.",
+    "sectionTitle": "Post-its - Rearview Mirror",
+    "predictable": "Objects used to look backward rarely carry a forward-looking message about the open possibilities still ahead",
+    "themes": [
+      "Predictability",
+      "Optimism"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Shows what's behind, but what's ahead today is wide open, worth looking forward to.",
+      "This looks backward, but what's ahead of you today is still wide open."
+    ]
+  },
+  {
+    "actionTitle": "Rearview mirror, a caring note",
+    "text": "Drive safe out there today, and know that the same steady thing you're used to finding here will still be here later.",
+    "effect": "Pairing a safety reminder with reassurance of unchanged stability upon return combines practical care with emotional grounding. She departs with both a wish for her physical safety and confidence that nothing dependable will have shifted by the time she's back.",
+    "sectionTitle": "Post-its - Rearview Mirror",
+    "predictable": "Safety reminders for driving rarely come paired with reassurance about the unchanged stability awaiting her upon return",
+    "themes": [
+      "Predictability",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Drive safe, and know the same steady thing here will still be here later.",
+      "Be safe out there, the steady thing you're used to finding stays right here."
+    ]
+  },
+  {
+    "actionTitle": "Recipe card, a second note",
+    "text": "Follow this step by step and it works every time, and I want that same dependable clarity in how I talk to you too.",
+    "effect": "Extending the reliability of a step-by-step recipe to a personal commitment toward consistently clear communication reinforces the value of predictability in honesty. She perceives a declaration that clarity in your communication isn't occasional but something you aim to make dependable, like a trusted recipe.",
+    "sectionTitle": "Post-its - Recipe Card",
+    "predictable": "The dependable reliability of a step-by-step recipe rarely gets extended into a personal commitment toward consistently clear communication",
+    "themes": [
+      "Clarity",
+      "Consistency"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Follow this and it works every time, want that same clarity with you too.",
+      "Works every time following the steps, want that same clarity talking to you."
+    ]
+  },
+  {
+    "actionTitle": "Recipe card, an honest note",
+    "text": "Even the best recipe sometimes needs an adjustment along the way, and I hope we can be just as honest when we need to adjust too.",
+    "effect": "Comparing the natural need to adjust a recipe mid-process to being open about necessary changes in communication normalizes honest recalibration. She receives an invitation to view honest adjustments, even mid-conversation, as a normal and healthy part of clear communication rather than a failure.",
+    "sectionTitle": "Post-its - Recipe Card",
+    "predictable": "The natural need to adjust a recipe mid-process is rarely compared to the healthy need for honest recalibration in communication",
+    "themes": [
+      "Clarity",
+      "Flexibility"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Even the best recipe needs adjusting sometimes, hope we can be that honest too.",
+      "Recipes need adjusting sometimes, hope we're just as honest when we need to."
+    ]
+  },
+  {
+    "actionTitle": "Desk lamp, a second note",
+    "text": "Even on the darkest days, this still switches on the same way, and I believe brighter days for you are switching on too.",
+    "effect": "Extending the reliable function of a lamp, always turning on, to a metaphor for anticipated brighter days ahead adds a hopeful, tangible image. She receives an optimistic message that draws a direct parallel between a dependable physical object and a belief in improving circumstances.",
+    "sectionTitle": "Post-its - Desk Lamp",
+    "predictable": "The reliable function of a lamp rarely gets extended into a metaphor for anticipated improvement in someone's circumstances",
+    "themes": [
+      "Optimism",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Even on dark days, this switches on the same way, believe brighter days are coming too.",
+      "This still turns on the same on dark days, believe brighter days are coming."
+    ]
+  },
+  {
+    "actionTitle": "Desk lamp, a focused note",
+    "text": "Whatever you're focused on under this light right now, I have real confidence it's going to turn out well.",
+    "effect": "Directing optimism specifically at whatever task is currently occupying her attention shows the message is tailored to her present moment, not generic. She receives targeted confidence in the specific thing she's working on right now, rather than vague, unspecified positivity.",
+    "sectionTitle": "Post-its - Desk Lamp",
+    "predictable": "Optimistic messages rarely get explicitly directed at the specific task someone is currently focused on in the moment",
+    "themes": [
+      "Optimism",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever you're focused on right now, real confidence it turns out well.",
+      "Focused on something under this light, genuine confidence it goes well."
+    ]
+  },
+  {
+    "actionTitle": "Car keys, a second note",
+    "text": "These start the car every single time without fail, and I want to be that same kind of reliable constant for you too.",
+    "effect": "Comparing the mechanical reliability of car keys to a personal aspiration for consistent dependability adds a concrete, everyday metaphor. She discovers an aspiration toward being an unwavering constant, framed through an object whose entire function depends on working every single time.",
+    "sectionTitle": "Post-its - Car Keys",
+    "predictable": "The mechanical reliability of everyday objects rarely gets compared to a personal aspiration toward being a consistently dependable presence",
+    "themes": [
+      "Stability",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Starts the car every time without fail, want to be that reliable for you too.",
+      "Never fails to start the car, want to be that same reliable constant for you."
+    ]
+  },
+  {
+    "actionTitle": "Car keys, a grounding note",
+    "text": "Wherever the day takes these keys, the ground under your feet back here stays exactly as solid as you left it.",
+    "effect": "Reassuring that the metaphorical ground remains solid, regardless of where the physical keys travel, reinforces stability as independent of daily movement. She receives confirmation that no matter how far or chaotic her day becomes, a stable foundation awaits unchanged upon return.",
+    "sectionTitle": "Post-its - Car Keys",
+    "predictable": "The unpredictability of where a day's travel leads rarely comes paired with reassurance about the unchanged stability awaiting on return",
+    "themes": [
+      "Stability",
+      "Reassurance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Wherever these keys go today, the ground here stays exactly as solid as you left it.",
+      "No matter where today takes these keys, it's just as solid here as you left it."
+    ]
+  },
+  {
+    "actionTitle": "Watch strap, a second note",
+    "text": "Every second on this counts toward something, and today I'm choosing to spend some of mine acting first for you.",
+    "effect": "Extending the concept of time passing toward a deliberate choice to take initiative adds intentionality to an otherwise passive observation about time. She perceives a declaration that time is being actively and consciously spent on taking initiative for her, rather than passing by unused.",
+    "sectionTitle": "Post-its - Watch Strap",
+    "predictable": "The passage of time marked by a watch rarely gets extended into a declaration of deliberately choosing to take initiative",
+    "themes": [
+      "Initiative",
+      "Intention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Every second counts toward something, choosing to spend some acting first for you.",
+      "Time keeps moving here, choosing to spend some of it acting first for you today."
+    ]
+  },
+  {
+    "actionTitle": "Watch strap, a playful note",
+    "text": "This ticks forward whether I act or not, so today I figured I'd actually beat the clock and act first for once.",
+    "effect": "Playing on the relentless forward motion of time to justify a lighthearted decision to take proactive initiative adds humor to the gesture. She encounters a playful but genuine explanation for an unprompted initiative, framed as racing against the passive passage of time itself.",
+    "sectionTitle": "Post-its - Watch Strap",
+    "predictable": "The relentless forward motion of time rarely gets used as a playful justification for taking proactive initiative unprompted",
+    "themes": [
+      "Initiative",
+      "Playfulness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This ticks forward regardless, figured I'd beat the clock and act first today.",
+      "Time moves either way, decided to beat the clock and act first for once."
+    ]
+  },
+  {
+    "actionTitle": "Bookmark, a second note",
+    "text": "You'll pick this story back up eventually, and I hope you also remember to pick up on your own progress just as often.",
+    "effect": "Extending the idea of returning to an unfinished story toward a reminder to also revisit and acknowledge personal progress broadens the object's meaning. She receives an encouragement to apply the same habit of returning and noticing, used for a story, toward recognizing her own ongoing accomplishments.",
+    "sectionTitle": "Post-its - Bookmark",
+    "predictable": "Objects marking a place to return to in a story rarely carry an extended reminder to also revisit personal progress just as often",
+    "themes": [
+      "Accomplishment",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "You'll pick this story up eventually, hope you pick up on your own progress too.",
+      "Come back to this story eventually, come back to noticing your progress too."
+    ]
+  },
+  {
+    "actionTitle": "Bookmark, a proud note",
+    "text": "Wherever you left off in this, know that wherever you've gotten to in everything else is worth marking too.",
+    "effect": "Comparing the specific location marked in a story to the broader, ongoing progress in her life reinforces that her overall growth deserves the same recognition. She perceives an invitation to view her life's progress as equally worth marking and returning to, just like a bookmark holds a place in a story.",
+    "sectionTitle": "Post-its - Bookmark",
+    "predictable": "The specific place marked in a story is rarely compared to the broader ongoing progress in someone's life also being worth marking",
+    "themes": [
+      "Accomplishment",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Wherever you left off here, wherever you've gotten to elsewhere is worth marking too.",
+      "This marks a page, but where you've gotten to in life is worth marking too."
+    ]
+  },
+  {
+    "actionTitle": "Yoga block, a second note",
+    "text": "Nobody starts flexible, this just helps you get there at your own pace, and I try to meet your pace with mine too.",
+    "effect": "Comparing the gradual, supportive function of a prop toward flexibility to a personal aspiration for patience with her own pace adds a relatable metaphor. She receives reassurance that effort measured against her own timeline is respected, rather than compared to an external, faster standard.",
+    "sectionTitle": "Post-its - Yoga Block",
+    "predictable": "Physical props designed to support gradual progress rarely carry a metaphor about respecting someone's own personal pace of effort",
+    "themes": [
+      "Effort",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Nobody starts flexible, this helps at your own pace, I try to meet your pace too.",
+      "Helps you get there at your pace, and I try to match that pace with you too."
+    ]
+  },
+  {
+    "actionTitle": "Yoga block, a validating note",
+    "text": "This exists because reaching the floor isn't the point, showing up and trying is, and that's exactly how I see your effort too.",
+    "effect": "Reframing the purpose of a support prop as validating the act of trying, rather than reaching a specific standard, mirrors a broader philosophy about valuing effort itself. She perceives her effort framed the same way, valued for the attempt rather than measured strictly against a fixed, ideal outcome.",
+    "sectionTitle": "Post-its - Yoga Block",
+    "predictable": "Support props designed to validate the act of trying rarely come with an explicit note applying that same philosophy to personal effort generally",
+    "themes": [
+      "Effort",
+      "Validation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reaching the floor isn't the point, showing up and trying is, like your effort too.",
+      "This exists because trying matters more than reaching, exactly how I see your effort."
+    ]
+  },
+  {
+    "actionTitle": "Vitamin bottle, a second note",
+    "text": "This is just one part of taking care of yourself, and I want you to know I see and value every other part too.",
+    "effect": "Clarifying that physical health is only one component of a fuller identity worth caring for broadens the scope of recognition beyond the object's function. She receives acknowledgment that her value and identity extend well past physical wellness alone, into every other part of who she is.",
+    "sectionTitle": "Post-its - Vitamin Bottle",
+    "predictable": "Objects tied specifically to physical health rarely explicitly clarify that they represent only one part of a fuller identity worth valuing",
+    "themes": [
+      "Identity",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Just one part of taking care of yourself, I see and value every other part too.",
+      "This handles one part of you, I see and value all the other parts just as much."
+    ]
+  },
+  {
+    "actionTitle": "Vitamin bottle, an honest note",
+    "text": "Taking care of your body matters, but so does taking care of the parts of you that don't show up on any label here.",
+    "effect": "Contrasting the visible, labeled function of a health product with the unlabeled, less visible aspects of her identity broadens what deserves care and attention. She perceives a reminder that her full self, beyond what's measurable or visible, is just as deserving of care and recognition.",
+    "sectionTitle": "Post-its - Vitamin Bottle",
+    "predictable": "Health-related objects rarely explicitly contrast their labeled, visible function with the less visible parts of identity deserving equal care",
+    "themes": [
+      "Identity",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Body matters, but so do the parts of you that don't show up on any label.",
+      "Taking care of your body matters, the unlabeled parts of you matter too."
+    ]
+  },
+  {
+    "actionTitle": "Backpack pocket, a second note",
+    "text": "This little pocket holds small things easy to forget about, kind of like this thought I keep having about how good we are.",
+    "effect": "Comparing a small, often-overlooked storage space to a recurring, easily overlooked positive thought about the relationship adds intimacy to a mundane discovery. She encounters a sincere, recurring reflection tucked into a space she might not check often, making its discovery feel like a genuine, personal surprise.",
+    "sectionTitle": "Post-its - Backpack Pocket",
+    "predictable": "Small overlooked storage compartments rarely carry a comparison to a recurring, easily overlooked positive thought about the relationship",
+    "themes": [
+      "Reflection",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Holds small easy-to-forget things, like this thought I keep having about us.",
+      "Small things easy to forget live here, like this recurring good thought about us."
+    ]
+  },
+  {
+    "actionTitle": "Backpack pocket, a quiet note",
+    "text": "Found myself reflecting on us again while you weren't looking, tucked it here so you'd find it when you needed it most.",
+    "effect": "Describing an unwitnessed moment of reflection, deliberately hidden for later discovery, adds a layer of intentional timing to the sincerity of the message. She perceives thoughtfulness not just in the reflection itself, but in the deliberate choice of when and where she might eventually find it.",
+    "sectionTitle": "Post-its - Backpack Pocket",
+    "predictable": "Personal reflections about the relationship rarely come with an explicit note about being deliberately hidden for a later, well-timed discovery",
+    "themes": [
+      "Reflection",
+      "Intention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reflecting on us again while you weren't looking, tucked it here for you to find.",
+      "Found myself thinking about us again, hid this here for you to find later."
+    ]
+  },
+  {
+    "actionTitle": "Running shoe, a third note",
+    "text": "Whatever number shows up on any tracker today, the only number that matters to me is how many times you show up for yourself.",
+    "effect": "Dismissing performance metrics in favor of valuing the act of consistently showing up reframes success around self-commitment rather than measurable output. She receives a message that redefines what's worth being proud of, away from data and toward her own consistency.",
+    "sectionTitle": "Post-its - Running Shoes",
+    "predictable": "Performance metrics tracked during physical activity are rarely explicitly dismissed in favor of valuing consistent self-commitment instead",
+    "themes": [
+      "Pride",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever number shows up today, only number that matters is you showing up.",
+      "Trackers show numbers, the only number I care about is you showing up."
+    ]
+  },
+  {
+    "actionTitle": "Rearview mirror, a third note",
+    "text": "Everything behind you got you here, and I'm proud of all of it, even the parts that felt messy at the time.",
+    "effect": "Validating even the messy, difficult parts of the past as valuable contributors to her present self offers a compassionate reframing of growth. She perceives acceptance and even appreciation for imperfect past experiences, not just the polished, successful ones.",
+    "sectionTitle": "Post-its - Rearview Mirror",
+    "predictable": "The messier, more difficult parts of someone's past are rarely explicitly validated as valuable alongside the successful ones",
+    "themes": [
+      "Predictability",
+      "Acceptance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Everything behind you got you here, proud of all of it, even the messy parts.",
+      "All of what's behind you got you here, proud of it, messy parts included."
+    ]
+  },
+  {
+    "actionTitle": "Recipe card, a third note",
+    "text": "This card gets a little stained and worn with use, and I think that just proves it's actually been loved and used well.",
+    "effect": "Reframing visible wear on a well-used object as proof of value, rather than damage, offers a metaphor for embracing imperfection as evidence of genuine use. She perceives a gentle reflection that flaws accumulated through real use are signs of something cherished, not something to be ashamed of.",
+    "sectionTitle": "Post-its - Recipe Card",
+    "predictable": "Visible wear on a frequently used object is rarely explicitly reframed as proof of being genuinely loved and well used",
+    "themes": [
+      "Clarity",
+      "Acceptance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Gets stained and worn with use, proves it's actually been loved and used well.",
+      "A little worn from use, just proof this has been genuinely loved and used."
+    ]
+  },
+  {
+    "actionTitle": "Desk lamp, a third note",
+    "text": "This light doesn't need much to work, just a flip of a switch, and I have that same simple faith that good things are coming.",
+    "effect": "Comparing the simplicity of turning on a light to an uncomplicated, faithful belief in good outcomes reinforces optimism as something accessible rather than effortful. She perceives a message about hope that doesn't require complicated justification, just a simple, consistent choice to believe.",
+    "sectionTitle": "Post-its - Desk Lamp",
+    "predictable": "The simplicity of switching on a light rarely gets compared to an uncomplicated, faithful belief that good outcomes are coming",
+    "themes": [
+      "Optimism",
+      "Simplicity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Doesn't need much to work, just a flip, same simple faith good things are coming.",
+      "Just a switch flip for this, same simple faith that good things are on their way."
+    ]
+  },
+  {
+    "actionTitle": "Car keys, a third note",
+    "text": "These start the same way every morning, and honestly, waking up choosing you again feels exactly that simple too.",
+    "effect": "Comparing the routine simplicity of starting a car to the daily, uncomplicated choice of continuing to choose her adds an accessible metaphor to commitment. She perceives that choosing the relationship each day is framed as simple and natural, not a complicated or effortful decision.",
+    "sectionTitle": "Post-its - Car Keys",
+    "predictable": "The routine simplicity of a daily mechanical action rarely gets compared to the equally simple, daily choice of continuing to choose her",
+    "themes": [
+      "Stability",
+      "Commitment"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Starts the same way every morning, waking up choosing you feels that simple too.",
+      "Same start every morning, choosing you again each day feels just as simple."
+    ]
+  },
+  {
+    "actionTitle": "Watch strap, a third note",
+    "text": "This never stops moving forward, and neither do I when it comes to finding new ways to show up for you first.",
+    "effect": "Comparing the constant forward motion of a watch to an ongoing, active effort to keep initiating shows initiative as a continuous rather than occasional trait. She perceives an aspiration explicitly framed as ongoing and relentless, not just a single instance of unusual proactive effort.",
+    "sectionTitle": "Post-its - Watch Strap",
+    "predictable": "The constant forward motion of time rarely gets compared to an ongoing, continuous effort to keep taking initiative",
+    "themes": [
+      "Initiative",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This never stops moving, neither do I finding ways to show up for you first.",
+      "Never stops moving forward, neither do I in finding ways to act for you first."
+    ]
+  },
+  {
+    "actionTitle": "Bookmark, a third note",
+    "text": "Some stories are better read slowly, and I think that's true of watching you grow too, no rush, just steady progress.",
+    "effect": "Comparing the deliberate pace of reading a good story slowly to patience with personal growth reframes progress as something not to rush. She perceives reassurance that her pace of growth, whatever it is, is respected rather than judged against an arbitrary sense of urgency.",
+    "sectionTitle": "Post-its - Bookmark",
+    "predictable": "The deliberate pace of reading something slowly rarely gets compared to patience with someone's personal pace of growth",
+    "themes": [
+      "Accomplishment",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Some stories read better slowly, true for watching you grow too, no rush.",
+      "Better read slowly sometimes, true of watching you grow too, steady progress."
+    ]
+  },
+  {
+    "actionTitle": "Yoga block, a third note",
+    "text": "Progress here isn't measured by touching the floor, it's measured by coming back to try again, same as anywhere else.",
+    "effect": "Redefining progress as persistence rather than reaching a fixed physical milestone reframes effort itself as the true marker of accomplishment. She perceives validation that returning to try again, regardless of the outcome, is what genuinely counts as meaningful progress.",
+    "sectionTitle": "Post-its - Yoga Block",
+    "predictable": "Progress in a physical practice rarely gets explicitly redefined as persistence in returning to try again, rather than reaching a fixed milestone",
+    "themes": [
+      "Effort",
+      "Persévérance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Progress isn't touching the floor, it's coming back to try again, same everywhere.",
+      "Not measured by touching the floor, measured by coming back to try, always."
+    ]
+  },
+  {
+    "actionTitle": "Vitamin bottle, a third note",
+    "text": "Some days you'll take these and forget, and that's fine, taking care of yourself was never about being perfect at it.",
+    "effect": "Normalizing occasional lapses in a health routine removes the pressure of perfection often associated with self-care habits. She receives reassurance that inconsistency doesn't undermine the value of self-care, freeing her from guilt over occasional missed days.",
+    "sectionTitle": "Post-its - Vitamin Bottle",
+    "predictable": "Occasional lapses in a health routine are rarely explicitly normalized as acceptable rather than a failure of self-care",
+    "themes": [
+      "Identity",
+      "Permission"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Some days you'll forget these, that's fine, self-care was never about perfection.",
+      "You'll forget some days, totally fine, taking care of yourself isn't about perfect."
+    ]
+  },
+  {
+    "actionTitle": "Backpack pocket, a third note",
+    "text": "Whatever you find tucked away here today, know it was written by someone who thinks about you more than you probably realize.",
+    "effect": "Revealing that the sender thinks about her more frequently than she might assume adds a layer of quiet, understated devotion to a small discovery. She perceives a sincere admission of frequent thought that surpasses what she might have otherwise assumed or expected.",
+    "sectionTitle": "Post-its - Backpack Pocket",
+    "predictable": "Small hidden notes rarely explicitly reveal that they were written by someone who thinks about her more often than she'd assume",
+    "themes": [
+      "Reflection",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever's tucked here, written by someone who thinks of you more than you realize.",
+      "Written by someone who thinks about you more than you probably realize, tucked here."
+    ]
+  },
+  {
+    "actionTitle": "Running shoe, a fourth note",
+    "text": "Whether today is a personal best or your slowest one yet, both of them still make me equally proud of you.",
+    "effect": "Explicitly equating pride for a best performance with pride for a slower one removes any implicit hierarchy based on achievement level. She receives confirmation that pride remains constant regardless of how a specific attempt measures up against past performance.",
+    "sectionTitle": "Post-its - Running Shoes",
+    "predictable": "Pride tied to physical performance rarely gets explicitly equated across both best and worst outcomes without any implicit hierarchy",
+    "themes": [
+      "Pride",
+      "Unconditional Support"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Personal best or slowest yet, both make me equally proud of you, genuinely.",
+      "Best day or slowest day, doesn't matter, equally proud of you either way."
+    ]
+  },
+  {
+    "actionTitle": "Rearview mirror, a fourth note",
+    "text": "This only shows a small slice of what's behind you, never the whole picture, so don't judge yourself by it alone.",
+    "effect": "Acknowledging the limited perspective offered by a rearview mirror as a metaphor for the incomplete nature of self-judgment based on the past invites self-compassion. She receives a gentle reminder that any single glance backward, literal or emotional, never captures the whole truth of who she is.",
+    "sectionTitle": "Post-its - Rearview Mirror",
+    "predictable": "The limited perspective of a rearview mirror rarely gets used as a metaphor cautioning against self-judgment based on an incomplete view of the past",
+    "themes": [
+      "Predictability",
+      "Self-compassion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Only shows a small slice of what's behind, never the whole picture, don't judge by it.",
+      "Never the whole picture in here, just a slice, don't judge yourself by it alone."
+    ]
+  },
+  {
+    "actionTitle": "Recipe card, a fourth note",
+    "text": "Nobody gets it perfect the first time following this, and nobody needs to, clarity comes with practice, not instantly.",
+    "effect": "Normalizing imperfect early attempts at following instructions reframes clarity as something built gradually through practice rather than expected immediately. She receives reassurance that clear communication is a skill developed over time, not a standard she must already meet perfectly.",
+    "sectionTitle": "Post-its - Recipe Card",
+    "predictable": "Clear communication is rarely explicitly reframed as a skill built gradually through practice rather than an immediate expectation",
+    "themes": [
+      "Clarity",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Nobody gets it perfect first time, nobody needs to, clarity comes with practice.",
+      "First try is never perfect here, and that's fine, clarity builds with practice."
+    ]
+  },
+  {
+    "actionTitle": "Desk lamp, a fourth note",
+    "text": "Turn this off and the dark doesn't last forever, it's just waiting for the next time you flip the switch again.",
+    "effect": "Comparing temporary darkness after switching off a lamp to the impermanence of hard times reinforces optimism as a natural, cyclical expectation. She perceives a hopeful metaphor suggesting that difficult periods are temporary, not permanent, much like darkness that ends the moment light returns.",
+    "sectionTitle": "Post-its - Desk Lamp",
+    "predictable": "The temporary darkness following a switched-off lamp rarely gets compared explicitly to the impermanence of difficult periods in life",
+    "themes": [
+      "Optimism",
+      "Resilience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Turn this off, dark doesn't last forever, just waiting for the switch again.",
+      "Off doesn't mean dark forever here, just waiting on the next switch flip."
+    ]
+  },
+  {
+    "actionTitle": "Car keys, a fourth note",
+    "text": "Some days the engine takes a second longer to start, and that's fine, still gets you where you need to go eventually.",
+    "effect": "Normalizing occasional delays in a routine process as still leading to the same reliable outcome offers a metaphor for patience with imperfect days. She receives reassurance that even a slower or harder start doesn't undermine eventually arriving at where she needs to be.",
+    "sectionTitle": "Post-its - Car Keys",
+    "predictable": "Occasional delays in a routine mechanical process rarely get used as a metaphor for patience with imperfect or slower days",
+    "themes": [
+      "Stability",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Some days it takes longer to start, fine, still gets you there eventually.",
+      "Takes a second longer some days, still gets you where you need to go though."
+    ]
+  },
+  {
+    "actionTitle": "Watch strap, a fourth note",
+    "text": "Nobody has to remind this to keep going, it just does, and I want initiative to feel that natural for me too eventually.",
+    "effect": "Comparing the automatic, unprompted function of a watch to an aspiration for initiative to become similarly natural and unprompted sets a genuine long-term intention. She perceives a sincere goal toward initiative becoming instinctive rather than something requiring conscious effort every single time.",
+    "sectionTitle": "Post-its - Watch Strap",
+    "predictable": "The automatic function of a watch rarely gets compared to an explicit long-term aspiration for initiative to become similarly natural",
+    "themes": [
+      "Initiative",
+      "Aspiration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Nobody reminds this to keep going, it just does, want initiative to feel that natural.",
+      "Keeps going without being told, want taking initiative to feel that natural too."
+    ]
+  },
+  {
+    "actionTitle": "Bookmark, a fourth note",
+    "text": "Losing your place sometimes just means you get to rediscover a bit of what you already read, never really wasted time.",
+    "effect": "Reframing the minor inconvenience of losing a reading place as an opportunity for rediscovery removes any sense of lost progress or wasted effort. She perceives a gentle metaphor suggesting that setbacks in her own progress aren't failures, just chances to revisit and reinforce what's already been accomplished.",
+    "sectionTitle": "Post-its - Bookmark",
+    "predictable": "Losing one's place while reading rarely gets reframed as a valuable opportunity for rediscovery rather than simply lost progress",
+    "themes": [
+      "Accomplishment",
+      "Reframing"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Losing your place just means rediscovering what you read, never wasted time.",
+      "Losing the page just means revisiting what's read, nothing is ever wasted."
+    ]
+  },
+  {
+    "actionTitle": "Yoga block, a fourth note",
+    "text": "This doesn't judge how far away the floor feels today, it just meets you exactly there, no explanation needed.",
+    "effect": "Emphasizing the nonjudgmental function of a support prop reinforces unconditional acceptance of wherever her effort currently stands, without requiring justification. She receives reassurance that her current level of effort or ability needs no explanation or apology, it's simply met exactly as it is.",
+    "sectionTitle": "Post-its - Yoga Block",
+    "predictable": "Support props designed to meet physical limitations rarely get an explicit note emphasizing their nonjudgmental, no-explanation-needed function",
+    "themes": [
+      "Effort",
+      "Acceptance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Doesn't judge how far the floor feels today, just meets you there, no explanation.",
+      "No judgment on how far away it feels today, just meets you there, simple as that."
+    ]
+  },
+  {
+    "actionTitle": "Vitamin bottle, a fourth note",
+    "text": "This label lists what's inside, but it could never list everything that actually makes you who you really are.",
+    "effect": "Contrasting the limited, factual information on a product label with the impossibility of fully capturing someone's identity highlights the depth beyond what's visible or measurable. She perceives an acknowledgment that no simple label could ever truly encompass the full complexity and richness of who she is.",
+    "sectionTitle": "Post-its - Vitamin Bottle",
+    "predictable": "Product labels rarely get explicitly contrasted with the impossibility of ever fully capturing someone's complete identity in words",
+    "themes": [
+      "Identity",
+      "Depth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This label lists what's inside, could never list everything that makes you, you.",
+      "Lists ingredients here, could never list everything that makes you who you are."
+    ]
+  },
+  {
+    "actionTitle": "Backpack pocket, a fourth note",
+    "text": "This zips shut easily, but what I feel reflecting on us doesn't close up nearly that simply, it just keeps unfolding.",
+    "effect": "Contrasting the simple, quick closure of a physical pocket with the ongoing, unresolved nature of genuine reflection emphasizes its depth and continuity. She perceives that reflections about the relationship aren't neatly concluded but remain an active, unfolding process worth returning to.",
+    "sectionTitle": "Post-its - Backpack Pocket",
+    "predictable": "The simple closure of a physical storage space rarely gets contrasted with the ongoing, unresolved nature of genuine emotional reflection",
+    "themes": [
+      "Reflection",
+      "Depth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This zips shut easily, what I feel reflecting on us doesn't close that simply.",
+      "Easy to zip shut, but reflecting on us doesn't close up that easily, keeps unfolding."
+    ]
   }
 ]
