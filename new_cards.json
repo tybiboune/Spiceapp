@@ -17344,5 +17344,855 @@
       "Be genuinely honest together, not just reassuring or surface-level.",
       "In a month, revisit that same reflection to see what's shifted since."
     ]
+  },
+  {
+    "actionTitle": "Le geste discret sans témoin",
+    "text": "Fais-lui un geste attentionné aujourd'hui sans que personne autour ne le remarque, juste entre vous deux. Quelques jours après, refais un geste tout aussi discret, pour que ça devienne une façon d'être plutôt qu'une exception.",
+    "effect": "Un geste attentionné sans témoin retire toute dimension de performance sociale et le rend purement sincère. Le répéter discrètement quelques jours plus tard confirme que la discrétion n'était pas un hasard mais une vraie manière d'agir envers elle.",
+    "sectionTitle": "Le geste discret, confirmé plus tard",
+    "predictable": "Les gestes attentionnés sont souvent faits devant témoin, rarement répétés discrètement plusieurs fois de suite",
+    "themes": [
+      "Discrétion",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais-le sans que personne autour ne le remarque, juste entre vous deux.",
+      "Quelques jours après, refais un geste tout aussi discret, sans prévenir."
+    ]
+  },
+  {
+    "actionTitle": "Le compliment glissé sans emphase",
+    "text": "Glisse-lui un compliment sincère aujourd'hui sans en faire un événement, presque en passant. La semaine suivante, fais de même avec un compliment différent, toujours sans emphase particulière.",
+    "effect": "Offrir un compliment sans emphase, presque discrètement, le rend plus naturel et moins performatif qu'une déclaration solennelle. Répéter ce type de compliment discret la semaine suivante installe une habitude de reconnaissance sobre plutôt qu'un geste isolé et marqué.",
+    "sectionTitle": "Le geste discret, confirmé plus tard",
+    "predictable": "Les compliments sont souvent marqués et solennels, rarement glissés discrètement à plusieurs reprises",
+    "themes": [
+      "Discrétion",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Glisse-le presque en passant, sans en faire un événement particulier.",
+      "La semaine suivante, fais de même avec un compliment différent, sans emphase."
+    ]
+  },
+  {
+    "actionTitle": "L'aide apportée sans qu'on le sache",
+    "text": "Aide-la aujourd'hui sur quelque chose sans qu'elle sache que c'est toi qui l'as fait. La prochaine fois que l'occasion se présente, fais-le à nouveau discrètement, sans jamais revendiquer le geste.",
+    "effect": "Aider sans revendiquer le geste prouve que l'intention derrière est purement généreuse, sans recherche de reconnaissance. Répéter ce type d'aide discrète confirme un vrai principe de générosité silencieuse plutôt qu'un coup d'éclat isolé.",
+    "sectionTitle": "Le geste discret, confirmé plus tard",
+    "predictable": "L'aide apportée est généralement revendiquée ou signalée, rarement offerte plusieurs fois sans jamais être reconnue",
+    "themes": [
+      "Discrétion",
+      "Générosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais-le sans qu'elle sache que c'est toi, garde-le vraiment pour toi.",
+      "La prochaine occasion, fais-le à nouveau discrètement, sans jamais le revendiquer."
+    ]
+  },
+  {
+    "actionTitle": "Le souci géré en silence",
+    "text": "Si tu remarques un petit souci aujourd'hui, règle-le discrètement sans en parler ni chercher à être remercié. La prochaine fois qu'un souci similaire apparaît, gère-le encore une fois en silence, de la même façon.",
+    "effect": "Régler un souci en silence, sans chercher de reconnaissance, montre une attention désintéressée au bien-être partagé. Répéter ce comportement discret confirme une vraie habitude de prise en charge silencieuse plutôt qu'un geste isolé et exceptionnel.",
+    "sectionTitle": "Le geste discret, confirmé plus tard",
+    "predictable": "Les petits soucis réglés sont souvent signalés pour être reconnus, rarement gérés en silence à plusieurs reprises",
+    "themes": [
+      "Discrétion",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Règle-le sans en parler ni chercher à être remercié pour ça.",
+      "La prochaine fois, gère-le encore en silence, exactement de la même façon."
+    ]
+  },
+  {
+    "actionTitle": "Le soutien offert sans en parler",
+    "text": "Si elle traverse un moment difficile, soutiens-la aujourd'hui sans en faire un sujet de conversation avec d'autres. Dans les jours qui suivent, continue de la soutenir discrètement, sans jamais mentionner cette période à qui que ce soit.",
+    "effect": "Offrir un soutien sans en parler à d'autres protège son intimité et montre une loyauté silencieuse rare. Continuer ce soutien discret dans les jours suivants confirme un engagement constant plutôt qu'un geste ponctuel vite oublié.",
+    "sectionTitle": "Le geste discret, confirmé plus tard",
+    "predictable": "Le soutien apporté pendant une période difficile est parfois partagé avec d'autres, rarement gardé silencieux sur la durée",
+    "themes": [
+      "Discrétion",
+      "Loyauté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Soutiens-la sans en faire un sujet de conversation avec d'autres personnes.",
+      "Dans les jours qui suivent, continue en silence, sans jamais mentionner cette période à personne."
+    ]
+  },
+  {
+    "actionTitle": "Le petit truc préparé à l'avance",
+    "text": "Prépare aujourd'hui quelque chose de petit à l'avance pour lui faciliter un moment de sa semaine. Une fois le moment arrivé, vérifie si la préparation a vraiment aidé et ajuste ta méthode pour la prochaine fois.",
+    "effect": "Préparer quelque chose en avance, plutôt que d'improviser au dernier moment, montre une anticipation réelle de ses besoins futurs. Vérifier ensuite si ça a vraiment aidé transforme la préparation en méthode affinée plutôt qu'un geste isolé jamais évalué.",
+    "sectionTitle": "La préparation qui porte ses fruits",
+    "predictable": "Les petites aides pratiques sont généralement improvisées au dernier moment plutôt que préparées à l'avance et évaluées ensuite",
+    "themes": [
+      "Préparation",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prépare-le vraiment à l'avance, pas à la dernière minute.",
+      "Une fois le moment arrivé, vérifie si ça a aidé et ajuste pour la prochaine fois."
+    ]
+  },
+  {
+    "actionTitle": "La conversation préparée à l'avance",
+    "text": "Avant une conversation importante à venir, prends le temps de préparer honnêtement ce que tu veux dire. Après la conversation, reviens sur ce qui a été préparé et discutez ensemble de ce qui a bien fonctionné ou non.",
+    "effect": "Préparer une conversation importante, plutôt que de l'improviser, montre un respect réel pour le sujet et pour elle. Revenir dessus après coup, ensemble, transforme la préparation en méthode évaluée plutôt qu'un exercice solitaire jamais vérifié.",
+    "sectionTitle": "La préparation qui porte ses fruits",
+    "predictable": "Les conversations importantes sont généralement improvisées plutôt que préparées à l'avance et évaluées ensemble après coup",
+    "themes": [
+      "Préparation",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prends vraiment le temps de préparer honnêtement ce que tu veux dire.",
+      "Après la conversation, discutez ensemble de ce qui a bien fonctionné ou non."
+    ]
+  },
+  {
+    "actionTitle": "Le terrain préparé avant une difficulté",
+    "text": "Si tu sais qu'une période difficile approche pour elle, prépare concrètement quelque chose aujourd'hui pour l'alléger le moment venu. Une fois la période passée, demande-lui si cette préparation a vraiment fait une différence.",
+    "effect": "Préparer concrètement à l'avance une période difficile anticipée montre une attention qui dépasse la réaction dans l'urgence. Demander ensuite si ça a vraiment aidé transforme l'anticipation en geste vérifié plutôt qu'une bonne intention jamais confirmée.",
+    "sectionTitle": "La préparation qui porte ses fruits",
+    "predictable": "Les périodes difficiles anticipées sont généralement gérées dans l'urgence plutôt que préparées à l'avance et évaluées après coup",
+    "themes": [
+      "Préparation",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prépare concrètement quelque chose, pas juste une bonne intention vague.",
+      "Une fois la période passée, demande-lui honnêtement si ça a vraiment aidé."
+    ]
+  },
+  {
+    "actionTitle": "Le weekend préparé en détail",
+    "text": "Prépare le prochain weekend avec un peu plus de soin que d'habitude, en pensant vraiment à ce qui lui ferait plaisir. Après le weekend, discutez ensemble de ce qui a le mieux fonctionné dans cette préparation.",
+    "effect": "Préparer un weekend avec un soin particulier, plutôt que de le laisser s'improviser, montre un investissement réel dans le temps partagé. En discuter ensemble après coup transforme l'expérience en méthode affinée pour les prochains weekends plutôt qu'un essai isolé.",
+    "sectionTitle": "La préparation qui porte ses fruits",
+    "predictable": "Les weekends partagés sont généralement peu préparés à l'avance, et rarement évalués ensemble une fois terminés",
+    "themes": [
+      "Préparation",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pense vraiment à ce qui lui ferait plaisir en préparant ce weekend.",
+      "Après le weekend, discutez ensemble de ce qui a le mieux fonctionné cette fois."
+    ]
+  },
+  {
+    "actionTitle": "La surprise préparée sur plusieurs jours",
+    "text": "Commence aujourd'hui à préparer une petite surprise qui prendra quelques jours à construire, sans rien dévoiler. Une fois la surprise révélée, demande-lui sincèrement ce qu'elle a ressenti en la découvrant.",
+    "effect": "Construire une surprise sur plusieurs jours, plutôt que dans l'urgence, montre un investissement soutenu rarement offert. Demander son ressenti une fois révélée transforme la surprise en moment de connexion partagé plutôt qu'un geste isolé et non commenté.",
+    "sectionTitle": "La préparation qui porte ses fruits",
+    "predictable": "Les surprises sont généralement préparées rapidement, rarement construites sur plusieurs jours puis suivies d'un vrai retour",
+    "themes": [
+      "Préparation",
+      "Surprise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Commence vraiment sur plusieurs jours, sans rien dévoiler avant la fin.",
+      "Une fois révélée, demande-lui sincèrement ce qu'elle a ressenti en la découvrant."
+    ]
+  },
+  {
+    "actionTitle": "La promesse tenue sans faille",
+    "text": "Fais-lui une promesse simple aujourd'hui et tiens-la exactement, sans exception ni excuse. La semaine suivante, fais une nouvelle promesse similaire et tiens-la à nouveau exactement, pour prouver ta fidélité à ta parole.",
+    "effect": "Tenir une promesse simple sans exception construit une fidélité concrète à sa propre parole, rarement démontrée aussi clairement. Répéter l'exercice la semaine suivante confirme que cette fidélité à la parole donnée est un vrai principe, pas un cas isolé.",
+    "sectionTitle": "La fidélité démontrée deux fois",
+    "predictable": "La fidélité à sa parole est rarement démontrée deux fois de suite à travers deux promesses tenues sans exception",
+    "themes": [
+      "Fidélité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tiens-la exactement, sans aucune exception ni excuse cette fois.",
+      "La semaine suivante, fais une promesse similaire et tiens-la encore exactement."
+    ]
+  },
+  {
+    "actionTitle": "La loyauté affirmée en son absence",
+    "text": "Si son nom ou ses choix sont mis en question aujourd'hui en son absence, défends-la clairement. La prochaine fois qu'une situation similaire se présente, fais exactement pareil, pour que ta loyauté soit une vraie constante.",
+    "effect": "Défendre sa position en son absence prouve une loyauté qui existe indépendamment de sa présence pour vérifier. Répéter ce comportement la prochaine fois confirme une fidélité constante plutôt qu'un geste isolé motivé par les circonstances du moment.",
+    "sectionTitle": "La fidélité démontrée deux fois",
+    "predictable": "La loyauté affirmée en son absence est rarement démontrée à plusieurs reprises pour en confirmer la constance",
+    "themes": [
+      "Fidélité",
+      "Loyauté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Défends-la clairement, sans mollir face à la question posée.",
+      "La prochaine fois, fais exactement pareil, pour que ce soit une vraie constante chez toi."
+    ]
+  },
+  {
+    "actionTitle": "La fidélité à une habitude qui compte pour elle",
+    "text": "Sur une petite habitude qui compte pour elle, sois fidèle à cette habitude aujourd'hui sans faillir. Continue d'être fidèle à cette même habitude la semaine suivante, pour prouver que ce n'était pas un effort ponctuel.",
+    "effect": "Rester fidèle à une habitude qui compte pour elle, une fois, peut sembler un effort ponctuel, mais le refaire la semaine suivante en fait un vrai engagement. Elle apprend qu'elle peut compter sur cette fidélité dans la durée, pas seulement lors d'un moment particulier.",
+    "sectionTitle": "La fidélité démontrée deux fois",
+    "predictable": "La fidélité à une petite habitude importante pour elle est rarement démontrée deux semaines de suite pour en confirmer la constance",
+    "themes": [
+      "Fidélité",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois fidèle à cette habitude aujourd'hui sans faillir, même un peu.",
+      "La semaine suivante, reste fidèle à cette même habitude, sans exception."
+    ]
+  },
+  {
+    "actionTitle": "La fidélité au engagement pris à deux",
+    "text": "Sur un engagement pris ensemble récemment, tiens ta part exactement comme convenu aujourd'hui. Le mois suivant, sur ce même engagement, tiens à nouveau exactement ta part, sans ajustement discret.",
+    "effect": "Tenir sa part d'un engagement commun exactement comme convenu construit une fidélité vérifiable sur des points concrets. Répéter l'exercice le mois suivant confirme que cette fidélité tient dans la durée, pas seulement lors du premier engagement pris.",
+    "sectionTitle": "La fidélité démontrée deux fois",
+    "predictable": "La fidélité à un engagement pris à deux est rarement démontrée deux fois de suite sans ajustement discret entre les deux",
+    "themes": [
+      "Fidélité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tiens ta part exactement comme convenu, sans ajustement discret de ta part.",
+      "Le mois suivant, sur ce même engagement, tiens à nouveau exactement ta part."
+    ]
+  },
+  {
+    "actionTitle": "La fidélité à ses propres valeurs devant elle",
+    "text": "Aujourd'hui, tiens-toi fidèle à une valeur importante pour toi, même si c'est inconfortable, devant elle. La prochaine fois qu'une situation similaire se présente, reste fidèle à cette même valeur, pour qu'elle voie une vraie constance chez toi.",
+    "effect": "Rester fidèle à ses propres valeurs, même inconfortable, montre une intégrité que la présence ou l'absence de témoin ne change pas. Répéter ce comportement confirme que cette fidélité à soi-même est un vrai trait de caractère, pas une posture ponctuelle adoptée pour impressionner.",
+    "sectionTitle": "La fidélité démontrée deux fois",
+    "predictable": "La fidélité à ses propres valeurs devant elle est rarement démontrée à plusieurs reprises pour en confirmer la constance",
+    "themes": [
+      "Fidélité",
+      "Intégrité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reste fidèle à cette valeur même si c'est inconfortable sur le moment.",
+      "La prochaine fois qu'une situation similaire se présente, reste fidèle à cette même valeur."
+    ]
+  },
+  {
+    "actionTitle": "Le plan ajusté sans rechigner",
+    "text": "Si un plan prévu aujourd'hui doit changer à cause d'elle, ajuste-toi sans rechigner ni faire remarquer le changement. La prochaine fois qu'un ajustement est nécessaire, fais preuve de la même flexibilité, sans qu'elle ait à s'en excuser.",
+    "effect": "S'ajuster sans rechigner à un changement de plan montre une flexibilité réelle plutôt qu'une tolérance affichée mais réticente. Répéter cette flexibilité la prochaine fois confirme qu'elle n'a jamais à craindre de devoir s'excuser pour un changement nécessaire.",
+    "sectionTitle": "La flexibilité mise à l'épreuve",
+    "predictable": "L'ajustement à un changement de plan s'accompagne souvent d'une réticence visible, rarement démontré comme une vraie flexibilité répétée",
+    "themes": [
+      "Flexibilité",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ajuste-toi sans rechigner ni faire remarquer le changement à voix haute.",
+      "La prochaine fois, fais preuve de la même flexibilité, sans qu'elle ait à s'excuser."
+    ]
+  },
+  {
+    "actionTitle": "L'habitude assouplie pour elle",
+    "text": "Assouplis aujourd'hui une de tes habitudes personnelles pour mieux correspondre à ce qu'elle préfère. La semaine suivante, maintiens cet assouplissement, pour prouver que ce n'était pas un effort ponctuel.",
+    "effect": "Assouplir une habitude personnelle pour elle montre une flexibilité concrète plutôt qu'une simple déclaration d'ouverture. Maintenir cet assouplissement la semaine suivante confirme un changement réel et durable, pas un geste isolé vite abandonné.",
+    "sectionTitle": "La flexibilité mise à l'épreuve",
+    "predictable": "L'assouplissement d'une habitude personnelle pour l'autre est rarement maintenu au-delà d'un geste ponctuel isolé",
+    "themes": [
+      "Flexibilité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Assouplis vraiment cette habitude, pas juste en apparence pour aujourd'hui.",
+      "La semaine suivante, maintiens cet assouplissement, pour prouver que ce n'était pas ponctuel."
+    ]
+  },
+  {
+    "actionTitle": "Le désaccord résolu avec souplesse",
+    "text": "Lors d'un désaccord aujourd'hui, montre-toi ouvert à ajuster ta position si ses arguments sont bons. La prochaine fois qu'un désaccord survient, garde cette même ouverture, sans t'accrocher par principe à ta position initiale.",
+    "effect": "Se montrer ouvert à ajuster sa position, face à de bons arguments, prouve une flexibilité intellectuelle réelle plutôt qu'un entêtement caché. Maintenir cette ouverture au prochain désaccord confirme que cette flexibilité est un vrai principe, pas une exception ponctuelle.",
+    "sectionTitle": "La flexibilité mise à l'épreuve",
+    "predictable": "L'ouverture à ajuster sa position lors d'un désaccord est rarement maintenue de façon constante à travers plusieurs désaccords",
+    "themes": [
+      "Flexibilité",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Montre-toi vraiment ouvert à ajuster ta position si ses arguments sont bons.",
+      "Au prochain désaccord, garde cette même ouverture, sans t'accrocher par principe."
+    ]
+  },
+  {
+    "actionTitle": "Le programme du soir laissé ouvert",
+    "text": "Ce soir, laisse le programme complètement ouvert et adapte-toi à ce qu'elle a envie de faire, sans résistance. La prochaine fois que l'occasion se présente, fais preuve de la même flexibilité, sans imposer subtilement tes préférences.",
+    "effect": "Laisser le programme ouvert et s'adapter sans résistance montre une flexibilité réelle plutôt qu'une fausse ouverture qui cache une préférence. Répéter ce comportement confirme que cette flexibilité est authentique et pas seulement performée occasionnellement.",
+    "sectionTitle": "La flexibilité mise à l'épreuve",
+    "predictable": "L'adaptation complète et sans résistance aux envies de l'autre est rarement démontrée à plusieurs reprises de façon constante",
+    "themes": [
+      "Flexibilité",
+      "Générosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Adapte-toi vraiment sans résistance, sans imposer subtilement tes préférences.",
+      "La prochaine fois, fais preuve de la même flexibilité, sans reprendre le contrôle."
+    ]
+  },
+  {
+    "actionTitle": "Le compromis proposé en premier",
+    "text": "Sur une tension actuelle, propose toi-même un compromis flexible aujourd'hui, avant qu'elle n'ait à le demander. La prochaine tension similaire, propose à nouveau un compromis en premier, pour que ce réflexe devienne une vraie habitude.",
+    "effect": "Proposer un compromis flexible en premier, avant d'y être poussé, montre une flexibilité proactive plutôt que réactive et contrainte. Répéter ce réflexe lors d'une prochaine tension confirme une vraie habitude de flexibilité, pas un geste isolé fait sous pression.",
+    "sectionTitle": "La flexibilité mise à l'épreuve",
+    "predictable": "Les compromis flexibles sont généralement proposés après être demandés, rarement offerts proactivement à plusieurs reprises",
+    "themes": [
+      "Flexibilité",
+      "Initiative"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Propose toi-même un compromis, avant qu'elle n'ait à le demander.",
+      "À la prochaine tension similaire, propose à nouveau un compromis en premier."
+    ]
+  },
+  {
+    "actionTitle": "La bienveillance dans un moment de faiblesse",
+    "text": "Si elle se montre vulnérable ou faible aujourd'hui sur quelque chose, réponds avec une bienveillance totale, sans aucun jugement. La prochaine fois qu'elle se montre vulnérable, réponds encore avec cette même bienveillance, pour qu'elle sache qu'elle peut toujours compter dessus.",
+    "effect": "Répondre avec bienveillance totale à un moment de vulnérabilité, sans jugement, crée un espace sûr rarement garanti de façon constante. Répéter cette bienveillance la prochaine fois confirme qu'elle peut compter sur cet accueil, quelle que soit la vulnérabilité montrée.",
+    "sectionTitle": "La bienveillance en deux temps",
+    "predictable": "La bienveillance sans jugement face à la vulnérabilité est rarement démontrée de façon constante à plusieurs occasions différentes",
+    "themes": [
+      "Bienveillance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Réponds avec une bienveillance totale, sans aucun jugement de ta part.",
+      "La prochaine fois qu'elle se montre vulnérable, réponds encore avec cette même bienveillance."
+    ]
+  },
+  {
+    "actionTitle": "La bienveillance envers ses erreurs",
+    "text": "Si elle fait une erreur aujourd'hui, réponds avec bienveillance plutôt qu'avec reproche, même léger. La prochaine erreur qu'elle fait, réponds encore avec cette même bienveillance, sans qu'un pattern de reproche ne s'installe.",
+    "effect": "Répondre avec bienveillance à une erreur, plutôt qu'avec un reproche même léger, crée un espace de sécurité pour l'imperfection. Maintenir cette bienveillance à la prochaine erreur empêche l'installation d'un pattern de reproche qui s'accumulerait avec le temps.",
+    "sectionTitle": "La bienveillance en deux temps",
+    "predictable": "La bienveillance face aux erreurs est rarement maintenue de façon constante plutôt que de dériver vers un léger reproche",
+    "themes": [
+      "Bienveillance",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Réponds avec bienveillance plutôt qu'avec reproche, même léger ou subtil.",
+      "À la prochaine erreur, réponds encore avec cette même bienveillance, sans reproche."
+    ]
+  },
+  {
+    "actionTitle": "La bienveillance envers elle-même encouragée",
+    "text": "Aujourd'hui, encourage-la à être bienveillante envers elle-même sur quelque chose qu'elle se reproche. Dans les jours qui suivent, redemande-lui si elle a réussi à être un peu plus bienveillante avec elle-même sur ce point.",
+    "effect": "Encourager sa bienveillance envers elle-même l'aide à adoucir une critique interne qu'elle s'inflige souvent seule. Redemander dans les jours qui suivent transforme cet encouragement en accompagnement suivi plutôt qu'un conseil donné une fois et oublié.",
+    "sectionTitle": "La bienveillance en deux temps",
+    "predictable": "L'encouragement à la bienveillance envers soi-même est rarement suivi d'un vrai retour quelques jours plus tard",
+    "themes": [
+      "Bienveillance",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Encourage-la sincèrement à être bienveillante envers elle-même sur ce point.",
+      "Dans les jours qui suivent, redemande-lui si elle a réussi à être plus bienveillante avec elle-même."
+    ]
+  },
+  {
+    "actionTitle": "La bienveillance dans le ton d'une remarque",
+    "text": "Si tu dois faire une remarque aujourd'hui, choisis consciemment un ton bienveillant plutôt que sec. La prochaine fois qu'une remarque est nécessaire, garde ce même ton bienveillant, pour que ce soit une vraie habitude de communication.",
+    "effect": "Choisir un ton bienveillant pour une remarque nécessaire, plutôt qu'un ton sec, adoucit le message sans en diluer le contenu. Maintenir ce ton à la prochaine remarque confirme un vrai changement dans la façon de communiquer, pas un effort ponctuel isolé.",
+    "sectionTitle": "La bienveillance en deux temps",
+    "predictable": "Le ton bienveillant dans une remarque nécessaire est rarement maintenu de façon constante à travers plusieurs occasions",
+    "themes": [
+      "Bienveillance",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis consciemment un ton bienveillant plutôt que sec pour cette remarque.",
+      "La prochaine fois qu'une remarque est nécessaire, garde ce même ton bienveillant."
+    ]
+  },
+  {
+    "actionTitle": "La bienveillance offerte à un inconnu ensemble",
+    "text": "Faites ensemble aujourd'hui un geste bienveillant envers quelqu'un que vous ne connaissez pas. La prochaine fois que l'occasion se présente, refaites ensemble un geste bienveillant similaire envers un inconnu.",
+    "effect": "Faire un geste bienveillant ensemble envers un inconnu renforce le sentiment d'équipe autour d'une valeur commune de générosité. Répéter ce type de geste confirme que la bienveillance envers les autres est une valeur partagée et pratiquée, pas un acte isolé.",
+    "sectionTitle": "La bienveillance en deux temps",
+    "predictable": "Les gestes bienveillants envers des inconnus faits ensemble sont rarement répétés à plusieurs occasions différentes",
+    "themes": [
+      "Bienveillance",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Faites ensemble un vrai geste bienveillant envers quelqu'un que vous ne connaissez pas.",
+      "La prochaine occasion, refaites ensemble un geste bienveillant similaire envers un inconnu."
+    ]
+  },
+  {
+    "actionTitle": "Le tout petit rituel lancé aujourd'hui",
+    "text": "Lancez aujourd'hui un tout petit rituel simple à faire ensemble, quelque chose de facile à répéter. Refaites ce même rituel dans une semaine, exactement pareil, pour voir s'il commence à s'installer naturellement.",
+    "effect": "Lancer un petit rituel simple, plutôt qu'un grand projet compliqué, augmente les chances qu'il tienne vraiment dans la durée. Le refaire une semaine après, à l'identique, permet de voir s'il commence réellement à s'installer comme une habitude naturelle.",
+    "sectionTitle": "Le rituel qui s'installe",
+    "predictable": "Les petits rituels simples sont rarement lancés puis vérifiés une semaine après pour voir s'ils s'installent vraiment",
+    "themes": [
+      "Rituel",
+      "Régularité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez quelque chose de vraiment simple et facile à répéter sans effort.",
+      "Dans une semaine, refaites ce même rituel exactement pareil, pour voir s'il s'installe."
+    ]
+  },
+  {
+    "actionTitle": "Le rituel du retour à la maison",
+    "text": "Instaurez aujourd'hui un petit rituel précis pour le moment où l'un de vous rentre à la maison. Maintenez ce même rituel toute la semaine, pour voir s'il devient un vrai repère dans votre quotidien.",
+    "effect": "Instaurer un rituel précis pour le moment des retrouvailles quotidiennes transforme un instant banal en repère affectif attendu. Le maintenir toute la semaine permet de voir s'il devient un vrai repère fiable plutôt qu'une idée abandonnée après un ou deux essais.",
+    "sectionTitle": "Le rituel qui s'installe",
+    "predictable": "Les rituels liés au retour à la maison sont rarement maintenus sur une semaine entière pour devenir un vrai repère",
+    "themes": [
+      "Rituel",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Instaurez quelque chose de précis, pas juste une vague intention de bien accueillir.",
+      "Maintenez ce même rituel toute la semaine, pour voir s'il devient un vrai repère."
+    ]
+  },
+  {
+    "actionTitle": "Le rituel du dimanche soir lancé",
+    "text": "Ce dimanche soir, lancez un petit rituel simple pour clôturer la semaine ensemble, calmement. Refaites ce même rituel le dimanche suivant, pour voir s'il commence à devenir une vraie tradition entre vous.",
+    "effect": "Lancer un rituel de clôture de semaine, le dimanche soir, offre une transition douce entre la semaine passée et celle à venir. Le refaire le dimanche suivant permet de vérifier s'il devient une vraie tradition plutôt qu'une bonne idée jamais reconduite.",
+    "sectionTitle": "Le rituel qui s'installe",
+    "predictable": "Les rituels de fin de semaine sont rarement lancés puis reconduits le dimanche suivant pour devenir une vraie tradition",
+    "themes": [
+      "Rituel",
+      "Continuité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Lancez quelque chose de calme et simple pour clôturer la semaine ensemble.",
+      "Le dimanche suivant, refaites ce même rituel, pour voir s'il devient une vraie tradition."
+    ]
+  },
+  {
+    "actionTitle": "Le rituel du compliment matinal",
+    "text": "Instaurez aujourd'hui un rituel où chacun complimente l'autre chaque matin, même brièvement. Maintenez ce rituel pendant une semaine complète, pour voir comment il change la tonalité de vos matins.",
+    "effect": "Instaurer un rituel de compliment matinal, même bref, installe une habitude de reconnaissance quotidienne rarement pratiquée de façon systématique. Le maintenir une semaine complète permet d'observer concrètement son effet sur la tonalité générale des matins partagés.",
+    "sectionTitle": "Le rituel qui s'installe",
+    "predictable": "Les rituels de compliment matinal sont rarement maintenus sur une semaine complète pour en observer l'effet réel",
+    "themes": [
+      "Rituel",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Instaurez-le vraiment chaque matin, même très brièvement au début.",
+      "Maintenez-le une semaine complète, pour voir comment ça change la tonalité de vos matins."
+    ]
+  },
+  {
+    "actionTitle": "Le rituel du dernier mot avant de dormir",
+    "text": "Instaurez ce soir un petit rituel de dernier mot précis avant de dormir, toujours le même genre de mot. Gardez ce même rituel plusieurs soirs de suite, pour voir s'il devient un vrai repère apaisant avant le sommeil.",
+    "effect": "Instaurer un rituel précis de dernier mot avant de dormir crée un point de clôture rassurant à chaque journée, quel que soit son déroulement. Le maintenir plusieurs soirs de suite permet de vérifier s'il devient un vrai repère apaisant plutôt qu'une idée abandonnée rapidement.",
+    "sectionTitle": "Le rituel qui s'installe",
+    "predictable": "Les rituels de dernier mot avant de dormir sont rarement maintenus plusieurs soirs de suite pour devenir un vrai repère",
+    "themes": [
+      "Rituel",
+      "Douceur"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisissez toujours le même genre de mot, pour que ce soit reconnaissable.",
+      "Gardez ce même rituel plusieurs soirs de suite, pour voir s'il devient un vrai repère."
+    ]
+  },
+  {
+    "actionTitle": "La vulnérabilité partagée en premier",
+    "text": "Partage aujourd'hui quelque chose de vulnérable sur toi-même, en prenant les devants avant qu'elle n'ait à le demander. Dans les jours qui suivent, vérifie avec elle comment elle a reçu cette vulnérabilité partagée.",
+    "effect": "Partager une vulnérabilité en prenant les devants montre un courage qui invite naturellement à la réciprocité plutôt que de l'exiger. Vérifier ensuite comment elle a reçu ce partage transforme un moment isolé en vraie conversation suivie sur l'intimité émotionnelle.",
+    "sectionTitle": "La vulnérabilité partagée, puis accueillie",
+    "predictable": "La vulnérabilité partagée en prenant les devants est rarement suivie d'une vraie vérification sur la façon dont elle a été reçue",
+    "themes": [
+      "Vulnérabilité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prends vraiment les devants, sans attendre qu'elle demande quoi que ce soit.",
+      "Dans les jours qui suivent, vérifie comment elle a reçu cette vulnérabilité partagée."
+    ]
+  },
+  {
+    "actionTitle": "La peur nommée à voix haute",
+    "text": "Nomme à voix haute aujourd'hui une peur que tu ressens, sans la minimiser ni la tourner en blague. Quelques jours après, reviens sur cette même peur pour voir si en parler a changé quelque chose à la façon dont tu la vis.",
+    "effect": "Nommer une peur sans la minimiser, ni la couvrir d'humour défensif, montre une vulnérabilité authentique rarement exprimée aussi directement. Revenir dessus quelques jours après transforme l'aveu initial en vraie exploration suivie, plutôt qu'une confession isolée jamais rediscutée.",
+    "sectionTitle": "La vulnérabilité partagée, puis accueillie",
+    "predictable": "Les peurs nommées à voix haute sont rarement suivies d'un retour quelques jours après pour voir si ça a changé quelque chose",
+    "themes": [
+      "Vulnérabilité",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Nomme-la sans la minimiser ni la tourner en blague pour l'atténuer.",
+      "Quelques jours après, reviens dessus pour voir si en parler a changé quelque chose."
+    ]
+  },
+  {
+    "actionTitle": "L'incertitude partagée sur l'avenir",
+    "text": "Partage aujourd'hui une incertitude honnête que tu ressens sur un aspect de votre avenir commun. Une semaine après, redemande-lui si elle a des pensées à partager sur cette même incertitude depuis que vous en avez parlé.",
+    "effect": "Partager une incertitude honnête sur l'avenir, plutôt que de projeter une confiance forcée, ouvre un espace de vulnérabilité rarement offert sur ce sujet précis. Redemander une semaine après invite à une réflexion partagée continue plutôt qu'une confession isolée jamais reprise.",
+    "sectionTitle": "La vulnérabilité partagée, puis accueillie",
+    "predictable": "Les incertitudes honnêtes sur l'avenir commun sont rarement suivies d'un retour une semaine après pour approfondir la réflexion",
+    "themes": [
+      "Vulnérabilité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Partage une incertitude vraiment honnête, pas une version rassurante édulcorée.",
+      "Une semaine après, redemande-lui si elle a des pensées à partager depuis."
+    ]
+  },
+  {
+    "actionTitle": "Le besoin d'aide admis ouvertement",
+    "text": "Admets ouvertement aujourd'hui que tu as besoin d'aide sur quelque chose, sans essayer de gérer ça tout seul. La prochaine fois que tu en as besoin, admets-le encore ouvertement, pour que ça devienne plus naturel avec le temps.",
+    "effect": "Admettre ouvertement un besoin d'aide, plutôt que de tout gérer seul en silence, montre une vulnérabilité rarement assumée aussi directement. Répéter cet aveu la prochaine fois confirme que demander de l'aide devient une vraie habitude plutôt qu'une exception ponctuelle et inconfortable.",
+    "sectionTitle": "La vulnérabilité partagée, puis accueillie",
+    "predictable": "L'admission ouverte d'un besoin d'aide est rarement répétée à plusieurs occasions pour devenir une vraie habitude naturelle",
+    "themes": [
+      "Vulnérabilité",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Admets-le vraiment ouvertement, sans essayer de minimiser le besoin d'aide.",
+      "La prochaine fois que tu en as besoin, admets-le encore ouvertement, sans hésiter."
+    ]
+  },
+  {
+    "actionTitle": "Le souvenir douloureux partagé",
+    "text": "Partage aujourd'hui, si tu en as envie, un souvenir un peu douloureux de ton passé que tu n'as jamais vraiment raconté. Quelques jours après, demande-lui ce que ce partage a changé dans sa façon de te voir, honnêtement.",
+    "effect": "Partager un souvenir douloureux jamais raconté ouvre l'accès à une part intime de son histoire rarement révélée aussi directement. Demander ensuite l'effet de ce partage sur sa perception transforme la confession en vraie conversation suivie plutôt qu'un aveu isolé.",
+    "sectionTitle": "La vulnérabilité partagée, puis accueillie",
+    "predictable": "Les souvenirs douloureux jamais racontés sont rarement suivis d'une question honnête sur l'effet réel de ce partage",
+    "themes": [
+      "Vulnérabilité",
+      "Intimité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Partage-le seulement si tu en as vraiment envie, sans te forcer.",
+      "Quelques jours après, demande-lui honnêtement ce que ce partage a changé pour elle."
+    ]
+  },
+  {
+    "actionTitle": "L'honnêteté sur un ressenti difficile",
+    "text": "Sois honnête aujourd'hui sur un ressenti difficile que tu as, plutôt que de le taire pour éviter un conflit. Quelques jours après, vérifie ensemble si cette honnêteté a effectivement amélioré la situation entre vous.",
+    "effect": "Être honnête sur un ressenti difficile, plutôt que de le taire, évite l'accumulation silencieuse de frustration non exprimée. Vérifier ensemble quelques jours après si ça a amélioré la situation transforme l'honnêteté en démarche suivie plutôt qu'un aveu isolé sans conséquence vérifiée.",
+    "sectionTitle": "L'honnêteté suivie d'effet",
+    "predictable": "L'honnêteté sur un ressenti difficile est rarement suivie d'une vérification explicite de son effet réel sur la situation",
+    "themes": [
+      "Honnêteté",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois honnête même si c'est inconfortable, plutôt que de le taire pour éviter un conflit.",
+      "Quelques jours après, vérifiez ensemble si cette honnêteté a amélioré la situation."
+    ]
+  },
+  {
+    "actionTitle": "L'honnêteté sur une erreur commise",
+    "text": "Sois honnête aujourd'hui sur une erreur que tu as commise, sans minimiser ni te trouver d'excuses. La semaine suivante, montre-lui concrètement ce que tu as fait différemment depuis cette honnêteté.",
+    "effect": "Être honnête sur une erreur, sans minimiser ni se trouver d'excuses, montre une intégrité rarement démontrée aussi frontalement. Montrer un changement concret la semaine suivante prouve que l'honnêteté a mené à une vraie évolution, pas juste des mots sans suite.",
+    "sectionTitle": "L'honnêteté suivie d'effet",
+    "predictable": "L'honnêteté sur une erreur commise est rarement suivie d'une démonstration concrète de changement la semaine suivante",
+    "themes": [
+      "Honnêteté",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois honnête sans minimiser ni te trouver d'excuses pour cette erreur.",
+      "La semaine suivante, montre-lui concrètement ce que tu as fait différemment depuis."
+    ]
+  },
+  {
+    "actionTitle": "L'honnêteté sur une envie non dite",
+    "text": "Exprime aujourd'hui honnêtement une envie que tu n'as jamais vraiment exprimée jusqu'ici. Quelques jours après, vérifie ensemble comment cette honnêteté a été accueillie et si elle a changé quelque chose entre vous.",
+    "effect": "Exprimer honnêtement une envie jamais dite ouvre un espace de sincérité rarement exploré sur des sujets restés implicites. Vérifier ensuite comment ça a été accueilli transforme l'aveu en vraie conversation suivie plutôt qu'une confession isolée sans retour.",
+    "sectionTitle": "L'honnêteté suivie d'effet",
+    "predictable": "Les envies jamais exprimées honnêtement sont rarement suivies d'une vérification sur la façon dont l'honnêteté a été accueillie",
+    "themes": [
+      "Honnêteté",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Exprime-la vraiment honnêtement, sans l'atténuer pour la rendre plus acceptable.",
+      "Quelques jours après, vérifiez ensemble comment cette honnêteté a été accueillie."
+    ]
+  },
+  {
+    "actionTitle": "L'honnêteté sur ce qui ne va pas dans la routine",
+    "text": "Sois honnête aujourd'hui sur un aspect de votre routine commune qui ne te convient plus vraiment. La semaine suivante, vérifiez ensemble si un ajustement concret a été fait suite à cette honnêteté.",
+    "effect": "Être honnête sur un aspect de la routine qui ne convient plus évite l'accumulation silencieuse d'une insatisfaction non exprimée. Vérifier ensemble si un ajustement concret a suivi transforme l'honnêteté en changement réel plutôt qu'une remarque isolée sans conséquence.",
+    "sectionTitle": "L'honnêteté suivie d'effet",
+    "predictable": "L'honnêteté sur un aspect insatisfaisant de la routine est rarement suivie d'une vérification sur l'ajustement concret qui en découle",
+    "themes": [
+      "Honnêteté",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois honnête même si ça remet en question une habitude bien installée.",
+      "La semaine suivante, vérifiez ensemble si un ajustement concret a été fait."
+    ]
+  },
+  {
+    "actionTitle": "L'honnêteté sur un besoin de solitude",
+    "text": "Exprime aujourd'hui honnêtement, si c'est le cas, un besoin de temps seul, sans culpabiliser ni t'excuser excessivement. La prochaine fois que ce besoin revient, exprime-le encore honnêtement, pour que ce soit accepté naturellement entre vous.",
+    "effect": "Exprimer honnêtement un besoin de solitude, sans culpabilité excessive, normalise un besoin souvent tu par peur de blesser l'autre. Répéter cette honnêteté la prochaine fois confirme que ce besoin est accepté naturellement, pas juste toléré exceptionnellement une fois.",
+    "sectionTitle": "L'honnêteté suivie d'effet",
+    "predictable": "Le besoin de solitude est rarement exprimé honnêtement à plusieurs reprises pour qu'il devienne naturellement accepté entre les deux",
+    "themes": [
+      "Honnêteté",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Exprime-le honnêtement sans culpabiliser ni t'excuser excessivement pour ça.",
+      "La prochaine fois que ce besoin revient, exprime-le encore honnêtement, sans hésiter."
+    ]
+  },
+  {
+    "actionTitle": "Le moment sensoriel ralenti",
+    "text": "Aujourd'hui, prenez un moment ensemble pour ralentir et prêter attention consciemment à une sensation partagée, un goût, une texture, une odeur. Refaites cet exercice sensoriel une semaine après, avec une sensation différente cette fois.",
+    "effect": "Ralentir consciemment pour prêter attention à une sensation partagée transforme un moment ordinaire en expérience sensorielle pleinement vécue. Répéter l'exercice une semaine après, avec une sensation différente, installe une pratique régulière plutôt qu'un moment isolé et non reconduit.",
+    "sectionTitle": "Le moment sensoriel prolongé",
+    "predictable": "Les moments sensoriels ralentis et pleinement vécus sont rarement répétés une semaine après avec une sensation différente",
+    "themes": [
+      "Sensorialité",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ralentissez vraiment et prêtez une attention pleine à la sensation choisie.",
+      "Une semaine après, refaites cet exercice avec une sensation différente cette fois."
+    ]
+  },
+  {
+    "actionTitle": "Le contact physique prolongé sans autre but",
+    "text": "Aujourd'hui, prenez un moment de contact physique prolongé, sans autre but que la sensation elle-même. Refaites ce même type de moment plus tard dans la semaine, en variant légèrement la nature du contact.",
+    "effect": "Prendre un moment de contact physique prolongé, sans autre but que la sensation elle-même, valorise le toucher pour lui-même plutôt que comme prélude à autre chose. Le refaire plus tard dans la semaine, avec une variation, installe une pratique régulière de connexion sensorielle plutôt qu'un moment isolé.",
+    "sectionTitle": "Le moment sensoriel prolongé",
+    "predictable": "Le contact physique prolongé sans autre but que la sensation elle-même est rarement répété plusieurs fois dans la semaine",
+    "themes": [
+      "Sensorialité",
+      "Intimité"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 2,
+    "variations": [
+      "Prenez vraiment le temps, sans que ça mène ailleurs, juste pour la sensation.",
+      "Plus tard dans la semaine, refaites ce même type de moment, en variant légèrement le contact."
+    ]
+  },
+  {
+    "actionTitle": "Le repas dégusté en pleine conscience",
+    "text": "Ce soir, mangez un repas ensemble en pleine conscience, en savourant vraiment chaque texture et chaque saveur, sans distraction. Refaites cet exercice une fois dans la semaine, pour voir si ça change votre rapport habituel aux repas.",
+    "effect": "Manger en pleine conscience, en savourant vraiment les textures et saveurs, transforme un repas ordinaire en expérience sensorielle riche plutôt qu'automatique. Répéter l'exercice une fois dans la semaine permet d'observer un changement réel dans le rapport habituel aux repas partagés.",
+    "sectionTitle": "Le moment sensoriel prolongé",
+    "predictable": "Les repas mangés en pleine conscience, sans distraction, sont rarement répétés plusieurs fois dans la semaine pour en observer l'effet",
+    "themes": [
+      "Sensorialité",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Éliminez vraiment toute distraction, écrans compris, pour ce repas.",
+      "Refaites cet exercice une fois dans la semaine, pour observer si ça change votre rapport aux repas."
+    ]
+  },
+  {
+    "actionTitle": "Le parfum ou l'odeur remarqué ensemble",
+    "text": "Aujourd'hui, prenez un moment pour remarquer consciemment ensemble une odeur agréable dans votre environnement. La semaine suivante, refaites cet exercice avec une odeur différente, pour cultiver l'attention sensorielle partagée.",
+    "effect": "Remarquer consciemment ensemble une odeur agréable entraîne l'attention à un sens souvent négligé dans le quotidien partagé. Répéter l'exercice la semaine suivante avec une odeur différente cultive une vraie habitude d'attention sensorielle plutôt qu'un moment isolé.",
+    "sectionTitle": "Le moment sensoriel prolongé",
+    "predictable": "L'attention consciente portée ensemble à une odeur agréable est rarement répétée la semaine suivante avec une odeur différente",
+    "themes": [
+      "Sensorialité",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prenez vraiment le temps de remarquer consciemment cette odeur ensemble.",
+      "La semaine suivante, refaites cet exercice avec une odeur différente cette fois."
+    ]
+  },
+  {
+    "actionTitle": "La texture explorée à l'aveugle",
+    "text": "Un soir, explorez ensemble à l'aveugle une texture inhabituelle, juste pour la sensation du toucher. Refaites cet exercice avec une texture différente une autre fois dans le mois, pour continuer à cultiver cette attention sensorielle.",
+    "effect": "Explorer une texture inhabituelle à l'aveugle intensifie l'attention portée au toucher en retirant temporairement le repère visuel habituel. Répéter l'exercice avec une texture différente dans le mois cultive une vraie pratique d'exploration sensorielle plutôt qu'un moment isolé et non reconduit.",
+    "sectionTitle": "Le moment sensoriel prolongé",
+    "predictable": "L'exploration à l'aveugle d'une texture inhabituelle est rarement répétée avec une texture différente plus tard dans le mois",
+    "themes": [
+      "Sensorialité",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 2,
+    "variations": [
+      "Bandez-vous les yeux à tour de rôle pour vraiment intensifier la sensation du toucher.",
+      "Une autre fois dans le mois, refaites cet exercice avec une texture complètement différente."
+    ]
+  },
+  {
+    "actionTitle": "Le contrôle lâché sur un petit détail",
+    "text": "Aujourd'hui, lâche volontairement le contrôle sur un petit détail que tu as l'habitude de gérer toi-même, et laisse-la décider. La prochaine fois que l'occasion se présente, lâche encore ce même contrôle, pour que ce soit une vraie habitude, pas une exception.",
+    "effect": "Lâcher volontairement le contrôle sur un petit détail habituellement géré seul montre une confiance réelle plutôt qu'une simple déclaration d'ouverture. Répéter ce lâcher-prise la prochaine fois confirme que c'est devenu une vraie habitude de confiance partagée, pas un geste isolé et ponctuel.",
+    "sectionTitle": "Le contrôle lâché, puis retrouvé",
+    "predictable": "Le contrôle sur un petit détail habituel est rarement lâché volontairement à plusieurs reprises pour devenir une vraie habitude",
+    "themes": [
+      "Contrôle",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Lâche vraiment le contrôle, sans reprendre la main en cours de route.",
+      "La prochaine occasion, lâche encore ce même contrôle, pour en faire une vraie habitude."
+    ]
+  },
+  {
+    "actionTitle": "Le contrôle repris consciemment sur soi-même",
+    "text": "Si tu remarques aujourd'hui une envie de contrôler une situation qui ne te concerne pas vraiment, reprends consciemment le contrôle sur toi-même à la place. La prochaine fois que cette envie survient, fais le même effort conscient de reprendre le contrôle sur toi plutôt que sur la situation.",
+    "effect": "Reprendre consciemment le contrôle sur soi-même, plutôt que sur une situation qui ne nous concerne pas, montre une maîtrise intérieure rarement exercée aussi délibérément. Répéter cet effort conscient confirme un vrai travail sur soi plutôt qu'une résistance ponctuelle isolée.",
+    "sectionTitle": "Le contrôle lâché, puis retrouvé",
+    "predictable": "Le contrôle repris consciemment sur soi-même, plutôt que sur la situation extérieure, est rarement pratiqué à plusieurs reprises",
+    "themes": [
+      "Contrôle",
+      "Self-awareness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reprends vraiment le contrôle sur toi-même, pas sur la situation extérieure.",
+      "La prochaine fois que cette envie survient, fais le même effort conscient sur toi."
+    ]
+  },
+  {
+    "actionTitle": "Le contrôle laissé sur une décision qui te concerne",
+    "text": "Sur une décision qui te concerne directement, laisse-la aujourd'hui avoir un vrai mot à dire, sans reprendre le contrôle final. La prochaine décision similaire qui te concerne, laisse-lui encore ce même contrôle partagé, sans reprendre la main à la fin.",
+    "effect": "Laisser un vrai contrôle partagé sur une décision qui te concerne directement, sans le reprendre à la fin, montre une confiance rarement accordée sur des sujets personnels. Répéter ce partage de contrôle confirme un vrai principe d'équité plutôt qu'une concession isolée et ponctuelle.",
+    "sectionTitle": "Le contrôle lâché, puis retrouvé",
+    "predictable": "Le contrôle partagé sur une décision qui concerne directement soi-même est rarement maintenu de façon constante",
+    "themes": [
+      "Contrôle",
+      "Équité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Laisse-lui un vrai mot à dire, sans reprendre le contrôle final à la fin.",
+      "La prochaine décision similaire, laisse-lui encore ce même contrôle partagé."
+    ]
+  },
+  {
+    "actionTitle": "Le contrôle sur le planning partagé",
+    "text": "Aujourd'hui, laisse-la organiser une partie du planning commun sans intervenir ni corriger ses choix. La semaine suivante, refais de même sur une autre partie du planning, pour que ce partage du contrôle devienne une vraie habitude.",
+    "effect": "Laisser organiser une partie du planning commun sans intervenir montre une confiance concrète dans sa capacité à gérer, plutôt qu'un contrôle habituel maintenu par réflexe. Répéter ce partage de contrôle la semaine suivante confirme une vraie évolution plutôt qu'une exception isolée.",
+    "sectionTitle": "Le contrôle lâché, puis retrouvé",
+    "predictable": "Le partage du contrôle sur le planning commun est rarement maintenu à plusieurs reprises pour devenir une vraie habitude",
+    "themes": [
+      "Contrôle",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Laisse-la organiser sans intervenir ni corriger ses choix cette fois.",
+      "La semaine suivante, refais de même sur une autre partie du planning commun."
+    ]
+  },
+  {
+    "actionTitle": "Le contrôle sur l'expression de ses émotions",
+    "text": "Aujourd'hui, si une émotion forte monte, prends un instant pour reprendre consciemment le contrôle sur la façon dont tu l'exprimes, plutôt que de la laisser sortir brute. La prochaine fois qu'une émotion forte monte, fais le même effort conscient, pour que ce soit un vrai réflexe chez toi.",
+    "effect": "Reprendre consciemment le contrôle sur l'expression d'une émotion forte, plutôt que de la laisser sortir brute, montre une maîtrise rarement exercée dans l'instant. Répéter cet effort la prochaine fois confirme un vrai réflexe de maîtrise émotionnelle plutôt qu'un contrôle exercé une seule fois par hasard.",
+    "sectionTitle": "Le contrôle lâché, puis retrouvé",
+    "predictable": "Le contrôle conscient sur l'expression d'une émotion forte est rarement pratiqué à plusieurs reprises pour devenir un vrai réflexe",
+    "themes": [
+      "Contrôle",
+      "Maîtrise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prends vraiment un instant pour reprendre le contrôle avant de t'exprimer.",
+      "La prochaine fois qu'une émotion forte monte, fais le même effort conscient."
+    ]
   }
 ]

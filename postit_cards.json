@@ -16017,5 +16017,855 @@
       "This zips shut easily, what I feel reflecting on us doesn't close that simply.",
       "Easy to zip shut, but reflecting on us doesn't close up that easily, keeps unfolding."
     ]
+  },
+  {
+    "actionTitle": "Dans le tiroir secret",
+    "text": "Ce que je ressens pour toi n'a pas besoin d'être montré à tout le monde pour être vrai, juste ici entre nous ça suffit.",
+    "effect": "Associer un lieu caché à une déclaration sur la sincérité discrète des sentiments renforce l'idée qu'un amour véritable n'a pas besoin d'être exposé publiquement pour compter. Elle découvre une déclaration intime, cachée dans un espace qui n'appartient qu'à vous deux, loin de tout regard extérieur.",
+    "sectionTitle": "Post-its - Tiroir secret",
+    "predictable": "Les espaces cachés du quotidien ne contiennent généralement pas de déclaration sur la sincérité discrète des sentiments",
+    "themes": [
+      "Discrétion",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que je ressens n'a pas besoin d'être montré à tout le monde, juste ici ça suffit.",
+      "Pas besoin que tout le monde le sache, entre nous ici, ça suffit amplement."
+    ]
+  },
+  {
+    "actionTitle": "Au fond du tiroir secret",
+    "text": "Ce petit mot restera caché ici jusqu'à ce que tu le trouves, comme tous les gestes que je fais sans le crier sur les toits.",
+    "effect": "Cacher un mot au fond d'un tiroir jusqu'à sa découverte reproduit fidèlement le principe même de la discrétion évoquée dans le texte. Elle tombe sur une déclaration qui célèbre justement l'idée de ne rien crier sur les toits, en cohérence parfaite avec sa cachette.",
+    "sectionTitle": "Post-its - Tiroir secret",
+    "predictable": "Les mots cachés au fond d'un tiroir ne font généralement pas explicitement référence à leur propre discrétion dans leur contenu",
+    "themes": [
+      "Discrétion",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce mot restera caché jusqu'à ce que tu le trouves, comme tous mes gestes discrets.",
+      "Caché ici jusqu'à ce que tu tombes dessus, comme tout ce que je fais sans le crier."
+    ]
+  },
+  {
+    "actionTitle": "Sous les papiers du tiroir secret",
+    "text": "Sous tous ces papiers, un petit mot pour te dire que ma discrétion n'est pas de la distance, juste ma façon d'aimer.",
+    "effect": "Préciser que la discrétion n'équivaut pas à une distance émotionnelle corrige une possible mauvaise interprétation de ce trait de caractère. Elle découvre une clarification rassurante sur le sens réel de ta discrétion, glissée sous des papiers qu'elle n'aurait pas explorés autrement.",
+    "sectionTitle": "Post-its - Tiroir secret",
+    "predictable": "Les mots cachés sous des papiers ne clarifient généralement pas explicitement le sens de la discrétion comme façon d'aimer",
+    "themes": [
+      "Discrétion",
+      "Clarté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ma discrétion n'est pas de la distance, juste ma façon d'aimer, sous ces papiers.",
+      "Sous ces papiers, ma discrétion n'est pas de la distance, juste ma façon d'aimer."
+    ]
+  },
+  {
+    "actionTitle": "Coincé dans le tiroir secret",
+    "text": "Petit rappel caché ici : je t'aime autant dans le silence que dans les grandes déclarations, peut-être même plus.",
+    "effect": "Affirmer que l'amour silencieux peut égaler ou dépasser les grandes déclarations valorise explicitement la discrétion comme mode d'expression à part entière. Elle découvre une réflexion sur l'intensité possible d'un amour vécu dans le silence, coincée dans un espace tout aussi discret.",
+    "sectionTitle": "Post-its - Tiroir secret",
+    "predictable": "Les objets cachés ne contiennent généralement pas de comparaison explicite entre l'amour silencieux et les grandes déclarations",
+    "themes": [
+      "Discrétion",
+      "Intensité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je t'aime autant dans le silence que dans les grandes déclarations, peut-être plus.",
+      "Autant dans le silence que dans les grandes déclarations, peut-être même plus encore."
+    ]
+  },
+  {
+    "actionTitle": "Tout au fond, sous les vieux papiers du tiroir",
+    "text": "Personne d'autre ne verra jamais ce mot, il n'existe que pour toi, ici, dans ce petit coin rien qu'à nous.",
+    "effect": "Souligner l'exclusivité totale d'un mot destiné à elle seule renforce l'idée que la discrétion protège un espace d'intimité qui n'appartient qu'à vous deux. Elle découvre un mot qui n'existera jamais pour personne d'autre, confirmant que cet espace caché est réellement réservé rien qu'à elle.",
+    "sectionTitle": "Post-its - Tiroir secret",
+    "predictable": "Les mots cachés dans un tiroir ne soulignent généralement pas explicitement leur exclusivité totale réservée à une seule personne",
+    "themes": [
+      "Discrétion",
+      "Exclusivité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Personne d'autre ne verra jamais ce mot, il n'existe que pour toi, ici.",
+      "N'existe que pour toi ce mot, personne d'autre ne le verra jamais, ici, rien qu'à nous."
+    ]
+  },
+  {
+    "actionTitle": "Dans le sac de sport",
+    "text": "Préparé la veille pour que ce matin soit plus simple pour toi, un petit effort de ma part pour t'en épargner un peu.",
+    "effect": "Révéler qu'un objet a été préparé à l'avance, spécifiquement pour lui simplifier la journée, transforme un geste invisible en preuve tangible d'anticipation. Elle découvre que sa matinée a été rendue plus facile grâce à une préparation silencieuse faite la veille, sans qu'elle ait eu à le demander.",
+    "sectionTitle": "Post-its - Sac de sport",
+    "predictable": "Les objets préparés à l'avance pour faciliter la journée ne révèlent généralement pas explicitement l'intention derrière cette préparation",
+    "themes": [
+      "Préparation",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Préparé la veille pour que ce matin soit plus simple pour toi.",
+      "Un petit effort la veille pour t'épargner un peu de préparation ce matin."
+    ]
+  },
+  {
+    "actionTitle": "Dans la poche du sac de sport",
+    "text": "Ai pensé à tout pour ta séance aujourd'hui, même ce petit détail que tu oublies souvent, je l'ai glissé ici.",
+    "effect": "Mentionner un détail précis, habituellement oublié, montre une attention qui va au-delà d'une préparation générale et générique. Elle découvre que ce petit oubli récurrent a été anticipé spécifiquement pour elle, preuve d'une attention fine à ses habitudes.",
+    "sectionTitle": "Post-its - Sac de sport",
+    "predictable": "Les objets glissés dans un sac de sport ne font généralement pas référence à un détail précis habituellement oublié",
+    "themes": [
+      "Préparation",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai pensé à tout, même ce petit détail que tu oublies souvent, glissé ici.",
+      "Même ce détail que tu oublies souvent, y ai pensé et glissé ici pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Sous la gourde du sac de sport",
+    "text": "Cette préparation, c'est ma façon de te dire que je pense à ta journée avant même qu'elle ne commence.",
+    "effect": "Relier explicitement un geste de préparation matérielle à une intention affective plus large élargit le sens du geste au-delà de sa fonction pratique. Elle découvre que cette préparation représente une pensée pour elle bien avant que sa journée n'ait réellement commencé.",
+    "sectionTitle": "Post-its - Sac de sport",
+    "predictable": "Les objets préparés à l'avance ne relient généralement pas explicitement le geste pratique à une intention affective plus large",
+    "themes": [
+      "Préparation",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "C'est ma façon de te dire que je pense à ta journée avant qu'elle ne commence.",
+      "Ma façon de penser à ta journée avant même qu'elle ne commence, cette préparation."
+    ]
+  },
+  {
+    "actionTitle": "Glissé dans la poche latérale du sac de sport",
+    "text": "Cette fois j'ai anticipé un peu plus que d'habitude, dis-moi si ça t'a vraiment servi ce soir.",
+    "effect": "Signaler un effort de préparation plus poussé que d'habitude, tout en invitant un retour, transforme le geste en démarche évaluée plutôt qu'un acquis silencieux. Elle a l'occasion de confirmer si cet effort supplémentaire a vraiment été utile, renforçant un dialogue autour de la préparation.",
+    "sectionTitle": "Post-its - Sac de sport",
+    "predictable": "Les efforts de préparation plus poussés que d'habitude ne sont généralement pas accompagnés d'une invitation explicite à donner un retour",
+    "themes": [
+      "Préparation",
+      "Écoute"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette fois ai anticipé un peu plus que d'habitude, dis-moi si ça t'a servi.",
+      "Ai anticipé un peu plus cette fois, dis-moi ce soir si ça t'a vraiment servi."
+    ]
+  },
+  {
+    "actionTitle": "Épinglé à l'intérieur du sac de sport",
+    "text": "Prendre soin de préparer tes affaires, c'est une façon silencieuse de te dire que je pense à toi souvent, même loin de toi.",
+    "effect": "Relier explicitement l'acte de préparation matérielle à une pensée affective constante élargit le sens du geste bien au-delà de son aspect purement pratique. Elle découvre que cette préparation répétée traduit une pensée continue pour elle, même dans les moments où vous n'êtes pas ensemble.",
+    "sectionTitle": "Post-its - Sac de sport",
+    "predictable": "Les objets préparés à l'avance ne relient généralement pas explicitement leur préparation régulière à une pensée affective constante",
+    "themes": [
+      "Préparation",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Préparer tes affaires, façon silencieuse de te dire que je pense à toi souvent.",
+      "C'est ma façon silencieuse de te dire que je pense à toi souvent, même loin."
+    ]
+  },
+  {
+    "actionTitle": "Glissé près de la bague",
+    "text": "Ce petit objet représente un engagement, mais la vraie fidélité se prouve tous les jours, pas seulement à travers un symbole.",
+    "effect": "Rappeler que la fidélité se construit au quotidien, au-delà du symbole représenté par un bijou, ancre l'engagement dans des actes concrets plutôt qu'un objet statique. Elle découvre une réflexion sincère sur le fait que ta fidélité ne repose pas uniquement sur un symbole, mais sur des preuves renouvelées chaque jour.",
+    "sectionTitle": "Post-its - Bague",
+    "predictable": "Les objets symboliques d'engagement ne contiennent généralement pas de réflexion sur la fidélité prouvée au quotidien au-delà du symbole",
+    "themes": [
+      "Fidélité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce symbole représente un engagement, mais la vraie fidélité se prouve tous les jours.",
+      "Un symbole ici, mais la vraie fidélité se prouve au quotidien, pas juste à travers ça."
+    ]
+  },
+  {
+    "actionTitle": "Dans l'écrin de la bague",
+    "text": "Chaque jour où je choisis à nouveau d'être fidèle, c'est un peu comme si je te la donnais une nouvelle fois.",
+    "effect": "Comparer le choix quotidien de rester fidèle à un renouvellement symbolique de l'engagement initial donne une dimension active et répétée à la fidélité. Elle découvre que chaque jour représente, à ta façon, un nouvel engagement pris envers elle, pas juste le souvenir d'un moment passé.",
+    "sectionTitle": "Post-its - Bague",
+    "predictable": "Les écrins contenant un symbole d'engagement ne contiennent généralement pas de comparaison avec un renouvellement quotidien de ce choix",
+    "themes": [
+      "Fidélité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Chaque jour où je choisis d'être fidèle, c'est comme si je te la donnais à nouveau.",
+      "Comme si je te la donnais une nouvelle fois, chaque jour où je reste fidèle."
+    ]
+  },
+  {
+    "actionTitle": "Sous la boîte contenant la bague",
+    "text": "Ce n'est pas l'objet qui prouve ma fidélité, ce sont tous les petits jours ordinaires où je choisis de rester.",
+    "effect": "Dissocier explicitement la valeur symbolique d'un objet de la vraie preuve quotidienne de fidélité recentre l'attention sur les actes plutôt que sur les symboles matériels. Elle découvre une réflexion qui relativise l'objet lui-même au profit des choix quotidiens qui construisent réellement la fidélité.",
+    "sectionTitle": "Post-its - Bague",
+    "predictable": "Les objets symboliques ne sont généralement pas accompagnés d'une réflexion qui relativise leur propre valeur symbolique",
+    "themes": [
+      "Fidélité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce n'est pas l'objet qui prouve ma fidélité, ce sont les jours où je choisis de rester.",
+      "Pas l'objet qui prouve ma fidélité, tous ces jours ordinaires où je choisis de rester."
+    ]
+  },
+  {
+    "actionTitle": "Glissé dans la boîte à bijoux près de la bague",
+    "text": "Repensant à notre engagement, je me rends compte que je le choisis encore plus fort aujourd'hui qu'au début.",
+    "effect": "Affirmer que l'engagement se renforce dans le temps, plutôt que de simplement se maintenir, valorise l'évolution positive de la fidélité au fil des années. Elle découvre une déclaration sur la croissance de ton engagement envers elle, pas juste sa simple continuité.",
+    "sectionTitle": "Post-its - Bague",
+    "predictable": "Les objets liés à l'engagement ne contiennent généralement pas de déclaration sur le renforcement de cet engagement dans le temps",
+    "themes": [
+      "Fidélité",
+      "Croissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je me rends compte que je choisis notre engagement encore plus fort qu'au début.",
+      "Notre engagement, je le choisis encore plus fort aujourd'hui qu'au tout début."
+    ]
+  },
+  {
+    "actionTitle": "Enroulé sous le coussin de l'écrin",
+    "text": "Même les jours où tout est banal et sans éclat, je reste fidèle à toi exactement de la même façon, sans exception.",
+    "effect": "Préciser que la fidélité ne varie pas même dans les jours ordinaires, sans éclat particulier, prouve sa constance indépendamment des circonstances vécues. Elle découvre une déclaration rassurante sur le fait que ta fidélité ne dépend jamais de l'intensité ou de la nature des jours vécus ensemble.",
+    "sectionTitle": "Post-its - Bague",
+    "predictable": "Les objets symboliques ne contiennent généralement pas de déclaration sur la constance de la fidélité même durant les jours ordinaires",
+    "themes": [
+      "Fidélité",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même les jours banals et sans éclat, je reste fidèle exactement de la même façon.",
+      "Reste fidèle exactement pareil même les jours les plus banals et sans éclat."
+    ]
+  },
+  {
+    "actionTitle": "Autour de l'élastique à cheveux",
+    "text": "Un bon élastique s'étire sans jamais casser, et j'essaie d'être aussi flexible que ça avec toi, sans jamais me rigidifier.",
+    "effect": "Comparer la souplesse mécanique d'un élastique à une aspiration personnelle de flexibilité relationnelle ajoute une image concrète et légère à un engagement plus abstrait. Elle découvre une déclaration sur ta volonté de rester souple et adaptable avec elle, comparée à un objet dont la fonction même est de s'étirer sans casser.",
+    "sectionTitle": "Post-its - Élastique à cheveux",
+    "predictable": "Les objets élastiques du quotidien ne contiennent généralement pas de comparaison explicite avec une aspiration personnelle de flexibilité relationnelle",
+    "themes": [
+      "Flexibilité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un bon élastique s'étire sans casser, j'essaie d'être aussi flexible avec toi.",
+      "S'étire sans jamais casser, comme j'essaie de rester flexible avec toi, toujours."
+    ]
+  },
+  {
+    "actionTitle": "Enroulé autour d'un mot glissé avec l'élastique",
+    "text": "Sache que je peux changer de plan à tout moment pour toi, sans que ça me coûte rien, vraiment.",
+    "effect": "Affirmer explicitement l'absence de coût émotionnel à changer de plan pour elle rassure sur la sincérité de la flexibilité proposée. Elle découvre une déclaration qui dissipe toute crainte de la déranger en changeant ses propres plans à ta demande.",
+    "sectionTitle": "Post-its - Élastique à cheveux",
+    "predictable": "Les petits objets élastiques ne contiennent généralement pas de déclaration explicite sur l'absence de coût à changer de plan",
+    "themes": [
+      "Flexibilité",
+      "Générosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je peux changer de plan à tout moment pour toi, sans que ça me coûte rien.",
+      "Sache que changer de plan pour toi ne me coûte rien, vraiment, à tout moment."
+    ]
+  },
+  {
+    "actionTitle": "Sous l'élastique à cheveux qui traîne",
+    "text": "Ce petit élastique se plie à toutes les formes, un peu comme moi j'essaie de me plier à ce que tu préfères.",
+    "effect": "Étendre la métaphore de l'élastique vers une déclaration explicite d'adaptabilité personnelle renforce le message de flexibilité par une image concrète et mémorable. Elle découvre une comparaison légère et affectueuse entre un objet du quotidien et ta propre volonté de t'adapter à elle.",
+    "sectionTitle": "Post-its - Élastique à cheveux",
+    "predictable": "Les élastiques à cheveux ne contiennent généralement pas de déclaration comparant leur souplesse à une volonté personnelle de s'adapter",
+    "themes": [
+      "Flexibilité",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce petit élastique se plie à toutes les formes, comme j'essaie de me plier à toi.",
+      "Se plie à toutes les formes, un peu comme j'essaie de me plier à ce que tu préfères."
+    ]
+  },
+  {
+    "actionTitle": "Coincé dans les cheveux avec l'élastique",
+    "text": "Repensant à la dernière fois où j'ai changé mes plans pour toi, aucun regret, je referais pareil sans hésiter.",
+    "effect": "Confirmer rétrospectivement l'absence de regret après un changement de plan passé renforce la sincérité de la flexibilité affichée à ce moment-là. Elle découvre que ce moment de souplesse n'était pas un sacrifice contraint mais un choix assumé et referait volontiers.",
+    "sectionTitle": "Post-its - Élastique à cheveux",
+    "predictable": "Les changements de plan passés ne sont généralement pas suivis d'une confirmation explicite de l'absence de regret",
+    "themes": [
+      "Flexibilité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Aucun regret d'avoir changé mes plans la dernière fois, je referais pareil.",
+      "Aucun regret pour la dernière fois où j'ai changé mes plans, referais pareil sans hésiter."
+    ]
+  },
+  {
+    "actionTitle": "Noué autour d'une mèche laissée sur la table",
+    "text": "Prêt à ajuster n'importe quoi pour toi cette semaine, dis-moi juste ce qui t'arrangerait le mieux, sincèrement.",
+    "effect": "Offrir explicitement une disponibilité totale à ajuster tout élément de la semaine, avant même qu'un besoin précis ne soit exprimé, montre une flexibilité proactive rare. Elle reçoit une invitation ouverte à exprimer ses préférences, sachant qu'elles seront accueillies sans résistance de ta part.",
+    "sectionTitle": "Post-its - Élastique à cheveux",
+    "predictable": "Les petits objets élastiques ne contiennent généralement pas d'offre explicite de disponibilité totale à ajuster la semaine à venir",
+    "themes": [
+      "Flexibilité",
+      "Disponibilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prêt à ajuster n'importe quoi pour toi cette semaine, dis-moi ce qui t'arrangerait.",
+      "Dis-moi juste ce qui t'arrangerait le mieux, prêt à tout ajuster pour toi, sincèrement."
+    ]
+  },
+  {
+    "actionTitle": "Sous le coussin",
+    "text": "Ce coussin amortit les chocs quand tu t'assois, et j'aimerais amortir un peu les tiens aussi, avec toute la bienveillance possible.",
+    "effect": "Étendre la fonction d'amortissement physique d'un coussin vers une intention de soutien émotionnel élargit son sens symbolique au-delà de sa fonction matérielle. Elle découvre une déclaration de bienveillance glissée dans un objet dont la fonction principale est justement d'adoucir les chocs et l'inconfort.",
+    "sectionTitle": "Post-its - Coussin",
+    "predictable": "Les objets de confort physique ne contiennent généralement pas de déclaration élargie sur l'intention de soutien émotionnel bienveillant",
+    "themes": [
+      "Bienveillance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce coussin amortit les chocs, j'aimerais amortir les tiens aussi avec bienveillance.",
+      "Amortit les chocs ici, j'essaie d'amortir les tiens aussi, avec toute ma bienveillance."
+    ]
+  },
+  {
+    "actionTitle": "Glissé dans la housse du coussin",
+    "text": "Peu importe la journée que tu as eue, sache que je reste doux avec toi, sans condition, toujours pareil.",
+    "effect": "Affirmer explicitement l'inconditionnalité de la bienveillance, indépendamment de la journée vécue, rassure sur sa constance même dans les moments difficiles. Elle découvre une promesse de douceur constante, glissée dans un objet lui-même associé au confort et à l'apaisement.",
+    "sectionTitle": "Post-its - Coussin",
+    "predictable": "Les objets de confort ne contiennent généralement pas de promesse explicite de bienveillance inconditionnelle indépendante des circonstances",
+    "themes": [
+      "Bienveillance",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe ta journée, je reste doux avec toi, sans condition, toujours pareil.",
+      "Sans condition, je reste doux avec toi peu importe la journée que tu as eue."
+    ]
+  },
+  {
+    "actionTitle": "Sous la taie du coussin",
+    "text": "Ce coussin est là pour ta tête quand elle est lourde, comme moi j'essaie d'être là quand tes pensées le sont aussi.",
+    "effect": "Comparer la fonction physique d'un coussin, soutenir une tête lourde, à un soutien émotionnel équivalent pour des pensées lourdes crée une image touchante et cohérente. Elle découvre une déclaration de présence émotionnelle, ancrée dans une métaphore simple et concrète liée à l'objet lui-même.",
+    "sectionTitle": "Post-its - Coussin",
+    "predictable": "Les coussins ne contiennent généralement pas de comparaison explicite entre leur fonction physique et un soutien émotionnel équivalent",
+    "themes": [
+      "Bienveillance",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce coussin est là pour ta tête lourde, comme j'essaie d'être là pour tes pensées lourdes.",
+      "Là pour ta tête quand elle est lourde, comme j'essaie de l'être pour tes pensées."
+    ]
+  },
+  {
+    "actionTitle": "Coincé entre le coussin et l'accoudoir",
+    "text": "Repensant à la semaine qu'on vient de passer, j'ai essayé d'être bienveillant même dans les moments tendus, dis-moi si ça s'est senti.",
+    "effect": "Faire le bilan d'un effort de bienveillance maintenu même dans des moments tendus, tout en demandant un retour, transforme l'intention en pratique évaluée. Elle a l'occasion de confirmer si cet effort de douceur, même sous tension, a vraiment été perceptible de son côté.",
+    "sectionTitle": "Post-its - Coussin",
+    "predictable": "Les efforts de bienveillance maintenus dans des moments tendus sont rarement suivis d'une demande explicite de retour",
+    "themes": [
+      "Bienveillance",
+      "Écoute"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai essayé d'être bienveillant même dans les moments tendus, dis-moi si ça s'est senti.",
+      "Même dans les moments tendus cette semaine, ai essayé d'être bienveillant, ça s'est senti ?"
+    ]
+  },
+  {
+    "actionTitle": "Glissé dans le coin du canapé, sous le coussin",
+    "text": "Si un jour tu te sens dure avec toi-même, viens ici t'asseoir, et laisse-moi être bienveillant pour deux.",
+    "effect": "Proposer explicitement de compenser un manque de bienveillance envers soi-même par une présence apaisante offre un refuge concret et localisé. Elle découvre une invitation tangible à venir chercher du réconfort à un endroit précis, associé directement à ce message bienveillant.",
+    "sectionTitle": "Post-its - Coussin",
+    "predictable": "Les objets de confort ne contiennent généralement pas d'invitation explicite à venir chercher du réconfort à cet endroit précis",
+    "themes": [
+      "Bienveillance",
+      "Refuge"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si tu te sens dure avec toi-même un jour, viens t'asseoir ici, je serai bienveillant pour deux.",
+      "Viens t'asseoir ici si tu te sens dure avec toi-même, je serai bienveillant pour nous deux."
+    ]
+  },
+  {
+    "actionTitle": "Sur le calendrier de l'avent",
+    "text": "Chaque petite case ouverte ici est un peu comme nos petits rituels à nous, une surprise attendue qui revient encore et encore.",
+    "effect": "Comparer l'anticipation ritualisée d'un calendrier de l'avent aux petits rituels partagés du quotidien ajoute une image festive et joyeuse à la notion de régularité. Elle perçoit vos habitudes partagées comme quelque chose d'aussi attendu et savouré qu'une petite case ouverte chaque jour, plutôt qu'une routine banale.",
+    "sectionTitle": "Post-its - Calendrier de l'avent",
+    "predictable": "Les objets liés à l'anticipation festive ne sont généralement pas comparés explicitement aux petits rituels partagés du quotidien",
+    "themes": [
+      "Rituel",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Chaque case ouverte ici, un peu comme nos petits rituels, une surprise attendue.",
+      "Comme ce calendrier, nos rituels sont une petite surprise attendue à chaque fois."
+    ]
+  },
+  {
+    "actionTitle": "Derrière une case du calendrier de l'avent",
+    "text": "Nos petites habitudes à nous, je ne m'en lasse jamais, même après toutes ces fois où on les a refaites.",
+    "effect": "Affirmer explicitement l'absence de lassitude malgré la répétition d'un rituel valorise sa régularité comme source de plaisir continu plutôt que de monotonie. Elle découvre une déclaration rassurante sur le fait que ces habitudes partagées gardent toute leur valeur malgré leur répétition.",
+    "sectionTitle": "Post-its - Calendrier de l'avent",
+    "predictable": "Les objets liés à l'anticipation ne contiennent généralement pas de déclaration explicite sur l'absence de lassitude face à la répétition",
+    "themes": [
+      "Rituel",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Nos petites habitudes, je ne m'en lasse jamais, même après toutes ces fois.",
+      "Ne m'en lasse jamais de nos petites habitudes, même refaites autant de fois."
+    ]
+  },
+  {
+    "actionTitle": "Glissé sous une case déjà ouverte du calendrier",
+    "text": "Repensant à tous nos petits rituels depuis le début, je crois qu'ils sont devenus un peu notre langage à nous.",
+    "effect": "Décrire les rituels partagés comme un véritable langage commun élève leur statut au-delà de simples habitudes vers une forme de communication intime unique. Elle découvre une réflexion sur la signification profonde que ces petits gestes répétés ont fini par prendre entre vous deux.",
+    "sectionTitle": "Post-its - Calendrier de l'avent",
+    "predictable": "Les rituels partagés ne sont généralement pas décrits explicitement comme un véritable langage commun développé au fil du temps",
+    "themes": [
+      "Rituel",
+      "Complicité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Nos petits rituels sont devenus un peu notre langage à nous, je crois.",
+      "Je crois que nos rituels sont devenus notre langage à nous, avec le temps."
+    ]
+  },
+  {
+    "actionTitle": "Caché derrière la dernière case du calendrier",
+    "text": "Et si on en inventait un nouveau ensemble, un rituel qui n'appartiendrait qu'à nous deux, comme celui-ci ?",
+    "effect": "Proposer d'inventer un nouveau rituel ensemble, en référence directe à l'objet festif qui contient le mot, invite à co-créer plutôt qu'à seulement observer une habitude existante. Elle a l'occasion de participer activement à la naissance d'un nouveau rituel, pas seulement d'y être conviée une fois établi.",
+    "sectionTitle": "Post-its - Calendrier de l'avent",
+    "predictable": "Les objets festifs contenant des surprises quotidiennes ne contiennent généralement pas d'invitation explicite à créer un nouveau rituel",
+    "themes": [
+      "Rituel",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Et si on en inventait un nouveau ensemble, un rituel qui n'appartiendrait qu'à nous ?",
+      "On pourrait en inventer un nouveau ensemble, rien qu'à nous deux, comme celui-ci ?"
+    ]
+  },
+  {
+    "actionTitle": "Scotché au dos du calendrier de l'avent",
+    "text": "Même quand l'un de nous oublie une fois, l'important c'est qu'on revienne toujours à nos petites habitudes après.",
+    "effect": "Rassurer sur le fait qu'un oubli ponctuel d'un rituel ne le compromet pas, tant qu'on y revient ensuite, allège la pression de la perfection dans la régularité. Elle découvre une tolérance bienveillante face aux imperfections possibles dans le maintien de vos rituels partagés.",
+    "sectionTitle": "Post-its - Calendrier de l'avent",
+    "predictable": "Les objets liés aux petites habitudes régulières ne contiennent généralement pas de message rassurant sur la tolérance face à un oubli ponctuel",
+    "themes": [
+      "Rituel",
+      "Bienveillance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même si l'un de nous oublie une fois, l'important c'est qu'on y revienne toujours après.",
+      "L'important c'est qu'on revienne toujours à nos habitudes, même après un oubli."
+    ]
+  },
+  {
+    "actionTitle": "Glissé dans le journal intime",
+    "text": "Ce que tu écris ici reste à toi, mais sache que je suis toujours prêt à accueillir ce que tu voudrais un jour partager avec moi.",
+    "effect": "Respecter la nature privée d'un journal intime tout en offrant une disponibilité ouverte à un partage futur équilibre respect de l'intimité et invitation à la vulnérabilité. Elle découvre une offre sincère d'écoute sans aucune pression, glissée dans un espace normalement réservé à ses pensées les plus privées.",
+    "sectionTitle": "Post-its - Journal intime",
+    "predictable": "Les objets liés à l'expression privée ne contiennent généralement pas d'offre explicite d'écoute ouverte pour un partage futur éventuel",
+    "themes": [
+      "Vulnérabilité",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que tu écris reste à toi, toujours prêt à accueillir ce que tu voudrais partager.",
+      "Reste à toi ce que tu écris ici, prêt à écouter si un jour tu veux partager."
+    ]
+  },
+  {
+    "actionTitle": "Entre deux pages du journal intime",
+    "text": "Moi aussi j'ai des pages que je n'ose pas toujours ouvrir à voix haute, on est pareils sur ce point-là.",
+    "effect": "Révéler une vulnérabilité personnelle équivalente, en écho au journal intime, crée une réciprocité qui normalise le fait d'avoir des pensées difficiles à exprimer. Elle découvre que sa propre difficulté à s'ouvrir trouve un écho sincère chez toi, plutôt qu'une différence qu'elle vivrait seule.",
+    "sectionTitle": "Post-its - Journal intime",
+    "predictable": "Les objets liés à l'expression privée ne contiennent généralement pas d'aveu réciproque d'une vulnérabilité équivalente de ta part",
+    "themes": [
+      "Vulnérabilité",
+      "Réciprocité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Moi aussi j'ai des pages que je n'ose pas toujours ouvrir à voix haute.",
+      "On est pareils, j'ai aussi des pages que je n'ose pas toujours ouvrir à voix haute."
+    ]
+  },
+  {
+    "actionTitle": "Sous la couverture du journal intime",
+    "text": "Le jour où tu voudras me lire une seule ligne de tout ça, je promets d'écouter sans aucun jugement, jamais.",
+    "effect": "Promettre explicitement une écoute sans jugement, en cas de partage futur d'une seule ligne, réduit la barrière ressentie face à l'idée de s'ouvrir. Elle reçoit une garantie rassurante qui pourrait faciliter un futur partage, même minime, de ce qu'elle garde habituellement pour elle.",
+    "sectionTitle": "Post-its - Journal intime",
+    "predictable": "Les objets liés à l'expression privée ne contiennent généralement pas de promesse explicite d'écoute sans jugement en cas de partage futur",
+    "themes": [
+      "Vulnérabilité",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le jour où tu voudras m'en lire une ligne, promets d'écouter sans jugement.",
+      "Promets d'écouter sans jugement le jour où tu voudras m'en lire ne serait-ce qu'une ligne."
+    ]
+  },
+  {
+    "actionTitle": "Glissé sous l'élastique fermant le journal intime",
+    "text": "Ce que je ne dis pas toujours à voix haute, je pourrais peut-être commencer à l'écrire, comme toi, un jour.",
+    "effect": "Exprimer l'intention de commencer à pratiquer soi-même l'écriture intime, en écho à son propre journal, montre une volonté d'explorer sa propre vulnérabilité par un moyen similaire. Elle découvre que son habitude d'écriture t'inspire à explorer toi aussi une forme d'expression plus honnête.",
+    "sectionTitle": "Post-its - Journal intime",
+    "predictable": "Les objets liés à l'expression privée ne contiennent généralement pas d'intention explicite de commencer une pratique similaire de son côté",
+    "themes": [
+      "Vulnérabilité",
+      "Inspiration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que je ne dis pas toujours, je pourrais commencer à l'écrire, comme toi, un jour.",
+      "Comme toi, je pourrais peut-être commencer à écrire ce que je ne dis pas toujours."
+    ]
+  },
+  {
+    "actionTitle": "Sur la première page vierge du journal intime",
+    "text": "Merci de garder un espace où tu peux être entièrement toi-même, sans filtre, même si je n'y ai jamais accès.",
+    "effect": "Remercier explicitement pour l'existence même d'un espace privé, sans en réclamer l'accès, montre un respect profond pour son besoin d'intimité personnelle. Elle découvre une gratitude sincère pour ce refuge qui lui appartient entièrement, sans aucune pression pour le partager un jour.",
+    "sectionTitle": "Post-its - Journal intime",
+    "predictable": "Les objets liés à l'expression privée ne contiennent généralement pas de remerciement explicite pour leur existence sans en réclamer l'accès",
+    "themes": [
+      "Vulnérabilité",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Merci de garder un espace où tu peux être toi-même, sans filtre, même sans moi.",
+      "Merci de garder cet espace rien qu'à toi, sans filtre, même si je n'y accède jamais."
+    ]
+  },
+  {
+    "actionTitle": "Sur la balance de salle de bain",
+    "text": "Ce chiffre ne dit jamais toute l'histoire de qui tu es, et j'aimerais qu'on soit toujours aussi honnêtes l'un avec l'autre que possible.",
+    "effect": "Relativiser la valeur d'un chiffre affiché par une balance tout en affirmant un engagement envers l'honnêteté relationnelle élargit le message au-delà de l'objet lui-même. Elle découvre une réflexion sur l'honnêteté qui dépasse largement le contexte de l'objet, touchant directement à la sincérité recherchée dans votre relation.",
+    "sectionTitle": "Post-its - Balance de salle de bain",
+    "predictable": "Les objets liés à la mesure physique ne contiennent généralement pas de réflexion élargie sur l'honnêteté recherchée dans la relation",
+    "themes": [
+      "Honnêteté",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce chiffre ne dit jamais toute l'histoire, j'aimerais qu'on reste toujours honnêtes.",
+      "Jamais toute l'histoire dans ce chiffre, comme j'espère qu'on reste honnêtes toujours."
+    ]
+  },
+  {
+    "actionTitle": "Collé sous la balance de salle de bain",
+    "text": "Ce que je vois quand je te regarde n'a jamais eu besoin de chiffre, honnêtement, c'est bien plus que ça pour moi.",
+    "effect": "Affirmer honnêtement que l'attirance ressentie dépasse toute mesure chiffrée valorise une perception plus profonde et sincère que l'apparence physique mesurable. Elle découvre une déclaration honnête sur la nature de ce que tu vois réellement en elle, loin de toute donnée chiffrée.",
+    "sectionTitle": "Post-its - Balance de salle de bain",
+    "predictable": "Les objets liés à la mesure physique ne contiennent généralement pas de déclaration honnête relativisant leur propre pertinence",
+    "themes": [
+      "Honnêteté",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que je vois quand je te regarde n'a jamais eu besoin de chiffre, honnêtement.",
+      "Honnêtement, ce que je vois en toi n'a jamais eu besoin d'un chiffre pour compter."
+    ]
+  },
+  {
+    "actionTitle": "Glissé derrière la balance de salle de bain",
+    "text": "Si un jour un chiffre ici t'inquiète, dis-le-moi honnêtement, je préfère en parler que te voir y penser seule.",
+    "effect": "Inviter explicitement à une honnêteté partagée sur une préoccupation possible liée à cet objet montre une disponibilité proactive à en parler plutôt qu'à laisser une inquiétude silencieuse. Elle reçoit une ouverture sincère qui facilite une conversation honnête sur un sujet parfois difficile à aborder seule.",
+    "sectionTitle": "Post-its - Balance de salle de bain",
+    "predictable": "Les objets liés à la mesure physique ne contiennent généralement pas d'invitation explicite à une conversation honnête sur ce sujet",
+    "themes": [
+      "Honnêteté",
+      "Écoute"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si un chiffre ici t'inquiète un jour, dis-le-moi, je préfère en parler qu'autre chose.",
+      "Dis-le-moi honnêtement si ça t'inquiète un jour, préfère en parler que te voir y penser seule."
+    ]
+  },
+  {
+    "actionTitle": "Sous le tapis de bain près de la balance",
+    "text": "Honnêtement, ce que je ressens pour toi n'a jamais dépendu d'un seul chiffre, et ça ne changera jamais vraiment.",
+    "effect": "Réaffirmer explicitement l'indépendance des sentiments par rapport à toute mesure chiffrée rassure durablement sur la constance de cette position, pas seulement ponctuellement. Elle découvre une déclaration honnête et stable sur ce qui compte vraiment dans l'attirance et l'attachement ressentis.",
+    "sectionTitle": "Post-its - Balance de salle de bain",
+    "predictable": "Les objets liés à la mesure physique ne contiennent généralement pas de réaffirmation explicite de l'indépendance des sentiments face à eux",
+    "themes": [
+      "Honnêteté",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que je ressens n'a jamais dépendu d'un chiffre, et ça ne changera jamais vraiment.",
+      "N'a jamais dépendu d'un chiffre ce que je ressens, ça ne changera jamais vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Collé sur le miroir au-dessus de la balance",
+    "text": "Honnêtement, ce miroir ne te montre jamais tout ce que je vois quand je te regarde, vraiment jamais tout.",
+    "effect": "Affirmer que la perception affective dépasse largement ce que reflète un miroir valorise un regard plus profond que la simple image physique renvoyée. Elle découvre une déclaration honnête sur la richesse de ce que tu perçois en elle, bien au-delà de ce qu'un reflet peut montrer.",
+    "sectionTitle": "Post-its - Balance de salle de bain",
+    "predictable": "Les miroirs de salle de bain ne contiennent généralement pas de déclaration honnête relativisant ce qu'ils reflètent réellement",
+    "themes": [
+      "Honnêteté",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce miroir ne te montre jamais tout ce que je vois quand je te regarde, vraiment jamais.",
+      "Jamais tout ce que je vois en toi, ce miroir ne le montre pas, vraiment jamais."
+    ]
+  },
+  {
+    "actionTitle": "Sur le flacon d'huile de massage",
+    "text": "Rien qu'à l'idée de ce moment à venir, je pense déjà à chaque texture, chaque geste, chaque sensation qu'on va partager.",
+    "effect": "Anticiper explicitement les détails sensoriels d'un moment à venir, avant même qu'il n'ait lieu, intensifie l'attente en la rendant vivante et concrète. Elle découvre une anticipation détaillée et sensorielle glissée dans un objet directement lié à un futur moment d'intimité physique partagée.",
+    "sectionTitle": "Post-its - Huile de massage",
+    "predictable": "Les objets liés à un moment sensoriel à venir ne contiennent généralement pas d'anticipation aussi détaillée des sensations elles-mêmes",
+    "themes": [
+      "Sensorialité",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 2,
+    "variations": [
+      "Rien qu'à y penser, je pense déjà à chaque texture, chaque geste, chaque sensation.",
+      "Pense déjà à chaque sensation de ce moment à venir, rien qu'en voyant ce flacon."
+    ]
+  },
+  {
+    "actionTitle": "Collé sous le flacon d'huile de massage",
+    "text": "Ce soir, je veux prendre vraiment mon temps sur chaque geste, sans rien précipiter, juste pour savourer.",
+    "effect": "Annoncer explicitement une intention de lenteur et de savourage, avant le moment lui-même, prépare une expérience sensorielle consciente plutôt qu'improvisée. Elle anticipe un moment où le temps pris sur chaque geste sera la priorité, pas la rapidité habituelle.",
+    "sectionTitle": "Post-its - Huile de massage",
+    "predictable": "Les objets liés à un moment sensoriel à venir ne contiennent généralement pas d'annonce explicite d'une intention de lenteur consciente",
+    "themes": [
+      "Sensorialité",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 2,
+    "variations": [
+      "Ce soir, je veux prendre vraiment mon temps sur chaque geste, sans rien précipiter.",
+      "Veux vraiment prendre mon temps ce soir sur chaque geste, sans rien précipiter, juste savourer."
+    ]
+  },
+  {
+    "actionTitle": "Glissé à côté du flacon d'huile de massage",
+    "text": "Repensant à la dernière fois, je me souviens encore exactement de la texture et de ton souffle, précisément.",
+    "effect": "Évoquer un souvenir sensoriel précis d'un moment passé, avec des détails exacts, montre que ces sensations sont restées gravées bien après l'instant vécu. Elle découvre que ce moment partagé a laissé une empreinte sensorielle durable et précisément mémorisée de ton côté.",
+    "sectionTitle": "Post-its - Huile de massage",
+    "predictable": "Les objets liés à un moment sensoriel ne contiennent généralement pas d'évocation aussi précise d'un souvenir sensoriel passé",
+    "themes": [
+      "Sensorialité",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 2,
+    "variations": [
+      "Repensant à la dernière fois, me souviens encore exactement de la texture et de ton souffle.",
+      "Me souviens encore précisément de la dernière fois, la texture, ton souffle, tout."
+    ]
+  },
+  {
+    "actionTitle": "Sous le bouchon du flacon d'huile de massage",
+    "text": "Cette fois, laisse-moi vraiment tout mon temps, sans te presser, juste pour qu'on savoure ensemble pleinement.",
+    "effect": "Demander explicitement du temps, sans précipitation, pour un moment sensoriel à venir installe une intention consciente de ralentissement partagé. Elle reçoit une invitation à vivre ce moment pleinement, sans la pression habituelle du temps qui manque.",
+    "sectionTitle": "Post-its - Huile de massage",
+    "predictable": "Les objets liés à un moment sensoriel à venir ne contiennent généralement pas de demande explicite de temps sans précipitation",
+    "themes": [
+      "Sensorialité",
+      "Intimité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 2,
+    "variations": [
+      "Cette fois, laisse-moi vraiment tout mon temps, sans te presser, pour qu'on savoure.",
+      "Laisse-moi tout mon temps cette fois, sans se presser, pour qu'on savoure pleinement ensemble."
+    ]
+  },
+  {
+    "actionTitle": "Enveloppé dans la serviette près du flacon",
+    "text": "Chaque sensation qu'on partage me reste en mémoire bien plus longtemps que tu ne l'imagines, vraiment bien plus longtemps.",
+    "effect": "Révéler que les sensations partagées laissent une empreinte durable, plus longue que ce qu'elle pourrait supposer, valorise la profondeur de l'expérience sensorielle vécue ensemble. Elle découvre à quel point ces moments comptent réellement, bien au-delà de leur durée vécue sur l'instant.",
+    "sectionTitle": "Post-its - Huile de massage",
+    "predictable": "Les objets liés à un moment sensoriel ne contiennent généralement pas de révélation sur la durée réelle de leur empreinte en mémoire",
+    "themes": [
+      "Sensorialité",
+      "Mémoire"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 2,
+    "variations": [
+      "Chaque sensation partagée me reste en mémoire bien plus longtemps que tu ne l'imagines.",
+      "Me reste en mémoire bien plus longtemps que tu l'imagines, chaque sensation partagée."
+    ]
+  },
+  {
+    "actionTitle": "Sur le volant de voiture",
+    "text": "Tenir ça bien en main aujourd'hui, mais sache que dans notre relation, je n'ai jamais besoin de tout tenir de la même façon.",
+    "effect": "Contraster le contrôle nécessaire pour conduire avec un engagement à ne pas exercer le même contrôle dans la relation ajoute une réflexion inattendue à un objet purement fonctionnel. Elle découvre une déclaration sur le partage volontaire du contrôle relationnel, glissée dans un objet dont la fonction est justement de tenir fermement la direction.",
+    "sectionTitle": "Post-its - Volant de voiture",
+    "predictable": "Les objets nécessitant un contrôle physique ferme ne contiennent généralement pas de réflexion contrastée sur le partage du contrôle relationnel",
+    "themes": [
+      "Contrôle",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tenir ça en main aujourd'hui, mais je n'ai jamais besoin de tout tenir avec toi.",
+      "Bien en main ici, mais avec toi, jamais besoin de tout contrôler de la même façon."
+    ]
+  },
+  {
+    "actionTitle": "Collé sous le volant de voiture",
+    "text": "La prochaine fois, prends le volant si tu en as envie, je te fais vraiment confiance pour la direction.",
+    "effect": "Proposer explicitement de céder la place au volant, symbole même du contrôle, prolonge concrètement la réflexion sur le partage du contrôle dans la relation. Elle reçoit une offre tangible de confiance, cohérente avec le message déjà glissé sur cet objet précis.",
+    "sectionTitle": "Post-its - Volant de voiture",
+    "predictable": "Les objets liés au contrôle physique ne contiennent généralement pas de proposition concrète de céder ce contrôle à l'autre",
+    "themes": [
+      "Contrôle",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La prochaine fois, prends le volant si tu en as envie, je te fais confiance.",
+      "Prends le volant la prochaine fois si tu en as envie, je te fais vraiment confiance."
+    ]
+  },
+  {
+    "actionTitle": "Glissé dans la pochette du pare-soleil du volant",
+    "text": "Repensant à la dernière fois où j'ai lâché le contrôle pour toi, ça m'a fait du bien, plus que je ne le pensais.",
+    "effect": "Faire le bilan positif d'un lâcher-prise passé, en admettant un effet inattendu, montre que le partage du contrôle a été bénéfique au-delà de la simple concession. Elle découvre que ce moment de confiance accordée a eu un effet personnel positif sur toi, pas seulement sur la relation.",
+    "sectionTitle": "Post-its - Volant de voiture",
+    "predictable": "Les moments de lâcher-prise passés sont rarement suivis d'un bilan honnête sur leur effet personnel inattendu et positif",
+    "themes": [
+      "Contrôle",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensant à la dernière fois où j'ai lâché le contrôle, ça m'a fait du bien.",
+      "Ça m'a fait du bien de lâcher le contrôle la dernière fois, plus que je ne le pensais."
+    ]
+  },
+  {
+    "actionTitle": "Sous le tapis de sol côté volant",
+    "text": "Sur ce trajet qu'on va faire ensemble bientôt, je te laisse décider de la route, vraiment, sans intervenir.",
+    "effect": "Annoncer à l'avance l'intention de laisser le contrôle du trajet, sans intervention, prépare concrètement un futur moment de confiance partagée. Elle anticipe un moment où sa décision sera pleinement respectée, sans correction ni reprise de contrôle en cours de route.",
+    "sectionTitle": "Post-its - Volant de voiture",
+    "predictable": "Les trajets à venir ne sont généralement pas annoncés à l'avance avec une intention explicite de laisser le contrôle sans intervenir",
+    "themes": [
+      "Contrôle",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sur ce trajet bientôt, je te laisse décider de la route, vraiment, sans intervenir.",
+      "Te laisse vraiment décider de la route pour ce trajet bientôt, sans intervenir."
+    ]
+  },
+  {
+    "actionTitle": "Glissé dans la boîte à gants",
+    "text": "Repensant à combien j'aime avoir le contrôle parfois, je réalise que te faire confiance me fait du bien aussi.",
+    "effect": "Admettre honnêtement une préférence naturelle pour le contrôle, tout en reconnaissant le bénéfice ressenti à faire confiance, montre une réflexion sincère sur soi-même. Elle découvre un aveu authentique qui rend le lâcher-prise plus crédible, puisqu'il reconnaît la difficulté réelle qu'il représente parfois.",
+    "sectionTitle": "Post-its - Volant de voiture",
+    "predictable": "Les objets liés au contrôle ne contiennent généralement pas d'aveu honnête sur la préférence naturelle pour le contrôle malgré le lâcher-prise",
+    "themes": [
+      "Contrôle",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "J'aime avoir le contrôle parfois, mais te faire confiance me fait du bien aussi.",
+      "Réalise que te faire confiance me fait du bien aussi, même si j'aime contrôler parfois."
+    ]
   }
 ]

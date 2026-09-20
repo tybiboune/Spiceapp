@@ -16044,5 +16044,855 @@
       "Last thought before sleep tonight: how lucky I feel figuring life out with you.",
       "Falling asleep thinking about how lucky I am figuring life out alongside you."
     ]
+  },
+  {
+    "actionTitle": "Le message discret sans emphase",
+    "text": "Petit truc fait pour toi aujourd'hui, rien de spécial, je te laisse le découvrir sans plus d'explication.",
+    "effect": "Annoncer un geste discret par message, sans en révéler l'ampleur, garde l'attention sur le geste lui-même plutôt que sur sa mise en scène. Elle reçoit une petite anticipation sans emphase excessive, cohérente avec l'esprit discret du geste annoncé.",
+    "sectionTitle": "SMS - Le geste discret, confirmé plus tard",
+    "predictable": "Les gestes discrets sont rarement annoncés par message sans révéler leur ampleur, gardant volontairement l'emphase minimale",
+    "themes": [
+      "Discrétion",
+      "Surprise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Petit truc fait pour toi, rien de spécial, découvre-le sans plus d'explication.",
+      "Fait un petit truc pour toi aujourd'hui, je te laisse le trouver, sans en dire plus."
+    ]
+  },
+  {
+    "actionTitle": "Le compliment envoyé sans grande déclaration",
+    "text": "Juste en passant, tu es vraiment quelqu'un de bien, voilà, c'est tout, rien d'autre à ajouter.",
+    "effect": "Envoyer un compliment sincère sans grande déclaration ni sur-explication le rend plus authentique et moins performatif. Elle reçoit une reconnaissance sobre et directe, sans fioriture excessive qui pourrait en diluer la sincérité.",
+    "sectionTitle": "SMS - Le geste discret, confirmé plus tard",
+    "predictable": "Les compliments envoyés par message sont souvent développés et expliqués plutôt que délivrés simplement et sans emphase",
+    "themes": [
+      "Discrétion",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Juste en passant, tu es vraiment quelqu'un de bien, c'est tout.",
+      "En passant comme ça, vraiment quelqu'un de bien, rien d'autre à ajouter."
+    ]
+  },
+  {
+    "actionTitle": "Le petit mot sans photo à l'appui",
+    "text": "Pense à toi là, maintenant, sans raison particulière, juste une pensée discrète qui passait.",
+    "effect": "Envoyer une pensée sans preuve visuelle ni justification particulière garde le message centré sur l'intention pure plutôt que sur une mise en scène. Elle reçoit un signe discret d'attention qui n'a besoin d'aucune démonstration pour être sincère.",
+    "sectionTitle": "SMS - Le geste discret, confirmé plus tard",
+    "predictable": "Les messages d'affection incluent souvent une photo ou un contexte détaillé plutôt qu'une simple pensée envoyée sans justification",
+    "themes": [
+      "Discrétion",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pense à toi là, maintenant, sans raison particulière, juste une pensée qui passait.",
+      "Une pensée discrète pour toi là, sans raison précise, juste envie de te la partager."
+    ]
+  },
+  {
+    "actionTitle": "Le service rendu qui ne sera pas mentionné deux fois",
+    "text": "Fait un truc pour toi tantôt, tu le remarqueras ou pas, aucune importance de mon côté.",
+    "effect": "Rendre un service en précisant qu'il n'a pas besoin d'être remarqué retire toute attente de reconnaissance et confirme la sincérité du geste discret. Elle sait qu'un geste a été fait pour elle sans qu'aucune gratitude ne soit exigée en retour.",
+    "sectionTitle": "SMS - Le geste discret, confirmé plus tard",
+    "predictable": "Les services rendus sont rarement accompagnés d'un message précisant explicitement l'absence d'attente de reconnaissance",
+    "themes": [
+      "Discrétion",
+      "Générosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fait un truc pour toi tantôt, tu le remarqueras ou pas, aucune importance.",
+      "Un truc fait pour toi tantôt, remarqué ou pas, ça n'a vraiment aucune importance."
+    ]
+  },
+  {
+    "actionTitle": "Le mot doux gardé pour ce soir seulement",
+    "text": "Ce que je pense de toi là, je te le garde pour ce soir, juste entre nous deux, en personne.",
+    "effect": "Annoncer qu'une pensée sera partagée en personne plutôt que par écrit prolonge l'attente tout en confirmant qu'un moment d'intimité discrète suivra. Elle anticipe un échange privé, réservé rien qu'à elle, loin de tout autre contexte.",
+    "sectionTitle": "SMS - Le geste discret, confirmé plus tard",
+    "predictable": "Les pensées affectueuses sont rarement annoncées par message pour être ensuite gardées et partagées uniquement en personne",
+    "themes": [
+      "Discrétion",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que je pense de toi, je te le garde pour ce soir, en personne, juste nous deux.",
+      "Te le dirai ce soir, en personne, juste entre nous deux, pas par message."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui annonce une préparation",
+    "text": "Prépare quelque chose pour plus tard cette semaine, rien à faire de ton côté, je m'occupe de tout à l'avance.",
+    "effect": "Annoncer une préparation en cours, sans détail, installe une anticipation légère sans révéler l'effort exact fourni. Elle sait qu'un effort est activement déployé pour elle, ce qui valorise l'intention sans dévoiler la surprise elle-même.",
+    "sectionTitle": "SMS - La préparation qui porte ses fruits",
+    "predictable": "Les préparations en cours sont rarement annoncées par message avant d'être révélées, sans détail sur leur nature exacte",
+    "themes": [
+      "Préparation",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prépare quelque chose pour cette semaine, rien à faire de ton côté, je gère.",
+      "Un truc en préparation pour plus tard cette semaine, je m'occupe de tout."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi sur une préparation passée",
+    "text": "Alors, ce truc que j'avais préparé pour toi la semaine dernière, ça t'a vraiment aidé ou pas tant que ça finalement ?",
+    "effect": "Redemander un retour honnête sur une préparation passée transforme un effort ponctuel en processus vérifié et amélioré dans le temps. Elle a l'occasion de donner un avis sincère qui influencera réellement les prochaines préparations, pas juste un compliment de politesse.",
+    "sectionTitle": "SMS - La préparation qui porte ses fruits",
+    "predictable": "Les préparations passées sont rarement suivies d'une demande de retour honnête sur leur utilité réelle après coup",
+    "themes": [
+      "Préparation",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce truc préparé la semaine dernière, ça t'a vraiment aidé ou pas tant que ça ?",
+      "Alors, cette préparation de la semaine dernière, utile ou pas tant que ça finalement ?"
+    ]
+  },
+  {
+    "actionTitle": "L'annonce d'une préparation en cours pour demain",
+    "text": "Déjà en train de préparer un petit truc pour demain, rien à faire de ton côté, promis ça vaudra le coup.",
+    "effect": "Annoncer une préparation active pour le lendemain crée une anticipation immédiate tout en gardant le contenu secret jusqu'au moment venu. Elle sait qu'un effort concret se déroule déjà pour elle, ce qui valorise l'attention sans dévoiler la surprise.",
+    "sectionTitle": "SMS - La préparation qui porte ses fruits",
+    "predictable": "Les préparations en cours pour le lendemain sont rarement annoncées la veille sans révéler leur contenu exact",
+    "themes": [
+      "Préparation",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Déjà en train de préparer un truc pour demain, rien à faire de ton côté, promis.",
+      "Un petit truc en préparation pour demain, ça vaudra le coup, tu verras."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel que rien n'a été laissé au hasard",
+    "text": "Pour ce soir, tout est déjà prêt de mon côté, j'ai pensé à tout, tu n'as rien à gérer.",
+    "effect": "Confirmer par message qu'une préparation est déjà complète, sans rien laisser au hasard, retire toute charge mentale de son côté avant même le moment venu. Elle reçoit l'assurance concrète que tout a été anticipé, pas juste promis vaguement.",
+    "sectionTitle": "SMS - La préparation qui porte ses fruits",
+    "predictable": "La confirmation explicite qu'une préparation est complète et que rien n'a été laissé au hasard est rarement envoyée à l'avance",
+    "themes": [
+      "Préparation",
+      "Fiabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pour ce soir, tout est déjà prêt, j'ai pensé à tout, tu n'as rien à gérer.",
+      "Tout est prêt pour ce soir de mon côté, rien à gérer, j'ai pensé à tout."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi qui ajuste la méthode de préparation",
+    "text": "Vu ce que tu m'as dit sur la dernière fois, j'ai changé un peu ma façon de préparer les choses pour toi.",
+    "effect": "Montrer qu'un retour passé a concrètement modifié la façon de préparer les choses prouve que l'écoute a mené à un vrai ajustement, pas juste des paroles. Elle voit que son avis a eu un impact réel sur la méthode utilisée, renforçant la valeur de son retour.",
+    "sectionTitle": "SMS - La préparation qui porte ses fruits",
+    "predictable": "Les ajustements de méthode suite à un retour passé sur une préparation sont rarement explicitement mentionnés par message",
+    "themes": [
+      "Préparation",
+      "Écoute"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Vu ce que tu m'as dit la dernière fois, j'ai changé ma façon de préparer les choses.",
+      "Ai ajusté ma façon de préparer suite à ce que tu m'avais dit la dernière fois."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui confirme une fidélité constante",
+    "text": "Comme toujours, tu peux compter sur moi pour ça, ce n'est vraiment pas près de changer, jamais.",
+    "effect": "Réaffirmer explicitement une fidélité constante, par message et sans occasion particulière, rassure sur sa stabilité indépendamment du contexte. Elle reçoit une confirmation directe que sa confiance repose sur une base solide et durable, pas seulement passée.",
+    "sectionTitle": "SMS - La fidélité démontrée deux fois",
+    "predictable": "La fidélité à sa parole est rarement explicitement réaffirmée par message sans lien avec une occasion ou un événement particulier",
+    "themes": [
+      "Fidélité",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme toujours, tu peux compter sur moi pour ça, ce n'est pas près de changer.",
+      "Toujours la même chose de mon côté, tu peux compter dessus, jamais changé."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui défend en son absence",
+    "text": "Juste pour que tu saches, je t'ai défendue tout à l'heure devant quelqu'un, sans hésiter une seconde.",
+    "effect": "Informer qu'elle a été défendue en son absence prouve une loyauté qui existe même sans qu'elle soit présente pour le vérifier. Elle apprend que ta fidélité se manifeste concrètement, même dans des moments qu'elle n'a pas pu observer elle-même.",
+    "sectionTitle": "SMS - La fidélité démontrée deux fois",
+    "predictable": "La défense de sa position en son absence est rarement rapportée ensuite par message pour qu'elle en soit informée",
+    "themes": [
+      "Fidélité",
+      "Loyauté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je t'ai défendue tout à l'heure devant quelqu'un, sans hésiter une seconde.",
+      "Pour info, t'ai défendue tantôt devant quelqu'un, aucune hésitation de ma part."
+    ]
+  },
+  {
+    "actionTitle": "Le rappel d'une promesse encore tenue",
+    "text": "La promesse que je t'ai faite la semaine dernière, toujours d'actualité, rien n'a changé de mon côté.",
+    "effect": "Réaffirmer par message qu'une promesse tient toujours, sans qu'on le demande, prouve une fidélité active plutôt qu'un engagement oublié avec le temps. Elle reçoit une confirmation spontanée que ta parole reste fiable, même sans rappel de sa part.",
+    "sectionTitle": "SMS - La fidélité démontrée deux fois",
+    "predictable": "Les promesses faites sont rarement reconfirmées spontanément par message une semaine après, sans qu'on le demande",
+    "themes": [
+      "Fidélité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La promesse de la semaine dernière, toujours d'actualité, rien n'a changé.",
+      "Toujours d'actualité cette promesse, rien n'a changé de mon côté, promis."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui confirme la fidélité à une habitude",
+    "text": "Toujours fidèle à ce truc qu'on avait dit, encore aujourd'hui, ça ne bouge pas.",
+    "effect": "Confirmer explicitement la constance d'une habitude importante pour elle, sans qu'elle ait à vérifier, rassure sur sa fiabilité dans la durée. Elle apprend que cet engagement tient toujours, même loin des yeux, sans besoin de contrôle de sa part.",
+    "sectionTitle": "SMS - La fidélité démontrée deux fois",
+    "predictable": "La constance d'une habitude importante est rarement confirmée spontanément par message, sans qu'une vérification soit demandée",
+    "themes": [
+      "Fidélité",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Toujours fidèle à ce truc qu'on avait dit, encore aujourd'hui, ça ne bouge pas.",
+      "Ça ne bouge pas, toujours fidèle à ce qu'on avait dit ensemble, encore aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Le message sur un engagement tenu deux fois",
+    "text": "Comme le mois dernier, j'ai encore tenu ma part sur ce truc, exactement pareil, sans rien changer.",
+    "effect": "Signaler qu'un engagement pris ensemble a été respecté une deuxième fois, exactement comme la première, confirme une fidélité vérifiable et constante. Elle voit une preuve concrète que l'engagement initial n'était pas un coup d'éclat isolé.",
+    "sectionTitle": "SMS - La fidélité démontrée deux fois",
+    "predictable": "La répétition exacte d'un engagement tenu deux mois de suite est rarement signalée explicitement par message",
+    "themes": [
+      "Fidélité",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme le mois dernier, ai encore tenu ma part, exactement pareil, sans rien changer.",
+      "Tenu ma part encore ce mois-ci, exactement comme le mois dernier, sans rien changer."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui accepte un changement sans souci",
+    "text": "Si tu dois changer les plans, vraiment aucun souci de mon côté, on ajuste sans problème.",
+    "effect": "Accepter explicitement un changement de plan par message, sans réserve, montre une flexibilité réelle plutôt qu'une tolérance résignée. Elle reçoit une confirmation directe qu'elle peut changer d'avis librement, sans craindre une réaction négative de ta part.",
+    "sectionTitle": "SMS - La flexibilité mise à l'épreuve",
+    "predictable": "L'acceptation d'un changement de plan par message manque parfois de clarté sur l'absence totale de réticence de ton côté",
+    "themes": [
+      "Flexibilité",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si tu dois changer les plans, vraiment aucun souci, on ajuste sans problème.",
+      "Aucun souci si les plans changent, on s'adapte facilement, promis."
+    ]
+  },
+  {
+    "actionTitle": "Le compromis proposé par texto",
+    "text": "Repensant à notre discussion, j'ai une idée de compromis qui pourrait nous convenir à tous les deux, dis-moi ce que tu en penses.",
+    "effect": "Proposer un compromis par message, après réflexion, montre une flexibilité proactive plutôt qu'une attente passive de la résolution du désaccord. Elle reçoit une preuve concrète que tu cherches activement une solution qui vous convienne à tous les deux, pas juste à toi.",
+    "sectionTitle": "SMS - La flexibilité mise à l'épreuve",
+    "predictable": "Les compromis après un désaccord sont rarement proposés proactivement par message une fois la discussion terminée",
+    "themes": [
+      "Flexibilité",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensant à ça, j'ai une idée de compromis, dis-moi ce que tu en penses.",
+      "Ai réfléchi à un compromis qui pourrait nous convenir à tous les deux, ton avis ?"
+    ]
+  },
+  {
+    "actionTitle": "Le programme laissé complètement ouvert",
+    "text": "Pour ce soir, choisis vraiment toi, je m'adapte à ce que tu as envie de faire, sans arrière-pensée.",
+    "effect": "Laisser le programme ouvert par message, avant même le moment venu, confirme une flexibilité authentique plutôt qu'une fausse ouverture révélée sur place. Elle sait dès maintenant qu'elle peut décider librement, sans crainte d'imposer un choix qui déplairait.",
+    "sectionTitle": "SMS - La flexibilité mise à l'épreuve",
+    "predictable": "Le programme d'une soirée est rarement laissé explicitement ouvert par message avant même que le moment n'arrive",
+    "themes": [
+      "Flexibilité",
+      "Générosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pour ce soir, choisis vraiment toi, je m'adapte, sans arrière-pensée.",
+      "Ce soir, à toi de choisir vraiment, je m'adapte sans arrière-pensée de mon côté."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui confirme un assouplissement maintenu",
+    "text": "Toujours dans cette nouvelle habitude qu'on avait ajustée ensemble, ça tient bon de mon côté, aucun retour en arrière.",
+    "effect": "Confirmer par message qu'un assouplissement d'habitude tient toujours prouve que le changement était réel et durable, pas un effort ponctuel vite abandonné. Elle voit que l'ajustement fait pour elle continue d'être respecté, sans besoin de vérifier elle-même.",
+    "sectionTitle": "SMS - La flexibilité mise à l'épreuve",
+    "predictable": "Le maintien d'un assouplissement d'habitude est rarement confirmé spontanément par message, sans que ce soit demandé",
+    "themes": [
+      "Flexibilité",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Toujours dans cette nouvelle habitude ajustée ensemble, ça tient bon, aucun retour en arrière.",
+      "Ça tient toujours cette habitude ajustée, aucun retour en arrière de mon côté."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui lâche une préférence pour elle",
+    "text": "Avais envie d'autre chose, mais franchement ce que tu proposes me va très bien aussi, allons-y comme ça.",
+    "effect": "Admettre explicitement avoir une préférence différente, tout en acceptant volontiers son choix, montre une flexibilité honnête plutôt qu'une fausse indifférence. Elle sait que son choix a été accepté sincèrement, sans ressentiment caché derrière une acceptation forcée.",
+    "sectionTitle": "SMS - La flexibilité mise à l'épreuve",
+    "predictable": "L'acceptation d'un choix différent de sa propre préférence est rarement accompagnée d'une admission honnête de cette préférence initiale",
+    "themes": [
+      "Flexibilité",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Avais envie d'autre chose, mais ce que tu proposes me va très bien aussi, allons-y.",
+      "Franchement ce que tu proposes me va très bien, allons-y comme ça, sans souci."
+    ]
+  },
+  {
+    "actionTitle": "Le message bienveillant après une erreur",
+    "text": "Sais que tu culpabilises pour cette erreur, mais vraiment, aucun jugement de ma part, juste de la bienveillance.",
+    "effect": "Réagir avec bienveillance explicite après une erreur, plutôt qu'avec reproche, offre un espace sûr rarement garanti aussi clairement par message. Elle reçoit une réassurance directe que l'erreur ne change rien à la bienveillance que tu lui portes.",
+    "sectionTitle": "SMS - La bienveillance en deux temps",
+    "predictable": "Les erreurs commises reçoivent rarement une réponse de bienveillance explicite et sans jugement formulée clairement par message",
+    "themes": [
+      "Bienveillance",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sais que tu culpabilises, mais aucun jugement de ma part, juste de la bienveillance.",
+      "Aucun jugement pour cette erreur, vraiment, juste de la bienveillance sincère."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui encourage l'auto-bienveillance",
+    "text": "Sois un peu plus douce avec toi-même sur ce truc aujourd'hui, tu mérites la même bienveillance que tu offres aux autres.",
+    "effect": "Encourager explicitement l'auto-bienveillance rappelle qu'elle mérite pour elle-même la douceur qu'elle accorde généreusement aux autres. Elle reçoit une invitation directe à s'accorder la même bienveillance qu'elle offre naturellement, sans avoir à le demander.",
+    "sectionTitle": "SMS - La bienveillance en deux temps",
+    "predictable": "L'encouragement à l'auto-bienveillance est rarement envoyé explicitement par message pour un souci spécifique du moment",
+    "themes": [
+      "Bienveillance",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois un peu plus douce avec toi-même, tu mérites cette même bienveillance.",
+      "Un peu de douceur envers toi-même aujourd'hui, tu la mérites autant que les autres."
+    ]
+  },
+  {
+    "actionTitle": "Le message bienveillant envoyé sans raison précise",
+    "text": "Rien de spécial, juste envie de te dire que je trouve que tu gères vraiment bien en ce moment, sincèrement.",
+    "effect": "Envoyer un message de bienveillance sans lien avec un événement précis montre que l'attention n'est pas seulement réactive mais spontanée. Elle reçoit une reconnaissance sincère de ses efforts actuels, offerte sans raison particulière qui la déclenche.",
+    "sectionTitle": "SMS - La bienveillance en deux temps",
+    "predictable": "Les messages de bienveillance sont généralement envoyés en réaction à un événement précis, rarement de façon spontanée",
+    "themes": [
+      "Bienveillance",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rien de spécial, juste envie de te dire que tu gères vraiment bien en ce moment.",
+      "Sincèrement, tu gères vraiment bien en ce moment, voulais juste te le dire."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi bienveillant après une erreur admise",
+    "text": "Repensant à cette erreur d'hier, aucun jugement toujours, ça ne change rien à ce que je pense de toi.",
+    "effect": "Confirmer, un jour après, que le jugement reste absent malgré une erreur récente montre que la bienveillance tient dans la durée, pas juste sur le coup. Elle reçoit une réassurance qui dure au-delà du moment initial, confirmant que rien n'a changé dans le regard porté sur elle.",
+    "sectionTitle": "SMS - La bienveillance en deux temps",
+    "predictable": "La bienveillance exprimée après une erreur est rarement reconfirmée explicitement par message le lendemain",
+    "themes": [
+      "Bienveillance",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensant à cette erreur d'hier, aucun jugement toujours, ça ne change rien.",
+      "Aucun jugement toujours pour hier, ça ne change vraiment rien à ce que je pense de toi."
+    ]
+  },
+  {
+    "actionTitle": "Le geste bienveillant envers un inconnu partagé",
+    "text": "Vu ce que t'as fait pour cette personne tantôt, ça m'a vraiment touché, t'es quelqu'un de bien.",
+    "effect": "Souligner un geste bienveillant qu'elle a fait envers un inconnu renforce la valeur commune de générosité en la remarquant explicitement. Elle sait que sa bienveillance envers les autres n'est pas passée inaperçue et qu'elle est remarquée avec admiration.",
+    "sectionTitle": "SMS - La bienveillance en deux temps",
+    "predictable": "Les gestes bienveillants envers des inconnus sont rarement explicitement remarqués et commentés par message après coup",
+    "themes": [
+      "Bienveillance",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Vu ce que t'as fait pour cette personne tantôt, ça m'a vraiment touché.",
+      "Ça m'a vraiment touché ce que t'as fait pour cette personne tantôt, t'es quelqu'un de bien."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui confirme un rituel qui tient",
+    "text": "Comme convenu, notre petit rituel de ce soir tient toujours, j'ai vraiment hâte qu'on le fasse encore.",
+    "effect": "Confirmer explicitement qu'un rituel établi tient toujours renforce sa fiabilité en tant que repère plutôt qu'une bonne intention abandonnée. Elle sait qu'un moment attendu et régulier n'a pas été oublié ni négligé, malgré le temps qui passe.",
+    "sectionTitle": "SMS - Le rituel qui s'installe",
+    "predictable": "La tenue effective d'un rituel établi est rarement explicitement confirmée par message avant chaque occurrence",
+    "themes": [
+      "Rituel",
+      "Fiabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme convenu, notre rituel de ce soir tient toujours, hâte de le refaire.",
+      "Notre petit rituel tient toujours ce soir, vraiment hâte qu'on le fasse encore."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui propose un nouveau rituel",
+    "text": "Et si on essayait d'instaurer un petit truc régulier entre nous, comme un rituel juste à nous deux, ça te dit ?",
+    "effect": "Proposer explicitement d'instaurer un nouveau rituel, par message, ouvre une conversation active sur la création d'une habitude partagée. Elle a l'occasion de participer à la construction d'un rituel dès son origine, pas seulement d'y être invitée une fois qu'il existe déjà.",
+    "sectionTitle": "SMS - Le rituel qui s'installe",
+    "predictable": "La proposition explicite d'instaurer un nouveau rituel régulier est rarement lancée directement par message",
+    "themes": [
+      "Rituel",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Et si on instaurait un petit truc régulier rien qu'à nous deux, ça te dit ?",
+      "Envie d'essayer un rituel régulier juste pour nous deux, qu'est-ce que t'en penses ?"
+    ]
+  },
+  {
+    "actionTitle": "Le rappel affectueux d'un rituel du soir",
+    "text": "Presque l'heure de notre petit truc du soir, j'y pense déjà avec plaisir depuis tout à l'heure.",
+    "effect": "Rappeler avec anticipation un rituel du soir avant même qu'il n'arrive montre qu'il est attendu avec plaisir, pas juste exécuté par habitude. Elle sent que ce moment régulier garde toute sa valeur, sans jamais devenir mécanique ou oublié.",
+    "sectionTitle": "SMS - Le rituel qui s'installe",
+    "predictable": "Les rituels du soir sont rarement annoncés à l'avance avec une anticipation affectueuse explicitement exprimée par message",
+    "themes": [
+      "Rituel",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Presque l'heure de notre petit truc du soir, j'y pense déjà avec plaisir.",
+      "Bientôt l'heure de notre rituel du soir, j'y pense déjà depuis tout à l'heure."
+    ]
+  },
+  {
+    "actionTitle": "Le bilan sur un rituel qui tient depuis un mois",
+    "text": "Ça fait un mois qu'on tient notre petit rituel, c'est devenu un vrai truc à nous maintenant, j'adore ça.",
+    "effect": "Faire le bilan d'un rituel qui tient depuis un mois transforme une bonne intention initiale en réussite concrète et reconnue explicitement. Elle voit que l'engagement initial a porté ses fruits sur la durée, pas juste pendant les premières semaines.",
+    "sectionTitle": "SMS - Le rituel qui s'installe",
+    "predictable": "Le bilan explicite d'un rituel tenu sur un mois entier est rarement partagé spontanément par message pour le célébrer",
+    "themes": [
+      "Rituel",
+      "Continuité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ça fait un mois qu'on tient notre rituel, c'est devenu un vrai truc à nous.",
+      "Un mois déjà que ce rituel tient, c'est devenu un vrai truc à nous maintenant."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui adapte un rituel existant",
+    "text": "Et si on changeait un tout petit détail dans notre rituel habituel, pour le rendre encore meilleur ensemble ?",
+    "effect": "Proposer d'ajuster un détail d'un rituel déjà établi montre une volonté d'amélioration continue plutôt qu'une routine figée et jamais questionnée. Elle a l'occasion de coconstruire l'évolution d'un rituel qui vous appartient déjà à tous les deux.",
+    "sectionTitle": "SMS - Le rituel qui s'installe",
+    "predictable": "L'ajustement volontaire d'un détail dans un rituel déjà établi est rarement proposé activement par message",
+    "themes": [
+      "Rituel",
+      "Collaboration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Et si on changeait un petit détail dans notre rituel, pour le rendre encore meilleur ?",
+      "Un petit changement dans notre rituel habituel, pour le rendre encore meilleur ensemble ?"
+    ]
+  },
+  {
+    "actionTitle": "Le message vulnérable envoyé par texto",
+    "text": "Un peu difficile à dire en personne, alors je l'écris ici : j'ai vraiment eu peur de te perdre l'autre jour.",
+    "effect": "Choisir le texte pour exprimer une vulnérabilité difficile à dire en personne offre un espace différent, parfois plus accessible, pour l'honnêteté. Elle reçoit un aveu sincère, livré dans un format qui a permis de surmonter la difficulté de le dire à voix haute.",
+    "sectionTitle": "SMS - La vulnérabilité partagée, puis accueillie",
+    "predictable": "Les vulnérabilités difficiles à exprimer en personne sont rarement choisies pour être écrites et envoyées par message à la place",
+    "themes": [
+      "Vulnérabilité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Difficile à dire en personne, alors je l'écris : j'ai eu vraiment peur de te perdre.",
+      "Plus facile à écrire qu'à dire : j'ai eu vraiment peur de te perdre l'autre jour."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi sur une vulnérabilité partagée",
+    "text": "Repensant à ce que je t'ai confié l'autre jour, comment tu l'as reçu, honnêtement ? Je me pose la question depuis.",
+    "effect": "Redemander comment une vulnérabilité passée a été reçue montre un intérêt sincère pour son impact réel, pas un aveu creux sans suite. Elle sent que ce moment de vulnérabilité n'était pas qu'un mot en l'air, mais un vrai sujet suivi d'intérêt continu.",
+    "sectionTitle": "SMS - La vulnérabilité partagée, puis accueillie",
+    "predictable": "Les vulnérabilités partagées ne sont que rarement suivies d'une question sincère sur la façon dont elles ont été reçues",
+    "themes": [
+      "Vulnérabilité",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensant à ce que je t'ai confié, comment tu l'as reçu, honnêtement ?",
+      "Comment tu as reçu ce que je t'ai confié l'autre jour ? Je me pose la question depuis."
+    ]
+  },
+  {
+    "actionTitle": "La peur avouée par message plutôt qu'en face",
+    "text": "Plus facile à écrire qu'à dire en face : j'ai vraiment peur de te décevoir parfois, tu sais.",
+    "effect": "Choisir l'écrit pour avouer une peur difficile à formuler en face permet une honnêteté que le contact direct rendrait plus dur à exprimer. Elle reçoit un aveu sincère, rendu possible justement grâce au format du message, plutôt qu'un silence gardé faute de pouvoir le dire.",
+    "sectionTitle": "SMS - La vulnérabilité partagée, puis accueillie",
+    "predictable": "Les peurs difficiles à exprimer en face sont rarement avouées par message comme moyen plus accessible de le faire",
+    "themes": [
+      "Vulnérabilité",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Plus facile à écrire qu'à dire en face : j'ai vraiment peur de te décevoir parfois.",
+      "J'ai vraiment peur de te décevoir parfois, plus simple de l'écrire qu'en face."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui admet un besoin d'aide",
+    "text": "Là, honnêtement, j'aurais besoin d'un coup de main sur un truc, pas facile à admettre mais voilà.",
+    "effect": "Admettre un besoin d'aide par message, même si c'est inconfortable, montre une vulnérabilité rarement assumée aussi directement et sans détour. Elle reçoit une demande sincère plutôt qu'un silence gardé par fierté ou par habitude de tout gérer seul.",
+    "sectionTitle": "SMS - La vulnérabilité partagée, puis accueillie",
+    "predictable": "Les besoins d'aide sont rarement admis explicitement par message, avec une reconnaissance directe de la difficulté à le faire",
+    "themes": [
+      "Vulnérabilité",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Honnêtement, j'aurais besoin d'un coup de main sur un truc, pas facile à admettre.",
+      "Pas facile à admettre, mais j'aurais vraiment besoin d'un coup de main là."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi sur un souvenir douloureux confié",
+    "text": "Repensant à ce que je t'ai raconté l'autre jour sur mon passé, merci d'avoir écouté sans juger, ça compte pour moi.",
+    "effect": "Remercier explicitement, quelques jours après, pour l'écoute reçue lors d'un partage douloureux transforme la confession en vraie conversation reconnue et suivie. Elle voit que son accueil bienveillant n'est pas passé inaperçu et qu'il a réellement compté pour toi.",
+    "sectionTitle": "SMS - La vulnérabilité partagée, puis accueillie",
+    "predictable": "Les partages douloureux passés sont rarement suivis d'un remerciement explicite pour la façon dont ils ont été accueillis",
+    "themes": [
+      "Vulnérabilité",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Merci d'avoir écouté sans juger l'autre jour sur mon passé, ça compte pour moi.",
+      "Repensant à l'autre jour, merci d'avoir écouté sans juger, ça compte vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Le message honnête sur un ressenti",
+    "text": "Être honnête avec toi : ce truc de tout à l'heure m'a un peu touché, voulais te le dire plutôt que de le garder pour moi.",
+    "effect": "Partager un ressenti honnête, plutôt que de le taire, par message, évite l'accumulation silencieuse d'une frustration ou blessure non exprimée. Elle reçoit une communication directe et sincère sur ce qui t'a réellement affecté, plutôt qu'un silence à interpréter.",
+    "sectionTitle": "SMS - L'honnêteté suivie d'effet",
+    "predictable": "Les ressentis un peu difficiles sont rarement exprimés honnêtement par message plutôt que gardés silencieusement pour soi",
+    "themes": [
+      "Honnêteté",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Être honnête : ce truc tantôt m'a touché, voulais te le dire plutôt que le garder.",
+      "Honnêtement, ça m'a un peu touché tantôt, préfère te le dire que le garder pour moi."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi sur une honnêteté passée",
+    "text": "Depuis qu'on en a parlé honnêtement l'autre jour, tu trouves que ça a changé quelque chose entre nous, toi ?",
+    "effect": "Redemander l'effet d'une honnêteté passée, par message, vérifie que la franchise a mené à un vrai changement, pas juste un moment isolé. Elle a l'occasion de donner un retour honnête sur l'impact réel de cette conversation, pas seulement d'y avoir participé une fois.",
+    "sectionTitle": "SMS - L'honnêteté suivie d'effet",
+    "predictable": "L'honnêteté exprimée lors d'une conversation passée est rarement suivie d'une question sur son effet réel ensuite",
+    "themes": [
+      "Honnêteté",
+      "Communication"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Depuis qu'on en a parlé honnêtement, tu trouves que ça a changé quelque chose ?",
+      "Ça a changé quelque chose entre nous depuis cette conversation honnête, tu trouves ?"
+    ]
+  },
+  {
+    "actionTitle": "L'aveu honnête d'une erreur par message",
+    "text": "Honnêtement, j'ai fait une erreur tantôt, aucune excuse, je voulais juste te le dire directement.",
+    "effect": "Avouer une erreur par message, sans minimiser ni se trouver d'excuse, montre une intégrité rarement démontrée aussi frontalement et rapidement. Elle reçoit une reconnaissance directe et sincère, sans attendre d'être confrontée à ce sujet.",
+    "sectionTitle": "SMS - L'honnêteté suivie d'effet",
+    "predictable": "Les erreurs sont rarement avouées spontanément par message, sans minimisation ni excuse, avant même d'être découvertes",
+    "themes": [
+      "Honnêteté",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Honnêtement, j'ai fait une erreur tantôt, aucune excuse, voulais te le dire directement.",
+      "Ai fait une erreur tantôt, aucune excuse, je voulais te le dire directement."
+    ]
+  },
+  {
+    "actionTitle": "Le message honnête sur une envie non dite",
+    "text": "Il y a un truc que je n'ai jamais osé te dire, mais je crois que c'est le moment d'être honnête là-dessus.",
+    "effect": "Annoncer l'intention d'exprimer honnêtement une envie jamais dite crée une anticipation sincère avant même que le contenu ne soit révélé. Elle sent qu'une vraie conversation honnête s'annonce, préparée consciemment plutôt que lâchée sans réflexion.",
+    "sectionTitle": "SMS - L'honnêteté suivie d'effet",
+    "predictable": "L'intention d'exprimer honnêtement une envie jamais dite est rarement annoncée à l'avance par message avant la conversation elle-même",
+    "themes": [
+      "Honnêteté",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Il y a un truc que je n'ai jamais osé te dire, crois que c'est le moment d'être honnête.",
+      "Jamais osé te le dire, mais crois que c'est le moment d'être honnête là-dessus."
+    ]
+  },
+  {
+    "actionTitle": "Le suivi sur un ajustement suite à une honnêteté",
+    "text": "Depuis qu'on en a parlé, j'ai vraiment essayé de changer ce truc, dis-moi si tu le remarques un peu.",
+    "effect": "Vérifier par message si un changement concret suite à une conversation honnête a été remarqué transforme l'honnêteté en démarche suivie et évaluée. Elle a l'occasion de confirmer ou non un changement réel, plutôt que de supposer qu'il a eu lieu.",
+    "sectionTitle": "SMS - L'honnêteté suivie d'effet",
+    "predictable": "Les ajustements suite à une conversation honnête sont rarement suivis d'une question explicite pour vérifier s'ils sont remarqués",
+    "themes": [
+      "Honnêteté",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Depuis qu'on en a parlé, ai vraiment essayé de changer ce truc, dis-moi si tu le remarques.",
+      "Ai essayé de changer ce truc depuis qu'on en a parlé, tu le remarques un peu ?"
+    ]
+  },
+  {
+    "actionTitle": "Le message qui invite à ralentir sensoriellement",
+    "text": "Ce soir, si on prenait vraiment le temps de savourer quelque chose ensemble, sans se presser du tout ?",
+    "effect": "Proposer par message de ralentir consciemment pour savourer un moment sensoriel installe une intention avant même le moment lui-même. Elle anticipe un moment où la sensation prime sur la rapidité habituelle du quotidien, rare dans les échanges pressés.",
+    "sectionTitle": "SMS - Le moment sensoriel prolongé",
+    "predictable": "L'invitation explicite à ralentir pour savourer une sensation partagée est rarement proposée par message avant le moment lui-même",
+    "themes": [
+      "Sensorialité",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce soir, si on prenait vraiment le temps de savourer quelque chose ensemble ?",
+      "Envie qu'on ralentisse vraiment ce soir pour savourer un moment ensemble, sans se presser."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui décrit une sensation précise",
+    "text": "Repensant à la texture de ce truc qu'on a touché ensemble l'autre jour, c'était vraiment agréable, tu te souviens ?",
+    "effect": "Évoquer une sensation précise vécue ensemble, par message, ravive un souvenir sensoriel rarement rappelé aussi spécifiquement après coup. Elle revit brièvement une sensation partagée, ce qui renforce la mémoire sensorielle commune au-delà du moment vécu initialement.",
+    "sectionTitle": "SMS - Le moment sensoriel prolongé",
+    "predictable": "Les sensations précises vécues ensemble sont rarement évoquées à nouveau par message bien après le moment initial",
+    "themes": [
+      "Sensorialité",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensant à cette texture qu'on a touchée ensemble, vraiment agréable, tu te souviens ?",
+      "Cette sensation qu'on a partagée l'autre jour, encore en tête, tu t'en souviens ?"
+    ]
+  },
+  {
+    "actionTitle": "Le bilan sur un moment sensoriel vécu ensemble",
+    "text": "Ce moment où on a vraiment pris le temps de savourer ensemble l'autre soir, ça m'a fait un bien fou, sincèrement.",
+    "effect": "Faire un bilan sincère sur l'effet ressenti après un moment sensoriel ralenti confirme sa valeur au-delà de l'instant vécu lui-même. Elle apprend l'impact réel que ce moment a eu, transformant une expérience isolée en souvenir valorisé et reconnu.",
+    "sectionTitle": "SMS - Le moment sensoriel prolongé",
+    "predictable": "L'effet ressenti après un moment sensoriel partagé est rarement partagé par message une fois le moment terminé",
+    "themes": [
+      "Sensorialité",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce moment où on a vraiment savouré ensemble l'autre soir, ça m'a fait un bien fou.",
+      "M'a fait un bien fou ce moment où on a pris le temps de savourer ensemble."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui propose de refaire une expérience sensorielle",
+    "text": "Et si on refaisait ce truc sensoriel qu'on avait essayé la dernière fois, mais avec une variante cette fois ?",
+    "effect": "Proposer explicitement de reconduire une expérience sensorielle, avec une variante, montre une volonté de continuer à cultiver cette attention ensemble. Elle a l'occasion de retrouver une sensation appréciée tout en découvrant une nouveauté qui l'enrichit.",
+    "sectionTitle": "SMS - Le moment sensoriel prolongé",
+    "predictable": "La reconduction d'une expérience sensorielle appréciée, avec une variante ajoutée, est rarement proposée explicitement par message",
+    "themes": [
+      "Sensorialité",
+      "Jeu"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 2,
+    "variations": [
+      "Et si on refaisait ce truc sensoriel de la dernière fois, mais avec une variante ?",
+      "Envie de refaire ce truc sensoriel d'avant, avec un petit twist cette fois ?"
+    ]
+  },
+  {
+    "actionTitle": "Le message qui anticipe un futur moment sensoriel",
+    "text": "Rien qu'à l'idée de ce qu'on va faire ce soir, je pense déjà aux sensations qu'on va partager, ça me met en joie.",
+    "effect": "Anticiper par message les sensations d'un moment à venir intensifie l'attente en la rendant vivante avant même que le moment n'arrive. Elle reçoit une invitation à savourer d'avance un moment sensoriel encore à venir, plutôt que de le découvrir seulement sur le moment.",
+    "sectionTitle": "SMS - Le moment sensoriel prolongé",
+    "predictable": "Les sensations d'un moment à venir sont rarement anticipées explicitement par message avant même qu'il n'ait lieu",
+    "themes": [
+      "Sensorialité",
+      "Anticipation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 2,
+    "variations": [
+      "Rien qu'à l'idée de ce soir, je pense déjà aux sensations qu'on va partager.",
+      "Pense déjà aux sensations de ce soir, rien qu'à l'idée, ça me met en joie."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui lâche le contrôle sur un choix",
+    "text": "Pour ce truc, choisis complètement comme tu veux, je ne dirai rien, promis, c'est totalement ton choix.",
+    "effect": "Lâcher explicitement le contrôle sur un choix par message, sans réserve, offre une vraie liberté de décision rarement accordée aussi clairement. Elle reçoit une confirmation directe que sa décision ne sera ni influencée ni commentée après coup.",
+    "sectionTitle": "SMS - Le contrôle lâché, puis retrouvé",
+    "predictable": "Le lâcher-prise explicite sur un choix, sans réserve ni commentaire après coup, est rarement confirmé aussi clairement par message",
+    "themes": [
+      "Contrôle",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisis complètement comme tu veux, je ne dirai rien, promis.",
+      "Ce truc, totalement ton choix, ne dirai rien après, c'est promis."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui reprend le contrôle sur soi-même",
+    "text": "Sentais l'envie de commenter ce que tu fais, mais je me suis retenu, choisi de me concentrer sur moi plutôt.",
+    "effect": "Partager une maîtrise consciente exercée sur soi-même, plutôt que sur une envie de contrôler l'autre, montre un vrai travail intérieur rarement révélé aussi ouvertement. Elle apprend qu'un effort de retenue a été fait spécifiquement pour respecter son autonomie, ce qui renforce la confiance mutuelle.",
+    "sectionTitle": "SMS - Le contrôle lâché, puis retrouvé",
+    "predictable": "L'effort conscient de retenue sur une envie de contrôler l'autre est rarement partagé ouvertement par message après coup",
+    "themes": [
+      "Contrôle",
+      "Self-awareness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Voulais commenter ce que tu fais, mais me suis retenu, concentré sur moi plutôt.",
+      "Ai senti l'envie de commenter, mais choisi de me recentrer sur moi à la place."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui confirme un contrôle partagé maintenu",
+    "text": "Toujours dans notre truc où tu gères cette partie, ça tient bon de mon côté, je ne reprends pas la main.",
+    "effect": "Confirmer par message qu'un contrôle partagé sur un sujet tient toujours prouve que le lâcher-prise était réel et durable, pas une concession ponctuelle. Elle voit que sa part de décision reste respectée dans la durée, sans reprise discrète de ta part.",
+    "sectionTitle": "SMS - Le contrôle lâché, puis retrouvé",
+    "predictable": "Le maintien d'un contrôle partagé sur un sujet est rarement confirmé spontanément par message, sans que ce soit vérifié",
+    "themes": [
+      "Contrôle",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Toujours dans notre truc où tu gères cette partie, ça tient bon, je ne reprends pas la main.",
+      "Ça tient toujours, tu gères cette partie, je ne reprends pas la main de mon côté."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui admet une difficulté à lâcher le contrôle",
+    "text": "Honnêtement, pas toujours facile pour moi de lâcher le contrôle sur ce truc, mais j'y travaille vraiment.",
+    "effect": "Admettre honnêtement une difficulté persistante à lâcher le contrôle, plutôt que de prétendre que c'est facile, montre une sincérité rare sur ce sujet précis. Elle comprend que l'effort est réel et continu, pas un acquis instantané et sans tension intérieure.",
+    "sectionTitle": "SMS - Le contrôle lâché, puis retrouvé",
+    "predictable": "Les difficultés persistantes à lâcher le contrôle sur un sujet sont rarement admises honnêtement par message",
+    "themes": [
+      "Contrôle",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Honnêtement, pas toujours facile pour moi de lâcher le contrôle, mais j'y travaille.",
+      "Pas toujours facile de lâcher le contrôle sur ce truc, mais j'y travaille vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Le message qui reconnaît le contrôle bien géré par elle",
+    "text": "Franchement, tu gères cette partie du planning bien mieux que moi, content d'avoir lâché ça de mon côté.",
+    "effect": "Reconnaître explicitement que le contrôle laissé à l'autre est bien géré, voire mieux que si on l'avait gardé, valide pleinement le choix du lâcher-prise. Elle reçoit une confirmation directe que sa gestion est appréciée, pas juste tolérée par défaut.",
+    "sectionTitle": "SMS - Le contrôle lâché, puis retrouvé",
+    "predictable": "La reconnaissance explicite qu'un contrôle laissé à l'autre est bien géré est rarement exprimée spontanément par message",
+    "themes": [
+      "Contrôle",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Franchement, tu gères cette partie bien mieux que moi, content d'avoir lâché ça.",
+      "Tu gères cette partie bien mieux que moi, franchement content d'avoir lâché ça."
+    ]
   }
 ]
