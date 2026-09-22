@@ -851,8 +851,10 @@
             if (currentFilters.drama > 0) filteredActions = filteredActions.filter(a => a.dramaIntensity === currentFilters.drama);
             if (currentFilters.sexual > 0) filteredActions = filteredActions.filter(a => a.sexualIntensity === currentFilters.sexual);
             if (currentFilters.theme !== 'all') filteredActions = filteredActions.filter(a => a.themes.includes(currentFilters.theme));
+            let activePhaseLabel = null;
             if (cycleSettings.cycleEnabled && cycleSettings.lastPeriodDate) {
                 const activePhases = getActivePhases(getCycleDay(cycleSettings.lastPeriodDate));
+                activePhaseLabel = activePhases.map(p => p.label).join(' → ');
                 filteredActions = filteredActions.filter(a => cardMatchesActivePhases(a, activePhases));
             }
             if (currentFilters.search) {
@@ -887,7 +889,8 @@
             applyIndeterminateStates();
             const categoryTotal = allActions.filter(a => a.category === currentCategory).length;
             const categoryLabels = { ACTIONS: 'actions', SMS: 'SMS', POSTITS: 'post-its' };
-            actionsCount.textContent = `Showing ${filteredActions.length} of ${categoryTotal} ${categoryLabels[currentCategory] || 'items'}.`;
+            const phaseSuffix = activePhaseLabel ? ` — période : ${activePhaseLabel}` : '';
+            actionsCount.textContent = `Showing ${filteredActions.length} of ${categoryTotal} ${categoryLabels[currentCategory] || 'items'}.${phaseSuffix}`;
             updateProgress();
         }
 
