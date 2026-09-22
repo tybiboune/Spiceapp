@@ -578,9 +578,22 @@
 
         cycleToggleBtn.addEventListener('click', () => {
             cycleSettings.cycleEnabled = !cycleSettings.cycleEnabled;
-            saveCycleSettings({ cycleEnabled: cycleSettings.cycleEnabled });
+            const payload = { cycleEnabled: cycleSettings.cycleEnabled };
+            // Turning it on with no date yet on file would otherwise filter
+            // nothing (silently showing everything, indistinguishable from
+            // being off) — default to today so the toggle visibly does
+            // something right away; the user can correct the date after.
+            if (cycleSettings.cycleEnabled && !cycleSettings.lastPeriodDate) {
+                cycleSettings.lastPeriodDate = new Date().toISOString().slice(0, 10);
+                payload.lastPeriodDate = cycleSettings.lastPeriodDate;
+            }
+            saveCycleSettings(payload);
         });
-        cycleLastPeriodInput.addEventListener('change', (e) => {
+        // 'input' (not just 'change') so a date picked via click-through on
+        // the native widget is saved immediately rather than only on blur —
+        // for type="date", .value is only ever empty or a complete valid
+        // date, so this can't save a garbage partial value.
+        cycleLastPeriodInput.addEventListener('input', (e) => {
             cycleSettings.lastPeriodDate = e.target.value || null;
             saveCycleSettings({ lastPeriodDate: cycleSettings.lastPeriodDate });
         });
