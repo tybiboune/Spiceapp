@@ -1103,7 +1103,21 @@
             updateBtn.disabled = true;
             showUpdateChecking('Checking for updates…');
             try {
-                const checkResponse = await fetch('/api/update/check', { cache: 'no-store' });
+                // The backend's own GitHub calls already time out well under
+                // this, but this guards against the backend itself being
+                // unreachable (e.g. no network at all) instead of the
+                // request just sitting forever with no feedback.
+                const controller = new AbortController();
+                const abortTimer = setTimeout(() => controller.abort(), 20000);
+                let checkResponse;
+                try {
+                    checkResponse = await fetch('/api/update/check', { cache: 'no-store', signal: controller.signal });
+                } catch (e) {
+                    if (e.name === 'AbortError') throw new Error('Update check timed out — check your connection.');
+                    throw e;
+                } finally {
+                    clearTimeout(abortTimer);
+                }
                 const checkResult = await checkResponse.json();
                 if (!checkResponse.ok) throw new Error(checkResult.error || 'Update check failed.');
 

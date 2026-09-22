@@ -8,6 +8,7 @@ import threading
 import time
 import urllib.error
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from flask import Flask, jsonify, request, send_from_directory
 from flask_cors import CORS
 from werkzeug.serving import make_server
@@ -37,6 +38,10 @@ UPDATE_IGNORED_PATHS = {"README.md", ".gitignore"}
 UPDATE_STATE_PATH = os.path.join(BASE_DIR, ".update_state.json")
 # Git trailer lines that are implementation detail, not user-facing changelog.
 COMMIT_TRAILER_PREFIXES = ("Co-Authored-By:", "Claude-Session:")
+# Kept short (rather than a more generous 20-30s) so a flaky/unreachable
+# connection (common on mobile) fails fast with a clear error instead of the
+# "Checking for updates…" spinner sitting for tens of seconds per call.
+GITHUB_TIMEOUT = 8
 
 def _repo_path_to_local(repo_path):
     """Repo layout is flat and mirrors BASE_DIR directly — no directory mapping needed."""
@@ -54,7 +59,7 @@ def _git_blob_sha1(data):
 def _fetch_remote_tree():
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/git/trees/{GITHUB_BRANCH}?recursive=1"
     req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
-    with urllib.request.urlopen(req, timeout=20) as resp:
+    with urllib.request.urlopen(req, timeout=GITHUB_TIMEOUT) as resp:
         data = json.loads(resp.read())
     return [item for item in data.get("tree", []) if item.get("type") == "blob"]
 
@@ -79,7 +84,7 @@ def _find_updates():
 def _download_file(repo_path):
     url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{GITHUB_BRANCH}/{repo_path}"
     req = urllib.request.Request(url, headers={"User-Agent": "Spiceapp-updater"})
-    with urllib.request.urlopen(req, timeout=20) as resp:
+    with urllib.request.urlopen(req, timeout=GITHUB_TIMEOUT) as resp:
         return resp.read()
 
 def _load_update_state():
@@ -98,7 +103,7 @@ def _save_update_state(state):
 def _fetch_head_sha():
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/commits/{GITHUB_BRANCH}"
     req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
-    with urllib.request.urlopen(req, timeout=20) as resp:
+    with urllib.request.urlopen(req, timeout=GITHUB_TIMEOUT) as resp:
         return json.loads(resp.read())["sha"]
 
 def _fetch_commits_since(base_sha, head_sha):
@@ -111,7 +116,7 @@ def _fetch_commits_since(base_sha, head_sha):
         return []
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/compare/{base_sha}...{head_sha}"
     req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
-    with urllib.request.urlopen(req, timeout=20) as resp:
+    with urllib.request.urlopen(req, timeout=GITHUB_TIMEOUT) as resp:
         data = json.loads(resp.read())
     commits = []
     for item in data.get("commits", []):
@@ -323,8 +328,15 @@ def check_update():
     human-readable commit messages since this install's last sync, without
     changing anything on disk."""
     try:
-        changed = _find_updates()
-        head_sha = _fetch_head_sha()
+        # _find_updates() (tree fetch + local diffing) and _fetch_head_sha()
+        # are independent GitHub calls — running them in parallel instead of
+        # one after the other roughly halves the worst-case wait before
+        # _fetch_commits_since() (which needs head_sha) can even start.
+        with ThreadPoolExecutor(max_workers=2) as pool:
+            changed_future = pool.submit(_find_updates)
+            head_sha_future = pool.submit(_fetch_head_sha)
+            changed = changed_future.result()
+            head_sha = head_sha_future.result()
         state = _load_update_state()
         commits = _fetch_commits_since(state.get("lastSha"), head_sha)
         return jsonify({
