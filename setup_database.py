@@ -1478,6 +1478,11 @@ def create_and_populate_db(actions_data):
     ''')
     print("   - 'actions' table created.")
 
+    # Key/value store for small persistent settings (cycle tracking toggle +
+    # last period date). IF NOT EXISTS and never dropped, unlike 'actions'
+    # above, so a content rebuild never wipes it out.
+    cursor.execute('CREATE TABLE IF NOT EXISTS settings (key TEXT PRIMARY KEY, value TEXT)')
+
     for action in actions_data:
         cursor.execute('''
             INSERT INTO actions (category, actionTitle, text, effect, themes, dramaIntensity, sexualIntensity, isDone, sectionTitle, predictable, variations)

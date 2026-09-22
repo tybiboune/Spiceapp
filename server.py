@@ -157,6 +157,21 @@ def get_db_connection():
     conn.row_factory = sqlite3.Row # This allows accessing columns by name
     return conn
 
+def _ensure_settings_table(conn):
+    """Key/value store for small persistent app settings (cycle tracking
+    toggle + last period date). Created lazily here too (not just in
+    setup_database.py) so it also works against a database.db that predates
+    this table, without forcing a full rebuild."""
+    conn.execute('CREATE TABLE IF NOT EXISTS settings (key TEXT PRIMARY KEY, value TEXT)')
+
+def _read_settings(conn):
+    rows = conn.execute('SELECT key, value FROM settings').fetchall()
+    values = {row['key']: row['value'] for row in rows}
+    return {
+        "cycleEnabled": values.get('cycle_enabled') == '1',
+        "lastPeriodDate": values.get('last_period_date') or None,
+    }
+
 def _db_version():
     """Cheap fingerprint of the database file's current content (mtime +
     size), used as a cache key: the client keeps a local copy of the whole
@@ -257,6 +272,48 @@ def toggle_variation_done(action_id, variation_index):
         updated_action = conn.execute('SELECT * FROM actions WHERE id = ?', (action_id,)).fetchone()
         conn.close()
         return jsonify(dict(updated_action))
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/api/settings', methods=['GET'])
+def get_settings():
+    """Returns the cycle-tracking toggle and last period date, persisted
+    server-side (database.db) so they survive closing the app, the same way
+    done-progress does."""
+    try:
+        conn = get_db_connection()
+        _ensure_settings_table(conn)
+        settings = _read_settings(conn)
+        conn.close()
+        return jsonify(settings)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/api/settings', methods=['POST'])
+def update_settings():
+    """Upserts whichever of cycleEnabled/lastPeriodDate is present in the
+    request body, leaving the other untouched, and returns the full
+    up-to-date settings."""
+    body = request.get_json(silent=True) or {}
+    try:
+        conn = get_db_connection()
+        _ensure_settings_table(conn)
+        if 'cycleEnabled' in body:
+            conn.execute(
+                'INSERT INTO settings (key, value) VALUES (?, ?) '
+                'ON CONFLICT(key) DO UPDATE SET value = excluded.value',
+                ('cycle_enabled', '1' if body['cycleEnabled'] else '0')
+            )
+        if 'lastPeriodDate' in body:
+            conn.execute(
+                'INSERT INTO settings (key, value) VALUES (?, ?) '
+                'ON CONFLICT(key) DO UPDATE SET value = excluded.value',
+                ('last_period_date', body['lastPeriodDate'] or '')
+            )
+        conn.commit()
+        settings = _read_settings(conn)
+        conn.close()
+        return jsonify(settings)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 

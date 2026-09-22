@@ -166,6 +166,26 @@
     <div id="app" class="min-h-screen p-3 pt-[max(0.75rem,env(safe-area-inset-top))] sm:p-6 lg:p-8">
         <div class="max-w-7xl mx-auto">
 
+            <!-- Cycle Mode bar: sits above everything else so the toggle is
+                 always the first thing reachable, per the "bouton tout en
+                 haut" requirement. When enabled, only actions/SMS/post-its
+                 correlated with the current cycle phase are shown. -->
+            <div id="cycle-bar" class="bg-white p-3 sm:p-4 rounded-2xl shadow-lg border border-slate-200 mb-4 sm:mb-6">
+                <div class="flex flex-wrap items-center gap-3 justify-between">
+                    <div class="flex flex-wrap items-center gap-2 sm:gap-3">
+                        <button id="cycle-toggle-btn" type="button" role="switch" aria-checked="false" class="min-h-[44px] px-4 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-500 hover:bg-slate-100 hover:text-slate-800">
+                            🌙 Cycle : <span id="cycle-toggle-state">désactivé</span>
+                        </button>
+                        <span id="cycle-phase-badge" class="hidden px-3 py-1.5 rounded-full text-sm font-medium bg-purple-100 text-purple-800 border border-purple-300"></span>
+                    </div>
+                    <div id="cycle-date-row" class="hidden items-center gap-2">
+                        <label for="cycle-last-period" class="text-sm font-medium text-slate-600">Dernières règles :</label>
+                        <input type="date" id="cycle-last-period" class="min-h-[44px] p-2 border border-slate-500 rounded-md shadow-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
+                    </div>
+                </div>
+                <p id="cycle-no-date-hint" class="hidden mt-2 text-sm text-slate-500">Renseigne la date de tes dernières règles pour activer le filtrage par période du cycle.</p>
+            </div>
+
             <!-- Header -->
             <header class="text-center mb-5 sm:mb-8">
                 <h1 class="text-3xl sm:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-500 to-indigo-500">Relationship Spice</h1>
@@ -377,6 +397,14 @@
         const progressPercent = document.getElementById('progress-percent');
         const progressBar = document.getElementById('progress-bar');
 
+        // Cycle mode controls
+        const cycleToggleBtn = document.getElementById('cycle-toggle-btn');
+        const cycleToggleState = document.getElementById('cycle-toggle-state');
+        const cyclePhaseBadge = document.getElementById('cycle-phase-badge');
+        const cycleDateRow = document.getElementById('cycle-date-row');
+        const cycleLastPeriodInput = document.getElementById('cycle-last-period');
+        const cycleNoDateHint = document.getElementById('cycle-no-date-hint');
+
         // Shared HTML-escaping helpers — text content and attribute values
         // need slightly different escaping (attributes also need quotes
         // escaped so injected text can't break out of the surrounding ""),
@@ -400,8 +428,166 @@
         };
         let currentSort = 'default';
 
+        // --- Cycle Mode ---
+        // Standard 28-day cycle broken into 5 phases (day 1 = first day of
+        // period). Each phase carries the "drama"/sexual intensity range and
+        // theme keywords (FR + EN, since the corpus was written in mixed
+        // batches) that correlate psychologically/energetically/sexually
+        // with it, used to filter which cards are shown when cycle mode is on.
+        const CYCLE_LENGTH = 28;
+        const CYCLE_PHASES = [
+            {
+                key: 'menstrual', label: 'Règles', range: [1, 5],
+                dramaRange: [1, 3], sexualRange: [1, 2],
+                boost: ['care', 'comfort', 'confort', 'tenderness', 'tendresse', 'douceur', 'rest', 'repos',
+                        'bienveillance', 'patience', 'écoute', 'ecoute', 'introspection', 'cocooning']
+            },
+            {
+                key: 'follicular', label: 'Folliculaire', range: [6, 11],
+                dramaRange: [2, 4], sexualRange: [2, 4],
+                boost: ['adventure', 'aventure', 'spontaneity', 'spontanéité', 'playful', 'ludique',
+                        'discovery', 'découverte', 'confidence', 'confiance', 'energy', 'énergie',
+                        'curiosity', 'curiosité', 'nouveauté', 'novelty']
+            },
+            {
+                key: 'ovulation', label: 'Ovulation', range: [12, 16],
+                dramaRange: [3, 5], sexualRange: [3, 5],
+                boost: ['desire', 'désir', 'passion', 'physical', 'physique', 'primal', 'confidence',
+                        'confiance', 'flirty', 'séduction', 'seduction', 'sensory', 'sensorialité',
+                        'dominance', 'power dynamics', 'erotic', 'érotique', 'intensité', 'intensity']
+            },
+            {
+                key: 'luteal_early', label: 'Lutéale', range: [17, 23],
+                dramaRange: [1, 3], sexualRange: [1, 3],
+                boost: ['focus', 'nesting', 'routine', 'care', 'connection', 'connexion', 'rituel',
+                        'ritual', 'constance', 'préparation', 'preparation', 'fidélité', 'loyauté']
+            },
+            {
+                key: 'luteal_late', label: 'Prémenstruel', range: [24, 28],
+                dramaRange: [1, 2], sexualRange: [1, 2],
+                boost: ['bienveillance', 'patience', 'care', 'reassurance', 'réassurance', 'comfort',
+                        'confort', 'écoute', 'ecoute', 'douceur', 'vulnerability', 'vulnérabilité',
+                        'honnêteté', 'honesty']
+            }
+        ];
+
+        let cycleSettings = { cycleEnabled: false, lastPeriodDate: null };
+
+        /**
+         * Computes the current 1..CYCLE_LENGTH cycle day from a "YYYY-MM-DD"
+         * last-period date, wrapping around every 28 days regardless of how
+         * long ago that date was.
+         */
+        function getCycleDay(lastPeriodDate) {
+            const start = new Date(lastPeriodDate + 'T00:00:00');
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            const diffDays = Math.floor((today - start) / 86400000);
+            return ((diffDays % CYCLE_LENGTH) + CYCLE_LENGTH) % CYCLE_LENGTH + 1;
+        }
+
+        /**
+         * Which phase(s) are "active" for a given cycle day. Normally just
+         * one, but within 1 day of a phase boundary (the "période charnière"
+         * between two periods) both neighboring phases are included, so the
+         * shown cards blend rather than snapping abruptly from one profile
+         * to the next.
+         */
+        function getActivePhases(cycleDay) {
+            const pad = 1;
+            return CYCLE_PHASES.filter(phase => {
+                for (let d = phase.range[0] - pad; d <= phase.range[1] + pad; d++) {
+                    const normalized = ((d - 1) % CYCLE_LENGTH + CYCLE_LENGTH) % CYCLE_LENGTH + 1;
+                    if (normalized === cycleDay) return true;
+                }
+                return false;
+            });
+        }
+
+        function cardMatchesPhase(action, phase) {
+            const themesLower = (action.themes || []).map(t => String(t).toLowerCase());
+            const boostHit = phase.boost.some(kw => themesLower.some(t => t.includes(kw)));
+            if (boostHit) return true;
+            return action.dramaIntensity >= phase.dramaRange[0] && action.dramaIntensity <= phase.dramaRange[1] &&
+                   action.sexualIntensity >= phase.sexualRange[0] && action.sexualIntensity <= phase.sexualRange[1];
+        }
+
+        function cardMatchesActivePhases(action, activePhases) {
+            return activePhases.some(phase => cardMatchesPhase(action, phase));
+        }
+
+        /**
+         * Reads the settings persisted server-side (database.db), the same
+         * place done-progress lives, so cycle mode + last period date
+         * survive closing the app.
+         */
+        async function loadCycleSettings() {
+            try {
+                const response = await fetch('/api/settings');
+                if (!response.ok) return;
+                cycleSettings = await response.json();
+            } catch (e) {
+                // Server unreachable — cycle mode just stays off/unset locally.
+            } finally {
+                renderCycleUI();
+            }
+        }
+
+        async function saveCycleSettings(partial) {
+            try {
+                const response = await fetch('/api/settings', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(partial)
+                });
+                if (response.ok) cycleSettings = await response.json();
+            } catch (e) {
+                // Keep the optimistic local value already applied by the caller.
+            }
+            renderCycleUI();
+            renderActions();
+        }
+
+        function renderCycleUI() {
+            const enabled = !!cycleSettings.cycleEnabled;
+            cycleToggleBtn.setAttribute('aria-checked', enabled ? 'true' : 'false');
+            cycleToggleState.textContent = enabled ? 'activé' : 'désactivé';
+            cycleToggleBtn.classList.toggle('bg-purple-600', enabled);
+            cycleToggleBtn.classList.toggle('text-white', enabled);
+            cycleToggleBtn.classList.toggle('border', !enabled);
+            cycleToggleBtn.classList.toggle('border-slate-500', !enabled);
+            cycleToggleBtn.classList.toggle('bg-white', !enabled);
+            cycleToggleBtn.classList.toggle('text-slate-600', !enabled);
+
+            cycleDateRow.style.display = enabled ? 'flex' : 'none';
+            cycleLastPeriodInput.value = cycleSettings.lastPeriodDate || '';
+
+            const hasDate = enabled && !!cycleSettings.lastPeriodDate;
+            cycleNoDateHint.classList.toggle('hidden', !enabled || hasDate);
+
+            if (hasDate) {
+                const cycleDay = getCycleDay(cycleSettings.lastPeriodDate);
+                const activePhases = getActivePhases(cycleDay);
+                const label = activePhases.map(p => p.label).join(' → ');
+                cyclePhaseBadge.textContent = `${label} (jour ${cycleDay})`;
+                cyclePhaseBadge.classList.remove('hidden');
+            } else {
+                cyclePhaseBadge.classList.add('hidden');
+            }
+        }
+
+        cycleToggleBtn.addEventListener('click', () => {
+            cycleSettings.cycleEnabled = !cycleSettings.cycleEnabled;
+            saveCycleSettings({ cycleEnabled: cycleSettings.cycleEnabled });
+        });
+        cycleLastPeriodInput.addEventListener('change', (e) => {
+            cycleSettings.lastPeriodDate = e.target.value || null;
+            saveCycleSettings({ lastPeriodDate: cycleSettings.lastPeriodDate });
+        });
+
         // --- Event Listeners ---
         window.addEventListener('DOMContentLoaded', loadActionsFromServer);
+        window.addEventListener('DOMContentLoaded', loadCycleSettings);
         window.addEventListener('DOMContentLoaded', showPendingUpdateDetailsIfAny);
         const dramaFilterValue = document.getElementById('drama-filter-value');
         const sexualFilterValue = document.getElementById('sexual-filter-value');
@@ -652,6 +838,10 @@
             if (currentFilters.drama > 0) filteredActions = filteredActions.filter(a => a.dramaIntensity === currentFilters.drama);
             if (currentFilters.sexual > 0) filteredActions = filteredActions.filter(a => a.sexualIntensity === currentFilters.sexual);
             if (currentFilters.theme !== 'all') filteredActions = filteredActions.filter(a => a.themes.includes(currentFilters.theme));
+            if (cycleSettings.cycleEnabled && cycleSettings.lastPeriodDate) {
+                const activePhases = getActivePhases(getCycleDay(cycleSettings.lastPeriodDate));
+                filteredActions = filteredActions.filter(a => cardMatchesActivePhases(a, activePhases));
+            }
             if (currentFilters.search) {
                 const q = currentFilters.search;
                 filteredActions = filteredActions.filter(a =>
