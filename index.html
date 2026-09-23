@@ -1299,9 +1299,21 @@
                 if (restarting) {
                     showUpdateToast(`Updated ${total} file(s). Restarting server…`);
                     await fetch('/api/update/restart', { method: 'POST' });
-                    await waitForServerRestart();
-                    showUpdateToast('Back online — reloading…');
-                    setTimeout(() => window.location.reload(), 400);
+                    const backOnline = await waitForServerRestart();
+                    if (backOnline) {
+                        showUpdateToast('Back online — reloading…');
+                        setTimeout(() => window.location.reload(), 400);
+                    } else {
+                        // The server never answered again — reloading now
+                        // would just hang on a dead connection with no
+                        // feedback (the exact "stuck on Reloading…" bug).
+                        // The files are already on disk either way, so tell
+                        // the user to relaunch instead of pretending it worked.
+                        try { sessionStorage.removeItem(UPDATE_PENDING_KEY); } catch (e) { /* ignore */ }
+                        showUpdateToast('Mise à jour installée, mais le serveur ne redémarre pas tout seul — ferme puis relance l\'application.');
+                        setTimeout(hideUpdateToast, 8000);
+                        updateBtn.disabled = false;
+                    }
                 } else {
                     showUpdateToast(`Updated ${total} file(s). Reloading…`);
                     setTimeout(() => window.location.reload(), 800);
@@ -1325,12 +1337,18 @@
             for (let attempt = 0; attempt < 30; attempt++) {
                 try {
                     const response = await fetch('/api/actions', { cache: 'no-store' });
-                    if (response.ok) return;
+                    if (response.ok) return true;
                 } catch (e) {
                     // Server is down mid-restart — expected, keep polling.
                 }
                 await new Promise(r => setTimeout(r, 1000));
             }
+            // ~31s without a response — the process likely never came back
+            // (e.g. killed outright rather than cleanly restarting, which
+            // happens on some mobile setups like Termux when the OS
+            // suspends/kills the background process). Let the caller decide
+            // what to tell the user instead of assuming success.
+            return false;
         }
 
         /**
