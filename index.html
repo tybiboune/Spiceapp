@@ -543,19 +543,35 @@
             }
         }
 
-        async function saveCycleSettings(partial) {
+        /**
+         * Persists a settings change to the server in the background.
+         * Deliberately NOT awaited by callers before rendering: all the data
+         * needed to filter/render is already in memory (allActions), so
+         * there's nothing to stream or wait on locally — the only actual
+         * latency was this network round-trip blocking the UI update.
+         * Rendering optimistically first, and only reconciling from the
+         * server's response (or rolling back) once it lands, is what makes
+         * the toggle feel instant.
+         */
+        async function persistCycleSettings(partial) {
             try {
                 const response = await fetch('/api/settings', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify(partial)
                 });
-                if (response.ok) cycleSettings = await response.json();
+                // Reconcile with whatever the server actually stored. On
+                // failure, just keep the optimistic value the caller already
+                // applied and rendered — nothing to roll back to, since we
+                // never had a separate "confirmed" copy to fall back on.
+                if (response.ok) {
+                    cycleSettings = await response.json();
+                    renderCycleUI();
+                    renderActions();
+                }
             } catch (e) {
-                // Keep the optimistic local value already applied by the caller.
+                // Offline/unreachable — optimistic local state stands as-is.
             }
-            renderCycleUI();
-            renderActions();
         }
 
         function renderCycleUI() {
@@ -598,7 +614,12 @@
                 cycleSettings.lastPeriodDate = new Date().toISOString().slice(0, 10);
                 payload.lastPeriodDate = cycleSettings.lastPeriodDate;
             }
-            saveCycleSettings(payload);
+            // Render straight away from the already-in-memory data — the
+            // network save happens after, in the background, so the toggle
+            // never waits on a round-trip to feel responsive.
+            renderCycleUI();
+            renderActions();
+            persistCycleSettings(payload);
         });
         // 'input' (not just 'change') so a date picked via click-through on
         // the native widget is saved immediately rather than only on blur —
@@ -606,7 +627,9 @@
         // date, so this can't save a garbage partial value.
         cycleLastPeriodInput.addEventListener('input', (e) => {
             cycleSettings.lastPeriodDate = e.target.value || null;
-            saveCycleSettings({ lastPeriodDate: cycleSettings.lastPeriodDate });
+            renderCycleUI();
+            renderActions();
+            persistCycleSettings({ lastPeriodDate: cycleSettings.lastPeriodDate });
         });
 
         // --- Event Listeners ---
