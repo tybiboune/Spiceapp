@@ -18469,5 +18469,805 @@
     "variations": [
       "Ce petit truc du quotidien qui te pesait a été pris en charge, sans vérification — c'est réglé."
     ]
+  },
+  {
+    "actionTitle": "On the Kitchen Window",
+    "text": "Take a reading before you leave the house — what's the internal weather doing today, clear or a little overcast?",
+    "effect": "Placing a weather-themed check-in on an actual window ties the metaphor to something she'll see on her way out, making the question feel woven into the morning itself. She's invited to answer with texture, not just a reflexive fine.",
+    "sectionTitle": "Post-its - How Are You",
+    "predictable": "Kitchen windows rarely carry a note asking for an internal weather reading before she leaves the house",
+    "themes": [
+      "Literary",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take a reading before you go — internal weather today, clear or overcast?"
+    ]
+  },
+  {
+    "actionTitle": "Inside a Shoe",
+    "text": "A small sounding, taken before your feet even hit the ground today — how deep has the day been getting so far?",
+    "effect": "Hiding a check-in inside a shoe, found right at the start of the day, ties the sounding metaphor to the very first steps taken. She discovers the question before the day has even properly begun, making it feel like a genuine first check-in.",
+    "sectionTitle": "Post-its - How Are You",
+    "predictable": "Shoes rarely contain a note taking a sounding of the day's depth before the day has even properly started",
+    "themes": [
+      "Literary",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A small sounding before your feet even hit the ground — how deep's the day so far?"
+    ]
+  },
+  {
+    "actionTitle": "On the Steering Wheel",
+    "text": "Requesting a brief, unofficial state-of-the-day address before you drive off — no polish required, raw notes welcome.",
+    "effect": "Leaving a mock-formal request on the steering wheel, right before departure, times the question to a genuine pause in the day. She's invited to report honestly in the last quiet moment before things get busy.",
+    "sectionTitle": "Post-its - How Are You",
+    "predictable": "Steering wheels rarely carry a note requesting an unofficial state-of-the-day address just before driving off",
+    "themes": [
+      "Literary",
+      "Playful"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Requesting a brief unofficial state-of-the-day before you drive off — no polish needed."
+    ]
+  },
+  {
+    "actionTitle": "On the Bathroom Mirror",
+    "text": "Before the day gets its hands on you — quick barometer check, is the needle rising, falling, or holding steady this morning?",
+    "effect": "Placing a barometer metaphor on the mirror she checks each morning ties an abstract mood-check to the most literal moment of self-reflection in her day. She's invited to name a trend before the day has had a chance to shape it.",
+    "sectionTitle": "Post-its - How Are You",
+    "predictable": "Bathroom mirrors rarely carry a note framed as a barometer check on whether the needle is rising, falling, or steady",
+    "themes": [
+      "Literary",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quick barometer check before the day gets its hands on you — rising, falling, steady?"
+    ]
+  },
+  {
+    "actionTitle": "On the Coffee Maker",
+    "text": "Not asking about the surface today — brewing this for you while genuinely curious what's actually moving underneath it all.",
+    "effect": "Pairing a question about deeper feelings with the coffee maker, a device tied to a quiet morning ritual, gives the question a warm, unhurried setting. She receives an invitation to go beneath the surface while something comforting brews.",
+    "sectionTitle": "Post-its - How Are You",
+    "predictable": "Coffee makers rarely carry a note explicitly skipping the surface question in favor of what's moving underneath",
+    "themes": [
+      "Literary",
+      "Depth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Not asking about the surface today — genuinely curious what's moving underneath."
+    ]
+  },
+  {
+    "actionTitle": "On Her Side of the Bed",
+    "text": "There's a very specific kind of quiet on this side of the room lately, shaped exactly like you not being in it.",
+    "effect": "Placing the note on her own side of the bed ties the described absence directly to the physical space she'll notice it in most. She finds a vivid image of her own absence exactly where it's most keenly felt.",
+    "sectionTitle": "Post-its - I Miss You",
+    "predictable": "The side of the bed rarely carries a note describing the specific shape the surrounding quiet has taken in her absence",
+    "themes": [
+      "Literary",
+      "Longing"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A very specific kind of quiet here lately, shaped exactly like you not being in it."
+    ]
+  },
+  {
+    "actionTitle": "On a Heavy Object, Like a Dumbbell",
+    "text": "Everything's had slightly more gravity to it lately — not sure how to explain that except that you weren't around.",
+    "effect": "Leaving the gravity metaphor on an object that is literally heavy adds a playful, physical pun to an otherwise abstract feeling. She finds a small joke layered under a genuine admission of missing her.",
+    "sectionTitle": "Post-its - I Miss You",
+    "predictable": "Heavy objects rarely carry a note about everything feeling like it has more gravity lately due to someone's absence",
+    "themes": [
+      "Literary",
+      "Longing"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Everything's had more gravity to it lately — not sure how to explain except you weren't around."
+    ]
+  },
+  {
+    "actionTitle": "In the Hallway, at Eye Level",
+    "text": "Said something out loud right here recently and it just echoed back at me — a little on the nose, missing you today.",
+    "effect": "Placing the note in the exact hallway spot where the echo happened ties the described moment to the physical location it occurred in. She discovers the note precisely where the small scene took place, making it feel newly real.",
+    "sectionTitle": "Post-its - I Miss You",
+    "predictable": "Hallways rarely carry a note describing an echo that happened in that exact spot as a reminder of missing someone",
+    "themes": [
+      "Literary",
+      "Longing"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Said something out loud right here recently and it echoed back — missing you today."
+    ]
+  },
+  {
+    "actionTitle": "On a Ruler or Tape Measure",
+    "text": "Tried to figure out exactly how far away you were today and the usual units on this thing didn't really cover it.",
+    "effect": "Leaving the distance-measurement joke on an actual measuring tool makes the metaphor literal and a little absurd. She finds a playful admission that ordinary units fail to capture what missing someone actually feels like.",
+    "sectionTitle": "Post-its - I Miss You",
+    "predictable": "Rulers or tape measures rarely carry a note admitting their usual units don't cover the distance of missing someone",
+    "themes": [
+      "Literary",
+      "Longing"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tried to figure out how far away you were today — the usual units didn't cover it."
+    ]
+  },
+  {
+    "actionTitle": "Next to the Landline or Old Phone",
+    "text": "Keep having half a conversation with you in my head lately — your unwritten lines are better than anything I could plan.",
+    "effect": "Placing the note near an old phone, an object tied to actual conversation, contrasts nicely with the described imaginary one happening entirely in her absence. She finds the admission in a spot that quietly nods to real vs. imagined talk.",
+    "sectionTitle": "Post-its - I Miss You",
+    "predictable": "Old phones rarely have a note beside them describing an ongoing imagined conversation with lines attributed to someone absent",
+    "themes": [
+      "Literary",
+      "Longing"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Keep having half a conversation with you in my head lately — your lines are better."
+    ]
+  },
+  {
+    "actionTitle": "On a Speaker or Radio",
+    "text": "You've been the background hum under everything else coming through here lately — not loud, just constantly, quietly there.",
+    "effect": "Placing the background-hum metaphor on an actual speaker plays with the literal and figurative meaning of hum in the same spot. She finds the description exactly where sound is made, layering a small pun under a sincere thought.",
+    "sectionTitle": "Post-its - Thinking of You",
+    "predictable": "Speakers rarely carry a note describing someone as the background hum under everything else, playing on the literal meaning",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "You've been the background hum under everything else lately, quietly there."
+    ]
+  },
+  {
+    "actionTitle": "In the Margin of an Actual Book",
+    "text": "You're basically the little note in the margin I keep going back to reread — this one's real, but so are you, in my head.",
+    "effect": "Writing the margin-note metaphor directly in the margin of a real book collapses the comparison into something literal and playful. She finds the described thing exactly where it's being described, doubling the effect.",
+    "sectionTitle": "Post-its - Thinking of You",
+    "predictable": "Book margins rarely contain a note comparing someone to a margin note itself, collapsing the metaphor into something literal",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "You're the little note in the margin I keep rereading — this one's real, so are you."
+    ]
+  },
+  {
+    "actionTitle": "On a Road Map or GPS Mount",
+    "text": "My thoughts keep taking the exact same little detour lately, and it always leads straight back to you, no matter the route.",
+    "effect": "Placing the detour metaphor on an object literally used for navigation ties an emotional pattern to a tool meant for finding routes. She finds the described mental detour exactly where actual detours would be planned.",
+    "sectionTitle": "Post-its - Thinking of You",
+    "predictable": "GPS mounts or road maps rarely carry a note about thoughts taking a mental detour that always leads back to someone",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "My thoughts keep taking the same detour lately, and it leads straight back to you."
+    ]
+  },
+  {
+    "actionTitle": "On Headphones",
+    "text": "You're doing that thing again where you're stuck in my head like a song I didn't even choose to start playing.",
+    "effect": "Leaving the song-on-loop metaphor on headphones, an object literally used for listening to music, makes the comparison land exactly where it's most literal. She finds the thought in the precise place associated with actual songs playing.",
+    "sectionTitle": "Post-its - Thinking of You",
+    "predictable": "Headphones rarely carry a note comparing someone to a song stuck on loop that wasn't deliberately chosen to start",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "You're stuck in my head again like a song I didn't even choose to start."
+    ]
+  },
+  {
+    "actionTitle": "On a Compass or Old Keychain",
+    "text": "Whatever direction my attention drifts lately, it always ends up pointing your way, like this thing only ever knowing one direction.",
+    "effect": "Placing the weather-vane-style metaphor on a compass or keychain, both literally about direction, grounds the comparison in an object meant for orientation. She finds the described consistent pull exactly where direction is the whole point.",
+    "sectionTitle": "Post-its - Thinking of You",
+    "predictable": "Compasses rarely carry a note about attention always pointing in one direction, echoing the object's own literal function",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever direction my attention drifts, it ends up pointing your way, always."
+    ]
+  },
+  {
+    "actionTitle": "By the Light Switch",
+    "text": "Turning the last light off in my head for the night, same as this one — you're the one thing I'm leaving on, on purpose.",
+    "effect": "Placing the goodnight note right by an actual light switch collapses the metaphor into the literal action she's about to take. She finds the described mental image exactly where the real gesture of turning off a light happens.",
+    "sectionTitle": "Post-its - Good Night / Good Morning",
+    "predictable": "Light switches rarely carry a note about mentally turning off every light except the one meant for her",
+    "themes": [
+      "Literary",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Turning the last light off in my head, same as this one — you're the one left on."
+    ]
+  },
+  {
+    "actionTitle": "On a Notebook's First Blank Page",
+    "text": "This morning's still just a rough first draft — you're the first thing I wanted written into it properly, starting right here.",
+    "effect": "Writing the draft metaphor on the actual first blank page of a notebook makes the comparison literal and immediate. She finds the described intention exactly where a real first entry would go.",
+    "sectionTitle": "Post-its - Good Night / Good Morning",
+    "predictable": "The first blank page of a notebook rarely carries a note about wanting someone written into the day's rough draft",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This morning's still a rough draft — you're the first thing I wanted written in."
+    ]
+  },
+  {
+    "actionTitle": "Near the Beach Towel or Boots",
+    "text": "Feeling the day pull away like a tide going out lately — wanted you to be the last thing standing on the shore before it does.",
+    "effect": "Placing the tide metaphor near beach-related objects ties an abstract description of tiredness to something literally connected to actual tides. She finds the described image in a spot that quietly echoes its own metaphor.",
+    "sectionTitle": "Post-its - Good Night / Good Morning",
+    "predictable": "Beach towels rarely carry a note comparing the end of the day to a tide going out, echoing their own literal association",
+    "themes": [
+      "Literary",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Feeling the day pull away like a tide lately — wanted you the last thing on the shore."
+    ]
+  },
+  {
+    "actionTitle": "On the Coffee Machine",
+    "text": "Still a blank page before coffee most mornings, but at least I already know exactly which name goes on the first line, every time.",
+    "effect": "Leaving the blank-page metaphor on the coffee machine ties a pre-caffeine mental state to the actual object responsible for ending it. She finds the described morning fog exactly where the remedy for it lives.",
+    "sectionTitle": "Post-its - Good Night / Good Morning",
+    "predictable": "Coffee machines rarely carry a note about the pre-coffee mind being a blank page with a name chosen for the first line",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Still a blank page before coffee — but I know which name goes on the first line."
+    ]
+  },
+  {
+    "actionTitle": "Tied to a Boat Keychain or Anchor Charm",
+    "text": "Dropping anchor for the night now, same as always — wherever the day's current took things, this is where it lands, thinking of you.",
+    "effect": "Placing the anchor metaphor on an object literally shaped like an anchor makes the comparison concrete rather than purely verbal. She finds the described settling-down exactly where the real symbol of it hangs.",
+    "sectionTitle": "Post-its - Good Night / Good Morning",
+    "predictable": "Anchor-shaped objects rarely carry a note about dropping anchor mentally at the end of a day of drifting",
+    "themes": [
+      "Literary",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dropping anchor for the night — wherever today drifted, this is where it lands."
+    ]
+  },
+  {
+    "actionTitle": "On an Actual Wall",
+    "text": "Just realized lately how much you're quietly the load-bearing wall in a lot of this — thank you for holding things up unasked.",
+    "effect": "Placing the load-bearing-wall metaphor on a real wall makes the comparison literal in a small, playful way while keeping the gratitude genuine. She finds sincere recognition in a spot that quietly winks at its own image.",
+    "sectionTitle": "Post-its - Thank You For Being Here",
+    "predictable": "Walls rarely carry a note comparing the person who finds it to a load-bearing wall holding everything up unnoticed",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Just realized how much you're quietly the load-bearing wall in a lot of this, thank you."
+    ]
+  },
+  {
+    "actionTitle": "On a Physical Map or Atlas",
+    "text": "Grateful lately that you're the steady hand keeping this kind of thing from shaking while I figure out where we're actually headed.",
+    "effect": "Leaving the steady-hand-on-a-map metaphor on an actual map or atlas ties the comparison directly to the object it describes. She finds gratitude for stability exactly where uncertainty about direction would literally be mapped out.",
+    "sectionTitle": "Post-its - Thank You For Being Here",
+    "predictable": "Maps or atlases rarely carry a note about someone being the steady hand keeping the map itself from shaking",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Grateful you're the steady hand keeping things from shaking while we figure out direction."
+    ]
+  },
+  {
+    "actionTitle": "Near a Nightlight",
+    "text": "Even on the least dramatic, most ordinary nights, you're still quietly doing the lighthouse thing — thank you for that, always.",
+    "effect": "Placing the lighthouse metaphor near a nightlight, an object with a literally similar function, grounds the comparison in something tangible and close by. She finds gratitude for quiet reliability exactly where a small, steady light already lives.",
+    "sectionTitle": "Post-its - Thank You For Being Here",
+    "predictable": "Nightlights rarely carry a note comparing someone to a lighthouse doing the same steady job on ordinary nights",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Even on the most ordinary nights, you're still quietly doing the lighthouse thing, thank you."
+    ]
+  },
+  {
+    "actionTitle": "On a Toolbox",
+    "text": "You're basically my margin of safety in a lot of decisions lately, and I don't think I say that out loud nearly enough.",
+    "effect": "Leaving the engineering metaphor on a toolbox, an object associated with precision and reliability, ties the comparison to something concretely dependable. She finds gratitude for a specific function expressed in a fittingly practical spot.",
+    "sectionTitle": "Post-its - Thank You For Being Here",
+    "predictable": "Toolboxes rarely carry a note describing someone as a margin of safety in recent decisions",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "You're basically my margin of safety in a lot of decisions, don't say it enough."
+    ]
+  },
+  {
+    "actionTitle": "On a Calculator",
+    "text": "In a week full of variables lately, you've been the one constant in the equation — thank you for staying put in that role.",
+    "effect": "Placing the math metaphor on a calculator, an object literally used for equations, makes the comparison land in exactly the right spot. She finds gratitude for reliability expressed in a place that quietly reinforces its own image.",
+    "sectionTitle": "Post-its - Thank You For Being Here",
+    "predictable": "Calculators rarely carry a note about someone being the one constant in a week full of variables",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "In a week full of variables, you've been the one constant, thank you for staying put."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Fenêtre de la Cuisine",
+    "text": "Prends une petite mesure avant de sortir de la maison — quelle météo intérieure aujourd'hui, grand ciel bleu ou léger voile ?",
+    "effect": "Placer une question sur la météo intérieure sur une vraie fenêtre relie la métaphore à quelque chose qu'elle verra en sortant, tissant la question dans le matin lui-même. Elle est invitée à répondre avec de la texture, pas juste un réflexe poli.",
+    "sectionTitle": "Post-its - Comment Ça Va",
+    "predictable": "Les fenêtres de cuisine portent rarement un mot demandant une météo intérieure avant même de sortir de la maison",
+    "themes": [
+      "Littéraire",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prends une mesure avant de sortir — météo intérieure aujourd'hui, ciel bleu ou voile ?"
+    ]
+  },
+  {
+    "actionTitle": "Dans une Chaussure",
+    "text": "Une petite sonde, envoyée avant même que tes pieds ne touchent le sol aujourd'hui — la journée en est déjà à quelle profondeur ?",
+    "effect": "Cacher une prise de nouvelles dans une chaussure, trouvée dès le début de la journée, relie la métaphore de la sonde aux tout premiers pas. Elle découvre la question avant même que la journée n'ait vraiment commencé, ce qui la rend sincèrement première.",
+    "sectionTitle": "Post-its - Comment Ça Va",
+    "predictable": "Les chaussures contiennent rarement un mot mesurant la profondeur de la journée avant même qu'elle n'ait vraiment commencé",
+    "themes": [
+      "Littéraire",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Une petite sonde avant même que tes pieds touchent le sol — la journée en est où ?"
+    ]
+  },
+  {
+    "actionTitle": "Sur le Volant de la Voiture",
+    "text": "Je demande officiellement un petit bulletin non officiel de la journée avant que tu ne démarres — brouillon accepté, rien à polir.",
+    "effect": "Laisser une demande faussement formelle sur le volant, juste avant le départ, cale la question sur une vraie pause de la journée. Elle est invitée à répondre honnêtement dans le dernier moment calme avant que les choses ne s'accélèrent.",
+    "sectionTitle": "Post-its - Comment Ça Va",
+    "predictable": "Les volants de voiture portent rarement un mot demandant un bulletin officieux de la journée juste avant de démarrer",
+    "themes": [
+      "Littéraire",
+      "Ludique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Bulletin non officiel de la journée avant de démarrer — brouillon accepté, rien à polir."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Miroir de la Salle de Bain",
+    "text": "Avant que la journée ne te mette la main dessus — petit contrôle du baromètre, l'aiguille monte, descend, ou tient bon ce matin ?",
+    "effect": "Placer une métaphore de baromètre sur le miroir qu'elle consulte chaque matin relie une vérification d'humeur abstraite au moment le plus littéral d'introspection de sa journée. Elle est invitée à nommer une tendance avant que la journée n'ait eu la chance de la façonner.",
+    "sectionTitle": "Post-its - Comment Ça Va",
+    "predictable": "Les miroirs de salle de bain portent rarement un mot formulé comme un contrôle de baromètre sur l'humeur du matin",
+    "themes": [
+      "Littéraire",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Contrôle du baromètre avant que la journée ne s'en mêle — ça monte, descend, ou tient ?"
+    ]
+  },
+  {
+    "actionTitle": "Sur la Cafetière",
+    "text": "Je ne demande pas ce qui se passe en surface aujourd'hui — je prépare ça pour toi en étant vraiment curieux de ce qui bouge vraiment en dessous.",
+    "effect": "Associer une question sur des sentiments plus profonds à la cafetière, un objet lié à un rituel matinal tranquille, donne à la question un cadre chaleureux et sans hâte. Elle reçoit une invitation à aller sous la surface pendant que quelque chose de réconfortant infuse.",
+    "sectionTitle": "Post-its - Comment Ça Va",
+    "predictable": "Les cafetières portent rarement un mot évitant explicitement la question de surface au profit de ce qui bouge en dessous",
+    "themes": [
+      "Littéraire",
+      "Profondeur"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pas la surface aujourd'hui — vraiment curieux de ce qui bouge en dessous."
+    ]
+  },
+  {
+    "actionTitle": "De Son Côté du Lit",
+    "text": "Il y a un genre de silence bien particulier de ce côté de la pièce ces derniers temps, avec exactement la forme de ton absence dedans.",
+    "effect": "Placer le mot de son côté du lit relie l'absence décrite directement à l'espace physique où elle la remarquera le plus. Elle trouve une image vive de sa propre absence exactement là où elle se ressent le plus.",
+    "sectionTitle": "Post-its - Tu Me Manques",
+    "predictable": "Le côté du lit porte rarement un mot décrivant la forme précise que le silence environnant a prise en son absence",
+    "themes": [
+      "Littéraire",
+      "Manque"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un silence bien particulier de ce côté-là ces derniers temps, avec la forme de ton absence."
+    ]
+  },
+  {
+    "actionTitle": "Sur un Objet Lourd, Comme un Haltère",
+    "text": "Tout a un peu plus de poids ces derniers temps — pas sûr de savoir l'expliquer autrement que par le fait que tu n'étais pas là.",
+    "effect": "Laisser la métaphore du poids sur un objet littéralement lourd ajoute un jeu de mots physique et joueur à un sentiment autrement abstrait. Elle trouve une petite blague glissée sous un aveu sincère de manque.",
+    "sectionTitle": "Post-its - Tu Me Manques",
+    "predictable": "Les objets lourds portent rarement un mot expliquant que tout semble avoir plus de poids depuis l'absence de quelqu'un",
+    "themes": [
+      "Littéraire",
+      "Manque"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tout a un peu plus de poids ces derniers temps — pas sûr de l'expliquer autrement."
+    ]
+  },
+  {
+    "actionTitle": "Dans le Couloir, À Hauteur des Yeux",
+    "text": "Ai dit un truc à voix haute juste ici récemment et ça m'est revenu en écho — assez clair comme signe, tu me manques aujourd'hui.",
+    "effect": "Placer le mot exactement à l'endroit du couloir où l'écho s'est produit relie le moment décrit à son lieu physique réel. Elle découvre le mot précisément là où la petite scène a eu lieu, ce qui la rend soudain bien réelle.",
+    "sectionTitle": "Post-its - Tu Me Manques",
+    "predictable": "Les couloirs portent rarement un mot décrivant un écho survenu à cet endroit précis comme rappel du manque de quelqu'un",
+    "themes": [
+      "Littéraire",
+      "Manque"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai dit un truc à voix haute ici récemment et ça m'est revenu en écho — tu me manques."
+    ]
+  },
+  {
+    "actionTitle": "Sur une Règle ou un Mètre Ruban",
+    "text": "Ai essayé de calculer à quelle distance tu étais aujourd'hui et les unités habituelles sur ce truc ne couvraient pas vraiment ça.",
+    "effect": "Laisser la blague sur la mesure de distance sur un vrai outil de mesure rend la métaphore littérale et un peu absurde. Elle trouve un aveu joueur que les unités ordinaires n'arrivent pas à capturer ce que manquer quelqu'un ressent vraiment.",
+    "sectionTitle": "Post-its - Tu Me Manques",
+    "predictable": "Les règles ou mètres rubans portent rarement un mot avouant que leurs unités habituelles ne couvrent pas la distance du manque",
+    "themes": [
+      "Littéraire",
+      "Manque"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai essayé de calculer la distance aujourd'hui — les unités habituelles ne couvraient pas ça."
+    ]
+  },
+  {
+    "actionTitle": "À Côté d'un Vieux Téléphone Fixe",
+    "text": "Continue d'avoir la moitié d'une conversation avec toi dans ma tête ces derniers temps — tes répliques imaginaires sont meilleures que tout ce que je pourrais planifier.",
+    "effect": "Placer le mot près d'un vieux téléphone, un objet lié à de vraies conversations, contraste joliment avec la conversation imaginaire décrite qui se déroule entièrement en son absence. Elle trouve l'aveu dans un endroit qui fait un clin d'œil tranquille à la vraie parole versus l'imaginée.",
+    "sectionTitle": "Post-its - Tu Me Manques",
+    "predictable": "Les vieux téléphones n'ont rarement à côté un mot décrivant une conversation imaginaire en cours avec quelqu'un d'absent",
+    "themes": [
+      "Littéraire",
+      "Manque"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Continue d'avoir la moitié d'une conversation avec toi dans ma tête — tes répliques sont bonnes."
+    ]
+  },
+  {
+    "actionTitle": "Sur une Enceinte ou une Radio",
+    "text": "T'as été le bruit de fond sous tout le reste qui passe par ici ces derniers temps — pas fort, juste constamment, tranquillement là.",
+    "effect": "Placer la métaphore du bruit de fond sur une vraie enceinte joue sur le sens littéral et figuré du mot bruit au même endroit. Elle trouve la description exactement là où le son est produit, ajoutant un petit jeu de mots sous une pensée sincère.",
+    "sectionTitle": "Post-its - Je Pense à Toi",
+    "predictable": "Les enceintes portent rarement un mot décrivant quelqu'un comme le bruit de fond sous tout le reste, jouant sur le sens littéral",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "T'as été le bruit de fond sous tout le reste ces derniers temps, tranquillement là."
+    ]
+  },
+  {
+    "actionTitle": "En Marge d'un Vrai Livre",
+    "text": "T'es un peu la petite note en marge que je n'arrête pas de relire — celle-ci est vraie, mais toi aussi, dans ma tête.",
+    "effect": "Écrire la métaphore de la note en marge directement dans la marge d'un vrai livre fait s'effondrer la comparaison en quelque chose de littéral et joueur. Elle trouve la chose décrite exactement là où elle est décrite, doublant l'effet.",
+    "sectionTitle": "Post-its - Je Pense à Toi",
+    "predictable": "Les marges de livre contiennent rarement un mot comparant quelqu'un à une note en marge elle-même, rendant la métaphore littérale",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "T'es la petite note en marge que je n'arrête pas de relire — celle-ci est vraie, toi aussi."
+    ]
+  },
+  {
+    "actionTitle": "Sur une Carte Routière ou un Support GPS",
+    "text": "Mes pensées prennent exactement le même petit détour ces derniers temps, et ça finit toujours pile par revenir à toi, peu importe la route.",
+    "effect": "Placer la métaphore du détour sur un objet littéralement utilisé pour naviguer relie un schéma émotionnel à un outil fait pour trouver des routes. Elle trouve le détour mental décrit exactement là où de vrais détours seraient planifiés.",
+    "sectionTitle": "Post-its - Je Pense à Toi",
+    "predictable": "Les supports GPS portent rarement un mot sur des pensées prenant un détour mental qui ramène toujours à quelqu'un",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Mes pensées prennent le même détour ces derniers temps, et ça revient toujours à toi."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Casque Audio",
+    "text": "Tu refais ce truc où tu tournes en boucle dans ma tête comme une chanson que je n'ai même pas choisi de lancer.",
+    "effect": "Laisser la métaphore de la chanson en boucle sur un casque, objet littéralement utilisé pour écouter de la musique, fait atterrir la comparaison exactement là où elle est le plus littérale. Elle trouve la pensée à l'endroit précis associé aux vraies chansons qui jouent.",
+    "sectionTitle": "Post-its - Je Pense à Toi",
+    "predictable": "Les casques audio portent rarement un mot comparant quelqu'un à une chanson en boucle qu'on n'a pas choisi de lancer",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tu tournes en boucle dans ma tête, comme une chanson que j'ai pas choisi de lancer."
+    ]
+  },
+  {
+    "actionTitle": "Sur une Boussole ou un Vieux Porte-Clés",
+    "text": "Peu importe où mon attention dérive ces derniers temps, elle finit toujours par pointer vers toi, comme ce truc qui ne connaît qu'une direction.",
+    "effect": "Placer la métaphore de la girouette sur une boussole ou un porte-clés, tous deux littéralement liés à la direction, ancre la comparaison dans un objet fait pour s'orienter. Elle trouve l'attraction constante décrite exactement là où la direction est tout le propos.",
+    "sectionTitle": "Post-its - Je Pense à Toi",
+    "predictable": "Les boussoles portent rarement un mot sur une attention qui pointe toujours dans une direction, faisant écho à leur propre fonction",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Mon attention dérive vers toi ces derniers temps, elle finit toujours par pointer là."
+    ]
+  },
+  {
+    "actionTitle": "Près de l'Interrupteur",
+    "text": "J'éteins la dernière lumière dans ma tête pour ce soir, comme celle-ci — tu es la seule chose que je laisse allumée, exprès.",
+    "effect": "Placer le mot juste à côté d'un vrai interrupteur fait s'effondrer la métaphore dans l'action littérale qu'elle est sur le point de faire. Elle trouve l'image mentale décrite exactement là où le vrai geste d'éteindre une lumière se produit.",
+    "sectionTitle": "Post-its - Bonne Nuit / Bonjour",
+    "predictable": "Les interrupteurs portent rarement un mot sur le fait d'éteindre mentalement toutes les lumières sauf celle destinée à elle",
+    "themes": [
+      "Littéraire",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "J'éteins la dernière lumière pour ce soir, comme celle-ci — toi, tu restes allumée."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Première Page Blanche d'un Carnet",
+    "text": "Ce matin est encore un brouillon assez grossier — t'es la première chose que je voulais vraiment bien écrire dedans, à partir d'ici.",
+    "effect": "Écrire la métaphore du brouillon sur la vraie première page blanche d'un carnet rend la comparaison littérale et immédiate. Elle trouve l'intention décrite exactement là où une vraie première entrée irait.",
+    "sectionTitle": "Post-its - Bonne Nuit / Bonjour",
+    "predictable": "La première page blanche d'un carnet porte rarement un mot sur l'envie d'y écrire quelqu'un comme premier brouillon du jour",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce matin est encore un brouillon — t'es la première chose que je voulais y écrire."
+    ]
+  },
+  {
+    "actionTitle": "Près de la Serviette de Plage ou des Bottes",
+    "text": "Je sens la journée se retirer comme une marée qui descend ces derniers temps — voulais que tu sois la dernière chose sur le rivage avant qu'elle ne parte tout à fait.",
+    "effect": "Placer la métaphore de la marée près d'objets liés à la plage relie une description abstraite de la fatigue à quelque chose littéralement connecté aux vraies marées. Elle trouve l'image décrite dans un endroit qui fait tranquillement écho à sa propre métaphore.",
+    "sectionTitle": "Post-its - Bonne Nuit / Bonjour",
+    "predictable": "Les serviettes de plage portent rarement un mot comparant la fin de la journée à une marée qui se retire, en écho à leur propre lien",
+    "themes": [
+      "Littéraire",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sens la journée se retirer comme une marée — voulais toi comme dernière chose sur le rivage."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Machine à Café",
+    "text": "Encore une page blanche avant le café la plupart des matins, mais au moins je sais déjà exactement quel nom va sur la première ligne, à chaque fois.",
+    "effect": "Laisser la métaphore de la page blanche sur la machine à café relie un état mental pré-caféine à l'objet même responsable d'y mettre fin. Elle trouve le brouillard matinal décrit exactement là où vit son remède.",
+    "sectionTitle": "Post-its - Bonne Nuit / Bonjour",
+    "predictable": "Les machines à café portent rarement un mot sur l'esprit pré-café comme page blanche où un nom serait choisi pour la première ligne",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Encore une page blanche avant le café — mais je sais déjà quel nom va sur la première ligne."
+    ]
+  },
+  {
+    "actionTitle": "Attaché à un Porte-Clés en Forme d'Ancre",
+    "text": "Je jette l'ancre pour ce soir, comme toujours — peu importe où le courant de la journée a emmené les choses, c'est là qu'elle s'arrête, en pensant à toi.",
+    "effect": "Placer la métaphore de l'ancre sur un objet littéralement en forme d'ancre rend la comparaison concrète plutôt que purement verbale. Elle trouve le geste d'apaisement décrit exactement là où pend le vrai symbole.",
+    "sectionTitle": "Post-its - Bonne Nuit / Bonjour",
+    "predictable": "Les objets en forme d'ancre portent rarement un mot sur le fait de jeter l'ancre mentalement après une journée de dérive",
+    "themes": [
+      "Littéraire",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Jette l'ancre pour ce soir — peu importe où le courant a emmené les choses, en pensant à toi."
+    ]
+  },
+  {
+    "actionTitle": "Sur un Vrai Mur",
+    "text": "Viens de réaliser ces derniers temps à quel point tu es tranquillement le mur porteur dans pas mal de trucs — merci de tenir tout ça sans qu'on te le demande.",
+    "effect": "Placer la métaphore du mur porteur sur un vrai mur rend la comparaison littérale d'une façon petite et joueuse tout en gardant la gratitude sincère. Elle trouve une reconnaissance authentique dans un endroit qui fait tranquillement un clin d'œil à sa propre image.",
+    "sectionTitle": "Post-its - Merci d'Être Là",
+    "predictable": "Les murs portent rarement un mot comparant celle qui le trouve à un mur porteur qui tient tout sans qu'on le remarque",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Viens de réaliser à quel point tu es le mur porteur dans pas mal de trucs, merci."
+    ]
+  },
+  {
+    "actionTitle": "Sur une Carte Routière ou un Atlas",
+    "text": "Reconnaissant ces derniers temps que tu sois la main stable qui empêche ce genre de truc de trembler pendant que j'essaie de comprendre où on va vraiment.",
+    "effect": "Laisser la métaphore de la main stable sur une carte sur un vrai atlas relie directement la comparaison à l'objet qu'elle décrit. Elle trouve une gratitude pour la stabilité exactement là où l'incertitude sur la direction serait littéralement cartographiée.",
+    "sectionTitle": "Post-its - Merci d'Être Là",
+    "predictable": "Les cartes ou atlas portent rarement un mot sur quelqu'un qui serait la main stable empêchant la carte elle-même de trembler",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reconnaissant que tu sois la main stable qui empêche les choses de trembler."
+    ]
+  },
+  {
+    "actionTitle": "Près d'une Veilleuse",
+    "text": "Même les nuits les moins dramatiques, les plus ordinaires, tu continues tranquillement ton truc de phare — merci pour ça, toujours.",
+    "effect": "Placer la métaphore du phare près d'une veilleuse, un objet à la fonction littéralement similaire, ancre la comparaison dans quelque chose de tangible et proche. Elle trouve une gratitude pour la fiabilité tranquille exactement là où vit déjà une petite lumière constante.",
+    "sectionTitle": "Post-its - Merci d'Être Là",
+    "predictable": "Les veilleuses portent rarement un mot comparant quelqu'un à un phare qui fait le même travail discret les nuits ordinaires",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même les nuits les plus ordinaires, tu continues ton truc de phare tranquillement, merci."
+    ]
+  },
+  {
+    "actionTitle": "Sur une Boîte à Outils",
+    "text": "T'es un peu ma marge de sécurité dans pas mal de décisions ces derniers temps, et je crois que je ne le dis jamais assez à voix haute.",
+    "effect": "Laisser la métaphore d'ingénierie sur une boîte à outils, un objet associé à la précision et à la fiabilité, relie la comparaison à quelque chose de concrètement fiable. Elle trouve une gratitude pour une fonction précise exprimée dans un endroit bien approprié.",
+    "sectionTitle": "Post-its - Merci d'Être Là",
+    "predictable": "Les boîtes à outils portent rarement un mot décrivant quelqu'un comme une marge de sécurité dans des décisions récentes",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "T'es un peu ma marge de sécurité dans pas mal de décisions, je le dis pas assez."
+    ]
+  },
+  {
+    "actionTitle": "Sur une Calculatrice",
+    "text": "Dans une semaine pleine de variables ces derniers temps, t'as été la seule constante de l'équation — merci de rester fixe dans ce rôle-là.",
+    "effect": "Placer la métaphore mathématique sur une calculatrice, un objet littéralement utilisé pour les équations, fait atterrir la comparaison exactement au bon endroit. Elle trouve une gratitude pour la fiabilité exprimée dans un lieu qui renforce tranquillement sa propre image.",
+    "sectionTitle": "Post-its - Merci d'Être Là",
+    "predictable": "Les calculatrices portent rarement un mot sur quelqu'un qui serait la seule constante dans une semaine pleine de variables",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dans une semaine pleine de variables, t'as été la seule constante, merci de rester fixe."
+    ]
   }
 ]

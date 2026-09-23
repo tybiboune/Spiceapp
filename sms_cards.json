@@ -18495,5 +18495,805 @@
     "variations": [
       "Ai pris en charge ce petit truc qui te pesait, sans que tu aies à vérifier — c'est réglé."
     ]
+  },
+  {
+    "actionTitle": "The Weather of You",
+    "text": "What's the weather doing in there today — clear skies, or something quietly overcast I should know about?",
+    "effect": "Reframing a basic check-in as a question about inner weather invites a more honest, textured answer than the reflexive 'fine' a plain 'how are you' usually gets. She's given permission to describe a mood rather than just report a status.",
+    "sectionTitle": "SMS - How Are You",
+    "predictable": "A check-in on her mood is rarely phrased as a question about internal weather rather than a plain status update",
+    "themes": [
+      "Literary",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "What's the weather doing in there today — clear, or a bit overcast?"
+    ]
+  },
+  {
+    "actionTitle": "Soundings",
+    "text": "Taking a small sounding of how deep the day has been for you — you can answer in one word or in ten.",
+    "effect": "Borrowing the image of a nautical sounding — measuring depth without forcing a full report — offers a low-pressure way to check in. She can respond briefly or at length, and either is treated as a complete answer.",
+    "sectionTitle": "SMS - How Are You",
+    "predictable": "A check-in rarely explicitly offers a choice between a one-word answer and a longer one, framed as equally valid",
+    "themes": [
+      "Literary",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Taking a small sounding of how deep today has been — one word or ten, up to you."
+    ]
+  },
+  {
+    "actionTitle": "The State of the Union",
+    "text": "Requesting a brief, unofficial state-of-the-union address — no polish required, informal remarks accepted.",
+    "effect": "Borrowing the mock-formal language of a political address, deliberately undercut by 'no polish required,' turns a routine question into something a little playful. She's invited to report honestly rather than perform composure.",
+    "sectionTitle": "SMS - How Are You",
+    "predictable": "A check-in on how she's doing is rarely dressed up as a mock-formal address that explicitly asks for no polish",
+    "themes": [
+      "Literary",
+      "Playful"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Requesting a brief, unofficial state-of-the-union — no polish required."
+    ]
+  },
+  {
+    "actionTitle": "The Barometer Reading",
+    "text": "If today had a pressure reading, what would the needle say right now — rising, falling, or holding steady?",
+    "effect": "Using a barometer as a metaphor for mood gives her a concrete, almost scientific vocabulary for something usually described vaguely. It also signals genuine curiosity about direction and trend, not just a snapshot.",
+    "sectionTitle": "SMS - How Are You",
+    "predictable": "A mood check-in rarely borrows the specific vocabulary of a barometer reading — rising, falling, or holding steady",
+    "themes": [
+      "Literary",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If today had a pressure reading, what would the needle say right now?"
+    ]
+  },
+  {
+    "actionTitle": "The Undercurrent",
+    "text": "Not asking what's on the surface today — more curious about whatever undercurrent is actually moving things along underneath.",
+    "effect": "Explicitly distinguishing between surface behavior and an underlying undercurrent signals interest in something deeper than the usual small-talk answer. She's invited to skip the polite version and go straight to what's actually driving the day.",
+    "sectionTitle": "SMS - How Are You",
+    "predictable": "A check-in rarely explicitly asks to skip the surface answer and go straight to the underlying undercurrent",
+    "themes": [
+      "Literary",
+      "Depth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Not asking about the surface today — more curious what's moving underneath."
+    ]
+  },
+  {
+    "actionTitle": "The Empty Chair",
+    "text": "There's a very specific kind of quiet in this room today, shaped exactly like you not being in it.",
+    "effect": "Describing absence as a shape the room has taken on makes the feeling concrete rather than abstract. She receives a vivid image of her own absence rather than the flat, familiar phrase.",
+    "sectionTitle": "SMS - I Miss You",
+    "predictable": "Missing someone is rarely described as a specific shape the surrounding quiet has physically taken on",
+    "themes": [
+      "Literary",
+      "Longing"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "There's a specific kind of quiet today, shaped exactly like you not being here."
+    ]
+  },
+  {
+    "actionTitle": "The Gravity Problem",
+    "text": "Everything today has slightly more gravity to it than usual — not sure how to explain that except that you're not around.",
+    "effect": "Borrowing the physics of gravity to describe a heavier-feeling day ties an abstract emotional state to a vivid, almost tactile sensation. She learns her absence is felt as weight, not just noted as a fact.",
+    "sectionTitle": "SMS - I Miss You",
+    "predictable": "A day feeling heavier without someone is rarely described using the specific physics of gravity",
+    "themes": [
+      "Literary",
+      "Longing"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Everything today has slightly more gravity to it — not sure how to explain except you're not around."
+    ]
+  },
+  {
+    "actionTitle": "The Echo in the Hallway",
+    "text": "Said something out loud in the hallway earlier and it just kind of echoed back at me — very on the nose today, missing you.",
+    "effect": "Recounting a small, specific sensory detail — an echo in an empty hallway — grounds an abstract feeling in a real physical moment. She receives a tiny scene rather than a generic statement.",
+    "sectionTitle": "SMS - I Miss You",
+    "predictable": "Missing someone is rarely tied to a specific small sensory detail like an echo noticed in an empty hallway",
+    "themes": [
+      "Literary",
+      "Longing"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Said something out loud in the hallway and it just echoed back — missing you today."
+    ]
+  },
+  {
+    "actionTitle": "The Unread Half of the Conversation",
+    "text": "Keep having half a conversation with you in my head today — you'd love to know your unwritten lines are pretty good.",
+    "effect": "Describing an imagined ongoing conversation, complete with her invented responses, shows how present she remains even in absence. She's told her imagined voice is vivid enough to be missed on its own.",
+    "sectionTitle": "SMS - I Miss You",
+    "predictable": "Missing someone is rarely described as an ongoing imagined conversation with lines attributed to the absent person",
+    "themes": [
+      "Literary",
+      "Longing"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Keep having half a conversation with you in my head today — your lines are good."
+    ]
+  },
+  {
+    "actionTitle": "The Map With No Scale",
+    "text": "Trying to figure out exactly how far away you are today and the usual units of measurement aren't really working.",
+    "effect": "Playing with the literal impossibility of measuring distance in miles when the feeling is really about absence turns a cliché into something almost puzzle-like. She receives a small, thoughtful riddle instead of a plain statement.",
+    "sectionTitle": "SMS - I Miss You",
+    "predictable": "Distance from someone is rarely described as a measurement problem where the usual units simply don't work",
+    "themes": [
+      "Literary",
+      "Longing"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Trying to figure out how far away you are today — the usual units aren't working."
+    ]
+  },
+  {
+    "actionTitle": "The Background Hum",
+    "text": "You've been the background hum under everything else today — not loud, just constantly, quietly there.",
+    "effect": "Describing a persistent thought as a background hum, rather than a single spike of attention, conveys sustained presence throughout the day rather than one passing moment. She learns she wasn't a single thought but a constant undertone.",
+    "sectionTitle": "SMS - Thinking of You",
+    "predictable": "Thinking of someone throughout the day is rarely described as a constant background hum rather than isolated moments",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "You've been the background hum under everything else today — quietly there."
+    ]
+  },
+  {
+    "actionTitle": "The Margin Note",
+    "text": "If today were a book, you'd be the little note scribbled in the margin that I keep going back to reread.",
+    "effect": "Comparing recurring thoughts to a margin note one keeps rereading turns a passive mental habit into an active, chosen return. She's framed as something worth revisiting, not just something that crossed the mind once.",
+    "sectionTitle": "SMS - Thinking of You",
+    "predictable": "Thinking of someone repeatedly is rarely compared to a margin note in a book that keeps getting reread",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "If today were a book, you'd be the margin note I keep going back to reread."
+    ]
+  },
+  {
+    "actionTitle": "The Recurring Detour",
+    "text": "My thoughts keep taking the exact same little detour today, and it always leads straight back to you.",
+    "effect": "Framing recurring thoughts as a mental detour, always leading to the same destination, gives a sense of gentle inevitability rather than randomness. She learns the thought pattern is consistent, not a fluke.",
+    "sectionTitle": "SMS - Thinking of You",
+    "predictable": "Recurring thoughts about someone are rarely described as a mental detour that always leads back to the same place",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "My thoughts keep taking the exact same detour today, straight back to you."
+    ]
+  },
+  {
+    "actionTitle": "The Song Stuck on Loop",
+    "text": "You're doing that thing today where you're stuck in my head like a song I didn't even choose to start playing.",
+    "effect": "Comparing intrusive, pleasant thoughts to an unchosen song on loop captures the involuntary, persistent nature of the thinking. She's told the thought wasn't summoned deliberately — it simply kept playing on its own.",
+    "sectionTitle": "SMS - Thinking of You",
+    "predictable": "Persistent thoughts about someone are rarely compared to a song stuck on loop that wasn't deliberately chosen to start",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "You're stuck in my head today like a song I didn't even choose to start."
+    ]
+  },
+  {
+    "actionTitle": "The Weather Vane",
+    "text": "Whatever direction my attention drifts today, it always ends up pointing your way, like a weather vane that only knows one wind.",
+    "effect": "Using a weather vane, an object defined entirely by which way it points, as a metaphor for attention shows a consistent orientation rather than an occasional glance. She learns the direction is fixed, not accidental.",
+    "sectionTitle": "SMS - Thinking of You",
+    "predictable": "Attention drifting toward someone is rarely compared to a weather vane that only ever points in one direction",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whatever direction my attention drifts, it ends up pointing your way, like a weather vane."
+    ]
+  },
+  {
+    "actionTitle": "The Last Light Off",
+    "text": "Turning the last light off in my head for the night — you're the one thing I'm leaving on purpose.",
+    "effect": "Framing the act of falling asleep as turning off lights one by one, with her deliberately left on, makes a routine goodnight into a small, specific image. She's the exception in an otherwise darkening thought process.",
+    "sectionTitle": "SMS - Good Night / Good Morning",
+    "predictable": "A goodnight message rarely frames falling asleep as turning off lights one by one, with her deliberately left on",
+    "themes": [
+      "Literary",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Turning the last light off for the night — you're the one thing left on, on purpose."
+    ]
+  },
+  {
+    "actionTitle": "The First Draft of the Day",
+    "text": "This morning is still just a rough first draft — you're the first thing I wanted to write into it properly.",
+    "effect": "Describing the early morning as an unfinished first draft, and her as the first deliberate addition, turns a routine good-morning into a small creative image. She's framed as an intentional choice made before the day even takes shape.",
+    "sectionTitle": "SMS - Good Night / Good Morning",
+    "predictable": "A good-morning message rarely describes the early morning as an unfinished draft that she's the first thing written into",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This morning's still a rough draft — you're the first thing I wanted written into it."
+    ]
+  },
+  {
+    "actionTitle": "The Tide Going Out",
+    "text": "Feeling the day slowly pull away like a tide going out — wanted you to be the last thing standing on the shore before it does.",
+    "effect": "Comparing the end of the day to a tide receding gives sleepiness a slow, natural rhythm rather than an abrupt stop. She's positioned as the final, deliberate image held onto before the day fully recedes.",
+    "sectionTitle": "SMS - Good Night / Good Morning",
+    "predictable": "A goodnight message rarely compares the end of the day to a tide going out, with her as the last thing on the shore",
+    "themes": [
+      "Literary",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Feeling the day pull away like a tide — wanted you the last thing on the shore."
+    ]
+  },
+  {
+    "actionTitle": "The Blank Page Before Coffee",
+    "text": "Still a blank page before coffee this morning, but at least I know exactly which name I want written on the first line.",
+    "effect": "Describing the pre-coffee mind as a blank page, with her name as the deliberate first line, elevates a groggy morning routine into a small, chosen ritual. She's the one certainty in an otherwise undefined start to the day.",
+    "sectionTitle": "SMS - Good Night / Good Morning",
+    "predictable": "A good-morning message rarely describes the pre-coffee mind as a blank page with her name chosen as the first line",
+    "themes": [
+      "Literary",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Still a blank page before coffee — but I know which name goes on the first line."
+    ]
+  },
+  {
+    "actionTitle": "The Anchor for the Night",
+    "text": "Dropping anchor for the night now — wherever the day's current took things, this is where it's ending, thinking of you.",
+    "effect": "Using an anchor as an image for settling down at night gives the goodnight a sense of deliberate stillness after motion. She's told the day's drifting has a fixed, chosen endpoint that includes her.",
+    "sectionTitle": "SMS - Good Night / Good Morning",
+    "predictable": "A goodnight message rarely uses the image of dropping anchor to describe settling down after a day of drifting",
+    "themes": [
+      "Literary",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dropping anchor for the night now — wherever today drifted, it ends thinking of you."
+    ]
+  },
+  {
+    "actionTitle": "The Load-Bearing Wall",
+    "text": "Just realized today how much you're quietly the load-bearing wall in a lot of this — thank you for holding things up without being asked.",
+    "effect": "Comparing her presence to a load-bearing wall, essential but rarely noticed, names structural support that usually goes unacknowledged. She receives specific recognition for weight she carries invisibly, not just a generic thank-you.",
+    "sectionTitle": "SMS - Thank You For Being Here",
+    "predictable": "Gratitude for quiet support is rarely expressed by comparing someone to a load-bearing wall holding things up unnoticed",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Realized today how much you're quietly the load-bearing wall in a lot of this."
+    ]
+  },
+  {
+    "actionTitle": "The Steady Hand on the Map",
+    "text": "Grateful today that you're the steady hand keeping the map from shaking while I figure out where we're actually headed.",
+    "effect": "Framing her as a steady hand on a map, while acknowledging uncertainty about direction, honors stability specifically in moments of not knowing. She's thanked for calm amid confusion, not just for general support.",
+    "sectionTitle": "SMS - Thank You For Being Here",
+    "predictable": "Gratitude is rarely expressed by comparing someone to a steady hand keeping a map from shaking during uncertainty",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Grateful today you're the steady hand keeping the map from shaking."
+    ]
+  },
+  {
+    "actionTitle": "The Lighthouse on the Dull Days",
+    "text": "Even on the least dramatic, most ordinary days, you're still doing the quiet lighthouse thing — thank you for that.",
+    "effect": "Comparing her to a lighthouse specifically on undramatic days values consistency over occasional grand rescue. She's thanked for reliability during the ordinary stretches, not just the memorable crises.",
+    "sectionTitle": "SMS - Thank You For Being Here",
+    "predictable": "Gratitude for reliability is rarely tied specifically to ordinary, undramatic days rather than moments of crisis",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Even on the most ordinary days, you're still doing the quiet lighthouse thing, thank you."
+    ]
+  },
+  {
+    "actionTitle": "The Margin of Safety",
+    "text": "You're basically my margin of safety in a lot of decisions lately, and I don't think I say that out loud nearly enough.",
+    "effect": "Borrowing an engineering term, margin of safety, to describe her role names a specific kind of quiet risk-reduction rather than vague emotional support. She's thanked for a concrete function she may not realize she serves.",
+    "sectionTitle": "SMS - Thank You For Being Here",
+    "predictable": "Gratitude is rarely expressed using the specific engineering term 'margin of safety' to describe someone's role",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "You're basically my margin of safety in a lot of decisions, don't say that enough."
+    ]
+  },
+  {
+    "actionTitle": "The Constant in the Equation",
+    "text": "In a week full of variables, you've been the one constant in the equation — thank you for staying put in that role.",
+    "effect": "Using a mathematical metaphor, distinguishing variables from a constant, honors reliability amid change rather than describing support in vague terms. She's specifically thanked for staying fixed while everything else shifted.",
+    "sectionTitle": "SMS - Thank You For Being Here",
+    "predictable": "Gratitude for reliability is rarely framed using the mathematical distinction between variables and a constant",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "In a week full of variables, you've been the one constant — thank you for that."
+    ]
+  },
+  {
+    "actionTitle": "Le Baromètre du Jour",
+    "text": "Si aujourd'hui avait une pression atmosphérique, l'aiguille dirait quoi là maintenant — ça monte, ça descend, ou ça tient bon ?",
+    "effect": "Emprunter l'image d'un baromètre pour parler d'humeur donne un vocabulaire concret et presque scientifique à quelque chose d'habitude décrit vaguement. Ça signale aussi une vraie curiosité pour la tendance, pas juste un instantané.",
+    "sectionTitle": "SMS - Comment Ça Va",
+    "predictable": "Un simple 'comment ça va' emprunte rarement le vocabulaire précis d'un baromètre — ça monte, ça descend, ou ça tient",
+    "themes": [
+      "Littéraire",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si aujourd'hui avait une pression atmosphérique, l'aiguille dirait quoi là ?"
+    ]
+  },
+  {
+    "actionTitle": "La Météo de l'Intérieur",
+    "text": "Question du jour : quel temps fait-il à l'intérieur en ce moment — grand ciel bleu ou un petit voile discret que je devrais connaître ?",
+    "effect": "Reformuler un simple 'comment ça va' en question sur une météo intérieure invite à une réponse plus honnête et texturée que le réflexe poli habituel. Elle a la permission de décrire une ambiance plutôt que de juste rapporter un état.",
+    "sectionTitle": "SMS - Comment Ça Va",
+    "predictable": "Un état d'esprit est rarement décrit comme une météo intérieure plutôt qu'une simple réponse automatique",
+    "themes": [
+      "Littéraire",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quel temps fait-il à l'intérieur en ce moment — grand ciel bleu ou petit voile ?"
+    ]
+  },
+  {
+    "actionTitle": "Le Bulletin Officieux",
+    "text": "Je demande officiellement un petit bulletin non officiel de la journée — brouillon accepté, pas besoin de le polir avant de me l'envoyer.",
+    "effect": "Emprunter le langage faussement formel d'un bulletin, immédiatement démenti par 'pas besoin de le polir', transforme une question routinière en quelque chose d'un peu joueur. Elle est invitée à rapporter honnêtement plutôt qu'à performer une contenance.",
+    "sectionTitle": "SMS - Comment Ça Va",
+    "predictable": "Une question sur l'humeur du jour prend rarement la forme d'un faux bulletin officiel qui précise ne pas exiger de version polie",
+    "themes": [
+      "Littéraire",
+      "Ludique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je demande officiellement un petit bulletin non officiel — brouillon accepté."
+    ]
+  },
+  {
+    "actionTitle": "La Sonde Envoyée Aujourd'hui",
+    "text": "J'envoie une petite sonde pour mesurer à quelle profondeur en est la journée — tu peux répondre en un mot ou en dix, les deux comptent pareil.",
+    "effect": "Emprunter l'image d'une sonde qui mesure une profondeur, sans exiger de rapport complet, offre une façon de prendre des nouvelles sans pression. Elle peut répondre brièvement ou longuement, les deux étant traités comme une réponse entière.",
+    "sectionTitle": "SMS - Comment Ça Va",
+    "predictable": "Une question sur l'humeur propose rarement explicitement un choix entre une réponse d'un mot et une plus longue, les deux valables",
+    "themes": [
+      "Littéraire",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "J'envoie une petite sonde pour mesurer la journée — un mot ou dix, comme tu veux."
+    ]
+  },
+  {
+    "actionTitle": "Le Courant du Dessous",
+    "text": "Je ne demande pas ce qui se passe en surface aujourd'hui — plutôt curieux de savoir quel courant fait vraiment bouger les choses en dessous.",
+    "effect": "Distinguer explicitement le comportement en surface d'un courant sous-jacent signale un intérêt pour quelque chose de plus profond que la réponse habituelle de politesse. Elle est invitée à sauter la version polie pour aller directement à ce qui compte vraiment.",
+    "sectionTitle": "SMS - Comment Ça Va",
+    "predictable": "Une question sur l'état d'esprit demande rarement explicitement de sauter la réponse de surface pour aller au courant du dessous",
+    "themes": [
+      "Littéraire",
+      "Profondeur"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Curieux de savoir quel courant fait vraiment bouger les choses en dessous aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "La Chaise Vide",
+    "text": "Il y a un genre de silence bien particulier dans cette pièce aujourd'hui, avec exactement la forme de ton absence dedans.",
+    "effect": "Décrire l'absence comme une forme précise que le silence a prise rend le sentiment concret plutôt qu'abstrait. Elle reçoit une image vive de sa propre absence plutôt que la formule plate habituelle.",
+    "sectionTitle": "SMS - Tu Me Manques",
+    "predictable": "Le manque de quelqu'un est rarement décrit comme une forme précise que le silence environnant a physiquement prise",
+    "themes": [
+      "Littéraire",
+      "Manque"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un silence bien particulier dans cette pièce, avec exactement la forme de ton absence."
+    ]
+  },
+  {
+    "actionTitle": "Le Problème de Gravité",
+    "text": "Tout semble avoir un peu plus de poids aujourd'hui que d'habitude — pas sûr de savoir comment expliquer ça autrement que tu n'es pas là.",
+    "effect": "Emprunter la physique de la gravité pour décrire une journée qui semble plus lourde relie un état émotionnel abstrait à une sensation presque tactile. Elle apprend que son absence se ressent comme un poids, pas juste comme un fait constaté.",
+    "sectionTitle": "SMS - Tu Me Manques",
+    "predictable": "Une journée qui semble plus lourde en l'absence de quelqu'un est rarement décrite avec la physique précise de la gravité",
+    "themes": [
+      "Littéraire",
+      "Manque"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tout a un peu plus de poids aujourd'hui — pas sûr de l'expliquer autrement que ton absence."
+    ]
+  },
+  {
+    "actionTitle": "L'Écho Dans le Couloir",
+    "text": "Ai dit un truc à voix haute dans le couloir tout à l'heure et ça m'est juste revenu en écho — assez clair comme signe, tu me manques aujourd'hui.",
+    "effect": "Raconter un détail sensoriel précis et concret — un écho dans un couloir vide — ancre un sentiment abstrait dans un vrai moment physique. Elle reçoit une petite scène plutôt qu'une déclaration générique.",
+    "sectionTitle": "SMS - Tu Me Manques",
+    "predictable": "Le manque de quelqu'un est rarement rattaché à un détail sensoriel précis comme un écho remarqué dans un couloir vide",
+    "themes": [
+      "Littéraire",
+      "Manque"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai dit un truc à voix haute dans le couloir et ça m'est revenu en écho — tu me manques."
+    ]
+  },
+  {
+    "actionTitle": "La Carte Sans Échelle",
+    "text": "J'essaie de calculer exactement à quelle distance tu es aujourd'hui et les unités habituelles ne fonctionnent pas vraiment pour ce genre de truc.",
+    "effect": "Jouer sur l'impossibilité littérale de mesurer une distance en kilomètres, alors que le sentiment concerne vraiment l'absence, transforme un cliché en quelque chose de presque énigmatique. Elle reçoit une petite réflexion plutôt qu'une simple déclaration.",
+    "sectionTitle": "SMS - Tu Me Manques",
+    "predictable": "La distance à quelqu'un est rarement décrite comme un problème de mesure où les unités habituelles ne fonctionnent tout simplement pas",
+    "themes": [
+      "Littéraire",
+      "Manque"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "J'essaie de calculer à quelle distance tu es — les unités habituelles ne marchent pas."
+    ]
+  },
+  {
+    "actionTitle": "La Moitié de Conversation Non Écrite",
+    "text": "Continue d'avoir la moitié d'une conversation avec toi dans ma tête aujourd'hui — tu serais contente de savoir que tes répliques imaginaires sont plutôt bonnes.",
+    "effect": "Décrire une conversation imaginaire en cours, avec des répliques inventées pour elle, montre à quel point elle reste présente même dans l'absence. On lui dit que sa voix imaginée est assez vive pour manquer à elle seule.",
+    "sectionTitle": "SMS - Tu Me Manques",
+    "predictable": "Le manque de quelqu'un est rarement décrit comme une conversation imaginaire en cours avec des répliques attribuées à la personne absente",
+    "themes": [
+      "Littéraire",
+      "Manque"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Continue d'avoir la moitié d'une conversation avec toi dans ma tête — tes répliques sont bonnes."
+    ]
+  },
+  {
+    "actionTitle": "Le Bruit de Fond",
+    "text": "T'as été le bruit de fond sous tout le reste aujourd'hui — pas fort, juste constamment, tranquillement là.",
+    "effect": "Décrire une pensée persistante comme un bruit de fond, plutôt qu'un pic d'attention isolé, montre une présence continue tout au long de la journée plutôt qu'un moment passager. Elle apprend qu'elle n'était pas une pensée unique mais un fond sonore constant.",
+    "sectionTitle": "SMS - Je Pense à Toi",
+    "predictable": "Penser à quelqu'un toute la journée est rarement décrit comme un bruit de fond constant plutôt que des moments isolés",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "T'as été le bruit de fond sous tout le reste aujourd'hui, tranquillement là."
+    ]
+  },
+  {
+    "actionTitle": "La Note en Marge",
+    "text": "Si aujourd'hui était un livre, tu serais la petite note griffonnée en marge que je n'arrête pas de relire.",
+    "effect": "Comparer des pensées récurrentes à une note en marge qu'on relit transforme une habitude mentale passive en un retour actif et choisi. Elle est présentée comme quelque chose qui mérite d'être revisité, pas juste croisé une fois par hasard.",
+    "sectionTitle": "SMS - Je Pense à Toi",
+    "predictable": "Penser à quelqu'un plusieurs fois est rarement comparé à une note en marge d'un livre qu'on continue de relire",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Si aujourd'hui était un livre, tu serais la note en marge que je n'arrête pas de relire."
+    ]
+  },
+  {
+    "actionTitle": "Le Détour Habituel",
+    "text": "Mes pensées prennent exactement le même petit détour aujourd'hui, et ça finit toujours pile par revenir à toi.",
+    "effect": "Présenter des pensées récurrentes comme un détour mental qui mène toujours à la même destination donne une impression de douce inévitabilité plutôt que de hasard. Elle apprend que le schéma de pensée est constant, pas un coup de chance isolé.",
+    "sectionTitle": "SMS - Je Pense à Toi",
+    "predictable": "Des pensées récurrentes vers quelqu'un sont rarement décrites comme un détour mental qui mène toujours au même endroit",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Mes pensées prennent le même détour aujourd'hui, et ça revient toujours pile à toi."
+    ]
+  },
+  {
+    "actionTitle": "La Chanson en Boucle",
+    "text": "Tu fais ce truc aujourd'hui où tu tournes en boucle dans ma tête comme une chanson que je n'ai même pas choisi de lancer.",
+    "effect": "Comparer des pensées agréables et intrusives à une chanson non choisie en boucle capture le côté involontaire et persistant de la pensée. On lui dit que la pensée n'a pas été convoquée délibérément — elle a juste continué de tourner toute seule.",
+    "sectionTitle": "SMS - Je Pense à Toi",
+    "predictable": "Des pensées persistantes sur quelqu'un sont rarement comparées à une chanson en boucle qu'on n'a pas choisi de lancer",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tu tournes en boucle dans ma tête aujourd'hui comme une chanson que j'ai pas choisie."
+    ]
+  },
+  {
+    "actionTitle": "La Girouette",
+    "text": "Peu importe où mon attention dérive aujourd'hui, elle finit toujours par pointer vers toi, comme une girouette qui ne connaît qu'un seul vent.",
+    "effect": "Utiliser une girouette, un objet entièrement défini par sa direction, comme métaphore de l'attention montre une orientation constante plutôt qu'un regard occasionnel. Elle apprend que la direction est fixe, pas accidentelle.",
+    "sectionTitle": "SMS - Je Pense à Toi",
+    "predictable": "L'attention qui dérive vers quelqu'un est rarement comparée à une girouette qui ne pointe jamais que dans une seule direction",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Mon attention dérive vers toi aujourd'hui, comme une girouette qui ne connaît qu'un vent."
+    ]
+  },
+  {
+    "actionTitle": "La Dernière Lumière Éteinte",
+    "text": "J'éteins la dernière lumière dans ma tête pour ce soir — tu es la seule chose que je laisse allumée, exprès.",
+    "effect": "Présenter l'endormissement comme l'extinction progressive des lumières, avec elle délibérément laissée allumée, transforme un simple bonsoir en une image précise et personnelle. Elle est l'exception dans un processus de pensée qui s'assombrit autrement.",
+    "sectionTitle": "SMS - Bonne Nuit / Bonjour",
+    "predictable": "Un message de bonne nuit présente rarement l'endormissement comme l'extinction de lumières une à une, avec elle volontairement laissée allumée",
+    "themes": [
+      "Littéraire",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "J'éteins la dernière lumière pour ce soir — tu es la seule chose laissée allumée, exprès."
+    ]
+  },
+  {
+    "actionTitle": "Le Premier Brouillon du Jour",
+    "text": "Ce matin est encore un brouillon assez grossier — t'es la première chose que je voulais vraiment bien écrire dedans.",
+    "effect": "Décrire le début de matinée comme un brouillon inachevé, et elle comme le premier ajout délibéré, transforme un simple bonjour routinier en une petite image créative. Elle est présentée comme un choix intentionnel fait avant même que la journée ne prenne forme.",
+    "sectionTitle": "SMS - Bonne Nuit / Bonjour",
+    "predictable": "Un message de bonjour décrit rarement le début de matinée comme un brouillon dans lequel elle serait la première chose bien écrite",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce matin est encore un brouillon — t'es la première chose que je voulais bien écrire."
+    ]
+  },
+  {
+    "actionTitle": "La Marée Qui Se Retire",
+    "text": "Je sens la journée se retirer doucement comme une marée qui descend — je voulais que tu sois la dernière chose sur le rivage avant qu'elle ne parte tout à fait.",
+    "effect": "Comparer la fin de journée à une marée qui se retire donne à la fatigue un rythme lent et naturel plutôt qu'un arrêt brutal. Elle est positionnée comme la dernière image délibérément retenue avant que la journée ne se retire complètement.",
+    "sectionTitle": "SMS - Bonne Nuit / Bonjour",
+    "predictable": "Un message de bonne nuit compare rarement la fin de journée à une marée qui se retire, avec elle comme dernière chose sur le rivage",
+    "themes": [
+      "Littéraire",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sens la journée se retirer comme une marée — voulais toi comme dernière chose sur le rivage."
+    ]
+  },
+  {
+    "actionTitle": "La Page Blanche Avant le Café",
+    "text": "Encore une page blanche avant le café ce matin, mais au moins je sais déjà exactement quel nom je veux écrire sur la première ligne.",
+    "effect": "Décrire l'esprit avant le café comme une page blanche, avec son nom comme première ligne délibérée, transforme une routine matinale un peu brumeuse en un petit rituel choisi. Elle est la seule certitude d'un début de journée par ailleurs indéfini.",
+    "sectionTitle": "SMS - Bonne Nuit / Bonjour",
+    "predictable": "Un message de bonjour décrit rarement l'esprit avant le café comme une page blanche où son nom serait choisi comme première ligne",
+    "themes": [
+      "Littéraire",
+      "Affection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Encore une page blanche avant le café — mais je sais quel nom va sur la première ligne."
+    ]
+  },
+  {
+    "actionTitle": "L'Ancre Jetée Pour la Nuit",
+    "text": "Je jette l'ancre pour ce soir — peu importe où le courant de la journée a emmené les choses, c'est là qu'elle s'arrête, en pensant à toi.",
+    "effect": "Utiliser une ancre comme image pour se poser le soir donne au bonsoir un sentiment d'immobilité délibérée après le mouvement. On lui dit que la dérive de la journée a un point d'arrêt fixe et choisi, qui l'inclut.",
+    "sectionTitle": "SMS - Bonne Nuit / Bonjour",
+    "predictable": "Un message de bonne nuit utilise rarement l'image d'une ancre jetée pour décrire l'arrêt après une journée de dérive",
+    "themes": [
+      "Littéraire",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Jette l'ancre pour ce soir — peu importe où le courant a emmené les choses, en pensant à toi."
+    ]
+  },
+  {
+    "actionTitle": "Le Mur Porteur",
+    "text": "Viens de réaliser aujourd'hui à quel point tu es tranquillement le mur porteur dans pas mal de trucs — merci de tenir tout ça sans qu'on ait besoin de te le demander.",
+    "effect": "Comparer sa présence à un mur porteur, essentiel mais rarement remarqué, nomme un soutien structurel habituellement passé sous silence. Elle reçoit une reconnaissance précise pour un poids qu'elle porte invisiblement, pas juste un merci générique.",
+    "sectionTitle": "SMS - Merci d'Être Là",
+    "predictable": "La gratitude pour un soutien discret est rarement exprimée en comparant quelqu'un à un mur porteur qui tient tout sans qu'on le remarque",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Viens de réaliser à quel point tu es le mur porteur dans pas mal de trucs, merci."
+    ]
+  },
+  {
+    "actionTitle": "La Main Stable Sur la Carte",
+    "text": "Reconnaissant aujourd'hui que tu sois la main stable qui empêche la carte de trembler pendant que j'essaie de comprendre où on va vraiment.",
+    "effect": "Présenter sa présence comme une main stable sur une carte, tout en reconnaissant l'incertitude de la direction, honore la stabilité spécifiquement dans les moments de doute. Elle est remerciée pour son calme au milieu de la confusion, pas juste pour un soutien général.",
+    "sectionTitle": "SMS - Merci d'Être Là",
+    "predictable": "La gratitude est rarement exprimée en comparant quelqu'un à une main stable qui empêche une carte de trembler dans l'incertitude",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reconnaissant que tu sois la main stable qui empêche la carte de trembler."
+    ]
+  },
+  {
+    "actionTitle": "Le Phare des Jours Ternes",
+    "text": "Même les jours les moins dramatiques, les plus ordinaires, tu continues tranquillement ton truc de phare — merci pour ça.",
+    "effect": "Comparer sa présence à un phare spécifiquement pendant les jours sans éclat valorise la constance plutôt que le sauvetage occasionnel et spectaculaire. Elle est remerciée pour sa fiabilité pendant les moments ordinaires, pas seulement les crises mémorables.",
+    "sectionTitle": "SMS - Merci d'Être Là",
+    "predictable": "La gratitude pour la fiabilité est rarement rattachée spécifiquement aux jours ordinaires et sans drame plutôt qu'aux moments de crise",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Même les jours les plus ordinaires, tu continues ton truc de phare tranquillement, merci."
+    ]
+  },
+  {
+    "actionTitle": "La Marge de Sécurité",
+    "text": "T'es un peu ma marge de sécurité dans pas mal de décisions ces derniers temps, et je crois que je ne le dis jamais assez à voix haute.",
+    "effect": "Emprunter un terme d'ingénierie, marge de sécurité, pour décrire son rôle nomme une forme précise de réduction de risque plutôt qu'un soutien émotionnel vague. Elle est remerciée pour une fonction concrète qu'elle ne réalise peut-être pas jouer.",
+    "sectionTitle": "SMS - Merci d'Être Là",
+    "predictable": "La gratitude est rarement exprimée en utilisant le terme précis de marge de sécurité pour décrire le rôle de quelqu'un",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "T'es un peu ma marge de sécurité dans pas mal de décisions, je le dis pas assez."
+    ]
+  },
+  {
+    "actionTitle": "La Constante de l'Équation",
+    "text": "Dans une semaine pleine de variables, t'as été la seule constante de l'équation — merci de rester fixe dans ce rôle-là.",
+    "effect": "Utiliser une métaphore mathématique, distinguant variables et constante, honore la fiabilité au milieu du changement plutôt que de décrire le soutien en termes vagues. Elle est spécifiquement remerciée d'être restée fixe pendant que tout le reste bougeait.",
+    "sectionTitle": "SMS - Merci d'Être Là",
+    "predictable": "La gratitude pour la fiabilité est rarement formulée avec la distinction mathématique précise entre variables et constante",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dans une semaine pleine de variables, t'as été la seule constante, merci pour ça."
+    ]
   }
 ]
