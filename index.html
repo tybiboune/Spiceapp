@@ -210,15 +210,6 @@
                 <button data-category="POSTITS" role="tab" aria-selected="false" class="category-tab min-h-[44px] px-3 sm:px-5 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-500 hover:bg-slate-100 hover:text-slate-800">Post-its</button>
             </div>
 
-            <!-- Literary filter: a main, always-visible toggle (not buried in
-                 the collapsible theme list) that narrows every category down
-                 to the literary-styled cards (tagged "Literary"/"Littéraire"). -->
-            <div class="flex justify-center mb-5 sm:mb-8">
-                <button id="literary-filter-btn" type="button" aria-pressed="false" class="min-h-[44px] px-4 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-500 hover:bg-slate-100 hover:text-slate-800">
-                    📚 Literary only
-                </button>
-            </div>
-
             <!-- Loading Section -->
             <section id="loading-section" class="text-center py-20">
                  <div class="flex justify-center items-center space-x-2">
@@ -327,6 +318,15 @@
         ✨
     </button>
 
+    <!-- Literary filter: an icon-only day/night-style switch, fixed at the
+         very top of the page (not part of the scrolling content) — a small
+         pill track with a sliding thumb, exactly like a dark-mode toggle,
+         except it narrows every category down to the literary-styled cards
+         (tagged "Literary"/"Littéraire") instead of switching a theme. -->
+    <button id="literary-filter-btn" type="button" aria-pressed="false" aria-label="Filtrer : cartes littéraires uniquement" title="Cartes littéraires uniquement" class="fixed z-40 top-[max(0.6rem,env(safe-area-inset-top))] right-3 sm:right-6 w-14 h-8 rounded-full bg-slate-300 shadow-md flex items-center px-1 transition-colors">
+        <span id="literary-filter-thumb" class="w-6 h-6 rounded-full bg-white shadow flex items-center justify-center text-sm leading-none transition-transform">📚</span>
+    </button>
+
     <!-- Update status toast: hidden until an update check/apply is in flight or has a result to report. -->
     <div id="update-toast" role="status" aria-live="polite" class="hidden fixed z-40 left-1/2 -translate-x-1/2 bottom-[calc(1.25rem+env(safe-area-inset-bottom))] sm:bottom-6 max-w-[90vw] px-4 py-2.5 rounded-full shadow-xl bg-slate-800 text-white text-sm font-medium"></div>
 
@@ -408,6 +408,7 @@
 
         // Literary filter
         const literaryFilterBtn = document.getElementById('literary-filter-btn');
+        const literaryFilterThumb = document.getElementById('literary-filter-thumb');
         let literaryFilterActive = false;
 
         // Cycle mode controls
@@ -667,12 +668,11 @@
 
         function renderLiteraryFilterUI() {
             literaryFilterBtn.setAttribute('aria-pressed', literaryFilterActive ? 'true' : 'false');
+            // Day/night-switch styling: the track darkens and the thumb
+            // slides to the right when active, exactly like a dark-mode toggle.
             literaryFilterBtn.classList.toggle('bg-indigo-600', literaryFilterActive);
-            literaryFilterBtn.classList.toggle('text-white', literaryFilterActive);
-            literaryFilterBtn.classList.toggle('border', !literaryFilterActive);
-            literaryFilterBtn.classList.toggle('border-slate-500', !literaryFilterActive);
-            literaryFilterBtn.classList.toggle('bg-white', !literaryFilterActive);
-            literaryFilterBtn.classList.toggle('text-slate-600', !literaryFilterActive);
+            literaryFilterBtn.classList.toggle('bg-slate-300', !literaryFilterActive);
+            literaryFilterThumb.classList.toggle('translate-x-6', literaryFilterActive);
         }
 
         literaryFilterBtn.addEventListener('click', () => {
