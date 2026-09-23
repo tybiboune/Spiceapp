@@ -18194,5 +18194,1790 @@
       "Prends vraiment un instant pour reprendre le contrôle avant de t'exprimer.",
       "La prochaine fois qu'une émotion forte monte, fais le même effort conscient."
     ]
+  },
+  {
+    "actionTitle": "The Rostov Ball, Reprised",
+    "text": "Tonight, ask her to dance in the kitchen as if it were Natasha's first ball — unpracticed, luminous, slightly too eager. A few days later, without warning, put the same song on again and ask for one more turn, so she knows the ball never really ended.",
+    "effect": "Recreating a single unrehearsed dance evokes the innocent wonder of Natasha's debut without needing a ballroom, making an ordinary evening feel briefly enormous. Repeating it days later, unprompted, proves it wasn't a one-off performance but a feeling you intend to keep returning to.",
+    "sectionTitle": "The Rostov Ball, Reprised",
+    "predictable": "A first dance is usually staged once, for an occasion, rarely revived twice on ordinary evenings without any occasion at all",
+    "themes": [
+      "Literary",
+      "Romance",
+      "Joy"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask her in the kitchen, unpracticed and slightly too eager, like a debut.",
+      "A few days later, put the same song on and ask for one more turn."
+    ]
+  },
+  {
+    "actionTitle": "The Deferred Confession",
+    "text": "Write down, today, one thing about her you have never said aloud — something closer to Pierre's slow, stumbling honesty than a polished compliment. Wait until an ordinary Tuesday to actually say it out loud, so it lands as truth and not performance.",
+    "effect": "Delaying a confession until it's no longer convenient mirrors Pierre's halting sincerity, proving the words weren't chosen for effect. She receives something that clearly cost you time to say, not a line rehearsed for the moment.",
+    "sectionTitle": "The Rostov Ball, Reprised",
+    "predictable": "Confessions are usually delivered in the heat of an occasion, rarely written first and held back for an unremarkable day",
+    "themes": [
+      "Literary",
+      "Vulnerability",
+      "Sincerity"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Write it down today — something closer to stumbling honesty than a compliment.",
+      "Say it out loud on an ordinary Tuesday, so it lands as truth, not performance."
+    ]
+  },
+  {
+    "actionTitle": "The Long Campaign of Small Kindnesses",
+    "text": "Like Sonya's quiet, unrewarded devotion, do one small thoughtful thing today without mentioning it. Keep doing it, unremarked, for a week — then on the seventh day, ask her if she noticed, and tell her why you never said anything sooner.",
+    "effect": "A week of silent devotion echoes Sonya's patient love, proving constancy rather than a single grand gesture. Revealing it only on the seventh day turns an invisible pattern into a visible, deliberate campaign of care.",
+    "sectionTitle": "The Rostov Ball, Reprised",
+    "predictable": "Small kindnesses are usually announced as they happen, rarely sustained silently for a week before being revealed at once",
+    "themes": [
+      "Literary",
+      "Devotion",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Do the small thing today without mentioning it, and repeat it for a week.",
+      "On the seventh day, ask if she noticed, and explain why you stayed quiet."
+    ]
+  },
+  {
+    "actionTitle": "The Wolf Hunt Nerve",
+    "text": "Choose something that frightens you a little today — a hard conversation, a leap — and do it with Nikolai Rostov's reckless nerve, right in front of her. A few days after, tell her honestly how afraid you actually were, stripping the bravado back down to truth.",
+    "effect": "Acting with visible nerve in the moment, then confessing the fear behind it days later, shows both courage and honesty as separate gifts rather than one performance. She gets to admire the boldness first and then trust the vulnerability underneath it.",
+    "sectionTitle": "The Rostov Ball, Reprised",
+    "predictable": "Displays of nerve are rarely followed days later by an honest confession of the fear that was hidden underneath them",
+    "themes": [
+      "Literary",
+      "Courage",
+      "Honesty"
+    ],
+    "dramaIntensity": 3,
+    "sexualIntensity": 1,
+    "variations": [
+      "Do the frightening thing today with visible nerve, right in front of her.",
+      "A few days after, admit honestly how afraid you actually were underneath it."
+    ]
+  },
+  {
+    "actionTitle": "The Return from the Front",
+    "text": "Leave for a few hours today as though called away suddenly, and return with the weight of Andrei coming home — quiet, changed, grateful simply to be back in the room with her. Days later, tell her what you thought about while you were gone.",
+    "effect": "Treating an ordinary return with the gravity of a soldier's homecoming makes her presence feel newly precious rather than assumed. Telling her later what occupied your mind while away turns a small theatrical gesture into a real window into your thoughts.",
+    "sectionTitle": "The Rostov Ball, Reprised",
+    "predictable": "Ordinary returns home are rarely treated with the emotional weight of a long-awaited homecoming, and rarely followed by a report of what was thought about",
+    "themes": [
+      "Literary",
+      "Gratitude",
+      "Presence"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Leave for a few hours as though called away, and return quiet and grateful.",
+      "Days later, tell her honestly what you thought about while you were gone."
+    ]
+  },
+  {
+    "actionTitle": "The Belated Letter",
+    "text": "Write her a real letter tonight, admitting something you have been slow — like Onegin — to say. Slip it somewhere she'll find it days later, dated honestly, so she knows exactly how long you sat on it before finally sending it.",
+    "effect": "Dating the letter honestly, rather than pretending it was spontaneous, mirrors Onegin's tragic delay and turns it into an intentional, disarming honesty instead of a flaw. She receives proof that the feeling existed before the courage to say it did.",
+    "sectionTitle": "The Belated Letter",
+    "predictable": "Letters are usually written and given the same day, rarely dated to expose exactly how long the writer hesitated first",
+    "themes": [
+      "Literary",
+      "Letter",
+      "Sincerity"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Write it tonight, admitting something you've been slow to say, and date it honestly.",
+      "Slip it somewhere she'll find it days later, so she sees how long you waited."
+    ]
+  },
+  {
+    "actionTitle": "The Duel You Refuse to Fight",
+    "text": "Today, when a small disagreement arises, refuse to let pride escalate it the way Onegin's pride destroyed Lensky — de-escalate on purpose, visibly. The next time tension rises, remind her, gently, that you're choosing this on purpose every time.",
+    "effect": "Deliberately refusing to let pride win a small argument, and naming that choice later, shows growth against a very famous literary cautionary tale. She learns that your restraint is a conscious decision repeated on purpose, not a lucky mood.",
+    "sectionTitle": "The Belated Letter",
+    "predictable": "De-escalating an argument on purpose is rarely named afterward as a deliberate, repeated choice rather than a mood",
+    "themes": [
+      "Literary",
+      "Restraint",
+      "Growth"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "When tension rises today, de-escalate on purpose, visibly, instead of digging in.",
+      "Next time tension rises, remind her gently that you're choosing this on purpose."
+    ]
+  },
+  {
+    "actionTitle": "Tatyana's Unanswered Letter, Answered",
+    "text": "Ask her tonight if there's something she once told you that you never properly answered — an Onegin-like silence you owe her. A few days later, come back with the real answer, however overdue.",
+    "effect": "Actively searching for an old, unanswered confession and returning to it days later corrects a very specific kind of literary regret. She sees that nothing she has told you gets permanently lost, even if the reply took time to arrive.",
+    "sectionTitle": "The Belated Letter",
+    "predictable": "Old unanswered confessions are rarely actively searched for and then given a real answer days after the fact",
+    "themes": [
+      "Literary",
+      "Repair",
+      "Attention"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask tonight if there's something you never properly answered before.",
+      "A few days later, come back with the real answer, however overdue it is."
+    ]
+  },
+  {
+    "actionTitle": "The Provincial Evening Made Grand",
+    "text": "Turn tonight's ordinary evening into something as vivid as a countryside ball — dress a little, light candles, treat it as an event. A few days later, do it again without any reason at all, so the first one wasn't just a special occasion.",
+    "effect": "Elevating an unremarkable evening into something ceremonial, twice, in close succession, proves the effort isn't reserved for anniversaries. She learns that grandeur can be a habit rather than a rare exception granted only on request.",
+    "sectionTitle": "The Belated Letter",
+    "predictable": "An ordinary evening turned ceremonial is rarely repeated days later without any occasion at all to justify it",
+    "themes": [
+      "Literary",
+      "Ceremony",
+      "Romance"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dress a little, light candles, treat tonight as an event for no reason."
+    ]
+  },
+  {
+    "actionTitle": "The Years Later Regret, Skipped",
+    "text": "Say, today, the thing Onegin only realized years too late — tell her plainly what she means to you, before circumstance forces the admission. A few weeks later, say it again, so it becomes a habit instead of a single narrow escape.",
+    "effect": "Saying a plain truth early, rather than waiting for tragedy to force it out, deliberately avoids the exact regret at the center of the poem. Repeating it weeks later turns a rescued moment into an ongoing practice rather than a one-time correction.",
+    "sectionTitle": "The Belated Letter",
+    "predictable": "A plain declaration is rarely repeated again weeks later specifically to turn it into a habit rather than a single moment",
+    "themes": [
+      "Literary",
+      "Declaration",
+      "Constancy"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Say plainly today what she means to you, before circumstance forces it out.",
+      "A few weeks later, say it again, so it becomes a habit, not a single moment."
+    ]
+  },
+  {
+    "actionTitle": "One More Summer in the Orchard",
+    "text": "Before something familiar between you changes or ends — a routine, a season, a habit — mark it deliberately tonight, the way Ranevskaya should have marked the orchard sooner. A few days later, ask her what part of it she'll actually miss.",
+    "effect": "Consciously marking something before it changes, rather than letting it slip away unnoticed like the orchard, shows an attentiveness the play's characters tragically lack. Asking what she'll miss days later turns a vague sentimental gesture into a specific, shared memory.",
+    "sectionTitle": "One More Summer in the Orchard",
+    "predictable": "Familiar routines are rarely deliberately marked before they change, and rarely followed by a direct question about what will be missed",
+    "themes": [
+      "Literary",
+      "Nostalgia",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Mark tonight deliberately, before something familiar between you changes.",
+      "A few days later, ask her what part of it she'll actually miss."
+    ]
+  },
+  {
+    "actionTitle": "Lopakhin's Late Offer",
+    "text": "Offer to fix or improve something practical she's been quietly living with — an unspoken Lopakhin-style rescue, done without fanfare. A week later, check in on whether it actually helped, since good intentions unchecked are just another kind of orchard left unsold.",
+    "effect": "Quietly fixing a practical problem, rather than announcing a grand romantic gesture, mirrors a more grounded kind of care than the play's characters manage. Following up a week later ensures the help was real and not just a well-meaning gesture left unverified.",
+    "sectionTitle": "One More Summer in the Orchard",
+    "predictable": "Practical help offered quietly is rarely followed up on a week later to confirm whether it actually solved anything",
+    "themes": [
+      "Literary",
+      "Care",
+      "Practicality"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fix or improve something practical she's quietly been living with, without fanfare.",
+      "A week later, check in on whether it actually helped."
+    ]
+  },
+  {
+    "actionTitle": "The Sound of the Breaking String",
+    "text": "Tonight, sit in silence together for a few minutes on purpose — no phones, no talk, the way the play's strange final sound lingers unexplained. Days later, ask her what she was thinking about during that silence.",
+    "effect": "Deliberately sharing unstructured silence, rather than filling every moment with talk, echoes the play's famous unexplained sound and its unspoken weight. Asking what she was thinking days later turns a passive shared silence into a delayed, intimate conversation.",
+    "sectionTitle": "One More Summer in the Orchard",
+    "predictable": "Shared silence is rarely followed up days later with a direct question about what the other person was thinking during it",
+    "themes": [
+      "Literary",
+      "Presence",
+      "Intimacy"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sit in silence together tonight on purpose, no phones, no talk, just present.",
+      "Days later, ask her what she was thinking about during that silence."
+    ]
+  },
+  {
+    "actionTitle": "The Auction Averted",
+    "text": "Today, step in and quietly resolve one small looming problem before it becomes a crisis — averting your own tiny household auction before it happens. A few days later, tell her you saw it coming and chose to act instead of waiting to react.",
+    "effect": "Preventing a small problem before it escalates, and admitting later that it was seen coming, shows foresight the orchard's owners painfully lack. She learns you notice trouble early and choose to act rather than simply react once it's unavoidable.",
+    "sectionTitle": "One More Summer in the Orchard",
+    "predictable": "Small problems quietly prevented are rarely explained afterward as something seen coming and acted on deliberately",
+    "themes": [
+      "Literary",
+      "Foresight",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quietly resolve one small looming problem today before it becomes a crisis.",
+      "A few days later, tell her you saw it coming and chose to act instead of wait."
+    ]
+  },
+  {
+    "actionTitle": "Anya's Hopeful Exit",
+    "text": "Tonight, propose one small concrete change to a stale routine, spoken with Anya's stubborn hope rather than nostalgia for how things were. A week later, follow through on it together, so the hope becomes an actual new habit.",
+    "effect": "Proposing change with hope rather than mourning what's ending channels the play's most forward-looking character instead of its backward-looking ones. Following through a week later turns a hopeful suggestion into a real, lived change rather than a wistful idea left behind.",
+    "sectionTitle": "One More Summer in the Orchard",
+    "predictable": "A hopeful proposal for change is rarely actually followed through on together a week later to make it real",
+    "themes": [
+      "Literary",
+      "Hope",
+      "Change"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Propose one small concrete change tonight, spoken with stubborn hope.",
+      "A week later, follow through on it together, so the hope becomes a habit."
+    ]
+  },
+  {
+    "actionTitle": "The Station Platform",
+    "text": "Meet her somewhere today as if arriving by train after a long absence — full attention, nothing else on your mind, the opposite of Vronsky's later distraction. A few days later, do it again, proving the first time wasn't just a performance of presence.",
+    "effect": "Giving full, undivided attention at a single meeting deliberately inverts the novel's central tragedy of distraction and neglect. Repeating the same full attention days later confirms it as a standard, not a one-time show staged to impress.",
+    "sectionTitle": "The Station Platform",
+    "predictable": "Full undivided attention at a single meeting is rarely deliberately repeated days later to prove it wasn't a one-time performance",
+    "themes": [
+      "Literary",
+      "Attention",
+      "Presence"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Meet her today with full attention, nothing else on your mind, fully present.",
+      "A few days later, do it again, proving it wasn't just a one-time performance."
+    ]
+  },
+  {
+    "actionTitle": "Levin's Late Understanding",
+    "text": "Ask her today to explain something about her inner life you've never fully understood — Levin's slow, humble curiosity rather than easy assumption. Days later, show her, through some concrete change, that you actually absorbed the answer.",
+    "effect": "Asking a humble question about something genuinely not understood, rather than assuming, echoes Levin's hard-won growth rather than easy certainty. Demonstrating the answer's impact days later through a real change proves it was truly heard, not just politely received.",
+    "sectionTitle": "The Station Platform",
+    "predictable": "A humble question about her inner life is rarely followed days later by a concrete change proving the answer was absorbed",
+    "themes": [
+      "Literary",
+      "Curiosity",
+      "Growth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask her today to explain something about her inner life you've never understood.",
+      "Days later, show her through a concrete change that you absorbed the answer."
+    ]
+  },
+  {
+    "actionTitle": "Kitty's Quiet Steadiness",
+    "text": "Today, be the steady, undramatic presence in a small crisis — Kitty's quiet competence rather than any grand gesture. A few days after it passes, tell her you noticed how she also handled it, and thank her specifically for that.",
+    "effect": "Providing calm, unglamorous steadiness during a small crisis, then specifically praising her matching steadiness afterward, honors a quieter kind of heroism the novel rewards. She receives recognition not for drama but for the competence too often taken for granted.",
+    "sectionTitle": "The Station Platform",
+    "predictable": "Steady, undramatic support during a small crisis is rarely followed by specific thanks for how she also handled it",
+    "themes": [
+      "Literary",
+      "Steadiness",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be the steady, undramatic presence today during a small crisis, no drama."
+    ]
+  },
+  {
+    "actionTitle": "The Ball Gown Reconsidered",
+    "text": "Tonight, tell her honestly what you find beautiful about her that has nothing to do with how she looks in any particular outfit — deliberately avoiding the novel's obsession with appearance. A few days later, say a second, different thing, so it doesn't read as a single rehearsed line.",
+    "effect": "Praising something beyond appearance deliberately counters the novel's fixation on how women are seen rather than known. A second, different observation days later proves the first wasn't an isolated, rehearsed compliment but genuine ongoing attention.",
+    "sectionTitle": "The Station Platform",
+    "predictable": "A compliment about something beyond appearance is rarely followed days later by a second, different one on purpose",
+    "themes": [
+      "Literary",
+      "Compliment",
+      "Depth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tell her tonight what you find beautiful that has nothing to do with looks.",
+      "A few days later, say a second, different thing, so it doesn't feel rehearsed."
+    ]
+  },
+  {
+    "actionTitle": "The Confession on the Train",
+    "text": "Today, tell her one honest, slightly uncomfortable truth about how you've been feeling — Anna's dangerous honesty, made safe instead of destructive. A few days later, ask her how she felt hearing it, closing the loop the novel's characters never do.",
+    "effect": "Sharing an uncomfortable truth honestly, then actually asking how it landed days later, takes the novel's raw honesty and gives it the safe follow-through it never receives. She experiences vulnerability paired with real accountability rather than left to fester unexamined.",
+    "sectionTitle": "The Station Platform",
+    "predictable": "An uncomfortable honest confession is rarely followed days later by a direct question about how it felt to hear it",
+    "themes": [
+      "Literary",
+      "Honesty",
+      "Accountability"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tell her today one honest, slightly uncomfortable truth about how you feel.",
+      "A few days later, ask her how she felt hearing it, and really listen."
+    ]
+  },
+  {
+    "actionTitle": "The Elder's Question",
+    "text": "Tonight, ask her one genuinely searching question about what she believes matters most in life — Zosima's patient, unhurried curiosity rather than small talk. A few days later, bring it up again, showing the question actually stayed with you.",
+    "effect": "A genuinely searching question, asked without small talk's usual haste, mirrors the elder's patient, whole-hearted attention to another person. Returning to it days later proves the question wasn't idle conversation but something that actually lodged and mattered.",
+    "sectionTitle": "The Elder's Question",
+    "predictable": "A searching question about what matters most in life is rarely brought up again days later to show it actually stayed with you",
+    "themes": [
+      "Literary",
+      "Curiosity",
+      "Depth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask her tonight one genuinely searching question about what matters most.",
+      "A few days later, bring it up again, showing it actually stayed with you."
+    ]
+  },
+  {
+    "actionTitle": "Alyosha's Unjudging Ear",
+    "text": "Today, when she vents about something frustrating, listen the way Alyosha listens — without judgment, without immediately fixing it. Days later, ask how that situation resolved, proving your attention didn't end when the venting did.",
+    "effect": "Listening without judgment or immediate problem-solving mirrors the novel's most patient, unconditionally accepting character. Following up days later on how it resolved shows the listening had real staying power beyond the moment it was offered.",
+    "sectionTitle": "The Elder's Question",
+    "predictable": "Listening without judgment is rarely followed days later by a specific check-in on how the situation actually resolved",
+    "themes": [
+      "Literary",
+      "Listening",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "When she vents today, listen without judgment, without rushing to fix it.",
+      "Days later, ask how that situation resolved, showing you didn't forget."
+    ]
+  },
+  {
+    "actionTitle": "The Grand Inquisitor's Silence",
+    "text": "Today, resist the urge to argue a point you know you're right about, and simply let her finish completely — a deliberate silence, like the prisoner's, in the face of a long speech. A few days later, tell her why you chose to stay quiet that time.",
+    "effect": "Choosing deliberate silence instead of winning an argument echoes one of literature's most famous silent refusals to answer certainty with certainty. Explaining the choice days later turns restraint into a legible act of respect rather than passive avoidance.",
+    "sectionTitle": "The Elder's Question",
+    "predictable": "Deliberate silence during a disagreement is rarely explained days later as a conscious choice rather than passive avoidance",
+    "themes": [
+      "Literary",
+      "Restraint",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Resist arguing today, and simply let her finish completely, without pushing back.",
+      "A few days later, tell her why you chose to stay quiet that time."
+    ]
+  },
+  {
+    "actionTitle": "Dmitri's Reckless Devotion",
+    "text": "Today, do something a little reckless and wholehearted for her — Dmitri's excessive, unguarded devotion, scaled to real life. A few days later, do something quieter and steadier, so she sees both sides of the same commitment.",
+    "effect": "Pairing one reckless, wholehearted gesture with a quieter, steadier one days later mirrors the novel's tension between passion and constancy, resolved rather than left in conflict. She receives proof that intensity and reliability can come from the same person, not opposing ones.",
+    "sectionTitle": "The Elder's Question",
+    "predictable": "A reckless, wholehearted gesture is rarely followed days later by a deliberately quieter, steadier one from the same person",
+    "themes": [
+      "Literary",
+      "Devotion",
+      "Balance"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Do something a little reckless and wholehearted for her today.",
+      "A few days later, do something quieter and steadier, showing both sides."
+    ]
+  },
+  {
+    "actionTitle": "The Confession Ivan Withholds",
+    "text": "Tonight, say the thing you've been withholding out of pride or fear — the confession Ivan's intellect keeps him from ever fully making. A few days later, ask her plainly if it changed anything between you, and listen to the real answer.",
+    "effect": "Voicing a withheld confession, rather than letting pride bury it as Ivan's does, actively avoids the novel's tragedy of unspoken truth. Asking directly days later whether it changed anything shows willingness to face the consequences honestly, not just release the words.",
+    "sectionTitle": "The Elder's Question",
+    "predictable": "A long-withheld confession is rarely followed days later by a direct question about whether it changed anything between you",
+    "themes": [
+      "Literary",
+      "Honesty",
+      "Courage"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Say tonight the thing you've been withholding out of pride or fear.",
+      "A few days later, ask plainly if it changed anything, and listen to the answer."
+    ]
+  },
+  {
+    "actionTitle": "Pemberley's Quiet Hour",
+    "text": "Show her something you're quietly proud of today — a space, a skill, a project — the way Darcy lets Elizabeth see Pemberley without a word of boasting. Days later, ask what she actually thought of it, since Darcy never got to ask.",
+    "effect": "Letting pride speak through a place or object rather than words mirrors Darcy's silent self-revelation at Pemberley, which changes everything without a single claim made aloud. Asking her real reaction days later closes a gap the novel leaves open to the reader's imagination only.",
+    "sectionTitle": "Pemberley's Quiet Hour",
+    "predictable": "Something quietly shown without boasting is rarely followed days later by a direct question about what she actually thought",
+    "themes": [
+      "Literary",
+      "Pride",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Show her something you're quietly proud of today, without boasting.",
+      "Days later, ask what she actually thought of it, and really want the answer."
+    ]
+  },
+  {
+    "actionTitle": "The Letter That Explains Everything",
+    "text": "Write her a letter tonight explaining, calmly and fully, something you handled badly recently — a Darcy-style letter, correcting the record without excuses. Leave it somewhere she'll find it in a day or two, so she has time alone with it first.",
+    "effect": "A calm, thorough written explanation, rather than a rushed in-person defense, mirrors the pivotal letter that reshapes the whole novel's misunderstanding. Giving her time alone with it first lets the words do their work without your face pushing for an immediate reaction.",
+    "sectionTitle": "Pemberley's Quiet Hour",
+    "predictable": "An explanatory letter about something handled badly is rarely left for her to find and read alone before any conversation",
+    "themes": [
+      "Literary",
+      "Letter",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Write it tonight, calmly and fully, correcting the record without excuses.",
+      "Leave it somewhere she'll find it in a day or two, giving her time alone first."
+    ]
+  },
+  {
+    "actionTitle": "The Second Proposal",
+    "text": "Ask her something important again today, the way Darcy asks a second time — humbler, wiser, having actually listened to what went wrong the first time. A few days later, ask if the second time really did feel different from the first.",
+    "effect": "Revisiting an important ask with visible humility mirrors the novel's most romantic correction: not persistence for its own sake, but genuine change acted on. Asking days later whether it truly felt different confirms the growth registered, not just the repetition.",
+    "sectionTitle": "Pemberley's Quiet Hour",
+    "predictable": "An important ask, revisited with humility, is rarely followed days later by a direct question on whether it felt different",
+    "themes": [
+      "Literary",
+      "Humility",
+      "Growth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask her something important again today, humbler and wiser than before.",
+      "A few days later, ask if it really did feel different from the first time."
+    ]
+  },
+  {
+    "actionTitle": "Mr. Bennet's Library Retreat, Interrupted",
+    "text": "Today, instead of retreating into your own quiet corner as Mr. Bennet always does, invite her into it — share the thing you usually keep to yourself. Days later, ask her something about her own quiet corner in return.",
+    "effect": "Inviting her into a private retreat, rather than defaulting to isolation like the novel's most withdrawn father figure, actively resists that particular cautionary example. Asking about her equivalent space days later makes the invitation reciprocal instead of one-sided.",
+    "sectionTitle": "Pemberley's Quiet Hour",
+    "predictable": "A private retreat is rarely opened up to someone else and then reciprocated days later with a question about their own",
+    "themes": [
+      "Literary",
+      "Openness",
+      "Reciprocity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Invite her today into the quiet corner you usually keep to yourself."
+    ]
+  },
+  {
+    "actionTitle": "The Assembly Room Redeemed",
+    "text": "Tonight, do the opposite of Darcy's disastrous first impression — go out of your way to be warm and present somewhere you'd normally hang back. A few days later, tell her honestly that you had to work at it, so the warmth isn't mistaken for effortless ease.",
+    "effect": "Deliberately overriding a natural reserve to be warm in the moment directly corrects the novel's most famous case of a bad first impression. Admitting the effort involved days later keeps the gesture honest rather than letting her assume it cost nothing.",
+    "sectionTitle": "Pemberley's Quiet Hour",
+    "predictable": "Deliberate warmth somewhere you'd normally hold back is rarely followed days later by an honest admission of the effort involved",
+    "themes": [
+      "Literary",
+      "Warmth",
+      "Honesty"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Go out of your way to be warm tonight, somewhere you'd normally hold back.",
+      "A few days later, admit honestly that you had to work at it."
+    ]
+  },
+  {
+    "actionTitle": "The Moor Beyond the Window",
+    "text": "Take her somewhere a little wild and open today — a real echo of the moors, wind and distance — and say something true without softening it, Heathcliff's rawness without the cruelty. A few days later, ask if she'd want to go back there.",
+    "effect": "Pairing a wild, open setting with unsoftened honesty channels the novel's elemental intensity while deliberately leaving out its destructiveness. Asking if she'd return days later confirms the moment was a shared discovery, not a one-time dramatic gesture.",
+    "sectionTitle": "The Moor Beyond the Window",
+    "predictable": "A wild, honest outing is rarely followed days later by a direct question about whether she'd want to return",
+    "themes": [
+      "Literary",
+      "Intensity",
+      "Honesty"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take her somewhere wild and open today, and say something true, unsoftened.",
+      "A few days later, ask if she'd want to go back there with you."
+    ]
+  },
+  {
+    "actionTitle": "The Love That Outlasts the Grave, Made Livable",
+    "text": "Tonight, tell her something about your devotion that feels almost too intense to say — Heathcliff and Cathy's scale of feeling, without the ruin. Days later, show the same intensity in something small and steady, so it isn't just words.",
+    "effect": "Voicing an unusually intense declaration, then grounding it days later in a small steady action, takes the novel's famous excess and makes it sustainable rather than destructive. She receives both the scale of the feeling and proof it survives ordinary daylight.",
+    "sectionTitle": "The Moor Beyond the Window",
+    "predictable": "An intense declaration of devotion is rarely followed days later by the same intensity shown in something small and steady",
+    "themes": [
+      "Literary",
+      "Intensity",
+      "Devotion"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tell her tonight something about your devotion that feels almost too intense to say.",
+      "Days later, show the same intensity in something small and steady."
+    ]
+  },
+  {
+    "actionTitle": "Lockwood's Overheard Ghost",
+    "text": "Today, bring up something old between you that still lingers unresolved — gently, like Lockwood's strange dream forcing the past to the surface. A few days later, follow up on whatever she said, so it doesn't get buried again.",
+    "effect": "Deliberately surfacing an old unresolved matter, rather than letting it haunt the relationship unaddressed, takes the novel's ghostly hauntings and gives them a real resolution. Following up days later ensures the conversation wasn't just an isolated confrontation.",
+    "sectionTitle": "The Moor Beyond the Window",
+    "predictable": "An old unresolved matter, gently surfaced, is rarely followed days later to make sure it doesn't get buried again",
+    "themes": [
+      "Literary",
+      "Repair",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Gently bring up something old between you that still lingers unresolved today.",
+      "A few days later, follow up on whatever she said, so it isn't buried again."
+    ]
+  },
+  {
+    "actionTitle": "Nelly's Steady Witness",
+    "text": "Today, be the steady, unglamorous support in something small — Nelly Dean's patient, thankless constancy. Days later, tell her plainly that you'll keep showing up like that, not just when it's dramatic or convenient.",
+    "effect": "Offering quiet, unglamorous support mirrors the novel's most reliable, underappreciated character rather than its wilder romantic leads. Stating the intention to keep doing so days later turns a single instance of steadiness into an explicit, ongoing promise.",
+    "sectionTitle": "The Moor Beyond the Window",
+    "predictable": "Quiet, unglamorous support is rarely followed days later by an explicit promise to keep showing up that way",
+    "themes": [
+      "Literary",
+      "Steadiness",
+      "Constancy"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be the steady, unglamorous support in something small today, no drama."
+    ]
+  },
+  {
+    "actionTitle": "The Name Carved Into Something Lasting",
+    "text": "Mark something small and lasting with a private reference to her today — initials somewhere only you'll notice, a quiet echo of names carved into windowsills. Days later, show her, and tell her what it means.",
+    "effect": "A private, lasting mark made without immediate explanation echoes the novel's carved names as a quiet claim of permanence rather than public declaration. Revealing it days later, with its meaning explained, turns a small secret into a shared, understood symbol.",
+    "sectionTitle": "The Moor Beyond the Window",
+    "predictable": "A private lasting mark is rarely kept secret for days before being revealed and explained to her directly",
+    "themes": [
+      "Literary",
+      "Permanence",
+      "Secret"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Mark something small and lasting with a private reference to her today.",
+      "Days later, show her, and tell her what it means to you."
+    ]
+  },
+  {
+    "actionTitle": "The Ledger Rewritten",
+    "text": "Today, correct one small stingy habit of yours — with time, attention, or generosity — the way Scrooge rewrites his whole ledger overnight. A few days later, ask her if she's noticed anything different, without explaining why.",
+    "effect": "Deliberately correcting a habit of withholding, then asking if it was noticed without explanation, mirrors Scrooge's transformation being judged by actions rather than announced intentions. Her noticing unprompted proves the change was real, not a performance staged for credit.",
+    "sectionTitle": "The Ledger Rewritten",
+    "predictable": "A corrected stingy habit is rarely followed days later by a question about whether she noticed, without explaining why",
+    "themes": [
+      "Literary",
+      "Generosity",
+      "Change"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Correct one small stingy habit of yours today, with time or attention.",
+      "A few days later, ask if she's noticed anything different, without explaining."
+    ]
+  },
+  {
+    "actionTitle": "The Ghost of an Old Christmas",
+    "text": "Tonight, bring up a good memory from early in your relationship, in loving detail, the way the first spirit forces Scrooge to feel his own past again. A few days later, recreate one small piece of that memory together.",
+    "effect": "Reviving an old memory in vivid detail, then physically recreating a piece of it days later, takes the novel's haunting nostalgia and makes it a gift rather than a painful confrontation. She experiences both remembering together and living it again.",
+    "sectionTitle": "The Ledger Rewritten",
+    "predictable": "A vividly recalled memory is rarely followed days later by an actual recreation of a small piece of it together",
+    "themes": [
+      "Literary",
+      "Nostalgia",
+      "Romance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Bring up a good early memory tonight, in loving, vivid detail.",
+      "A few days later, recreate one small piece of that memory together."
+    ]
+  },
+  {
+    "actionTitle": "Tiny Tim's Unforced Gratitude",
+    "text": "Today, say thank you for something specific and small she does that usually goes unremarked — Tiny Tim's unforced, particular gratitude. Days later, say thank you for a second, different small thing, so it becomes a pattern.",
+    "effect": "Naming a specific, usually invisible act with real gratitude mirrors the novel's smallest character carrying its clearest moral weight. A second distinct thank-you days later establishes this as an ongoing practice of noticing, not a single spotlighted moment.",
+    "sectionTitle": "The Ledger Rewritten",
+    "predictable": "Specific gratitude for a small unremarked act is rarely repeated days later for a second, different small thing",
+    "themes": [
+      "Literary",
+      "Gratitude",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thank her today for something specific and small that usually goes unremarked.",
+      "Days later, thank her for a second, different small thing, on purpose."
+    ]
+  },
+  {
+    "actionTitle": "The Christmas Yet to Come, Chosen Instead",
+    "text": "Tonight, describe honestly one future you'd love to build with her — specific, hopeful, the corrected vision rather than Scrooge's grim unvisited grave. A few weeks later, take one concrete small step toward that future together.",
+    "effect": "Describing a hopeful, specific future rather than leaving it vague directly inverts the novel's most frightening, unspecified vision. A concrete step toward it weeks later proves the description was a plan, not just a comforting thing to say once.",
+    "sectionTitle": "The Ledger Rewritten",
+    "predictable": "A hopeful, specific vision of the future is rarely followed weeks later by an actual concrete step taken toward it",
+    "themes": [
+      "Literary",
+      "Future",
+      "Hope"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Describe honestly tonight one future you'd love to build with her.",
+      "A few weeks later, take one concrete small step toward that future together."
+    ]
+  },
+  {
+    "actionTitle": "Fezziwig's Unnecessary Party",
+    "text": "Throw together something small and joyful tonight for no reason at all — Fezziwig's generous, unnecessary festivity, just because. A few days later, do a smaller version again, proving joy doesn't need an occasion to be worth the effort.",
+    "effect": "An unnecessary but joyful gesture, repeated in miniature days later, channels the novel's argument that a little kindness costs almost nothing yet means everything. She learns that celebration in your relationship doesn't wait for calendar permission.",
+    "sectionTitle": "The Ledger Rewritten",
+    "predictable": "An unnecessary joyful gesture is rarely followed days later by a smaller repeat, proving it wasn't tied to any occasion",
+    "themes": [
+      "Literary",
+      "Joy",
+      "Spontaneity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Throw together something small and joyful tonight, for no reason at all.",
+      "A few days later, do a smaller version again, just because."
+    ]
+  },
+  {
+    "actionTitle": "The Flowers She Would Buy Herself",
+    "text": "Today, notice and name one small, ordinary pleasure she gives herself without asking — her own version of buying the flowers herself, Clarissa's quiet self-sufficiency. Days later, add to it, rather than replacing it, so her independence stays intact.",
+    "effect": "Naming her self-sufficient small pleasures, then adding to rather than replacing them days later, honors the novel's central insight that independence and being loved aren't opposites. She feels seen in her autonomy instead of managed out of it.",
+    "sectionTitle": "The Flowers She Would Buy Herself",
+    "predictable": "A small self-given pleasure is rarely noticed by name and then added to, rather than replaced, days later",
+    "themes": [
+      "Literary",
+      "Independence",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Notice and name today one small ordinary pleasure she gives herself.",
+      "Days later, add to it rather than replacing it, respecting her independence."
+    ]
+  },
+  {
+    "actionTitle": "The Party That Isn't for Show",
+    "text": "Host or arrange something small tonight — not to impress anyone, but purely because gathering matters to you, Clarissa's party stripped of its social anxiety. A few days later, ask her what she actually enjoyed about it, honestly.",
+    "effect": "Hosting something small purely for connection rather than status echoes the novel's party at its best moments, when it briefly becomes genuine rather than performative. Asking her honest experience days later confirms the gathering succeeded on its real terms.",
+    "sectionTitle": "The Flowers She Would Buy Herself",
+    "predictable": "A small gathering hosted for connection, not status, is rarely followed days later by an honest question on what she enjoyed",
+    "themes": [
+      "Literary",
+      "Connection",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Host or arrange something small tonight, purely because gathering matters."
+    ]
+  },
+  {
+    "actionTitle": "The Single Day Made Whole",
+    "text": "Today, give one entire ordinary day your full, present attention with her — an unbroken day, the novel's whole structure compressed into your actual life. A few days later, talk together about what made that day different from the rest.",
+    "effect": "Deliberately devoting a full day's presence, then discussing what made it different days later, mirrors the novel's technique of finding a whole life's meaning inside a single day. She experiences both the gift and the shared reflection on why it worked.",
+    "sectionTitle": "The Flowers She Would Buy Herself",
+    "predictable": "A fully present ordinary day is rarely followed days later by a shared conversation about what made it different",
+    "themes": [
+      "Literary",
+      "Presence",
+      "Reflection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Give one entire day today your full, present attention, unbroken."
+    ]
+  },
+  {
+    "actionTitle": "Septimus's Unspoken Weight",
+    "text": "Ask her gently today if there's a weight she's been carrying quietly that you haven't noticed — Septimus's invisible suffering, caught before it isolates her. Days later, check in again specifically about that same thing.",
+    "effect": "Gently probing for an invisible burden, then following up specifically days later, takes the novel's tragedy of unnoticed suffering and prevents it. She learns her quiet struggles are actively watched for, not just eventually stumbled upon.",
+    "sectionTitle": "The Flowers She Would Buy Herself",
+    "predictable": "A gentle question about an unnoticed burden is rarely followed days later by a specific, repeated check-in on that same thing",
+    "themes": [
+      "Literary",
+      "Care",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ask her gently today if there's a weight she's been carrying quietly.",
+      "Days later, check in again specifically about that same thing."
+    ]
+  },
+  {
+    "actionTitle": "Peter Walsh's Better Return",
+    "text": "Today, revisit a small unresolved tension from your past together honestly, the way Peter Walsh returns to Clarissa — without bitterness, just clear-eyed honesty. A few days later, ask if raising it changed anything between you.",
+    "effect": "Revisiting old tension without bitterness, then asking days later if it changed anything, corrects the novel's central missed reunion by actually following through on the honest conversation. She sees old wounds handled with maturity rather than nostalgia alone.",
+    "sectionTitle": "The Flowers She Would Buy Herself",
+    "predictable": "Old unresolved tension revisited without bitterness is rarely followed days later by a direct question on what it changed",
+    "themes": [
+      "Literary",
+      "Repair",
+      "Maturity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Revisit a small old tension honestly today, without bitterness, just clarity.",
+      "A few days later, ask if raising it changed anything between you."
+    ]
+  },
+  {
+    "actionTitle": "The Valentine Sent in Jest, Meant",
+    "text": "Send her something small and playful today — a note, a message — but make sure, unlike Bathsheba's careless valentine, that you mean every word of it. Days later, tell her plainly that it wasn't a joke, closing the gap the novel leaves open.",
+    "effect": "Sending a playful note while explicitly meaning it corrects the novel's inciting mistake of a message sent carelessly and taken too seriously. Confirming days later that it wasn't a joke removes any lingering doubt the novel's plot turns entirely on.",
+    "sectionTitle": "The Valentine Sent in Jest",
+    "predictable": "A playful note is rarely followed days later by an explicit confirmation that it wasn't a joke after all",
+    "themes": [
+      "Literary",
+      "Playful",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Send her something small and playful today, but mean every word of it.",
+      "Days later, tell her plainly that it wasn't a joke."
+    ]
+  },
+  {
+    "actionTitle": "Gabriel Oak's Quiet Constancy",
+    "text": "Today, do something steady and useful for her without asking for credit or romance in return — Gabriel Oak's patient, undramatic loyalty. A few weeks later, do it again, so the pattern becomes unmistakably deliberate.",
+    "effect": "Offering steady, uncredited help mirrors the novel's most patient character, who earns love through years of quiet reliability rather than one grand gesture. Repeating it weeks later turns isolated helpfulness into a clearly deliberate, ongoing choice.",
+    "sectionTitle": "The Valentine Sent in Jest",
+    "predictable": "Steady, uncredited help is rarely repeated weeks later specifically to make the pattern unmistakably deliberate",
+    "themes": [
+      "Literary",
+      "Constancy",
+      "Humility"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Do something steady and useful for her today, without asking for credit."
+    ]
+  },
+  {
+    "actionTitle": "The Storm Weathered Together",
+    "text": "Today, when a small stressful moment hits, stay calm and work the problem alongside her — Gabriel and Bathsheba saving the ricks together in the storm. Afterward, tell her you noticed how well you worked as a team.",
+    "effect": "Staying calm and collaborative during a small crisis, then naming the teamwork afterward, echoes the novel's most quietly romantic scene of working side by side under pressure. She hears explicitly that the partnership itself, not just the outcome, was noticed and valued.",
+    "sectionTitle": "The Valentine Sent in Jest",
+    "predictable": "Calm teamwork during a small crisis is rarely followed by an explicit comment afterward naming how well you worked together",
+    "themes": [
+      "Literary",
+      "Teamwork",
+      "Calm"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "When a small stressful moment hits today, stay calm and work it with her.",
+      "Afterward, tell her you noticed how well you worked together as a team."
+    ]
+  },
+  {
+    "actionTitle": "Boldwood's Warning, Heeded",
+    "text": "Today, notice if you've been fixating unhealthily on getting a particular reaction from her, and consciously let it go — avoiding Boldwood's obsessive spiral before it starts. Days later, tell her honestly that you caught yourself doing it.",
+    "effect": "Consciously releasing an unhealthy fixation, then admitting it honestly days later, actively avoids the novel's tragic warning about obsession disguised as devotion. She learns you can catch your own patterns before they curdle into something smothering.",
+    "sectionTitle": "The Valentine Sent in Jest",
+    "predictable": "Consciously releasing a fixation is rarely followed days later by an honest admission that you caught yourself doing it",
+    "themes": [
+      "Literary",
+      "Self-awareness",
+      "Honesty"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Notice today if you're fixating unhealthily on a reaction from her, and let it go.",
+      "Days later, tell her honestly that you caught yourself doing it."
+    ]
+  },
+  {
+    "actionTitle": "The Wedding Ring Bought Twice",
+    "text": "Today, revisit a promise or commitment you made a while ago and reaffirm it deliberately — Bathsheba finally choosing rightly after choosing wrongly first. A few days later, back it up with one concrete action that proves it.",
+    "effect": "Deliberately reaffirming an old commitment, then backing it with concrete action days later, mirrors the novel's slow, hard-won arrival at a choice made rightly the second time. She receives both the renewed words and the proof that they hold weight.",
+    "sectionTitle": "The Valentine Sent in Jest",
+    "predictable": "A reaffirmed old commitment is rarely backed up days later with one concrete action that proves it wasn't just words",
+    "themes": [
+      "Literary",
+      "Commitment",
+      "Follow-through"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Revisit a promise you made a while ago today and reaffirm it deliberately.",
+      "A few days later, back it up with one concrete action that proves it."
+    ]
+  },
+  {
+    "actionTitle": "Le Bal des Rostov, Encore",
+    "text": "Ce soir, invite-la à danser dans la cuisine comme si c'était le premier bal de Natacha — maladroit, lumineux, un peu trop enthousiaste. Quelques jours plus tard, remets la même chanson sans prévenir et redemande une danse, pour qu'elle sache que le bal n'était pas vraiment fini.",
+    "effect": "Recréer une danse improvisée évoque l'émerveillement naïf du premier bal de Natacha sans avoir besoin d'une salle de bal, rendant une soirée ordinaire soudain immense. La répéter quelques jours plus tard, sans prévenir, prouve que ce n'était pas une performance isolée mais un sentiment que tu comptes faire revenir.",
+    "sectionTitle": "Le Bal des Rostov, Encore",
+    "predictable": "Une première danse est généralement organisée une fois, pour une occasion précise, rarement relancée deux fois lors de soirées ordinaires sans aucune occasion",
+    "themes": [
+      "Littéraire",
+      "Romance",
+      "Joie"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Invite-la dans la cuisine, maladroit et un peu trop enthousiaste, comme un premier bal.",
+      "Quelques jours plus tard, remets la chanson et redemande une danse."
+    ]
+  },
+  {
+    "actionTitle": "L'Aveu Différé",
+    "text": "Écris-lui ce soir un vrai mot, avouant quelque chose que tu as tardé — comme Pierre — à dire. Glisse-le quelque part où elle le trouvera dans quelques jours, daté honnêtement, pour qu'elle sache combien de temps tu l'as gardé avant de te décider.",
+    "effect": "Dater le mot honnêtement, plutôt que de prétendre qu'il était spontané, rejoint l'honnêteté hésitante de Pierre et transforme le délai en une franchise désarmante plutôt qu'un défaut. Elle reçoit la preuve que le sentiment existait avant que le courage de le dire n'arrive.",
+    "sectionTitle": "Le Bal des Rostov, Encore",
+    "predictable": "Un mot d'aveu est généralement écrit et donné le jour même, rarement daté pour révéler exactement combien de temps l'auteur a hésité",
+    "themes": [
+      "Littéraire",
+      "Lettre",
+      "Sincérité"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Écris-le ce soir, avouant quelque chose que tu as tardé à dire, et date-le.",
+      "Glisse-le où elle le trouvera dans quelques jours, pour qu'elle voie le délai."
+    ]
+  },
+  {
+    "actionTitle": "La Longue Campagne des Petites Bontés",
+    "text": "Comme la dévotion silencieuse et sans récompense de Sonia, fais aujourd'hui une petite chose attentionnée sans le mentionner. Continue sans rien dire pendant une semaine — puis le septième jour, demande-lui si elle a remarqué, et explique pourquoi tu n'as rien dit avant.",
+    "effect": "Une semaine de dévotion silencieuse rejoint l'amour patient de Sonia, prouvant la constance plutôt qu'un geste unique et spectaculaire. Ne révéler la démarche que le septième jour transforme une habitude invisible en une campagne délibérée et visible.",
+    "sectionTitle": "Le Bal des Rostov, Encore",
+    "predictable": "Les petites bontés sont généralement annoncées au moment où elles se produisent, rarement maintenues en silence pendant une semaine avant d'être révélées d'un coup",
+    "themes": [
+      "Littéraire",
+      "Dévotion",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais aujourd'hui la petite chose sans la mentionner, et répète-la une semaine.",
+      "Le septième jour, demande si elle a remarqué, et explique pourquoi tu t'es tu."
+    ]
+  },
+  {
+    "actionTitle": "Le Sang-Froid de la Chasse au Loup",
+    "text": "Choisis aujourd'hui quelque chose qui te fait un peu peur — une conversation difficile, un saut — et fais-le avec l'audace téméraire de Nikolaï Rostov, juste devant elle. Quelques jours après, dis-lui honnêtement à quel point tu avais peur, en retirant toute la bravade.",
+    "effect": "Agir avec un aplomb visible sur le moment, puis avouer la peur derrière quelques jours plus tard, montre courage et honnêteté comme deux cadeaux distincts plutôt qu'une seule performance. Elle peut d'abord admirer l'audace, puis faire confiance à la vulnérabilité en dessous.",
+    "sectionTitle": "Le Bal des Rostov, Encore",
+    "predictable": "Une démonstration d'audace est rarement suivie quelques jours plus tard d'un aveu honnête de la peur qui se cachait dessous",
+    "themes": [
+      "Littéraire",
+      "Courage",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 3,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais aujourd'hui la chose qui te fait peur, avec un aplomb visible, devant elle.",
+      "Quelques jours après, avoue honnêtement à quel point tu avais peur."
+    ]
+  },
+  {
+    "actionTitle": "Le Retour du Front",
+    "text": "Pars quelques heures aujourd'hui comme si tu étais appelé soudainement, et reviens avec le poids du retour d'André — calme, changé, simplement reconnaissant d'être de nouveau dans la pièce avec elle. Quelques jours plus tard, dis-lui à quoi tu pensais pendant ton absence.",
+    "effect": "Traiter un retour ordinaire avec la gravité d'un retour de soldat rend sa présence soudain précieuse plutôt qu'acquise. Lui dire plus tard à quoi tu pensais transforme un petit geste théâtral en une vraie fenêtre sur tes pensées.",
+    "sectionTitle": "Le Bal des Rostov, Encore",
+    "predictable": "Les retours ordinaires sont rarement traités avec le poids émotionnel d'un retour attendu, et rarement suivis d'un rapport sur ce à quoi on pensait",
+    "themes": [
+      "Littéraire",
+      "Gratitude",
+      "Présence"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pars quelques heures comme si tu étais appelé soudainement, et reviens calme.",
+      "Quelques jours plus tard, dis-lui honnêtement à quoi tu pensais pendant ce temps."
+    ]
+  },
+  {
+    "actionTitle": "La Lettre Tardive",
+    "text": "Écris-lui ce soir une vraie lettre, avouant quelque chose que tu as tardé — comme Onéguine — à dire. Glisse-la quelque part où elle la trouvera dans quelques jours, datée honnêtement, pour qu'elle voie exactement combien de temps tu as attendu avant de te décider.",
+    "effect": "Dater honnêtement la lettre, plutôt que de prétendre qu'elle était spontanée, rejoint le retard tragique d'Onéguine et le transforme en une honnêteté désarmante plutôt qu'un défaut. Elle reçoit la preuve que le sentiment existait avant le courage de le dire.",
+    "sectionTitle": "La Lettre Tardive",
+    "predictable": "Les lettres sont généralement écrites et données le jour même, rarement datées pour révéler combien de temps l'auteur a hésité",
+    "themes": [
+      "Littéraire",
+      "Lettre",
+      "Sincérité"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Écris-la ce soir, avouant quelque chose que tu as tardé à dire, et date-la.",
+      "Glisse-la où elle la trouvera dans quelques jours, pour qu'elle voie l'attente."
+    ]
+  },
+  {
+    "actionTitle": "Le Duel Que Tu Refuses de Livrer",
+    "text": "Aujourd'hui, quand un petit désaccord surgit, refuse de laisser l'orgueil l'envenimer comme celui d'Onéguine a détruit Lenski — désamorce volontairement, visiblement. La prochaine fois que la tension monte, rappelle-lui gentiment que tu choisis ça exprès, à chaque fois.",
+    "effect": "Refuser délibérément de laisser l'orgueil gagner une petite dispute, puis nommer ce choix plus tard, montre une évolution face à un avertissement littéraire très célèbre. Elle apprend que ta retenue est un choix conscient et répété, pas une humeur passagère.",
+    "sectionTitle": "La Lettre Tardive",
+    "predictable": "Désamorcer une dispute volontairement est rarement nommé ensuite comme un choix délibéré et répété plutôt qu'une simple humeur",
+    "themes": [
+      "Littéraire",
+      "Retenue",
+      "Évolution"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quand la tension monte aujourd'hui, désamorce volontairement, visiblement.",
+      "La prochaine fois, rappelle-lui gentiment que tu choisis ça exprès."
+    ]
+  },
+  {
+    "actionTitle": "La Lettre de Tatiana, Enfin Répondue",
+    "text": "Demande-lui ce soir s'il y a quelque chose qu'elle t'a confié un jour et auquel tu n'as jamais vraiment répondu — un silence à la Onéguine que tu lui dois. Quelques jours plus tard, reviens avec la vraie réponse, même si elle est en retard.",
+    "effect": "Chercher activement un aveu ancien resté sans réponse, puis y revenir des jours plus tard, corrige un regret littéraire très précis. Elle voit que rien de ce qu'elle t'a confié ne se perd vraiment, même si la réponse a pris du temps.",
+    "sectionTitle": "La Lettre Tardive",
+    "predictable": "Un ancien aveu sans réponse est rarement recherché activement puis suivi d'une vraie réponse des jours plus tard",
+    "themes": [
+      "Littéraire",
+      "Réparation",
+      "Attention"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Demande ce soir s'il y a quelque chose auquel tu n'as jamais vraiment répondu.",
+      "Quelques jours plus tard, reviens avec la vraie réponse, même en retard."
+    ]
+  },
+  {
+    "actionTitle": "La Soirée de Province Rendue Grandiose",
+    "text": "Transforme ce soir une soirée ordinaire en quelque chose d'aussi vif qu'un bal de campagne — habille-toi un peu, allume des bougies, traite ça comme un événement. Quelques jours plus tard, recommence sans aucune raison, pour que la première fois ne soit pas juste une occasion spéciale.",
+    "effect": "Élever une soirée banale au rang de cérémonie, deux fois de suite, prouve que l'effort n'est pas réservé aux anniversaires. Elle apprend que la grandeur peut devenir une habitude plutôt qu'une exception rare accordée sur demande.",
+    "sectionTitle": "La Lettre Tardive",
+    "predictable": "Une soirée ordinaire rendue cérémonieuse est rarement répétée quelques jours plus tard sans aucune occasion pour la justifier",
+    "themes": [
+      "Littéraire",
+      "Cérémonie",
+      "Romance"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Habille-toi un peu, allume des bougies, traite ce soir comme un événement."
+    ]
+  },
+  {
+    "actionTitle": "Le Regret des Années Plus Tard, Évité",
+    "text": "Dis aujourd'hui ce qu'Onéguine n'a compris que des années trop tard — dis-lui clairement ce qu'elle représente pour toi, avant que les circonstances ne t'y forcent. Quelques semaines plus tard, redis-le, pour que ça devienne une habitude plutôt qu'une échappée belle isolée.",
+    "effect": "Dire une vérité simple tôt, plutôt que d'attendre que la tragédie l'arrache, évite délibérément le regret exact au cœur du poème. Le redire des semaines plus tard transforme un moment sauvé en une pratique continue plutôt qu'une correction ponctuelle.",
+    "sectionTitle": "La Lettre Tardive",
+    "predictable": "Une déclaration simple est rarement répétée des semaines plus tard spécifiquement pour en faire une habitude plutôt qu'un moment isolé",
+    "themes": [
+      "Littéraire",
+      "Déclaration",
+      "Constance"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dis-lui clairement aujourd'hui ce qu'elle représente, avant que ça ne s'impose.",
+      "Quelques semaines plus tard, redis-le, pour en faire une habitude."
+    ]
+  },
+  {
+    "actionTitle": "Un Été de Plus dans le Verger",
+    "text": "Avant qu'une habitude familière entre vous ne change ou ne s'arrête — une routine, une saison — marque-la délibérément ce soir, comme Ranevskaïa aurait dû marquer le verger plus tôt. Quelques jours plus tard, demande-lui ce qui va vraiment lui manquer.",
+    "effect": "Marquer consciemment quelque chose avant qu'il ne change, plutôt que de le laisser filer inaperçu comme le verger, montre une attention que les personnages de la pièce n'ont tragiquement pas. Demander ce qui va manquer des jours plus tard transforme un geste vaguement sentimental en un souvenir précis et partagé.",
+    "sectionTitle": "Un Été de Plus dans le Verger",
+    "predictable": "Une habitude familière est rarement marquée délibérément avant de changer, et rarement suivie d'une question directe sur ce qui va manquer",
+    "themes": [
+      "Littéraire",
+      "Nostalgie",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Marque ce soir délibérément quelque chose avant qu'il ne change entre vous.",
+      "Quelques jours plus tard, demande-lui ce qui va vraiment lui manquer."
+    ]
+  },
+  {
+    "actionTitle": "L'Offre Tardive de Lopakhine",
+    "text": "Propose de réparer ou d'améliorer quelque chose de pratique qu'elle supporte en silence — un sauvetage discret à la Lopakhine, fait sans tambour ni trompette. Une semaine plus tard, vérifie si ça a vraiment aidé, car une bonne intention non vérifiée est juste un autre verger vendu trop tard.",
+    "effect": "Réparer discrètement un problème pratique, plutôt que d'annoncer un grand geste romantique, rejoint une forme de soin plus concrète que celle des personnages de la pièce. Vérifier une semaine plus tard si ça a aidé s'assure que le geste était réel, pas juste une bonne intention jamais confirmée.",
+    "sectionTitle": "Un Été de Plus dans le Verger",
+    "predictable": "Une aide pratique offerte discrètement est rarement suivie une semaine plus tard d'une vérification pour confirmer si elle a vraiment aidé",
+    "themes": [
+      "Littéraire",
+      "Soin",
+      "Pragmatisme"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Répare ou améliore aujourd'hui quelque chose de pratique qu'elle vit en silence.",
+      "Une semaine plus tard, vérifie si ça a vraiment aidé."
+    ]
+  },
+  {
+    "actionTitle": "Le Son de la Corde Brisée",
+    "text": "Ce soir, restez assis en silence ensemble quelques minutes, volontairement — pas de téléphone, pas de mots, comme ce son étrange et inexpliqué qui traverse la pièce. Quelques jours plus tard, demande-lui à quoi elle pensait pendant ce silence.",
+    "effect": "Partager délibérément un silence sans structure, plutôt que de remplir chaque instant de paroles, rejoint ce son célèbre et jamais expliqué de la pièce, avec tout son poids. Demander à quoi elle pensait des jours plus tard transforme un silence passif en une conversation intime et différée.",
+    "sectionTitle": "Un Été de Plus dans le Verger",
+    "predictable": "Un silence partagé est rarement suivi des jours plus tard d'une question directe sur ce à quoi l'autre pensait pendant ce temps",
+    "themes": [
+      "Littéraire",
+      "Présence",
+      "Intimité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Restez assis en silence ce soir, volontairement, sans téléphone, juste présents.",
+      "Quelques jours plus tard, demande à quoi elle pensait pendant ce silence."
+    ]
+  },
+  {
+    "actionTitle": "La Vente aux Enchères Évitée",
+    "text": "Aujourd'hui, règle discrètement un petit problème qui menace avant qu'il ne devienne une crise — en évitant ta propre petite vente aux enchères domestique avant qu'elle n'arrive. Quelques jours plus tard, dis-lui que tu l'avais vu venir et que tu as choisi d'agir plutôt que de subir.",
+    "effect": "Prévenir un petit problème avant qu'il ne s'aggrave, puis avouer plus tard l'avoir vu venir, montre une prévoyance que les propriétaires du verger n'ont douloureusement pas. Elle apprend que tu repères les problèmes tôt et choisis d'agir plutôt que de simplement réagir une fois qu'il est trop tard.",
+    "sectionTitle": "Un Été de Plus dans le Verger",
+    "predictable": "Un petit problème réglé discrètement est rarement expliqué ensuite comme quelque chose vu venir et traité délibérément",
+    "themes": [
+      "Littéraire",
+      "Prévoyance",
+      "Soin"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Règle discrètement aujourd'hui un petit problème avant qu'il ne devienne une crise.",
+      "Quelques jours plus tard, dis-lui que tu l'avais vu venir et as choisi d'agir."
+    ]
+  },
+  {
+    "actionTitle": "La Sortie Pleine d'Espoir d'Ania",
+    "text": "Ce soir, propose un petit changement concret à une routine qui s'essouffle, avec l'espoir têtu d'Ania plutôt que la nostalgie de ce qui fut. Une semaine plus tard, suis le changement ensemble, pour que l'espoir devienne une vraie nouvelle habitude.",
+    "effect": "Proposer un changement avec espoir plutôt qu'en pleurant ce qui se termine incarne le personnage le plus tourné vers l'avenir de la pièce, plutôt que ceux tournés vers le passé. Suivre le changement une semaine plus tard transforme une suggestion pleine d'espoir en un vrai changement vécu, pas une idée laissée en chemin.",
+    "sectionTitle": "Un Été de Plus dans le Verger",
+    "predictable": "Une proposition de changement pleine d'espoir est rarement vraiment suivie ensemble une semaine plus tard pour la rendre réelle",
+    "themes": [
+      "Littéraire",
+      "Espoir",
+      "Changement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Propose ce soir un petit changement concret, avec un espoir têtu."
+    ]
+  },
+  {
+    "actionTitle": "Le Quai de la Gare",
+    "text": "Retrouve-la aujourd'hui quelque part comme si tu arrivais par le train après une longue absence — attention totale, rien d'autre en tête, à l'opposé de la distraction future de Vronski. Quelques jours plus tard, recommence, pour prouver que la première fois n'était pas juste une mise en scène.",
+    "effect": "Offrir une attention totale et sans partage lors d'une seule rencontre inverse délibérément la tragédie centrale du roman, faite de distraction et de négligence. Répéter la même attention totale des jours plus tard confirme qu'il s'agit d'un standard, pas d'un spectacle joué une fois pour impressionner.",
+    "sectionTitle": "Le Quai de la Gare",
+    "predictable": "Une attention totale lors d'une seule rencontre est rarement délibérément répétée des jours plus tard pour prouver que ce n'était pas une performance ponctuelle",
+    "themes": [
+      "Littéraire",
+      "Attention",
+      "Présence"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Retrouve-la aujourd'hui avec une attention totale, rien d'autre en tête.",
+      "Quelques jours plus tard, recommence, pour prouver que ce n'était pas ponctuel."
+    ]
+  },
+  {
+    "actionTitle": "La Compréhension Tardive de Lévine",
+    "text": "Demande-lui aujourd'hui d'expliquer quelque chose de sa vie intérieure que tu n'as jamais vraiment compris — la curiosité lente et humble de Lévine plutôt qu'une supposition facile. Quelques jours plus tard, montre-lui, par un vrai changement concret, que tu as vraiment absorbé la réponse.",
+    "effect": "Poser une question humble sur quelque chose de vraiment mal compris, plutôt que de supposer, rejoint l'évolution durement acquise de Lévine plutôt qu'une certitude facile. Montrer l'impact de la réponse par un vrai changement des jours plus tard prouve qu'elle a été vraiment entendue, pas juste poliment reçue.",
+    "sectionTitle": "Le Quai de la Gare",
+    "predictable": "Une question humble sur sa vie intérieure est rarement suivie des jours plus tard d'un vrai changement concret prouvant que la réponse a été absorbée",
+    "themes": [
+      "Littéraire",
+      "Curiosité",
+      "Évolution"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Demande-lui aujourd'hui d'expliquer quelque chose de sa vie intérieure mal compris.",
+      "Des jours plus tard, montre par un vrai changement que tu as absorbé la réponse."
+    ]
+  },
+  {
+    "actionTitle": "La Constance Tranquille de Kitty",
+    "text": "Aujourd'hui, sois la présence calme et sans drame dans une petite crise — la compétence tranquille de Kitty plutôt qu'un grand geste. Quelques jours après que ça soit passé, dis-lui que tu as remarqué comment elle aussi a géré ça, et remercie-la précisément pour ça.",
+    "effect": "Offrir un soutien calme et sans éclat pendant une petite crise, puis complimenter précisément sa propre constance ensuite, honore une forme d'héroïsme plus discret que le roman récompense. Elle reçoit une reconnaissance non pas pour le drame mais pour la compétence trop souvent tenue pour acquise.",
+    "sectionTitle": "Le Quai de la Gare",
+    "predictable": "Un soutien calme et sans drame pendant une petite crise est rarement suivi d'un remerciement précis pour la façon dont elle a aussi géré la situation",
+    "themes": [
+      "Littéraire",
+      "Constance",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois aujourd'hui la présence calme et sans drame pendant une petite crise."
+    ]
+  },
+  {
+    "actionTitle": "La Robe de Bal Reconsidérée",
+    "text": "Ce soir, dis-lui honnêtement ce que tu trouves beau chez elle qui n'a rien à voir avec une tenue en particulier — en évitant délibérément l'obsession du roman pour l'apparence. Quelques jours plus tard, dis une seconde chose différente, pour que ça ne ressemble pas à une phrase répétée.",
+    "effect": "Complimenter quelque chose au-delà de l'apparence contrecarre délibérément l'obsession du roman pour la façon dont les femmes sont vues plutôt que connues. Une seconde observation différente des jours plus tard prouve que la première n'était pas un compliment isolé et répété mais une vraie attention continue.",
+    "sectionTitle": "Le Quai de la Gare",
+    "predictable": "Un compliment allant au-delà de l'apparence est rarement suivi des jours plus tard d'un second, différent, fait exprès",
+    "themes": [
+      "Littéraire",
+      "Compliment",
+      "Profondeur"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dis-lui ce soir ce que tu trouves beau chez elle, au-delà de son apparence.",
+      "Quelques jours plus tard, dis une seconde chose différente, sans répéter."
+    ]
+  },
+  {
+    "actionTitle": "L'Aveu dans le Train",
+    "text": "Aujourd'hui, dis-lui une vérité honnête et un peu inconfortable sur ce que tu ressens ces derniers temps — l'honnêteté dangereuse d'Anna, rendue sûre plutôt que destructrice. Quelques jours plus tard, demande-lui ce qu'elle a ressenti en l'entendant, en bouclant la boucle que les personnages du roman ne bouclent jamais.",
+    "effect": "Partager une vérité inconfortable honnêtement, puis vraiment demander comment elle a été reçue des jours plus tard, prend l'honnêteté brute du roman et lui donne le suivi sûr qu'elle ne reçoit jamais. Elle vit la vulnérabilité accompagnée d'une vraie responsabilité, plutôt que laissée à couver sans examen.",
+    "sectionTitle": "Le Quai de la Gare",
+    "predictable": "Un aveu honnête et inconfortable est rarement suivi des jours plus tard d'une question directe sur ce que ça a fait ressentir",
+    "themes": [
+      "Littéraire",
+      "Honnêteté",
+      "Responsabilité"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dis-lui aujourd'hui une vérité honnête et un peu inconfortable sur tes sentiments.",
+      "Quelques jours plus tard, demande ce qu'elle a ressenti en l'entendant, et écoute."
+    ]
+  },
+  {
+    "actionTitle": "La Question de l'Ancien",
+    "text": "Ce soir, pose-lui une question vraiment profonde sur ce qui compte le plus pour elle dans la vie — la curiosité patiente et sans hâte de Zosime plutôt que du bavardage. Quelques jours plus tard, reviens dessus, pour montrer que la question est vraiment restée avec toi.",
+    "effect": "Une question profonde, posée sans la hâte habituelle du bavardage, rejoint l'attention patiente et entière de l'ancien envers une autre personne. Y revenir des jours plus tard prouve que ce n'était pas une conversation anodine mais quelque chose qui a vraiment compté.",
+    "sectionTitle": "La Question de l'Ancien",
+    "predictable": "Une question profonde sur ce qui compte le plus dans la vie est rarement relancée des jours plus tard pour montrer qu'elle est vraiment restée",
+    "themes": [
+      "Littéraire",
+      "Curiosité",
+      "Profondeur"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pose-lui ce soir une question vraiment profonde sur ce qui compte le plus.",
+      "Quelques jours plus tard, reviens dessus, pour montrer que ça t'est resté."
+    ]
+  },
+  {
+    "actionTitle": "L'Oreille Sans Jugement d'Aliocha",
+    "text": "Aujourd'hui, quand elle se plaint de quelque chose de frustrant, écoute comme Aliocha écoute — sans jugement, sans vouloir tout réparer immédiatement. Quelques jours plus tard, demande comment cette situation s'est résolue, prouvant que ton attention n'a pas cessé avec la conversation.",
+    "effect": "Écouter sans jugement ni volonté immédiate de réparer rejoint le personnage le plus patient et inconditionnellement accueillant du roman. Faire un suivi des jours plus tard sur la résolution montre que l'écoute avait une vraie durée au-delà du moment offert.",
+    "sectionTitle": "La Question de l'Ancien",
+    "predictable": "Écouter sans jugement est rarement suivi des jours plus tard d'une question précise sur la façon dont la situation s'est résolue",
+    "themes": [
+      "Littéraire",
+      "Écoute",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Écoute aujourd'hui sans jugement quand elle se plaint, sans vouloir tout réparer.",
+      "Des jours plus tard, demande comment cette situation s'est résolue."
+    ]
+  },
+  {
+    "actionTitle": "Le Silence du Grand Inquisiteur",
+    "text": "Aujourd'hui, résiste à l'envie de défendre un point sur lequel tu sais avoir raison, et laisse-la simplement finir complètement — un silence délibéré, comme celui du prisonnier face à un long discours. Quelques jours plus tard, explique-lui pourquoi tu as choisi de te taire cette fois-là.",
+    "effect": "Choisir un silence délibéré plutôt que de gagner une dispute rejoint l'un des refus silencieux les plus célèbres de la littérature face à la certitude. Expliquer ce choix des jours plus tard rend la retenue lisible comme un acte de respect plutôt qu'un évitement passif.",
+    "sectionTitle": "La Question de l'Ancien",
+    "predictable": "Un silence délibéré pendant un désaccord est rarement expliqué des jours plus tard comme un choix conscient plutôt qu'un évitement",
+    "themes": [
+      "Littéraire",
+      "Retenue",
+      "Respect"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Résiste aujourd'hui à défendre ton point de vue, et laisse-la finir complètement.",
+      "Quelques jours plus tard, explique-lui pourquoi tu t'es tu cette fois-là."
+    ]
+  },
+  {
+    "actionTitle": "La Dévotion Téméraire de Dmitri",
+    "text": "Aujourd'hui, fais quelque chose d'un peu téméraire et sans réserve pour elle — la dévotion excessive et débridée de Dmitri, ramenée à l'échelle de la vraie vie. Quelques jours plus tard, fais quelque chose de plus calme et stable, pour qu'elle voie les deux facettes du même engagement.",
+    "effect": "Associer un geste téméraire et sans réserve à un autre, plus calme, des jours plus tard rejoint la tension du roman entre passion et constance, résolue plutôt que laissée en conflit. Elle reçoit la preuve que l'intensité et la fiabilité peuvent venir de la même personne, et non de personnes opposées.",
+    "sectionTitle": "La Question de l'Ancien",
+    "predictable": "Un geste téméraire et sans réserve est rarement suivi des jours plus tard d'un autre, délibérément calme et stable, venant de la même personne",
+    "themes": [
+      "Littéraire",
+      "Dévotion",
+      "Équilibre"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais aujourd'hui quelque chose d'un peu téméraire et sans réserve pour elle.",
+      "Quelques jours plus tard, fais quelque chose de plus calme, montrant les deux facettes."
+    ]
+  },
+  {
+    "actionTitle": "L'Aveu Qu'Ivan Retient",
+    "text": "Ce soir, dis la chose que tu retiens par orgueil ou par peur — l'aveu que l'intellect d'Ivan l'empêche de jamais vraiment formuler. Quelques jours plus tard, demande-lui franchement si ça a changé quelque chose entre vous, et écoute la vraie réponse.",
+    "effect": "Exprimer un aveu longtemps retenu, plutôt que de le laisser enterré par l'orgueil comme celui d'Ivan, évite activement la tragédie du roman faite de vérité tue. Demander franchement des jours plus tard si ça a changé quelque chose montre une volonté d'affronter les conséquences honnêtement, pas juste de lâcher les mots.",
+    "sectionTitle": "La Question de l'Ancien",
+    "predictable": "Un aveu longtemps retenu est rarement suivi des jours plus tard d'une question franche sur ce qu'il a changé entre vous",
+    "themes": [
+      "Littéraire",
+      "Honnêteté",
+      "Courage"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dis ce soir ce que tu retiens par orgueil ou par peur.",
+      "Quelques jours plus tard, demande franchement si ça a changé quelque chose."
+    ]
+  },
+  {
+    "actionTitle": "L'Heure Tranquille de Pemberley",
+    "text": "Montre-lui aujourd'hui quelque chose dont tu es tranquillement fier — un espace, une compétence, un projet — comme Darcy laisse Elizabeth découvrir Pemberley sans un mot de vantardise. Quelques jours plus tard, demande ce qu'elle en a vraiment pensé, ce que Darcy n'a jamais pu demander.",
+    "effect": "Laisser la fierté parler par un lieu ou un objet plutôt que par des mots rejoint la révélation silencieuse de Darcy à Pemberley, qui change tout sans qu'aucune revendication ne soit faite à voix haute. Demander sa vraie réaction des jours plus tard comble un vide que le roman laisse à l'imagination du lecteur seul.",
+    "sectionTitle": "L'Heure Tranquille de Pemberley",
+    "predictable": "Une chose montrée avec une fierté discrète est rarement suivie des jours plus tard d'une question directe sur ce qu'elle en a vraiment pensé",
+    "themes": [
+      "Littéraire",
+      "Fierté",
+      "Vulnérabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Montre-lui aujourd'hui quelque chose dont tu es tranquillement fier, sans vanter.",
+      "Des jours plus tard, demande ce qu'elle en a vraiment pensé, et écoute vraiment."
+    ]
+  },
+  {
+    "actionTitle": "La Lettre Qui Explique Tout",
+    "text": "Écris-lui ce soir une lettre expliquant, calmement et complètement, quelque chose que tu as mal géré récemment — une lettre à la Darcy, qui corrige les faits sans excuses. Laisse-la quelque part où elle la trouvera dans un jour ou deux, pour qu'elle ait d'abord un moment seule avec elle.",
+    "effect": "Une explication écrite, calme et complète, plutôt qu'une défense précipitée en personne, rejoint la lettre décisive qui redéfinit tout le malentendu du roman. Lui laisser un moment seule avec elle d'abord laisse les mots faire leur travail sans que ton visage ne pousse vers une réaction immédiate.",
+    "sectionTitle": "L'Heure Tranquille de Pemberley",
+    "predictable": "Une lettre explicative sur quelque chose de mal géré est rarement laissée à lire seule avant toute conversation",
+    "themes": [
+      "Littéraire",
+      "Lettre",
+      "Responsabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Écris-la ce soir, calmement et complètement, en corrigeant les faits sans excuses.",
+      "Laisse-la où elle la trouvera dans un jour ou deux, lui laissant du temps seule."
+    ]
+  },
+  {
+    "actionTitle": "La Seconde Demande",
+    "text": "Redemande-lui aujourd'hui quelque chose d'important, comme Darcy redemande une seconde fois — plus humble, plus sage, ayant vraiment écouté ce qui n'allait pas la première fois. Quelques jours plus tard, demande si cette seconde fois a vraiment semblé différente de la première.",
+    "effect": "Revenir sur une demande importante avec une humilité visible rejoint la correction la plus romantique du roman : non pas de la persévérance pour elle-même, mais un vrai changement mis en pratique. Demander des jours plus tard si ça a vraiment semblé différent confirme que l'évolution a été perçue, pas juste la répétition.",
+    "sectionTitle": "L'Heure Tranquille de Pemberley",
+    "predictable": "Une demande importante, reformulée avec humilité, est rarement suivie des jours plus tard d'une question directe sur si ça a semblé différent",
+    "themes": [
+      "Littéraire",
+      "Humilité",
+      "Évolution"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Redemande-lui aujourd'hui quelque chose d'important, plus humble et plus sage.",
+      "Quelques jours plus tard, demande si ça a vraiment semblé différent."
+    ]
+  },
+  {
+    "actionTitle": "La Bibliothèque de Mr Bennet, Interrompue",
+    "text": "Aujourd'hui, au lieu de te retirer dans ton coin tranquille comme le fait toujours Mr Bennet, invite-la à y entrer — partage ce que tu gardes habituellement pour toi. Quelques jours plus tard, demande-lui quelque chose sur son propre coin tranquille en retour.",
+    "effect": "Inviter quelqu'un dans un refuge privé, plutôt que de s'isoler par défaut comme le père le plus retiré du roman, résiste activement à cet exemple précis. Demander sur son équivalent des jours plus tard rend l'invitation réciproque plutôt qu'à sens unique.",
+    "sectionTitle": "L'Heure Tranquille de Pemberley",
+    "predictable": "Un refuge privé est rarement ouvert à quelqu'un d'autre puis suivi des jours plus tard d'une question sur le sien",
+    "themes": [
+      "Littéraire",
+      "Ouverture",
+      "Réciprocité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Invite-la aujourd'hui dans le coin tranquille que tu gardes habituellement pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le Bal Racheté",
+    "text": "Ce soir, fais l'inverse de la première impression désastreuse de Darcy — fais un effort pour être chaleureux et présent là où tu aurais tendance à te retenir. Quelques jours plus tard, dis-lui honnêtement que ça t'a demandé un effort, pour que la chaleur ne semble pas venue sans peine.",
+    "effect": "Passer outre volontairement une réserve naturelle pour être chaleureux sur le moment corrige directement le cas le plus célèbre de mauvaise première impression du roman. Avouer l'effort des jours plus tard garde le geste honnête plutôt que de la laisser croire que ça n'a rien coûté.",
+    "sectionTitle": "L'Heure Tranquille de Pemberley",
+    "predictable": "Une chaleur délibérée est rarement suivie des jours plus tard d'un aveu honnête de l'effort que ça a demandé",
+    "themes": [
+      "Littéraire",
+      "Chaleur",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais ce soir un effort pour être chaleureux là où tu te retiendrais normalement.",
+      "Quelques jours plus tard, avoue honnêtement que ça t'a demandé un effort."
+    ]
+  },
+  {
+    "actionTitle": "La Lande Derrière la Fenêtre",
+    "text": "Emmène-la aujourd'hui quelque part d'un peu sauvage et ouvert — un vrai écho des landes, du vent, de la distance — et dis quelque chose de vrai sans l'adoucir, la franchise de Heathcliff sans la cruauté. Quelques jours plus tard, demande si elle voudrait y retourner.",
+    "effect": "Associer un cadre sauvage et ouvert à une honnêteté non adoucie rejoint l'intensité élémentaire du roman tout en laissant volontairement de côté sa dimension destructrice. Demander si elle voudrait y retourner des jours plus tard confirme que le moment était une découverte partagée, pas un geste dramatique isolé.",
+    "sectionTitle": "La Lande Derrière la Fenêtre",
+    "predictable": "Une sortie sauvage et honnête est rarement suivie des jours plus tard d'une question directe sur l'envie d'y retourner",
+    "themes": [
+      "Littéraire",
+      "Intensité",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Emmène-la aujourd'hui quelque part de sauvage et ouvert, et dis une vérité, sans l'adoucir.",
+      "Quelques jours plus tard, demande si elle voudrait y retourner avec toi."
+    ]
+  },
+  {
+    "actionTitle": "L'Amour Qui Survit à la Tombe, Rendu Vivable",
+    "text": "Ce soir, dis-lui quelque chose sur ta dévotion qui semble presque trop intense à dire — l'ampleur des sentiments de Heathcliff et Cathy, sans la ruine. Des jours plus tard, montre la même intensité dans quelque chose de petit et stable, pour que ce ne soit pas que des mots.",
+    "effect": "Formuler une déclaration inhabituellement intense, puis l'ancrer des jours plus tard dans une action petite et stable, prend l'excès célèbre du roman et le rend durable plutôt que destructeur. Elle reçoit à la fois l'ampleur du sentiment et la preuve qu'il survit au quotidien.",
+    "sectionTitle": "La Lande Derrière la Fenêtre",
+    "predictable": "Une déclaration intense de dévotion est rarement suivie des jours plus tard de la même intensité montrée dans quelque chose de petit et stable",
+    "themes": [
+      "Littéraire",
+      "Intensité",
+      "Dévotion"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Dis-lui ce soir quelque chose sur ta dévotion qui semble presque trop intense.",
+      "Des jours plus tard, montre la même intensité dans quelque chose de petit et stable."
+    ]
+  },
+  {
+    "actionTitle": "Le Fantôme Surpris de Lockwood",
+    "text": "Aujourd'hui, aborde doucement quelque chose de vieux entre vous qui reste non résolu — comme le rêve étrange de Lockwood qui force le passé à refaire surface. Quelques jours plus tard, reviens sur ce qu'elle a dit, pour que ça ne s'enterre pas à nouveau.",
+    "effect": "Faire délibérément remonter une vieille affaire non résolue, plutôt que de la laisser hanter la relation sans être abordée, prend les fantômes du roman et leur donne une vraie résolution. Y revenir des jours plus tard s'assure que la conversation n'était pas une confrontation isolée.",
+    "sectionTitle": "La Lande Derrière la Fenêtre",
+    "predictable": "Une vieille affaire non résolue, doucement abordée, est rarement suivie des jours plus tard pour s'assurer qu'elle ne s'enterre pas à nouveau",
+    "themes": [
+      "Littéraire",
+      "Réparation",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Aborde doucement aujourd'hui quelque chose de vieux entre vous, non résolu.",
+      "Quelques jours plus tard, reviens sur ce qu'elle a dit, pour ne pas l'enterrer."
+    ]
+  },
+  {
+    "actionTitle": "Le Témoin Constant de Nelly",
+    "text": "Aujourd'hui, sois le soutien discret et sans éclat dans une petite chose — la constance patiente et ingrate de Nelly Dean. Quelques jours plus tard, dis-lui clairement que tu continueras à te montrer ainsi, pas seulement quand c'est spectaculaire ou pratique.",
+    "effect": "Offrir un soutien discret et sans éclat rejoint le personnage le plus fiable et sous-estimé du roman plutôt que ses figures romantiques plus fougueuses. Affirmer l'intention de continuer des jours plus tard transforme un instant de constance en une promesse explicite et durable.",
+    "sectionTitle": "La Lande Derrière la Fenêtre",
+    "predictable": "Un soutien discret et sans éclat est rarement suivi des jours plus tard d'une promesse explicite de continuer ainsi",
+    "themes": [
+      "Littéraire",
+      "Constance",
+      "Fiabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois aujourd'hui le soutien discret et sans éclat dans une petite chose."
+    ]
+  },
+  {
+    "actionTitle": "Le Nom Gravé dans Quelque Chose de Durable",
+    "text": "Marque aujourd'hui quelque chose de petit et durable avec une référence discrète à elle — des initiales là où toi seul le remarqueras, un écho tranquille des noms gravés sur les rebords de fenêtre. Des jours plus tard, montre-lui, et explique ce que ça signifie.",
+    "effect": "Une marque privée et durable, faite sans explication immédiate, rejoint les noms gravés du roman comme une revendication tranquille de permanence plutôt qu'une déclaration publique. La révéler des jours plus tard, avec son sens expliqué, transforme un petit secret en un symbole partagé et compris.",
+    "sectionTitle": "La Lande Derrière la Fenêtre",
+    "predictable": "Une marque privée et durable est rarement gardée secrète pendant des jours avant d'être révélée et expliquée directement",
+    "themes": [
+      "Littéraire",
+      "Permanence",
+      "Secret"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Marque aujourd'hui quelque chose de petit et durable, avec une référence discrète.",
+      "Des jours plus tard, montre-lui, et explique ce que ça signifie pour toi."
+    ]
+  },
+  {
+    "actionTitle": "Le Grand Livre Réécrit",
+    "text": "Aujourd'hui, corrige une petite habitude d'avarice chez toi — en temps, en attention, en générosité — comme Scrooge réécrit tout son grand livre en une nuit. Quelques jours plus tard, demande-lui si elle a remarqué quelque chose de différent, sans expliquer pourquoi.",
+    "effect": "Corriger délibérément une habitude de retenue, puis demander si ça a été remarqué sans explication, rejoint la transformation de Scrooge jugée par les actes plutôt qu'annoncée par des intentions. Qu'elle le remarque sans qu'on lui dise prouve que le changement était réel, pas une mise en scène pour se faire féliciter.",
+    "sectionTitle": "Le Grand Livre Réécrit",
+    "predictable": "Une habitude d'avarice corrigée est rarement suivie des jours plus tard d'une question sur ce qu'elle a remarqué, sans explication",
+    "themes": [
+      "Littéraire",
+      "Générosité",
+      "Changement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Corrige aujourd'hui une petite habitude d'avarice, en temps ou en attention.",
+      "Quelques jours plus tard, demande si elle a remarqué quelque chose, sans expliquer."
+    ]
+  },
+  {
+    "actionTitle": "Le Fantôme d'un Ancien Noël",
+    "text": "Ce soir, évoque un bon souvenir du début de votre relation, en détail et avec tendresse, comme le premier esprit force Scrooge à ressentir de nouveau son propre passé. Quelques jours plus tard, recréez ensemble un petit morceau de ce souvenir.",
+    "effect": "Raviver un vieux souvenir en détail, puis en recréer physiquement un morceau des jours plus tard, prend la nostalgie hantée du roman et en fait un cadeau plutôt qu'une confrontation douloureuse. Elle vit à la fois le souvenir partagé et le fait de le revivre.",
+    "sectionTitle": "Le Grand Livre Réécrit",
+    "predictable": "Un souvenir évoqué en détail est rarement suivi des jours plus tard d'une vraie recréation d'un morceau de ce souvenir ensemble",
+    "themes": [
+      "Littéraire",
+      "Nostalgie",
+      "Romance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Évoque ce soir un bon souvenir du début, en détail et avec tendresse.",
+      "Quelques jours plus tard, recréez ensemble un petit morceau de ce souvenir."
+    ]
+  },
+  {
+    "actionTitle": "La Gratitude Spontanée de Tiny Tim",
+    "text": "Aujourd'hui, remercie-la pour quelque chose de précis et petit qu'elle fait et qui passe habituellement inaperçu — la gratitude spontanée et précise de Tiny Tim. Quelques jours plus tard, remercie-la pour une seconde chose, différente, pour que ça devienne une habitude.",
+    "effect": "Nommer un acte précis et habituellement invisible avec une vraie gratitude rejoint le plus petit personnage du roman, qui en porte pourtant tout le poids moral. Un second remerciement distinct des jours plus tard établit cela comme une pratique continue, pas un unique moment sous les projecteurs.",
+    "sectionTitle": "Le Grand Livre Réécrit",
+    "predictable": "Une gratitude précise pour une petite chose invisible est rarement répétée des jours plus tard pour une seconde chose différente",
+    "themes": [
+      "Littéraire",
+      "Gratitude",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Remercie-la aujourd'hui pour quelque chose de précis et petit, souvent invisible.",
+      "Des jours plus tard, remercie-la pour une seconde chose différente, exprès."
+    ]
+  },
+  {
+    "actionTitle": "Le Noël à Venir, Choisi Plutôt Que Subi",
+    "text": "Ce soir, décris honnêtement un avenir que tu aimerais construire avec elle — précis, plein d'espoir, la vision corrigée plutôt que la tombe non visitée et glaçante de Scrooge. Quelques semaines plus tard, fais un premier petit pas concret vers cet avenir ensemble.",
+    "effect": "Décrire un avenir plein d'espoir et précis plutôt que de le laisser flou inverse directement la vision la plus effrayante et la moins précise du roman. Un pas concret vers cet avenir des semaines plus tard prouve que la description était un projet, pas juste une chose dite une fois pour rassurer.",
+    "sectionTitle": "Le Grand Livre Réécrit",
+    "predictable": "Une vision précise et pleine d'espoir de l'avenir est rarement suivie des semaines plus tard d'un vrai pas concret vers elle",
+    "themes": [
+      "Littéraire",
+      "Avenir",
+      "Espoir"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Décris ce soir honnêtement un avenir que tu aimerais construire avec elle.",
+      "Des semaines plus tard, fais un premier petit pas concret vers cet avenir."
+    ]
+  },
+  {
+    "actionTitle": "La Fête Inutile de Fezziwig",
+    "text": "Improvise ce soir quelque chose de petit et joyeux, sans aucune raison — la générosité inutile et festive de Fezziwig, juste parce que. Quelques jours plus tard, recommence en plus petit, pour prouver que la joie n'a pas besoin d'occasion pour valoir l'effort.",
+    "effect": "Un geste joyeux et inutile, répété en miniature des jours plus tard, rejoint l'argument du roman selon lequel une petite gentillesse ne coûte presque rien et pourtant signifie tout. Elle apprend que la célébration dans votre relation n'attend pas la permission du calendrier.",
+    "sectionTitle": "Le Grand Livre Réécrit",
+    "predictable": "Un geste joyeux et inutile est rarement suivi des jours plus tard d'une version plus petite, prouvant qu'il n'était lié à aucune occasion",
+    "themes": [
+      "Littéraire",
+      "Joie",
+      "Spontanéité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Improvise ce soir quelque chose de petit et joyeux, sans aucune raison.",
+      "Quelques jours plus tard, recommence en plus petit, juste parce que."
+    ]
+  },
+  {
+    "actionTitle": "Les Fleurs Qu'elle S'achèterait Elle-même",
+    "text": "Aujourd'hui, remarque et nomme un petit plaisir ordinaire qu'elle s'accorde sans demander — sa propre version d'acheter les fleurs elle-même, l'autosuffisance tranquille de Clarissa. Des jours plus tard, ajoute quelque chose, plutôt que de le remplacer, pour que son indépendance reste intacte.",
+    "effect": "Nommer ses petits plaisirs autosuffisants, puis y ajouter plutôt que les remplacer des jours plus tard, honore l'intuition centrale du roman selon laquelle indépendance et amour ne s'opposent pas. Elle se sent vue dans son autonomie plutôt que gérée hors d'elle.",
+    "sectionTitle": "Les Fleurs Qu'elle S'achèterait Elle-même",
+    "predictable": "Un petit plaisir auto-offert est rarement remarqué puis complété, plutôt que remplacé, des jours plus tard",
+    "themes": [
+      "Littéraire",
+      "Indépendance",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Remarque et nomme aujourd'hui un petit plaisir ordinaire qu'elle s'accorde seule.",
+      "Des jours plus tard, ajoute quelque chose plutôt que de le remplacer."
+    ]
+  },
+  {
+    "actionTitle": "La Fête Qui N'est Pas Pour Impressionner",
+    "text": "Organise ce soir quelque chose de petit — non pas pour impressionner qui que ce soit, mais simplement parce que réunir des gens compte pour toi, la fête de Clarissa débarrassée de son anxiété sociale. Quelques jours plus tard, demande-lui ce qu'elle a vraiment aimé, honnêtement.",
+    "effect": "Organiser quelque chose de petit purement pour la connexion plutôt que pour le statut rejoint la fête du roman à ses meilleurs moments, quand elle devient brièvement sincère plutôt que performative. Demander son ressenti honnête des jours plus tard confirme que la réunion a réussi selon ses vrais critères.",
+    "sectionTitle": "Les Fleurs Qu'elle S'achèterait Elle-même",
+    "predictable": "Une petite réunion organisée pour la connexion, pas le statut, est rarement suivie des jours plus tard d'une question honnête sur ce qu'elle a aimé",
+    "themes": [
+      "Littéraire",
+      "Connexion",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Organise ce soir quelque chose de petit, purement parce que réunir des gens compte."
+    ]
+  },
+  {
+    "actionTitle": "La Journée Unique Rendue Entière",
+    "text": "Aujourd'hui, offre-lui une journée entière et ordinaire avec ton attention pleine et présente — une journée ininterrompue, toute la structure du roman condensée dans ta vraie vie. Quelques jours plus tard, discutez ensemble de ce qui a rendu cette journée différente des autres.",
+    "effect": "Consacrer délibérément une présence sur toute une journée, puis discuter de ce qui l'a rendue différente des jours plus tard, rejoint la technique du roman qui trouve le sens de toute une vie dans une seule journée. Elle vit à la fois le cadeau et la réflexion partagée sur pourquoi ça a marché.",
+    "sectionTitle": "Les Fleurs Qu'elle S'achèterait Elle-même",
+    "predictable": "Une journée ordinaire pleinement présente est rarement suivie des jours plus tard d'une conversation partagée sur ce qui l'a rendue différente",
+    "themes": [
+      "Littéraire",
+      "Présence",
+      "Réflexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Offre-lui aujourd'hui une journée entière avec ton attention pleine et présente."
+    ]
+  },
+  {
+    "actionTitle": "Le Poids Tu de Septimus",
+    "text": "Demande-lui doucement aujourd'hui s'il y a un poids qu'elle porte en silence et que tu n'as pas remarqué — la souffrance invisible de Septimus, rattrapée avant qu'elle n'isole. Des jours plus tard, reviens vérifier spécifiquement sur cette même chose.",
+    "effect": "Sonder doucement un fardeau invisible, puis faire un suivi précis des jours plus tard, prend la tragédie du roman faite de souffrance non remarquée et l'empêche de se produire. Elle apprend que ses luttes silencieuses sont activement surveillées, pas seulement découvertes par hasard un jour.",
+    "sectionTitle": "Le Poids Tu de Septimus",
+    "predictable": "Une question douce sur un fardeau non remarqué est rarement suivie des jours plus tard d'un suivi précis et répété sur cette même chose",
+    "themes": [
+      "Littéraire",
+      "Soin",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Demande-lui doucement aujourd'hui s'il y a un poids qu'elle porte en silence.",
+      "Des jours plus tard, reviens vérifier spécifiquement sur cette même chose."
+    ]
+  },
+  {
+    "actionTitle": "Le Meilleur Retour de Peter Walsh",
+    "text": "Aujourd'hui, reviens honnêtement sur une petite tension non résolue de votre passé, comme Peter Walsh retourne vers Clarissa — sans amertume, juste avec une lucidité claire. Quelques jours plus tard, demande si en parler a changé quelque chose entre vous.",
+    "effect": "Revisiter une vieille tension sans amertume, puis demander des jours plus tard si ça a changé quelque chose, corrige les retrouvailles manquées du roman en allant vraiment jusqu'au bout de la conversation honnête. Elle voit les vieilles blessures traitées avec maturité plutôt que seulement avec nostalgie.",
+    "sectionTitle": "Le Poids Tu de Septimus",
+    "predictable": "Une vieille tension revisitée sans amertume est rarement suivie des jours plus tard d'une question directe sur ce qu'elle a changé",
+    "themes": [
+      "Littéraire",
+      "Réparation",
+      "Maturité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reviens aujourd'hui honnêtement sur une petite tension du passé, sans amertume.",
+      "Quelques jours plus tard, demande si en parler a changé quelque chose entre vous."
+    ]
+  },
+  {
+    "actionTitle": "La Valentine Envoyée Par Jeu, Mais Sincère",
+    "text": "Envoie-lui aujourd'hui quelque chose de petit et joueur — un mot, un message — mais assure-toi, contrairement à la valentine insouciante de Bathsheba, que tu penses chaque mot. Des jours plus tard, dis-lui clairement que ce n'était pas une blague, comblant le vide que le roman laisse ouvert.",
+    "effect": "Envoyer un mot joueur tout en le pensant vraiment corrige l'erreur déclencheuse du roman : un message envoyé à la légère et pris trop au sérieux. Confirmer des jours plus tard que ce n'était pas une blague enlève tout doute persistant sur lequel toute l'intrigue du roman repose.",
+    "sectionTitle": "La Valentine Envoyée Par Jeu",
+    "predictable": "Un mot joueur est rarement suivi des jours plus tard d'une confirmation explicite que ce n'était pas une blague",
+    "themes": [
+      "Littéraire",
+      "Jeu",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Envoie-lui aujourd'hui quelque chose de petit et joueur, mais pense chaque mot.",
+      "Des jours plus tard, dis-lui clairement que ce n'était pas une blague."
+    ]
+  },
+  {
+    "actionTitle": "La Constance Tranquille de Gabriel Oak",
+    "text": "Aujourd'hui, fais pour elle quelque chose de stable et utile sans demander de crédit ni de romance en retour — la loyauté patiente et sans éclat de Gabriel Oak. Quelques semaines plus tard, recommence, pour que le schéma devienne indéniablement délibéré.",
+    "effect": "Offrir une aide stable et sans crédit rejoint le personnage le plus patient du roman, qui gagne l'amour par des années de fiabilité tranquille plutôt qu'un seul grand geste. Le répéter des semaines plus tard transforme une aide isolée en un choix clairement délibéré et continu.",
+    "sectionTitle": "La Valentine Envoyée Par Jeu",
+    "predictable": "Une aide stable et sans crédit est rarement répétée des semaines plus tard spécifiquement pour rendre le schéma indéniablement délibéré",
+    "themes": [
+      "Littéraire",
+      "Constance",
+      "Humilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais aujourd'hui pour elle quelque chose de stable et utile, sans demander de crédit."
+    ]
+  },
+  {
+    "actionTitle": "La Tempête Traversée Ensemble",
+    "text": "Aujourd'hui, quand un petit moment stressant survient, reste calme et règle le problème à ses côtés — Gabriel et Bathsheba sauvant les meules ensemble sous la tempête. Ensuite, dis-lui que tu as remarqué à quel point vous avez bien fonctionné en équipe.",
+    "effect": "Rester calme et collaboratif pendant une petite crise, puis nommer le travail d'équipe après, rejoint la scène la plus discrètement romantique du roman, celle de travailler côte à côte sous pression. Elle entend explicitement que le partenariat lui-même, pas seulement le résultat, a été remarqué et valorisé.",
+    "sectionTitle": "La Valentine Envoyée Par Jeu",
+    "predictable": "Un travail d'équipe calme pendant une petite crise est rarement suivi d'un commentaire explicite nommant à quel point vous avez bien fonctionné ensemble",
+    "themes": [
+      "Littéraire",
+      "Travail d'équipe",
+      "Calme"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quand un petit moment stressant survient aujourd'hui, reste calme et règle-le avec elle.",
+      "Ensuite, dis-lui que tu as remarqué à quel point vous avez bien fonctionné en équipe."
+    ]
+  },
+  {
+    "actionTitle": "L'Avertissement de Boldwood, Entendu",
+    "text": "Aujourd'hui, remarque si tu t'es fixé de façon malsaine sur une réaction précise que tu attends d'elle, et laisse-le consciemment partir — en évitant la spirale obsessionnelle de Boldwood avant qu'elle ne commence. Des jours plus tard, dis-lui honnêtement que tu t'es surpris à faire ça.",
+    "effect": "Relâcher consciemment une fixation malsaine, puis l'avouer honnêtement des jours plus tard, évite activement l'avertissement tragique du roman sur l'obsession déguisée en dévotion. Elle apprend que tu peux repérer tes propres schémas avant qu'ils ne deviennent étouffants.",
+    "sectionTitle": "La Valentine Envoyée Par Jeu",
+    "predictable": "Relâcher consciemment une fixation est rarement suivi des jours plus tard d'un aveu honnête de s'être surpris à le faire",
+    "themes": [
+      "Littéraire",
+      "Conscience de soi",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Remarque aujourd'hui si tu te fixes malsainement sur une réaction attendue, et lâche-la.",
+      "Des jours plus tard, dis-lui honnêtement que tu t'es surpris à faire ça."
+    ]
+  },
+  {
+    "actionTitle": "L'Alliance Achetée Deux Fois",
+    "text": "Aujourd'hui, reviens sur une promesse ou un engagement que tu as pris il y a un moment et réaffirme-le délibérément — Bathsheba choisissant enfin bien après avoir d'abord mal choisi. Quelques jours plus tard, appuie-le d'une action concrète qui le prouve.",
+    "effect": "Réaffirmer délibérément un vieil engagement, puis l'appuyer d'une action concrète des jours plus tard, rejoint l'arrivée lente et durement gagnée du roman vers un choix enfin fait correctement. Elle reçoit à la fois les mots renouvelés et la preuve qu'ils pèsent quelque chose.",
+    "sectionTitle": "La Valentine Envoyée Par Jeu",
+    "predictable": "Un engagement ancien réaffirmé est rarement appuyé des jours plus tard par une action concrète qui prouve qu'il n'était pas que des mots",
+    "themes": [
+      "Littéraire",
+      "Engagement",
+      "Suivi"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reviens aujourd'hui sur une vieille promesse et réaffirme-la délibérément.",
+      "Quelques jours plus tard, appuie-la d'une action concrète qui la prouve."
+    ]
   }
 ]

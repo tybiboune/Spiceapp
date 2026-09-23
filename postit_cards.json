@@ -16867,5 +16867,1607 @@
       "J'aime avoir le contrôle parfois, mais te faire confiance me fait du bien aussi.",
       "Réalise que te faire confiance me fait du bien aussi, même si j'aime contrôler parfois."
     ]
+  },
+  {
+    "actionTitle": "On the Record Player",
+    "text": "Consider this an open invitation to a ball with no orchestra, no gown required — just you, me, and whatever song is playing.",
+    "effect": "Turning an ordinary object into an invitation to an imagined ball recreates a debutante's wonder without needing an actual event. She finds a small, playful promise waiting somewhere she wasn't expecting a declaration.",
+    "sectionTitle": "Post-its - War and Peace",
+    "predictable": "Ordinary objects rarely contain an invitation to an imagined ball with no real occasion behind it",
+    "themes": [
+      "Literary",
+      "Romance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Consider this an invitation to a ball with no orchestra, just you and me.",
+      "An open invitation to our own ball, no gown required, just whatever's playing."
+    ]
+  },
+  {
+    "actionTitle": "Tucked in a Coat Pocket",
+    "text": "Like Pierre, I've been slow to say this properly, so here it is in writing instead — you matter more than I usually manage to show.",
+    "effect": "A written admission, found unexpectedly in a coat pocket, mirrors a stumbling, delayed honesty finally finding its way out. She discovers sincerity in a place associated with departure, not romance.",
+    "sectionTitle": "Post-its - War and Peace",
+    "predictable": "Coat pockets rarely contain a written admission of delayed honesty about how much someone matters",
+    "themes": [
+      "Literary",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I've been slow to say this properly, so here it is in writing instead.",
+      "You matter more than I usually manage to show — written down, finally."
+    ]
+  },
+  {
+    "actionTitle": "On the Kettle",
+    "text": "A small, unannounced kindness happened somewhere in this house today — like Sonya's, it doesn't need to be found to have counted.",
+    "effect": "Announcing an unfound kindness, rather than pointing to it directly, turns quiet devotion into a small scavenger hunt of trust. She's told something good happened without needing proof, echoing unrewarded, patient love.",
+    "sectionTitle": "Post-its - War and Peace",
+    "predictable": "Kettles rarely announce an unannounced kindness elsewhere in the house that doesn't need to be found to count",
+    "themes": [
+      "Literary",
+      "Devotion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A small unannounced kindness happened somewhere in this house today."
+    ]
+  },
+  {
+    "actionTitle": "On the Front Door",
+    "text": "Coming home to you always feels a little like a soldier's return, even after an ordinary day apart — glad to be back in this room with you.",
+    "effect": "Treating a mundane arrival with borrowed gravity makes her presence feel newly significant rather than assumed. She finds warmth attached to the most routine moment of the day: walking back through the door.",
+    "sectionTitle": "Post-its - War and Peace",
+    "predictable": "Front doors rarely carry a note comparing an ordinary return home to a soldier's long-awaited homecoming",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Coming home to you always feels a little like a soldier's return, glad to be back."
+    ]
+  },
+  {
+    "actionTitle": "Inside a Book You're Reading",
+    "text": "Found this thought about you halfway through today and had nowhere better to put it than exactly here, where you'd find it mid-page.",
+    "effect": "Hiding a note inside a book she's actively reading interrupts her own quiet moment with an unexpected thought about her. She experiences the surprise of your voice arriving inside her own private reading time.",
+    "sectionTitle": "Post-its - War and Peace",
+    "predictable": "Books being read rarely contain a hidden thought placed there mid-story specifically to interrupt quietly",
+    "themes": [
+      "Literary",
+      "Surprise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Found this thought about you halfway through today, had to put it somewhere."
+    ]
+  },
+  {
+    "actionTitle": "Dated, on the Mirror",
+    "text": "Written and held onto for three days before I finally let you find it — some things, like Onegin learned too late, are worth saying sooner.",
+    "effect": "Dating a note explicitly, and admitting the delay, turns hesitation into disarming honesty rather than a flaw hidden away. She sees proof the feeling predates the courage to share it.",
+    "sectionTitle": "Post-its - Eugene Onegin",
+    "predictable": "Notes on a mirror rarely admit, dated, exactly how many days passed before they were finally left to be found",
+    "themes": [
+      "Literary",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Written and held onto for three days before I finally let you find it."
+    ]
+  },
+  {
+    "actionTitle": "On the Thermostat",
+    "text": "Chose to let something small go today instead of letting pride win it — a tiny refusal to repeat old, avoidable mistakes.",
+    "effect": "Noting a deliberately de-escalated moment on something as unromantic as a thermostat undercuts any performance and makes the restraint feel genuinely lived-in. She learns pride was consciously set aside, however small the trigger.",
+    "sectionTitle": "Post-its - Eugene Onegin",
+    "predictable": "Thermostats rarely carry a note about pride being deliberately set aside during some small earlier disagreement",
+    "themes": [
+      "Literary",
+      "Restraint"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Chose to let something small go today instead of letting pride win it."
+    ]
+  },
+  {
+    "actionTitle": "Under a Coffee Mug",
+    "text": "Something you once told me that I never properly answered has been on my mind — ask me about it tonight, I finally have the words.",
+    "effect": "Referencing an old, unresolved conversation and promising a real answer that evening corrects a very specific, famous literary regret. She's given a reason to expect closure on something she may have assumed was long forgotten.",
+    "sectionTitle": "Post-its - Eugene Onegin",
+    "predictable": "Coffee mugs rarely sit atop a note referencing an old unanswered conversation with a promise to finally answer it tonight",
+    "themes": [
+      "Literary",
+      "Repair"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Something you once told me I never properly answered — ask me tonight."
+    ]
+  },
+  {
+    "actionTitle": "On the Calendar, No Date Circled",
+    "text": "Tonight counts as an occasion even though nothing's actually being celebrated — dress up if you feel like it, or don't, either way it's an event.",
+    "effect": "Declaring an ordinary night an occasion, with nothing to actually celebrate, proves grandeur can be a habit rather than a rare, requested exception. She's invited into ceremony without a reason demanded first.",
+    "sectionTitle": "Post-its - Eugene Onegin",
+    "predictable": "Calendars rarely have a note declaring tonight an occasion despite nothing actually being celebrated on it",
+    "themes": [
+      "Literary",
+      "Ceremony"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tonight counts as an occasion even though nothing's actually being celebrated."
+    ]
+  },
+  {
+    "actionTitle": "Behind the Photo Frame",
+    "text": "Saying this now, plainly, instead of waiting for some later regret to force it out — you mean more to me than I say often enough.",
+    "effect": "Placing a plain, early declaration behind a photo frame deliberately avoids the exact regret at the center of the poem's tragedy. She finds sincerity tucked somewhere sentimental but easy to miss, rewarding real attention.",
+    "sectionTitle": "Post-its - Eugene Onegin",
+    "predictable": "Photo frames rarely hide a note declaring plainly, in advance, what would otherwise become a later regret",
+    "themes": [
+      "Literary",
+      "Declaration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Saying this now, plainly, instead of waiting for regret to force it out."
+    ]
+  },
+  {
+    "actionTitle": "On the Calendar's Last Page of the Month",
+    "text": "Marking this season between us on purpose before it changes, the way no one in that old orchard ever quite managed to.",
+    "effect": "Deliberately marking a season's end before it happens, rather than letting it slip by unnoticed, shows attentiveness the play's characters tragically lack. She's invited to notice time passing together instead of losing it quietly.",
+    "sectionTitle": "Post-its - The Cherry Orchard",
+    "predictable": "Calendars rarely carry a note marking a season deliberately before it changes, unlike how the play's characters miss theirs",
+    "themes": [
+      "Literary",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Marking this season between us on purpose, before it quietly changes."
+    ]
+  },
+  {
+    "actionTitle": "On the Toolbox",
+    "text": "Fixed that thing you'd been quietly living with — no fanfare needed, just wanted it handled before it became a bigger problem.",
+    "effect": "A quiet, practical fix announced without ceremony mirrors grounded care rather than a grand romantic gesture. She finds relief delivered plainly, without expectation of thanks attached to the note itself.",
+    "sectionTitle": "Post-its - The Cherry Orchard",
+    "predictable": "Toolboxes rarely carry a note about a quietly fixed problem, announced without any fanfare or request for thanks",
+    "themes": [
+      "Literary",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fixed that thing you'd been quietly living with — no fanfare needed."
+    ]
+  },
+  {
+    "actionTitle": "On the Back of the Couch Cushion",
+    "text": "That quiet silence we shared earlier stayed with me — curious what was actually going through your mind during it.",
+    "effect": "Following up in writing on a shared silence turns a passive moment into a delayed written conversation. She's invited to answer something that might otherwise have simply passed unremarked.",
+    "sectionTitle": "Post-its - The Cherry Orchard",
+    "predictable": "Couch cushions rarely carry a note following up on a shared silence, asking what was actually being thought during it",
+    "themes": [
+      "Literary",
+      "Presence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That quiet silence we shared earlier stayed with me — what were you thinking?"
+    ]
+  },
+  {
+    "actionTitle": "On the Fridge, Under a Magnet",
+    "text": "Small change proposed: let's actually try something different with that stale routine of ours this week, together.",
+    "effect": "Proposing change hopefully, rather than mourning a fading habit, channels the play's most forward-looking character instead of its nostalgic ones. She finds an invitation to build something new rather than just notice what's ending.",
+    "sectionTitle": "Post-its - The Cherry Orchard",
+    "predictable": "Fridges rarely carry a note proposing a hopeful, concrete change to a stale routine, meant to start that same week",
+    "themes": [
+      "Literary",
+      "Hope"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Small change proposed: let's try something different with that routine, together."
+    ]
+  },
+  {
+    "actionTitle": "Inside the Junk Drawer",
+    "text": "Saw a small problem coming and quietly handled it before it became a whole thing — no drama, just paying attention.",
+    "effect": "Mentioning a prevented problem inside an unglamorous junk drawer keeps the foresight modest rather than self-congratulatory. She learns problems get caught early, without either hiding it entirely or making a show of it.",
+    "sectionTitle": "Post-its - The Cherry Orchard",
+    "predictable": "Junk drawers rarely contain a note mentioning a small problem quietly prevented before it became a bigger thing",
+    "themes": [
+      "Literary",
+      "Foresight"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Saw a small problem coming and quietly handled it before it became a thing."
+    ]
+  },
+  {
+    "actionTitle": "On Your Pillow",
+    "text": "Whenever you walk into a room, consider this me meeting you at the platform, fully here, nothing else on my mind.",
+    "effect": "Comparing an ordinary reunion to a train platform meeting deliberately inverts the novel's central tragedy of distraction and neglect. She finds full presence promised in writing, waiting on the most private, unguarded surface in the house.",
+    "sectionTitle": "Post-its - Anna Karenina",
+    "predictable": "Pillows rarely carry a note comparing an ordinary reunion to a full, undistracted meeting at a train platform",
+    "themes": [
+      "Literary",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Whenever you walk in, consider this me meeting you fully, nothing else on my mind."
+    ]
+  },
+  {
+    "actionTitle": "Next to Your Journal",
+    "text": "Something about how you see the world that I still don't fully understand — ask me to actually listen properly tonight.",
+    "effect": "Referencing something genuinely not understood, left beside her private journal, echoes humble curiosity rather than easy assumption. She finds an invitation to be truly heard placed near a space already reserved for her own reflection.",
+    "sectionTitle": "Post-its - Anna Karenina",
+    "predictable": "Journals rarely have a note beside them inviting her to explain something about her inner life not yet fully understood",
+    "themes": [
+      "Literary",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Something about how you see the world I still don't fully understand — tell me tonight."
+    ]
+  },
+  {
+    "actionTitle": "On the Thermostat Again",
+    "text": "Noticed how calm and steady you were through that small crisis earlier — that's not nothing, and I saw it.",
+    "effect": "Naming her steadiness in writing, rather than letting it pass unremarked, honors quiet competence over dramatic gestures. She finds recognition for something too easily taken for granted, written down as proof it was truly seen.",
+    "sectionTitle": "Post-its - Anna Karenina",
+    "predictable": "Thermostats rarely carry a note specifically praising calm, steady handling of a small earlier crisis",
+    "themes": [
+      "Literary",
+      "Recognition"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noticed how calm and steady you were earlier — that's not nothing, I saw it."
+    ]
+  },
+  {
+    "actionTitle": "Tucked in Your Wallet",
+    "text": "What I find beautiful about you has very little to do with anything you're wearing today — carry that thought with you.",
+    "effect": "Praising something beyond appearance, tucked somewhere carried daily, deliberately counters a fixation on surface. She finds a portable reminder that attention runs deeper than any single outfit or occasion.",
+    "sectionTitle": "Post-its - Anna Karenina",
+    "predictable": "Wallets rarely carry a tucked note explicitly praising something beyond appearance, meant to be carried daily",
+    "themes": [
+      "Literary",
+      "Compliment"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "What I find beautiful about you has little to do with anything you're wearing."
+    ]
+  },
+  {
+    "actionTitle": "On the Bathroom Mirror",
+    "text": "There's something a little uncomfortable I've been meaning to say honestly — ask me tonight, and I'll actually tell you.",
+    "effect": "Announcing an uncomfortable truth in advance, on a mirror she checks daily, gives raw honesty a safe, accountable structure. She finds fair warning and an open invitation instead of a truth sprung on her unannounced.",
+    "sectionTitle": "Post-its - Anna Karenina",
+    "predictable": "Bathroom mirrors rarely carry a note announcing in advance an uncomfortable truth still to come that evening",
+    "themes": [
+      "Literary",
+      "Honesty"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "There's something uncomfortable I've meant to say honestly — ask me tonight."
+    ]
+  },
+  {
+    "actionTitle": "On the Bookshelf",
+    "text": "What actually matters most to you these days — not small talk, a real question, whenever you have the time to answer it properly.",
+    "effect": "A searching question left on a bookshelf, rather than asked in passing, mirrors patient, unhurried curiosity rather than casual conversation. She finds an invitation to answer honestly, on her own time, not on the spot.",
+    "sectionTitle": "Post-its - The Brothers Karamazov",
+    "predictable": "Bookshelves rarely carry a note posing a genuinely searching life question, explicitly flagged as not being small talk",
+    "themes": [
+      "Literary",
+      "Curiosity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "What actually matters most to you these days — a real question, no rush."
+    ]
+  },
+  {
+    "actionTitle": "On the Laundry Basket",
+    "text": "Still thinking about that thing you vented about — how did it end up going? Genuinely curious, not just asking to ask.",
+    "effect": "A written follow-up on something vented about, days later and in an unglamorous place, shows listening had real staying power. She finds her frustrations remembered in an ordinary corner of daily life, not a special occasion.",
+    "sectionTitle": "Post-its - The Brothers Karamazov",
+    "predictable": "Laundry baskets rarely carry a note following up specifically on something previously vented about, days later",
+    "themes": [
+      "Literary",
+      "Listening"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Still thinking about that thing you vented about — how did it end up going?"
+    ]
+  },
+  {
+    "actionTitle": "On the Remote Control",
+    "text": "Held my tongue earlier when I wanted to argue my point — that was deliberate, not indifference, wanted you to know.",
+    "effect": "Explaining a chosen silence in writing, rather than letting it be mistaken for indifference, turns restraint into legible respect. She finds an explanation for quiet that could otherwise have gone completely unremarked.",
+    "sectionTitle": "Post-its - The Brothers Karamazov",
+    "predictable": "Remote controls rarely carry a note explaining a deliberately chosen silence from an earlier disagreement",
+    "themes": [
+      "Literary",
+      "Restraint"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Held my tongue earlier when I wanted to argue — that was deliberate, not indifference."
+    ]
+  },
+  {
+    "actionTitle": "On the Gym Bag",
+    "text": "Did something a little reckless for you recently — tomorrow's plan is something quiet and steady instead, both count equally.",
+    "effect": "Pairing a reckless gesture with a promised quiet one, left somewhere unromantic, shows intensity and reliability as two sides of the same devotion. She finds reassurance that passion won't come at the cost of steadiness.",
+    "sectionTitle": "Post-its - The Brothers Karamazov",
+    "predictable": "Gym bags rarely carry a note pairing a recent reckless gesture with a promise of quiet steadiness to follow",
+    "themes": [
+      "Literary",
+      "Devotion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Did something reckless for you recently — tomorrow, something quiet and steady too."
+    ]
+  },
+  {
+    "actionTitle": "Under the Bed",
+    "text": "Something I've been too proud to say out loud is written here instead, where it took real nerve to even leave it.",
+    "effect": "Placing a proud, withheld confession somewhere unexpected and slightly hidden mirrors the courage it took to write at all. She discovers vulnerability in an unlikely place, proof the words needed somewhere safe to start.",
+    "sectionTitle": "Post-its - The Brothers Karamazov",
+    "predictable": "Notes are rarely left under the bed specifically because a withheld confession took real nerve just to write down",
+    "themes": [
+      "Literary",
+      "Honesty"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Something I've been too proud to say is written here, where it took nerve to leave."
+    ]
+  },
+  {
+    "actionTitle": "On the Bathroom Mirror",
+    "text": "Quietly proud of something around here — go find it, and tell me honestly what you actually think, unlike Darcy, I'm actually asking.",
+    "effect": "Prompting her to seek out something quietly proud of, then explicitly asking for her honest reaction, closes a gap the novel leaves for the reader alone. She's invited into both discovery and honest response.",
+    "sectionTitle": "Post-its - Pride and Prejudice",
+    "predictable": "Bathroom mirrors rarely send someone hunting for something quietly proud of elsewhere, with an explicit request for honesty after",
+    "themes": [
+      "Literary",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quietly proud of something around here — find it, tell me what you really think."
+    ]
+  },
+  {
+    "actionTitle": "Folded Inside Your Wallet",
+    "text": "Thought more about what went wrong last time I asked for something — want to try again properly, better this time.",
+    "effect": "A folded note about a revisited ask, kept somewhere carried daily, shows humility as an ongoing, private commitment rather than a one-time apology. She carries proof of growth quietly acknowledged.",
+    "sectionTitle": "Post-its - Pride and Prejudice",
+    "predictable": "Wallets rarely carry a folded note about revisiting an earlier ask with visible humility and an intention to improve",
+    "themes": [
+      "Literary",
+      "Humility"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thought about what went wrong last time I asked — want to try again, better."
+    ]
+  },
+  {
+    "actionTitle": "On Your Desk",
+    "text": "The quiet corner I usually keep to myself is open to you now — come find out what's actually in there.",
+    "effect": "Inviting her into a private retreat, rather than defaulting to isolation, resists withdrawal as a habit. She finds an open door to something usually kept closed, framed as a genuine invitation rather than an offhand mention.",
+    "sectionTitle": "Post-its - Pride and Prejudice",
+    "predictable": "Desks rarely carry a note explicitly opening up a usually private retreat as a genuine invitation",
+    "themes": [
+      "Literary",
+      "Openness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The quiet corner I usually keep to myself is open to you now — come find out."
+    ]
+  },
+  {
+    "actionTitle": "On the Front Door, Going Out",
+    "text": "Making an actual effort to be warm and present tonight, somewhere I'd normally hold back — it's costing me a little, worth it.",
+    "effect": "Admitting effort in advance, on the way out the door, keeps a planned warmth honest rather than letting it appear effortless. She's told ahead of time that ease tonight is being earned, not assumed.",
+    "sectionTitle": "Post-its - Pride and Prejudice",
+    "predictable": "Front doors rarely carry a note admitting in advance that tonight's warmth will take real, deliberate effort",
+    "themes": [
+      "Literary",
+      "Honesty"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Making an actual effort to be warm tonight, somewhere I'd normally hold back."
+    ]
+  },
+  {
+    "actionTitle": "Left on Top of an Envelope",
+    "text": "Everything in here explains something I handled badly recently — take your time with it, there's no rush to respond.",
+    "effect": "Pairing a written explanation with an explicit note removing any pressure to respond quickly lets the words do their work in peace. She's given both accountability and the space to receive it on her own terms.",
+    "sectionTitle": "Post-its - Pride and Prejudice",
+    "predictable": "Envelopes rarely carry a note on top explicitly giving permission to take time before responding to what's inside",
+    "themes": [
+      "Literary",
+      "Accountability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Everything in here explains something handled badly — take your time, no rush."
+    ]
+  },
+  {
+    "actionTitle": "On the Window Ledge",
+    "text": "Something true and unsoftened is waiting to be said out loud tonight — fair warning, it's a lot, but every word of it is real.",
+    "effect": "Flagging unsoftened honesty on a window ledge, of all places, channels the moors' wild intensity while giving her a chance to brace for it. She finds raw truth paired with a respectful heads-up rather than being caught off guard.",
+    "sectionTitle": "Post-its - Wuthering Heights",
+    "predictable": "Window ledges rarely carry a note flagging, in advance, an unsoftened truth still to come that evening",
+    "themes": [
+      "Literary",
+      "Intensity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Something true and unsoftened is waiting to be said tonight — fair warning."
+    ]
+  },
+  {
+    "actionTitle": "Under the Doormat",
+    "text": "What I feel for you is honestly a bit much to say out loud sometimes — writing it down here felt like a safer place to start.",
+    "effect": "Hiding an intense declaration under the doormat, of all unglamorous places, mirrors devotion too large for polite conversation finding an unlikely outlet. She discovers intensity in the most overlooked, ordinary spot in the house.",
+    "sectionTitle": "Post-its - Wuthering Heights",
+    "predictable": "Doormats rarely hide a note admitting a feeling too intense to say out loud in person, in writing instead",
+    "themes": [
+      "Literary",
+      "Intensity"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "What I feel for you is honestly a bit much sometimes — safer to write it here."
+    ]
+  },
+  {
+    "actionTitle": "On the Junk Mail Pile",
+    "text": "That old thing between us that never quite got resolved — let's actually talk it through properly this week, not just let it sit.",
+    "effect": "Naming an old unresolved matter amid discarded junk mail suggests it's been quietly accumulating alongside other unattended things. She finds a real invitation to close something old instead of letting it linger unaddressed.",
+    "sectionTitle": "Post-its - Wuthering Heights",
+    "predictable": "Junk mail piles rarely carry a note naming an old unresolved matter as something to finally talk through this week",
+    "themes": [
+      "Literary",
+      "Repair"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That old thing between us never quite got resolved — let's talk it through."
+    ]
+  },
+  {
+    "actionTitle": "On the Fridge Door",
+    "text": "Going to keep showing up like this — not just when it's easy or exciting, every single time, no exceptions.",
+    "effect": "An explicit, standalone promise of constancy, posted somewhere seen daily, turns a pattern of support into a clear, visible commitment. She's reminded of reliability every time she reaches for something ordinary like the fridge.",
+    "sectionTitle": "Post-its - Wuthering Heights",
+    "predictable": "Fridge doors rarely carry a standalone note explicitly promising to keep showing up steadily, no exceptions",
+    "themes": [
+      "Literary",
+      "Constancy"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Going to keep showing up like this — not just when easy, every single time."
+    ]
+  },
+  {
+    "actionTitle": "Hidden in a Drawer You Rarely Open",
+    "text": "Made something small and private that's just about you, kept here for now — ask me about it when you're ready to know.",
+    "effect": "Hiding a private, unexplained item somewhere rarely opened builds anticipation around a quiet, lasting gesture. She finds a preview of something meant to endure, kept secret in a place that itself feels a little forgotten.",
+    "sectionTitle": "Post-its - Wuthering Heights",
+    "predictable": "Rarely-opened drawers rarely contain a hidden note about something small and private made just for her",
+    "themes": [
+      "Literary",
+      "Permanence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Made something small and private that's just about you, kept here for now."
+    ]
+  },
+  {
+    "actionTitle": "On the Piggy Bank",
+    "text": "Working on fixing a stingy habit of mine, quietly — no explanation yet, just curious if you notice anything different soon.",
+    "effect": "Placing a note about self-correction on something literally about money nods playfully to the source while keeping the change real and unannounced. She's invited to notice a shift without being told exactly what to look for.",
+    "sectionTitle": "Post-its - A Christmas Carol",
+    "predictable": "Piggy banks rarely carry a note about quietly correcting a stingy habit, without yet explaining what changed",
+    "themes": [
+      "Literary",
+      "Change"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Working on fixing a stingy habit of mine, quietly — curious if you notice."
+    ]
+  },
+  {
+    "actionTitle": "Inside an Old Photo Album",
+    "text": "That early memory of us keeps coming back to me lately — let's actually recreate a small piece of it together soon.",
+    "effect": "Reviving an old memory inside the very album that holds it, then proposing to recreate part of it, turns nostalgia into an active plan. She finds both the fond recollection and a concrete invitation in the same place.",
+    "sectionTitle": "Post-its - A Christmas Carol",
+    "predictable": "Photo albums rarely contain a note reviving an old memory alongside a proposal to recreate part of it soon",
+    "themes": [
+      "Literary",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That early memory of us keeps coming back — let's recreate part of it soon."
+    ]
+  },
+  {
+    "actionTitle": "On the Trash Can Lid",
+    "text": "Also wanted to say thank you for that other small thing you did — different from before, but I noticed that one too.",
+    "effect": "A second, distinct thank-you, left somewhere as unglamorous as a trash can lid, proves noticing is becoming routine rather than a single spotlighted moment. She learns even unremarkable places carry your attention to her.",
+    "sectionTitle": "Post-its - A Christmas Carol",
+    "predictable": "Trash can lids rarely carry a note thanking her for a second, different small thing noticed after an earlier one",
+    "themes": [
+      "Literary",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Also wanted to thank you for that other small thing — I noticed that too."
+    ]
+  },
+  {
+    "actionTitle": "Taped to the Calendar's Next Month",
+    "text": "Picturing a specific future with you already, in real detail — let's actually start working toward it soon, not just talk about it.",
+    "effect": "Describing a specific future on next month's calendar page pairs hopeful vision with a literal, dated intention to act. She finds the dream given a concrete place to begin, rather than staying abstract.",
+    "sectionTitle": "Post-its - A Christmas Carol",
+    "predictable": "Calendars rarely carry a note on a future month describing a specific hoped-for future alongside a real intention to act on it",
+    "themes": [
+      "Literary",
+      "Future"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Picturing a specific future with you already — let's start working toward it."
+    ]
+  },
+  {
+    "actionTitle": "On an Empty Party Hat",
+    "text": "Tonight's small joyful thing happened again for absolutely no reason — proof the first time wasn't a one-off fluke.",
+    "effect": "Leaving a note on a leftover party item, referencing a repeated joyful gesture, proves celebration can become a genuine habit rather than a rare splurge. She's reminded that joy doesn't need to wait for permission or an occasion.",
+    "sectionTitle": "Post-its - A Christmas Carol",
+    "predictable": "Leftover party hats rarely carry a note about a small joyful gesture being repeated for no reason, proving it wasn't a fluke",
+    "themes": [
+      "Literary",
+      "Joy"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tonight's small joyful thing happened again for no reason — not a one-off."
+    ]
+  },
+  {
+    "actionTitle": "Next to Her Favorite Mug",
+    "text": "Noticed that little thing you always do just for yourself — genuinely love that about you, don't ever stop doing it.",
+    "effect": "Placing encouragement of her independence next to something she uses only for herself honors autonomy rather than trying to absorb or replace it. She finds her self-sufficiency actively celebrated in a small, personal spot.",
+    "sectionTitle": "Post-its - Mrs Dalloway",
+    "predictable": "Favorite mugs rarely have a note beside them encouraging a small self-given habit to continue, unprompted",
+    "themes": [
+      "Literary",
+      "Independence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Noticed that little thing you always do just for yourself — love that, keep it up."
+    ]
+  },
+  {
+    "actionTitle": "On the Guest Book from Last Gathering",
+    "text": "That was genuinely fun, not just saying it to be nice — what was actually your favorite part of the whole thing?",
+    "effect": "Asking honestly what she enjoyed, written in the very guest book from the event, confirms real connection over performed hosting. She's invited to define what actually worked, in a place meant for shared memory.",
+    "sectionTitle": "Post-its - Mrs Dalloway",
+    "predictable": "Guest books rarely carry a note honestly asking what her favorite part of the gathering actually was",
+    "themes": [
+      "Literary",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That was genuinely fun — what was actually your favorite part of it?"
+    ]
+  },
+  {
+    "actionTitle": "On the Day's Page in a Planner",
+    "text": "That whole day together felt different somehow — curious what you think actually made it stand out from the usual ones.",
+    "effect": "Reflecting on a specific day, noted right on its own planner page, turns a simple gift of presence into an invitation for shared meaning-making. She's asked to articulate her own version of what made the day matter.",
+    "sectionTitle": "Post-its - Mrs Dalloway",
+    "predictable": "Planner pages rarely carry a note reflecting on what specifically made that one day feel different from the rest",
+    "themes": [
+      "Literary",
+      "Reflection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That whole day felt different somehow — what made it stand out for you?"
+    ]
+  },
+  {
+    "actionTitle": "Inside Her Umbrella",
+    "text": "Wondering if there's something quietly weighing on you that hasn't come up yet — here, whenever you're ready to share it.",
+    "effect": "Hiding a gentle check-in inside an umbrella, something reached for on hard days, quietly matches the gesture to the mood it addresses. She finds care waiting exactly where she might need shelter, literally and otherwise.",
+    "sectionTitle": "Post-its - Mrs Dalloway",
+    "predictable": "Umbrellas rarely contain a note gently checking in on something quietly weighing on her, with no pressure attached",
+    "themes": [
+      "Literary",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Wondering if something's quietly weighing on you — here, whenever you're ready."
+    ]
+  },
+  {
+    "actionTitle": "On the Guest Room Door",
+    "text": "Thinking about that old tension between us, no bitterness at all — let's actually clear it properly, whenever works for you.",
+    "effect": "Revisiting old tension on a door associated with distance or separateness reframes the note as an invitation back rather than further apart. She receives reassurance about tone before any conversation even starts.",
+    "sectionTitle": "Post-its - Mrs Dalloway",
+    "predictable": "Guest room doors rarely carry a note revisiting old tension with an explicit note that there's no bitterness behind it",
+    "themes": [
+      "Literary",
+      "Repair"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Thinking about that old tension, no bitterness — let's clear it properly."
+    ]
+  },
+  {
+    "actionTitle": "On the Bathroom Scale",
+    "text": "That thing I sent you earlier wasn't a joke, by the way — meant every single word, just wanted to be completely clear.",
+    "effect": "Confirming a playful message's sincerity on something as neutral as a bathroom scale removes any lingering doubt without overloading the moment with drama. She receives explicit clarity in an unexpected, low-key place.",
+    "sectionTitle": "Post-its - Far from the Madding Crowd",
+    "predictable": "Bathroom scales rarely carry a note confirming that an earlier playful message wasn't actually a joke",
+    "themes": [
+      "Literary",
+      "Sincerity"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That thing I sent earlier wasn't a joke — meant every word, wanted to be clear."
+    ]
+  },
+  {
+    "actionTitle": "On the Toolbox Again",
+    "text": "Fixed that thing for you again — no big deal, just wanted to be useful, don't need any credit for it at all.",
+    "effect": "Repeated, uncredited help noted on the very tool that did the work turns isolated helpfulness into a deliberate, ongoing pattern. She sees reliability as a quiet value rather than a bid for recognition.",
+    "sectionTitle": "Post-its - Far from the Madding Crowd",
+    "predictable": "Toolboxes rarely carry a note about repeated uncredited help, explicitly waving off the need for any recognition",
+    "themes": [
+      "Literary",
+      "Constancy"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fixed that thing for you again — no big deal, don't need credit for it."
+    ]
+  },
+  {
+    "actionTitle": "On the Umbrella Stand",
+    "text": "That was genuinely good teamwork earlier, under real pressure — wanted to say it out loud, we're actually good at that.",
+    "effect": "Naming teamwork explicitly on the very stand that holds storm gear ties the compliment neatly to weathering something together. She hears the partnership itself valued, separate from whatever problem it actually solved.",
+    "sectionTitle": "Post-its - Far from the Madding Crowd",
+    "predictable": "Umbrella stands rarely carry a note explicitly praising good teamwork shown earlier under real pressure",
+    "themes": [
+      "Literary",
+      "Teamwork"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "That was genuinely good teamwork earlier — we're actually good at that."
+    ]
+  },
+  {
+    "actionTitle": "Inside a Drawer of Old Receipts",
+    "text": "Caught myself getting weirdly fixated on your reaction to something today — letting it go, just wanted to admit that honestly.",
+    "effect": "Hiding an admission of a caught fixation among old, unremarkable receipts underplays the moment rather than making it a big confession. She discovers honest self-awareness in a place associated with forgettable, sorted-through clutter.",
+    "sectionTitle": "Post-its - Far from the Madding Crowd",
+    "predictable": "Old receipts rarely have a note tucked among them admitting a caught, unhealthy fixation on her reaction to something",
+    "themes": [
+      "Literary",
+      "Self-awareness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Caught myself fixating on your reaction today — letting it go, wanted to admit it."
+    ]
+  },
+  {
+    "actionTitle": "On the Ring Dish",
+    "text": "Still mean that thing I promised a while back — going to prove it this week with something real, just watch.",
+    "effect": "Reaffirming an old commitment on a dish meant for rings, of all places, quietly nods to lasting promises without overstating the moment. She finds renewed intent sitting exactly where daily commitment already lives.",
+    "sectionTitle": "Post-its - Far from the Madding Crowd",
+    "predictable": "Ring dishes rarely carry a note reaffirming an older promise alongside a plan to prove it with real action soon",
+    "themes": [
+      "Literary",
+      "Commitment"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Still mean that promise from a while back — proving it this week, watch."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Platine Vinyle",
+    "text": "Considère ceci comme une invitation ouverte à un bal sans orchestre, sans robe nécessaire — juste toi, moi, et quelle que soit la chanson qui joue.",
+    "effect": "Transformer un objet ordinaire en invitation à un bal imaginaire recrée l'émerveillement d'une débutante sans avoir besoin d'un vrai événement. Elle trouve une petite promesse joueuse là où elle ne s'attendait pas à une déclaration.",
+    "sectionTitle": "Post-its - Guerre et Paix",
+    "predictable": "Les objets ordinaires contiennent rarement une invitation à un bal imaginaire sans aucune occasion réelle derrière",
+    "themes": [
+      "Littéraire",
+      "Romance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Considère ceci comme une invitation à un bal sans orchestre, juste toi et moi."
+    ]
+  },
+  {
+    "actionTitle": "Glissé dans une Poche de Manteau",
+    "text": "Comme Pierre, j'ai tardé à bien dire ça, alors voici en mots écrits à la place — tu comptes plus que ce que je montre d'habitude.",
+    "effect": "Un aveu écrit, trouvé de façon inattendue dans une poche de manteau, rejoint une honnêteté hésitante et retardée qui trouve enfin son chemin. Elle découvre une sincérité dans un endroit associé au départ, pas à la romance.",
+    "sectionTitle": "Post-its - Guerre et Paix",
+    "predictable": "Les poches de manteau contiennent rarement un aveu écrit d'une honnêteté retardée sur l'importance de quelqu'un",
+    "themes": [
+      "Littéraire",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme Pierre, j'ai tardé à bien dire ça, alors voici en mots écrits à la place."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Bouilloire",
+    "text": "Une petite gentillesse discrète est arrivée quelque part dans cette maison aujourd'hui — comme celle de Sonia, elle n'a pas besoin d'être trouvée pour avoir compté.",
+    "effect": "Annoncer une gentillesse non trouvée, plutôt que de la désigner directement, transforme la dévotion silencieuse en une petite chasse au trésor de confiance. On lui dit que quelque chose de bien est arrivé sans preuve nécessaire.",
+    "sectionTitle": "Post-its - Guerre et Paix",
+    "predictable": "Les bouilloires n'annoncent rarement une gentillesse discrète ailleurs dans la maison qui n'a pas besoin d'être trouvée pour compter",
+    "themes": [
+      "Littéraire",
+      "Dévotion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Une petite gentillesse discrète est arrivée quelque part dans cette maison aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Porte d'Entrée",
+    "text": "Rentrer vers toi ressemble toujours un peu au retour d'un soldat, même après une journée ordinaire séparés — content d'être de retour dans cette pièce avec toi.",
+    "effect": "Traiter une arrivée banale avec une gravité empruntée rend sa présence soudain significative plutôt qu'acquise. Elle trouve de la chaleur attachée au moment le plus routinier de la journée : franchir de nouveau cette porte.",
+    "sectionTitle": "Post-its - Guerre et Paix",
+    "predictable": "Les portes d'entrée comparent rarement un retour ordinaire au foyer au retour tant attendu d'un soldat",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rentrer vers toi ressemble toujours un peu au retour d'un soldat, content d'être là."
+    ]
+  },
+  {
+    "actionTitle": "Dans un Livre Que Tu Lis",
+    "text": "Trouvé cette pensée sur toi à mi-chemin de ma journée et n'avais pas de meilleur endroit où la mettre qu'ici, en pleine page.",
+    "effect": "Cacher un mot dans un livre qu'elle est en train de lire interrompt son propre moment tranquille par une pensée inattendue à son sujet. Elle vit la surprise de ta voix arrivant dans son propre temps de lecture privé.",
+    "sectionTitle": "Post-its - Guerre et Paix",
+    "predictable": "Les livres en cours de lecture contiennent rarement une pensée cachée placée en pleine page pour interrompre tranquillement",
+    "themes": [
+      "Littéraire",
+      "Surprise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Trouvé cette pensée sur toi à mi-chemin de ma journée, devais la mettre quelque part."
+    ]
+  },
+  {
+    "actionTitle": "Daté, Sur le Miroir",
+    "text": "Écrit et gardé pendant trois jours avant que je ne te laisse enfin le trouver — certaines choses, comme Onéguine l'a appris trop tard, valent mieux dites plus tôt.",
+    "effect": "Dater explicitement un mot, et avouer le délai, transforme l'hésitation en une honnêteté désarmante plutôt qu'un défaut caché. Elle voit la preuve que le sentiment précède le courage de le partager.",
+    "sectionTitle": "Post-its - Eugène Onéguine",
+    "predictable": "Les mots sur un miroir avouent rarement, datés, exactement combien de jours se sont écoulés avant d'être enfin laissés à trouver",
+    "themes": [
+      "Littéraire",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Écrit et gardé trois jours avant que je te laisse enfin le trouver."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Thermostat",
+    "text": "Choisi de laisser filer quelque chose de petit aujourd'hui plutôt que de laisser l'orgueil gagner — un tout petit refus de répéter d'anciennes erreurs évitables.",
+    "effect": "Noter un moment délibérément désamorcé sur un objet aussi peu romantique qu'un thermostat rend la retenue authentique plutôt que théâtrale. Elle apprend que l'orgueil a été consciemment mis de côté, même pour un petit déclencheur.",
+    "sectionTitle": "Post-its - Eugène Onéguine",
+    "predictable": "Les thermostats portent rarement un mot sur l'orgueil délibérément mis de côté lors d'un désaccord précédent",
+    "themes": [
+      "Littéraire",
+      "Retenue"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Choisi de laisser filer quelque chose de petit aujourd'hui plutôt que l'orgueil."
+    ]
+  },
+  {
+    "actionTitle": "Sous une Tasse à Café",
+    "text": "Quelque chose que tu m'as dit un jour et auquel je n'ai jamais vraiment répondu me trotte dans la tête — demande-moi ce soir, j'ai enfin les mots.",
+    "effect": "Référencer une vieille conversation non résolue et promettre une vraie réponse ce soir-là corrige un regret littéraire très précis et célèbre. On lui donne une raison d'attendre une clôture sur quelque chose peut-être cru oublié depuis longtemps.",
+    "sectionTitle": "Post-its - Eugène Onéguine",
+    "predictable": "Les tasses à café recouvrent rarement un mot référençant une vieille conversation sans réponse avec une promesse d'y répondre enfin ce soir",
+    "themes": [
+      "Littéraire",
+      "Réparation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quelque chose que tu m'as dit un jour et auquel je n'ai jamais répondu — ce soir."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Calendrier, Aucune Date Entourée",
+    "text": "Ce soir compte comme une occasion même si rien n'est vraiment célébré — habille-toi si tu en as envie, ou pas, dans tous les cas c'est un événement.",
+    "effect": "Déclarer une soirée ordinaire comme une occasion, sans rien à célébrer réellement, prouve que la grandeur peut devenir une habitude plutôt qu'une rare exception demandée. Elle est invitée à la cérémonie sans qu'une raison ne soit d'abord exigée.",
+    "sectionTitle": "Post-its - Eugène Onéguine",
+    "predictable": "Les calendriers portent rarement un mot déclarant ce soir comme une occasion malgré l'absence de toute célébration réelle",
+    "themes": [
+      "Littéraire",
+      "Cérémonie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce soir compte comme une occasion même si rien n'est vraiment célébré."
+    ]
+  },
+  {
+    "actionTitle": "Derrière le Cadre Photo",
+    "text": "Je le dis maintenant, clairement, plutôt que d'attendre qu'un futur regret ne l'arrache — tu comptes pour moi plus que ce que je dis assez souvent.",
+    "effect": "Placer une déclaration simple et précoce derrière un cadre photo évite délibérément le regret exact au cœur de la tragédie du poème. Elle trouve une sincérité rangée dans un endroit sentimental mais facile à manquer, récompensant une vraie attention.",
+    "sectionTitle": "Post-its - Eugène Onéguine",
+    "predictable": "Les cadres photo cachent rarement un mot déclarant clairement, à l'avance, ce qui deviendrait autrement un futur regret",
+    "themes": [
+      "Littéraire",
+      "Déclaration"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je le dis maintenant, clairement, plutôt que d'attendre qu'un regret ne l'arrache."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Dernière Page du Mois",
+    "text": "Marquer cette saison entre nous exprès avant qu'elle ne change, comme personne dans ce vieux verger n'a jamais tout à fait réussi à le faire.",
+    "effect": "Marquer délibérément la fin d'une saison avant qu'elle n'arrive, plutôt que de la laisser filer inaperçue, montre une attention que les personnages de la pièce n'ont tragiquement pas. Elle est invitée à remarquer le temps qui passe plutôt que de le perdre en silence.",
+    "sectionTitle": "Post-its - La Cerisaie",
+    "predictable": "Les calendriers portent rarement un mot marquant délibérément une saison avant qu'elle ne change, contrairement aux personnages de la pièce",
+    "themes": [
+      "Littéraire",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Marquer cette saison entre nous exprès, avant qu'elle ne change tranquillement."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Boîte à Outils",
+    "text": "Réparé ce truc que tu supportais en silence — pas besoin de tambour ni de trompette, je voulais juste que ce soit réglé avant que ça n'empire.",
+    "effect": "Une petite réparation pratique annoncée sans cérémonie rejoint un soin concret plutôt qu'un grand geste romantique. Elle trouve un soulagement livré simplement, sans attente de remerciement attachée au mot lui-même.",
+    "sectionTitle": "Post-its - La Cerisaie",
+    "predictable": "Les boîtes à outils portent rarement un mot sur un problème réparé discrètement, annoncé sans aucun tambour ni demande de remerciement",
+    "themes": [
+      "Littéraire",
+      "Soin"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Réparé ce truc que tu supportais en silence — pas besoin de tambour ni trompette."
+    ]
+  },
+  {
+    "actionTitle": "Derrière un Coussin du Canapé",
+    "text": "Ce silence tranquille qu'on a partagé tout à l'heure est resté avec moi — curieux de savoir ce qui te traversait vraiment l'esprit pendant ce temps.",
+    "effect": "Faire un suivi écrit d'un silence partagé transforme un moment passif en une conversation écrite différée. Elle est invitée à répondre à quelque chose qui aurait autrement simplement passé inaperçu.",
+    "sectionTitle": "Post-its - La Cerisaie",
+    "predictable": "Les coussins de canapé portent rarement un mot faisant un suivi sur un silence partagé, demandant ce qui était vraiment pensé pendant ce temps",
+    "themes": [
+      "Littéraire",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce silence tranquille tout à l'heure est resté avec moi — à quoi tu pensais vraiment ?"
+    ]
+  },
+  {
+    "actionTitle": "Sur le Frigo, Sous un Aimant",
+    "text": "Petit changement proposé : essayons vraiment un truc différent avec cette routine qui s'essouffle cette semaine, ensemble.",
+    "effect": "Proposer un changement avec espoir, plutôt que de pleurer une habitude qui s'efface, incarne le personnage le plus tourné vers l'avenir de la pièce plutôt que ceux tournés vers le passé. Elle trouve une invitation à construire du neuf plutôt qu'à simplement remarquer ce qui se termine.",
+    "sectionTitle": "Post-its - La Cerisaie",
+    "predictable": "Les frigos portent rarement un mot proposant un changement plein d'espoir à une routine qui s'essouffle, prévu pour cette même semaine",
+    "themes": [
+      "Littéraire",
+      "Espoir"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Petit changement proposé : essayons un truc différent cette semaine, ensemble."
+    ]
+  },
+  {
+    "actionTitle": "À l'Intérieur du Tiroir à Bazar",
+    "text": "Vu un petit problème venir et je l'ai réglé discrètement avant qu'il ne devienne tout un plat — pas de drame, juste de l'attention.",
+    "effect": "Mentionner un problème évité à l'intérieur d'un tiroir à bazar peu glamour garde la prévoyance modeste plutôt qu'autosatisfaite. Elle apprend que les problèmes sont attrapés tôt, sans les cacher entièrement ni en faire un étalage.",
+    "sectionTitle": "Post-its - La Cerisaie",
+    "predictable": "Les tiroirs à bazar contiennent rarement un mot mentionnant un petit problème discrètement évité avant qu'il ne s'aggrave",
+    "themes": [
+      "Littéraire",
+      "Prévoyance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Vu un petit problème venir et je l'ai réglé discrètement avant que ça n'empire."
+    ]
+  },
+  {
+    "actionTitle": "Sur Ton Oreiller",
+    "text": "Chaque fois que tu entres dans une pièce, considère ça comme moi te retrouvant sur le quai, entièrement présent, rien d'autre en tête.",
+    "effect": "Comparer des retrouvailles ordinaires à une rencontre sur un quai de gare inverse délibérément la tragédie centrale du roman faite de distraction et de négligence. Elle trouve une présence pleine et entière promise par écrit, posée sur la surface la plus privée et sans garde de la maison.",
+    "sectionTitle": "Post-its - Anna Karénine",
+    "predictable": "Les oreillers portent rarement un mot comparant des retrouvailles ordinaires à une rencontre pleinement présente sur un quai de gare",
+    "themes": [
+      "Littéraire",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Chaque fois que tu entres, considère ça comme moi te retrouvant pleinement, sans distraction."
+    ]
+  },
+  {
+    "actionTitle": "À Côté de Ton Journal",
+    "text": "Quelque chose sur ta façon de voir le monde que je ne comprends toujours pas tout à fait — demande-moi de vraiment t'écouter ce soir.",
+    "effect": "Référencer quelque chose de vraiment mal compris, laissé à côté de son journal privé, rejoint une curiosité humble plutôt qu'une supposition facile. Elle trouve une invitation à être vraiment entendue placée près d'un espace déjà réservé à sa propre réflexion.",
+    "sectionTitle": "Post-its - Anna Karénine",
+    "predictable": "Les journaux intimes n'ont rarement à côté un mot invitant à expliquer quelque chose de sa vie intérieure pas encore pleinement compris",
+    "themes": [
+      "Littéraire",
+      "Curiosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quelque chose sur ta façon de voir le monde que je ne comprends pas tout à fait — ce soir."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Thermostat, Encore",
+    "text": "Remarqué comme tu es restée calme et posée pendant cette petite crise tout à l'heure — ce n'est pas rien, et je l'ai vu.",
+    "effect": "Nommer par écrit sa constance, plutôt que de la laisser passer inaperçue, honore une compétence tranquille plutôt que les gestes spectaculaires. Elle trouve une reconnaissance pour quelque chose trop facilement tenu pour acquis, écrite comme preuve d'avoir été vraiment vue.",
+    "sectionTitle": "Post-its - Anna Karénine",
+    "predictable": "Les thermostats portent rarement un mot faisant spécifiquement l'éloge d'une gestion calme et posée d'une petite crise précédente",
+    "themes": [
+      "Littéraire",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Remarqué comme tu es restée calme tout à l'heure — ce n'est pas rien, je l'ai vu."
+    ]
+  },
+  {
+    "actionTitle": "Glissé dans Ton Portefeuille",
+    "text": "Ce que je trouve beau chez toi n'a que très peu à voir avec ce que tu portes aujourd'hui — garde cette pensée sur toi.",
+    "effect": "Complimenter quelque chose au-delà de l'apparence, glissé dans quelque chose porté quotidiennement, contrecarre délibérément une fixation sur la surface. Elle trouve un rappel portatif que l'attention va plus profond que n'importe quelle tenue.",
+    "sectionTitle": "Post-its - Anna Karénine",
+    "predictable": "Les portefeuilles contiennent rarement un mot glissé faisant explicitement l'éloge de quelque chose au-delà de l'apparence, à garder sur soi",
+    "themes": [
+      "Littéraire",
+      "Compliment"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que je trouve beau chez toi n'a que peu à voir avec ce que tu portes."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Miroir de la Salle de Bain",
+    "text": "Il y a un truc un peu inconfortable que je veux dire honnêtement — demande-moi ce soir, et je te le dirai vraiment.",
+    "effect": "Annoncer une vérité inconfortable à l'avance, sur un miroir consulté quotidiennement, donne à l'honnêteté brute une structure sûre et responsable. Elle trouve un avertissement honnête et une invitation ouverte plutôt qu'une vérité surgie sans prévenir.",
+    "sectionTitle": "Post-its - Anna Karénine",
+    "predictable": "Les miroirs de salle de bain portent rarement un mot annonçant à l'avance une vérité inconfortable encore à venir ce soir",
+    "themes": [
+      "Littéraire",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Il y a un truc un peu inconfortable que je veux dire honnêtement — ce soir."
+    ]
+  },
+  {
+    "actionTitle": "Sur l'Étagère à Livres",
+    "text": "Ce qui compte vraiment le plus pour toi ces temps-ci — pas du bavardage, une vraie question, quand tu auras le temps d'y répondre vraiment.",
+    "effect": "Une question profonde laissée sur une étagère à livres, plutôt que posée en passant, rejoint une curiosité patiente et sans hâte plutôt qu'une conversation anodine. Elle trouve une invitation à répondre honnêtement, à son rythme, pas sur le moment.",
+    "sectionTitle": "Post-its - Les Frères Karamazov",
+    "predictable": "Les étagères à livres portent rarement un mot posant une question de vie vraiment profonde, explicitement signalée comme n'étant pas du bavardage",
+    "themes": [
+      "Littéraire",
+      "Curiosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce qui compte vraiment le plus pour toi ces temps-ci — une vraie question, sans urgence."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Panier à Linge",
+    "text": "Je repense encore à ce truc dont tu t'es plaint — comment ça s'est terminé finalement ? Vraiment curieux, pas juste pour demander.",
+    "effect": "Un suivi écrit sur quelque chose dont elle s'est plainte, des jours plus tard et dans un endroit peu glamour, montre que l'écoute avait une vraie durée. Elle trouve ses frustrations mémorisées dans un coin ordinaire du quotidien, pas une occasion spéciale.",
+    "sectionTitle": "Post-its - Les Frères Karamazov",
+    "predictable": "Les paniers à linge portent rarement un mot faisant un suivi spécifique sur quelque chose dont elle s'est plainte, des jours plus tard",
+    "themes": [
+      "Littéraire",
+      "Écoute"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je repense encore à ce truc dont tu t'es plaint — comment ça s'est terminé ?"
+    ]
+  },
+  {
+    "actionTitle": "Sur la Télécommande",
+    "text": "Retenu ma langue tout à l'heure quand je voulais défendre mon point — c'était délibéré, pas de l'indifférence, je voulais que tu le saches.",
+    "effect": "Expliquer un silence choisi par écrit, plutôt que de le laisser passer pour de l'indifférence, transforme la retenue en un respect lisible. Elle trouve une explication pour un silence qui aurait autrement pu passer complètement inaperçu.",
+    "sectionTitle": "Post-its - Les Frères Karamazov",
+    "predictable": "Les télécommandes portent rarement un mot expliquant un silence délibérément choisi lors d'un désaccord précédent",
+    "themes": [
+      "Littéraire",
+      "Retenue"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Retenu ma langue tout à l'heure — c'était délibéré, pas de l'indifférence."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Sac de Sport",
+    "text": "Fait un truc un peu téméraire pour toi récemment — demain, prévu quelque chose de calme et stable à la place, les deux comptent autant.",
+    "effect": "Associer un geste téméraire à une promesse de calme, laissé quelque part peu romantique, montre l'intensité et la fiabilité comme deux facettes de la même dévotion. Elle trouve la réassurance que la passion ne se fera pas au détriment de la constance.",
+    "sectionTitle": "Post-its - Les Frères Karamazov",
+    "predictable": "Les sacs de sport portent rarement un mot associant un récent geste téméraire à une promesse de calme et de stabilité à venir",
+    "themes": [
+      "Littéraire",
+      "Dévotion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fait un truc téméraire pour toi récemment — demain, quelque chose de calme aussi."
+    ]
+  },
+  {
+    "actionTitle": "Sous le Lit",
+    "text": "Il y a un truc que j'ai été trop fier pour dire à voix haute, écrit ici à la place, là où il a fallu du vrai cran pour même le laisser.",
+    "effect": "Placer un aveu fier et retenu quelque part d'inattendu et un peu caché rejoint le courage qu'il a fallu pour même l'écrire. Elle découvre de la vulnérabilité dans un endroit improbable, preuve que les mots avaient besoin d'un endroit sûr pour commencer.",
+    "sectionTitle": "Post-its - Les Frères Karamazov",
+    "predictable": "Les mots sont rarement laissés sous le lit spécifiquement parce qu'un aveu retenu a demandé du cran juste pour être écrit",
+    "themes": [
+      "Littéraire",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Il y a un truc que j'ai été trop fier pour dire, écrit ici, là où ça a demandé du cran."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Miroir de la Salle de Bain",
+    "text": "Tranquillement fier de quelque chose par ici — va le trouver, et dis-moi honnêtement ce que tu en penses vraiment, contrairement à Darcy, moi je demande vraiment.",
+    "effect": "Pousser à chercher quelque chose dont on est tranquillement fier, puis demander explicitement une réaction honnête, comble un vide que le roman laisse au lecteur seul. Elle est invitée à la fois à la découverte et à une réponse sincère.",
+    "sectionTitle": "Post-its - L'Heure Tranquille de Pemberley",
+    "predictable": "Les miroirs de salle de bain n'envoient rarement chercher quelque chose de tranquillement fier ailleurs, avec une demande explicite d'honnêteté après",
+    "themes": [
+      "Littéraire",
+      "Vulnérabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tranquillement fier de quelque chose par ici — va le trouver, dis-moi vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Plié Dans Ton Portefeuille",
+    "text": "Repensé à ce qui a mal tourné la dernière fois que j'ai demandé quelque chose — je veux réessayer correctement, en mieux cette fois.",
+    "effect": "Un mot plié sur une demande reconsidérée, gardé sur soi quotidiennement, montre l'humilité comme un engagement continu et privé plutôt qu'une excuse ponctuelle. Elle porte la preuve d'une évolution discrètement reconnue.",
+    "sectionTitle": "Post-its - L'Heure Tranquille de Pemberley",
+    "predictable": "Les portefeuilles contiennent rarement un mot plié sur une demande reconsidérée avec une humilité visible et une intention de s'améliorer",
+    "themes": [
+      "Littéraire",
+      "Humilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensé à ce qui a mal tourné la dernière fois — je veux réessayer, mieux."
+    ]
+  },
+  {
+    "actionTitle": "Sur Ton Bureau",
+    "text": "Le petit coin tranquille que je garde habituellement pour moi t'est ouvert maintenant — viens découvrir ce qu'il y a vraiment dedans.",
+    "effect": "Inviter dans un refuge privé, plutôt que de s'isoler par défaut, résiste activement à ce réflexe. Elle trouve une porte ouverte sur quelque chose habituellement fermé, présenté comme une vraie invitation plutôt qu'une mention en passant.",
+    "sectionTitle": "Post-its - L'Heure Tranquille de Pemberley",
+    "predictable": "Les bureaux portent rarement un mot ouvrant explicitement un refuge habituellement privé comme une vraie invitation",
+    "themes": [
+      "Littéraire",
+      "Ouverture"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le coin tranquille que je garde pour moi t'est ouvert maintenant — viens voir."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Porte d'Entrée, En Sortant",
+    "text": "Je fais un vrai effort pour être chaleureux et présent ce soir, quelque part où je me retiendrais normalement — ça me coûte un peu, ça vaut le coup.",
+    "effect": "Avouer l'effort à l'avance, en sortant par la porte, garde une chaleur planifiée honnête plutôt que de la laisser paraître naturelle. On lui dit à l'avance que l'aisance de ce soir est gagnée, pas acquise.",
+    "sectionTitle": "Post-its - L'Heure Tranquille de Pemberley",
+    "predictable": "Les portes d'entrée portent rarement un mot avouant à l'avance que la chaleur de ce soir demandera un vrai effort délibéré",
+    "themes": [
+      "Littéraire",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fais un vrai effort pour être chaleureux ce soir, quelque part où je me retiendrais."
+    ]
+  },
+  {
+    "actionTitle": "Posé Sur une Enveloppe",
+    "text": "Tout ce qu'il y a dedans explique quelque chose que j'ai mal géré récemment — prends ton temps, aucune urgence à répondre.",
+    "effect": "Associer une explication écrite à une note retirant explicitement toute pression de réponse rapide laisse les mots faire leur travail en paix. Elle reçoit à la fois de la responsabilité et l'espace pour la recevoir à son rythme.",
+    "sectionTitle": "Post-its - L'Heure Tranquille de Pemberley",
+    "predictable": "Les enveloppes portent rarement un mot posé dessus donnant explicitement la permission de prendre son temps avant de répondre",
+    "themes": [
+      "Littéraire",
+      "Responsabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Tout ce qu'il y a dedans explique quelque chose mal géré — prends ton temps."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Rebord de Fenêtre",
+    "text": "Quelque chose de vrai et non adouci attend d'être dit à voix haute ce soir — je préviens, c'est intense, mais chaque mot est réel.",
+    "effect": "Signaler une honnêteté non adoucie sur un rebord de fenêtre, entre tous les endroits, rejoint l'intensité sauvage des landes tout en lui laissant une chance de s'y préparer. Elle trouve une vérité brute accompagnée d'un avertissement respectueux plutôt qu'une surprise brutale.",
+    "sectionTitle": "Post-its - La Lande Derrière la Fenêtre",
+    "predictable": "Les rebords de fenêtre portent rarement un mot signalant à l'avance une vérité non adoucie encore à venir ce soir",
+    "themes": [
+      "Littéraire",
+      "Intensité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quelque chose de vrai et non adouci attend d'être dit ce soir — je te préviens."
+    ]
+  },
+  {
+    "actionTitle": "Sous le Paillasson",
+    "text": "Ce que je ressens pour toi est honnêtement un peu trop pour être dit à voix haute parfois — l'écrire ici semblait un endroit plus sûr pour commencer.",
+    "effect": "Cacher une déclaration intense sous le paillasson, un endroit aussi peu glamour, rejoint une dévotion trop grande pour la conversation polie trouvant un débouché inattendu. Elle découvre l'intensité dans le coin le plus banal et négligé de la maison.",
+    "sectionTitle": "Post-its - La Lande Derrière la Fenêtre",
+    "predictable": "Les paillassons cachent rarement un mot avouant un sentiment trop intense pour être dit à voix haute, écrit à la place",
+    "themes": [
+      "Littéraire",
+      "Intensité"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce que je ressens pour toi est un peu trop parfois — plus sûr de l'écrire ici."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Tas de Courrier Indésirable",
+    "text": "Ce vieux truc entre nous qui n'a jamais vraiment été réglé — parlons-en vraiment cette semaine, au lieu de le laisser traîner.",
+    "effect": "Nommer une vieille affaire non résolue au milieu du courrier indésirable suggère qu'elle s'accumulait tranquillement avec d'autres choses laissées de côté. Elle trouve une vraie invitation à clore quelque chose d'ancien plutôt que de le laisser traîner encore.",
+    "sectionTitle": "Post-its - La Lande Derrière la Fenêtre",
+    "predictable": "Le courrier indésirable porte rarement un mot nommant une vieille affaire non résolue comme quelque chose à enfin régler cette semaine",
+    "themes": [
+      "Littéraire",
+      "Réparation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce vieux truc jamais réglé — parlons-en vraiment cette semaine, pas juste le laisser."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Porte du Frigo",
+    "text": "Je vais continuer à me montrer comme ça — pas seulement quand c'est facile ou excitant, à chaque fois, sans exception.",
+    "effect": "Une promesse explicite et autonome de constance, affichée à un endroit vu quotidiennement, transforme un schéma de soutien en un engagement clair et visible. Elle se souvient de la fiabilité chaque fois qu'elle prend quelque chose d'aussi ordinaire que le frigo.",
+    "sectionTitle": "Post-its - La Lande Derrière la Fenêtre",
+    "predictable": "Les portes de frigo portent rarement un mot autonome promettant explicitement de continuer à se montrer, sans exception",
+    "themes": [
+      "Littéraire",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je vais continuer à me montrer comme ça — à chaque fois, sans exception."
+    ]
+  },
+  {
+    "actionTitle": "Caché dans un Tiroir Rarement Ouvert",
+    "text": "Fait un petit truc privé qui parle juste de toi, gardé ici pour l'instant — demande-moi quand tu seras prête à savoir.",
+    "effect": "Cacher un objet privé et inexpliqué dans un tiroir rarement ouvert crée de l'anticipation autour d'un geste discret et durable. Elle trouve un avant-goût de quelque chose destiné à durer, gardé secret dans un endroit lui-même un peu oublié.",
+    "sectionTitle": "Post-its - La Lande Derrière la Fenêtre",
+    "predictable": "Les tiroirs rarement ouverts contiennent rarement un mot caché sur quelque chose de petit et privé fait juste pour elle",
+    "themes": [
+      "Littéraire",
+      "Permanence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fait un petit truc privé qui parle juste de toi, gardé ici pour l'instant."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Tirelire",
+    "text": "Je travaille tranquillement à corriger une habitude d'avarice chez moi — pas d'explication pour l'instant, juste curieux si tu remarques un truc bientôt.",
+    "effect": "Placer un mot sur l'auto-correction sur quelque chose littéralement lié à l'argent fait un clin d'œil ludique à la référence tout en gardant le changement réel et discret. Elle est invitée à remarquer un changement sans qu'on lui dise exactement quoi chercher.",
+    "sectionTitle": "Post-its - Le Grand Livre Réécrit",
+    "predictable": "Les tirelires portent rarement un mot sur la correction discrète d'une habitude d'avarice, sans encore expliquer ce qui a changé",
+    "themes": [
+      "Littéraire",
+      "Changement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je travaille tranquillement sur une habitude d'avarice — curieux si tu remarques."
+    ]
+  },
+  {
+    "actionTitle": "Dans un Vieil Album Photo",
+    "text": "Ce vieux souvenir de nous me revient sans arrêt ces derniers temps — recréons-en vraiment un petit bout ensemble bientôt.",
+    "effect": "Raviver un vieux souvenir dans l'album même qui le contient, puis proposer d'en recréer une partie, transforme la nostalgie en un vrai projet. Elle trouve à la fois le souvenir tendre et une invitation concrète au même endroit.",
+    "sectionTitle": "Post-its - Le Grand Livre Réécrit",
+    "predictable": "Les albums photo contiennent rarement un mot ravivant un vieux souvenir accompagné d'une proposition d'en recréer une partie bientôt",
+    "themes": [
+      "Littéraire",
+      "Nostalgie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce vieux souvenir de nous me revient sans arrêt — recréons-en un bout bientôt."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Couvercle de la Poubelle",
+    "text": "Je voulais aussi te remercier pour cette autre petite chose que tu as faite — différente d'avant, mais je l'ai remarquée aussi.",
+    "effect": "Un second remerciement distinct, laissé sur un endroit aussi peu glamour qu'un couvercle de poubelle, prouve que remarquer devient une routine plutôt qu'un moment unique mis en avant. Elle apprend que même les endroits les plus banals portent ton attention pour elle.",
+    "sectionTitle": "Post-its - Le Grand Livre Réécrit",
+    "predictable": "Les couvercles de poubelle portent rarement un mot remerciant pour une deuxième petite chose différente, remarquée après une première",
+    "themes": [
+      "Littéraire",
+      "Gratitude"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je voulais aussi te remercier pour cette autre petite chose — remarquée aussi."
+    ]
+  },
+  {
+    "actionTitle": "Scotché sur le Mois Suivant du Calendrier",
+    "text": "Je m'imagine déjà un avenir précis avec toi, en vrais détails — commençons vraiment à y travailler bientôt, pas juste en parler.",
+    "effect": "Décrire un avenir précis sur la page du mois suivant associe une vision pleine d'espoir à une intention concrète et datée d'agir. Elle trouve le rêve avec un vrai point de départ, plutôt que de rester abstrait.",
+    "sectionTitle": "Post-its - Le Grand Livre Réécrit",
+    "predictable": "Les calendriers portent rarement un mot sur un mois futur décrivant un avenir précis espéré accompagné d'une vraie intention d'agir",
+    "themes": [
+      "Littéraire",
+      "Avenir"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je m'imagine déjà un avenir précis avec toi — commençons à y travailler bientôt."
+    ]
+  },
+  {
+    "actionTitle": "Sur un Chapeau de Fête Vide",
+    "text": "Le petit truc joyeux de ce soir est arrivé encore une fois pour absolument aucune raison — preuve que la première fois n'était pas un coup de chance isolé.",
+    "effect": "Laisser un mot sur un accessoire de fête restant, faisant référence à un geste joyeux répété, prouve que la célébration peut devenir une vraie habitude plutôt qu'un excès rare. Elle se rappelle que la joie n'a pas besoin d'attendre une permission ou une occasion.",
+    "sectionTitle": "Post-its - Le Grand Livre Réécrit",
+    "predictable": "Les chapeaux de fête restants portent rarement un mot sur un geste joyeux répété sans raison, prouvant que ce n'était pas un coup de chance",
+    "themes": [
+      "Littéraire",
+      "Joie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le petit truc joyeux de ce soir est arrivé encore, sans raison — pas un coup de chance."
+    ]
+  },
+  {
+    "actionTitle": "À Côté de Sa Tasse Préférée",
+    "text": "Remarqué ce petit truc que tu fais toujours juste pour toi — j'adore vraiment ça chez toi, n'arrête jamais.",
+    "effect": "Placer un encouragement à son indépendance à côté de quelque chose qu'elle utilise seulement pour elle honore l'autonomie plutôt que d'essayer de l'absorber ou de la remplacer. Elle trouve son autosuffisance activement célébrée dans un petit coin personnel.",
+    "sectionTitle": "Post-its - Les Fleurs Qu'elle S'achèterait Elle-même",
+    "predictable": "Les tasses préférées n'ont rarement à côté un mot encourageant une petite habitude auto-offerte à continuer, sans y être invité",
+    "themes": [
+      "Littéraire",
+      "Indépendance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Remarqué ce petit truc que tu fais toujours pour toi — j'adore, continue."
+    ]
+  },
+  {
+    "actionTitle": "Dans le Livre d'Or de la Dernière Réunion",
+    "text": "C'était vraiment amusant, je ne dis pas ça juste pour être gentil — c'était quoi vraiment ton moment préféré de toute la soirée ?",
+    "effect": "Demander honnêtement ce qu'elle a aimé, écrit dans le livre d'or même de l'événement, confirme une vraie connexion plutôt qu'un accueil joué. Elle est invitée à définir ce qui a vraiment marché, dans un endroit dédié au souvenir partagé.",
+    "sectionTitle": "Post-its - Les Fleurs Qu'elle S'achèterait Elle-même",
+    "predictable": "Les livres d'or portent rarement un mot demandant honnêtement quel était vraiment son moment préféré de la réunion",
+    "themes": [
+      "Littéraire",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "C'était vraiment amusant — c'était quoi vraiment ton moment préféré ?"
+    ]
+  },
+  {
+    "actionTitle": "Sur la Page du Jour d'un Agenda",
+    "text": "Cette journée entière ensemble avait quelque chose de différent — curieux de savoir ce qui l'a vraiment rendue si particulière pour toi.",
+    "effect": "Réfléchir sur une journée précise, notée sur sa propre page d'agenda, transforme un simple cadeau de présence en une invitation à construire du sens ensemble. Elle est invitée à exprimer sa propre version de ce qui a compté ce jour-là.",
+    "sectionTitle": "Post-its - Les Fleurs Qu'elle S'achèterait Elle-même",
+    "predictable": "Les pages d'agenda portent rarement un mot réfléchissant à ce qui a précisément rendu cette journée différente des autres",
+    "themes": [
+      "Littéraire",
+      "Réflexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette journée avait quelque chose de différent — qu'est-ce qui l'a rendue si particulière ?"
+    ]
+  },
+  {
+    "actionTitle": "À l'Intérieur de Son Parapluie",
+    "text": "Je me demandais s'il y a un truc qui pèse tranquillement sur toi sans qu'on en ait parlé — je suis là, quand tu seras prête à en parler.",
+    "effect": "Cacher une vérification douce à l'intérieur d'un parapluie, quelque chose qu'on attrape les jours difficiles, fait discrètement correspondre le geste à l'humeur qu'il aborde. Elle trouve du soin qui l'attend exactement là où elle pourrait avoir besoin d'un abri, au sens propre comme au figuré.",
+    "sectionTitle": "Post-its - Le Poids Tu de Septimus",
+    "predictable": "Les parapluies contiennent rarement un mot vérifiant doucement un poids tranquillement porté, sans aucune pression attachée",
+    "themes": [
+      "Littéraire",
+      "Soin"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je me demandais s'il y a un truc qui pèse sur toi — je suis là, quand tu es prête."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Porte de la Chambre d'Amis",
+    "text": "Je repense à cette vieille tension entre nous, sans aucune amertume — réglons-la vraiment correctement, quand ça t'arrange.",
+    "effect": "Revisiter une vieille tension sur une porte associée à la distance ou à la séparation retourne le mot en une invitation à revenir plutôt qu'à s'éloigner davantage. Elle reçoit une réassurance sur le ton avant même que la conversation ne commence.",
+    "sectionTitle": "Post-its - Le Poids Tu de Septimus",
+    "predictable": "Les portes de chambre d'amis portent rarement un mot revisitant une vieille tension avec la précision explicite qu'il n'y a aucune amertume derrière",
+    "themes": [
+      "Littéraire",
+      "Réparation"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je repense à cette vieille tension, sans amertume — réglons-la vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Pèse-Personne",
+    "text": "Le truc que je t'ai envoyé tout à l'heure n'était pas une blague, au fait — chaque mot était sincère, je voulais que ce soit clair.",
+    "effect": "Confirmer la sincérité d'un message joueur sur quelque chose d'aussi neutre qu'un pèse-personne enlève tout doute persistant sans surcharger le moment de drame. Elle reçoit une clarté explicite dans un endroit inattendu et sans prétention.",
+    "sectionTitle": "Post-its - La Valentine Envoyée Par Jeu",
+    "predictable": "Les pèse-personnes portent rarement un mot confirmant qu'un message joueur précédent n'était pas une blague",
+    "themes": [
+      "Littéraire",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le truc envoyé tout à l'heure n'était pas une blague — chaque mot était sincère."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Boîte à Outils, Encore",
+    "text": "Réparé ce truc pour toi encore une fois — pas grand-chose, je voulais juste être utile, pas besoin de crédit du tout pour ça.",
+    "effect": "Une aide répétée et non créditée, notée sur l'outil même qui a fait le travail, transforme une aide isolée en un schéma délibéré et continu. Elle voit la fiabilité comme une valeur tranquille plutôt qu'une quête de reconnaissance.",
+    "sectionTitle": "Post-its - La Valentine Envoyée Par Jeu",
+    "predictable": "Les boîtes à outils portent rarement un mot sur une aide répétée et non créditée, écartant explicitement tout besoin de reconnaissance",
+    "themes": [
+      "Littéraire",
+      "Constance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Réparé ce truc pour toi encore — pas besoin de crédit du tout pour ça."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Porte-Parapluies",
+    "text": "C'était vraiment du bon travail d'équipe tout à l'heure, sous une vraie pression — je voulais le dire, on est vraiment doués pour ça.",
+    "effect": "Nommer explicitement le travail d'équipe sur le meuble même qui tient l'équipement de tempête lie soigneusement le compliment au fait d'avoir traversé quelque chose ensemble. Elle entend le partenariat lui-même valorisé, séparément du problème résolu.",
+    "sectionTitle": "Post-its - La Valentine Envoyée Par Jeu",
+    "predictable": "Les porte-parapluies portent rarement un mot faisant l'éloge explicite d'un bon travail d'équipe montré sous une vraie pression",
+    "themes": [
+      "Littéraire",
+      "Travail d'équipe"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "C'était vraiment du bon travail d'équipe tout à l'heure — on est doués pour ça."
+    ]
+  },
+  {
+    "actionTitle": "Dans un Tiroir de Vieux Reçus",
+    "text": "Je me suis surpris à me fixer bizarrement sur ta réaction à un truc aujourd'hui — je lâche prise, je voulais juste l'admettre honnêtement.",
+    "effect": "Cacher un aveu de fixation surprise parmi de vieux reçus banals minimise le moment plutôt que d'en faire un grand aveu. Elle découvre une conscience de soi honnête dans un endroit associé à un fouillis oubliable et trié.",
+    "sectionTitle": "Post-its - La Valentine Envoyée Par Jeu",
+    "predictable": "Les vieux reçus n'ont rarement rangé parmi eux un mot avouant une fixation malsaine et surprise sur sa réaction à quelque chose",
+    "themes": [
+      "Littéraire",
+      "Conscience de soi"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je me suis surpris à me fixer sur ta réaction aujourd'hui — je lâche prise."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Vide-Poche à Bagues",
+    "text": "Je pense toujours à ce truc que j'ai promis il y a un moment — je vais le prouver cette semaine avec quelque chose de réel, tu verras.",
+    "effect": "Réaffirmer un vieil engagement sur un vide-poche destiné aux bagues, entre tous les endroits, fait discrètement un clin d'œil aux promesses durables sans exagérer le moment. Elle trouve une intention renouvelée posée exactement là où l'engagement quotidien vit déjà.",
+    "sectionTitle": "Post-its - La Valentine Envoyée Par Jeu",
+    "predictable": "Les vide-poches à bagues portent rarement un mot réaffirmant une vieille promesse accompagné d'un plan pour la prouver bientôt",
+    "themes": [
+      "Littéraire",
+      "Engagement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je pense toujours à cette promesse d'il y a un moment — je vais le prouver."
+    ]
   }
 ]
