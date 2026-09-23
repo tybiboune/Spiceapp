@@ -474,31 +474,41 @@
         let cycleSettings = { cycleEnabled: false, lastPeriodDate: null };
 
         /**
-         * Computes the current 1..CYCLE_LENGTH cycle day from a "YYYY-MM-DD"
-         * last-period date, wrapping around every 28 days regardless of how
-         * long ago that date was.
+         * Real elapsed day count since the last logged period, 1-indexed —
+         * NOT wrapped to 1..CYCLE_LENGTH. Wrapping unconditionally (e.g. via
+         * a modulo) would silently declare a brand-new period every 28 days
+         * even when none was actually logged, which is wrong and misleading
+         * (a cycle running to day 29 would show as "Règles jour 2").
          */
         function getCycleDay(lastPeriodDate) {
             const start = new Date(lastPeriodDate + 'T00:00:00');
             const today = new Date();
             today.setHours(0, 0, 0, 0);
             const diffDays = Math.floor((today - start) / 86400000);
-            return ((diffDays % CYCLE_LENGTH) + CYCLE_LENGTH) % CYCLE_LENGTH + 1;
+            return diffDays + 1;
         }
 
         /**
-         * Which phase(s) are "active" for a given cycle day. Normally just
-         * one, but within 1 day of a phase boundary (the "période charnière"
-         * between two periods) both neighboring phases are included, so the
-         * shown cards blend rather than snapping abruptly from one profile
-         * to the next.
+         * Which phase(s) are "active" for a given real cycle day. Normally
+         * just one, but within 1 day of a phase boundary inside the modeled
+         * 28-day window (the "période charnière" between two phases,
+         * including the natural day 28 → day 1 handoff into a new period)
+         * both neighboring phases are included, so the shown cards blend
+         * rather than snapping abruptly. Once the real day count runs past
+         * CYCLE_LENGTH with no new period logged, this stops wrapping back
+         * to "Règles" (that would fabricate a period that was never
+         * confirmed) and instead stays on the last modeled phase.
          */
         function getActivePhases(cycleDay) {
+            if (cycleDay > CYCLE_LENGTH) {
+                return [CYCLE_PHASES[CYCLE_PHASES.length - 1]];
+            }
+            const lookupDay = Math.max(cycleDay, 1);
             const pad = 1;
             return CYCLE_PHASES.filter(phase => {
                 for (let d = phase.range[0] - pad; d <= phase.range[1] + pad; d++) {
                     const normalized = ((d - 1) % CYCLE_LENGTH + CYCLE_LENGTH) % CYCLE_LENGTH + 1;
-                    if (normalized === cycleDay) return true;
+                    if (normalized === lookupDay) return true;
                 }
                 return false;
             });
@@ -569,7 +579,8 @@
                 const cycleDay = getCycleDay(cycleSettings.lastPeriodDate);
                 const activePhases = getActivePhases(cycleDay);
                 const label = activePhases.map(p => p.label).join(' → ');
-                cyclePhaseBadge.textContent = `${label} (jour ${cycleDay})`;
+                const overdueNote = cycleDay > CYCLE_LENGTH ? ' — cycle plus long que d\'habitude, pense à mettre la date à jour dès tes prochaines règles' : '';
+                cyclePhaseBadge.textContent = `${label} (jour ${cycleDay})${overdueNote}`;
                 cyclePhaseBadge.classList.remove('hidden');
             } else {
                 cyclePhaseBadge.classList.add('hidden');
