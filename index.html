@@ -543,6 +543,13 @@
             }
         }
 
+        // Bumped on every persistCycleSettings() call so a response that
+        // resolves out of order (e.g. the user taps the toggle twice in a
+        // row on a slow connection) can't overwrite the UI with stale data
+        // once a newer request has already landed — this is what could make
+        // the cycle toggle appear to silently revert.
+        let cycleSettingsRequestId = 0;
+
         /**
          * Persists a settings change to the server in the background.
          * Deliberately NOT awaited by callers before rendering: all the data
@@ -554,12 +561,17 @@
          * the toggle feel instant.
          */
         async function persistCycleSettings(partial) {
+            const requestId = ++cycleSettingsRequestId;
             try {
                 const response = await fetch('/api/settings', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify(partial)
                 });
+                // A newer call already started (and will reconcile on its
+                // own) — applying this older response now would revert
+                // whatever the user did since.
+                if (requestId !== cycleSettingsRequestId) return;
                 // Reconcile with whatever the server actually stored. On
                 // failure, just keep the optimistic value the caller already
                 // applied and rendered — nothing to roll back to, since we
@@ -876,7 +888,26 @@
         /**
          * Renders the action cards based on current filters and sorting.
          */
-        function renderActions() {
+        // How many cards get built/inserted into the DOM at a time. Building
+        // the full innerHTML for a whole category (up to ~1200+ cards) in one
+        // go is what caused the lag switching categories or toggling cycle
+        // mode, especially on phones — instead only this many render up
+        // front, and the rest load in as the user scrolls near the bottom
+        // (same idea as an Instagram-style feed), via the IntersectionObserver
+        // sentinel set up in setupLoadMoreSentinelIfNeeded().
+        const RENDER_BATCH_SIZE = 30;
+        let renderedFilteredActions = [];
+        let renderedCount = 0;
+        let loadMoreObserver = null;
+
+        /**
+         * Renders the action cards based on current filters and sorting.
+         * `resetPagination` (default true) starts over from the first batch —
+         * pass false to keep whatever's already loaded (used by the done/
+         * variation toggle handlers, so ticking a checkbox doesn't collapse
+         * cards the user already scrolled past back down to just batch one).
+         */
+        function renderActions(resetPagination = true) {
             let filteredActions = allActions.filter(a => a.category === currentCategory);
 
             // Apply filters
@@ -907,25 +938,93 @@
                 default: filteredActions.sort((a, b) => a.id - b.id);
             }
 
-            if (filteredActions.length === 0) {
-                actionsList.innerHTML = `<div class="md:col-span-2 xl:col-span-3 text-center py-12 bg-white rounded-lg shadow-sm border">
-                    <h3 class="text-xl font-semibold text-slate-700">No actions match your filters.</h3>
-                    <p class="text-slate-500 mt-2">Try adjusting your filter settings.</p>
-                </div>`;
+            renderedFilteredActions = filteredActions;
+            if (resetPagination) {
+                paintFreshBatch();
             } else {
-                // Build the whole HTML string once and assign it once: using
-                // `innerHTML +=` in a loop forces the browser to re-serialize
-                // and re-parse the entire accumulated markup on every single
-                // iteration (O(n²)), which is what caused the multi-second
-                // lag when switching back to a tab with hundreds of cards.
-                actionsList.innerHTML = filteredActions.map(createActionCard).join('');
+                // Keep whatever was already on screen (clamped: a toggle can
+                // shrink the set under a status filter of "new"/"done").
+                renderedCount = Math.min(Math.max(renderedCount, RENDER_BATCH_SIZE), filteredActions.length);
+                repaintLoadedSlice();
             }
-            applyIndeterminateStates();
+
             const categoryTotal = allActions.filter(a => a.category === currentCategory).length;
             const categoryLabels = { ACTIONS: 'actions', SMS: 'SMS', POSTITS: 'post-its' };
             const phaseSuffix = activePhaseLabel ? ` — période : ${activePhaseLabel}` : '';
             actionsCount.textContent = `Showing ${filteredActions.length} of ${categoryTotal} ${categoryLabels[currentCategory] || 'items'}.${phaseSuffix}`;
             updateProgress();
+        }
+
+        function noResultsHtml() {
+            return `<div class="md:col-span-2 xl:col-span-3 text-center py-12 bg-white rounded-lg shadow-sm border">
+                <h3 class="text-xl font-semibold text-slate-700">No actions match your filters.</h3>
+                <p class="text-slate-500 mt-2">Try adjusting your filter settings.</p>
+            </div>`;
+        }
+
+        function clearLoadMoreSentinel() {
+            if (loadMoreObserver) {
+                loadMoreObserver.disconnect();
+                loadMoreObserver = null;
+            }
+            const existing = document.getElementById('load-more-sentinel');
+            if (existing) existing.remove();
+        }
+
+        /** Full repaint starting at batch one — used on category/filter/search/cycle changes. */
+        function paintFreshBatch() {
+            clearLoadMoreSentinel();
+            if (renderedFilteredActions.length === 0) {
+                actionsList.innerHTML = noResultsHtml();
+                renderedCount = 0;
+                applyIndeterminateStates();
+                return;
+            }
+            const firstBatch = renderedFilteredActions.slice(0, RENDER_BATCH_SIZE);
+            actionsList.innerHTML = firstBatch.map(createActionCard).join('');
+            renderedCount = firstBatch.length;
+            applyIndeterminateStates();
+            setupLoadMoreSentinelIfNeeded();
+        }
+
+        /** Repaints exactly the slice already loaded (0..renderedCount) — used after a done/variation toggle. */
+        function repaintLoadedSlice() {
+            clearLoadMoreSentinel();
+            if (renderedFilteredActions.length === 0) {
+                actionsList.innerHTML = noResultsHtml();
+                renderedCount = 0;
+                applyIndeterminateStates();
+                return;
+            }
+            const slice = renderedFilteredActions.slice(0, renderedCount);
+            actionsList.innerHTML = slice.map(createActionCard).join('');
+            applyIndeterminateStates();
+            setupLoadMoreSentinelIfNeeded();
+        }
+
+        /** Appends the next batch to the DOM (not a full rebuild) once the sentinel scrolls into view. */
+        function loadMoreAppend() {
+            clearLoadMoreSentinel();
+            const nextSlice = renderedFilteredActions.slice(renderedCount, renderedCount + RENDER_BATCH_SIZE);
+            actionsList.insertAdjacentHTML('beforeend', nextSlice.map(createActionCard).join(''));
+            renderedCount += nextSlice.length;
+            applyIndeterminateStates();
+            setupLoadMoreSentinelIfNeeded();
+        }
+
+        function setupLoadMoreSentinelIfNeeded() {
+            if (renderedCount >= renderedFilteredActions.length) return;
+            const sentinel = document.createElement('div');
+            sentinel.id = 'load-more-sentinel';
+            sentinel.className = 'md:col-span-2 xl:col-span-3 py-6 text-center text-slate-400 text-sm';
+            sentinel.textContent = 'Chargement…';
+            actionsList.appendChild(sentinel);
+            // rootMargin loads the next batch a bit before the sentinel is
+            // actually on screen, so scrolling never visibly outruns it.
+            loadMoreObserver = new IntersectionObserver((entries) => {
+                if (entries.some(entry => entry.isIntersecting)) loadMoreAppend();
+            }, { rootMargin: '800px 0px' });
+            loadMoreObserver.observe(sentinel);
         }
 
         /**
@@ -1312,8 +1411,9 @@
                     allActions[actionIndex].isDone = !!updatedAction.isDone;
                 }
 
-                // Re-render the view to reflect the change
-                renderActions();
+                // Re-render the view to reflect the change (without resetting
+                // pagination back to batch one — see renderActions() doc).
+                renderActions(false);
                 persistActionsCache();
                 if (!modal.classList.contains('hidden') && currentModalActionId === actionId) {
                     showDetails(actionId);
@@ -1356,7 +1456,7 @@
                 action.isDone = targetState;
                 action.variations = action.variations.map(v => ({ ...v, isDone: targetState }));
 
-                renderActions();
+                renderActions(false);
                 persistActionsCache();
                 if (!modal.classList.contains('hidden') && currentModalActionId === actionId) {
                     showDetails(actionId);
@@ -1388,7 +1488,7 @@
                 // Re-render the card list too: the card's "Done" badge/state
                 // for this action is derived from the whole group (original
                 // + variations), so a variation toggle can change it.
-                renderActions();
+                renderActions(false);
                 persistActionsCache();
                 if (!modal.classList.contains('hidden') && currentModalActionId === actionId) {
                     showDetails(actionId);
