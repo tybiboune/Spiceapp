@@ -17697,203 +17697,11 @@
     ]
   },
   {
-    "actionTitle": "Le Texto Avant le Bal de Natacha",
-    "text": "Je me prépare pour absolument rien ce soir, juste pour toi — mets la belle chemise si tu veux assortir.",
-    "effect": "Annoncer un effort inutile pour une soirée ordinaire transforme une soirée banale en événement par simple message. Elle reçoit une anticipation pour quelque chose qui serait autrement passé inaperçu.",
-    "sectionTitle": "SMS - Le Bal des Rostov, Encore",
-    "predictable": "Se préparer est rarement annoncé par texto pour une soirée sans occasion réelle derrière",
-    "themes": [
-      "Littéraire",
-      "Anticipation"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je me prépare pour rien ce soir, juste pour toi — mets la belle chemise aussi."
-    ]
-  },
-  {
-    "actionTitle": "Le Petit Texto de Sonia",
-    "text": "J'ai fait un truc pour toi aujourd'hui, je ne dis pas quoi — tu le trouveras, ou pas, ça valait le coup quand même.",
-    "effect": "Une bonne action délibérément non expliquée transforme un geste discret en petit mystère. Elle reçoit de la curiosité associée à la certitude que quelque chose de gentil l'attend.",
-    "sectionTitle": "SMS - Le Bal des Rostov, Encore",
-    "predictable": "Une bonne action est rarement annoncée par texto en cachant délibérément ce qu'elle était",
-    "themes": [
-      "Littéraire",
-      "Dévotion"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "J'ai fait un truc pour toi aujourd'hui, je ne dis pas quoi — tu le trouveras."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto du Retour d'André",
-    "text": "Presque à la maison, et ça semble plus important que ça ne devrait — comme si j'étais parti plus longtemps.",
-    "effect": "Traiter un retour ordinaire avec un poids émotionnel non mérité rend sa présence soudain précieuse plutôt que routinière. Elle reçoit une petite escalade sincère de sentiment attachée à quelque chose de banal.",
-    "sectionTitle": "SMS - Le Bal des Rostov, Encore",
-    "predictable": "Un retour ordinaire est rarement décrit par texto comme semblant plus important que prévu",
-    "themes": [
-      "Littéraire",
-      "Gratitude"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Presque à la maison, et ça semble plus important que ça ne devrait."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto du Cran de Nikolaï",
-    "text": "Je vais faire le truc qui me fait un peu peur — je voulais que tu le saches, au cas où je perde courage.",
-    "effect": "Annoncer un moment de courage avant qu'il n'arrive l'invite dans la vulnérabilité de la tentative, pas juste son résultat. Elle devient témoin du cran lui-même, pas seulement du résultat.",
-    "sectionTitle": "SMS - Le Bal des Rostov, Encore",
-    "predictable": "Un moment de cran est rarement annoncé par texto avant d'arriver, seulement raconté après coup",
-    "themes": [
-      "Littéraire",
-      "Courage"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je vais faire le truc qui me fait peur — je voulais que tu le saches."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de l'Honnêteté Lente de Pierre",
-    "text": "Il y a un truc que je veux te dire, je le garde depuis un moment — pas grave, juste besoin de trouver les mots.",
-    "effect": "Avouer qu'un aveu est encore en train de se former, plutôt que de rester silencieux jusqu'à ce qu'il soit parfait, rejoint une honnêteté lente et hésitante plutôt qu'une performance. Elle reçoit un avertissement honnête que quelque chose de vrai arrive.",
-    "sectionTitle": "SMS - Le Bal des Rostov, Encore",
-    "predictable": "Un aveu encore en cours de formulation est rarement annoncé par texto avant d'être vraiment prêt à dire",
-    "themes": [
-      "Littéraire",
-      "Sincérité"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Il y a un truc que je veux te dire depuis un moment — juste besoin des mots."
-    ]
-  },
-  {
-    "actionTitle": "La Réponse Tardive d'Onéguine",
-    "text": "Je me suis rendu compte que je n'ai jamais vraiment répondu à ce que tu m'as dit la semaine dernière — j'y pense, bientôt.",
-    "effect": "Avouer une réponse en retard par texto, plutôt que de la laisser disparaître en silence, montre que l'ancienne conversation n'a jamais vraiment été oubliée. Elle apprend que ses mots sont encore retournés dans ta tête, même une semaine après.",
-    "sectionTitle": "SMS - La Lettre Tardive",
-    "predictable": "Une réponse en retard est rarement avouée par texto avant que la vraie réponse ne soit vraiment donnée",
-    "themes": [
-      "Littéraire",
-      "Attention"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je me suis rendu compte que je n'ai jamais répondu à la semaine dernière — j'y pense."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Retenue",
-    "text": "J'ai failli laisser ça dégénérer tout à l'heure — j'ai choisi de ne pas le faire, exprès, je voulais que tu saches que c'était un choix.",
-    "effect": "Nommer une escalade évitée délibérément après coup montre que la retenue est une décision active, pas un coup de chance. Elle apprend que le calme n'était pas accidentel, il a été choisi sur le moment.",
-    "sectionTitle": "SMS - La Lettre Tardive",
-    "predictable": "Une dispute évitée délibérément est rarement expliquée après coup par texto comme un choix conscient",
-    "themes": [
-      "Littéraire",
-      "Retenue"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "J'ai failli laisser ça dégénérer tout à l'heure — j'ai choisi de ne pas le faire."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Cérémonie Sans Raison",
-    "text": "J'allume des bougies ce soir pour absolument aucune occasion — encore — parce que la première fois n'était pas un coup isolé.",
-    "effect": "Répéter une petite cérémonie spontanée, en précisant que ce n'est pas un coup isolé, transforme l'effort en habitude plutôt qu'exception spéciale. Elle voit le geste comme une habitude qui s'installe, pas un unique excès.",
-    "sectionTitle": "SMS - La Lettre Tardive",
-    "predictable": "Une petite cérémonie spontanée est rarement répétée et explicitement décrite par texto comme n'étant pas un coup isolé",
-    "themes": [
-      "Littéraire",
-      "Cérémonie"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "J'allume des bougies encore ce soir pour rien — la première fois n'était pas isolée."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Vérité Simple",
-    "text": "Je n'attends plus le bon moment — tu comptes pour moi plus que ce que je dis d'habitude à voix haute.",
-    "effect": "Une déclaration simple, envoyée sans attendre une occasion spéciale, évite le classique regret d'une vérité arrivée trop tard. Elle reçoit une sincérité livrée un jour ordinaire, sans autre raison que d'être vraie.",
-    "sectionTitle": "SMS - La Lettre Tardive",
-    "predictable": "Une déclaration simple est rarement envoyée par texto un jour ordinaire, sans occasion derrière",
-    "themes": [
-      "Littéraire",
-      "Déclaration"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je n'attends plus le bon moment — tu comptes plus que ce que je dis d'habitude."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Seconde Chance",
-    "text": "Je repense à ce truc que j'ai mal géré avant — je veux réessayer, mieux cette fois, si tu es partante.",
-    "effect": "Demander explicitement à réessayer quelque chose mal géré avant montre de l'humilité plutôt que d'espérer que ce soit oublié. Elle voit l'évolution dite clairement plutôt que supposée.",
-    "sectionTitle": "SMS - La Lettre Tardive",
-    "predictable": "Une erreur passée est rarement suivie par texto d'une demande explicite de réessayer correctement",
-    "themes": [
-      "Littéraire",
-      "Humilité"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je repense à ce truc mal géré avant — je veux réessayer, mieux, cette fois."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto d'Adieu de la Cerisaie",
-    "text": "Je pense à comment cette saison entre nous touche presque à sa fin — je veux qu'on la remarque vraiment, pas qu'elle nous file entre les doigts.",
-    "effect": "Nommer une fin avant qu'elle n'arrive montre une attention intentionnelle au temps qui passe ensemble. Elle reçoit une invitation à marquer le moment ensemble plutôt que de le perdre en silence.",
-    "sectionTitle": "SMS - Un Été de Plus dans le Verger",
-    "predictable": "Une fin est rarement nommée par texto avant d'arriver, spécifiquement pour s'assurer qu'elle soit remarquée",
-    "themes": [
-      "Littéraire",
-      "Nostalgie"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Cette saison entre nous touche presque à sa fin — remarquons-la vraiment."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Réparation Discrète",
-    "text": "J'ai réglé ce truc dont tu t'occupais — je ne voulais pas en faire toute une annonce, juste que ce soit fait.",
-    "effect": "Régler discrètement un problème pratique, mentionné brièvement, rejoint un soin concret plutôt qu'un grand geste romantique. Elle reçoit un soulagement livré sans tambour ni éloge attendu.",
-    "sectionTitle": "SMS - Un Été de Plus dans le Verger",
-    "predictable": "Un problème pratique réglé discrètement est rarement mentionné par texto aussi brièvement, sans en faire une annonce",
-    "themes": [
-      "Littéraire",
-      "Soin"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "J'ai réglé ce truc dont tu t'occupais — je ne voulais pas en faire une annonce."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto du Silence Partagé",
-    "text": "Je repense à ce silence tranquille qu'on a eu tout à l'heure — je me demande à quoi tu pensais vraiment.",
-    "effect": "Faire un suivi d'un silence partagé avec une vraie curiosité transforme un moment passif en une conversation intime différée. Elle apprend que le silence n'était pas vide pour toi, il a été remarqué.",
-    "sectionTitle": "SMS - Un Été de Plus dans le Verger",
-    "predictable": "Un silence partagé est rarement suivi par texto d'une vraie curiosité sur ce à quoi elle pensait vraiment",
+    "actionTitle": "Le Texto de l'Air Qui Change",
+    "text": "Ça sent le changement de saison dehors — ça te dit une marche improvisée tout à l'heure, sans but précis ?",
+    "effect": "Proposer une sortie improvisée liée au changement de saison capte un émerveillement simple face au monde qui change. Elle reçoit une invitation spontanée plutôt qu'un plan réfléchi à l'avance.",
+    "sectionTitle": "SMS - La Première Neige",
+    "predictable": "Un changement de saison est rarement suivi par texto d'une proposition immédiate de sortie improvisée",
     "themes": [
       "Littéraire",
       "Présence"
@@ -17901,207 +17709,63 @@
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "Je repense à ce silence tranquille tout à l'heure — à quoi tu pensais vraiment ?"
+      "Ça sent le changement de saison — une marche improvisée tout à l'heure ?"
     ]
   },
   {
-    "actionTitle": "Le Texto du Changement Plein d'Espoir",
-    "text": "Je repense à ce truc qu'on fait toujours pareil — j'aimerais vraiment essayer de le changer cette semaine, ensemble.",
-    "effect": "Proposer un changement avec espoir plutôt qu'avec nostalgie incarne un optimisme tourné vers l'avenir plutôt que le deuil de ce qui se termine. Elle reçoit une invitation à construire du neuf plutôt qu'à simplement constater ce qui s'efface.",
-    "sectionTitle": "SMS - Un Été de Plus dans le Verger",
-    "predictable": "Une routine qui s'essouffle est rarement suivie par texto d'une proposition concrète de la changer cette même semaine",
+    "actionTitle": "Le Texto du Renoncement Discret",
+    "text": "Ai laissé tomber un truc que je voulais faire aujourd'hui pour te laisser choisir à la place — pas grave du tout, voulais juste te le dire après coup.",
+    "effect": "Avouer un petit renoncement après coup, plutôt que de le taire, transforme un sacrifice invisible en un aveu de confiance sans jamais l'avoir présenté comme un chantage silencieux. Elle apprend la générosité sans en avoir eu à deviner l'existence.",
+    "sectionTitle": "SMS - La Première Neige",
+    "predictable": "Un petit renoncement discret est rarement avoué par texto après coup, une fois qu'il n'a plus d'effet sur la décision",
     "themes": [
       "Littéraire",
-      "Espoir"
+      "Générosité"
     ],
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "Je repense à ce truc qu'on fait toujours pareil — on essaie de le changer cette semaine ?"
+      "Ai laissé tomber un truc aujourd'hui pour te laisser choisir — voulais te le dire."
     ]
   },
   {
-    "actionTitle": "Le Texto de la Prévoyance",
-    "text": "J'ai vu ce truc venir de loin et je l'ai réglé avant que ça ne devienne un problème — de rien, pas grand-chose.",
-    "effect": "Mentionner avec légèreté un problème évité, plutôt que de garder le silence, montre une prévoyance digne d'être nommée sans en faire trop. Elle apprend que les problèmes sont attrapés tôt, avec humour plutôt qu'autosatisfaction.",
-    "sectionTitle": "SMS - Un Été de Plus dans le Verger",
-    "predictable": "Un problème évité est rarement mentionné avec légèreté par texto après coup, plutôt que caché ou annoncé sérieusement",
+    "actionTitle": "Le Texto du Courage du Matin",
+    "text": "Ai fait ce matin le truc que je repoussais depuis un moment, sans trop réfléchir — je te raconte ce soir comment ça s'est vraiment passé.",
+    "effect": "Annoncer une action accomplie et promettre un récit honnête le soir même transforme un élan impulsif en un vrai moment de partage prévu. Elle reçoit à la fois la nouvelle et l'anticipation d'un récit sincère à venir.",
+    "sectionTitle": "SMS - La Première Neige",
+    "predictable": "Une chose repoussée depuis longtemps est rarement suivie par texto d'une promesse explicite d'un récit honnête le soir même",
     "themes": [
       "Littéraire",
-      "Prévoyance"
+      "Courage"
     ],
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "J'ai vu ce truc venir et je l'ai réglé avant que ça ne devienne un problème."
+      "Ai fait ce matin le truc que je repoussais — je te raconte ce soir comment c'était."
     ]
   },
   {
-    "actionTitle": "Le Texto d'Anna Depuis le Quai",
-    "text": "Debout ici, à penser à toi sans aucune distraction pour une fois — rare, je voulais que tu le saches.",
-    "effect": "Rapporter un moment d'attention totale, même à distance, inverse la tragédie de distraction du roman en rendant la pleine présence explicitement remarquée et nommée. Elle reçoit la preuve qu'un rare moment de concentration t'a été entièrement consacré.",
-    "sectionTitle": "SMS - Le Quai de la Gare",
-    "predictable": "Un moment d'attention totale est rarement rapporté par texto justement parce qu'il est assez rare pour être mentionné",
+    "actionTitle": "Le Texto de la Question Laissée Ouverte",
+    "text": "Cette question qu'on n'a pas tranchée tout à l'heure, prends ton temps pour y penser — on en reparle calmement demain, pas d'urgence.",
+    "effect": "Laisser explicitement une question en suspens, avec un délai proposé pour y revenir, montre un respect du rythme de réflexion de l'autre plutôt qu'une exigence de réponse immédiate. Elle reçoit de l'espace accompagné d'une promesse d'y revenir, pas un sujet abandonné.",
+    "sectionTitle": "SMS - La Première Neige",
+    "predictable": "Une question laissée en suspens est rarement suivie par texto d'un délai explicite proposé pour y revenir calmement",
     "themes": [
       "Littéraire",
-      "Attention"
+      "Patience"
     ],
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "Debout ici, à penser à toi sans aucune distraction pour une fois — rare."
+      "Cette question qu'on n'a pas tranchée, prends ton temps — on en reparle demain."
     ]
   },
   {
-    "actionTitle": "Le Texto de la Curiosité de Lévine",
-    "text": "Ce que tu as dit sur comment tu vois ça — j'y pense encore, j'aimerais en entendre plus quand tu as le temps.",
-    "effect": "Faire un suivi de quelque chose mal compris, plutôt que de le laisser tomber, rejoint une curiosité humble plutôt qu'une supposition facile. Elle sent sa vie intérieure activement revisitée, pas juste poliment écoutée une fois.",
-    "sectionTitle": "SMS - Le Quai de la Gare",
-    "predictable": "Quelque chose de mal compris est rarement suivi par texto plus tard pour en entendre davantage",
-    "themes": [
-      "Littéraire",
-      "Curiosité"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Ce que tu as dit sur comment tu vois ça — j'y pense encore, dis-m'en plus."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Constance de Kitty",
-    "text": "J'ai remarqué comme tu es restée calme tout à l'heure — c'était vraiment impressionnant, je voulais le dire clairement.",
-    "effect": "Nommer précisément sa constance, plutôt que de la laisser passer inaperçue, honore une compétence tranquille plutôt que de ne célébrer que le drame. Elle reçoit une reconnaissance pour quelque chose trop souvent tenu pour acquis.",
-    "sectionTitle": "SMS - Le Quai de la Gare",
-    "predictable": "Son calme face à une petite crise est rarement nommé précisément et complimenté ensuite par texto",
-    "themes": [
-      "Littéraire",
-      "Reconnaissance"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "J'ai remarqué comme tu es restée calme tout à l'heure — vraiment impressionnant."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto Au-delà de l'Apparence",
-    "text": "Je pense à quel point j'aime la façon dont ton esprit fonctionne, honnêtement, plus que tout le reste chez toi.",
-    "effect": "Complimenter quelque chose au-delà de l'apparence contrecarre délibérément l'attention superficielle. Un compliment précis et non sollicité sur son esprit prouve une attention continue plutôt qu'une phrase répétée.",
-    "sectionTitle": "SMS - Le Quai de la Gare",
-    "predictable": "Un compliment sur la façon dont son esprit fonctionne est rarement envoyé par texto, sans y être invité, un jour ordinaire",
-    "themes": [
-      "Littéraire",
-      "Compliment"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je pense à quel point j'aime la façon dont ton esprit fonctionne, honnêtement."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Vérité Honnête",
-    "text": "Il y a un truc qui me trotte dans la tête aujourd'hui, je veux vraiment te le dire, pas l'enterrer — on en parle plus tard ?",
-    "effect": "Annoncer une vérité inconfortable avant de la livrer, plutôt que de rester silencieux, prend l'honnêteté brute et lui donne une structure sûre et responsable. Elle reçoit un avertissement honnête et une vraie invitation à en discuter.",
-    "sectionTitle": "SMS - Le Quai de la Gare",
-    "predictable": "Un sentiment inconfortable est rarement annoncé par texto comme quelque chose à discuter, plutôt que laissé sans mot",
-    "themes": [
-      "Littéraire",
-      "Honnêteté"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Il y a un truc qui me trotte dans la tête, je veux t'en parler — plus tard ?"
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Question de l'Ancien",
-    "text": "Qu'est-ce qui compte vraiment le plus pour toi ces temps-ci — pas une question pour meubler, je veux vraiment savoir.",
-    "effect": "Une question profonde, marquée comme sincère plutôt que du bavardage, rejoint une curiosité patiente et sans hâte envers une autre personne. Elle reçoit une invitation à répondre honnêtement plutôt que superficiellement.",
-    "sectionTitle": "SMS - La Question de l'Ancien",
-    "predictable": "Une question profonde sur la vie est rarement envoyée par texto avec une précision explicite qu'elle n'est pas du bavardage",
-    "themes": [
-      "Littéraire",
-      "Curiosité"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Qu'est-ce qui compte vraiment le plus pour toi ces temps-ci, sincèrement ?"
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de l'Écoute d'Aliocha",
-    "text": "Comment ça s'est terminé, ce truc dont tu te plaignais — je me suis posé la question depuis que tu m'en as parlé.",
-    "effect": "Faire un suivi des jours plus tard sur quelque chose dont elle s'est plainte montre que l'écoute avait une vraie durée au-delà du moment offert. Elle apprend que ses frustrations sont retenues, pas juste poliment absorbées.",
-    "sectionTitle": "SMS - La Question de l'Ancien",
-    "predictable": "Quelque chose dont elle s'est plainte est rarement suivi par texto des jours plus tard avec une question précise sur sa résolution",
-    "themes": [
-      "Littéraire",
-      "Écoute"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Comment ça s'est terminé, ce truc dont tu te plaignais ? J'y ai repensé."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto du Silence Choisi",
-    "text": "Je voulais défendre mon point tout à l'heure mais je l'ai laissé filer exprès — je voulais que tu saches que c'était voulu.",
-    "effect": "Expliquer un silence choisi après coup transforme la retenue en un acte lisible de respect plutôt qu'un évitement passif. Elle apprend que le silence n'était pas de l'indifférence, c'était une décision prise pour elle.",
-    "sectionTitle": "SMS - La Question de l'Ancien",
-    "predictable": "Un silence choisi pendant un désaccord est rarement expliqué après coup par texto comme un choix délibéré et respectueux",
-    "themes": [
-      "Littéraire",
-      "Retenue"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je voulais défendre mon point tout à l'heure mais je l'ai laissé filer, exprès."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto du Téméraire et du Stable",
-    "text": "J'ai fait un truc un peu téméraire pour toi aujourd'hui — demain, un truc calme et ennuyeux, promis, les deux comptent.",
-    "effect": "Associer un geste téméraire à une promesse de stabilité tranquille montre que l'intensité et la fiabilité sont deux facettes du même engagement. Elle reçoit l'assurance que la passion ne se fera pas au détriment de la constance.",
-    "sectionTitle": "SMS - La Question de l'Ancien",
-    "predictable": "Un geste téméraire est rarement associé par texto à une promesse explicite de stabilité tranquille à venir",
-    "themes": [
-      "Littéraire",
-      "Dévotion"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Fait un truc téméraire pour toi aujourd'hui — demain, un truc calme, promis."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de l'Aveu Retenu",
-    "text": "Il y a un truc que j'ai été trop fier pour dire — je vais le dire correctement bientôt, je voulais que tu t'y attendes.",
-    "effect": "Signaler un aveu retenu avant de le livrer évite la tragédie de l'orgueil qui enterre la vérité indéfiniment. Elle reçoit un avertissement honnête que la vulnérabilité arrive, plutôt qu'un silence qui s'étire sans explication.",
-    "sectionTitle": "SMS - La Question de l'Ancien",
-    "predictable": "Un aveu longtemps retenu est rarement signalé par texto à l'avance, avant d'être vraiment livré",
-    "themes": [
-      "Littéraire",
-      "Honnêteté"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Il y a un truc que j'ai été trop fier pour dire — je vais le dire bientôt."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Fierté de Pemberley",
-    "text": "Je t'ai montré ce truc dont je suis tranquillement fier aujourd'hui — vraiment curieux de savoir ce que tu en penses.",
-    "effect": "Faire un suivi avec une question directe sur sa vraie réaction comble un vide laissé ouvert par la source littéraire. Elle apprend que montrer ne suffisait pas — la réaction honnête compte vraiment pour toi.",
-    "sectionTitle": "SMS - L'Heure Tranquille de Pemberley",
-    "predictable": "Une chose montrée discrètement est rarement suivie par texto d'une question directe sur sa vraie réaction",
+    "actionTitle": "Le Texto du Compte Rendu Honnête",
+    "text": "Il y a un truc de ma journée que je garde d'habitude pour moi — je te le raconte ce soir, en détail cette fois.",
+    "effect": "Annoncer à l'avance qu'un moment habituellement tu sera partagé en détail montre une vulnérabilité assumée plutôt qu'un aveu qui échappe par accident. Elle reçoit une promesse d'ouverture avant même que la conversation n'ait lieu.",
+    "sectionTitle": "SMS - La Première Neige",
+    "predictable": "Un moment habituellement gardé pour soi est rarement annoncé par texto à l'avance comme devant être raconté en détail",
     "themes": [
       "Littéraire",
       "Vulnérabilité"
@@ -18109,63 +17773,143 @@
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "Je t'ai montré ce truc dont je suis fier — qu'est-ce que tu en penses vraiment ?"
+      "Il y a un truc que je garde d'habitude pour moi — je te le raconte ce soir."
     ]
   },
   {
-    "actionTitle": "Le Texto de la Seconde Demande",
-    "text": "J'ai repensé à ce qui a mal tourné la dernière fois que j'ai demandé — je veux réessayer, en mieux, si tu es d'accord.",
-    "effect": "Revenir sur une demande importante avec une humilité visible montre une vraie évolution plutôt qu'une simple persévérance. Elle voit la croissance dite clairement plutôt que supposée.",
-    "sectionTitle": "SMS - L'Heure Tranquille de Pemberley",
-    "predictable": "Une demande importante, reformulée avec humilité, est rarement expliquée par texto comme ayant été réfléchie d'abord",
+    "actionTitle": "Le Texto du Rêve Raconté",
+    "text": "Ce rêve bizarre que tu m'as raconté l'autre jour, j'y repense encore — tu t'en souviens toujours aussi bien ?",
+    "effect": "Revenir sur un rêve raconté, plutôt que de le laisser tomber dans l'oubli, montre une curiosité continue pour l'imaginaire de l'autre. Elle apprend que ce moment de partage a vraiment compté, pas juste été poliment écouté.",
+    "sectionTitle": "SMS - Le Rêve de Tatiana",
+    "predictable": "Un rêve raconté est rarement suivi par texto, des jours plus tard, d'une question sur s'il est toujours en mémoire",
     "themes": [
       "Littéraire",
-      "Humilité"
+      "Curiosité"
     ],
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "J'ai repensé à ce qui a mal tourné la dernière fois — je veux réessayer, mieux."
+      "Ce rêve bizarre que tu m'as raconté l'autre jour, j'y repense encore."
     ]
   },
   {
-    "actionTitle": "Le Texto de l'Invitation à la Bibliothèque",
-    "text": "J'ai envie de te montrer le truc que je garde habituellement pour moi — ça me semble juste de t'y laisser entrer maintenant.",
-    "effect": "Inviter quelqu'un dans un refuge privé, plutôt que de s'isoler par défaut, résiste activement à ce réflexe. L'invitation elle-même devient un petit acte délibéré de confiance.",
-    "sectionTitle": "SMS - L'Heure Tranquille de Pemberley",
-    "predictable": "Un refuge privé est rarement ouvert par texto comme une invitation délibérée plutôt qu'une mention en passant",
+    "actionTitle": "Le Texto Sans Ironie",
+    "text": "Repensant à ce truc que tu aimes et que je trouve un peu ennuyeux d'habitude — en fait ça m'a plu, on peut refaire ça.",
+    "effect": "Admettre honnêtement avoir apprécié quelque chose habituellement jugé ennuyeux, et proposer de le refaire, inverse le mépris social qui blesse tant dans le poème. Elle reçoit une vraie révision d'opinion, pas une politesse de façade.",
+    "sectionTitle": "SMS - Le Rêve de Tatiana",
+    "predictable": "Une activité habituellement jugée ennuyeuse est rarement suivie par texto d'un aveu honnête d'appréciation et d'une proposition de la refaire",
     "themes": [
       "Littéraire",
-      "Ouverture"
+      "Générosité"
     ],
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "J'ai envie de te montrer le truc que je garde pour moi — ça me semble juste."
+      "Repensant à ce truc que tu aimes — en fait ça m'a plu, on peut refaire ça."
     ]
   },
   {
-    "actionTitle": "Le Texto de la Chaleur Méritée",
-    "text": "J'ai dû vraiment faire un effort pour être chaleureux et sociable ce soir — je voulais être honnête que ce n'était pas naturel.",
-    "effect": "Avouer l'effort derrière la chaleur, plutôt que de la laisser croire que ça n'a rien coûté, garde le geste honnête. Elle apprend que l'aisance qu'elle a vue a été gagnée, pas naturelle.",
-    "sectionTitle": "SMS - L'Heure Tranquille de Pemberley",
-    "predictable": "Une chaleur délibérée dans un contexte social est rarement suivie par texto d'un aveu honnête de l'effort fourni",
+    "actionTitle": "Le Texto de la Pique Retenue",
+    "text": "Ai failli sortir une pique un peu méchante tout à l'heure pour faire rire — je l'ai gardée pour moi, voulais te le dire.",
+    "effect": "Avouer une remarque mordante retenue, plutôt que de la laisser passer inaperçue, transforme une retenue invisible en une preuve tangible de jugement. Elle apprend que la gentillesse a été un choix actif, pas une absence d'opportunité.",
+    "sectionTitle": "SMS - Le Rêve de Tatiana",
+    "predictable": "Une pique retenue est rarement avouée par texto après coup comme un choix actif plutôt qu'une simple absence d'occasion",
     "themes": [
       "Littéraire",
-      "Honnêteté"
+      "Retenue"
     ],
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "J'ai dû vraiment faire un effort pour être chaleureux ce soir, pas naturel."
+      "Ai failli sortir une pique méchante tout à l'heure — l'ai gardée pour moi."
     ]
   },
   {
-    "actionTitle": "Le Texto de la Lettre Explicative",
-    "text": "Je t'ai écrit un truc qui explique une chose que j'ai mal gérée — prends ton temps pour le lire, pas de pression pour répondre.",
-    "effect": "Envoyer un message explicatif et retirer explicitement la pression de répondre vite laisse les mots faire leur travail sans exiger une réaction immédiate. Elle a l'espace pour y réfléchir avant de répondre.",
-    "sectionTitle": "SMS - L'Heure Tranquille de Pemberley",
-    "predictable": "Un message explicatif sur quelque chose de mal géré retire rarement explicitement toute pression de réponse rapide",
+    "actionTitle": "Le Texto de la Lettre Cachée",
+    "text": "J'ai écrit un truc entier sur ce que je ressens, mais je ne te l'envoie pas tout de suite — dis-moi si tu veux le lire un jour.",
+    "effect": "Mentionner l'existence d'une lettre honnête sans forcer sa lecture immédiate laisse à l'autre le choix d'entrer ou non dans cette intimité. Elle reçoit une offre plutôt qu'une obligation de réagir sur commande.",
+    "sectionTitle": "SMS - Le Rêve de Tatiana",
+    "predictable": "Une lettre écrite en entier est rarement mentionnée par texto sans être envoyée, en laissant le choix de la demander",
+    "themes": [
+      "Littéraire",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "J'ai écrit un truc entier sur ce que je ressens, pas envoyé tout de suite."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Refus Poli, Retenu",
+    "text": "Vais accepter ce truc que je préférerais éviter d'habitude, de bonne grâce cette fois — pas la peine de t'en excuser, ça me va vraiment.",
+    "effect": "Accepter par texto quelque chose habituellement évité, sans faire sentir le sacrifice, montre une générosité rarement offerte aussi simplement. Elle reçoit une acceptation sincère plutôt qu'un accord réticent à peine caché.",
+    "sectionTitle": "SMS - Le Rêve de Tatiana",
+    "predictable": "Une chose habituellement évitée est rarement acceptée par texto en précisant explicitement que ça convient vraiment",
+    "themes": [
+      "Littéraire",
+      "Générosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Vais accepter ce truc que je préférerais éviter, de bonne grâce, vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Premier Pas",
+    "text": "Ai enfin commencé ce truc que je remets depuis des semaines — même un tout petit pas, mais c'est parti.",
+    "effect": "Annoncer un premier pas, même minime, sur quelque chose longtemps repoussé, montre un mouvement réel plutôt qu'une nouvelle intention vague. Elle apprend qu'un blocage a enfin cédé, concrètement.",
+    "sectionTitle": "SMS - La Malle Jamais Fermée",
+    "predictable": "Un projet sans cesse repoussé est rarement suivi par texto de l'annonce d'un tout premier petit pas concret",
+    "themes": [
+      "Littéraire",
+      "Initiative"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai enfin commencé ce truc que je remets depuis des semaines — un tout petit pas."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Geste Plutôt Que du Discours",
+    "text": "Au lieu d'en parler encore, j'ai juste réglé le truc directement — regarde plus tard, tu verras la différence.",
+    "effect": "Choisir d'agir plutôt que de discourir encore une fois sur un problème, puis inviter à constater le résultat, privilégie l'action concrète au bavardage sans fin. Elle découvre un résultat plutôt qu'une nouvelle promesse.",
+    "sectionTitle": "SMS - La Malle Jamais Fermée",
+    "predictable": "Un problème est rarement réglé par action directe plutôt que par une nouvelle discussion annoncée par texto",
+    "themes": [
+      "Littéraire",
+      "Pragmatisme"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Au lieu d'en parler encore, j'ai juste réglé le truc directement — tu verras."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de la Chose Ancienne Entretenue",
+    "text": "Ai pris soin aujourd'hui de ce vieux truc entre nous qu'on néglige un peu — curieux de savoir ce qu'il représente vraiment pour toi.",
+    "effect": "Mentionner l'entretien d'une chose ancienne négligée, puis demander ce qu'elle représente, transforme un geste discret en une vraie question sur la mémoire partagée. Elle est invitée à donner du sens à quelque chose qui aurait pu passer inaperçu.",
+    "sectionTitle": "SMS - La Malle Jamais Fermée",
+    "predictable": "L'entretien d'une chose ancienne négligée est rarement suivi par texto d'une question sur ce qu'elle représente vraiment",
+    "themes": [
+      "Littéraire",
+      "Fidélité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai pris soin aujourd'hui de ce vieux truc entre nous — ça représente quoi pour toi ?"
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de la Dette Réglée",
+    "text": "Ai réglé ce petit truc que je te devais depuis un moment — pas la peine d'en faire toute une histoire, c'est fait.",
+    "effect": "Mentionner brièvement une dette ou un service réglé, sans insister sur le geste, inverse l'incapacité à affronter ses propres dettes avant qu'il ne soit trop tard. Elle reçoit une nouvelle simple, sans attente de remerciement démesuré.",
+    "sectionTitle": "SMS - La Malle Jamais Fermée",
+    "predictable": "Une petite dette réglée est rarement mentionnée par texto brièvement, sans insister sur le geste ni attendre de remerciement",
     "themes": [
       "Littéraire",
       "Responsabilité"
@@ -18173,303 +17917,63 @@
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "Je t'ai écrit un truc qui explique une chose mal gérée — pas de pression."
+      "Ai réglé ce petit truc que je te devais depuis un moment — c'est fait."
     ]
   },
   {
-    "actionTitle": "Le Texto de l'Honnêteté Sauvage",
-    "text": "Un truc vrai que je veux dire sans l'adoucir du tout — je te préviens, c'est intense, mais c'est réel.",
-    "effect": "Signaler une honnêteté non adoucie à l'avance rejoint une intensité élémentaire tout en lui laissant la chance de s'y préparer. Elle reçoit une vérité brute accompagnée d'un avertissement respectueux plutôt que d'être prise de court.",
-    "sectionTitle": "SMS - La Lande Derrière la Fenêtre",
-    "predictable": "Une honnêteté non adoucie est rarement signalée par texto à l'avance comme volontairement intense avant d'être dite",
+    "actionTitle": "Le Texto de la Petite Nouveauté",
+    "text": "Et si on essayait un tout petit truc différent cette semaine, ensemble, rien de grand — juste pour changer un peu ?",
+    "effect": "Proposer une petite nouveauté plutôt qu'un grand bouleversement montre un espoir mesuré et réaliste plutôt qu'une promesse trop ambitieuse pour tenir. Elle reçoit une invitation concrète et accessible à construire quelque chose ensemble.",
+    "sectionTitle": "SMS - La Malle Jamais Fermée",
+    "predictable": "Une petite nouveauté est rarement proposée par texto explicitement comme quelque chose de modeste plutôt que grand",
     "themes": [
       "Littéraire",
-      "Intensité"
+      "Espoir"
     ],
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "Un truc vrai que je veux dire sans l'adoucir du tout — je te préviens, c'est intense."
+      "Et si on essayait un tout petit truc différent cette semaine, ensemble ?"
     ]
   },
   {
-    "actionTitle": "Le Texto Trop Intense",
-    "text": "Ce que je ressens pour toi est honnêtement un peu trop pour être dit à voix haute parfois — plus facile à écrire d'abord.",
-    "effect": "Formuler une déclaration inhabituellement intense par texto d'abord donne à l'ampleur du sentiment un point d'entrée plus sûr. Elle reçoit l'intensité sans la pression d'une réaction en personne.",
-    "sectionTitle": "SMS - La Lande Derrière la Fenêtre",
-    "predictable": "Une déclaration inhabituellement intense est rarement envoyée par texto d'abord, comme point d'entrée plus facile",
+    "actionTitle": "Le Texto de l'Effort Partagé",
+    "text": "Ça te dit qu'on fasse un truc physique et fatigant ensemble aujourd'hui — un vrai effort, jusqu'à être épuisés ?",
+    "effect": "Proposer un effort physique partagé jusqu'à la fatigue recrée l'apaisement mental trouvé dans le travail manuel plutôt que dans la réflexion sans fin. Elle reçoit une invitation à un épuisement partagé plutôt qu'une suggestion vague.",
+    "sectionTitle": "SMS - La Fenaison de Lévine",
+    "predictable": "Un effort physique partagé jusqu'à la fatigue est rarement proposé par texto explicitement comme un vrai effort ensemble",
     "themes": [
       "Littéraire",
-      "Intensité"
-    ],
-    "dramaIntensity": 2,
-    "sexualIntensity": 1,
-    "variations": [
-      "Ce que je ressens pour toi est un peu trop pour être dit parfois — plus facile à écrire."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto du Vieux Fantôme",
-    "text": "Ce vieux truc entre nous qui n'a jamais vraiment été réglé — j'aimerais vraiment qu'on en parle bientôt.",
-    "effect": "Nommer directement une vieille affaire non résolue, plutôt que de la laisser hanter sans être abordée, offre une vraie résolution plutôt qu'une tension persistante. Elle reçoit une invitation à enfin clore quelque chose d'ancien.",
-    "sectionTitle": "SMS - La Lande Derrière la Fenêtre",
-    "predictable": "Une vieille affaire non résolue est rarement nommée directement par texto comme quelque chose à vraiment régler bientôt",
-    "themes": [
-      "Littéraire",
-      "Réparation"
+      "Présence"
     ],
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "Ce vieux truc entre nous jamais réglé — j'aimerais vraiment qu'on en parle."
+      "Ça te dit un truc physique et fatigant ensemble aujourd'hui, un vrai effort ?"
     ]
   },
   {
-    "actionTitle": "Le Texto de la Promesse Stable",
-    "text": "Je vais continuer à me montrer comme ça — pas juste quand c'est facile ou excitant, à chaque fois, promis.",
-    "effect": "Affirmer une promesse explicite de continuer à se montrer, plutôt que de supposer que c'est compris, transforme un schéma de soutien en un engagement clair. Elle entend la fiabilité dite à voix haute, pas juste jouée.",
-    "sectionTitle": "SMS - La Lande Derrière la Fenêtre",
-    "predictable": "Une promesse explicite de continuer à se montrer est rarement envoyée par texto comme déclaration autonome",
+    "actionTitle": "Le Texto du Petit Détail Remarqué",
+    "text": "Remarqué un petit truc différent chez toi aujourd'hui — pas grand-chose, mais je l'ai vu, et j'aime bien.",
+    "effect": "Nommer un détail discret remarqué, sans en faire une affaire, montre une attention fine rarement offerte spontanément. Elle reçoit une reconnaissance précise plutôt qu'un compliment générique.",
+    "sectionTitle": "SMS - La Fenaison de Lévine",
+    "predictable": "Un détail discret remarqué est rarement nommé par texto sans en faire une affaire, juste mentionné simplement",
     "themes": [
       "Littéraire",
-      "Constance"
+      "Attention"
     ],
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "Je vais continuer à me montrer comme ça — pas juste quand c'est facile, toujours."
+      "Remarqué un petit truc différent chez toi aujourd'hui — je l'ai vu, j'aime bien."
     ]
   },
   {
-    "actionTitle": "Le Texto de la Marque Privée",
-    "text": "J'ai fait un petit truc privé qui parle juste de toi, là où moi seul le remarquerai pour l'instant — je te le montre bientôt.",
-    "effect": "Annoncer une marque privée avant de la révéler crée de l'anticipation autour d'un geste discret et durable. Elle reçoit un avant-goût de quelque chose destiné à durer, gardé secret seulement un peu.",
-    "sectionTitle": "SMS - La Lande Derrière la Fenêtre",
-    "predictable": "Une marque privée et durable est rarement annoncée par texto avant d'être révélée et expliquée en personne",
-    "themes": [
-      "Littéraire",
-      "Permanence"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "J'ai fait un petit truc privé qui parle juste de toi — je te le montre bientôt."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto du Grand Livre Réécrit",
-    "text": "J'essaie de corriger cette habitude d'avarice chez moi — pas d'explication pour l'instant, juste curieux si tu as remarqué un truc.",
-    "effect": "Demander si un changement a été remarqué, sans expliquer pourquoi, laisse les actes parler plus fort que les intentions annoncées. Le remarquer sans qu'on le lui dise prouve que le changement est réel, pas mis en scène.",
-    "sectionTitle": "SMS - Le Grand Livre Réécrit",
-    "predictable": "Une habitude corrigée est rarement suivie par texto d'une question sur si elle a été remarquée, sans expliquer pourquoi",
-    "themes": [
-      "Littéraire",
-      "Changement"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "J'essaie de corriger cette habitude d'avarice — tu as remarqué un truc ?"
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de l'Ancien Noël",
-    "text": "Je repense à ce vieux souvenir de nous, en beaucoup trop de détails — j'aimerais en recréer un petit bout bientôt.",
-    "effect": "Raviver un vieux souvenir par texto, puis proposer d'en recréer une partie, transforme la nostalgie en un vrai projet futur. Elle reçoit à la fois le souvenir tendre et une invitation active.",
-    "sectionTitle": "SMS - Le Grand Livre Réécrit",
-    "predictable": "Un vieux souvenir tendre est rarement suivi par texto d'une proposition concrète d'en recréer une partie bientôt",
-    "themes": [
-      "Littéraire",
-      "Nostalgie"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je repense à ce vieux souvenir de nous — j'aimerais en recréer un bout bientôt."
-    ]
-  },
-  {
-    "actionTitle": "Le Second Merci",
-    "text": "Je voulais aussi te remercier pour cette autre petite chose — différente d'avant, mais je l'ai remarquée aussi.",
-    "effect": "Un second remerciement distinct établit l'attention continue comme une pratique plutôt qu'un moment unique mis en avant. Elle apprend que remarquer n'est pas rare, ça devient une habitude.",
-    "sectionTitle": "SMS - Le Grand Livre Réécrit",
-    "predictable": "Un second remerciement distinct pour une autre petite chose est rarement envoyé par texto des jours après le premier",
-    "themes": [
-      "Littéraire",
-      "Gratitude"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je voulais aussi te remercier pour cette autre petite chose — je l'ai remarquée."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de l'Avenir Choisi",
-    "text": "Je m'imagine un avenir précis avec toi, en détail — j'aimerais vraiment travailler dessus, à partir de maintenant.",
-    "effect": "Décrire un avenir précis et plein d'espoir, puis proposer d'y travailler, inverse directement une peur vague par une intention concrète. Elle voit la vision accompagnée d'un vrai projet attaché.",
-    "sectionTitle": "SMS - Le Grand Livre Réécrit",
-    "predictable": "Un avenir précis et plein d'espoir est rarement décrit par texto avec une proposition explicite d'y travailler",
-    "themes": [
-      "Littéraire",
-      "Avenir"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je m'imagine un avenir précis avec toi — j'aimerais vraiment travailler dessus."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Fête Inutile",
-    "text": "Je fais un petit truc joyeux ce soir pour absolument aucune raison — encore, parce que la première fois n'était pas un coup de chance.",
-    "effect": "Répéter un geste joyeux inutile, en précisant que ce n'était pas un coup de chance, prouve que la fête n'a pas besoin d'occasion. Elle apprend que la joie spontanée devient une vraie habitude.",
-    "sectionTitle": "SMS - Le Grand Livre Réécrit",
-    "predictable": "Un geste joyeux inutile est rarement répété et décrit explicitement par texto comme n'étant pas un coup de chance",
-    "themes": [
-      "Littéraire",
-      "Joie"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je fais un petit truc joyeux ce soir pour rien — encore, pas un coup de chance."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto des Fleurs Pour Elle-même",
-    "text": "J'ai remarqué ce petit truc que tu fais juste pour toi — j'adore ça chez toi, n'arrête jamais de le faire.",
-    "effect": "Nommer un petit plaisir auto-offert avec un encouragement explicite à continuer honore l'indépendance plutôt que d'essayer de l'absorber ou de la remplacer. Elle sent son autonomie activement célébrée, pas discrètement gérée.",
-    "sectionTitle": "SMS - Les Fleurs Qu'elle S'achèterait Elle-même",
-    "predictable": "Un petit plaisir auto-offert est rarement nommé par texto avec un encouragement explicite à continuer de façon indépendante",
-    "themes": [
-      "Littéraire",
-      "Indépendance"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "J'ai remarqué ce petit truc que tu fais pour toi — j'adore, continue."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Fête Honnête",
-    "text": "C'était vraiment amusant, je ne dis pas ça pour dire — c'était quoi ton moment préféré, vraiment ?",
-    "effect": "Demander honnêtement ce qu'elle a aimé, plutôt que de supposer que la réunion a réussi, confirme une vraie connexion plutôt qu'un accueil joué. Elle définit elle-même ce qui a vraiment marché, avec ses propres mots.",
-    "sectionTitle": "SMS - Les Fleurs Qu'elle S'achèterait Elle-même",
-    "predictable": "Une petite réunion est rarement suivie par texto d'une question honnête sur son moment préféré",
-    "themes": [
-      "Littéraire",
-      "Sincérité"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "C'était vraiment amusant — c'était quoi ton moment préféré, vraiment ?"
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Journée Entière",
-    "text": "Cette journée entière ensemble avait quelque chose de différent — qu'est-ce qui a fait que ça se démarquait pour toi ?",
-    "effect": "Réfléchir ensemble à ce qui a rendu une journée entière différente transforme un simple cadeau de présence en un sens construit à deux. Elle peut exprimer sa propre expérience de la journée, pas juste recevoir la tienne.",
-    "sectionTitle": "SMS - Les Fleurs Qu'elle S'achèterait Elle-même",
-    "predictable": "Une journée entièrement présente est rarement suivie par texto d'une question sur ce qui l'a précisément rendue différente",
-    "themes": [
-      "Littéraire",
-      "Réflexion"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Cette journée avait quelque chose de différent — qu'est-ce qui se démarquait pour toi ?"
-    ]
-  },
-  {
-    "actionTitle": "Le Texto du Poids Non Remarqué",
-    "text": "Je me demandais s'il y a un truc qui pèse tranquillement sur toi sans qu'on en ait parlé — je suis là, quand tu es prête.",
-    "effect": "Vérifier doucement l'existence d'un fardeau non remarqué, sans pression de répondre tout de suite, montre une vigilance active plutôt qu'une découverte par hasard. Elle apprend que ses luttes silencieuses sont activement surveillées.",
-    "sectionTitle": "SMS - Les Fleurs Qu'elle S'achèterait Elle-même",
-    "predictable": "Une vérification douce d'un fardeau non remarqué est rarement envoyée par texto avec un délai explicite sans pression",
-    "themes": [
-      "Littéraire",
-      "Soin"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je me demandais s'il y a un truc qui pèse sur toi — je suis là, quand tu es prête."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto du Meilleur Retour",
-    "text": "Je repense à cette vieille tension entre nous, sans aucune amertume, j'aimerais juste vraiment la régler correctement.",
-    "effect": "Revisiter une vieille tension explicitement sans amertume installe un ton calme avant même que la conversation ne commence. Elle reçoit une réassurance sur l'esprit de la discussion avant qu'elle n'ait lieu.",
-    "sectionTitle": "SMS - Les Fleurs Qu'elle S'achèterait Elle-même",
-    "predictable": "Une vieille tension est rarement revisitée par texto avec une précision explicite qu'il n'y a aucune amertume à la soulever",
-    "themes": [
-      "Littéraire",
-      "Réparation"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Je repense à cette vieille tension, sans amertume, je veux juste la régler."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Valentine Sincère",
-    "text": "Le truc que je t'ai envoyé tout à l'heure n'était pas une blague, au fait — je pensais chaque mot, je voulais que ce soit clair.",
-    "effect": "Confirmer qu'un message joueur était sincère enlève tout doute persistant sur son intention. Elle reçoit une clarté explicite plutôt que d'être laissée à se demander ou douter.",
-    "sectionTitle": "SMS - La Valentine Envoyée Par Jeu",
-    "predictable": "Un message joueur est rarement suivi par texto d'une confirmation explicite que ce n'était pas une blague",
-    "themes": [
-      "Littéraire",
-      "Sincérité"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "Le truc envoyé tout à l'heure n'était pas une blague — je pensais chaque mot."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de Gabriel Oak",
-    "text": "J'ai réparé ce truc pour toi encore une fois, pas grand-chose — je voulais juste être utile, pas besoin de crédit pour ça.",
-    "effect": "Répéter une aide discrète et sans crédit, en écartant explicitement tout besoin de reconnaissance, transforme une aide isolée en un schéma délibéré et continu. Elle voit la fiabilité comme une valeur, pas une quête d'éloges.",
-    "sectionTitle": "SMS - La Valentine Envoyée Par Jeu",
-    "predictable": "Une aide répétée sans crédit est rarement suivie par texto d'un rejet explicite de tout besoin de reconnaissance",
-    "themes": [
-      "Littéraire",
-      "Constance"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "J'ai réparé ce truc encore une fois, pas besoin de crédit pour ça."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto du Travail d'Équipe Sous la Tempête",
-    "text": "C'était vraiment du bon travail d'équipe tout à l'heure, sous pression — je voulais le dire à voix haute, on est doués pour ça.",
-    "effect": "Nommer explicitement le travail d'équipe après un moment stressant valorise le partenariat lui-même, pas seulement le résultat obtenu. Elle entend la collaboration elle-même complimentée, séparément du problème résolu.",
-    "sectionTitle": "SMS - La Valentine Envoyée Par Jeu",
-    "predictable": "Un bon travail d'équipe sous pression est rarement nommé explicitement par texto après coup, séparément du résultat produit",
-    "themes": [
-      "Littéraire",
-      "Travail d'équipe"
-    ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
-    "variations": [
-      "C'était vraiment du bon travail d'équipe tout à l'heure — on est doués pour ça."
-    ]
-  },
-  {
-    "actionTitle": "Le Texto de la Fixation Surprise",
-    "text": "Je me suis surpris à me fixer bizarrement sur ta réaction à un truc aujourd'hui — je lâche prise, je voulais juste l'admettre.",
-    "effect": "Avouer honnêtement une fixation surprise, plutôt que de la cacher, montre une conscience de soi avant qu'elle ne devienne un problème visible. Elle apprend que tu peux repérer tes propres schémas sans qu'elle ait à te le signaler.",
-    "sectionTitle": "SMS - La Valentine Envoyée Par Jeu",
-    "predictable": "Une fixation surprise sur sa réaction est rarement avouée honnêtement par texto avant de devenir un problème visible",
+    "actionTitle": "Le Texto du Ralenti Volontaire",
+    "text": "Ai choisi de ralentir aujourd'hui sur un truc que je pousse d'habitude trop fort — voulais te dire pourquoi, plus tard.",
+    "effect": "Annoncer un ralentissement volontaire, avec une promesse d'explication à venir, transforme un choix invisible en une leçon partagée à voix haute. Elle reçoit une preuve de conscience de soi accompagnée d'une vraie curiosité de sa part à venir.",
+    "sectionTitle": "SMS - La Fenaison de Lévine",
+    "predictable": "Un ralentissement volontaire sur une exigence personnelle est rarement annoncé par texto avec une promesse d'explication plus tard",
     "themes": [
       "Littéraire",
       "Conscience de soi"
@@ -18477,23 +17981,519 @@
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "Je me suis surpris à me fixer sur ta réaction aujourd'hui — je lâche prise."
+      "Ai choisi de ralentir aujourd'hui sur un truc que je pousse trop fort — je t'explique plus tard."
     ]
   },
   {
-    "actionTitle": "Le Texto de la Promesse Réaffirmée",
-    "text": "Je pense toujours à ce truc que j'ai promis il y a un moment — je vais le prouver cette semaine avec quelque chose de réel, tu verras.",
-    "effect": "Réaffirmer un vieil engagement, puis promettre une preuve concrète, appuie les mots d'un vrai plan d'action explicite. Elle reçoit une intention renouvelée accompagnée d'une responsabilité attachée.",
-    "sectionTitle": "SMS - La Valentine Envoyée Par Jeu",
-    "predictable": "Un vieil engagement est rarement réaffirmé par texto accompagné d'un plan explicite de le prouver bientôt",
+    "actionTitle": "Le Texto de la Fierté Assumée",
+    "text": "Montre-moi un truc que tu sais bien faire et dont tu es fière — j'ai vraiment envie de te voir briller là-dedans.",
+    "effect": "Demander explicitement à voir une compétence dont elle est fière, avec un vrai enthousiasme affiché, invite à une fierté assumée plutôt qu'une modestie polie. Elle reçoit une invitation sincère à se montrer sans retenue.",
+    "sectionTitle": "SMS - La Fenaison de Lévine",
+    "predictable": "Une compétence dont elle est fière est rarement demandée par texto avec un enthousiasme explicitement affiché",
     "themes": [
       "Littéraire",
-      "Engagement"
+      "Fierté"
     ],
     "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
-      "Je pense toujours à cette promesse d'il y a un moment — je vais le prouver."
+      "Montre-moi un truc que tu sais bien faire — j'ai envie de te voir briller."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Silence Qui Fait du Bien",
+    "text": "Ce moment silencieux qu'on a eu tout à l'heure, sans rien dire, ça m'a vraiment fait du bien — juste voulais te le dire.",
+    "effect": "Nommer positivement un silence partagé, plutôt que de le laisser sans commentaire, confirme que ce silence était un choix de confort et non un signe d'éloignement. Elle apprend que l'absence de mots n'était pas un vide mais une vraie présence.",
+    "sectionTitle": "SMS - La Fenaison de Lévine",
+    "predictable": "Un silence partagé est rarement nommé positivement par texto après coup comme ayant vraiment fait du bien",
+    "themes": [
+      "Littéraire",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce moment silencieux tout à l'heure, sans rien dire, ça m'a vraiment fait du bien."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de l'Oignon Tendu",
+    "text": "Fait un tout petit truc gentil pour un inconnu aujourd'hui, rien de grand — voulais juste te le raconter, sans en faire un exploit.",
+    "effect": "Raconter simplement un petit geste de générosité, sans grandiloquence, garde le geste sincère plutôt que transformé en récit héroïque. Elle reçoit une confidence modeste plutôt qu'une performance.",
+    "sectionTitle": "SMS - L'Oignon de la Vieille Femme",
+    "predictable": "Un tout petit geste de générosité envers un inconnu est rarement raconté par texto sans être présenté comme un exploit",
+    "themes": [
+      "Littéraire",
+      "Générosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fait un tout petit truc gentil pour un inconnu aujourd'hui — voulais te le raconter."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Pas de Côté",
+    "text": "Ai senti la colère monter pour une broutille tout à l'heure — suis sorti marcher plutôt que de m'énerver, ça a bien fait.",
+    "effect": "Raconter un pas de côté physique face à une colère montante, plutôt que de la cacher, montre une maîtrise de soi rarement partagée aussi honnêtement. Elle apprend une gestion émotionnelle réussie plutôt qu'un simple silence sur la tension.",
+    "sectionTitle": "SMS - L'Oignon de la Vieille Femme",
+    "predictable": "Un pas de côté face à la colère est rarement raconté par texto après coup comme ayant vraiment fait du bien",
+    "themes": [
+      "Littéraire",
+      "Maîtrise"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai senti la colère monter tout à l'heure — suis sorti marcher, ça a bien fait."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Geste Plutôt Que du Mot",
+    "text": "Après notre petite tension tout à l'heure, j'avais plus envie d'un geste tendre que d'un dernier mot — comment tu l'as reçu ?",
+    "effect": "Expliquer avoir préféré un geste tendre à un dernier mot après une tension, puis demander comment ça a été reçu, garde l'attention sur la réconciliation plutôt que sur le désaccord initial. Elle est invitée à répondre sur le geste, pas à rouvrir le débat.",
+    "sectionTitle": "SMS - L'Oignon de la Vieille Femme",
+    "predictable": "Un geste tendre préféré à un dernier mot est rarement suivi par texto d'une question sur comment il a été reçu",
+    "themes": [
+      "Littéraire",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Après notre tension tout à l'heure, préférais un geste tendre à un dernier mot."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de la Confiance Lâchée",
+    "text": "Je te laisse gérer un truc que je fais toujours seul d'habitude — pas besoin de me tenir au courant, je te fais confiance.",
+    "effect": "Confier explicitement une responsabilité habituellement gardée seule, sans demander de compte-rendu, montre une confiance rarement accordée aussi complètement. Elle reçoit à la fois une tâche et une vraie preuve de lâcher-prise.",
+    "sectionTitle": "SMS - L'Oignon de la Vieille Femme",
+    "predictable": "Une responsabilité habituellement gardée seule est rarement confiée par texto sans demander explicitement de compte-rendu",
+    "themes": [
+      "Littéraire",
+      "Confiance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je te laisse gérer un truc que je fais toujours seul — je te fais confiance."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de la Question Simple",
+    "text": "Question toute simple, presque bête : pourquoi on évite toujours de parler de ce truc-là entre nous ?",
+    "effect": "Poser une question simple et directe sur un sujet habituellement évité, sans l'habiller de nuances d'adulte compliqué, retrouve une honnêteté brute rarement assumée aussi frontalement. Elle est invitée à répondre sans que le sujet soit immédiatement récupéré par le débat habituel.",
+    "sectionTitle": "SMS - L'Oignon de la Vieille Femme",
+    "predictable": "Une question simple sur un sujet évité est rarement posée par texto aussi directement, sans détour ni nuance",
+    "themes": [
+      "Littéraire",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Question toute simple : pourquoi on évite toujours de parler de ce truc-là ?"
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de l'Acceptation",
+    "text": "Allais décliner un truc par pur réflexe tout à l'heure — ai accepté à la place, voulais te dire que je l'ai remarqué.",
+    "effect": "Avouer un réflexe de réserve surmonté, plutôt que de le taire, montre une conscience de soi rarement partagée à voix haute. Elle apprend qu'un petit changement d'attitude a été choisi consciemment.",
+    "sectionTitle": "SMS - La Première Danse Refusée",
+    "predictable": "Un réflexe de réserve surmonté est rarement avoué par texto comme un choix conscient remarqué sur le moment",
+    "themes": [
+      "Littéraire",
+      "Ouverture"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Allais décliner un truc par réflexe — ai accepté à la place, je l'ai remarqué."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Jugement Révisé",
+    "text": "Repensant à un truc que j'ai mal jugé chez toi au début — je me trompais complètement, voulais te le dire honnêtement.",
+    "effect": "Admettre par texto un jugement initial erroné, sans attendre une occasion spéciale, montre une honnêteté rarement offerte aussi directement. Elle reçoit une révision d'opinion sincère plutôt qu'une flatterie de façade.",
+    "sectionTitle": "SMS - La Première Danse Refusée",
+    "predictable": "Un jugement initial erroné est rarement admis par texto directement, sans attendre une occasion particulière",
+    "themes": [
+      "Littéraire",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensant à un truc mal jugé chez toi au début — je me trompais complètement."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Choix Assumé",
+    "text": "Ai choisi ce qui nous rend heureux plutôt que la solution la plus pratique pour ce petit truc — voulais te dire pourquoi.",
+    "effect": "Annoncer un choix fait pour le bonheur plutôt que la simple praticité, avec une promesse d'explication, montre une préférence assumée plutôt qu'un caprice. Elle reçoit une décision motivée, pas juste un fait accompli.",
+    "sectionTitle": "SMS - La Première Danse Refusée",
+    "predictable": "Un choix fait pour le bonheur plutôt que la praticité est rarement annoncé par texto avec une promesse d'explication",
+    "themes": [
+      "Littéraire",
+      "Sincérité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai choisi ce qui nous rend heureux plutôt que le plus pratique — je t'explique."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de la Relecture",
+    "text": "Relu ton message de l'autre jour, avec plus d'attention cette fois — je te réponds vraiment, même en retard.",
+    "effect": "Admettre avoir mal lu un message la première fois, puis promettre une vraie réponse même tardive, corrige une négligence facile à commettre sous le coup de la précipitation. Elle voit son message enfin pris au sérieux.",
+    "sectionTitle": "SMS - La Première Danse Refusée",
+    "predictable": "Un message relu avec plus d'attention est rarement suivi par texto d'une promesse explicite d'une vraie réponse, même en retard",
+    "themes": [
+      "Littéraire",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Relu ton message de l'autre jour, avec plus d'attention — je te réponds vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de l'Encouragement Pur",
+    "text": "Peu importe le niveau, ce que tu fais là te rend vraiment heureuse à voir — c'est tout ce qui compte pour moi.",
+    "effect": "Encourager explicitement le plaisir pris plutôt que la performance, sans jamais mentionner le niveau, protège l'activité de tout jugement implicite. Elle reçoit un soutien inconditionnel plutôt qu'un compliment évaluatif.",
+    "sectionTitle": "SMS - La Première Danse Refusée",
+    "predictable": "Un plaisir sans grand talent est rarement encouragé par texto en excluant explicitement toute mention du niveau",
+    "themes": [
+      "Littéraire",
+      "Encouragement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Peu importe le niveau, ça te rend vraiment heureuse à voir, c'est tout ce qui compte."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de la Marge Cachée",
+    "text": "J'ai écrit un petit mot quelque part dans un truc que tu utilises tous les jours — tu le trouveras bien à un moment.",
+    "effect": "Annoncer l'existence d'un mot caché sans révéler où exactement crée une petite anticipation autour d'un geste discret et intime. Elle sait qu'une pensée l'attend, sans savoir précisément quand elle tombera dessus.",
+    "sectionTitle": "SMS - Les Marges du Livre de Prières",
+    "predictable": "Un mot caché dans un objet quotidien est rarement annoncé par texto sans révéler exactement où il se trouve",
+    "themes": [
+      "Littéraire",
+      "Intimité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "J'ai écrit un mot quelque part dans un truc que tu utilises tous les jours."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de l'Origine Racontée",
+    "text": "Il y a une raison à cette petite habitude bizarre chez moi que je ne t'ai jamais vraiment expliquée — je te raconte ce soir, sans rien minimiser.",
+    "effect": "Promettre de raconter l'origine réelle d'une habitude, sans minimiser à l'avance, prépare une vraie ouverture plutôt qu'un aveu réticent. Elle reçoit l'annonce d'une clé de compréhension à venir.",
+    "sectionTitle": "SMS - Les Marges du Livre de Prières",
+    "predictable": "L'origine d'une habitude bizarre est rarement annoncée par texto comme devant être racontée ce soir, sans rien minimiser",
+    "themes": [
+      "Littéraire",
+      "Vulnérabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Il y a une raison à cette habitude bizarre chez moi — je te raconte ce soir."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de l'Attente Sans Reproche",
+    "text": "T'attends depuis un moment, aucun souci du tout, prends vraiment ton temps — j'suis bien là où je suis.",
+    "effect": "Confirmer par texto une attente sans impatience, sans aucun sous-entendu de reproche, offre une patience rarement donnée sans un soupçon de comptabilité cachée. Elle reçoit la permission explicite de ne pas se presser.",
+    "sectionTitle": "SMS - Les Marges du Livre de Prières",
+    "predictable": "Une attente est rarement confirmée par texto comme totalement sans souci ni reproche caché",
+    "themes": [
+      "Littéraire",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "T'attends depuis un moment, aucun souci, prends vraiment ton temps."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de la Douceur Remarquée",
+    "text": "Ai essayé d'être un peu plus doux avec toi aujourd'hui que d'habitude — tu l'as senti, ou pas du tout ?",
+    "effect": "Demander directement si un effort de douceur a été remarqué, plutôt que de simplement l'affirmer, ouvre une vraie vérification honnête. Elle est invitée à donner un retour sincère, pas juste à recevoir une affirmation.",
+    "sectionTitle": "SMS - Les Marges du Livre de Prières",
+    "predictable": "Un effort de douceur est rarement suivi par texto d'une question directe demandant s'il a été senti ou pas",
+    "themes": [
+      "Littéraire",
+      "Douceur"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai essayé d'être plus doux aujourd'hui — tu l'as senti, ou pas du tout ?"
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Calme Choisi",
+    "text": "Franchement, ce calme qu'on a plutôt que le grand drame, ça me convient très bien, tu sais — pas de regret du tout.",
+    "effect": "Confirmer explicitement qu'un choix de stabilité plutôt que de drame convient vraiment, sans nostalgie déguisée, évite toute ambiguïté sur un éventuel regret caché. Elle reçoit une réassurance directe et sans détour.",
+    "sectionTitle": "SMS - Les Marges du Livre de Prières",
+    "predictable": "Un choix de calme plutôt que de drame est rarement confirmé par texto comme convenant vraiment, sans aucun regret caché",
+    "themes": [
+      "Littéraire",
+      "Stabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce calme qu'on a plutôt que le grand drame, ça me convient très bien, sans regret."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Geste Secret",
+    "text": "Ai fait un truc généreux pour quelqu'un d'autre aujourd'hui, en secret — tu le découvriras peut-être par hasard un jour.",
+    "effect": "Annoncer un geste généreux anonyme, sans révéler pour qui ni quoi, garde le geste désintéressé même dans sa mention. Elle apprend qu'une bonté a existé sans besoin de preuve immédiate.",
+    "sectionTitle": "SMS - La Dinde du Lendemain",
+    "predictable": "Un geste généreux anonyme est rarement annoncé par texto sans révéler ni le bénéficiaire ni la nature exacte du geste",
+    "themes": [
+      "Littéraire",
+      "Générosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai fait un truc généreux pour quelqu'un d'autre aujourd'hui, en secret."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Confort Discret",
+    "text": "Ai amélioré un petit truc chez toi que tu utilises souvent sans te plaindre — tu remarqueras bien à un moment.",
+    "effect": "Mentionner une amélioration discrète, sans révéler exactement quoi, laisse la découverte se faire naturellement plutôt que d'être annoncée en détail. Elle reçoit une anticipation légère plutôt qu'une explication complète.",
+    "sectionTitle": "SMS - La Dinde du Lendemain",
+    "predictable": "Une amélioration discrète du confort quotidien est rarement mentionnée par texto sans révéler exactement de quoi il s'agit",
+    "themes": [
+      "Littéraire",
+      "Soin"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai amélioré un petit truc chez toi que tu utilises souvent sans te plaindre."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de la Fête Improvisée",
+    "text": "On improvise un petit truc joyeux ce soir, sans raison particulière et sans rien de parfait — juste pour le plaisir.",
+    "effect": "Proposer une fête improvisée en précisant explicitement qu'elle ne sera pas parfaite retire toute pression de perfection et garde le moment spontané. Elle est invitée à la légèreté plutôt qu'à un événement organisé.",
+    "sectionTitle": "SMS - La Dinde du Lendemain",
+    "predictable": "Une fête improvisée est rarement proposée par texto en précisant explicitement qu'elle ne sera pas parfaite",
+    "themes": [
+      "Littéraire",
+      "Joie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "On improvise un petit truc joyeux ce soir, sans raison et sans rien de parfait."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de l'Invitation Acceptée",
+    "text": "Ce truc que je décline toujours d'habitude par réflexe — cette fois j'accepte à fond, sans compter les minutes.",
+    "effect": "Annoncer l'acceptation pleine d'une invitation habituellement déclinée, en précisant l'absence de réserve, montre un engagement réel plutôt qu'une présence à moitié. Elle reçoit une confirmation sans ambiguïté.",
+    "sectionTitle": "SMS - La Dinde du Lendemain",
+    "predictable": "Une invitation habituellement déclinée est rarement acceptée par texto en précisant explicitement l'absence de toute réserve",
+    "themes": [
+      "Littéraire",
+      "Ouverture"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce truc que je décline toujours — cette fois j'accepte à fond, sans compter."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Réveil Recommencé",
+    "text": "Comme hier, je recommence aujourd'hui le même petit geste du matin — pas un coup d'un soir, une vraie habitude qui s'installe.",
+    "effect": "Confirmer la répétition d'un changement, en précisant explicitement que ce n'est pas ponctuel, transforme un sursaut isolé en une vraie habitude annoncée. Elle voit un changement durable plutôt qu'un enthousiasme d'un jour.",
+    "sectionTitle": "SMS - La Dinde du Lendemain",
+    "predictable": "La répétition d'un nouveau geste du matin est rarement confirmée par texto en précisant explicitement que ce n'est pas ponctuel",
+    "themes": [
+      "Littéraire",
+      "Changement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme hier, je recommence le même geste du matin — une vraie habitude qui s'installe."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de l'Invitation à la Solitude",
+    "text": "Prends vraiment un moment pour toi aujourd'hui si tu en as besoin — marche, réfléchis, aucune question à ton retour, promis.",
+    "effect": "Encourager explicitement un moment solitaire, avec une promesse de ne rien demander au retour, honore pleinement l'autonomie sans la récupérer par curiosité. Elle reçoit une permission claire et sans condition cachée.",
+    "sectionTitle": "SMS - La Traversée du Parc, Seule",
+    "predictable": "Un moment solitaire est rarement encouragé par texto avec une promesse explicite de n'exiger aucune explication après",
+    "themes": [
+      "Littéraire",
+      "Indépendance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prends vraiment un moment pour toi aujourd'hui — aucune question à ton retour, promis."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Rendez-vous Fixe",
+    "text": "Comme convenu, à la même heure que d'habitude, rien qu'à nous deux — ça fait la troisième fois cette semaine, tenu sans exception.",
+    "effect": "Confirmer un rendez-vous récurrent, en précisant qu'il a été tenu sans exception, transforme un geste romantique en un vrai rituel fiable. Elle reçoit une preuve de constance plutôt qu'une simple invitation ponctuelle.",
+    "sectionTitle": "SMS - La Traversée du Parc, Seule",
+    "predictable": "Un rendez-vous récurrent est rarement confirmé par texto en précisant explicitement qu'il a été tenu sans aucune exception",
+    "themes": [
+      "Littéraire",
+      "Rituel"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Comme convenu, même heure que d'habitude, rien qu'à nous deux, sans exception."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Souvenir Complimenté",
+    "text": "Repensant à cette période où tu étais un peu plus folle et libre — tu te sens encore proche de cette version de toi ?",
+    "effect": "Complimenter un souvenir d'intensité passée, puis demander honnêtement si elle s'y reconnaît encore, montre un intérêt pour son évolution plutôt qu'une simple nostalgie. Elle est invitée à répondre sur qui elle est devenue.",
+    "sectionTitle": "SMS - La Traversée du Parc, Seule",
+    "predictable": "Un souvenir d'intensité passée est rarement complimenté par texto avec une question honnête sur si elle s'y reconnaît encore",
+    "themes": [
+      "Littéraire",
+      "Reconnaissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Repensant à cette période où tu étais plus folle et libre — tu t'y sens encore proche ?"
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Cadeau Partagé",
+    "text": "Et si on offrait ensemble un petit truc à quelqu'un d'autre aujourd'hui, juste pour le plaisir de le faire à deux ?",
+    "effect": "Proposer un cadeau partagé pour un tiers, plutôt qu'un cadeau à sens unique entre vous, élargit la générosité au-delà du couple lui-même. Elle reçoit une invitation à faire équipe plutôt qu'à simplement recevoir.",
+    "sectionTitle": "SMS - La Traversée du Parc, Seule",
+    "predictable": "Un cadeau à un tiers est rarement proposé par texto explicitement comme un geste à faire ensemble, pour le plaisir de le faire à deux",
+    "themes": [
+      "Littéraire",
+      "Générosité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Et si on offrait ensemble un petit truc à quelqu'un d'autre aujourd'hui ?"
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Moment Étiré",
+    "text": "Content qu'on n'ait pas écourté ce moment hier soir — on aurait pu partir plus tôt, et je suis content qu'on ne l'ait pas fait.",
+    "effect": "Confirmer après coup qu'un moment étiré sans être pressé était un vrai choix, et non de la paresse, valorise explicitement la décision de privilégier le temps ensemble. Elle apprend que le moment a été apprécié consciemment, pas juste subi.",
+    "sectionTitle": "SMS - La Traversée du Parc, Seule",
+    "predictable": "Un moment étiré sans être pressé est rarement confirmé par texto le lendemain comme un vrai choix délibéré et apprécié",
+    "themes": [
+      "Littéraire",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Content qu'on n'ait pas écourté ce moment hier soir — vraiment content."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de la Compétence Partagée",
+    "text": "Ça te dit que je te montre un truc que je sais bien faire ce soir ? Tu pourras essayer toi-même, je te laisse le temps qu'il faut.",
+    "effect": "Proposer d'enseigner une compétence, en précisant à l'avance qu'on laissera le temps nécessaire pour essayer, montre une patience anticipée plutôt qu'une impatience à reprendre la main. Elle reçoit une invitation généreuse dès le départ.",
+    "sectionTitle": "SMS - Le Jour de la Tonte",
+    "predictable": "Une compétence proposée à enseigner est rarement accompagnée par texto d'une promesse explicite de laisser le temps nécessaire",
+    "themes": [
+      "Littéraire",
+      "Patience"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ça te dit que je te montre un truc ce soir ? Tu pourras essayer, je te laisse le temps."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Problème Réglé Discrètement",
+    "text": "Réglé un petit truc avant que ça n'empire aujourd'hui — pas la peine d'en faire tout un plat, c'est juste fait.",
+    "effect": "Mentionner un problème résolu avant qu'il ne s'aggrave, en minimisant explicitement son propre rôle, garde le geste désintéressé plutôt que transformé en petite victoire à souligner. Elle reçoit une nouvelle simple, sans quête de reconnaissance.",
+    "sectionTitle": "SMS - Le Jour de la Tonte",
+    "predictable": "Un problème réglé avant qu'il ne s'aggrave est rarement mentionné par texto en minimisant explicitement son propre rôle",
+    "themes": [
+      "Littéraire",
+      "Modestie"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Réglé un petit truc avant que ça n'empire aujourd'hui — pas la peine d'en faire un plat."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto du Choix Solide",
+    "text": "Avais le choix entre un truc plus brillant et un truc plus solide pour ça — ai choisi le solide, je t'explique pourquoi ce soir.",
+    "effect": "Annoncer un choix de solidité plutôt que d'éclat superficiel, avec une promesse d'explication, montre une réflexion assumée plutôt qu'un hasard. Elle reçoit une décision motivée présentée honnêtement.",
+    "sectionTitle": "SMS - Le Jour de la Tonte",
+    "predictable": "Un choix de solidité plutôt que d'éclat superficiel est rarement annoncé par texto avec une promesse d'explication le soir",
+    "themes": [
+      "Littéraire",
+      "Discernement"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Avais le choix entre brillant et solide pour ça — ai choisi le solide, je t'explique."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de l'Attente d'un Jour",
+    "text": "Ressentais un truc fort tout à l'heure et voulais te le dire tout de suite — j'attends demain pour voir si ça tient toujours.",
+    "effect": "Annoncer explicitement le choix d'attendre un jour avant d'exprimer quelque chose de fort évite l'emballement irréfléchi tout en promettant une réponse à venir. Elle reçoit une transparence sur le processus, pas juste le résultat final.",
+    "sectionTitle": "SMS - Le Jour de la Tonte",
+    "predictable": "L'attente délibérée d'un jour avant d'exprimer un sentiment fort est rarement annoncée par texto au moment même où elle est décidée",
+    "themes": [
+      "Littéraire",
+      "Réflexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ressentais un truc fort tout à l'heure — j'attends demain pour voir si ça tient."
+    ]
+  },
+  {
+    "actionTitle": "Le Texto de la Prise en Charge",
+    "text": "Ai pris en charge ce petit truc du quotidien qui te pesait, sans que tu aies à vérifier derrière moi — c'est réglé, proprement.",
+    "effect": "Annoncer avoir pris en charge une tâche habituellement gérée seule, en précisant explicitement l'absence de besoin de vérification, montre une fiabilité affirmée avec confiance. Elle reçoit une nouvelle rassurante plutôt qu'une demande de contrôle implicite.",
+    "sectionTitle": "SMS - Le Jour de la Tonte",
+    "predictable": "Une tâche prise en charge est rarement annoncée par texto en précisant explicitement l'absence de besoin de vérification derrière",
+    "themes": [
+      "Littéraire",
+      "Fiabilité"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ai pris en charge ce petit truc qui te pesait, sans que tu aies à vérifier — c'est réglé."
     ]
   }
 ]
