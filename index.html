@@ -210,6 +210,15 @@
                 <button data-category="POSTITS" role="tab" aria-selected="false" class="category-tab min-h-[44px] px-3 sm:px-5 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-500 hover:bg-slate-100 hover:text-slate-800">Post-its</button>
             </div>
 
+            <!-- Literary filter: a main, always-visible toggle (not buried in
+                 the collapsible theme list) that narrows every category down
+                 to the literary-styled cards (tagged "Literary"/"Littéraire"). -->
+            <div class="flex justify-center mb-5 sm:mb-8">
+                <button id="literary-filter-btn" type="button" aria-pressed="false" class="min-h-[44px] px-4 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-500 hover:bg-slate-100 hover:text-slate-800">
+                    📚 Literary only
+                </button>
+            </div>
+
             <!-- Loading Section -->
             <section id="loading-section" class="text-center py-20">
                  <div class="flex justify-center items-center space-x-2">
@@ -396,6 +405,10 @@
         const progressLabel = document.getElementById('progress-label');
         const progressPercent = document.getElementById('progress-percent');
         const progressBar = document.getElementById('progress-bar');
+
+        // Literary filter
+        const literaryFilterBtn = document.getElementById('literary-filter-btn');
+        let literaryFilterActive = false;
 
         // Cycle mode controls
         const cycleToggleBtn = document.getElementById('cycle-toggle-btn');
@@ -643,6 +656,40 @@
             renderActions();
             persistCycleSettings({ lastPeriodDate: cycleSettings.lastPeriodDate });
         });
+
+        /**
+         * "Literary only" is a main, always-visible filter (separate from
+         * the theme list buried in the collapsible panel) that narrows
+         * every category down to cards tagged "Literary"/"Littéraire".
+         * Remembered per-device like the filters-panel collapse state.
+         */
+        const LITERARY_FILTER_STORAGE_KEY = 'spiceapp_literary_filter_v1';
+
+        function renderLiteraryFilterUI() {
+            literaryFilterBtn.setAttribute('aria-pressed', literaryFilterActive ? 'true' : 'false');
+            literaryFilterBtn.classList.toggle('bg-indigo-600', literaryFilterActive);
+            literaryFilterBtn.classList.toggle('text-white', literaryFilterActive);
+            literaryFilterBtn.classList.toggle('border', !literaryFilterActive);
+            literaryFilterBtn.classList.toggle('border-slate-500', !literaryFilterActive);
+            literaryFilterBtn.classList.toggle('bg-white', !literaryFilterActive);
+            literaryFilterBtn.classList.toggle('text-slate-600', !literaryFilterActive);
+        }
+
+        literaryFilterBtn.addEventListener('click', () => {
+            literaryFilterActive = !literaryFilterActive;
+            try { localStorage.setItem(LITERARY_FILTER_STORAGE_KEY, literaryFilterActive ? '1' : '0'); } catch (e) { /* ignore */ }
+            renderLiteraryFilterUI();
+            renderActions();
+        });
+
+        (function initLiteraryFilter() {
+            try {
+                literaryFilterActive = localStorage.getItem(LITERARY_FILTER_STORAGE_KEY) === '1';
+            } catch (e) {
+                literaryFilterActive = false;
+            }
+            renderLiteraryFilterUI();
+        })();
 
         // --- Event Listeners ---
         window.addEventListener('DOMContentLoaded', loadActionsFromServer);
@@ -916,6 +963,9 @@
             if (currentFilters.drama > 0) filteredActions = filteredActions.filter(a => a.dramaIntensity === currentFilters.drama);
             if (currentFilters.sexual > 0) filteredActions = filteredActions.filter(a => a.sexualIntensity === currentFilters.sexual);
             if (currentFilters.theme !== 'all') filteredActions = filteredActions.filter(a => a.themes.includes(currentFilters.theme));
+            if (literaryFilterActive) {
+                filteredActions = filteredActions.filter(a => a.themes.includes('Literary') || a.themes.includes('Littéraire'));
+            }
             let activePhaseLabel = null;
             if (cycleSettings.cycleEnabled && cycleSettings.lastPeriodDate) {
                 const activePhases = getActivePhases(getCycleDay(cycleSettings.lastPeriodDate));
