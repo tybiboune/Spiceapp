@@ -312,7 +312,7 @@
                                     <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
                                 </svg>
                             </button>
-                            <div id="theme-filters" class="flex flex-wrap gap-2 mt-4 hidden">
+                            <div id="theme-filters" class="flex flex-wrap gap-2 mt-4 hidden max-h-56 overflow-y-auto pr-1">
                                 <!-- Theme buttons will be injected here -->
                             </div>
                         </div>
@@ -795,6 +795,7 @@
             languageFilterMode = LANGUAGE_FILTER_MODES[(index + 1) % LANGUAGE_FILTER_MODES.length];
             try { localStorage.setItem(LANGUAGE_FILTER_STORAGE_KEY, languageFilterMode); } catch (e) { /* ignore */ }
             renderLanguageFilterUI();
+            setupDashboard();
             renderActions();
         });
 
@@ -1019,19 +1020,53 @@
         }
         
         /**
-         * Sets up the dashboard UI elements like theme filters.
+         * Sets up the dashboard UI elements like theme filters. Themes are
+         * split into an EN and a FR set (per detectCardLanguage) and which
+         * set(s) render follows the current language switch (languageFilterMode),
+         * so the list never shows themes that don't even apply to what's
+         * currently visible.
          */
         function setupDashboard() {
-            const themesInCategory = new Set();
+            const themesEN = new Set();
+            const themesFR = new Set();
             allActions.filter(a => a.category === currentCategory).forEach(a => {
-                a.themes.forEach(theme => themesInCategory.add(theme));
+                const bucket = detectCardLanguage(a) === 'fr' ? themesFR : themesEN;
+                a.themes.forEach(theme => bucket.add(theme));
             });
 
-            const themeButtons = [`<button onclick="handleThemeFilter('all')" class="theme-btn active px-4 py-1.5 text-sm font-medium rounded-full bg-indigo-600 text-white">All Themes</button>`];
-            [...themesInCategory].sort().forEach(theme => {
-                themeButtons.push(`<button onclick="handleThemeFilter('${theme}')" class="theme-btn px-4 py-1.5 text-sm font-medium rounded-full bg-white text-slate-700 border border-slate-500 hover:bg-slate-100 hover:text-slate-900">${theme}</button>`);
-            });
-            themeFilters.innerHTML = themeButtons.join('');
+            // The previously selected theme may not exist in the language
+            // scope we're about to render (or in the new category) — fall
+            // back to 'all' rather than silently filtering to nothing.
+            // Resolved before building the buttons below so the correct one
+            // ends up marked active on this same pass.
+            const availableThemes = languageFilterMode === 'en' ? themesEN
+                : languageFilterMode === 'fr' ? themesFR
+                : new Set([...themesEN, ...themesFR]);
+            if (currentFilters.theme !== 'all' && !availableThemes.has(currentFilters.theme)) {
+                currentFilters.theme = 'all';
+            }
+
+            const isActive = (theme) => currentFilters.theme === theme;
+            const themeBtnClass = (active) => `theme-btn px-4 py-1.5 text-sm font-medium rounded-full ${active ? 'active bg-indigo-600 text-white' : 'bg-white text-slate-700 border border-slate-500 hover:bg-slate-100 hover:text-slate-900'}`;
+            const themeBtn = (theme) => `<button onclick="handleThemeFilter('${theme}')" class="${themeBtnClass(isActive(theme))}">${theme}</button>`;
+            const langHeader = (label) => `<span class="w-full text-xs font-semibold text-slate-400 uppercase tracking-wide mt-2 first:mt-0">${label}</span>`;
+
+            const parts = [`<button onclick="handleThemeFilter('all')" class="${themeBtnClass(isActive('all'))}">All Themes</button>`];
+            if (languageFilterMode === 'en') {
+                [...themesEN].sort().forEach(theme => parts.push(themeBtn(theme)));
+            } else if (languageFilterMode === 'fr') {
+                [...themesFR].sort().forEach(theme => parts.push(themeBtn(theme)));
+            } else {
+                if (themesEN.size) {
+                    parts.push(langHeader('EN'));
+                    [...themesEN].sort().forEach(theme => parts.push(themeBtn(theme)));
+                }
+                if (themesFR.size) {
+                    parts.push(langHeader('FR'));
+                    [...themesFR].sort().forEach(theme => parts.push(themeBtn(theme)));
+                }
+            }
+            themeFilters.innerHTML = parts.join('');
         }
         
         window.handleThemeFilter = (theme) => {
