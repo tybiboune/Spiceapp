@@ -1019,7 +1019,21 @@
             smartSearchDebounceTimer = setTimeout(async () => {
                 smartSearchAbortController = new AbortController();
                 try {
-                    const response = await fetch(`/api/search/smart?q=${encodeURIComponent(query)}`, {
+                    // If the query resolved to a curated mood (e.g. "salut"
+                    // → greeting), send that category's whole trigger list
+                    // along as synonyms — the server unions in every card
+                    // that mentions ANY of them, in either language, not
+                    // just the ones written with the specific quoted-phrase
+                    // `predictable` convention the client-side mood search
+                    // alone can see. This is what makes "salut" also surface
+                    // the many EN-only "hello"/"hi" cards, and vice versa.
+                    const moodIds = detectMoodCategories(query);
+                    const synonymTerms = [...new Set(
+                        moodIds.flatMap(id => (MOOD_CATEGORIES.find(c => c.id === id) || {}).triggers || [])
+                    )];
+                    const params = new URLSearchParams({ q: query });
+                    if (synonymTerms.length) params.set('synonyms', synonymTerms.join(','));
+                    const response = await fetch(`/api/search/smart?${params.toString()}`, {
                         signal: smartSearchAbortController.signal,
                     });
                     if (!response.ok) return;

@@ -314,22 +314,44 @@ def _get_search_index():
     return _search_index_cache
 
 SMART_SEARCH_TYPO_CUTOFF = 82  # rapidfuzz ratio (0-100) for "close enough to be a typo" between two WORDS
-SMART_SEARCH_LIMIT = 60
+SMART_SEARCH_LIMIT = 120
 SMART_SEARCH_MIN_QUERY_LEN = 3  # below this, fuzzy scoring is mostly noise
+# Fuzzy-correcting short words is unreliable no matter the cutoff: "hey" is
+# one Levenshtein edit (a single inserted letter) from "they", which is
+# common enough to have flooded results with completely unrelated cards.
+# A handful of edits is a much smaller fraction of a long word than a short
+# one, so only words at least this long get the fuzzy fallback at all —
+# shorter ones must match exactly.
+SMART_SEARCH_TYPO_MIN_LEN = 5
 
-def _ids_for_word(word, vocab, vocab_words):
+def _ids_for_word(word, vocab, vocab_words, allow_typo=True):
     """Card ids containing this exact query word, or — if there's no exact
     match — ids containing a word close enough in the vocabulary to plausibly
     be what was meant (typo tolerance)."""
     if word in vocab:
         return vocab[word]
-    if not _RAPIDFUZZ_AVAILABLE or len(word) < SMART_SEARCH_MIN_QUERY_LEN:
+    if not allow_typo or not _RAPIDFUZZ_AVAILABLE or len(word) < SMART_SEARCH_TYPO_MIN_LEN:
         return set()
     close = process.extract(word, vocab_words, scorer=fuzz.ratio, limit=5, score_cutoff=SMART_SEARCH_TYPO_CUTOFF)
     ids = set()
     for matched_word, _score, _idx in close:
         ids |= vocab[matched_word]
     return ids
+
+def _ids_for_phrase(phrase, vocab, vocab_words, allow_typo=True):
+    """Cards containing EVERY word of this phrase (AND, not per-word OR).
+    Matters for multi-word phrases especially: OR-ing "miss" and "you"
+    separately would let "you" alone — one of the most common words in the
+    whole corpus — match almost every card on its own; requiring both
+    together is what actually reflects the phrase "miss you"."""
+    words = [w for w in _tokenize(phrase) if len(w) >= SMART_SEARCH_MIN_QUERY_LEN]
+    if not words:
+        return set()
+    per_word_ids = [_ids_for_word(w, vocab, vocab_words, allow_typo=allow_typo) for w in words]
+    per_word_ids = [ids for ids in per_word_ids if ids]
+    if not per_word_ids:
+        return set()
+    return set.intersection(*per_word_ids)
 
 @app.route('/api/search/smart', methods=['GET'])
 def smart_search():
@@ -338,24 +360,47 @@ def smart_search():
     close enough in the vocabulary to plausibly be a typo of it) — falling
     back to "contains ANY query word" if that's too strict and finds
     nothing. Not a replacement for the frontend's own substring/mood
-    search — additive, called alongside it."""
+    search — additive, called alongside it.
+
+    Optional `synonyms` (comma-separated words/phrases) OR's in every card
+    matching any ONE of them (each phrase's own words still required
+    together — see _ids_for_phrase), on top of the `q` result above. The
+    frontend sends the matched mood category's own trigger list here (e.g.
+    typing "salut" resolves to the `greeting` category, whose triggers
+    include "hello"/"hi"/"bonjour"/"coucou"/...) — the client-side mood
+    search only catches the curated set of cards written with a specific
+    quoted-phrase `predictable` convention, while this reaches every OTHER
+    card that simply happens to mention one of those words anywhere, in
+    whichever language, which is most of them."""
     q = request.args.get('q', '').strip()
-    if not q or len(q) < SMART_SEARCH_MIN_QUERY_LEN or not _RAPIDFUZZ_AVAILABLE:
+    synonyms_param = request.args.get('synonyms', '')
+    synonyms = [s.strip() for s in synonyms_param.split(',') if s.strip()]
+    if not _RAPIDFUZZ_AVAILABLE or (
+        (not q or len(q) < SMART_SEARCH_MIN_QUERY_LEN) and not synonyms
+    ):
         return jsonify({"ids": []})
     index = _get_search_index()
     vocab = index["vocab"]
     vocab_words = list(vocab.keys())
-    query_words = [w for w in _tokenize(q) if len(w) >= SMART_SEARCH_MIN_QUERY_LEN]
-    if not query_words:
-        return jsonify({"ids": []})
-    per_word_ids = [_ids_for_word(w, vocab, vocab_words) for w in query_words]
-    per_word_ids = [ids for ids in per_word_ids if ids]  # drop query words that matched nothing at all
-    if not per_word_ids:
-        matched = set()
-    else:
-        matched = set.intersection(*per_word_ids)
-        if not matched:  # nothing has EVERY query word — loosen to ANY of them
-            matched = set.union(*per_word_ids)
+    matched = set()
+
+    if q:
+        q_matched = _ids_for_phrase(q, vocab, vocab_words, allow_typo=True)
+        if not q_matched:  # not every query word co-occurs anywhere — loosen to ANY of them
+            query_words = [w for w in _tokenize(q) if len(w) >= SMART_SEARCH_MIN_QUERY_LEN]
+            per_word_ids = [_ids_for_word(w, vocab, vocab_words) for w in query_words]
+            per_word_ids = [ids for ids in per_word_ids if ids]
+            if per_word_ids:
+                q_matched = set.union(*per_word_ids)
+        matched |= q_matched
+
+    for synonym in synonyms:
+        # Synonyms are canonical, already-correctly-spelled words from a
+        # curated list, not fallible free typing — exact match only, and no
+        # OR-of-individual-words fallback (that's exactly what let a bare
+        # "you" flood results — see _ids_for_phrase).
+        matched |= _ids_for_phrase(synonym, vocab, vocab_words, allow_typo=False)
+
     return jsonify({"ids": list(matched)[:SMART_SEARCH_LIMIT]})
 
 # --- API ROUTES ---
