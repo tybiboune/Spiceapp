@@ -526,6 +526,8 @@
               triggers: ['when are we meeting', 'quand se voit on', "quand est ce qu'on se voit", 'quand on se voit'] },
             { id: 'rest', predictableTerms: ['sleep in if you can', 'fais la grasse matinee'],
               triggers: ['sleep in', 'fais la grasse matinee', 'repose toi'] },
+            { id: 'pickup', predictableTerms: ['pick you up', 'je viens te chercher'],
+              triggers: ['pick you up', 'picking you up', "i'll pick you up", 'je viens te chercher', 'je passe te prendre', 'je te recupere'] },
         ];
 
         /**
@@ -985,6 +987,7 @@
             good_luck: '🍀 Good luck', take_care: '🤍 Take care', see_you_tonight: '🌆 See you tonight',
             cant_wait: '⏳ Can\'t wait', safe_travels: '🚗 Safe travels', running_late: '⏰ Running late',
             compliment: '😍 Compliment', meet_up: '📅 When are we meeting', rest: '😴 Rest / sleep in',
+            pickup: '🚗 I\'ll pick you up',
         };
         function updateMoodSearchHint(query, moodIds) {
             if (!query || moodIds.length === 0) {
