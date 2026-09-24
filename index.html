@@ -327,6 +327,15 @@
         <span id="literary-filter-thumb" class="w-6 h-6 rounded-full bg-white shadow flex items-center justify-center text-sm leading-none transition-transform">📚</span>
     </button>
 
+    <!-- Language filter: same icon-only switch style, stacked right below
+         the literary one. Off (default) shows every card regardless of
+         language, same as today; on narrows down to English-only cards
+         (detected from the text itself — see detectCardLanguage() — since
+         cards don't carry an explicit language field). -->
+    <button id="language-filter-btn" type="button" aria-pressed="false" aria-label="Filtrer : textes en anglais uniquement" title="Textes en anglais uniquement" class="fixed z-40 top-[calc(max(0.6rem,env(safe-area-inset-top))+2.75rem)] right-3 sm:right-6 w-14 h-8 rounded-full bg-slate-300 shadow-md flex items-center px-1 transition-colors">
+        <span id="language-filter-thumb" class="w-6 h-6 rounded-full bg-white shadow flex items-center justify-center text-[10px] font-bold leading-none text-slate-600 transition-transform">FR</span>
+    </button>
+
     <!-- Update status toast: hidden until an update check/apply is in flight or has a result to report. -->
     <div id="update-toast" role="status" aria-live="polite" class="hidden fixed z-40 left-1/2 -translate-x-1/2 bottom-[calc(1.25rem+env(safe-area-inset-bottom))] sm:bottom-6 max-w-[90vw] px-4 py-2.5 rounded-full shadow-xl bg-slate-800 text-white text-sm font-medium"></div>
 
@@ -409,7 +418,21 @@
         // Literary filter
         const literaryFilterBtn = document.getElementById('literary-filter-btn');
         const literaryFilterThumb = document.getElementById('literary-filter-thumb');
+        const languageFilterBtn = document.getElementById('language-filter-btn');
+        const languageFilterThumb = document.getElementById('language-filter-thumb');
         let literaryFilterActive = false;
+        let englishOnlyFilterActive = false;
+
+        /**
+         * Cards carry no explicit language field, so this detects it from
+         * the text itself: French prose overwhelmingly contains at least
+         * one accented character (é, à, ç, œ…), which plain English text
+         * essentially never does — cheap and reliable enough for this corpus.
+         */
+        function detectCardLanguage(action) {
+            const sample = `${action.actionTitle} ${action.text}`;
+            return /[àâäéèêëïîôöùûüçœ]/i.test(sample) ? 'fr' : 'en';
+        }
 
         // Cycle mode controls
         const cycleToggleBtn = document.getElementById('cycle-toggle-btn');
@@ -691,6 +714,42 @@
             renderLiteraryFilterUI();
         })();
 
+        /**
+         * "English only" — same switch pattern as the literary one. Off
+         * (default) shows every card regardless of language, matching the
+         * app's existing behavior; on narrows down to the English-detected
+         * subset, since French is the large majority and already the
+         * effective default view.
+         */
+        const LANGUAGE_FILTER_STORAGE_KEY = 'spiceapp_english_only_filter_v1';
+
+        function renderLanguageFilterUI() {
+            languageFilterBtn.setAttribute('aria-pressed', englishOnlyFilterActive ? 'true' : 'false');
+            languageFilterBtn.classList.toggle('bg-indigo-600', englishOnlyFilterActive);
+            languageFilterBtn.classList.toggle('bg-slate-300', !englishOnlyFilterActive);
+            languageFilterThumb.classList.toggle('translate-x-6', englishOnlyFilterActive);
+            languageFilterThumb.textContent = englishOnlyFilterActive ? 'EN' : 'FR';
+            languageFilterBtn.setAttribute('aria-label', englishOnlyFilterActive
+                ? 'Filtrer : textes en anglais uniquement (activé)'
+                : 'Filtrer : textes en anglais uniquement');
+        }
+
+        languageFilterBtn.addEventListener('click', () => {
+            englishOnlyFilterActive = !englishOnlyFilterActive;
+            try { localStorage.setItem(LANGUAGE_FILTER_STORAGE_KEY, englishOnlyFilterActive ? '1' : '0'); } catch (e) { /* ignore */ }
+            renderLanguageFilterUI();
+            renderActions();
+        });
+
+        (function initLanguageFilter() {
+            try {
+                englishOnlyFilterActive = localStorage.getItem(LANGUAGE_FILTER_STORAGE_KEY) === '1';
+            } catch (e) {
+                englishOnlyFilterActive = false;
+            }
+            renderLanguageFilterUI();
+        })();
+
         // --- Event Listeners ---
         window.addEventListener('DOMContentLoaded', loadActionsFromServer);
         window.addEventListener('DOMContentLoaded', loadCycleSettings);
@@ -965,6 +1024,9 @@
             if (currentFilters.theme !== 'all') filteredActions = filteredActions.filter(a => a.themes.includes(currentFilters.theme));
             if (literaryFilterActive) {
                 filteredActions = filteredActions.filter(a => a.themes.includes('Literary') || a.themes.includes('Littéraire'));
+            }
+            if (englishOnlyFilterActive) {
+                filteredActions = filteredActions.filter(a => detectCardLanguage(a) === 'en');
             }
             let activePhaseLabel = null;
             if (cycleSettings.cycleEnabled && cycleSettings.lastPeriodDate) {
