@@ -1573,7 +1573,7 @@
                         </div>
                     </div>
                     <div class="mb-5 sm:mb-6">
-                        ${action.sourceWork ? `<span class="inline-flex items-center gap-1 mb-1.5 px-2 py-0.5 rounded-full text-xs font-medium italic bg-amber-100 text-amber-900 border border-amber-300">📖 ${escapeHtml(action.sourceWork)}</span>` : ''}
+                        ${action.sourceWork ? `<span class="inline-flex items-center gap-1 mb-1.5 px-2 py-0.5 rounded-full text-xs font-medium italic bg-amber-100 text-amber-900 border border-amber-300">📖 ${escapeHtml(action.sourceWork)}${action.sourceWorkAuthor ? ` — ${escapeHtml(action.sourceWorkAuthor)}` : ''}</span>` : ''}
                         <h4 class="text-base sm:text-lg font-semibold text-indigo-700 mb-1.5 sm:mb-2">${action.actionTitle}</h4>
                         <p class="text-slate-700 text-[15px] sm:text-base leading-relaxed ${action.isDone ? 'line-through text-slate-400' : ''}">${action.text}</p>
                     </div>
@@ -1748,7 +1748,7 @@
             modalTitle.textContent = action.actionTitle;
             modalSection.textContent = action.sectionTitle || '';
             if (action.sourceWork) {
-                modalSourceWork.textContent = `📖 ${action.sourceWork}`;
+                modalSourceWork.textContent = `📖 ${action.sourceWork}${action.sourceWorkAuthor ? ` — ${action.sourceWorkAuthor}` : ''}`;
                 modalSourceWork.classList.remove('hidden');
             } else {
                 modalSourceWork.classList.add('hidden');

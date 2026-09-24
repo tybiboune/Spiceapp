@@ -1474,7 +1474,8 @@ def create_and_populate_db(actions_data):
             sectionTitle TEXT,
             predictable TEXT,
             variations TEXT,
-            sourceWork TEXT
+            sourceWork TEXT,
+            sourceWorkAuthor TEXT
         )
     ''')
     print("   - 'actions' table created.")
@@ -1486,8 +1487,8 @@ def create_and_populate_db(actions_data):
 
     for action in actions_data:
         cursor.execute('''
-            INSERT INTO actions (category, actionTitle, text, effect, themes, dramaIntensity, sexualIntensity, isDone, sectionTitle, predictable, variations, sourceWork)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            INSERT INTO actions (category, actionTitle, text, effect, themes, dramaIntensity, sexualIntensity, isDone, sectionTitle, predictable, variations, sourceWork, sourceWorkAuthor)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (
             action.get('category', 'ACTIONS'),
             action['actionTitle'],
@@ -1501,6 +1502,7 @@ def create_and_populate_db(actions_data):
             action.get('predictable', ''),
             json.dumps(action.get('variations', [])),
             action.get('sourceWork'),
+            action.get('sourceWorkAuthor'),
         ))
 
     conn.commit()
@@ -1542,6 +1544,7 @@ def load_extra_cards(filename, category, existing_actions):
             "dramaIntensity": card.get('dramaIntensity', 2),
             "sexualIntensity": card.get('sexualIntensity', 1),
             "sourceWork": card.get('sourceWork'),
+            "sourceWorkAuthor": card.get('sourceWorkAuthor'),
             "category": category,
             "variations": [
                 {"text": v if isinstance(v, str) else v.get('text', str(v)), "isDone": False}

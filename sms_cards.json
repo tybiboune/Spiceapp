@@ -16911,7 +16911,8 @@
       "Getting ready for nothing tonight, just for you — wear the good shirt too.",
       "Dressing up for absolutely no reason tonight, just for you."
     ],
-    "sourceWork": "War and Peace"
+    "sourceWork": "War and Peace",
+    "sourceWorkAuthor": "Leo Tolstoy"
   },
   {
     "actionTitle": "The Small Sonya Text",
@@ -16928,7 +16929,8 @@
     "variations": [
       "Did a thing for you today, not saying what — you'll find it eventually."
     ],
-    "sourceWork": "War and Peace"
+    "sourceWork": "War and Peace",
+    "sourceWorkAuthor": "Leo Tolstoy"
   },
   {
     "actionTitle": "The Andrei Homecoming Text",
@@ -16945,7 +16947,8 @@
     "variations": [
       "Nearly home, and it feels bigger than it should, somehow."
     ],
-    "sourceWork": "War and Peace"
+    "sourceWork": "War and Peace",
+    "sourceWorkAuthor": "Leo Tolstoy"
   },
   {
     "actionTitle": "The Nikolai Nerve Text",
@@ -16962,7 +16965,8 @@
     "variations": [
       "About to do the thing that scares me a little — wanted you to know."
     ],
-    "sourceWork": "War and Peace"
+    "sourceWork": "War and Peace",
+    "sourceWorkAuthor": "Leo Tolstoy"
   },
   {
     "actionTitle": "The Pierre Slow Honesty Text",
@@ -16979,7 +16983,8 @@
     "variations": [
       "Been sitting on something I want to tell you — just needed the right words."
     ],
-    "sourceWork": "War and Peace"
+    "sourceWork": "War and Peace",
+    "sourceWorkAuthor": "Leo Tolstoy"
   },
   {
     "actionTitle": "Onegin's Overdue Reply",
@@ -16996,7 +17001,8 @@
     "variations": [
       "Realized I never answered what you told me last week — thinking about it now."
     ],
-    "sourceWork": "Eugene Onegin"
+    "sourceWork": "Eugene Onegin",
+    "sourceWorkAuthor": "Alexander Pushkin"
   },
   {
     "actionTitle": "The Restraint Text",
@@ -17013,7 +17019,8 @@
     "variations": [
       "Almost let that turn into a whole thing — chose not to, on purpose."
     ],
-    "sourceWork": "Eugene Onegin"
+    "sourceWork": "Eugene Onegin",
+    "sourceWorkAuthor": "Alexander Pushkin"
   },
   {
     "actionTitle": "The Ceremony for No Reason Text",
@@ -17030,7 +17037,8 @@
     "variations": [
       "Lighting candles again tonight for no occasion — the first time wasn't a one-off."
     ],
-    "sourceWork": "Eugene Onegin"
+    "sourceWork": "Eugene Onegin",
+    "sourceWorkAuthor": "Alexander Pushkin"
   },
   {
     "actionTitle": "The Plain Truth Text",
@@ -17047,7 +17055,8 @@
     "variations": [
       "Not waiting for the right moment — you matter more than I usually say."
     ],
-    "sourceWork": "Eugene Onegin"
+    "sourceWork": "Eugene Onegin",
+    "sourceWorkAuthor": "Alexander Pushkin"
   },
   {
     "actionTitle": "The Second Chance Text",
@@ -17064,7 +17073,8 @@
     "variations": [
       "Thinking about that thing I got wrong — want to try again, properly."
     ],
-    "sourceWork": "Eugene Onegin"
+    "sourceWork": "Eugene Onegin",
+    "sourceWorkAuthor": "Alexander Pushkin"
   },
   {
     "actionTitle": "The Cherry Orchard Goodbye Text",
@@ -17081,7 +17091,8 @@
     "variations": [
       "Thinking this season with us is almost over — let's actually notice it end."
     ],
-    "sourceWork": "The Cherry Orchard"
+    "sourceWork": "The Cherry Orchard",
+    "sourceWorkAuthor": "Anton Chekhov"
   },
   {
     "actionTitle": "The Quiet Fix Text",
@@ -17098,7 +17109,8 @@
     "variations": [
       "Sorted out that thing you've been dealing with — didn't want to make a big deal."
     ],
-    "sourceWork": "The Cherry Orchard"
+    "sourceWork": "The Cherry Orchard",
+    "sourceWorkAuthor": "Anton Chekhov"
   },
   {
     "actionTitle": "The Shared Silence Text",
@@ -17115,7 +17127,8 @@
     "variations": [
       "Thinking about that quiet ten minutes earlier — what was going through your head?"
     ],
-    "sourceWork": "The Cherry Orchard"
+    "sourceWork": "The Cherry Orchard",
+    "sourceWorkAuthor": "Anton Chekhov"
   },
   {
     "actionTitle": "The Hopeful Change Text",
@@ -17132,7 +17145,8 @@
     "variations": [
       "Been thinking about that stale thing we do — want to actually change it this week?"
     ],
-    "sourceWork": "The Cherry Orchard"
+    "sourceWork": "The Cherry Orchard",
+    "sourceWorkAuthor": "Anton Chekhov"
   },
   {
     "actionTitle": "The Foresight Text",
@@ -17149,7 +17163,8 @@
     "variations": [
       "Saw that thing coming and handled it before it became a problem — no big deal."
     ],
-    "sourceWork": "The Cherry Orchard"
+    "sourceWork": "The Cherry Orchard",
+    "sourceWorkAuthor": "Anton Chekhov"
   },
   {
     "actionTitle": "The Anna Text From the Platform",
@@ -17166,7 +17181,8 @@
     "variations": [
       "Standing here thinking about you with zero distractions for once — rare."
     ],
-    "sourceWork": "Anna Karenina"
+    "sourceWork": "Anna Karenina",
+    "sourceWorkAuthor": "Leo Tolstoy"
   },
   {
     "actionTitle": "The Levin Curiosity Text",
@@ -17183,7 +17199,8 @@
     "variations": [
       "That thing you said about how you see it — still thinking about it."
     ],
-    "sourceWork": "Anna Karenina"
+    "sourceWork": "Anna Karenina",
+    "sourceWorkAuthor": "Leo Tolstoy"
   },
   {
     "actionTitle": "The Kitty Steadiness Text",
@@ -17200,7 +17217,8 @@
     "variations": [
       "Noticed how calm you stayed through that earlier — genuinely impressive."
     ],
-    "sourceWork": "Anna Karenina"
+    "sourceWork": "Anna Karenina",
+    "sourceWorkAuthor": "Leo Tolstoy"
   },
   {
     "actionTitle": "The Beyond Appearance Text",
@@ -17217,7 +17235,8 @@
     "variations": [
       "Thinking about how much I like the way your mind works, honestly."
     ],
-    "sourceWork": "Anna Karenina"
+    "sourceWork": "Anna Karenina",
+    "sourceWorkAuthor": "Leo Tolstoy"
   },
   {
     "actionTitle": "The Honest Feeling Text",
@@ -17234,7 +17253,8 @@
     "variations": [
       "Something's been sitting with me today I want to tell you — talk later?"
     ],
-    "sourceWork": "Anna Karenina"
+    "sourceWork": "Anna Karenina",
+    "sourceWorkAuthor": "Leo Tolstoy"
   },
   {
     "actionTitle": "The Elder's Question Text",
@@ -17251,7 +17271,8 @@
     "variations": [
       "What actually matters most to you these days — genuinely want to know."
     ],
-    "sourceWork": "The Brothers Karamazov"
+    "sourceWork": "The Brothers Karamazov",
+    "sourceWorkAuthor": "Fyodor Dostoevsky"
   },
   {
     "actionTitle": "The Alyosha Listening Text",
@@ -17268,7 +17289,8 @@
     "variations": [
       "How did that thing end up going, the one you vented about?"
     ],
-    "sourceWork": "The Brothers Karamazov"
+    "sourceWork": "The Brothers Karamazov",
+    "sourceWorkAuthor": "Fyodor Dostoevsky"
   },
   {
     "actionTitle": "The Chosen Silence Text",
@@ -17285,7 +17307,8 @@
     "variations": [
       "Wanted to argue earlier but let it go on purpose — that was deliberate."
     ],
-    "sourceWork": "The Brothers Karamazov"
+    "sourceWork": "The Brothers Karamazov",
+    "sourceWorkAuthor": "Fyodor Dostoevsky"
   },
   {
     "actionTitle": "The Reckless and Steady Text",
@@ -17302,7 +17325,8 @@
     "variations": [
       "Did something reckless for you today — tomorrow, something quiet, I promise."
     ],
-    "sourceWork": "The Brothers Karamazov"
+    "sourceWork": "The Brothers Karamazov",
+    "sourceWorkAuthor": "Fyodor Dostoevsky"
   },
   {
     "actionTitle": "The Withheld Confession Text",
@@ -17319,7 +17343,8 @@
     "variations": [
       "There's something I've been too proud to say — going to say it soon."
     ],
-    "sourceWork": "The Brothers Karamazov"
+    "sourceWork": "The Brothers Karamazov",
+    "sourceWorkAuthor": "Fyodor Dostoevsky"
   },
   {
     "actionTitle": "The Pemberley Pride Text",
@@ -17336,7 +17361,8 @@
     "variations": [
       "Showed you that thing I'm quietly proud of — what did you really think?"
     ],
-    "sourceWork": "Pride and Prejudice"
+    "sourceWork": "Pride and Prejudice",
+    "sourceWorkAuthor": "Jane Austen"
   },
   {
     "actionTitle": "The Second Ask Text",
@@ -17353,7 +17379,8 @@
     "variations": [
       "Thought about what went wrong last time — want to try asking again, better."
     ],
-    "sourceWork": "Pride and Prejudice"
+    "sourceWork": "Pride and Prejudice",
+    "sourceWorkAuthor": "Jane Austen"
   },
   {
     "actionTitle": "The Library Invite Text",
@@ -17370,7 +17397,8 @@
     "variations": [
       "Want to show you the thing I usually keep to myself — feels right now."
     ],
-    "sourceWork": "Pride and Prejudice"
+    "sourceWork": "Pride and Prejudice",
+    "sourceWorkAuthor": "Jane Austen"
   },
   {
     "actionTitle": "The Effortful Warmth Text",
@@ -17387,7 +17415,8 @@
     "variations": [
       "Had to actually work at being warm tonight — wasn't effortless, wanted to say."
     ],
-    "sourceWork": "Pride and Prejudice"
+    "sourceWork": "Pride and Prejudice",
+    "sourceWorkAuthor": "Jane Austen"
   },
   {
     "actionTitle": "The Explaining Letter Text",
@@ -17404,7 +17433,8 @@
     "variations": [
       "Wrote you something explaining a thing I handled badly — no rush to reply."
     ],
-    "sourceWork": "Pride and Prejudice"
+    "sourceWork": "Pride and Prejudice",
+    "sourceWorkAuthor": "Jane Austen"
   },
   {
     "actionTitle": "The Wild Honesty Text",
@@ -17421,7 +17451,8 @@
     "variations": [
       "Something true I want to say without softening it — fair warning, it's a lot."
     ],
-    "sourceWork": "Wuthering Heights"
+    "sourceWork": "Wuthering Heights",
+    "sourceWorkAuthor": "Emily Brontë"
   },
   {
     "actionTitle": "The Too Intense Text",
@@ -17438,7 +17469,8 @@
     "variations": [
       "What I feel for you is honestly a bit much to say sometimes — easier to text first."
     ],
-    "sourceWork": "Wuthering Heights"
+    "sourceWork": "Wuthering Heights",
+    "sourceWorkAuthor": "Emily Brontë"
   },
   {
     "actionTitle": "The Old Ghost Text",
@@ -17455,7 +17487,8 @@
     "variations": [
       "That old thing that never got resolved — want to actually talk it through."
     ],
-    "sourceWork": "Wuthering Heights"
+    "sourceWork": "Wuthering Heights",
+    "sourceWorkAuthor": "Emily Brontë"
   },
   {
     "actionTitle": "The Steady Promise Text",
@@ -17472,7 +17505,8 @@
     "variations": [
       "Going to keep showing up like this — not just when it's easy, every time."
     ],
-    "sourceWork": "Wuthering Heights"
+    "sourceWork": "Wuthering Heights",
+    "sourceWorkAuthor": "Emily Brontë"
   },
   {
     "actionTitle": "The Private Mark Text",
@@ -17489,7 +17523,8 @@
     "variations": [
       "Made a small private thing that's just about you — show you soon."
     ],
-    "sourceWork": "Wuthering Heights"
+    "sourceWork": "Wuthering Heights",
+    "sourceWorkAuthor": "Emily Brontë"
   },
   {
     "actionTitle": "The Rewritten Ledger Text",
@@ -17506,7 +17541,8 @@
     "variations": [
       "Been trying to fix that stingy habit — curious if you've noticed anything."
     ],
-    "sourceWork": "A Christmas Carol"
+    "sourceWork": "A Christmas Carol",
+    "sourceWorkAuthor": "Charles Dickens"
   },
   {
     "actionTitle": "The Old Christmas Text",
@@ -17523,7 +17559,8 @@
     "variations": [
       "Thinking about that early memory of us — want to recreate part of it soon."
     ],
-    "sourceWork": "A Christmas Carol"
+    "sourceWork": "A Christmas Carol",
+    "sourceWorkAuthor": "Charles Dickens"
   },
   {
     "actionTitle": "The Second Thank You Text",
@@ -17540,7 +17577,8 @@
     "variations": [
       "Also wanted to thank you for that other small thing — I noticed that too."
     ],
-    "sourceWork": "A Christmas Carol"
+    "sourceWork": "A Christmas Carol",
+    "sourceWorkAuthor": "Charles Dickens"
   },
   {
     "actionTitle": "The Chosen Future Text",
@@ -17557,7 +17595,8 @@
     "variations": [
       "Been picturing a specific future with you — want to work toward it, soon."
     ],
-    "sourceWork": "A Christmas Carol"
+    "sourceWork": "A Christmas Carol",
+    "sourceWorkAuthor": "Charles Dickens"
   },
   {
     "actionTitle": "The Unnecessary Party Text",
@@ -17574,7 +17613,8 @@
     "variations": [
       "Doing something small and joyful tonight for no reason — again, not a fluke."
     ],
-    "sourceWork": "A Christmas Carol"
+    "sourceWork": "A Christmas Carol",
+    "sourceWorkAuthor": "Charles Dickens"
   },
   {
     "actionTitle": "The Flowers Herself Text",
@@ -17591,7 +17631,8 @@
     "variations": [
       "Noticed that little thing you do just for yourself — love that, keep doing it."
     ],
-    "sourceWork": "Mrs Dalloway"
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
   },
   {
     "actionTitle": "The Honest Party Text",
@@ -17608,7 +17649,8 @@
     "variations": [
       "That was genuinely fun — what was your actual favorite part of it?"
     ],
-    "sourceWork": "Mrs Dalloway"
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
   },
   {
     "actionTitle": "The Whole Day Text",
@@ -17625,7 +17667,8 @@
     "variations": [
       "That whole day felt different somehow — what made it stand out for you?"
     ],
-    "sourceWork": "Mrs Dalloway"
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
   },
   {
     "actionTitle": "The Unnoticed Weight Text",
@@ -17642,7 +17685,8 @@
     "variations": [
       "Wondering if something's quietly weighing on you — here, whenever ready."
     ],
-    "sourceWork": "Mrs Dalloway"
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
   },
   {
     "actionTitle": "The Better Return Text",
@@ -17659,7 +17703,8 @@
     "variations": [
       "Thinking about that old tension, no bitterness at all, just want to clear it."
     ],
-    "sourceWork": "Mrs Dalloway"
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
   },
   {
     "actionTitle": "The Meant Valentine Text",
@@ -17676,7 +17721,8 @@
     "variations": [
       "That thing I sent earlier wasn't a joke — meant every word, wanted to be clear."
     ],
-    "sourceWork": "Far from the Madding Crowd"
+    "sourceWork": "Far from the Madding Crowd",
+    "sourceWorkAuthor": "Thomas Hardy"
   },
   {
     "actionTitle": "The Gabriel Oak Text",
@@ -17693,7 +17739,8 @@
     "variations": [
       "Fixed that thing for you again, no big deal — don't need credit for it."
     ],
-    "sourceWork": "Far from the Madding Crowd"
+    "sourceWork": "Far from the Madding Crowd",
+    "sourceWorkAuthor": "Thomas Hardy"
   },
   {
     "actionTitle": "The Storm Teamwork Text",
@@ -17710,7 +17757,8 @@
     "variations": [
       "That was genuinely good teamwork earlier — we're good at that, wanted to say."
     ],
-    "sourceWork": "Far from the Madding Crowd"
+    "sourceWork": "Far from the Madding Crowd",
+    "sourceWorkAuthor": "Thomas Hardy"
   },
   {
     "actionTitle": "The Caught Fixation Text",
@@ -17727,7 +17775,8 @@
     "variations": [
       "Caught myself fixating on your reaction today — letting it go, wanted to admit it."
     ],
-    "sourceWork": "Far from the Madding Crowd"
+    "sourceWork": "Far from the Madding Crowd",
+    "sourceWorkAuthor": "Thomas Hardy"
   },
   {
     "actionTitle": "The Reaffirmed Promise Text",
@@ -17744,7 +17793,8 @@
     "variations": [
       "Still mean that promise from a while back — proving it this week, watch."
     ],
-    "sourceWork": "Far from the Madding Crowd"
+    "sourceWork": "Far from the Madding Crowd",
+    "sourceWorkAuthor": "Thomas Hardy"
   },
   {
     "actionTitle": "Le Texto de l'Air Qui Change",
@@ -17761,7 +17811,8 @@
     "variations": [
       "Ça sent le changement de saison — une marche improvisée tout à l'heure ?"
     ],
-    "sourceWork": "Guerre et Paix"
+    "sourceWork": "Guerre et Paix",
+    "sourceWorkAuthor": "Léon Tolstoï"
   },
   {
     "actionTitle": "Le Texto du Renoncement Discret",
@@ -17778,7 +17829,8 @@
     "variations": [
       "Ai laissé tomber un truc aujourd'hui pour te laisser choisir — voulais te le dire."
     ],
-    "sourceWork": "Guerre et Paix"
+    "sourceWork": "Guerre et Paix",
+    "sourceWorkAuthor": "Léon Tolstoï"
   },
   {
     "actionTitle": "Le Texto du Courage du Matin",
@@ -17795,7 +17847,8 @@
     "variations": [
       "Ai fait ce matin le truc que je repoussais — je te raconte ce soir comment c'était."
     ],
-    "sourceWork": "Guerre et Paix"
+    "sourceWork": "Guerre et Paix",
+    "sourceWorkAuthor": "Léon Tolstoï"
   },
   {
     "actionTitle": "Le Texto de la Question Laissée Ouverte",
@@ -17812,7 +17865,8 @@
     "variations": [
       "Cette question qu'on n'a pas tranchée, prends ton temps — on en reparle demain."
     ],
-    "sourceWork": "Guerre et Paix"
+    "sourceWork": "Guerre et Paix",
+    "sourceWorkAuthor": "Léon Tolstoï"
   },
   {
     "actionTitle": "Le Texto du Compte Rendu Honnête",
@@ -17829,7 +17883,8 @@
     "variations": [
       "Il y a un truc que je garde d'habitude pour moi — je te le raconte ce soir."
     ],
-    "sourceWork": "Guerre et Paix"
+    "sourceWork": "Guerre et Paix",
+    "sourceWorkAuthor": "Léon Tolstoï"
   },
   {
     "actionTitle": "Le Texto du Rêve Raconté",
@@ -17846,7 +17901,8 @@
     "variations": [
       "Ce rêve bizarre que tu m'as raconté l'autre jour, j'y repense encore."
     ],
-    "sourceWork": "Eugène Onéguine"
+    "sourceWork": "Eugène Onéguine",
+    "sourceWorkAuthor": "Alexandre Pouchkine"
   },
   {
     "actionTitle": "Le Texto Sans Ironie",
@@ -17863,7 +17919,8 @@
     "variations": [
       "Repensant à ce truc que tu aimes — en fait ça m'a plu, on peut refaire ça."
     ],
-    "sourceWork": "Eugène Onéguine"
+    "sourceWork": "Eugène Onéguine",
+    "sourceWorkAuthor": "Alexandre Pouchkine"
   },
   {
     "actionTitle": "Le Texto de la Pique Retenue",
@@ -17880,7 +17937,8 @@
     "variations": [
       "Ai failli sortir une pique méchante tout à l'heure — l'ai gardée pour moi."
     ],
-    "sourceWork": "Eugène Onéguine"
+    "sourceWork": "Eugène Onéguine",
+    "sourceWorkAuthor": "Alexandre Pouchkine"
   },
   {
     "actionTitle": "Le Texto de la Lettre Cachée",
@@ -17897,7 +17955,8 @@
     "variations": [
       "J'ai écrit un truc entier sur ce que je ressens, pas envoyé tout de suite."
     ],
-    "sourceWork": "Eugène Onéguine"
+    "sourceWork": "Eugène Onéguine",
+    "sourceWorkAuthor": "Alexandre Pouchkine"
   },
   {
     "actionTitle": "Le Texto du Refus Poli, Retenu",
@@ -17914,7 +17973,8 @@
     "variations": [
       "Vais accepter ce truc que je préférerais éviter, de bonne grâce, vraiment."
     ],
-    "sourceWork": "Eugène Onéguine"
+    "sourceWork": "Eugène Onéguine",
+    "sourceWorkAuthor": "Alexandre Pouchkine"
   },
   {
     "actionTitle": "Le Texto du Premier Pas",
@@ -17931,7 +17991,8 @@
     "variations": [
       "Ai enfin commencé ce truc que je remets depuis des semaines — un tout petit pas."
     ],
-    "sourceWork": "La Cerisaie"
+    "sourceWork": "La Cerisaie",
+    "sourceWorkAuthor": "Anton Tchekhov"
   },
   {
     "actionTitle": "Le Texto du Geste Plutôt Que du Discours",
@@ -17948,7 +18009,8 @@
     "variations": [
       "Au lieu d'en parler encore, j'ai juste réglé le truc directement — tu verras."
     ],
-    "sourceWork": "La Cerisaie"
+    "sourceWork": "La Cerisaie",
+    "sourceWorkAuthor": "Anton Tchekhov"
   },
   {
     "actionTitle": "Le Texto de la Chose Ancienne Entretenue",
@@ -17965,7 +18027,8 @@
     "variations": [
       "Ai pris soin aujourd'hui de ce vieux truc entre nous — ça représente quoi pour toi ?"
     ],
-    "sourceWork": "La Cerisaie"
+    "sourceWork": "La Cerisaie",
+    "sourceWorkAuthor": "Anton Tchekhov"
   },
   {
     "actionTitle": "Le Texto de la Dette Réglée",
@@ -17982,7 +18045,8 @@
     "variations": [
       "Ai réglé ce petit truc que je te devais depuis un moment — c'est fait."
     ],
-    "sourceWork": "La Cerisaie"
+    "sourceWork": "La Cerisaie",
+    "sourceWorkAuthor": "Anton Tchekhov"
   },
   {
     "actionTitle": "Le Texto de la Petite Nouveauté",
@@ -17999,7 +18063,8 @@
     "variations": [
       "Et si on essayait un tout petit truc différent cette semaine, ensemble ?"
     ],
-    "sourceWork": "La Cerisaie"
+    "sourceWork": "La Cerisaie",
+    "sourceWorkAuthor": "Anton Tchekhov"
   },
   {
     "actionTitle": "Le Texto de l'Effort Partagé",
@@ -18016,7 +18081,8 @@
     "variations": [
       "Ça te dit un truc physique et fatigant ensemble aujourd'hui, un vrai effort ?"
     ],
-    "sourceWork": "Anna Karénine"
+    "sourceWork": "Anna Karénine",
+    "sourceWorkAuthor": "Léon Tolstoï"
   },
   {
     "actionTitle": "Le Texto du Petit Détail Remarqué",
@@ -18033,7 +18099,8 @@
     "variations": [
       "Remarqué un petit truc différent chez toi aujourd'hui — je l'ai vu, j'aime bien."
     ],
-    "sourceWork": "Anna Karénine"
+    "sourceWork": "Anna Karénine",
+    "sourceWorkAuthor": "Léon Tolstoï"
   },
   {
     "actionTitle": "Le Texto du Ralenti Volontaire",
@@ -18050,7 +18117,8 @@
     "variations": [
       "Ai choisi de ralentir aujourd'hui sur un truc que je pousse trop fort — je t'explique plus tard."
     ],
-    "sourceWork": "Anna Karénine"
+    "sourceWork": "Anna Karénine",
+    "sourceWorkAuthor": "Léon Tolstoï"
   },
   {
     "actionTitle": "Le Texto de la Fierté Assumée",
@@ -18067,7 +18135,8 @@
     "variations": [
       "Montre-moi un truc que tu sais bien faire — j'ai envie de te voir briller."
     ],
-    "sourceWork": "Anna Karénine"
+    "sourceWork": "Anna Karénine",
+    "sourceWorkAuthor": "Léon Tolstoï"
   },
   {
     "actionTitle": "Le Texto du Silence Qui Fait du Bien",
@@ -18084,7 +18153,8 @@
     "variations": [
       "Ce moment silencieux tout à l'heure, sans rien dire, ça m'a vraiment fait du bien."
     ],
-    "sourceWork": "Anna Karénine"
+    "sourceWork": "Anna Karénine",
+    "sourceWorkAuthor": "Léon Tolstoï"
   },
   {
     "actionTitle": "Le Texto de l'Oignon Tendu",
@@ -18101,7 +18171,8 @@
     "variations": [
       "Fait un tout petit truc gentil pour un inconnu aujourd'hui — voulais te le raconter."
     ],
-    "sourceWork": "Les Frères Karamazov"
+    "sourceWork": "Les Frères Karamazov",
+    "sourceWorkAuthor": "Fiodor Dostoïevski"
   },
   {
     "actionTitle": "Le Texto du Pas de Côté",
@@ -18118,7 +18189,8 @@
     "variations": [
       "Ai senti la colère monter tout à l'heure — suis sorti marcher, ça a bien fait."
     ],
-    "sourceWork": "Les Frères Karamazov"
+    "sourceWork": "Les Frères Karamazov",
+    "sourceWorkAuthor": "Fiodor Dostoïevski"
   },
   {
     "actionTitle": "Le Texto du Geste Plutôt Que du Mot",
@@ -18135,7 +18207,8 @@
     "variations": [
       "Après notre tension tout à l'heure, préférais un geste tendre à un dernier mot."
     ],
-    "sourceWork": "Les Frères Karamazov"
+    "sourceWork": "Les Frères Karamazov",
+    "sourceWorkAuthor": "Fiodor Dostoïevski"
   },
   {
     "actionTitle": "Le Texto de la Confiance Lâchée",
@@ -18152,7 +18225,8 @@
     "variations": [
       "Je te laisse gérer un truc que je fais toujours seul — je te fais confiance."
     ],
-    "sourceWork": "Les Frères Karamazov"
+    "sourceWork": "Les Frères Karamazov",
+    "sourceWorkAuthor": "Fiodor Dostoïevski"
   },
   {
     "actionTitle": "Le Texto de la Question Simple",
@@ -18169,7 +18243,8 @@
     "variations": [
       "Question toute simple : pourquoi on évite toujours de parler de ce truc-là ?"
     ],
-    "sourceWork": "Les Frères Karamazov"
+    "sourceWork": "Les Frères Karamazov",
+    "sourceWorkAuthor": "Fiodor Dostoïevski"
   },
   {
     "actionTitle": "Le Texto de l'Acceptation",
@@ -18186,7 +18261,8 @@
     "variations": [
       "Allais décliner un truc par réflexe — ai accepté à la place, je l'ai remarqué."
     ],
-    "sourceWork": "Orgueil et Préjugés"
+    "sourceWork": "Orgueil et Préjugés",
+    "sourceWorkAuthor": "Jane Austen"
   },
   {
     "actionTitle": "Le Texto du Jugement Révisé",
@@ -18203,7 +18279,8 @@
     "variations": [
       "Repensant à un truc mal jugé chez toi au début — je me trompais complètement."
     ],
-    "sourceWork": "Orgueil et Préjugés"
+    "sourceWork": "Orgueil et Préjugés",
+    "sourceWorkAuthor": "Jane Austen"
   },
   {
     "actionTitle": "Le Texto du Choix Assumé",
@@ -18220,7 +18297,8 @@
     "variations": [
       "Ai choisi ce qui nous rend heureux plutôt que le plus pratique — je t'explique."
     ],
-    "sourceWork": "Orgueil et Préjugés"
+    "sourceWork": "Orgueil et Préjugés",
+    "sourceWorkAuthor": "Jane Austen"
   },
   {
     "actionTitle": "Le Texto de la Relecture",
@@ -18237,7 +18315,8 @@
     "variations": [
       "Relu ton message de l'autre jour, avec plus d'attention — je te réponds vraiment."
     ],
-    "sourceWork": "Orgueil et Préjugés"
+    "sourceWork": "Orgueil et Préjugés",
+    "sourceWorkAuthor": "Jane Austen"
   },
   {
     "actionTitle": "Le Texto de l'Encouragement Pur",
@@ -18254,7 +18333,8 @@
     "variations": [
       "Peu importe le niveau, ça te rend vraiment heureuse à voir, c'est tout ce qui compte."
     ],
-    "sourceWork": "Orgueil et Préjugés"
+    "sourceWork": "Orgueil et Préjugés",
+    "sourceWorkAuthor": "Jane Austen"
   },
   {
     "actionTitle": "Le Texto de la Marge Cachée",
@@ -18271,7 +18351,8 @@
     "variations": [
       "J'ai écrit un mot quelque part dans un truc que tu utilises tous les jours."
     ],
-    "sourceWork": "Les Hauts de Hurlevent"
+    "sourceWork": "Les Hauts de Hurlevent",
+    "sourceWorkAuthor": "Emily Brontë"
   },
   {
     "actionTitle": "Le Texto de l'Origine Racontée",
@@ -18288,7 +18369,8 @@
     "variations": [
       "Il y a une raison à cette habitude bizarre chez moi — je te raconte ce soir."
     ],
-    "sourceWork": "Les Hauts de Hurlevent"
+    "sourceWork": "Les Hauts de Hurlevent",
+    "sourceWorkAuthor": "Emily Brontë"
   },
   {
     "actionTitle": "Le Texto de l'Attente Sans Reproche",
@@ -18305,7 +18387,8 @@
     "variations": [
       "T'attends depuis un moment, aucun souci, prends vraiment ton temps."
     ],
-    "sourceWork": "Les Hauts de Hurlevent"
+    "sourceWork": "Les Hauts de Hurlevent",
+    "sourceWorkAuthor": "Emily Brontë"
   },
   {
     "actionTitle": "Le Texto de la Douceur Remarquée",
@@ -18322,7 +18405,8 @@
     "variations": [
       "Ai essayé d'être plus doux aujourd'hui — tu l'as senti, ou pas du tout ?"
     ],
-    "sourceWork": "Les Hauts de Hurlevent"
+    "sourceWork": "Les Hauts de Hurlevent",
+    "sourceWorkAuthor": "Emily Brontë"
   },
   {
     "actionTitle": "Le Texto du Calme Choisi",
@@ -18339,7 +18423,8 @@
     "variations": [
       "Ce calme qu'on a plutôt que le grand drame, ça me convient très bien, sans regret."
     ],
-    "sourceWork": "Les Hauts de Hurlevent"
+    "sourceWork": "Les Hauts de Hurlevent",
+    "sourceWorkAuthor": "Emily Brontë"
   },
   {
     "actionTitle": "Le Texto du Geste Secret",
@@ -18356,7 +18441,8 @@
     "variations": [
       "Ai fait un truc généreux pour quelqu'un d'autre aujourd'hui, en secret."
     ],
-    "sourceWork": "Un Chant de Noël"
+    "sourceWork": "Un Chant de Noël",
+    "sourceWorkAuthor": "Charles Dickens"
   },
   {
     "actionTitle": "Le Texto du Confort Discret",
@@ -18373,7 +18459,8 @@
     "variations": [
       "Ai amélioré un petit truc chez toi que tu utilises souvent sans te plaindre."
     ],
-    "sourceWork": "Un Chant de Noël"
+    "sourceWork": "Un Chant de Noël",
+    "sourceWorkAuthor": "Charles Dickens"
   },
   {
     "actionTitle": "Le Texto de la Fête Improvisée",
@@ -18390,7 +18477,8 @@
     "variations": [
       "On improvise un petit truc joyeux ce soir, sans raison et sans rien de parfait."
     ],
-    "sourceWork": "Un Chant de Noël"
+    "sourceWork": "Un Chant de Noël",
+    "sourceWorkAuthor": "Charles Dickens"
   },
   {
     "actionTitle": "Le Texto de l'Invitation Acceptée",
@@ -18407,7 +18495,8 @@
     "variations": [
       "Ce truc que je décline toujours — cette fois j'accepte à fond, sans compter."
     ],
-    "sourceWork": "Un Chant de Noël"
+    "sourceWork": "Un Chant de Noël",
+    "sourceWorkAuthor": "Charles Dickens"
   },
   {
     "actionTitle": "Le Texto du Réveil Recommencé",
@@ -18424,7 +18513,8 @@
     "variations": [
       "Comme hier, je recommence le même geste du matin — une vraie habitude qui s'installe."
     ],
-    "sourceWork": "Un Chant de Noël"
+    "sourceWork": "Un Chant de Noël",
+    "sourceWorkAuthor": "Charles Dickens"
   },
   {
     "actionTitle": "Le Texto de l'Invitation à la Solitude",
@@ -18441,7 +18531,8 @@
     "variations": [
       "Prends vraiment un moment pour toi aujourd'hui — aucune question à ton retour, promis."
     ],
-    "sourceWork": "Mrs Dalloway"
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
   },
   {
     "actionTitle": "Le Texto du Rendez-vous Fixe",
@@ -18458,7 +18549,8 @@
     "variations": [
       "Comme convenu, même heure que d'habitude, rien qu'à nous deux, sans exception."
     ],
-    "sourceWork": "Mrs Dalloway"
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
   },
   {
     "actionTitle": "Le Texto du Souvenir Complimenté",
@@ -18475,7 +18567,8 @@
     "variations": [
       "Repensant à cette période où tu étais plus folle et libre — tu t'y sens encore proche ?"
     ],
-    "sourceWork": "Mrs Dalloway"
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
   },
   {
     "actionTitle": "Le Texto du Cadeau Partagé",
@@ -18492,7 +18585,8 @@
     "variations": [
       "Et si on offrait ensemble un petit truc à quelqu'un d'autre aujourd'hui ?"
     ],
-    "sourceWork": "Mrs Dalloway"
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
   },
   {
     "actionTitle": "Le Texto du Moment Étiré",
@@ -18509,7 +18603,8 @@
     "variations": [
       "Content qu'on n'ait pas écourté ce moment hier soir — vraiment content."
     ],
-    "sourceWork": "Mrs Dalloway"
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
   },
   {
     "actionTitle": "Le Texto de la Compétence Partagée",
@@ -18526,7 +18621,8 @@
     "variations": [
       "Ça te dit que je te montre un truc ce soir ? Tu pourras essayer, je te laisse le temps."
     ],
-    "sourceWork": "Loin de la Foule Déchaînée"
+    "sourceWork": "Loin de la Foule Déchaînée",
+    "sourceWorkAuthor": "Thomas Hardy"
   },
   {
     "actionTitle": "Le Texto du Problème Réglé Discrètement",
@@ -18543,7 +18639,8 @@
     "variations": [
       "Réglé un petit truc avant que ça n'empire aujourd'hui — pas la peine d'en faire un plat."
     ],
-    "sourceWork": "Loin de la Foule Déchaînée"
+    "sourceWork": "Loin de la Foule Déchaînée",
+    "sourceWorkAuthor": "Thomas Hardy"
   },
   {
     "actionTitle": "Le Texto du Choix Solide",
@@ -18560,7 +18657,8 @@
     "variations": [
       "Avais le choix entre brillant et solide pour ça — ai choisi le solide, je t'explique."
     ],
-    "sourceWork": "Loin de la Foule Déchaînée"
+    "sourceWork": "Loin de la Foule Déchaînée",
+    "sourceWorkAuthor": "Thomas Hardy"
   },
   {
     "actionTitle": "Le Texto de l'Attente d'un Jour",
@@ -18577,7 +18675,8 @@
     "variations": [
       "Ressentais un truc fort tout à l'heure — j'attends demain pour voir si ça tient."
     ],
-    "sourceWork": "Loin de la Foule Déchaînée"
+    "sourceWork": "Loin de la Foule Déchaînée",
+    "sourceWorkAuthor": "Thomas Hardy"
   },
   {
     "actionTitle": "Le Texto de la Prise en Charge",
@@ -18594,7 +18693,8 @@
     "variations": [
       "Ai pris en charge ce petit truc qui te pesait, sans que tu aies à vérifier — c'est réglé."
     ],
-    "sourceWork": "Loin de la Foule Déchaînée"
+    "sourceWork": "Loin de la Foule Déchaînée",
+    "sourceWorkAuthor": "Thomas Hardy"
   },
   {
     "actionTitle": "The Weather of You",
@@ -19395,5 +19495,955 @@
     "variations": [
       "Dans une semaine pleine de variables, t'as été la seule constante, merci pour ça."
     ]
+  },
+  {
+    "actionTitle": "Not Going to War Over This",
+    "text": "Thinking about how we handled that whole thing last week — no Napoleon-level campaign needed next time, just tell me straight and we'll sort it in five minutes.",
+    "effect": "A light, self-aware callback to an old conflict signals that it's genuinely closed, not quietly festering.",
+    "sectionTitle": "SMS - War and Peace",
+    "predictable": "Letting a resolved conflict resurface indirectly through mood instead of naming it as closed",
+    "themes": [
+      "Literary",
+      "Restraint"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No grand battle required, just you and me and five honest minutes.",
+      "Consider the war officially over. Peace treaty signed, effective immediately."
+    ],
+    "sourceWork": "War and Peace",
+    "sourceWorkAuthor": "Leo Tolstoy"
+  },
+  {
+    "actionTitle": "Wrote You a Letter I Won't Send",
+    "text": "Started writing you an actual letter earlier, the paper kind, then chickened out halfway through. Ask me about it tonight if you're curious what it said.",
+    "effect": "Naming an unsent vulnerable gesture out loud invites her to ask for it rather than stumbling onto it, keeping the choice hers.",
+    "sectionTitle": "SMS - Eugene Onegin",
+    "predictable": "Never mentioning a vulnerable gesture you almost made and quietly abandoning it",
+    "themes": [
+      "Literary",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Half a letter sitting in my notes app addressed to you. Ask nicely.",
+      "There's a version of tonight where I actually give you that letter."
+    ],
+    "sourceWork": "Eugene Onegin",
+    "sourceWorkAuthor": "Alexander Pushkin"
+  },
+  {
+    "actionTitle": "Letting the Orchard Go",
+    "text": "Officially retiring my complaint about the thermostat/dishes/whatever it was this week. Not worth the orchard, if you know what I mean.",
+    "effect": "Explicitly retiring a recurring small grievance, with a light literary wink, closes it more cleanly than letting it just fade.",
+    "sectionTitle": "SMS - The Cherry Orchard",
+    "predictable": "Letting a small grievance fade without ever actually declaring it closed",
+    "themes": [
+      "Literary",
+      "Growth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Consider the orchard sold. No more arguing about it.",
+      "That particular fight is officially retired, effective today."
+    ],
+    "sourceWork": "The Cherry Orchard",
+    "sourceWorkAuthor": "Anton Chekhov"
+  },
+  {
+    "actionTitle": "Staying on the Platform",
+    "text": "Not going anywhere until your train's actually out of sight tonight. No scrolling, no distracted half-goodbye, just watching you go.",
+    "effect": "Announcing full presence during a goodbye in advance sets the expectation that this one will be different from the usual distracted send-off.",
+    "sectionTitle": "SMS - Anna Karenina",
+    "predictable": "A goodbye that's already mentally moved on before the person is even out of sight",
+    "themes": [
+      "Literary",
+      "Presence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Full attention until you're literally out of view, promise.",
+      "Watching until the train's gone, not just waving and walking off."
+    ],
+    "sourceWork": "Anna Karenina",
+    "sourceWorkAuthor": "Leo Tolstoy"
+  },
+  {
+    "actionTitle": "What Are You Carrying Alone",
+    "text": "Real question, not small talk: what have you been carrying by yourself lately that you don't actually need to carry alone? I've got time tonight if you want to put some of it down.",
+    "effect": "An explicit invitation to unload something private, framed without pressure, tends to get a more honest answer than a passive 'I'm here for you.'",
+    "sectionTitle": "SMS - The Brothers Karamazov",
+    "predictable": "A vague 'I'm always here for you' that's never followed by an actual specific question",
+    "themes": [
+      "Literary",
+      "Depth"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "No agenda, just genuinely asking what's been heavy lately.",
+      "Put something down tonight if you want. I've got two hands free."
+    ],
+    "sourceWork": "The Brothers Karamazov",
+    "sourceWorkAuthor": "Fyodor Dostoevsky"
+  },
+  {
+    "actionTitle": "Kitchen Waltz Tonight",
+    "text": "Putting on music the second I get home and we're dancing badly in the kitchen whether you like it or not. Consider this your official warning.",
+    "effect": "A playful pre-announcement of a small ritual builds anticipation without needing to be a surprise to work.",
+    "sectionTitle": "SMS - War and Peace",
+    "predictable": "Doing something spontaneous and fun without ever building any anticipation for it beforehand",
+    "themes": [
+      "Literary",
+      "Playful"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fair warning: kitchen dance party incoming, no skill required.",
+      "Clear a spot in the kitchen. We're dancing badly tonight."
+    ],
+    "sourceWork": "War and Peace",
+    "sourceWorkAuthor": "Leo Tolstoy"
+  },
+  {
+    "actionTitle": "No Irony Tonight",
+    "text": "Whatever you tell me tonight, I'm not going to make it into a joke. Just so you know in advance, in case that's ever stopped you before.",
+    "effect": "Explicitly pre-committing to sincerity removes the usual risk calculation before someone shares something vulnerable.",
+    "sectionTitle": "SMS - Eugene Onegin",
+    "predictable": "Only realizing after the fact that a joke shut down something vulnerable she was trying to say",
+    "themes": [
+      "Literary",
+      "Honesty"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Zero jokes tonight if you need to say something real.",
+      "Promise: whatever it is, I'll take it seriously."
+    ],
+    "sourceWork": "Eugene Onegin",
+    "sourceWorkAuthor": "Alexander Pushkin"
+  },
+  {
+    "actionTitle": "Treating Tonight Like the Last One",
+    "text": "Randomly decided to treat tonight like it's the last evening in this apartment even though it's not. Everything just feels sharper when I do that. Come home soon.",
+    "effect": "Sharing the small mental exercise of treating an ordinary evening as precious invites her into the same heightened attention.",
+    "sectionTitle": "SMS - The Cherry Orchard",
+    "predictable": "Keeping a private mood exercise entirely to yourself instead of inviting her in",
+    "themes": [
+      "Literary",
+      "Presence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pretending tonight's the last one here on purpose. Everything looks better that way.",
+      "Come home, let's make tonight count for no particular reason."
+    ],
+    "sourceWork": "The Cherry Orchard",
+    "sourceWorkAuthor": "Anton Chekhov"
+  },
+  {
+    "actionTitle": "Field Work Later",
+    "text": "Whatever we end up talking about tonight, let's do it while moving something heavy or walking somewhere. I think better with my hands busy, and I bet you do too.",
+    "effect": "Proposing physical activity as the setting for a conversation, rather than sitting face to face, lowers the pressure while raising honesty.",
+    "sectionTitle": "SMS - Anna Karenina",
+    "predictable": "Defaulting to sitting still for every serious conversation, never trying movement instead",
+    "themes": [
+      "Literary",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let's talk while doing something with our hands tonight.",
+      "Bring your walking shoes, we're figuring this out on the move."
+    ],
+    "sourceWork": "Anna Karenina",
+    "sourceWorkAuthor": "Leo Tolstoy"
+  },
+  {
+    "actionTitle": "The Onion I Owe You",
+    "text": "Small, imperfect gesture incoming tonight. Won't fix everything, isn't meant to. Just something, because something's better than nothing.",
+    "effect": "Naming a gesture as deliberately small and imperfect in advance frees it from the pressure of having to be a complete solution.",
+    "sectionTitle": "SMS - The Brothers Karamazov",
+    "predictable": "Withholding a small kind gesture because it feels insufficient compared to the actual problem",
+    "themes": [
+      "Literary",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Small thing coming your way tonight. Not a fix, just a gesture.",
+      "One tiny good thing, on purpose, no strings attached."
+    ],
+    "sourceWork": "The Brothers Karamazov",
+    "sourceWorkAuthor": "Fyodor Dostoevsky"
+  },
+  {
+    "actionTitle": "The Duel I'm Not Fighting",
+    "text": "Caught myself about to escalate that thing from earlier and decided against it. Putting the sword down, figuratively. Tell me your side tonight instead.",
+    "effect": "Announcing a chosen de-escalation before the conversation even happens sets a calmer tone for it in advance.",
+    "sectionTitle": "SMS - War and Peace",
+    "predictable": "Escalating a minor disagreement by text before either person has calmed down",
+    "themes": [
+      "Literary",
+      "Restraint"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "No duel tonight, just talking it through properly.",
+      "Putting my pride down before this gets out of hand."
+    ],
+    "sourceWork": "War and Peace",
+    "sourceWorkAuthor": "Leo Tolstoy"
+  },
+  {
+    "actionTitle": "A Letter, Eventually",
+    "text": "You'll get an actual answer to that thing you said last week. Not tonight, but soon, properly, not brushed off like Onegin brushing off Tatiana.",
+    "effect": "Explicitly promising a delayed but real response, rather than letting the moment quietly pass, keeps trust intact even without immediacy.",
+    "sectionTitle": "SMS - Eugene Onegin",
+    "predictable": "Letting an unanswered vulnerable message simply be forgotten with time",
+    "themes": [
+      "Literary",
+      "Honesty"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "A real answer is coming, just needed time to find the right words.",
+      "Not ignoring what you said, just thinking it through properly first."
+    ],
+    "sourceWork": "Eugene Onegin",
+    "sourceWorkAuthor": "Alexander Pushkin"
+  },
+  {
+    "actionTitle": "Second Chance to Say Yes",
+    "text": "Officially re-asking you that thing I asked a while ago, as if the first time never happened. No pressure from before, just a fresh yes or no.",
+    "effect": "Framing a repeated ask as genuinely fresh, with no leftover pressure from the first answer, respects that circumstances and feelings can change.",
+    "sectionTitle": "SMS - Pride and Prejudice",
+    "predictable": "Assuming an old answer to something still applies without ever checking again",
+    "themes": [
+      "Literary",
+      "Declaration"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Reasking, clean slate, no hard feelings whatever you say.",
+      "Wiping the first answer, want to try that question again?"
+    ],
+    "sourceWork": "Pride and Prejudice",
+    "sourceWorkAuthor": "Jane Austen"
+  },
+  {
+    "actionTitle": "Bad Weather Walk",
+    "text": "It's genuinely awful outside and I want to go for a walk in it with you anyway. Something about bad weather makes people say the real thing.",
+    "effect": "Suggesting an unpleasant-weather walk as a deliberate setting for honesty reframes discomfort as useful rather than something to avoid.",
+    "sectionTitle": "SMS - Wuthering Heights",
+    "predictable": "Only ever suggesting outings when the weather and conditions are already ideal",
+    "themes": [
+      "Literary",
+      "Intensity"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Terrible weather, great conversation weather though.",
+      "Grab a coat, we're walking in this mess and talking properly."
+    ],
+    "sourceWork": "Wuthering Heights",
+    "sourceWorkAuthor": "Emily Brontë"
+  },
+  {
+    "actionTitle": "Correcting the Ledger Early",
+    "text": "Been thinking about something unfair I said last week. Not waiting for a fight to bring it up, just correcting it now on my own.",
+    "effect": "Volunteering a correction without being confronted first demonstrates the change is self-motivated rather than reactive.",
+    "sectionTitle": "SMS - A Christmas Carol",
+    "predictable": "Only correcting past unfair comments when directly called out on them",
+    "themes": [
+      "Literary",
+      "Accountability"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Owning up to that comment from last week, unprompted, sorry.",
+      "Fixing something I said before you even have to bring it up."
+    ],
+    "sourceWork": "A Christmas Carol",
+    "sourceWorkAuthor": "Charles Dickens"
+  },
+  {
+    "actionTitle": "Flowers for No Reason",
+    "text": "Bought flowers today. No occasion. Morning just felt like it deserved something, and so do you.",
+    "effect": "Announcing an unprompted flower purchase, rather than surprising her cold, still preserves the surprise of the reasoning behind it.",
+    "sectionTitle": "SMS - Mrs Dalloway",
+    "predictable": "Only ever buying flowers as a response to an occasion or an apology owed",
+    "themes": [
+      "Literary",
+      "Tenderness"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Flowers, no reason, just felt right today.",
+      "Got you something small and unnecessary. See you tonight."
+    ],
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
+  },
+  {
+    "actionTitle": "Meant Every Word, No Take-Backs",
+    "text": "That thing I said earlier — not joking, not softening it, not taking it back. It's true and I'm leaving it exactly as it is.",
+    "effect": "Explicitly refusing to walk back an earlier sincere statement removes the usual habit of retreating into irony after honesty.",
+    "sectionTitle": "SMS - Far from the Madding Crowd",
+    "predictable": "Downplaying or joking away something sincere immediately after saying it",
+    "themes": [
+      "Literary",
+      "Honesty"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "No 'jk' after that one. I meant it exactly as said.",
+      "Standing by every word from earlier, no edits."
+    ],
+    "sourceWork": "Far from the Madding Crowd",
+    "sourceWorkAuthor": "Thomas Hardy"
+  },
+  {
+    "actionTitle": "Actually Thinking About It",
+    "text": "You caught me about to say no to your idea by reflex earlier. Reconsidering properly now. Might actually be a yes.",
+    "effect": "Reporting a reconsideration after an initial refusal shows the door isn't permanently shut just because pride answered first.",
+    "sectionTitle": "SMS - Pride and Prejudice",
+    "predictable": "Never revisiting an instinctive no even after having time to think it over",
+    "themes": [
+      "Literary",
+      "Growth"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sitting with your idea longer than I planned to. Might change my answer.",
+      "Actually reconsidering that thing you suggested earlier."
+    ],
+    "sourceWork": "Pride and Prejudice",
+    "sourceWorkAuthor": "Jane Austen"
+  },
+  {
+    "actionTitle": "Window Cracked on Purpose",
+    "text": "Left the window open a little tonight even though it's cold. Wanted some of the outside in the room with us while we talk.",
+    "effect": "Explaining a small impractical atmospheric choice, rather than leaving it unexplained, turns an odd detail into a deliberate one.",
+    "sectionTitle": "SMS - Wuthering Heights",
+    "predictable": "Optimizing a room purely for comfort with no attention paid to atmosphere",
+    "themes": [
+      "Literary",
+      "Atmosphere"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cracked the window on purpose, wanted the outside in a little.",
+      "It's cold in here on purpose. Ambiance over comfort tonight."
+    ],
+    "sourceWork": "Wuthering Heights",
+    "sourceWorkAuthor": "Emily Brontë"
+  },
+  {
+    "actionTitle": "A Chain I Built Myself",
+    "text": "Realizing tonight a habit I've been complaining about is one I actually built myself, link by link. Working on loosening it, starting this week.",
+    "effect": "Naming a self-created burden as self-created, rather than blaming outside circumstances, is the first honest step toward changing it.",
+    "sectionTitle": "SMS - A Christmas Carol",
+    "predictable": "Complaining repeatedly about a habit without ever acknowledging it was self-built",
+    "themes": [
+      "Literary",
+      "Self-awareness"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Owning that this habit is one I built, not one that happened to me.",
+      "Working on a chain I forged myself. Starting now."
+    ],
+    "sourceWork": "A Christmas Carol",
+    "sourceWorkAuthor": "Charles Dickens"
+  },
+  {
+    "actionTitle": "Throwing You a Party of One",
+    "text": "Planning a tiny evening this week that's entirely about you. No occasion required, just wanted to build something around you for once.",
+    "effect": "Announcing an occasion-free celebration in advance builds anticipation while making clear no external excuse is needed.",
+    "sectionTitle": "SMS - Mrs Dalloway",
+    "predictable": "Only planning something special around her when a calendar date requires it",
+    "themes": [
+      "Literary",
+      "Care"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Small party of one being planned this week. Star of the show: you.",
+      "Building a whole evening around you for no reason at all."
+    ],
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
+  },
+  {
+    "actionTitle": "Showing Up Before You Ask",
+    "text": "Coming by to help with that boring task you've been putting off, unasked. No romance to it, just showing up because it needs doing.",
+    "effect": "Volunteering for an unglamorous chore, rather than waiting to be asked, is the quiet reliability that outlasts any single grand gesture.",
+    "sectionTitle": "SMS - Far from the Madding Crowd",
+    "predictable": "Only ever offering help with the visible, impressive tasks, never the tedious ones",
+    "themes": [
+      "Literary",
+      "Reliability"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "On my way to help with that boring thing. Wave me off if you don't need it.",
+      "Handling that tedious task for you, no need to ask."
+    ],
+    "sourceWork": "Far from the Madding Crowd",
+    "sourceWorkAuthor": "Thomas Hardy"
+  },
+  {
+    "actionTitle": "Pas de Guerre Pour Ça",
+    "text": "En repensant à cette histoire de la semaine dernière — pas besoin d'une campagne façon Napoléon la prochaine fois, dis-le-moi franchement et on règle ça en cinq minutes.",
+    "effect": "Un rappel léger et conscient d'un vieux conflit montre qu'il est vraiment clos, pas en train de couver silencieusement.",
+    "sectionTitle": "SMS - Guerre et Paix",
+    "predictable": "Laisser un conflit résolu ressurgir indirectement par l'humeur plutôt que de le nommer comme clos",
+    "themes": [
+      "Littéraire",
+      "Retenue"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pas besoin d'une grande bataille, juste toi, moi et cinq minutes honnêtes.",
+      "Considère la guerre officiellement terminée. Traité de paix signé, effectif immédiatement."
+    ],
+    "sourceWork": "Guerre et Paix",
+    "sourceWorkAuthor": "Léon Tolstoï"
+  },
+  {
+    "actionTitle": "Une Lettre Que Je N'ai Pas Envoyée",
+    "text": "J'ai commencé une vraie lettre tout à l'heure, sur papier, puis j'ai abandonné à moitié. Demande-moi ce soir si tu es curieuse de ce qu'elle disait.",
+    "effect": "Nommer à voix haute un geste vulnérable non envoyé l'invite à le demander plutôt que de tomber dessus par hasard, laissant le choix entre ses mains.",
+    "sectionTitle": "SMS - Eugène Onéguine",
+    "predictable": "Ne jamais mentionner un geste vulnérable presque fait puis silencieusement abandonné",
+    "themes": [
+      "Littéraire",
+      "Vulnérabilité"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Une demi-lettre qui traîne dans mes notes, adressée à toi. Demande gentiment.",
+      "Il existe une version de ce soir où je te la donne vraiment, cette lettre."
+    ],
+    "sourceWork": "Eugène Onéguine",
+    "sourceWorkAuthor": "Alexandre Pouchkine"
+  },
+  {
+    "actionTitle": "Laisser Partir le Verger",
+    "text": "Je retire officiellement ma plainte sur le thermostat/la vaisselle/peu importe cette semaine. Pas la peine de perdre un verger pour ça.",
+    "effect": "Retirer explicitement un petit grief récurrent, avec un clin d'œil littéraire, le clôt plus proprement que de le laisser simplement s'estomper.",
+    "sectionTitle": "SMS - La Cerisaie",
+    "predictable": "Laisser un petit grief s'estomper sans jamais réellement le déclarer clos",
+    "themes": [
+      "Littéraire",
+      "Croissance"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Considère le verger vendu. Plus de dispute là-dessus.",
+      "Cette dispute précise est officiellement retirée, dès aujourd'hui."
+    ],
+    "sourceWork": "La Cerisaie",
+    "sourceWorkAuthor": "Anton Tchekhov"
+  },
+  {
+    "actionTitle": "Rester Sur le Quai",
+    "text": "Je ne bouge pas de là tant que ton train n'a pas vraiment disparu ce soir. Pas de téléphone, pas d'adieu à moitié distrait, juste te regarder partir.",
+    "effect": "Annoncer une présence totale pendant un adieu à l'avance fixe l'attente que celui-ci sera différent des habituels départs distraits.",
+    "sectionTitle": "SMS - Anna Karénine",
+    "predictable": "Un adieu déjà mentalement ailleurs avant même que la personne ait disparu",
+    "themes": [
+      "Littéraire",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Attention totale jusqu'à ce que tu sois littéralement hors de vue, promis.",
+      "Je regarde jusqu'à ce que le train soit parti, pas juste un signe de main et je repars."
+    ],
+    "sourceWork": "Anna Karénine",
+    "sourceWorkAuthor": "Léon Tolstoï"
+  },
+  {
+    "actionTitle": "Qu'est-ce Que Tu Portes Seule",
+    "text": "Vraie question, pas de la conversation polie : qu'est-ce que tu portes seule depuis un moment sans avoir besoin de le porter seule ? J'ai du temps ce soir si tu veux en poser une partie.",
+    "effect": "Une invitation explicite à déposer quelque chose de privé, formulée sans pression, obtient souvent une réponse plus honnête qu'un vague 'je suis là pour toi'.",
+    "sectionTitle": "SMS - Les Frères Karamazov",
+    "predictable": "Un vague 'je suis toujours là pour toi' jamais suivi d'une vraie question précise",
+    "themes": [
+      "Littéraire",
+      "Profondeur"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pas d'agenda, je demande vraiment ce qui pèse lourd en ce moment.",
+      "Pose quelque chose ce soir si tu veux. J'ai deux mains libres."
+    ],
+    "sourceWork": "Les Frères Karamazov",
+    "sourceWorkAuthor": "Fiodor Dostoïevski"
+  },
+  {
+    "actionTitle": "Valse de Cuisine Ce Soir",
+    "text": "Je mets de la musique dès que je rentre et on danse mal dans la cuisine, que tu le veuilles ou non. Considère ça comme un avertissement officiel.",
+    "effect": "Une annonce ludique d'un petit rituel avant qu'il n'arrive crée de l'anticipation sans avoir besoin d'être une surprise pour fonctionner.",
+    "sectionTitle": "SMS - Guerre et Paix",
+    "predictable": "Faire quelque chose de spontané et amusant sans jamais construire d'anticipation avant",
+    "themes": [
+      "Littéraire",
+      "Ludique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prévenue : soirée danse de cuisine imminente, aucune compétence requise.",
+      "Dégage une place dans la cuisine. On danse mal ce soir."
+    ],
+    "sourceWork": "Guerre et Paix",
+    "sourceWorkAuthor": "Léon Tolstoï"
+  },
+  {
+    "actionTitle": "Zéro Ironie Ce Soir",
+    "text": "Quoi que tu me dises ce soir, je n'en ferai pas une blague. Juste pour que tu le saches d'avance, au cas où ça t'aurait déjà retenue.",
+    "effect": "S'engager explicitement à la sincérité en amont retire le calcul de risque habituel avant de partager quelque chose de vulnérable.",
+    "sectionTitle": "SMS - Eugène Onéguine",
+    "predictable": "Ne réaliser qu'après coup qu'une blague a coupé court à quelque chose de vulnérable qu'elle essayait de dire",
+    "themes": [
+      "Littéraire",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Zéro blague ce soir si tu as besoin de dire quelque chose de vrai.",
+      "Promis : quoi que ce soit, je le prendrai au sérieux."
+    ],
+    "sourceWork": "Eugène Onéguine",
+    "sourceWorkAuthor": "Alexandre Pouchkine"
+  },
+  {
+    "actionTitle": "Traiter Ce Soir Comme le Dernier",
+    "text": "Décidé au hasard de traiter ce soir comme la dernière soirée dans cet appartement, même si ce n'est pas vrai. Tout semble plus net quand je fais ça. Rentre vite.",
+    "effect": "Partager le petit exercice mental de traiter une soirée ordinaire comme précieuse l'invite à la même attention accrue.",
+    "sectionTitle": "SMS - La Cerisaie",
+    "predictable": "Garder un exercice mental privé entièrement pour soi sans l'inviter à le partager",
+    "themes": [
+      "Littéraire",
+      "Présence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je fais semblant que ce soir est le dernier ici, exprès. Tout paraît plus beau comme ça.",
+      "Rentre, faisons de ce soir un soir qui compte, sans raison particulière."
+    ],
+    "sourceWork": "La Cerisaie",
+    "sourceWorkAuthor": "Anton Tchekhov"
+  },
+  {
+    "actionTitle": "Travaux des Champs Plus Tard",
+    "text": "Quoi qu'on se dise ce soir, faisons-le en déplaçant quelque chose de lourd ou en marchant quelque part. Je pense mieux les mains occupées, et je parie que toi aussi.",
+    "effect": "Proposer une activité physique comme cadre d'une conversation, plutôt que face à face assis, baisse la pression tout en augmentant l'honnêteté.",
+    "sectionTitle": "SMS - Anna Karénine",
+    "predictable": "Toujours choisir de rester assis pour chaque conversation sérieuse, sans jamais essayer le mouvement",
+    "themes": [
+      "Littéraire",
+      "Connexion"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "On parle en faisant quelque chose de nos mains ce soir.",
+      "Prends tes chaussures de marche, on règle ça en mouvement."
+    ],
+    "sourceWork": "Anna Karénine",
+    "sourceWorkAuthor": "Léon Tolstoï"
+  },
+  {
+    "actionTitle": "L'Oignon Que Je Te Dois",
+    "text": "Petit geste imparfait qui arrive ce soir. Ça ne réglera pas tout, ce n'est pas fait pour ça. Juste quelque chose, parce que quelque chose vaut mieux que rien.",
+    "effect": "Nommer un geste comme délibérément petit et imparfait à l'avance le libère de la pression d'être une solution complète.",
+    "sectionTitle": "SMS - Les Frères Karamazov",
+    "predictable": "Retenir un petit geste gentil parce qu'il semble insuffisant face au vrai problème",
+    "themes": [
+      "Littéraire",
+      "Attention"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Petite chose qui arrive ce soir. Pas une solution, juste un geste.",
+      "Une toute petite bonne chose, exprès, sans condition."
+    ],
+    "sourceWork": "Les Frères Karamazov",
+    "sourceWorkAuthor": "Fiodor Dostoïevski"
+  },
+  {
+    "actionTitle": "Seconde Chance de Dire Oui",
+    "text": "Je te redemande officiellement cette chose que j'ai demandée il y a un moment, comme si la première fois n'avait jamais eu lieu. Pas de pression de l'ancienne réponse, juste un oui ou un non tout frais.",
+    "effect": "Présenter une nouvelle demande comme vraiment fraîche, sans pression résiduelle de la première réponse, respecte le fait que les circonstances et les sentiments peuvent changer.",
+    "sectionTitle": "SMS - Orgueil et Préjugés",
+    "predictable": "Supposer qu'une ancienne réponse à quelque chose tient toujours sans jamais la revérifier",
+    "themes": [
+      "Littéraire",
+      "Déclaration"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je redemande, table rase, aucune rancune quoi que tu répondes.",
+      "J'efface la première réponse, tu veux qu'on retente cette question ?"
+    ],
+    "sourceWork": "Orgueil et Préjugés",
+    "sourceWorkAuthor": "Jane Austen"
+  },
+  {
+    "actionTitle": "Marche par Mauvais Temps",
+    "text": "Il fait vraiment moche dehors et j'ai envie d'aller marcher avec toi quand même. Il y a quelque chose dans le mauvais temps qui fait dire les vraies choses.",
+    "effect": "Proposer une marche par mauvais temps comme cadre délibéré pour l'honnêteté transforme l'inconfort en outil plutôt qu'en chose à éviter.",
+    "sectionTitle": "SMS - Les Hauts de Hurlevent",
+    "predictable": "Ne proposer des sorties que lorsque les conditions et le temps sont déjà idéaux",
+    "themes": [
+      "Littéraire",
+      "Intensité"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Temps horrible, mais excellente météo pour discuter.",
+      "Prends un manteau, on marche dans ce sale temps et on parle vraiment."
+    ],
+    "sourceWork": "Les Hauts de Hurlevent",
+    "sourceWorkAuthor": "Emily Brontë"
+  },
+  {
+    "actionTitle": "Corriger le Registre Tôt",
+    "text": "Je pense à quelque chose d'injuste que j'ai dit la semaine dernière. Je n'attends pas une dispute pour en parler, je corrige tout seul, maintenant.",
+    "effect": "Proposer une correction sans être confronté d'abord démontre que le changement est spontané, pas réactif.",
+    "sectionTitle": "SMS - Un Chant de Noël",
+    "predictable": "Ne corriger un commentaire injuste passé que lorsqu'on est directement confronté à ce sujet",
+    "themes": [
+      "Littéraire",
+      "Responsabilité"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "J'assume ce commentaire de la semaine dernière, sans que tu aies à le soulever, désolé.",
+      "Je corrige quelque chose que j'ai dit avant même que tu aies à le rappeler."
+    ],
+    "sourceWork": "Un Chant de Noël",
+    "sourceWorkAuthor": "Charles Dickens"
+  },
+  {
+    "actionTitle": "Des Fleurs Sans Raison",
+    "text": "Acheté des fleurs aujourd'hui. Aucune occasion. La matinée avait juste l'air de mériter quelque chose, et toi aussi.",
+    "effect": "Annoncer un achat de fleurs spontané, plutôt que de surprendre à froid, préserve quand même la surprise du raisonnement derrière.",
+    "sectionTitle": "SMS - Mrs Dalloway",
+    "predictable": "N'acheter des fleurs qu'en réponse à une occasion ou à des excuses dues",
+    "themes": [
+      "Littéraire",
+      "Tendresse"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Des fleurs, sans raison, ça semblait juste bien aujourd'hui.",
+      "Je t'ai pris un petit truc inutile. À ce soir."
+    ],
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
+  },
+  {
+    "actionTitle": "Chaque Mot Assumé, Sans Retour Arrière",
+    "text": "Ce que j'ai dit tout à l'heure — pas une blague, pas adouci, pas retiré. C'est vrai et je le laisse exactement tel quel.",
+    "effect": "Refuser explicitement de revenir sur une déclaration sincère antérieure élimine l'habitude de se réfugier dans l'ironie après l'honnêteté.",
+    "sectionTitle": "SMS - Loin de la Foule Déchaînée",
+    "predictable": "Minimiser ou tourner en blague quelque chose de sincère immédiatement après l'avoir dit",
+    "themes": [
+      "Littéraire",
+      "Honnêteté"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Pas de 'mdr' après celle-là. Je le pensais exactement comme dit.",
+      "Je maintiens chaque mot de tout à l'heure, sans retouche."
+    ],
+    "sourceWork": "Loin de la Foule Déchaînée",
+    "sourceWorkAuthor": "Thomas Hardy"
+  },
+  {
+    "actionTitle": "Manufacturing a Holiday",
+    "text": "Declaring tonight National [Your Name] Appreciation Day. Made it up ten seconds ago. Still counts.",
+    "effect": "Inventing a silly occasion out of nothing works exactly because it has no other justification than wanting to celebrate her.",
+    "sectionTitle": "SMS - War and Peace",
+    "predictable": "Never inventing an occasion, only ever marking the ones already on the calendar",
+    "themes": [
+      "Literary",
+      "Playful"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fake holiday, real toast, tonight.",
+      "Made up a reason to celebrate you. No regrets."
+    ],
+    "sourceWork": "War and Peace",
+    "sourceWorkAuthor": "Leo Tolstoy"
+  },
+  {
+    "actionTitle": "Not Comparing Tonight",
+    "text": "Caught myself doing the comparison thing earlier — us versus some highlight reel online. Stopping that now, out loud, on purpose.",
+    "effect": "Naming a quiet unfair comparison the moment it's noticed keeps it from shaping the whole evening unexamined.",
+    "sectionTitle": "SMS - Eugene Onegin",
+    "predictable": "Letting an unspoken comparison sour the mood without ever naming what caused it",
+    "themes": [
+      "Literary",
+      "Honesty"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Catching my own comparison spiral and cutting it off.",
+      "That thing I compared us to earlier wasn't fair. Ignoring it now."
+    ],
+    "sourceWork": "Eugene Onegin",
+    "sourceWorkAuthor": "Alexander Pushkin"
+  },
+  {
+    "actionTitle": "Counting What We Still Have",
+    "text": "Making a list tonight of everything good still standing between us, no occasion, just wanted to say it before life gets busy again.",
+    "effect": "Proactively naming what's good, rather than waiting for scarcity to prompt gratitude, keeps appreciation from being reactive.",
+    "sectionTitle": "SMS - The Cherry Orchard",
+    "predictable": "Only appreciating what's good once it's already at risk of being lost",
+    "themes": [
+      "Literary",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Starting a list tonight of everything worth keeping.",
+      "Wanted to name what's good before anything reminds me to."
+    ],
+    "sourceWork": "The Cherry Orchard",
+    "sourceWorkAuthor": "Anton Chekhov"
+  },
+  {
+    "actionTitle": "Announcing My Arrival",
+    "text": "Fifteen minutes out. Wanted you to know instead of just showing up and surprising you at the door.",
+    "effect": "A small heads-up before returning home turns arrival into something she can anticipate rather than just react to.",
+    "sectionTitle": "SMS - Anna Karenina",
+    "predictable": "Walking in the door with zero advance notice, every single time",
+    "themes": [
+      "Literary",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "On my way, see you soon, counting the minutes.",
+      "Almost home. Leave the light on."
+    ],
+    "sourceWork": "Anna Karenina",
+    "sourceWorkAuthor": "Leo Tolstoy"
+  },
+  {
+    "actionTitle": "Telling You Without Needing a Verdict",
+    "text": "Want to tell you something I'm not proud of tonight. Not asking you to fix it or forgive it right away, just want it said out loud to someone who matters.",
+    "effect": "Explicitly separating confession from the demand for instant absolution makes the sharing itself feel safer.",
+    "sectionTitle": "SMS - The Brothers Karamazov",
+    "predictable": "Only ever admitting something difficult when already cornered into needing forgiveness immediately",
+    "themes": [
+      "Literary",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 3,
+    "sexualIntensity": 1,
+    "variations": [
+      "Something's been sitting heavy, want to say it tonight, no verdict needed yet.",
+      "Just need you to listen tonight, nothing more."
+    ],
+    "sourceWork": "The Brothers Karamazov",
+    "sourceWorkAuthor": "Fyodor Dostoevsky"
+  },
+  {
+    "actionTitle": "Ridiculous Game Night Incoming",
+    "text": "Inventing a completely stupid game tonight, rules TBD, prize equally stupid. Be ready.",
+    "effect": "Announcing deliberate silliness in advance builds anticipation for an evening that doesn't need to be productive to matter.",
+    "sectionTitle": "SMS - Pride and Prejudice",
+    "predictable": "Defaulting every evening to screens because planning a game feels like effort",
+    "themes": [
+      "Literary",
+      "Playful"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Game night, no rules yet, making them up as we go.",
+      "Prepare to lose at something I haven't invented yet."
+    ],
+    "sourceWork": "Pride and Prejudice",
+    "sourceWorkAuthor": "Jane Austen"
+  },
+  {
+    "actionTitle": "Revisiting Our Old Spot",
+    "text": "Want to go back to that place from early on this week. Not for any reason except that it mattered and I haven't been back since.",
+    "effect": "Proposing a return to a meaningful old place, unprompted by anniversary, turns nostalgia into something actively chosen.",
+    "sectionTitle": "SMS - Wuthering Heights",
+    "predictable": "Letting meaningful shared places fade from memory without ever going back",
+    "themes": [
+      "Literary",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let's go back to where it started, just because.",
+      "That old place from early on — thinking we should revisit it."
+    ],
+    "sourceWork": "Wuthering Heights",
+    "sourceWorkAuthor": "Emily Brontë"
+  },
+  {
+    "actionTitle": "Saying Yes This Time",
+    "text": "Actually saying yes to that invitation I'd normally decline out of an old grudge. Small step, but a real one.",
+    "effect": "Reporting a deliberate override of an old grudge, in the moment it happens, makes the change visible instead of invisible.",
+    "sectionTitle": "SMS - A Christmas Carol",
+    "predictable": "Automatically declining invitations tied to an old, unexamined grudge",
+    "themes": [
+      "Literary",
+      "Growth"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Said yes to something I'd usually avoid. Feels good, actually.",
+      "Letting an old grudge lose this round."
+    ],
+    "sourceWork": "A Christmas Carol",
+    "sourceWorkAuthor": "Charles Dickens"
+  },
+  {
+    "actionTitle": "No Destination Walk",
+    "text": "Walk tonight, no phones, no destination, just wherever feels right. The getting there was never the point anyway.",
+    "effect": "Proposing an aimless walk removes the pressure of arriving anywhere, leaving room for whatever conversation wants to happen.",
+    "sectionTitle": "SMS - Mrs Dalloway",
+    "predictable": "Only ever walking with a specific errand or destination in mind",
+    "themes": [
+      "Literary",
+      "Presence"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No destination tonight, just walking and talking.",
+      "Phones off, feet moving, no particular place to be."
+    ],
+    "sourceWork": "Mrs Dalloway",
+    "sourceWorkAuthor": "Virginia Woolf"
+  },
+  {
+    "actionTitle": "Big Task, Better Together",
+    "text": "That overwhelming thing we've been putting off — let's just treat it like an occasion this weekend, not a punishment.",
+    "effect": "Reframing a dreaded shared task as an occasion, in advance, changes the mood everyone brings to it.",
+    "sectionTitle": "SMS - Far from the Madding Crowd",
+    "predictable": "Treating a big shared task as something to grind through separately as fast as possible",
+    "themes": [
+      "Literary",
+      "Connection"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let's make that big task this weekend feel like an occasion, not a chore.",
+      "Turning the dreaded to-do into something we actually do together, properly."
+    ],
+    "sourceWork": "Far from the Madding Crowd",
+    "sourceWorkAuthor": "Thomas Hardy"
+  },
+  {
+    "actionTitle": "Making the Restraint a Habit",
+    "text": "Chose the calm option again tonight instead of escalating. Second time this week. Starting to feel like a real habit, not a fluke.",
+    "effect": "Reporting a repeated instance of chosen restraint, rather than treating the first as sufficient, is what actually convinces someone a pattern is forming.",
+    "sectionTitle": "SMS - War and Peace",
+    "predictable": "Treating a single instance of restraint as proof enough of lasting change",
+    "themes": [
+      "Literary",
+      "Restraint"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Second time this week choosing calm over escalating. Noticing the pattern?",
+      "Practicing this on purpose now, not just when it's easy."
+    ],
+    "sourceWork": "War and Peace",
+    "sourceWorkAuthor": "Leo Tolstoy"
+  },
+  {
+    "actionTitle": "Sending an Actual Letter This Time",
+    "text": "Not chickening out this time. The letter's finished and it's actually going in the mail tomorrow, addressed to you, under this roof.",
+    "effect": "Following through on a previously abandoned vulnerable gesture proves the earlier hesitation wasn't the whole story.",
+    "sectionTitle": "SMS - Eugene Onegin",
+    "predictable": "Repeatedly starting vulnerable gestures and abandoning them halfway, every single time",
+    "themes": [
+      "Literary",
+      "Vulnerability"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Finished the letter this time. It's really going out tomorrow.",
+      "No more half-written letters. This one's done and it's yours."
+    ],
+    "sourceWork": "Eugene Onegin",
+    "sourceWorkAuthor": "Alexander Pushkin"
+  },
+  {
+    "actionTitle": "The Second List",
+    "text": "Adding to that list of good things from last week. Turns out there's more than I first wrote down.",
+    "effect": "Returning to add more items to a gratitude list, unprompted, shows the noticing didn't stop after the first attempt.",
+    "sectionTitle": "SMS - The Cherry Orchard",
+    "predictable": "Making a single gratitude gesture once and never returning to build on it",
+    "themes": [
+      "Literary",
+      "Nostalgia"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Found three more things to add to that list from last week.",
+      "The good-things list keeps growing. Good sign."
+    ],
+    "sourceWork": "The Cherry Orchard",
+    "sourceWorkAuthor": "Anton Chekhov"
   }
 ]
