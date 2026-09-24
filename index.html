@@ -593,6 +593,16 @@
                 // Server unreachable — cycle mode just stays off/unset locally.
             } finally {
                 renderCycleUI();
+                // This resolves independently of loadActionsFromServer's own
+                // fetch (both start on DOMContentLoaded) — if a returning
+                // user has cycle mode already enabled server-side and this
+                // settles AFTER the cards were first rendered, the card list
+                // and theme list would otherwise silently stay on the
+                // cycle-disabled default until some unrelated interaction
+                // happened to re-render them. Safe to call unconditionally
+                // even if allActions hasn't loaded yet (just re-run once it has).
+                setupDashboard();
+                renderActions();
             }
         }
 
@@ -702,6 +712,7 @@
             // network save happens after, in the background, so the toggle
             // never waits on a round-trip to feel responsive.
             renderCycleUI();
+            setupDashboard();
             renderActions();
             persistCycleSettings(payload);
         });
@@ -712,6 +723,7 @@
         cycleLastPeriodInput.addEventListener('input', (e) => {
             cycleSettings.lastPeriodDate = e.target.value || null;
             renderCycleUI();
+            setupDashboard();
             renderActions();
             persistCycleSettings({ lastPeriodDate: cycleSettings.lastPeriodDate });
         });
@@ -752,6 +764,7 @@
             literaryFilterMode = LITERARY_FILTER_MODES[(index + 1) % LITERARY_FILTER_MODES.length];
             try { localStorage.setItem(LITERARY_FILTER_STORAGE_KEY, literaryFilterMode); } catch (e) { /* ignore */ }
             renderLiteraryFilterUI();
+            setupDashboard();
             renderActions();
         });
 
@@ -1020,16 +1033,43 @@
         }
         
         /**
+         * Cards currently in scope for the main switches — category, the
+         * literary filter, the language filter and (when enabled) the active
+         * cycle phase — but NOT the theme filter itself, the search box, the
+         * status dropdown or the drama/sexual sliders. Used to compute which
+         * theme tags are actually worth offering: a tag with zero matching
+         * cards under the switches currently on shouldn't be clickable, but
+         * the list also shouldn't jump around on every keystroke in search
+         * or every drag of a slider.
+         */
+        function getSwitchScopedActions() {
+            let scoped = allActions.filter(a => a.category === currentCategory);
+            if (literaryFilterMode !== 'all') {
+                const isLiterary = a => a.themes.includes('Literary') || a.themes.includes('Littéraire');
+                scoped = literaryFilterMode === 'literary' ? scoped.filter(isLiterary) : scoped.filter(a => !isLiterary(a));
+            }
+            if (languageFilterMode !== 'all') {
+                scoped = scoped.filter(a => detectCardLanguage(a) === languageFilterMode);
+            }
+            if (cycleSettings.cycleEnabled && cycleSettings.lastPeriodDate) {
+                const activePhases = getActivePhases(getCycleDay(cycleSettings.lastPeriodDate));
+                scoped = scoped.filter(a => cardMatchesActivePhases(a, activePhases));
+            }
+            return scoped;
+        }
+
+        /**
          * Sets up the dashboard UI elements like theme filters. Themes are
          * split into an EN and a FR set (per detectCardLanguage) and which
          * set(s) render follows the current language switch (languageFilterMode),
          * so the list never shows themes that don't even apply to what's
-         * currently visible.
+         * currently visible — nor tags with zero matching cards under
+         * whichever other switches (literary, cycle) are also active.
          */
         function setupDashboard() {
             const themesEN = new Set();
             const themesFR = new Set();
-            allActions.filter(a => a.category === currentCategory).forEach(a => {
+            getSwitchScopedActions().forEach(a => {
                 const bucket = detectCardLanguage(a) === 'fr' ? themesFR : themesEN;
                 a.themes.forEach(theme => bucket.add(theme));
             });
