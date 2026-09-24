@@ -20419,5 +20419,430 @@
     ],
     "sourceWork": "Loin de la Foule Déchaînée",
     "sourceWorkAuthor": "Thomas Hardy"
+  },
+  {
+    "actionTitle": "On the Fridge, a Lament",
+    "text": "Should this note find you before I return, know that the milk has run out, and with it, in some small but real way, a piece of my will to live this particular Tuesday.",
+    "effect": "Escalating a simple 'we're out of milk' note into a small elegy makes a mundane household reminder genuinely funny to find.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A plain 'out of milk, buy more' note with no theatrical lament attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The milk is gone. I mourn it privately, then move on with my life.",
+      "A void has opened in this refrigerator, and in my heart. Milk, please."
+    ]
+  },
+  {
+    "actionTitle": "On Her Pillow, an Urgent Dispatch",
+    "text": "By the time you read this dispatch, I shall already be gone into the great unknown of the grocery store, from which I cannot promise safe or swift return. Await me.",
+    "effect": "Framing a quick errand as a perilous journey into the unknown turns an ordinary note into a bit of theatre.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A plain 'gone to the store, back soon' note with no dramatic framing",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I venture forth. Wish me luck. Back in twenty minutes, tragedy permitting.",
+      "Into the unknown I go, bearing only a canvas bag and my courage."
+    ]
+  },
+  {
+    "actionTitle": "On the Bathroom Mirror, a Reckoning",
+    "text": "Look upon yourself this morning, I beg you, and know: you are doing astonishingly, improbably well, against odds that would have felled a lesser soul entirely.",
+    "effect": "Turning an ordinary morning pep talk into a full dramatic reckoning makes encouragement land with a wink instead of a shrug.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A quick 'you've got this' note with no theatrical reckoning attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The odds were against you. You persist regardless. Magnificent.",
+      "Look in this mirror and see a hero. Have a great day. Also, please buy bread."
+    ]
+  },
+  {
+    "actionTitle": "On His Laptop, a Warning",
+    "text": "Heed this warning, delivered at great personal risk: the meeting has been moved to three o'clock, and fate itself shall not forgive you should you arrive unaware.",
+    "effect": "Treating a scheduling change as a dire prophetic warning makes an office reminder note absurdly dramatic.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A plain 'meeting moved to 3pm' note with no ominous framing attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fate has rescheduled your meeting. Three o'clock. Do not be late, mortal.",
+      "A warning, delivered urgently: three o'clock, not two. Prepare accordingly."
+    ]
+  },
+  {
+    "actionTitle": "On the Umbrella Stand, a Prophecy",
+    "text": "The skies, dear traveler, shall betray you utterly this day should you venture forth without the umbrella that now stands sentinel by this very door.",
+    "effect": "Turning a weather reminder into a mock-prophetic warning makes a trivial note into a small performance.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A plain 'take an umbrella, it's raining' note with no prophetic framing attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The heavens weep today. Arm yourself with this umbrella before you go.",
+      "I foresaw rain and left this umbrella as your only defense against a cruel sky."
+    ]
+  },
+  {
+    "actionTitle": "On the Remote Control, a Vow",
+    "text": "I vow, upon this very remote, to watch whatever program you desire tonight without complaint, protest, or the faintest sigh of reluctance, so help me.",
+    "effect": "Elevating a small compromise about TV choices into a formal solemn vow makes ordinary relationship give-and-take genuinely funny.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A plain 'you pick tonight' note with no ceremonial vow attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This vow is binding. Whatever you choose tonight, I shall watch it gladly.",
+      "Upon this remote I swear: your choice tonight, no complaints, no exceptions."
+    ]
+  },
+  {
+    "actionTitle": "On the Cereal Box, a Farewell",
+    "text": "Should you find this box lighter than expected, know it was not malice but hunger that drove me to it, and that I go now to buy more, a changed and humbled man.",
+    "effect": "Treating eating the last of the cereal as a confession worthy of a courtroom drama makes a small kitchen crime into comedy.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A plain 'sorry, ate the last of the cereal' note with no dramatic confession attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The cereal is gone. I take full responsibility and go now to atone.",
+      "Guilty. The cereal did not survive. I have learned nothing, but I am sorry."
+    ]
+  },
+  {
+    "actionTitle": "On the Thermostat, a Treaty",
+    "text": "Let it be recorded, for all posterity, that a truce has been struck this day regarding the temperature of this household, and that peace, at long last, reigns supreme.",
+    "effect": "Treating a small thermostat compromise like a formal peace treaty makes an everyday household negotiation into a bit.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A plain 'set it wherever, I don't mind' note with no ceremonial treaty attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A treaty has been signed. The thermostat stands at a number we both accept. Peace.",
+      "Let the historians note: no further argument shall be had over this thermostat."
+    ]
+  },
+  {
+    "actionTitle": "On Her Car Seat, a Charge",
+    "text": "Drive carefully, I charge you, as one who carries not merely herself but the entire weight of my hopes for this evening safely to her destination.",
+    "effect": "Turning an ordinary 'drive safe' into a formal solemn charge makes a routine send-off funny without losing the care behind it.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A plain 'drive safe' note with no dramatic charge attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I charge you with this sacred task: arrive safely. Drive safe.",
+      "Carry my hopes for tonight safely in that car. Also just, you know, drive safe."
+    ]
+  },
+  {
+    "actionTitle": "On the Coffee Machine, a Plea",
+    "text": "I beseech you, whoever discovers this note first: brew the coffee before speaking to me this morning, for I cannot be held responsible for what I might otherwise say.",
+    "effect": "Treating a pre-coffee mood warning as a dramatic plea for mercy makes a mundane morning ritual into a small joke.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A plain 'don't talk to me before coffee' note with no theatrical plea attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Coffee first. Words after. I beg this of you.",
+      "Approach with caution before this machine has done its sacred work."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Frigo, une Complainte",
+    "text": "Si ce mot te trouve avant mon retour, sache que le lait est épuisé, et avec lui, d'une façon modeste mais bien réelle, une part de ma volonté de vivre ce mardi précis.",
+    "effect": "Élever un simple mot 'plus de lait' en petite élégie rend un rappel domestique banal réellement drôle à découvrir.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'plus de lait, en racheter' sans aucune complainte théâtrale attachée",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le lait a disparu. Je le pleure en silence, puis je continue ma vie.",
+      "Un vide s'est ouvert dans ce frigo, et dans mon cœur. Du lait, s'il te plaît."
+    ]
+  },
+  {
+    "actionTitle": "Sur Son Oreiller, une Dépêche Urgente",
+    "text": "Au moment où tu liras cette dépêche, je serai déjà partie vers le grand inconnu du supermarché, d'où je ne peux te promettre un retour sûr ni prompt. Attends-moi.",
+    "effect": "Présenter une course rapide comme un voyage périlleux vers l'inconnu transforme un mot ordinaire en petit théâtre.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'parti(e) au magasin, reviens vite' sans mise en scène dramatique",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je m'aventure au loin. Souhaite-moi bonne chance. De retour dans vingt minutes, tragédie permettant.",
+      "Vers l'inconnu je m'en vais, ne portant qu'un cabas et mon courage."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Miroir de la Salle de Bain, un Bilan",
+    "text": "Regarde-toi ce matin, je t'en conjure, et sache : tu t'en sors de façon stupéfiante, improbable, contre des probabilités qui auraient terrassé une âme moins vaillante.",
+    "effect": "Transformer un petit encouragement matinal en grand bilan dramatique fait atterrir l'encouragement avec un clin d'œil plutôt qu'un haussement d'épaules.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'tu gères' sans aucun bilan théâtral attaché",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Les probabilités étaient contre toi. Tu persistes quand même. Magnifique.",
+      "Regarde dans ce miroir et vois une héroïne. Bonne journée. Aussi, achète du pain s'il te plaît."
+    ]
+  },
+  {
+    "actionTitle": "Sur Son Ordinateur, un Avertissement",
+    "text": "Prends garde à cet avertissement, livré au péril de ma propre personne : la réunion a été déplacée à quinze heures, et le destin lui-même ne te pardonnera pas d'arriver sans le savoir.",
+    "effect": "Traiter un changement d'horaire comme un avertissement prophétique dramatique rend un mot de bureau absurdement solennel.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'réunion déplacée à 15h' sans mise en scène menaçante attachée",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le destin a déplacé ta réunion. Quinze heures. Ne sois pas en retard, mortel.",
+      "Un avertissement, livré d'urgence : quinze heures, pas quatorze. Prépare-toi en conséquence."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Porte-Parapluies, une Prophétie",
+    "text": "Les cieux, chère voyageuse, te trahiront entièrement en ce jour si tu t'aventures dehors sans le parapluie qui monte la garde près de cette porte même.",
+    "effect": "Transformer un rappel météo en avertissement pseudo-prophétique fait d'un mot banal une petite représentation.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'prends un parapluie, il pleut' sans mise en scène prophétique attachée",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Les cieux pleurent aujourd'hui. Arme-toi de ce parapluie avant de partir.",
+      "J'ai prévu la pluie et laissé ce parapluie comme ta seule défense contre un ciel cruel."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Télécommande, un Serment",
+    "text": "Je jure, sur cette télécommande même, de regarder ce soir tout programme que tu désires, sans plainte, sans protestation, sans le moindre soupir de réticence, foi de moi.",
+    "effect": "Élever un petit compromis sur le choix du programme au rang de serment solennel rend le donnant-donnant quotidien réellement drôle.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'tu choisis ce soir' sans aucun serment cérémoniel attaché",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Ce serment m'engage. Quoi que tu choisisses ce soir, je le regarderai avec joie.",
+      "Sur cette télécommande je le jure : ton choix ce soir, sans plainte, sans exception."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Boîte de Céréales, un Adieu",
+    "text": "Si tu trouves cette boîte plus légère que prévu, sache que ce n'est pas la malice mais la faim qui m'y a poussé, et que je pars maintenant en racheter, homme changé et humilié.",
+    "effect": "Traiter le fait d'avoir mangé les dernières céréales comme un aveu digne d'un drame judiciaire transforme un petit crime de cuisine en comédie.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'désolé, j'ai fini les céréales' sans aveu dramatique attaché",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Les céréales ont disparu. J'assume l'entière responsabilité et pars maintenant me racheter.",
+      "Coupable. Les céréales n'ont pas survécu. Je n'ai rien appris, mais je suis désolé."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Thermostat, un Traité",
+    "text": "Qu'il soit consigné, pour toute la postérité, qu'une trêve a été conclue ce jour concernant la température de ce foyer, et que la paix, enfin, règne en maître.",
+    "effect": "Traiter un petit compromis sur le thermostat comme un traité de paix officiel rend une négociation domestique banale réellement comique.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'mets-le où tu veux, ça m'est égal' sans traité cérémoniel attaché",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un traité a été signé. Le thermostat affiche un chiffre que nous acceptons tous deux. Paix.",
+      "Que les historiens notent : plus aucune dispute ne sera menée sur ce thermostat."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Siège de Sa Voiture, une Charge",
+    "text": "Conduis prudemment, je t'en charge, toi qui portes non seulement ta propre personne mais tout le poids de mes espoirs pour ce soir, en sécurité jusqu'à destination.",
+    "effect": "Transformer un simple 'roule prudemment' en charge solennelle rend un adieu routinier drôle sans perdre l'attention qui le porte.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'roule prudemment' sans charge dramatique attachée",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je te confie cette tâche sacrée : arrive en sécurité. Roule prudemment.",
+      "Porte mes espoirs de ce soir en sécurité dans cette voiture. Enfin bref, roule prudemment."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Machine à Café, une Supplique",
+    "text": "Je t'en supplie, qui que tu sois à découvrir ce mot en premier : fais couler le café avant de m'adresser la parole ce matin, car je ne saurais être tenu responsable de ce qui pourrait autrement m'échapper.",
+    "effect": "Traiter un avertissement d'humeur pré-café comme une supplique dramatique rend un rituel matinal banal comique.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'ne me parle pas avant le café' sans supplique théâtrale attachée",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le café d'abord. Les mots ensuite. Je t'en implore.",
+      "Approche avec prudence avant que cette machine n'ait accompli son œuvre sacrée."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Porte d'Entrée, un Rappel Solennel",
+    "text": "N'oublie pas, ô toi qui t'apprêtes à franchir ce seuil, les clés qui reposent sur cette table, sans lesquelles ton retour ce soir se ferait tragédie sur le palier.",
+    "effect": "Transformer un simple 'n'oublie pas tes clés' en avertissement de tragédie évitée rend un rappel banal du quotidien franchement drôle.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'n'oublie pas tes clés' sans mise en scène tragique attachée",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le destin d'un retour sans encombre repose sur ces clés. Ne les oublie pas.",
+      "Évite la tragédie du palier ce soir : prends tes clés maintenant."
+    ]
+  },
+  {
+    "actionTitle": "On the Trash Bin, a Duty Fulfilled",
+    "text": "Let this note stand as testament: the sacred and solemn duty of taking out the trash has been fulfilled this day, without complaint, by a hand you know well.",
+    "effect": "Treating a chore as a solemnly fulfilled duty, rather than just crossing it off, makes an ordinary household task into a tiny performance worth finding.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A plain 'took out the trash' note with no ceremonial framing attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Duty fulfilled. The trash is gone. Let the record reflect this.",
+      "A small, unglamorous task, completed nonetheless with full devotion."
+    ]
+  },
+  {
+    "actionTitle": "On the Calendar, a Herald's Announcement",
+    "text": "Hear ye, hear ye: an appointment has been set for Thursday at four o'clock, and no power in heaven or earth shall move it now that it is written.",
+    "effect": "Announcing a simple calendar entry like a town herald turns a mundane scheduling note into a small joke worth smiling at.",
+    "sectionTitle": "Post-its - Comically Tragic",
+    "predictable": "A plain 'appointment Thursday 4pm' note with no herald-style announcement attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "It is written. Thursday. Four o'clock. Let none dispute it.",
+      "An announcement of great but entirely mundane importance: Thursday, four o'clock."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Poubelle, un Devoir Accompli",
+    "text": "Que ce mot serve de témoignage : le devoir sacré et solennel de sortir les poubelles a été accompli ce jour, sans la moindre plainte, par une main que tu connais bien.",
+    "effect": "Traiter une corvée comme un devoir solennellement accompli, plutôt que de simplement la cocher, transforme une tâche domestique banale en petite mise en scène.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'poubelles sorties' sans mise en scène cérémonielle attachée",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Devoir accompli. Les poubelles ont disparu. Que le registre en fasse foi.",
+      "Une tâche petite et sans éclat, accomplie néanmoins avec un dévouement total."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Calendrier, une Annonce du Héraut",
+    "text": "Oyez, oyez : un rendez-vous a été fixé jeudi à seize heures, et aucune puissance au ciel ni sur terre ne saurait désormais le déplacer, maintenant qu'il est écrit.",
+    "effect": "Annoncer un simple rendez-vous comme le ferait un héraut de ville transforme un mot de planning banal en petite blague qui fait sourire.",
+    "sectionTitle": "Post-its - Comiquement Tragique",
+    "predictable": "Un simple 'rendez-vous jeudi 16h' sans annonce façon héraut attachée",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "C'est écrit. Jeudi. Seize heures. Que nul ne le conteste.",
+      "Une annonce d'une grande mais parfaitement banale importance : jeudi, seize heures."
+    ]
   }
 ]

@@ -20445,5 +20445,430 @@
     ],
     "sourceWork": "The Cherry Orchard",
     "sourceWorkAuthor": "Anton Chekhov"
+  },
+  {
+    "actionTitle": "The Horrors of Your Absence",
+    "text": "Hello, my dearest friend. I write to inform you that I am currently suffering the acute and unrelenting horrors of your absence, which has now persisted for the better part of four hours, and which I do not expect to survive gracefully.",
+    "effect": "Applying full Gothic-novel dread to something as ordinary as missing someone for an afternoon makes the sentiment funnier without making it less true.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A plain 'miss you' text with no theatrical buildup whatsoever",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "I have taken to pacing the room and consulting the window for signs of your return, in vain.",
+      "The candles have burned low and still you do not come. Miss you."
+    ]
+  },
+  {
+    "actionTitle": "Bravo, You Magnificent Creature",
+    "text": "BRAVO. A triumph. A feat for the ages, to be recounted by bards long after we are dust. You remembered to take the bins out. History will remember this day.",
+    "effect": "Escalating a small, unremarkable accomplishment into a mock-epic triumph turns ordinary praise into a genuine laugh.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A quick 'nice job' with zero dramatic fanfare",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let it be known throughout the land: the bins were taken out, unprompted, by your own hand.",
+      "Poets will write of this. I, too, will write of this. In this text."
+    ]
+  },
+  {
+    "actionTitle": "An Inquiry Into Your Wellbeing",
+    "text": "I write, trembling, to inquire after the state of your health and spirits this day, dreading with every fibre of my being what answer might come, and yet unable to remain in ignorance a moment longer.",
+    "effect": "Wrapping a simple 'how are you' in Victorian-novel anxiety turns a check-in into a small piece of theatre.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A one-word 'hey how's it going' with no melodrama attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Do not spare me the truth, whatever it may be. How are you.",
+      "I have not slept, wondering. Well, I slept fine. But how ARE you."
+    ]
+  },
+  {
+    "actionTitle": "A Debt I Can Never Repay",
+    "text": "Thank you. There are no words in the English tongue sufficient to the depth of my gratitude for the coffee you brought me this morning. I am forever, irrevocably, eternally in your debt.",
+    "effect": "Treating a small favor as a life debt worthy of a Russian novel makes an ordinary thank-you delightfully absurd.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A plain 'thanks' texted without a shred of theatrical gratitude",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I shall speak of this coffee on my deathbed, among my final and most treasured memories.",
+      "You have done me a kindness I can never adequately repay. It was iced coffee. I am undone."
+    ]
+  },
+  {
+    "actionTitle": "Farewell, Until the Morrow",
+    "text": "Goodnight. Should we not meet again before sleep claims us both, know that these were my last waking thoughts, cast toward you across the darkened miles between our two rooms.",
+    "effect": "Treating an ordinary goodnight as a possible final farewell, Byronic-poet style, makes an everyday ritual briefly hilarious.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A short 'night, love you' with no dramatic weight attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Until the morrow, if fate is kind. Goodnight.",
+      "Sleep well. Should tragedy befall either of us before dawn, know I loved you truly."
+    ]
+  },
+  {
+    "actionTitle": "The Unbearable Weight of a Tuesday",
+    "text": "I confess to you, in strictest confidence, that this Tuesday has proven a burden almost too heavy for mortal shoulders to bear. I persevere, as one must, but at what cost to the soul.",
+    "effect": "Turning an unremarkable rough day into an existential Russian-novel trial makes the venting genuinely funny to read.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A flat 'bad day, ugh' with no theatrical suffering attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "The soul endures. Barely. Send help, or at least snacks.",
+      "I have stared into the abyss of this Tuesday, and it stared back. It was fine, honestly, just long."
+    ]
+  },
+  {
+    "actionTitle": "Sonnet for a Delayed Train",
+    "text": "O cruel and capricious rail line, what evil hour conspired to hold me twelve minutes hence, keeping me from the one whose company I most desire above all things on this earth. I shall arrive at 6:12.",
+    "effect": "Escalating a minor scheduling inconvenience into tragic-poem stakes makes a routine 'running late' text land as comedy.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A quick 'running a bit late, sorry' text with no poetic grievance attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fate itself delays our reunion. Twelve minutes. I rage quietly.",
+      "The train betrays me. I shall arrive, eventually, bearing only my devotion and mild inconvenience."
+    ]
+  },
+  {
+    "actionTitle": "An Elegy for the Lost Sock",
+    "text": "I regret to inform you that a great tragedy has occurred in the laundry room this afternoon: one sock, beloved, has vanished without trace, and I fear we must now mourn it as one mourns the truly departed.",
+    "effect": "Giving a lost sock the full weight of a Russian funeral scene makes an annoying but trivial household event absurdly funny.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A quick 'ugh lost another sock' text with no eulogy attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "We shall never know its fate. I have already begun to grieve.",
+      "A moment of silence, please, for the sock we once knew."
+    ]
+  },
+  {
+    "actionTitle": "The Question That Haunts Me",
+    "text": "Tell me plainly, I beg you, for I cannot bear the suspense one moment longer: what, precisely, would you like for dinner this evening. My peace of mind depends entirely upon your answer.",
+    "effect": "Treating a trivial dinner question as an unbearable existential suspense turns a mundane logistical text into a bit.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A plain 'what do you want for dinner' with no dramatic urgency attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I await your verdict as a prisoner awaits the judge. Dinner. What kind.",
+      "The fate of this evening's meal rests entirely in your hands. Speak."
+    ]
+  },
+  {
+    "actionTitle": "A Toast to Your Continued Existence",
+    "text": "On this, an entirely unremarkable Wednesday, I find myself moved to raise a toast, however humble, to the sheer and improbable miracle of your continued existence in my life. Carry on, magnificent one.",
+    "effect": "Elevating an ordinary 'glad you're in my life' text to grand toast-worthy prose makes affection into comedy without losing sincerity.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A short 'glad you're in my life' with no ceremonial toast attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "To you. On a Wednesday. For no reason but that you are magnificent.",
+      "I toast you with this lukewarm tea, but the sentiment, I assure you, is vintage."
+    ]
+  },
+  {
+    "actionTitle": "A Confession Made Under Duress",
+    "text": "I must confess, though it pains me greatly to admit weakness of any kind, that I have eaten the last of the good biscuits, and I throw myself entirely upon your mercy.",
+    "effect": "Framing a small kitchen confession as a dramatic courtroom plea for mercy makes an everyday admission into comedy.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A quick 'oops I ate the last biscuit, sorry' with no theatrical confession attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I throw myself upon the mercy of this household. The biscuits are gone. I did it.",
+      "Guilty as charged. The biscuits did not survive the afternoon. I have no defense."
+    ]
+  },
+  {
+    "actionTitle": "The Long Road Home",
+    "text": "Though the miles that separate us at this hour are but a short and unremarkable drive, I feel them keenly, as a wanderer feels the vast steppe between himself and home. I shall return to you by seven.",
+    "effect": "Applying epic-journey language (steppe, wanderer) to an ordinary short commute makes the 'I'll be home soon' text a small parody of Russian literature.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A plain 'be home by 7' text with no epic-journey framing attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The road stretches long and grey before me. Twenty minutes, give or take. Home by seven.",
+      "Like a wanderer of the steppe, I make my slow way homeward. Traffic is bad."
+    ]
+  },
+  {
+    "actionTitle": "A Plea From the Depths of the Grocery Store",
+    "text": "I write to you from the fluorescent depths of aisle seven, lost, bewildered, and in desperate need of your guidance: do we, or do we not, require more olive oil.",
+    "effect": "Treating a mundane shopping-list question as a plea sent from some desolate underworld makes an ordinary text funny.",
+    "sectionTitle": "SMS - Comically Tragic",
+    "predictable": "A plain 'do we need olive oil' text with no theatrical despair attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Lost among the aisles, I call out for guidance. Olive oil. Yes or no.",
+      "I stand before the oils, paralyzed by indecision and existential dread. Help."
+    ]
+  },
+  {
+    "actionTitle": "Les Horreurs de Ton Absence",
+    "text": "Chère amie très estimée, je t'écris pour t'informer que je subis présentement les affres aiguës et implacables de ton absence, laquelle dure maintenant depuis près de quatre heures, et dont je ne m'attends pas à me relever dignement.",
+    "effect": "Appliquer toute la terreur d'un roman gothique à une simple absence de l'après-midi rend le sentiment plus drôle sans le rendre moins sincère.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "Un simple 'tu me manques' sans aucune mise en scène théâtrale",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "J'arpente la pièce en scrutant la fenêtre pour tout signe de ton retour, en vain.",
+      "Les bougies se sont consumées et tu ne reviens toujours pas. Tu me manques."
+    ]
+  },
+  {
+    "actionTitle": "Bravo, Créature Magnifique",
+    "text": "BRAVO. Un triomphe. Un exploit dont on se souviendra à travers les âges, chanté par les bardes longtemps après notre disparition. Tu as pensé à sortir les poubelles. L'Histoire retiendra ce jour.",
+    "effect": "Faire d'un petit accomplissement banal un triomphe épique transforme un simple compliment en fou rire garanti.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "Un simple 'bien joué' sans aucune fanfare dramatique",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Que l'on sache dans tout le royaume : les poubelles ont été sorties, sans qu'on le demande.",
+      "Les poètes écriront sur ce jour. Moi aussi. Dans ce texto."
+    ]
+  },
+  {
+    "actionTitle": "Une Enquête sur Ton Bien-Être",
+    "text": "J'écris, tremblante, pour m'enquérir de l'état de ta santé et de ton esprit en ce jour, redoutant de toute mon âme quelle réponse pourrait venir, incapable pourtant de demeurer un instant de plus dans l'ignorance.",
+    "effect": "Envelopper un simple 'comment vas-tu' dans l'anxiété d'un roman du dix-neuvième siècle transforme une prise de nouvelles en petit théâtre.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "Un simple 'ça va ?' sans aucun mélodrame attaché",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "N'épargne-moi pas la vérité, quelle qu'elle soit. Comment vas-tu.",
+      "Je n'ai pas dormi, à me le demander. Enfin si, j'ai bien dormi. Mais comment VAS-tu."
+    ]
+  },
+  {
+    "actionTitle": "Une Dette Que Je Ne Pourrai Jamais Rembourser",
+    "text": "Merci. Il n'existe aucun mot dans la langue française suffisant à la profondeur de ma gratitude pour le café que tu m'as apporté ce matin. Je te suis, à jamais, irrévocablement, éternellement redevable.",
+    "effect": "Traiter un petit service comme une dette de vie digne d'un roman russe rend un simple merci délicieusement absurde.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "Un simple 'merci' envoyé sans la moindre gratitude théâtrale",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je parlerai de ce café sur mon lit de mort, parmi mes souvenirs les plus chers.",
+      "Tu m'as rendu un service que je ne pourrai jamais réparer. C'était un café glacé. Je suis anéanti."
+    ]
+  },
+  {
+    "actionTitle": "Adieu, Jusqu'au Lendemain",
+    "text": "Bonne nuit. Si le sommeil devait nous réclamer avant que nous ne nous revoyions, sache que ce furent là mes dernières pensées éveillées, lancées vers toi à travers les kilomètres obscurs qui séparent nos deux chambres.",
+    "effect": "Traiter un simple bonsoir comme un possible dernier adieu, façon poète romantique, rend un rituel quotidien brièvement hilarant.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "Un simple 'bonne nuit, je t'aime' sans aucun poids dramatique attaché",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Jusqu'au lendemain, si le destin le veut bien. Bonne nuit.",
+      "Dors bien. Si le tragique nous frappait avant l'aube, sache que je t'aimais vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Le Poids Insupportable d'un Mardi",
+    "text": "Je t'avoue, en toute confidence, que ce mardi s'est révélé un fardeau presque trop lourd pour des épaules mortelles. Je persévère, comme il se doit, mais à quel prix pour mon âme.",
+    "effect": "Transformer une journée un peu difficile mais banale en épreuve existentielle façon roman russe rend le fait de se plaindre réellement drôle.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "Un plat 'mauvaise journée, ugh' sans aucune souffrance théâtrale attachée",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "L'âme tient bon. À peine. Envoie du secours, ou au moins des biscuits.",
+      "J'ai fixé l'abîme de ce mardi, et il m'a fixé en retour. Ça allait, en fait, juste long."
+    ]
+  },
+  {
+    "actionTitle": "Une Confession Faite Sous la Contrainte",
+    "text": "Je dois t'avouer, bien qu'il m'en coûte grandement d'admettre une faiblesse quelconque, que j'ai mangé les derniers bons biscuits, et je me jette entièrement à ta merci.",
+    "effect": "Présenter une petite confession de cuisine comme une plaidoirie dramatique de tribunal transforme un simple aveu en comédie.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "Un simple 'oups j'ai mangé le dernier biscuit, désolé' sans aucune confession théâtrale",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je me jette à la merci de ce foyer. Les biscuits ont disparu. C'était moi.",
+      "Coupable. Les biscuits n'ont pas survécu à l'après-midi. Je n'ai aucune défense."
+    ]
+  },
+  {
+    "actionTitle": "La Longue Route du Retour",
+    "text": "Bien que les kilomètres qui nous séparent en cet instant ne soient qu'un court trajet sans éclat, je les ressens vivement, comme un voyageur ressent la vaste steppe qui le sépare de son foyer. Je serai de retour à sept heures.",
+    "effect": "Appliquer un vocabulaire de voyage épique (steppe, voyageur) à un trajet court et banal transforme le texto 'je rentre bientôt' en petite parodie de littérature russe.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "Un simple 'je rentre à 19h' sans mise en scène épique attachée",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La route s'étire, longue et grise, devant moi. Vingt minutes, à peu près. À sept heures.",
+      "Comme un voyageur de la steppe, je fais mon lent chemin vers le foyer. Il y a des bouchons."
+    ]
+  },
+  {
+    "actionTitle": "Une Supplique des Profondeurs du Supermarché",
+    "text": "Je t'écris depuis les profondeurs fluorescentes du rayon sept, perdue, désorientée, et en besoin urgent de tes conseils : avons-nous, oui ou non, besoin de plus d'huile d'olive.",
+    "effect": "Traiter une simple question de liste de courses comme une supplique lancée depuis quelque enfer souterrain rend un texto banal réellement drôle.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "Un simple 'on a besoin d'huile d'olive ?' sans aucun désespoir théâtral",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Perdue parmi les rayons, j'appelle à l'aide. Huile d'olive. Oui ou non.",
+      "Je me tiens devant les huiles, paralysée par l'indécision et l'angoisse existentielle. Au secours."
+    ]
+  },
+  {
+    "actionTitle": "Un Toast à Ton Existence Continuée",
+    "text": "En ce mercredi tout à fait ordinaire, je me sens poussée à porter un toast, si humble soit-il, au miracle pur et improbable de ta présence continue dans ma vie. Poursuis ta route, être magnifique.",
+    "effect": "Élever un simple 'content(e) de t'avoir dans ma vie' au rang de toast solennel rend l'affection comique sans lui retirer sa sincérité.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "Un simple 'content(e) de t'avoir dans ma vie' sans aucun toast cérémoniel attaché",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "À toi. Un mercredi. Sans autre raison que ta magnificence.",
+      "Je te porte un toast avec ce thé tiède, mais le sentiment, je t'assure, est un grand cru."
+    ]
+  },
+  {
+    "actionTitle": "A Dirge for the Wifi",
+    "text": "I write to you in a state of near-total despair: the wifi has failed us once more, and I fear I may be trapped in this silence, alone with only my thoughts, for as long as several minutes.",
+    "effect": "Treating a brief wifi outage as an isolating tragedy worthy of a hermit's lament makes a minor annoyance genuinely funny to text about.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "A flat 'wifi's down again, ugh' text with no theatrical despair attached",
+    "themes": [
+      "Literary",
+      "Humor"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cast into digital darkness once more. Send help, or at least conversation.",
+      "Alone with my thoughts and no wifi. A fate I would not wish upon my worst enemy."
+    ]
+  },
+  {
+    "actionTitle": "Une Complainte pour le Wifi",
+    "text": "Je t'écris dans un état de désespoir quasi total : le wifi nous a trahis une fois de plus, et je crains d'être condamnée à ce silence, seule avec mes pensées, pour plusieurs minutes entières.",
+    "effect": "Traiter une brève panne de wifi comme une tragédie d'isolement digne d'un ermite rend un désagrément mineur réellement drôle à raconter par texto.",
+    "sectionTitle": "SMS - Comiquement Tragique",
+    "predictable": "Un simple 'le wifi a encore lâché, ugh' sans aucun désespoir théâtral attaché",
+    "themes": [
+      "Littéraire",
+      "Humour"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rejetée dans les ténèbres numériques une fois de plus. Envoie de l'aide, ou au moins une conversation.",
+      "Seule avec mes pensées et sans wifi. Un sort que je ne souhaiterais à personne."
+    ]
   }
 ]
