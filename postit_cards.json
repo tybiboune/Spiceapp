@@ -20844,5 +20844,855 @@
       "C'est écrit. Jeudi. Seize heures. Que nul ne le conteste.",
       "Une annonce d'une grande mais parfaitement banale importance : jeudi, seize heures."
     ]
+  },
+  {
+    "actionTitle": "On the Pillow, a Small Vigil",
+    "text": "While you slept the room kept still\nfor you, the way old rivers keep still\nfor the moon — not out of duty,\nonly because some things deserve\nto be watched over quietly. Good morning.",
+    "effect": "Framing a quiet room overnight as something 'keeping still' for the sleeper, like a river for the moon, turns a simple good-morning note into a small poem.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'good morning' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The room kept still for you all night. Good morning.",
+      "Watched over quietly, the way rivers watch the moon. Morning."
+    ]
+  },
+  {
+    "actionTitle": "On the Coffee Cup, a Small Devotion",
+    "text": "Before the day gets its hands on you,\nlet this cup get there first —\nwarm, plain, entirely yours,\na small devotion poured before dawn\nhad the chance to ask for anything back.",
+    "effect": "Treating a poured cup of coffee as a small devotional act performed before the day 'asks for anything' gives an everyday gesture unexpected weight.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'made you coffee' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Poured before the day could ask for anything. Coffee's ready.",
+      "A small devotion, warm and plain. Coffee's on the counter."
+    ]
+  },
+  {
+    "actionTitle": "On the Bathroom Mirror, a Quiet Truth",
+    "text": "Whatever this mirror shows you,\nknow it is not the whole of the truth —\nthe rest of it lives in what you carry,\nwhat you've survived, what you keep choosing\nto get up and do anyway. You're doing well.",
+    "effect": "Reframing the mirror's limited reflection against the fuller truth of resilience turns an ordinary encouragement note into something more grounded.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'you've got this' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The mirror only shows part of it. You're doing well, truly.",
+      "What you carry matters more than what's reflected. You've got this."
+    ]
+  },
+  {
+    "actionTitle": "On the Front Door, a Quiet Send-Off",
+    "text": "Go now, into whatever the day\nhas planned without consulting either of us —\nand know that this door, when you return,\nwill still be exactly where you left it,\nas will I. Have a good one.",
+    "effect": "Personifying the door as a steady, waiting constant reframes an ordinary send-off as a small promise of return.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'have a good day' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "This door, and I, will be right here. Have a good one.",
+      "The day has its own plans. I'll be here when you're back."
+    ]
+  },
+  {
+    "actionTitle": "On the Steering Wheel, a Small Blessing",
+    "text": "Drive gently into whatever traffic\nthe morning has assembled for you —\nand know that somewhere behind you,\nsomeone is already glad you'll arrive\nwherever you're going, safely, eventually.",
+    "effect": "Personifying morning traffic as something 'assembled' and closing on a quiet promise of gladness reframes a plain 'drive safe' note.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'drive safe' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Someone's glad you'll arrive, wherever that is. Drive safe.",
+      "Gently, whatever the traffic. Drive safe today."
+    ]
+  },
+  {
+    "actionTitle": "On the Fridge, a Note on Hunger",
+    "text": "Should hunger find you before I'm home,\nknow that the fridge holds more than food —\nit holds, in its small cold way,\nproof that someone thought ahead for you.\nEat well. I'll see you soon.",
+    "effect": "Treating a stocked fridge as quiet 'proof of thinking ahead' makes a mundane note about food into something that reads as care.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'there's food in the fridge' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Proof that someone thought of you, kept cold. Eat well.",
+      "Food's in the fridge, and so is a little forethought. Eat well."
+    ]
+  },
+  {
+    "actionTitle": "On the Desk, a Note for a Long Day",
+    "text": "Whatever this desk demands of you today,\nknow it does not have the final word —\nyou do, once the hour is done,\nand somewhere past this stack of tasks\na version of the evening is waiting, unhurried.",
+    "effect": "Framing an evening off as patiently 'waiting past the tasks' reframes an ordinary work-day encouragement note as something to look forward to.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'good luck today, almost done' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The evening's waiting on the other side of this. Good luck today.",
+      "This desk doesn't get the final word. You do. Good luck."
+    ]
+  },
+  {
+    "actionTitle": "On the Suitcase, a Small Farewell",
+    "text": "Go, then — not away from me,\nonly forward, the way travelers go,\ncarrying a little of home folded\nsomewhere in the luggage, whether\nthey packed it on purpose or not.",
+    "effect": "Reframing a trip's departure as moving 'forward' rather than 'away' softens a plain travel-farewell note with a hint of poetic reassurance.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'safe travels' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A little of home, folded into the suitcase either way. Safe travels.",
+      "Forward, not away. Safe travels, see you soon."
+    ]
+  },
+  {
+    "actionTitle": "On the Notebook, a Note of Pride",
+    "text": "Whatever you write in these pages,\nknow that the writing itself is already\nsomething to be proud of — the showing up,\nthe trying, the plain fact of continuing\nwhen no one was watching. I noticed.",
+    "effect": "Praising the act of persistence itself (showing up, continuing unwatched), rather than a specific achievement, gives a small pride note broader meaning.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'proud of you' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The showing up counts, whether or not anyone saw. Proud of you.",
+      "I noticed the continuing, even unwatched. Proud of you."
+    ]
+  },
+  {
+    "actionTitle": "On the Umbrella, a Small Shelter Promised",
+    "text": "Should the sky decide to argue with you today,\nlet this small shelter speak for me\nin my absence — imperfect, portable,\nbut entirely on your side, whatever falls.",
+    "effect": "Personifying an umbrella as an ally 'speaking for me in my absence' turns a plain weather reminder into something warmer.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'take an umbrella' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "On your side, whatever falls from the sky today. Take the umbrella.",
+      "A small shelter, speaking for me. Don't forget the umbrella."
+    ]
+  },
+  {
+    "actionTitle": "On the Alarm Clock, a Note Before Waking",
+    "text": "Before this clock has its say,\nknow that today already has\nat least one person glad you're in it —\nset your alarm, and rise, if you must,\ninto a day that starts, already, in your favor.",
+    "effect": "Framing waking up as starting a day 'already in your favor' (because someone's glad) softens the ordinary chore of an alarm clock note.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'set your alarm' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Today starts in your favor. Set the alarm. Don't forget.",
+      "Someone's glad you're in today already. Alarm's set, right?"
+    ]
+  },
+  {
+    "actionTitle": "On the Medicine Cabinet, a Note of Care",
+    "text": "Take what you need today —\nnot as weakness, but as the small,\nquiet maintenance that keeps a person\ngoing through days that ask a great deal.\nTake care of yourself. I mean it.",
+    "effect": "Reframing a medication reminder as quiet 'maintenance' rather than weakness gives an ordinary health note extra warmth.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'don't forget your medication' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quiet maintenance, not weakness. Don't forget your meds today.",
+      "Take what keeps you going. Take care of yourself."
+    ]
+  },
+  {
+    "actionTitle": "On the Laundry Basket, a Note of Small Labor",
+    "text": "This basket holds, along with the laundry,\na small unspoken labor done for you —\nnot for thanks, though I'll take it,\nbut because some kinds of care\nare best folded quietly into the ordinary.",
+    "effect": "Treating a load of laundry as a form of quiet, unglamorous care 'folded into the ordinary' elevates a chore note without overselling it.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'did the laundry' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A small labor, folded quietly into the day. Laundry's done.",
+      "Care, folded into the ordinary. Laundry's done, no need to ask."
+    ]
+  },
+  {
+    "actionTitle": "On the Kettle, a Note for a Tired Day",
+    "text": "Should today prove heavier\nthan most, let this kettle's small heat\nstand in for the comfort I can't\nhand you directly from here — steep it slow,\ndrink it slower, and know I'm thinking of you.",
+    "effect": "Substituting the physical warmth of tea for absent comfort (via a kettle note) turns a mundane household object into a stand-in for care.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'thinking of you, made tea' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Small heat standing in for comfort I can't hand you directly. Tea's ready.",
+      "Steep it slow. Thinking of you today."
+    ]
+  },
+  {
+    "actionTitle": "On the Bookshelf, a Note of Rest Permitted",
+    "text": "Whatever you were going to accomplish tonight,\nconsider this note formal permission\nto set it down instead, the way\nold books are set down mid-chapter,\ntrusting the story to still be there tomorrow.",
+    "effect": "Framing 'permission to rest' as setting a book down mid-chapter (trusting it'll wait) gives an ordinary rest reminder a gentle literary logic.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'take the night off' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Permission granted, formally: set it down tonight. It'll keep.",
+      "The story waits for tomorrow. Take tonight off."
+    ]
+  },
+  {
+    "actionTitle": "On the Shoe Rack, a Note for Departure",
+    "text": "Wherever these shoes take you today,\nknow they carry, in some small\nand entirely unscientific way,\na little of this quiet house with them —\nand a little of me, wishing you well.",
+    "effect": "Imagining shoes as literally carrying a piece of home along with the person softens a plain departure note into something wistful.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'have a good day out' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A little of home goes with you today, unscientifically speaking. Good day out there.",
+      "Carrying a little of this house with you. Have a good one."
+    ]
+  },
+  {
+    "actionTitle": "On the Phone Charger, a Note of Connection",
+    "text": "Plug in, and while you charge,\nknow that some connections\ndon't need a cable at all —\nthis one's been running quietly\nsince long before either of us noticed it.",
+    "effect": "Using the literal act of charging a phone as a springboard to name a quieter, cable-free emotional connection turns a tech reminder into something sentimental.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'charge your phone' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Some connections don't need a cable. Charge your phone anyway.",
+      "Running quietly, long before we noticed. Don't forget to charge it."
+    ]
+  },
+  {
+    "actionTitle": "On the Calendar, a Note of Anticipation",
+    "text": "Circle this date if you must,\nbut know the anticipation started\nlong before any calendar could hold it —\nsomewhere in the ordinary space\nbetween one plan and wanting to see you again.",
+    "effect": "Suggesting the anticipation predates the actual calendar marking gives a routine scheduling note a wistful undertone.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'can't wait for this' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The anticipation started before the calendar knew about it. Can't wait.",
+      "Circled, but really already counted down. Can't wait for this."
+    ]
+  },
+  {
+    "actionTitle": "On the Wallet, a Note of Trust",
+    "text": "Whatever this day costs you,\nknow that some things spent\nare never really lost — patience,\nkindness, the small coin of attention\nyou keep handing out so freely.",
+    "effect": "Comparing intangible daily efforts (patience, kindness) to spent money that's 'never really lost' gives an odd, thoughtful spin to a wallet-adjacent note.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'have a good day' note left near the wallet with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Patience and kindness spent well are never lost. Good day.",
+      "The small coin of attention you give so freely — well spent. Good day."
+    ]
+  },
+  {
+    "actionTitle": "Sur l'Oreiller, une Petite Veille",
+    "text": "Pendant que tu dormais, la pièce est restée immobile\npour toi, comme les vieux fleuves restent immobiles\npour la lune — non par devoir,\nseulement parce que certaines choses méritent\nd'être veillées en silence. Bonjour.",
+    "effect": "Présenter une pièce silencieuse la nuit comme quelque chose qui 'reste immobile' pour le dormeur, comme un fleuve pour la lune, transforme un simple bonjour en petit poème.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'bonjour' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La pièce est restée immobile pour toi toute la nuit. Bonjour.",
+      "Veillée en silence, comme les fleuves veillent la lune. Bonjour."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Tasse à Café, une Petite Dévotion",
+    "text": "Avant que la journée ne mette la main sur toi,\nlaisse cette tasse y arriver la première —\nchaude, simple, entièrement à toi,\nune petite dévotion versée avant que l'aube\nn'ait eu la chance de demander quoi que ce soit en retour.",
+    "effect": "Traiter une tasse de café versée comme un petit acte de dévotion accompli avant que la journée ne 'demande quoi que ce soit' donne du poids à un geste quotidien.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'je t'ai fait un café' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Versé avant que la journée ne puisse rien demander. Le café t'attend.",
+      "Une petite dévotion, chaude et simple. Le café est sur le comptoir."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Miroir de la Salle de Bain, une Vérité Tranquille",
+    "text": "Quoi que ce miroir te montre,\nsache que ce n'est pas toute la vérité —\nle reste vit dans ce que tu portes,\nce que tu as traversé, ce que tu choisis encore\nde te lever et de faire malgré tout. Tu t'en sors bien.",
+    "effect": "Opposer le reflet limité du miroir à la vérité plus complète de la résilience transforme un mot d'encouragement banal en quelque chose de plus ancré.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'tu gères' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le miroir n'en montre qu'une partie. Tu t'en sors vraiment bien.",
+      "Ce que tu portes compte plus que ce qui se reflète. Tu gères."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Porte d'Entrée, un Adieu Tranquille",
+    "text": "Pars maintenant, vers ce que la journée\na prévu sans nous consulter ni l'un ni l'autre —\net sache que cette porte, à ton retour,\nsera exactement où tu l'as laissée,\nmoi aussi. Bonne journée.",
+    "effect": "Personnifier la porte comme une constante fidèle qui attend redéfinit un simple au revoir comme une petite promesse de retour.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'bonne journée' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Cette porte, et moi, on sera là. Bonne journée.",
+      "La journée a ses propres plans. Je serai là à ton retour."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Volant, une Petite Bénédiction",
+    "text": "Roule doucement dans quel que soit le trafic\nque le matin a assemblé pour toi —\net sache que quelque part derrière toi,\nquelqu'un est déjà content que tu arrives\nlà où tu vas, en sécurité, tôt ou tard.",
+    "effect": "Personnifier le trafic matinal comme quelque chose 'assemblé' et conclure sur une promesse tranquille de contentement redéfinit un simple 'roule prudemment'.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'roule prudemment' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Quelqu'un est content que tu arrives, où que ce soit. Roule prudemment.",
+      "Doucement, quel que soit le trafic. Roule bien aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Frigo, un Mot sur la Faim",
+    "text": "Si la faim te trouve avant mon retour,\nsache que le frigo contient plus que de la nourriture —\nil contient, à sa petite façon glacée,\nla preuve que quelqu'un a pensé à toi d'avance.\nMange bien. À très vite.",
+    "effect": "Traiter un frigo garni comme une preuve silencieuse d''avoir pensé à l'avance' transforme un mot banal sur la nourriture en quelque chose qui se lit comme de l'attention.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'il y a à manger dans le frigo' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La preuve qu'on a pensé à toi, gardée au frais. Mange bien.",
+      "Il y a à manger, et un peu de prévoyance aussi. Mange bien."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Bureau, un Mot pour une Longue Journée",
+    "text": "Quoi que ce bureau exige de toi aujourd'hui,\nsache qu'il n'a pas le dernier mot —\ntoi si, une fois l'heure passée,\net quelque part au-delà de cette pile de tâches\nune version tranquille de la soirée t'attend, sans se presser.",
+    "effect": "Présenter une soirée de repos comme attendant patiemment 'au-delà des tâches' transforme un mot d'encouragement de journée de travail en quelque chose à espérer.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'bon courage aujourd'hui, presque fini' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La soirée attend de l'autre côté de tout ça. Bon courage aujourd'hui.",
+      "Ce bureau n'a pas le dernier mot. Toi si. Bon courage."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Valise, un Petit Adieu",
+    "text": "Pars, alors — pas loin de moi,\nseulement vers l'avant, comme partent les voyageurs,\nemportant un peu de la maison pliée\nquelque part dans les bagages, qu'ils l'aient\nfait exprès ou non.",
+    "effect": "Redéfinir le départ d'un voyage comme un mouvement 'vers l'avant' plutôt que 'loin de' adoucit un mot d'adieu de voyage banal avec une touche de réconfort poétique.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'bon voyage' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un peu de la maison, plié dans la valise malgré tout. Bon voyage.",
+      "Vers l'avant, pas loin de moi. Bon voyage, à bientôt."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Carnet, un Mot de Fierté",
+    "text": "Quoi que tu écrives dans ces pages,\nsache que l'écriture elle-même est déjà\nquelque chose dont être fier — le fait de se présenter,\nd'essayer, le simple fait de continuer\nquand personne ne regardait. Moi, je l'ai remarqué.",
+    "effect": "Louer l'acte même de la persévérance (se présenter, continuer sans témoin), plutôt qu'un accomplissement précis, donne à un petit mot de fierté un sens plus large.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'je suis fier(e) de toi' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Se présenter compte, même sans témoin. Je suis fier de toi.",
+      "J'ai remarqué la continuité, même invisible. Je suis fier de toi."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Parapluie, un Petit Abri Promis",
+    "text": "Si le ciel décide de te contredire aujourd'hui,\nlaisse ce petit abri parler pour moi\nen mon absence — imparfait, portable,\nmais entièrement de ton côté, quoi qu'il tombe.",
+    "effect": "Personnifier un parapluie comme un allié 'parlant pour moi en mon absence' transforme un rappel météo banal en quelque chose de plus chaleureux.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'prends un parapluie' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "De ton côté, quoi qu'il tombe du ciel aujourd'hui. Prends le parapluie.",
+      "Un petit abri, qui parle pour moi. N'oublie pas le parapluie."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Réveil, un Mot Avant l'Éveil",
+    "text": "Avant que ce réveil n'ait son mot à dire,\nsache que la journée compte déjà\nau moins une personne contente que tu y sois —\nrègle ton réveil, et lève-toi, s'il le faut,\ndans une journée qui commence, déjà, en ta faveur.",
+    "effect": "Présenter le réveil comme le début d'une journée 'déjà en ta faveur' (parce que quelqu'un est content) adoucit la corvée banale d'un mot sur le réveil.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'mets ton réveil' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La journée commence en ta faveur. Règle le réveil, n'oublie pas.",
+      "Quelqu'un est déjà content que tu sois dans cette journée. Réveil réglé ?"
+    ]
+  },
+  {
+    "actionTitle": "Sur l'Armoire à Pharmacie, un Mot de Soin",
+    "text": "Prends ce dont tu as besoin aujourd'hui —\npas comme une faiblesse, mais comme le petit\nentretien tranquille qui permet de continuer\nà travers des journées qui demandent beaucoup.\nPrends soin de toi. Je le pense.",
+    "effect": "Redéfinir un rappel de médicament comme un 'entretien' tranquille plutôt qu'une faiblesse donne de la chaleur à un mot de santé banal.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'n'oublie pas ton traitement' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un entretien tranquille, pas une faiblesse. N'oublie pas ton traitement.",
+      "Prends ce qui te permet de continuer. Prends soin de toi."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Panier à Linge, un Mot de Petit Labeur",
+    "text": "Ce panier contient, avec le linge,\nun petit labeur tacite fait pour toi —\npas pour être remercié, bien que je le prendrai,\nmais parce que certaines formes d'attention\nse plient le mieux discrètement dans l'ordinaire.",
+    "effect": "Traiter une lessive comme une forme d'attention discrète 'pliée dans l'ordinaire' élève un mot de corvée sans en faire trop.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'j'ai fait la lessive' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un petit labeur, plié discrètement dans la journée. La lessive est faite.",
+      "De l'attention, pliée dans l'ordinaire. La lessive est faite, pas besoin de demander."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Bouilloire, un Mot pour une Journée Fatiguée",
+    "text": "Si aujourd'hui se révèle plus lourde\nque la plupart, laisse la petite chaleur de cette bouilloire\ntenir lieu du réconfort que je ne peux\nte donner directement d'ici — infuse-le lentement,\nbois-le plus lentement encore, et sache que je pense à toi.",
+    "effect": "Substituer la chaleur physique du thé à un réconfort absent (via un mot sur la bouilloire) transforme un objet banal en substitut d'attention.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'je pense à toi, j'ai fait du thé' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Une petite chaleur, en attendant le réconfort que je ne peux te donner d'ici. Le thé est prêt.",
+      "Infuse-le lentement. Je pense à toi aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Sur l'Étagère à Livres, un Mot de Repos Permis",
+    "text": "Quoi que tu comptais accomplir ce soir,\nconsidère ce mot comme une permission formelle\nde le poser à la place, comme on pose\nles vieux livres en plein chapitre,\nen faisant confiance à l'histoire pour t'attendre demain.",
+    "effect": "Présenter la 'permission de se reposer' comme le fait de poser un livre en plein chapitre (en lui faisant confiance pour attendre) donne une douce logique littéraire à un rappel de repos banal.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'prends ta soirée' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Permission accordée, formellement : pose-le ce soir. Ça attendra.",
+      "L'histoire attend jusqu'à demain. Prends ta soirée."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Porte-Chaussures, un Mot pour le Départ",
+    "text": "Où que ces chaussures t'emmènent aujourd'hui,\nsache qu'elles emportent, d'une façon petite\net tout à fait non scientifique,\nun peu de cette maison tranquille avec elles —\net un peu de moi, qui te souhaite le meilleur.",
+    "effect": "Imaginer des chaussures comme emportant littéralement un morceau de la maison avec la personne adoucit un mot de départ banal avec une touche mélancolique.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'bonne journée dehors' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un peu de cette maison part avec toi aujourd'hui, non scientifiquement parlant. Bonne journée.",
+      "Emportant un peu de cette maison avec toi. Bonne journée dehors."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Chargeur de Téléphone, un Mot de Connexion",
+    "text": "Branche-le, et pendant que tu charges,\nsache que certaines connexions\nn'ont besoin d'aucun câble du tout —\ncelle-ci fonctionne tranquillement\ndepuis bien avant qu'aucun de nous ne le remarque.",
+    "effect": "Utiliser l'acte littéral de charger un téléphone comme tremplin pour nommer une connexion émotionnelle plus tranquille, sans câble, transforme un rappel technique en quelque chose de sentimental.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'charge ton téléphone' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Certaines connexions n'ont pas besoin de câble. Charge quand même ton téléphone.",
+      "Ça fonctionne tranquillement depuis longtemps. N'oublie pas de charger."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Calendrier, un Mot d'Anticipation",
+    "text": "Entoure cette date si tu veux,\nmais sache que l'anticipation a commencé\nbien avant qu'aucun calendrier ne puisse la contenir —\nquelque part dans l'espace ordinaire\nentre un projet et l'envie de te revoir.",
+    "effect": "Suggérer que l'anticipation précède la date réellement marquée donne une note mélancolique à un mot de planning banal.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'j'ai hâte' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "L'anticipation a commencé avant même que le calendrier le sache. J'ai hâte.",
+      "Entourée, mais en vérité déjà comptée à rebours. J'ai hâte de ça."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Portefeuille, un Mot de Confiance",
+    "text": "Quoi que cette journée te coûte,\nsache que certaines dépenses\nne sont jamais vraiment perdues — la patience,\nla gentillesse, la petite monnaie d'attention\nque tu distribues si librement.",
+    "effect": "Comparer les efforts quotidiens intangibles (patience, gentillesse) à de l'argent dépensé mais 'jamais vraiment perdu' donne une tournure originale et réfléchie à un mot près du portefeuille.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'bonne journée' laissé près du portefeuille sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La patience et la gentillesse bien dépensées ne sont jamais perdues. Bonne journée.",
+      "La petite monnaie d'attention que tu donnes si librement — bien dépensée. Bonne journée."
+    ]
+  },
+  {
+    "actionTitle": "On the Mailbox, a Note of Waiting",
+    "text": "Whatever arrives in this box today,\nknow that the thing I'm actually waiting for\nisn't mail at all — it's the sound\nof you coming home, which no letter\nhas ever quite managed to replace.",
+    "effect": "Contrasting literal mail with the real anticipated arrival (the person coming home) turns a mailbox note into something quietly sentimental.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'check the mail' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No letter replaces the sound of you coming home. Check the mail anyway.",
+      "Waiting for you, not the mail. Though check it, if you would."
+    ]
+  },
+  {
+    "actionTitle": "On the Grocery List, a Note of Ordinary Devotion",
+    "text": "This list is short and unremarkable —\nmilk, bread, the usual small things —\nand yet each item is its own quiet proof\nthat I thought of tomorrow, and of you in it.",
+    "effect": "Treating a mundane grocery list as proof of thinking of the future together elevates the most ordinary household note imaginable.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain grocery list note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Small things, each one proof I thought of tomorrow. Grocery list attached.",
+      "Milk, bread, and you in every plan. Here's the list."
+    ]
+  },
+  {
+    "actionTitle": "On the Garden Gate, a Note of Growing Things",
+    "text": "Whatever grows here while I'm away,\nknow it grows the way most good things do —\nslowly, unglamorously, needing\nonly patience and a little water,\nnot unlike most things worth keeping.",
+    "effect": "Using the slow, unglamorous growth of a garden as a quiet metaphor for patience elevates a simple garden reminder note.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'water the plants' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Slow and unglamorous, like most good things. Water the plants, please.",
+      "Patience and a little water — that's all it needs. Don't forget the garden."
+    ]
+  },
+  {
+    "actionTitle": "On the Piano, a Note of Unplayed Music",
+    "text": "Whatever song this piano is waiting for,\nknow that some music doesn't need\nto be played to matter — it waits, patient,\nthe way certain feelings wait\nfor the right, unhurried moment to be said.",
+    "effect": "Comparing unplayed music patiently waiting to unspoken feelings gives a whimsical household object note unexpected emotional depth.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'play something later?' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Some music waits patiently, like certain feelings do. Play something later?",
+      "Waiting for the right moment, like this piano is. Play me something tonight?"
+    ]
+  },
+  {
+    "actionTitle": "On the Photo Frame, a Note on Kept Time",
+    "text": "This photograph holds one single moment\nhostage, forever, against the passing\nof all the moments after it —\nand I am glad, every day, that it chose\nto keep exactly this one.",
+    "effect": "Personifying a photograph as 'holding a moment hostage' against time gives a simple sentimental note about a photo unexpected poetic weight.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'love this photo of us' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "One moment, kept forever against all the ones after it. Love this photo.",
+      "Glad it chose to keep exactly this one. Love this photo of us."
+    ]
+  },
+  {
+    "actionTitle": "On the Doormat, a Note of Return",
+    "text": "Wipe your feet, if you must,\nbut know that this doormat has waited\nall day for exactly this moment —\nnot for clean shoes, but for the sound\nof you finally, actually, being home.",
+    "effect": "Personifying a doormat as waiting all day for the moment of return (not for clean shoes) turns a trivial household object into something warm.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "A plain 'welcome home' note with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Waited all day for exactly this. Welcome home.",
+      "Not for the shoes. For you, finally home. Welcome back."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Boîte aux Lettres, un Mot d'Attente",
+    "text": "Quoi qui arrive dans cette boîte aujourd'hui,\nsache que ce que j'attends vraiment\nn'est pas du courrier du tout — c'est le son\nde ton retour à la maison, qu'aucune lettre\nn'a jamais tout à fait su remplacer.",
+    "effect": "Opposer le courrier littéral à la vraie arrivée attendue (le retour de la personne) transforme un mot sur la boîte aux lettres en quelque chose de discrètement sentimental.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'regarde le courrier' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Aucune lettre ne remplace le bruit de ton retour. Regarde le courrier quand même.",
+      "Je t'attends, pas le courrier. Mais regarde-le, si tu veux bien."
+    ]
+  },
+  {
+    "actionTitle": "Sur la Liste de Courses, un Mot de Dévotion Ordinaire",
+    "text": "Cette liste est courte et sans éclat —\ndu lait, du pain, les petites choses habituelles —\net pourtant chaque article est sa propre preuve tranquille\nque j'ai pensé à demain, et à toi dedans.",
+    "effect": "Traiter une liste de courses banale comme une preuve de pensée pour l'avenir ensemble élève le mot domestique le plus ordinaire qui soit.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Une simple liste de courses sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "De petites choses, chacune preuve que j'ai pensé à demain. Voici la liste.",
+      "Du lait, du pain, et toi dans chaque projet. Voici la liste."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Portail du Jardin, un Mot de Choses Qui Poussent",
+    "text": "Quoi qui pousse ici pendant mon absence,\nsache que ça pousse comme poussent la plupart des bonnes choses —\nlentement, sans éclat, n'ayant besoin\nque de patience et d'un peu d'eau,\nun peu comme la plupart des choses qui valent d'être gardées.",
+    "effect": "Utiliser la croissance lente et discrète d'un jardin comme métaphore tranquille de la patience élève un simple rappel de jardinage.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'arrose les plantes' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Lentement, sans éclat, comme la plupart des bonnes choses. Arrose les plantes, s'il te plaît.",
+      "Patience et un peu d'eau — c'est tout ce qu'il faut. N'oublie pas le jardin."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Piano, un Mot de Musique Non Jouée",
+    "text": "Quelle que soit la chanson que ce piano attend,\nsache que certaines musiques n'ont pas besoin\nd'être jouées pour compter — elles attendent, patientes,\ncomme certains sentiments attendent\nle bon moment, sans hâte, pour être dits.",
+    "effect": "Comparer une musique non jouée qui attend patiemment à des sentiments non exprimés donne une profondeur émotionnelle inattendue à un mot fantaisiste sur un objet du foyer.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'tu joueras quelque chose plus tard ?' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Certaines musiques attendent patiemment, comme certains sentiments. Tu joueras quelque chose plus tard ?",
+      "Attendant le bon moment, comme ce piano. Joue-moi quelque chose ce soir ?"
+    ]
+  },
+  {
+    "actionTitle": "Sur le Cadre Photo, un Mot sur le Temps Gardé",
+    "text": "Cette photographie retient un seul instant\nen otage, pour toujours, contre le passage\nde tous les instants qui l'ont suivi —\net je suis heureux, chaque jour, qu'elle ait choisi\nde garder exactement celui-ci.",
+    "effect": "Personnifier une photo comme 'retenant un instant en otage' contre le temps donne un poids poétique inattendu à un simple mot sentimental sur une photo.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'j'adore cette photo de nous' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un instant, gardé pour toujours contre tous ceux qui ont suivi. J'adore cette photo.",
+      "Heureux qu'elle ait choisi de garder exactement celui-ci. J'adore cette photo de nous."
+    ]
+  },
+  {
+    "actionTitle": "Sur le Paillasson, un Mot de Retour",
+    "text": "Essuie tes pieds, si tu y tiens,\nmais sache que ce paillasson a attendu\ntoute la journée exactement ce moment —\npas pour des chaussures propres, mais pour le bruit\nde ton retour, enfin, réellement, à la maison.",
+    "effect": "Personnifier un paillasson comme attendant toute la journée le moment du retour (pas les chaussures propres) transforme un objet banal en quelque chose de chaleureux.",
+    "sectionTitle": "Post-its - Poésie Dramatique",
+    "predictable": "Un simple 'bienvenue à la maison' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A attendu toute la journée exactement ça. Bienvenue à la maison.",
+      "Pas pour les chaussures. Pour toi, enfin là. Bon retour."
+    ]
   }
 ]

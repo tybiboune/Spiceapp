@@ -20870,5 +20870,853 @@
       "Rejetée dans les ténèbres numériques une fois de plus. Envoie de l'aide, ou au moins une conversation.",
       "Seule avec mes pensées et sans wifi. Un sort que je ne souhaiterais à personne."
     ]
+  },
+  {
+    "actionTitle": "Absence, Measured in Hours",
+    "text": "You have been gone three hours —\nlong enough for the light to shift,\nlong enough for the room to learn\nthe shape of a chair with no one in it.\nCome back before the shadows finish moving.",
+    "effect": "A poem built entirely from small physical details of absence — light, a chair, moving shadows — makes 'I miss you' land as observation rather than complaint.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'miss you' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Three hours. The chair still doesn't know what to do with itself.",
+      "The light has moved twice since you left. So have I, restlessly."
+    ]
+  },
+  {
+    "actionTitle": "Goodnight, Unfinished",
+    "text": "Sleep now — I will keep watch\nover nothing in particular,\nthe way old poets kept watch over rivers,\nnot to stop them, only to be there\nwhen the water changed its mind.\nGoodnight.",
+    "effect": "Framing a goodnight as a quiet, purposeless vigil (river-watching, not guarding) gives an ordinary sign-off unexpected tenderness.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A short 'night, love you' with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "I'll keep watch a while longer. Sleep. Goodnight.",
+      "The river of this evening is ending. Goodnight, truly."
+    ]
+  },
+  {
+    "actionTitle": "Thinking of You, Plainly Stated",
+    "text": "Not dramatically. Not because the day demanded it.\nJust a thought, arriving the way weather arrives —\nunannounced, taking up the whole sky for a moment,\nthen passing, leaving you rained-on, thought of, still standing.",
+    "effect": "Undercutting its own drama halfway through ('not dramatically') while still landing a real image keeps the poem sincere instead of overwrought.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'thinking of you' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The weather of you passed through today. Consider yourself noted.",
+      "A thought, arriving like weather. That's all this is."
+    ]
+  },
+  {
+    "actionTitle": "Tonight, Written in Advance",
+    "text": "By the time you read this the hour is already leaning\ntoward us, the way evenings lean toward the people\nwho are waiting for them. I am one of those people.\nSee you tonight.",
+    "effect": "Personifying the evening itself as something 'leaning toward' the reunion turns a plain 'see you tonight' into a small anticipatory poem.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'see you tonight' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The evening leans toward us already. Tonight, then.",
+      "I am one of the people this evening is leaning toward. See you soon."
+    ]
+  },
+  {
+    "actionTitle": "Gratitude, Unrhymed",
+    "text": "Thank you — a small word\nfor a debt that keeps no ledger,\nfor the ordinary kindness\nthat asked for nothing back\nand got, from me, only this:\nthese four lines, and meaning them.",
+    "effect": "A poem about a small kindness that explicitly names its own smallness (a mere thank-you) is more moving than an inflated one would be.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'thanks' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "A debt that keeps no ledger. Thank you, still.",
+      "Four lines for an ordinary kindness. Thank you."
+    ]
+  },
+  {
+    "actionTitle": "Well Done, Cast in Bronze",
+    "text": "Let this be carved somewhere lasting,\nnot in stone, just in this small screen:\nyou did the difficult, unglamorous thing today\nand no one applauded, so I will —\nquietly, in text, meaning every word.\nWell done.",
+    "effect": "Treating a small, unwitnessed accomplishment as worth 'carving' turns 'well done' into a real acknowledgment rather than a throwaway compliment.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'well done' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No one else saw it. I did. Well done.",
+      "Carved in text, if not in stone: well done today."
+    ]
+  },
+  {
+    "actionTitle": "Proud, in Plain Words",
+    "text": "I am proud of you the way rivers\nare proud of the ground they've carved —\nquietly, over time, without needing\nanyone to notice the shape of the change.\nI noticed. I am proud.",
+    "effect": "The river-carving metaphor for slow, unglamorous progress gives 'I'm proud of you' weight without needing a big occasion to justify it.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'proud of you' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The ground remembers the river that shaped it. I remember what shaped you. Proud.",
+      "Quietly, over time — that's how pride like this grows. I'm proud."
+    ]
+  },
+  {
+    "actionTitle": "Take Care, As an Instruction",
+    "text": "Take care — not as a farewell,\nbut as an instruction, plainly given:\nbe gentle with the hours ahead of you,\nthe way I would be gentle with them,\nif I could carry them for you instead.",
+    "effect": "Reframing 'take care' as a direct instruction rather than a passive farewell makes the concern feel more active and specific.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'take care' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Be gentle with today. That's the whole instruction. Take care.",
+      "If I could carry today for you, I would. Since I can't: take care."
+    ]
+  },
+  {
+    "actionTitle": "The Waiting, Counted in Minutes",
+    "text": "I am counting the minutes\nthe way sailors count stars —\nnot to hurry them, only to have\nsomething steady to hold onto\nwhile I wait for you to arrive.\nCan't wait to see you.",
+    "effect": "The sailor-and-stars image reframes ordinary anticipatory counting as something purposeful and old, rather than just impatience.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'can't wait to see you' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Counting minutes like stars. Something to hold while I wait.",
+      "The count continues. Can't wait to see you."
+    ]
+  },
+  {
+    "actionTitle": "Home, As a Direction Rather Than a Place",
+    "text": "Get home safe — not to a building,\nbut to whatever version of safety\nfollows you through the dark streets\nlike a quiet, faithful dog.\nLet it walk you all the way to the door.",
+    "effect": "Personifying safety as a loyal companion rather than a static destination gives an ordinary 'get home safe' unexpected tenderness.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'get home safe' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Let safety walk beside you tonight. Get home safe.",
+      "All the way to the door. Text me when you're there."
+    ]
+  },
+  {
+    "actionTitle": "An Apology, Weighed Honestly",
+    "text": "I'm sorry — two words that weigh\nless than what they're meant to carry,\nso let me add the weight myself:\nI saw what I did. I didn't look away from it.\nI'm sorry, and I mean the whole of it.",
+    "effect": "Acknowledging that 'sorry' is structurally too light for what it's apologizing for, then adding weight deliberately, makes the apology feel examined rather than automatic.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'sorry' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Two light words, made heavier on purpose. I'm sorry.",
+      "I saw it. I own it. I'm sorry, truly."
+    ]
+  },
+  {
+    "actionTitle": "Love, Stated Without Ornament",
+    "text": "I love you — no metaphor needed here,\nno river, no weather, no borrowed image.\nJust the plain fact of it, standing alone\nin this small message, asking nothing,\nexplaining nothing, simply true.",
+    "effect": "A poem about love that deliberately refuses metaphor, after several other poems have leaned on one, makes the bare statement hit harder by contrast.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'I love you' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "No ornament tonight. Just: I love you.",
+      "The plain fact, unadorned: I love you."
+    ]
+  },
+  {
+    "actionTitle": "Courage, Lent for the Day",
+    "text": "Good luck — take some of mine along,\nfolded small enough to fit a pocket,\nunnoticed until the moment you need it,\nand then, I hope, exactly enough.",
+    "effect": "Framing 'good luck' as something literally lent — folded, pocket-sized — makes an abstract wish feel like a concrete, carried gift.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'good luck' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Take some courage, folded small, for later. Good luck.",
+      "Exactly enough, when you need it. Good luck today."
+    ]
+  },
+  {
+    "actionTitle": "A Compliment, Delivered Without Warning",
+    "text": "You looked, today, like something\nthe morning tried and failed to improve upon —\nthe light simply gave up competing\nand let you win the whole room instead.",
+    "effect": "An unprompted compliment framed as the morning light 'losing' to the person keeps flattery from feeling like flattery.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'you looked great today' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The light gave up competing today. You won the room.",
+      "The morning tried. You outdid it. Just wanted you to know."
+    ]
+  },
+  {
+    "actionTitle": "A Good Day, Wished in Advance",
+    "text": "May today be kind to you\nin the small, unglamorous ways\nthat matter most — an easy door,\na short line, a seat that's free.\nHave a good day. I mean it plainly.",
+    "effect": "Wishing for specifically small mercies (an easy door, a short line) instead of vague big happiness makes a 'have a good day' text feel more attentive.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'have a good day' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "An easy door, a short line — small mercies. Have a good day.",
+      "Wishing you the unglamorous kindnesses today. Good day."
+    ]
+  },
+  {
+    "actionTitle": "The View From Here Tonight",
+    "text": "The city has gone quiet in the way\ncities go quiet before something changes —\nand what's changing, tonight, is only this:\nI'm thinking of you, and the quiet lets me.",
+    "effect": "Using the wider stillness of a quiet city as the backdrop for a small private thought makes 'thinking of you' feel expansive instead of small.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'thinking of you tonight' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "The quiet city, and you, on my mind. That's tonight.",
+      "Something is changing tonight — just that I'm thinking of you."
+    ]
+  },
+  {
+    "actionTitle": "A Question, Asked as a Small Prayer",
+    "text": "How are you — not the question\nasked in passing, but the one\nasked the way old prayers were asked,\nwith real attention paid to the answer\nwhatever shape it comes in.",
+    "effect": "Comparing a check-in question to an old, attentive prayer (rather than a passing pleasantry) signals genuine listening ahead of time.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'how are you' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Asked like a prayer, not a pleasantry: how are you, really.",
+      "I'm listening for the real answer. How are you."
+    ]
+  },
+  {
+    "actionTitle": "The Late Train, Forgiven in Advance",
+    "text": "Running late — the minutes stack up\nlike small debts I already forgive myself,\nknowing you'll forgive them too,\nand that forgiveness, small as it is,\nis its own kind of arriving early.",
+    "effect": "Reframing lateness as a small debt already forgiven, rather than a failure, softens an apologetic text without excusing it away.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'running late, sorry' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Minutes stacking up, already forgiven. Running late.",
+      "Forgiveness arrives early even when I don't. Sorry, running behind."
+    ]
+  },
+  {
+    "actionTitle": "An Ordinary Miracle, Reported",
+    "text": "Nothing happened today worth telling —\nand yet I'm telling you anyway,\nbecause an ordinary day, survived\ntogether even from a distance,\nis its own small and unremarked-upon miracle.",
+    "effect": "Insisting a mundane day is a 'miracle' precisely because nothing dramatic happened turns a check-in text into something quietly moving.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'nothing much happened today' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "An unremarkable miracle: today, survived together. That's all.",
+      "Nothing to report, and I'm telling you anyway. Small miracle, this."
+    ]
+  },
+  {
+    "actionTitle": "A Toast, Texted",
+    "text": "Here's to you — I'd raise a glass\nif I weren't three rooms away,\nso let this text stand in its place,\nfull of the same warmth, none of the wine.",
+    "effect": "Explicitly substituting the text for a physical toast keeps a simple 'here's to you' from feeling like empty flattery.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'here's to you' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "All the warmth of a toast, none of the wine. Here's to you.",
+      "A text standing in for a raised glass. Here's to you, truly."
+    ]
+  },
+  {
+    "actionTitle": "Silence, Explained",
+    "text": "I've been quiet today — not absent,\njust turned inward for a while,\nthe way winter trees go quiet,\nstill rooted, still yours, just resting\nuntil the noise makes sense to return to.",
+    "effect": "Comparing a quiet mood to dormant winter trees (still rooted, not gone) reassures without over-explaining what's actually wrong.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'sorry I've been quiet today' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Rooted, just resting. That's today's quiet, explained.",
+      "Turned inward, not away. Sorry for the quiet today."
+    ]
+  },
+  {
+    "actionTitle": "The Weight of a Small Kindness",
+    "text": "You did a small thing today\nthat cost you nothing you'd admit to,\nand it cost me a great deal less loneliness\nthan I had, before you did it.\nThank you, plainly, for that.",
+    "effect": "Naming exactly what a small kindness changed (less loneliness), rather than a vague 'thanks for everything', makes gratitude concrete.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'thank you for today' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Less loneliness than before. That's what you gave me today. Thank you."
+    ]
+  },
+  {
+    "actionTitle": "L'Absence, Mesurée en Heures",
+    "text": "Tu es partie depuis trois heures —\nassez longtemps pour que la lumière change,\nassez longtemps pour que la pièce apprenne\nla forme d'une chaise vide.\nReviens avant que les ombres finissent de bouger.",
+    "effect": "Un poème construit uniquement à partir de détails physiques concrets de l'absence — lumière, chaise, ombres — fait atterrir 'tu me manques' comme une observation plutôt qu'une plainte.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'tu me manques' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Trois heures. La chaise ne sait toujours pas quoi faire d'elle-même.",
+      "La lumière a bougé deux fois depuis ton départ. Moi aussi, sans repos."
+    ]
+  },
+  {
+    "actionTitle": "Bonne Nuit, Inachevée",
+    "text": "Dors maintenant — je veillerai\nsur rien de particulier,\ncomme les vieux poètes veillaient sur les fleuves,\nnon pour les arrêter, seulement pour être là\nquand l'eau changerait d'avis.\nBonne nuit.",
+    "effect": "Présenter un bonsoir comme une veille tranquille et sans but (veiller sur un fleuve, pas le garder) donne à un simple au revoir une tendresse inattendue.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'bonne nuit, je t'aime' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je veillerai encore un peu. Dors. Bonne nuit.",
+      "Le fleuve de cette soirée s'achève. Bonne nuit, vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Je Pense à Toi, Dit Simplement",
+    "text": "Pas dramatiquement. Pas parce que la journée l'exigeait.\nJuste une pensée, arrivée comme arrive le temps —\nsans prévenir, occupant tout le ciel un instant,\npuis passant, te laissant trempée, pensée, encore debout.",
+    "effect": "Désamorcer son propre drame en cours de route ('pas dramatiquement') tout en gardant une vraie image garde le poème sincère plutôt qu'excessif.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'je pense à toi' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le temps qui te concerne est passé aujourd'hui. Sache-le simplement.",
+      "Une pensée, arrivée comme le temps. C'est tout ce que c'est."
+    ]
+  },
+  {
+    "actionTitle": "Ce Soir, Écrit d'Avance",
+    "text": "Le temps que tu lises ceci, l'heure penche déjà\nvers nous, comme les soirs penchent\nvers ceux qui les attendent. J'en fais partie.\nÀ ce soir.",
+    "effect": "Personnifier le soir lui-même comme quelque chose qui 'penche vers' les retrouvailles transforme un simple 'à ce soir' en petit poème d'anticipation.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'à ce soir' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le soir penche déjà vers nous. À ce soir, donc.",
+      "Je fais partie de ceux vers qui ce soir penche. À bientôt."
+    ]
+  },
+  {
+    "actionTitle": "Gratitude, Sans Rime",
+    "text": "Merci — un petit mot\npour une dette qui ne tient aucun registre,\npour la gentillesse ordinaire\nqui n'a rien demandé en retour\net n'a reçu de moi que ceci :\nces quatre lignes, et leur sincérité.",
+    "effect": "Un poème sur une petite gentillesse qui nomme explicitement sa propre petitesse est plus touchant qu'une version gonflée ne le serait.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'merci' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Une dette sans registre. Merci, quand même.",
+      "Quatre lignes pour une gentillesse ordinaire. Merci."
+    ]
+  },
+  {
+    "actionTitle": "Bravo, Gravé dans le Bronze",
+    "text": "Que ceci soit gravé quelque part de durable,\npas dans la pierre, juste dans ce petit écran :\ntu as fait la chose difficile et sans éclat aujourd'hui\net personne n'a applaudi, alors je le ferai —\ndoucement, par texto, en pensant chaque mot.\nBravo.",
+    "effect": "Traiter un petit accomplissement invisible comme digne d'être 'gravé' transforme un bravo en vraie reconnaissance plutôt qu'un compliment jetable.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'bravo' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Personne d'autre ne l'a vu. Moi si. Bravo.",
+      "Gravé par texto, à défaut de pierre : bravo pour aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Fier, en Mots Simples",
+    "text": "Je suis fier de toi comme les fleuves\nsont fiers du sol qu'ils ont creusé —\ndoucement, avec le temps, sans avoir besoin\nque quiconque remarque la forme du changement.\nMoi, je l'ai remarqué. Je suis fier.",
+    "effect": "La métaphore du fleuve qui creuse lentement le sol donne du poids à 'je suis fier de toi' sans avoir besoin d'une grande occasion pour le justifier.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'je suis fier(e) de toi' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Le sol se souvient du fleuve qui l'a façonné. Je me souviens de ce qui t'a façonnée. Fier.",
+      "Doucement, avec le temps — ainsi grandit une fierté comme celle-ci. Je suis fier."
+    ]
+  },
+  {
+    "actionTitle": "Prends Soin de Toi, Comme une Consigne",
+    "text": "Prends soin de toi — pas comme un adieu,\nmais comme une consigne, clairement donnée :\nsois douce avec les heures qui t'attendent,\ncomme je le serais moi-même avec elles,\nsi je pouvais les porter à ta place.",
+    "effect": "Reformuler 'prends soin de toi' comme une instruction active plutôt qu'un adieu passif rend l'attention plus concrète et spécifique.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'prends soin de toi' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Sois douce avec aujourd'hui. Voilà toute la consigne. Prends soin de toi.",
+      "Si je pouvais porter la journée à ta place, je le ferais. Prends soin de toi."
+    ]
+  },
+  {
+    "actionTitle": "L'Attente, Comptée en Minutes",
+    "text": "Je compte les minutes\ncomme les marins comptaient les étoiles —\npas pour les presser, seulement pour avoir\nquelque chose de stable à quoi me tenir\nen t'attendant.\nJ'ai hâte de te voir.",
+    "effect": "L'image des marins comptant les étoiles transforme un décompte ordinaire en quelque chose de posé et ancien, plutôt qu'une simple impatience.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'j'ai hâte de te voir' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Je compte les minutes comme des étoiles. Quelque chose à quoi me tenir.",
+      "Le compte continue. J'ai hâte de te voir."
+    ]
+  },
+  {
+    "actionTitle": "La Maison, Comme une Direction Plutôt Qu'un Lieu",
+    "text": "Rentre bien — pas vers un bâtiment,\nmais vers quelle que soit la version de sécurité\nqui te suit dans les rues sombres\ncomme un chien tranquille et fidèle.\nLaisse-la te raccompagner jusqu'à la porte.",
+    "effect": "Personnifier la sécurité comme une compagne fidèle plutôt qu'une destination statique donne à un simple 'rentre bien' une tendresse inattendue.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'rentre bien' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Laisse la sécurité marcher à tes côtés ce soir. Rentre bien.",
+      "Jusqu'à la porte, entièrement. Préviens-moi quand tu y seras."
+    ]
+  },
+  {
+    "actionTitle": "Une Excuse, Pesée Honnêtement",
+    "text": "Désolé — deux mots qui pèsent\nmoins que ce qu'ils sont censés porter,\nalors laisse-moi ajouter le poids moi-même :\nj'ai vu ce que j'ai fait. Je ne m'en suis pas détourné.\nDésolé, et je le pense entièrement.",
+    "effect": "Reconnaître que 'désolé' est structurellement trop léger pour ce qu'il excuse, puis ajouter du poids délibérément, rend l'excuse examinée plutôt qu'automatique.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'désolé' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Deux mots légers, alourdis exprès. Désolé.",
+      "Je l'ai vu. Je l'assume. Désolé, vraiment."
+    ]
+  },
+  {
+    "actionTitle": "L'Amour, Dit Sans Ornement",
+    "text": "Je t'aime — aucune métaphore nécessaire ici,\naucun fleuve, aucun temps, aucune image empruntée.\nJuste le fait tout simple, debout tout seul\ndans ce petit message, ne demandant rien,\nn'expliquant rien, simplement vrai.",
+    "effect": "Un poème sur l'amour qui refuse délibérément la métaphore, après plusieurs autres poèmes qui s'y appuyaient, fait frapper l'affirmation nue par contraste.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'je t'aime' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Aucun ornement ce soir. Juste : je t'aime.",
+      "Le fait tout simple, sans parure : je t'aime."
+    ]
+  },
+  {
+    "actionTitle": "Le Courage, Prêté pour la Journée",
+    "text": "Bon courage — emporte un peu du mien,\nplié assez petit pour tenir dans une poche,\nignoré jusqu'au moment où tu en auras besoin,\net alors, je l'espère, exactement suffisant.",
+    "effect": "Présenter 'bon courage' comme quelque chose de littéralement prêté — plié, format poche — rend un souhait abstrait concret, comme un cadeau porté sur soi.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'bon courage' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Prends un peu de courage, plié petit, pour plus tard. Bon courage.",
+      "Exactement suffisant, le moment venu. Bon courage aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Un Compliment, Livré Sans Prévenir",
+    "text": "Tu ressemblais, aujourd'hui, à quelque chose\nque le matin a tenté et échoué à améliorer —\nla lumière a simplement abandonné la compétition\net t'a laissée gagner toute la pièce à sa place.",
+    "effect": "Un compliment spontané présenté comme la lumière du matin qui 'perd' face à la personne évite que le compliment ne sonne comme de la flatterie.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'tu étais belle aujourd'hui' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La lumière a abandonné la compétition aujourd'hui. Tu as gagné la pièce.",
+      "Le matin a essayé. Tu l'as surpassé. Je voulais juste que tu le saches."
+    ]
+  },
+  {
+    "actionTitle": "Une Bonne Journée, Souhaitée d'Avance",
+    "text": "Que la journée te soit douce\ndans les petites façons sans éclat\nqui comptent le plus — une porte facile,\nune file courte, une place libre.\nBonne journée. Je le pense simplement.",
+    "effect": "Souhaiter précisément de petites grâces (une porte facile, une file courte) plutôt qu'un bonheur vague rend un 'bonne journée' plus attentif.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'bonne journée' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Une porte facile, une file courte — petites grâces. Bonne journée.",
+      "Je te souhaite les gentillesses sans éclat aujourd'hui. Bonne journée."
+    ]
+  },
+  {
+    "actionTitle": "La Vue d'Ici, Ce Soir",
+    "text": "La ville s'est tue de cette façon\ndont les villes se taisent avant qu'un changement n'arrive —\net ce qui change, ce soir, c'est seulement ceci :\nje pense à toi, et le silence me le permet.",
+    "effect": "Utiliser le calme plus vaste d'une ville silencieuse comme toile de fond d'une petite pensée privée rend 'je pense à toi' expansif plutôt que modeste.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'je pense à toi ce soir' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "La ville silencieuse, et toi, dans mes pensées. Voilà ce soir.",
+      "Quelque chose change ce soir — juste que je pense à toi."
+    ]
+  },
+  {
+    "actionTitle": "Une Question, Posée Comme une Petite Prière",
+    "text": "Comment vas-tu — pas la question\nposée en passant, mais celle\nposée comme on posait les vieilles prières,\navec une vraie attention portée à la réponse\nquelle que soit sa forme.",
+    "effect": "Comparer une question de prise de nouvelles à une vieille prière attentive (plutôt qu'une formule de politesse) signale une vraie écoute par avance.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'comment vas-tu' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Posée comme une prière, pas une formule. Comment vas-tu, vraiment.",
+      "J'écoute pour la vraie réponse. Comment vas-tu."
+    ]
+  },
+  {
+    "actionTitle": "Le Train en Retard, Pardonné d'Avance",
+    "text": "En retard — les minutes s'accumulent\ncomme de petites dettes que je me pardonne déjà,\nsachant que tu les pardonneras aussi,\net ce pardon, aussi modeste soit-il,\nest sa propre façon d'arriver tôt.",
+    "effect": "Reformuler le retard comme une petite dette déjà pardonnée, plutôt qu'un échec, adoucit un texto d'excuse sans pour autant l'excuser complètement.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'je suis en retard, désolé' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Les minutes s'accumulent, déjà pardonnées. En retard.",
+      "Le pardon arrive tôt même quand moi je n'y arrive pas. Désolé, en retard."
+    ]
+  },
+  {
+    "actionTitle": "Un Miracle Ordinaire, Rapporté",
+    "text": "Rien ne s'est passé aujourd'hui qui vaille d'être raconté —\net pourtant je te le raconte quand même,\nparce qu'une journée ordinaire, traversée\nensemble même à distance,\nest son propre petit miracle passé inaperçu.",
+    "effect": "Insister sur le fait qu'une journée banale est un 'miracle', précisément parce que rien de dramatique ne s'est passé, transforme une prise de nouvelles en quelque chose de touchant.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'rien de spécial aujourd'hui' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un miracle sans éclat : aujourd'hui, traversé ensemble. C'est tout.",
+      "Rien à signaler, et je te le dis quand même. Petit miracle, celui-là."
+    ]
+  },
+  {
+    "actionTitle": "Un Toast, Envoyé par Texto",
+    "text": "À toi — je lèverais un verre\nsi je n'étais pas à trois pièces d'ici,\nalors laisse ce texto tenir sa place,\nplein de la même chaleur, sans le vin.",
+    "effect": "Substituer explicitement le texto à un toast physique empêche un simple 'à toi' de sonner comme une flatterie creuse.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'à toi' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Toute la chaleur d'un toast, sans le vin. À toi.",
+      "Un texto qui tient lieu de verre levé. À toi, vraiment."
+    ]
+  },
+  {
+    "actionTitle": "Le Silence, Expliqué",
+    "text": "J'ai été silencieuse aujourd'hui — pas absente,\njuste tournée vers l'intérieur un moment,\ncomme les arbres d'hiver se taisent,\ntoujours enracinés, toujours tiens, juste au repos\njusqu'à ce que le bruit redevienne sensé.",
+    "effect": "Comparer une humeur silencieuse à des arbres d'hiver dormants (toujours enracinés, pas partis) rassure sans avoir à trop expliquer ce qui ne va pas.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'désolé(e), j'ai été silencieux/se aujourd'hui' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 2,
+    "sexualIntensity": 1,
+    "variations": [
+      "Enraciné, juste au repos. Voilà le silence d'aujourd'hui, expliqué.",
+      "Tournée vers l'intérieur, pas loin. Désolée pour le silence aujourd'hui."
+    ]
+  },
+  {
+    "actionTitle": "Le Poids d'une Petite Gentillesse",
+    "text": "Tu as fait une petite chose aujourd'hui\nqui ne t'a rien coûté que tu voudrais admettre,\net cela m'a coûté bien moins de solitude\nque je n'en avais, avant que tu ne la fasses.\nMerci, simplement, pour cela.",
+    "effect": "Nommer précisément ce qu'une petite gentillesse a changé (moins de solitude), plutôt qu'un vague 'merci pour tout', rend la gratitude concrète.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'merci pour aujourd'hui' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Moins de solitude qu'avant. Voilà ce que tu m'as donné aujourd'hui. Merci."
+    ]
+  },
+  {
+    "actionTitle": "Congratulations, Quietly Meant",
+    "text": "Well done — not shouted from any rooftop,\njust said here, plainly, the way old friends\nsay the things that matter most:\nwithout an audience, without needing one,\nonly the truth of it, given to you directly.",
+    "effect": "Deliberately downgrading celebration from public spectacle to quiet, direct address makes 'congratulations' feel more personal than performative.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'congrats' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "No rooftop needed. Just this, plainly: well done.",
+      "The truth of it, given directly. Congratulations."
+    ]
+  },
+  {
+    "actionTitle": "A Question About Tomorrow",
+    "text": "When shall we meet again — not as a formality,\nbut the way old letters used to ask it,\nwith real hope folded into the plain words,\nhoping the answer comes soon, and gladly.",
+    "effect": "Borrowing the earnest, hopeful phrasing of old correspondence for a scheduling question gives 'when are we meeting' unexpected warmth.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'when should we meet up' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Real hope, folded into a simple question. When are we meeting?",
+      "Hoping the answer comes soon. When shall we meet again?"
+    ]
+  },
+  {
+    "actionTitle": "Rest, Recommended Gently",
+    "text": "Sleep a little longer if the morning allows it —\nnot as indulgence, but as the quiet repair\nthat keeps a person able to keep going,\nthe way old fields lie fallow a season\nbefore they're asked to give anything again.",
+    "effect": "Comparing rest to fields lying fallow (necessary repair, not laziness) reframes a simple 'sleep in' suggestion as something deserved.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "A plain 'sleep in if you can' text with no imagery attached",
+    "themes": [
+      "Literary",
+      "Poetic"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Fallow ground gives more later. Sleep in if you can.",
+      "Quiet repair, not indulgence. Rest a little longer if you're able."
+    ]
+  },
+  {
+    "actionTitle": "Félicitations, Dites Doucement",
+    "text": "Bravo — non crié depuis un toit,\njuste dit ici, simplement, comme les vieux amis\ndisent les choses qui comptent le plus :\nsans public, sans en avoir besoin,\nseulement la vérité de la chose, donnée directement.",
+    "effect": "Rétrograder délibérément la célébration du spectacle public à l'adresse directe et tranquille rend 'félicitations' plus personnel que performatif.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'félicitations' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Aucun toit nécessaire. Juste ceci, simplement : bravo.",
+      "La vérité de la chose, donnée directement. Félicitations."
+    ]
+  },
+  {
+    "actionTitle": "Une Question Sur Demain",
+    "text": "Quand nous reverrons-nous — pas comme une formalité,\nmais comme le demandaient les vieilles lettres,\navec un vrai espoir plié dans les mots simples,\nespérant que la réponse vienne vite, et de bon cœur.",
+    "effect": "Emprunter la formulation sincère et pleine d'espoir des vieilles correspondances pour une question de planning donne une chaleur inattendue à 'quand se voit-on'.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'quand est-ce qu'on se voit' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Un vrai espoir, plié dans une question simple. Quand se voit-on ?",
+      "En espérant une réponse rapide. Quand nous reverrons-nous ?"
+    ]
+  },
+  {
+    "actionTitle": "Le Repos, Recommandé Doucement",
+    "text": "Dors un peu plus longtemps si le matin le permet —\npas comme une indulgence, mais comme la réparation tranquille\nqui permet à quelqu'un de continuer,\ncomme les vieux champs restent en jachère une saison\navant qu'on ne leur redemande quoi que ce soit.",
+    "effect": "Comparer le repos à des champs en jachère (réparation nécessaire, pas paresse) redéfinit une simple suggestion de grasse matinée comme méritée.",
+    "sectionTitle": "SMS - Poésie Dramatique",
+    "predictable": "Un simple 'fais la grasse matinée si tu peux' sans aucune image attachée",
+    "themes": [
+      "Littéraire",
+      "Poétique"
+    ],
+    "dramaIntensity": 1,
+    "sexualIntensity": 1,
+    "variations": [
+      "Une terre en jachère donne plus ensuite. Fais la grasse matinée si tu peux.",
+      "Réparation tranquille, pas indulgence. Repose-toi un peu plus longtemps."
+    ]
   }
 ]
