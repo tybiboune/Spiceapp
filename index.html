@@ -434,9 +434,19 @@
          * one accented character (é, à, ç, œ…), which plain English text
          * essentially never does — cheap and reliable enough for this corpus.
          */
+        const FR_ACCENT_RE = /[àâäéèêëïîôöùûüçœ]/i;
+        // Fallback for the rare card whose actionTitle+text happen to carry no
+        // accent (e.g. legacy content typed without diacritics): French
+        // function words that essentially never occur as English substrings.
+        const FR_STOPWORD_RE = /\b(le|la|les|une?|des|est|avec|pour|dans|sur|que|qui|vous|tu|nous|cette|son|sa|ses|elle|toi|moi|aux)\b/i;
         function detectCardLanguage(action) {
-            const sample = `${action.actionTitle} ${action.text}`;
-            return /[àâäéèêëïîôöùûüçœ]/i.test(sample) ? 'fr' : 'en';
+            const sample = [
+                action.actionTitle, action.text, action.effect, action.predictable,
+                ...(action.variations || [])
+            ].filter(Boolean).join(' ');
+            if (FR_ACCENT_RE.test(sample)) return 'fr';
+            if (FR_STOPWORD_RE.test(sample)) return 'fr';
+            return 'en';
         }
 
         // Cycle mode controls
