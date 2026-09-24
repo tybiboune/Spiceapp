@@ -2,6 +2,7 @@
 import hashlib
 import json
 import os
+import re
 import shutil
 import sqlite3
 import sys
@@ -14,6 +15,15 @@ from concurrent.futures import TimeoutError as FuturesTimeoutError
 from flask import Flask, jsonify, request, send_from_directory
 from flask_cors import CORS
 from werkzeug.serving import make_server
+
+try:
+    from rapidfuzz import fuzz, process
+    _RAPIDFUZZ_AVAILABLE = True
+except ImportError:
+    # /api/search/smart just degrades to "no extra matches" rather than
+    # taking the whole app down — the frontend's plain substring + mood
+    # search already works standalone without this endpoint.
+    _RAPIDFUZZ_AVAILABLE = False
 
 # --- CONFIGURATION ---
 # Everything (server.py, index.html, database.db, *.json) lives flat in one
@@ -245,6 +255,108 @@ def _db_version():
         return f"{st.st_mtime_ns}-{st.st_size}"
     except OSError:
         return "0"
+
+# --- SMART SEARCH ---
+# The frontend's own mood-search (index.html) already resolves ~20
+# hand-curated intents ("hello"/"salut" → greeting) via each card's
+# `predictable` field. This complements it with a general-purpose,
+# typo-tolerant relevance search over EVERY card's full content — not just
+# the ones written with that specific quoted-phrase convention — so an
+# arbitrary query (a theme, a mood not in the curated list, a misspelling)
+# still finds something reasonable instead of nothing.
+#
+# Implemented as a word-level inverted index rather than fuzzy-matching the
+# query against each card's whole text blob directly: a short query (a few
+# characters) fuzzy-matched against a long, multi-hundred-character blob is
+# a needle-in-a-haystack problem — with enough characters to scan, *some*
+# substring will loosely resemble almost anything, which in practice made
+# nearly every card match nearly every query regardless of relevance. Word
+# vs. word comparisons don't have that problem: "helo" vs. "hello" is a
+# clean, meaningful edit distance; "helo" vs. a 400-character paragraph
+# isn't a comparison that means anything.
+#
+# Built once per database version (cached, rebuilt lazily whenever
+# _db_version() changes — i.e. after an Update or a setup_database.py
+# rerun) rather than per request: scanning the whole table on every
+# keystroke would be wasteful when nothing has changed.
+_search_index_cache = {"version": None, "vocab": {}, "words_by_id": {}}
+
+_WORD_RE = re.compile(r"[a-zà-öø-ÿ0-9']+", re.IGNORECASE)
+
+def _tokenize(text):
+    return set(m.group(0).lower() for m in _WORD_RE.finditer(text or ''))
+
+def _build_search_index():
+    conn = get_db_connection()
+    rows = conn.execute(
+        'SELECT id, actionTitle, text, effect, predictable, themes FROM actions'
+    ).fetchall()
+    conn.close()
+    vocab = {}  # word -> set of card ids containing it
+    words_by_id = {}  # card id -> its word set (used for the AND/OR combine step)
+    for row in rows:
+        try:
+            themes = ' '.join(json.loads(row['themes'] or '[]'))
+        except (json.JSONDecodeError, TypeError):
+            themes = ''
+        combined = ' '.join(filter(None, [
+            row['actionTitle'], row['predictable'], row['text'], row['effect'], themes,
+        ]))
+        words = _tokenize(combined)
+        words_by_id[row['id']] = words
+        for word in words:
+            vocab.setdefault(word, set()).add(row['id'])
+    return {"version": _db_version(), "vocab": vocab, "words_by_id": words_by_id}
+
+def _get_search_index():
+    if _search_index_cache["version"] != _db_version():
+        _search_index_cache.update(_build_search_index())
+    return _search_index_cache
+
+SMART_SEARCH_TYPO_CUTOFF = 82  # rapidfuzz ratio (0-100) for "close enough to be a typo" between two WORDS
+SMART_SEARCH_LIMIT = 60
+SMART_SEARCH_MIN_QUERY_LEN = 3  # below this, fuzzy scoring is mostly noise
+
+def _ids_for_word(word, vocab, vocab_words):
+    """Card ids containing this exact query word, or — if there's no exact
+    match — ids containing a word close enough in the vocabulary to plausibly
+    be what was meant (typo tolerance)."""
+    if word in vocab:
+        return vocab[word]
+    if not _RAPIDFUZZ_AVAILABLE or len(word) < SMART_SEARCH_MIN_QUERY_LEN:
+        return set()
+    close = process.extract(word, vocab_words, scorer=fuzz.ratio, limit=5, score_cutoff=SMART_SEARCH_TYPO_CUTOFF)
+    ids = set()
+    for matched_word, _score, _idx in close:
+        ids |= vocab[matched_word]
+    return ids
+
+@app.route('/api/search/smart', methods=['GET'])
+def smart_search():
+    """Typo-tolerant word search: given a free-text query, returns the ids
+    of the cards whose content contains every query word (or something
+    close enough in the vocabulary to plausibly be a typo of it) — falling
+    back to "contains ANY query word" if that's too strict and finds
+    nothing. Not a replacement for the frontend's own substring/mood
+    search — additive, called alongside it."""
+    q = request.args.get('q', '').strip()
+    if not q or len(q) < SMART_SEARCH_MIN_QUERY_LEN or not _RAPIDFUZZ_AVAILABLE:
+        return jsonify({"ids": []})
+    index = _get_search_index()
+    vocab = index["vocab"]
+    vocab_words = list(vocab.keys())
+    query_words = [w for w in _tokenize(q) if len(w) >= SMART_SEARCH_MIN_QUERY_LEN]
+    if not query_words:
+        return jsonify({"ids": []})
+    per_word_ids = [_ids_for_word(w, vocab, vocab_words) for w in query_words]
+    per_word_ids = [ids for ids in per_word_ids if ids]  # drop query words that matched nothing at all
+    if not per_word_ids:
+        matched = set()
+    else:
+        matched = set.intersection(*per_word_ids)
+        if not matched:  # nothing has EVERY query word — loosen to ANY of them
+            matched = set.union(*per_word_ids)
+    return jsonify({"ids": list(matched)[:SMART_SEARCH_LIMIT]})
 
 # --- API ROUTES ---
 
@@ -550,4 +662,7 @@ if __name__ == '__main__':
             time.sleep(1)
 
     threading.Thread(target=_backup_loop, daemon=True).start()
+    # Warms the smart-search index in the background so the first search a
+    # user actually types doesn't pay its ~0.5s build cost.
+    threading.Thread(target=_get_search_index, daemon=True).start()
     _httpd.serve_forever()

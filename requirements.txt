@@ -1,2 +1,6 @@
 Flask
 Flask-Cors
+# Powers /api/search/smart (fuzzy, typo-tolerant full-text relevance search).
+# Pure C++ extension, no numpy/scipy/BLAS toolchain needed — picked specifically
+# for that over scikit-learn so it stays easy to build on Termux/Android.
+rapidfuzz

@@ -995,9 +995,53 @@
             moodSearchHint.textContent = `✨ Also showing sophisticated alternatives to: ${labels}`;
             moodSearchHint.classList.remove('hidden');
         }
+        /**
+         * Server-side layer of "smart search" (see server.py's
+         * /api/search/smart): a typo-tolerant word search over EVERY
+         * card's content, complementing the client-side mood categories
+         * above which only cover ~20 hand-curated intents. Debounced
+         * (300ms) since it's a network round-trip, not an instant local
+         * computation like the rest of the filter pipeline — and guarded
+         * against races, since a slow response for an old query could
+         * otherwise land after the user has kept typing.
+         */
+        let smartSearchResults = { query: null, ids: new Set() };
+        let smartSearchDebounceTimer = null;
+        let smartSearchAbortController = null;
+
+        function scheduleSmartSearch(query) {
+            clearTimeout(smartSearchDebounceTimer);
+            if (smartSearchAbortController) smartSearchAbortController.abort();
+            if (!query || query.length < 3) {
+                smartSearchResults = { query, ids: new Set() };
+                return;
+            }
+            smartSearchDebounceTimer = setTimeout(async () => {
+                smartSearchAbortController = new AbortController();
+                try {
+                    const response = await fetch(`/api/search/smart?q=${encodeURIComponent(query)}`, {
+                        signal: smartSearchAbortController.signal,
+                    });
+                    if (!response.ok) return;
+                    const data = await response.json();
+                    // The user may have kept typing while this was in flight —
+                    // a stale result for an old query must never overwrite a
+                    // newer (possibly still-empty) one.
+                    if (currentFilters.search !== query) return;
+                    smartSearchResults = { query, ids: new Set(data.ids || []) };
+                    renderActions();
+                } catch (e) {
+                    // Offline, server briefly restarting, or aborted — smart
+                    // search just silently contributes nothing this time;
+                    // the substring + mood layers still work unaffected.
+                }
+            }, 300);
+        }
+
         searchInput.addEventListener('input', (e) => {
             currentFilters.search = e.target.value.trim().toLowerCase();
             updateMoodSearchHint(currentFilters.search, detectMoodCategories(currentFilters.search));
+            scheduleSmartSearch(currentFilters.search);
             renderActions();
         });
         resetFiltersBtn.addEventListener('click', resetFilters);
@@ -1331,9 +1375,11 @@
             if (currentFilters.search) {
                 const q = currentFilters.search;
                 const moodIds = detectMoodCategories(q);
+                const smartIds = smartSearchResults.query === q ? smartSearchResults.ids : null;
                 filteredActions = filteredActions.filter(a =>
                     a.actionTitle.toLowerCase().includes(q) || a.text.toLowerCase().includes(q) ||
-                    moodIds.some(id => cardMatchesMoodCategory(a, id))
+                    moodIds.some(id => cardMatchesMoodCategory(a, id)) ||
+                    (smartIds !== null && smartIds.has(a.id))
                 );
             }
 
@@ -1494,6 +1540,7 @@
             sortBy.value = 'default';
             searchInput.value = '';
             updateMoodSearchHint('', []);
+            scheduleSmartSearch('');
             handleThemeFilter('all');
         }
 
