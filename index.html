@@ -264,8 +264,9 @@
                             <svg class="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-slate-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
                             </svg>
-                            <input type="text" id="search-input" placeholder="Search by title or text…" class="w-full min-h-[44px] pl-10 pr-3 py-2 border border-slate-500 rounded-md shadow-sm placeholder:text-slate-500 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
+                            <input type="text" id="search-input" placeholder="Search by title/text, or a mood like 'hello', 'miss you', 'how are you'…" class="w-full min-h-[44px] pl-10 pr-3 py-2 border border-slate-500 rounded-md shadow-sm placeholder:text-slate-500 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
                         </div>
+                        <div id="mood-search-hint" class="hidden mt-1.5 text-xs text-indigo-600 font-medium"></div>
                     </div>
                     <div id="filters-body" class="mt-4 pt-4 border-t border-slate-200">
                         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 sm:gap-6">
@@ -409,6 +410,7 @@
         const sexualFilter = document.getElementById('sexual-filter');
         const sortBy = document.getElementById('sort-by');
         const searchInput = document.getElementById('search-input');
+        const moodSearchHint = document.getElementById('mood-search-hint');
         const resetFiltersBtn = document.getElementById('reset-filters-btn');
         const surpriseBtn = document.getElementById('surprise-btn');
         const updateBtn = document.getElementById('update-btn');
@@ -447,6 +449,140 @@
             if (FR_ACCENT_RE.test(sample)) return 'fr';
             if (FR_STOPWORD_RE.test(sample)) return 'fr';
             return 'en';
+        }
+
+        /**
+         * "Mood search": typing a mundane phrase like "hello", "miss you" or
+         * "comment ça va" surfaces the cards that are a more sophisticated,
+         * literary way of saying exactly that — instead of only the cards
+         * whose visible text happens to literally contain those words.
+         *
+         * How it works: hundreds of cards (the "Comically Tragic" and
+         * "Poésie Dramatique" batches especially) were written with a
+         * `predictable` field that explicitly names the boring phrase they
+         * replace, e.g. predictable: "A plain 'miss you' text with no
+         * imagery attached". Each category below pairs the phrases that
+         * actually occur in that field (`predictableTerms`, used to CLASSIFY
+         * cards) with a broader, synonym-friendly list of things a person
+         * might actually type (`triggers`, used to RECOGNIZE the search
+         * query) — so "salut"/"hello"/"hey"/"yo" all resolve to the same
+         * `greeting` category and surface the same cards, in whichever
+         * language the query was typed in.
+         *
+         * This is additive, not a replacement: renderActions() unions
+         * mood-matched cards with the existing plain substring search, so a
+         * literal keyword search never loses anything it used to find.
+         */
+        function normalizeForMoodMatch(text) {
+            return (text || '')
+                .toLowerCase()
+                .normalize('NFD').replace(/[̀-ͯ]/g, '') // strip accents
+                .replace(/[’‘]/g, "'")
+                .replace(/[^a-z0-9' ]/g, ' ')
+                .replace(/\s+/g, ' ')
+                .trim();
+        }
+
+        const MOOD_CATEGORIES = [
+            { id: 'greeting', predictableTerms: ['hey how are you', 'hello', 'hi', 'salut', 'bonjour', 'coucou', 'juste pour dire hi'],
+              triggers: ['hello', 'hi', 'hey', 'yo', 'salut', 'coucou', 'bonjour', 'bonsoir', "what's up", 'whats up', 'wassup', 'quoi de neuf'] },
+            { id: 'how_are_you', predictableTerms: ['how are you', "comment ca va", 'ca va'],
+              triggers: ['how are you', "how's it going", 'hows it going', 'comment ca va', 'comment vas tu', 'ca va', 'tu vas bien'] },
+            { id: 'miss_you', predictableTerms: ['miss you', 'tu me manques', 'pense a moi'],
+              triggers: ['miss you', 'missing you', 'tu me manques', 'tu me manque'] },
+            { id: 'thinking_of_you', predictableTerms: ['thinking of you', 'je pense a toi'],
+              triggers: ['thinking of you', 'je pense a toi', 'penser a toi'] },
+            { id: 'love_you', predictableTerms: ["i love you", "je t'aime"],
+              triggers: ['i love you', 'love you', "je t'aime", 'je taime'] },
+            { id: 'thanks', predictableTerms: ['thanks', 'thank you', 'merci'],
+              triggers: ['thanks', 'thank you', 'merci'] },
+            { id: 'sorry', predictableTerms: ['sorry', 'desole'],
+              triggers: ['sorry', 'apologize', 'desole', 'desolee', 'pardon'] },
+            { id: 'goodnight', predictableTerms: ['night love you', 'goodnight', 'bonne nuit'],
+              triggers: ['goodnight', 'good night', 'night', 'bonne nuit'] },
+            { id: 'good_morning', predictableTerms: ['good morning', 'bonjour'],
+              triggers: ['good morning', 'morning', 'bonjour'] },
+            { id: 'good_day', predictableTerms: ['have a good day', 'bonne journee', 'passe une bonne journee'],
+              triggers: ['have a good day', 'good day', 'bonne journee'] },
+            { id: 'proud', predictableTerms: ['proud of you', 'je suis fier', 'fier de toi', 'fiere de toi'],
+              triggers: ['proud of you', 'proud', 'fier de toi', 'fiere de toi'] },
+            { id: 'well_done', predictableTerms: ['well done', 'bravo', 'congrats', 'felicitations', 'bien joue', 'nice job'],
+              triggers: ['well done', 'good job', 'nice job', 'congrats', 'congratulations', 'bravo', 'felicitations', 'bien joue'] },
+            { id: 'good_luck', predictableTerms: ['good luck', 'bon courage'],
+              triggers: ['good luck', 'bon courage', 'break a leg'] },
+            { id: 'take_care', predictableTerms: ['take care', 'prends soin de toi'],
+              triggers: ['take care', 'prends soin de toi'] },
+            { id: 'see_you_tonight', predictableTerms: ['see you tonight', 'a ce soir'],
+              triggers: ['see you tonight', 'see you later', 'a ce soir', 'a plus tard', 'a toute'] },
+            { id: 'cant_wait', predictableTerms: ["can't wait", 'ai hate de te voir', "j'ai hate"],
+              triggers: ["can't wait", 'cant wait', 'hate de te voir', "j'ai hate", 'hate de te voir'] },
+            { id: 'safe_travels', predictableTerms: ['drive safe', 'get home safe', 'roule prudemment', 'rentre bien', 'safe travels'],
+              triggers: ['drive safe', 'get home safe', 'safe travels', 'roule prudemment', 'rentre bien', 'bon retour', 'bon voyage'] },
+            { id: 'running_late', predictableTerms: ['running late', 'je suis en retard', 'en retard'],
+              triggers: ['running late', "i'm late", 'im late', 'je suis en retard', 'en retard'] },
+            { id: 'compliment', predictableTerms: ['you looked great today', 'tu es belle', 'tu etais belle', 'tu es la meilleure'],
+              triggers: ['you look great', 'you look beautiful', 'tu es belle', 'tu es beau', "t'es belle"] },
+            { id: 'meet_up', predictableTerms: ['when should we meet up', "quand est ce qu'on se voit"],
+              triggers: ['when are we meeting', 'quand se voit on', "quand est ce qu'on se voit", 'quand on se voit'] },
+            { id: 'rest', predictableTerms: ['sleep in if you can', 'fais la grasse matinee'],
+              triggers: ['sleep in', 'fais la grasse matinee', 'repose toi'] },
+        ];
+
+        /**
+         * Returns the ids of every mood category the typed query resolves
+         * to. A query matches a category if it's a substring of (or
+         * contains) any of that category's trigger phrases — loose enough
+         * to catch partial typing ("hell" while typing "hello") without
+         * requiring an exact match.
+         */
+        function detectMoodCategories(query) {
+            const q = normalizeForMoodMatch(query);
+            if (!q) return [];
+            const matched = [];
+            for (const category of MOOD_CATEGORIES) {
+                const hit = category.triggers.some(t => t.startsWith(q) || containsWholeTerm(q, t));
+                if (hit) matched.push(category.id);
+            }
+            return matched;
+        }
+
+        // Extracts ONLY the specific mundane phrase a card's `predictable`
+        // field names as what it replaces (e.g. the 'miss you' out of "A
+        // plain 'miss you' text with no imagery attached"), rather than
+        // matching against the whole sentence. This matters: plenty of
+        // older/base cards share one long, generic `predictable` paragraph
+        // across a whole group of unrelated alternatives (e.g. one shared
+        // "instead of the usual 'hey, how are you' / 'thinking of you'..."
+        // block covering five very different specific action cards) — matching
+        // against the full text would make nearly all of them look like
+        // greeting/check-in cards regardless of what they actually are.
+        // Cards without this specific single-quoted-phrase convention
+        // (predictablePhrase stays null) simply never participate in mood
+        // search, which is correct — they were never written as "the
+        // sophisticated version of saying exactly X".
+        const PREDICTABLE_PHRASE_RE = /(?:plain|simple)\s+['’‘](.+?)['’‘]\s*(?=text|note|sans|avec|\.|$)/i;
+        function extractPredictablePhrase(action) {
+            if (action._predictablePhrase === undefined) {
+                const m = PREDICTABLE_PHRASE_RE.exec(action.predictable || '');
+                action._predictablePhrase = m ? normalizeForMoodMatch(m[1]) : null;
+            }
+            return action._predictablePhrase;
+        }
+
+        // Plain .includes() substring matching lets a short term like "hi"
+        // false-positive inside unrelated words (e.g. "thinking" contains
+        // "hi"), so terms are matched as whole words/phrases instead.
+        function containsWholeTerm(haystack, term) {
+            const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            return new RegExp(`\\b${escaped}\\b`).test(haystack);
+        }
+
+        function cardMatchesMoodCategory(action, categoryId) {
+            const category = MOOD_CATEGORIES.find(c => c.id === categoryId);
+            if (!category) return false;
+            const phrase = extractPredictablePhrase(action);
+            if (!phrase) return false;
+            return category.predictableTerms.some(term => containsWholeTerm(phrase, term));
         }
 
         // Cycle mode controls
@@ -841,7 +977,29 @@
             renderActions();
         });
         sortBy.addEventListener('change', (e) => { currentSort = e.target.value; renderActions(); });
-        searchInput.addEventListener('input', (e) => { currentFilters.search = e.target.value.trim().toLowerCase(); renderActions(); });
+        const MOOD_LABELS = {
+            greeting: '👋 Greeting', how_are_you: '🙂 How are you', miss_you: '💭 Missing you',
+            thinking_of_you: '💭 Thinking of you', love_you: '❤️ I love you', thanks: '🙏 Thanks',
+            sorry: '😔 Sorry', goodnight: '🌙 Goodnight', good_morning: '☀️ Good morning',
+            good_day: '☀️ Have a good day', proud: '✨ Proud of you', well_done: '🎉 Well done',
+            good_luck: '🍀 Good luck', take_care: '🤍 Take care', see_you_tonight: '🌆 See you tonight',
+            cant_wait: '⏳ Can\'t wait', safe_travels: '🚗 Safe travels', running_late: '⏰ Running late',
+            compliment: '😍 Compliment', meet_up: '📅 When are we meeting', rest: '😴 Rest / sleep in',
+        };
+        function updateMoodSearchHint(query, moodIds) {
+            if (!query || moodIds.length === 0) {
+                moodSearchHint.classList.add('hidden');
+                return;
+            }
+            const labels = moodIds.map(id => MOOD_LABELS[id] || id).join(', ');
+            moodSearchHint.textContent = `✨ Also showing sophisticated alternatives to: ${labels}`;
+            moodSearchHint.classList.remove('hidden');
+        }
+        searchInput.addEventListener('input', (e) => {
+            currentFilters.search = e.target.value.trim().toLowerCase();
+            updateMoodSearchHint(currentFilters.search, detectMoodCategories(currentFilters.search));
+            renderActions();
+        });
         resetFiltersBtn.addEventListener('click', resetFilters);
         surpriseBtn.addEventListener('click', surpriseMe);
         updateBtn.addEventListener('click', runUpdate);
@@ -1172,8 +1330,10 @@
             }
             if (currentFilters.search) {
                 const q = currentFilters.search;
+                const moodIds = detectMoodCategories(q);
                 filteredActions = filteredActions.filter(a =>
-                    a.actionTitle.toLowerCase().includes(q) || a.text.toLowerCase().includes(q)
+                    a.actionTitle.toLowerCase().includes(q) || a.text.toLowerCase().includes(q) ||
+                    moodIds.some(id => cardMatchesMoodCategory(a, id))
                 );
             }
 
@@ -1333,6 +1493,7 @@
             sexualFilterValue.textContent = 'Any';
             sortBy.value = 'default';
             searchInput.value = '';
+            updateMoodSearchHint('', []);
             handleThemeFilter('all');
         }
 
