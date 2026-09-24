@@ -186,17 +186,17 @@
                             <input type="date" id="cycle-last-period" class="min-h-[44px] p-2 border border-slate-500 rounded-md shadow-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
                         </div>
                         <div class="flex items-center gap-2">
-                            <!-- Literary filter: day/night-style switch — off
-                                 shows everything, on narrows every category
-                                 down to cards tagged "Literary"/"Littéraire". -->
-                            <button id="literary-filter-btn" type="button" aria-pressed="false" aria-label="Filtrer : cartes littéraires uniquement" title="Cartes littéraires uniquement" class="w-14 h-8 rounded-full bg-slate-300 shadow-inner flex items-center px-1 transition-colors">
-                                <span id="literary-filter-thumb" class="w-6 h-6 rounded-full bg-white shadow flex items-center justify-center text-sm leading-none transition-transform">📚</span>
+                            <!-- Literary filter: 3-way cycle switch (tap to
+                                 advance) — All (both combined) → Literary
+                                 only → Standard only (non-literary) → All. -->
+                            <button id="literary-filter-btn" type="button" aria-pressed="false" aria-label="Filtre littéraire : toutes les cartes" title="Filtre littéraire" class="w-16 h-8 rounded-full bg-slate-300 shadow-inner flex items-center px-1 transition-colors">
+                                <span id="literary-filter-thumb" class="w-6 h-6 rounded-full bg-white shadow flex items-center justify-center text-[9px] font-bold leading-none text-slate-600 transition-transform translate-x-0">ALL</span>
                             </button>
-                            <!-- Language filter: same switch style. Off shows
-                                 every card regardless of language; on narrows
-                                 down to the English-detected subset. -->
-                            <button id="language-filter-btn" type="button" aria-pressed="false" aria-label="Filtrer : textes en anglais uniquement" title="Textes en anglais uniquement" class="w-14 h-8 rounded-full bg-slate-300 shadow-inner flex items-center px-1 transition-colors">
-                                <span id="language-filter-thumb" class="w-6 h-6 rounded-full bg-white shadow flex items-center justify-center text-[10px] font-bold leading-none text-slate-600 transition-transform">FR</span>
+                            <!-- Language filter: same 3-way cycle — All
+                                 (both languages) → French only → English
+                                 only → All. -->
+                            <button id="language-filter-btn" type="button" aria-pressed="false" aria-label="Filtre langue : toutes les langues" title="Filtre langue" class="w-16 h-8 rounded-full bg-slate-300 shadow-inner flex items-center px-1 transition-colors">
+                                <span id="language-filter-thumb" class="w-6 h-6 rounded-full bg-white shadow flex items-center justify-center text-[9px] font-bold leading-none text-slate-600 transition-transform translate-x-0">ALL</span>
                             </button>
                         </div>
                     </div>
@@ -422,8 +422,11 @@
         const literaryFilterThumb = document.getElementById('literary-filter-thumb');
         const languageFilterBtn = document.getElementById('language-filter-btn');
         const languageFilterThumb = document.getElementById('language-filter-thumb');
-        let literaryFilterActive = false;
-        let englishOnlyFilterActive = false;
+        // Each is a 3-way cycle rather than a plain on/off: 'all' (both
+        // combined — the actual default, shown as its own explicit state
+        // rather than just "switch looks off") plus the two specific modes.
+        let literaryFilterMode = 'all'; // 'all' | 'literary' | 'standard'
+        let languageFilterMode = 'all'; // 'all' | 'fr' | 'en'
 
         /**
          * Cards carry no explicit language field, so this detects it from
@@ -704,70 +707,93 @@
         });
 
         /**
-         * "Literary only" is a main, always-visible filter (separate from
-         * the theme list buried in the collapsible panel) that narrows
-         * every category down to cards tagged "Literary"/"Littéraire".
-         * Remembered per-device like the filters-panel collapse state.
+         * "Literary" is a main, always-visible filter (separate from the
+         * theme list buried in the collapsible panel) that narrows every
+         * category down to cards tagged "Literary"/"Littéraire" — or, in
+         * its third state, down to everything BUT those. A 3-way cycle
+         * (tap to advance) rather than a plain on/off, so "show everything
+         * combined" is its own explicit, visible state instead of just
+         * looking like the switch is off. Remembered per-device.
          */
-        const LITERARY_FILTER_STORAGE_KEY = 'spiceapp_literary_filter_v1';
+        const LITERARY_FILTER_STORAGE_KEY = 'spiceapp_literary_filter_mode_v1';
+        const LITERARY_FILTER_MODES = ['all', 'literary', 'standard'];
+        const LITERARY_FILTER_LABELS = { all: 'ALL', literary: '📚', standard: '📄' };
+        const LITERARY_FILTER_ARIA = {
+            all: 'Filtre littéraire : toutes les cartes (littéraires + standards)',
+            literary: 'Filtre littéraire : cartes littéraires uniquement',
+            standard: 'Filtre littéraire : cartes standards uniquement (sans les littéraires)',
+        };
 
         function renderLiteraryFilterUI() {
-            literaryFilterBtn.setAttribute('aria-pressed', literaryFilterActive ? 'true' : 'false');
-            // Day/night-switch styling: the track darkens and the thumb
-            // slides to the right when active, exactly like a dark-mode toggle.
-            literaryFilterBtn.classList.toggle('bg-indigo-600', literaryFilterActive);
-            literaryFilterBtn.classList.toggle('bg-slate-300', !literaryFilterActive);
-            literaryFilterThumb.classList.toggle('translate-x-6', literaryFilterActive);
+            const index = LITERARY_FILTER_MODES.indexOf(literaryFilterMode);
+            literaryFilterBtn.setAttribute('aria-pressed', literaryFilterMode !== 'all' ? 'true' : 'false');
+            literaryFilterBtn.setAttribute('aria-label', LITERARY_FILTER_ARIA[literaryFilterMode]);
+            literaryFilterBtn.classList.toggle('bg-indigo-600', literaryFilterMode === 'literary');
+            literaryFilterBtn.classList.toggle('bg-purple-600', literaryFilterMode === 'standard');
+            literaryFilterBtn.classList.toggle('bg-slate-300', literaryFilterMode === 'all');
+            // 3 fixed thumb positions across the same track width used by the 2-state design.
+            literaryFilterThumb.classList.remove('translate-x-0', 'translate-x-4', 'translate-x-8');
+            literaryFilterThumb.classList.add(['translate-x-0', 'translate-x-4', 'translate-x-8'][index]);
+            literaryFilterThumb.textContent = LITERARY_FILTER_LABELS[literaryFilterMode];
         }
 
         literaryFilterBtn.addEventListener('click', () => {
-            literaryFilterActive = !literaryFilterActive;
-            try { localStorage.setItem(LITERARY_FILTER_STORAGE_KEY, literaryFilterActive ? '1' : '0'); } catch (e) { /* ignore */ }
+            const index = LITERARY_FILTER_MODES.indexOf(literaryFilterMode);
+            literaryFilterMode = LITERARY_FILTER_MODES[(index + 1) % LITERARY_FILTER_MODES.length];
+            try { localStorage.setItem(LITERARY_FILTER_STORAGE_KEY, literaryFilterMode); } catch (e) { /* ignore */ }
             renderLiteraryFilterUI();
             renderActions();
         });
 
         (function initLiteraryFilter() {
             try {
-                literaryFilterActive = localStorage.getItem(LITERARY_FILTER_STORAGE_KEY) === '1';
+                const saved = localStorage.getItem(LITERARY_FILTER_STORAGE_KEY);
+                literaryFilterMode = LITERARY_FILTER_MODES.includes(saved) ? saved : 'all';
             } catch (e) {
-                literaryFilterActive = false;
+                literaryFilterMode = 'all';
             }
             renderLiteraryFilterUI();
         })();
 
         /**
-         * "English only" — same switch pattern as the literary one. Off
-         * (default) shows every card regardless of language, matching the
-         * app's existing behavior; on narrows down to the English-detected
-         * subset, since French is the large majority and already the
-         * effective default view.
+         * Language — same 3-way cycle pattern: All (both languages
+         * combined) → French only → English only → back to All.
          */
-        const LANGUAGE_FILTER_STORAGE_KEY = 'spiceapp_english_only_filter_v1';
+        const LANGUAGE_FILTER_STORAGE_KEY = 'spiceapp_language_filter_mode_v1';
+        const LANGUAGE_FILTER_MODES = ['all', 'fr', 'en'];
+        const LANGUAGE_FILTER_LABELS = { all: 'ALL', fr: 'FR', en: 'EN' };
+        const LANGUAGE_FILTER_ARIA = {
+            all: 'Filtre langue : toutes les langues (français + anglais)',
+            fr: 'Filtre langue : textes en français uniquement',
+            en: 'Filtre langue : textes en anglais uniquement',
+        };
 
         function renderLanguageFilterUI() {
-            languageFilterBtn.setAttribute('aria-pressed', englishOnlyFilterActive ? 'true' : 'false');
-            languageFilterBtn.classList.toggle('bg-indigo-600', englishOnlyFilterActive);
-            languageFilterBtn.classList.toggle('bg-slate-300', !englishOnlyFilterActive);
-            languageFilterThumb.classList.toggle('translate-x-6', englishOnlyFilterActive);
-            languageFilterThumb.textContent = englishOnlyFilterActive ? 'EN' : 'FR';
-            languageFilterBtn.setAttribute('aria-label', englishOnlyFilterActive
-                ? 'Filtrer : textes en anglais uniquement (activé)'
-                : 'Filtrer : textes en anglais uniquement');
+            const index = LANGUAGE_FILTER_MODES.indexOf(languageFilterMode);
+            languageFilterBtn.setAttribute('aria-pressed', languageFilterMode !== 'all' ? 'true' : 'false');
+            languageFilterBtn.setAttribute('aria-label', LANGUAGE_FILTER_ARIA[languageFilterMode]);
+            languageFilterBtn.classList.toggle('bg-indigo-600', languageFilterMode === 'en');
+            languageFilterBtn.classList.toggle('bg-purple-600', languageFilterMode === 'fr');
+            languageFilterBtn.classList.toggle('bg-slate-300', languageFilterMode === 'all');
+            languageFilterThumb.classList.remove('translate-x-0', 'translate-x-4', 'translate-x-8');
+            languageFilterThumb.classList.add(['translate-x-0', 'translate-x-4', 'translate-x-8'][index]);
+            languageFilterThumb.textContent = LANGUAGE_FILTER_LABELS[languageFilterMode];
         }
 
         languageFilterBtn.addEventListener('click', () => {
-            englishOnlyFilterActive = !englishOnlyFilterActive;
-            try { localStorage.setItem(LANGUAGE_FILTER_STORAGE_KEY, englishOnlyFilterActive ? '1' : '0'); } catch (e) { /* ignore */ }
+            const index = LANGUAGE_FILTER_MODES.indexOf(languageFilterMode);
+            languageFilterMode = LANGUAGE_FILTER_MODES[(index + 1) % LANGUAGE_FILTER_MODES.length];
+            try { localStorage.setItem(LANGUAGE_FILTER_STORAGE_KEY, languageFilterMode); } catch (e) { /* ignore */ }
             renderLanguageFilterUI();
             renderActions();
         });
 
         (function initLanguageFilter() {
             try {
-                englishOnlyFilterActive = localStorage.getItem(LANGUAGE_FILTER_STORAGE_KEY) === '1';
+                const saved = localStorage.getItem(LANGUAGE_FILTER_STORAGE_KEY);
+                languageFilterMode = LANGUAGE_FILTER_MODES.includes(saved) ? saved : 'all';
             } catch (e) {
-                englishOnlyFilterActive = false;
+                languageFilterMode = 'all';
             }
             renderLanguageFilterUI();
         })();
@@ -1044,11 +1070,14 @@
             if (currentFilters.drama > 0) filteredActions = filteredActions.filter(a => a.dramaIntensity === currentFilters.drama);
             if (currentFilters.sexual > 0) filteredActions = filteredActions.filter(a => a.sexualIntensity === currentFilters.sexual);
             if (currentFilters.theme !== 'all') filteredActions = filteredActions.filter(a => a.themes.includes(currentFilters.theme));
-            if (literaryFilterActive) {
-                filteredActions = filteredActions.filter(a => a.themes.includes('Literary') || a.themes.includes('Littéraire'));
+            if (literaryFilterMode !== 'all') {
+                const isLiterary = a => a.themes.includes('Literary') || a.themes.includes('Littéraire');
+                filteredActions = literaryFilterMode === 'literary'
+                    ? filteredActions.filter(isLiterary)
+                    : filteredActions.filter(a => !isLiterary(a));
             }
-            if (englishOnlyFilterActive) {
-                filteredActions = filteredActions.filter(a => detectCardLanguage(a) === 'en');
+            if (languageFilterMode !== 'all') {
+                filteredActions = filteredActions.filter(a => detectCardLanguage(a) === languageFilterMode);
             }
             let activePhaseLabel = null;
             if (cycleSettings.cycleEnabled && cycleSettings.lastPeriodDate) {
