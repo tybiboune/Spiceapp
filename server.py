@@ -9,6 +9,7 @@ import time
 import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import TimeoutError as FuturesTimeoutError
 from flask import Flask, jsonify, request, send_from_directory
 from flask_cors import CORS
 from werkzeug.serving import make_server
@@ -40,8 +41,29 @@ UPDATE_STATE_PATH = os.path.join(BASE_DIR, ".update_state.json")
 COMMIT_TRAILER_PREFIXES = ("Co-Authored-By:", "Claude-Session:")
 # Kept short (rather than a more generous 20-30s) so a flaky/unreachable
 # connection (common on mobile) fails fast with a clear error instead of the
-# "Checking for updates…" spinner sitting for tens of seconds per call.
+# "Checking for updates…" spinner sitting for tens of seconds per call. Only
+# for the lightweight API calls below (tree/head/compare), whose responses
+# are small JSON regardless of repo size.
 GITHUB_TIMEOUT = 8
+# Raw file downloads (_download_file) get their own, longer budget: some
+# tracked files (the *_cards.json content files) are now well over 1MB, and
+# an 8s cap that was fine for a few KB of source code isn't for those.
+DOWNLOAD_TIMEOUT = 25
+# Socket-level timeouts (what urlopen(timeout=...) actually gives you) only
+# bound each individual blocking read, not the transfer as a whole — a
+# connection trickling in a few bytes every few seconds never trips them and
+# just hangs, which is exactly the "stuck downloading" symptom this guards
+# against. Running the request in a worker thread and capping it with
+# future.result(timeout=...) enforces a real wall-clock deadline instead.
+_download_pool = ThreadPoolExecutor(max_workers=4)
+
+def _with_deadline(fn, timeout):
+    future = _download_pool.submit(fn)
+    try:
+        return future.result(timeout=timeout)
+    except FuturesTimeoutError:
+        future.cancel()
+        raise TimeoutError(f"Timed out after {timeout}s")
 
 def _repo_path_to_local(repo_path):
     """Repo layout is flat and mirrors BASE_DIR directly — no directory mapping needed."""
@@ -57,10 +79,12 @@ def _git_blob_sha1(data):
     return hashlib.sha1(header + data).hexdigest()
 
 def _fetch_remote_tree():
-    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/git/trees/{GITHUB_BRANCH}?recursive=1"
-    req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
-    with urllib.request.urlopen(req, timeout=GITHUB_TIMEOUT) as resp:
-        data = json.loads(resp.read())
+    def _do():
+        url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/git/trees/{GITHUB_BRANCH}?recursive=1"
+        req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
+        with urllib.request.urlopen(req, timeout=GITHUB_TIMEOUT) as resp:
+            return json.loads(resp.read())
+    data = _with_deadline(_do, GITHUB_TIMEOUT)
     return [item for item in data.get("tree", []) if item.get("type") == "blob"]
 
 def _find_updates():
@@ -81,11 +105,41 @@ def _find_updates():
         changed.append(repo_path)
     return changed
 
-def _download_file(repo_path):
+def _download_file_once(repo_path):
     url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{GITHUB_BRANCH}/{repo_path}"
     req = urllib.request.Request(url, headers={"User-Agent": "Spiceapp-updater"})
-    with urllib.request.urlopen(req, timeout=GITHUB_TIMEOUT) as resp:
+    # The per-call timeout here still helps (fails fast on a dead connection
+    # that never sends a byte at all); _with_deadline below is what actually
+    # bounds a *slow* one that keeps trickling data past DOWNLOAD_TIMEOUT.
+    with urllib.request.urlopen(req, timeout=DOWNLOAD_TIMEOUT) as resp:
         return resp.read()
+
+# Mobile connections drop a request mid-transfer often enough that failing
+# the whole update batch on the first blip made "Update" feel unreliable
+# even though a retry a moment later would usually just work. Content files
+# are idempotent downloads (same URL, same bytes every time), so retrying
+# is always safe.
+DOWNLOAD_RETRIES = 3
+DOWNLOAD_RETRY_DELAY = 1.5
+
+def _download_file(repo_path):
+    last_error = None
+    for attempt in range(DOWNLOAD_RETRIES):
+        try:
+            return _with_deadline(lambda: _download_file_once(repo_path), DOWNLOAD_TIMEOUT)
+        except urllib.error.HTTPError as e:
+            # A 4xx (e.g. 404 — the path doesn't exist at this commit) is
+            # never going to succeed on retry; only a 5xx from GitHub's side
+            # is worth trying again.
+            last_error = e
+            if e.code < 500 or attempt == DOWNLOAD_RETRIES - 1:
+                raise
+            time.sleep(DOWNLOAD_RETRY_DELAY)
+        except (urllib.error.URLError, TimeoutError, ConnectionError, OSError) as e:
+            last_error = e
+            if attempt < DOWNLOAD_RETRIES - 1:
+                time.sleep(DOWNLOAD_RETRY_DELAY)
+    raise last_error
 
 def _load_update_state():
     if os.path.isfile(UPDATE_STATE_PATH):
@@ -101,10 +155,12 @@ def _save_update_state(state):
         json.dump(state, f)
 
 def _fetch_head_sha():
-    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/commits/{GITHUB_BRANCH}"
-    req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
-    with urllib.request.urlopen(req, timeout=GITHUB_TIMEOUT) as resp:
-        return json.loads(resp.read())["sha"]
+    def _do():
+        url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/commits/{GITHUB_BRANCH}"
+        req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
+        with urllib.request.urlopen(req, timeout=GITHUB_TIMEOUT) as resp:
+            return json.loads(resp.read())["sha"]
+    return _with_deadline(_do, GITHUB_TIMEOUT)
 
 def _fetch_commits_since(base_sha, head_sha):
     """Human-readable changelog: every commit message between the SHA this
@@ -114,10 +170,12 @@ def _fetch_commits_since(base_sha, head_sha):
     stored yet) or if nothing changed — there's no meaningful "since" then."""
     if not base_sha or base_sha == head_sha:
         return []
-    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/compare/{base_sha}...{head_sha}"
-    req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
-    with urllib.request.urlopen(req, timeout=GITHUB_TIMEOUT) as resp:
-        data = json.loads(resp.read())
+    def _do():
+        url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/compare/{base_sha}...{head_sha}"
+        req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "Spiceapp-updater"})
+        with urllib.request.urlopen(req, timeout=GITHUB_TIMEOUT) as resp:
+            return json.loads(resp.read())
+    data = _with_deadline(_do, GITHUB_TIMEOUT)
     commits = []
     for item in data.get("commits", []):
         message = item.get("commit", {}).get("message", "")
@@ -345,6 +403,8 @@ def check_update():
             "commits": commits,
             "headSha": head_sha,
         })
+    except TimeoutError as e:
+        return jsonify({"error": "Update check timed out — connection is too slow or was interrupted."}), 504
     except (urllib.error.URLError, urllib.error.HTTPError) as e:
         return jsonify({"error": f"Could not reach GitHub: {e}"}), 502
     except Exception as e:
@@ -370,6 +430,8 @@ def apply_update_file():
         with open(local_path, "wb") as f:
             f.write(content)
         return jsonify({"path": repo_path})
+    except TimeoutError as e:
+        return jsonify({"error": f"'{repo_path}' download timed out after {DOWNLOAD_RETRIES} attempt(s) — connection is too slow or was interrupted."}), 504
     except (urllib.error.URLError, urllib.error.HTTPError) as e:
         return jsonify({"error": f"Could not reach GitHub: {e}"}), 502
     except Exception as e:

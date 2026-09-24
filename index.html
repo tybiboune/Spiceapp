@@ -1480,6 +1480,55 @@
          * Either way, once files were actually updated, a popup details what
          * changed (persisted across the reload via sessionStorage).
          */
+        // The backend already retries a single download a few times and
+        // enforces its own wall-clock deadline (server.py's DOWNLOAD_TIMEOUT
+        // / DOWNLOAD_RETRIES), so a 504 from it means that already failed —
+        // no point retrying here too. This client-side retry instead covers
+        // the layer the backend can't: the request never reaching it at all
+        // (a dropped mobile connection, a stalled local socket) or coming
+        // back so slowly the browser itself should give up and try again
+        // fresh rather than keep waiting on a spinner that looks frozen.
+        const UPDATE_FILE_FETCH_TIMEOUT = 35000;
+        const UPDATE_FILE_RETRIES = 3;
+        const UPDATE_FILE_RETRY_DELAY = 1500;
+
+        async function fetchUpdateFileOnce(path) {
+            const controller = new AbortController();
+            const abortTimer = setTimeout(() => controller.abort(), UPDATE_FILE_FETCH_TIMEOUT);
+            let response;
+            try {
+                response = await fetch('/api/update/file', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ path }),
+                    signal: controller.signal,
+                });
+            } catch (e) {
+                if (e.name === 'AbortError') throw new Error(`'${path}' download timed out — connection is too slow or was interrupted.`);
+                throw e;
+            } finally {
+                clearTimeout(abortTimer);
+            }
+            const result = await response.json();
+            if (!response.ok) throw new Error(result.error || `Failed to update ${path}.`);
+            return result;
+        }
+
+        async function fetchUpdateFileWithRetry(path) {
+            let lastError;
+            for (let attempt = 0; attempt < UPDATE_FILE_RETRIES; attempt++) {
+                try {
+                    return await fetchUpdateFileOnce(path);
+                } catch (e) {
+                    lastError = e;
+                    if (attempt < UPDATE_FILE_RETRIES - 1) {
+                        await new Promise(r => setTimeout(r, UPDATE_FILE_RETRY_DELAY));
+                    }
+                }
+            }
+            throw lastError;
+        }
+
         async function runUpdate() {
             updateBtn.disabled = true;
             showUpdateChecking('Checking for updates…');
@@ -1513,13 +1562,9 @@
                 const total = files.length;
                 showUpdateProgress(0, total, 'Downloading updates');
                 for (let i = 0; i < total; i++) {
-                    const response = await fetch('/api/update/file', {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify({ path: files[i] }),
-                    });
-                    const result = await response.json();
-                    if (!response.ok) throw new Error(result.error || `Failed to update ${files[i]}.`);
+                    const label = UPDATE_FILE_LABELS[files[i]] || files[i];
+                    showUpdateProgress(i, total, `Downloading — ${label}`);
+                    await fetchUpdateFileWithRetry(files[i]);
                     showUpdateProgress(i + 1, total, 'Downloading updates');
                 }
 
