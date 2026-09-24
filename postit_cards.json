@@ -16879,11 +16879,12 @@
       "Romance"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Consider this an invitation to a ball with no orchestra, just you and me.",
       "An open invitation to our own ball, no gown required, just whatever's playing."
-    ]
+    ],
+    "sourceWork": "War and Peace"
   },
   {
     "actionTitle": "Tucked in a Coat Pocket",
@@ -16895,12 +16896,13 @@
       "Literary",
       "Sincerity"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "I've been slow to say this properly, so here it is in writing instead.",
       "You matter more than I usually manage to show — written down, finally."
-    ]
+    ],
+    "sourceWork": "War and Peace"
   },
   {
     "actionTitle": "On the Kettle",
@@ -16916,7 +16918,8 @@
     "sexualIntensity": 1,
     "variations": [
       "A small unannounced kindness happened somewhere in this house today."
-    ]
+    ],
+    "sourceWork": "War and Peace"
   },
   {
     "actionTitle": "On the Front Door",
@@ -16932,7 +16935,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Coming home to you always feels a little like a soldier's return, glad to be back."
-    ]
+    ],
+    "sourceWork": "War and Peace"
   },
   {
     "actionTitle": "Inside a Book You're Reading",
@@ -16948,7 +16952,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Found this thought about you halfway through today, had to put it somewhere."
-    ]
+    ],
+    "sourceWork": "War and Peace"
   },
   {
     "actionTitle": "Dated, on the Mirror",
@@ -16960,11 +16965,12 @@
       "Literary",
       "Sincerity"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Written and held onto for three days before I finally let you find it."
-    ]
+    ],
+    "sourceWork": "Eugene Onegin"
   },
   {
     "actionTitle": "On the Thermostat",
@@ -16976,11 +16982,12 @@
       "Literary",
       "Restraint"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Chose to let something small go today instead of letting pride win it."
-    ]
+    ],
+    "sourceWork": "Eugene Onegin"
   },
   {
     "actionTitle": "Under a Coffee Mug",
@@ -16996,7 +17003,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Something you once told me I never properly answered — ask me tonight."
-    ]
+    ],
+    "sourceWork": "Eugene Onegin"
   },
   {
     "actionTitle": "On the Calendar, No Date Circled",
@@ -17012,7 +17020,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Tonight counts as an occasion even though nothing's actually being celebrated."
-    ]
+    ],
+    "sourceWork": "Eugene Onegin"
   },
   {
     "actionTitle": "Behind the Photo Frame",
@@ -17024,11 +17033,12 @@
       "Literary",
       "Declaration"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Saying this now, plainly, instead of waiting for regret to force it out."
-    ]
+    ],
+    "sourceWork": "Eugene Onegin"
   },
   {
     "actionTitle": "On the Calendar's Last Page of the Month",
@@ -17040,11 +17050,12 @@
       "Literary",
       "Nostalgia"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Marking this season between us on purpose, before it quietly changes."
-    ]
+    ],
+    "sourceWork": "The Cherry Orchard"
   },
   {
     "actionTitle": "On the Toolbox",
@@ -17060,7 +17071,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Fixed that thing you'd been quietly living with — no fanfare needed."
-    ]
+    ],
+    "sourceWork": "The Cherry Orchard"
   },
   {
     "actionTitle": "On the Back of the Couch Cushion",
@@ -17076,7 +17088,8 @@
     "sexualIntensity": 1,
     "variations": [
       "That quiet silence we shared earlier stayed with me — what were you thinking?"
-    ]
+    ],
+    "sourceWork": "The Cherry Orchard"
   },
   {
     "actionTitle": "On the Fridge, Under a Magnet",
@@ -17092,7 +17105,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Small change proposed: let's try something different with that routine, together."
-    ]
+    ],
+    "sourceWork": "The Cherry Orchard"
   },
   {
     "actionTitle": "Inside the Junk Drawer",
@@ -17104,11 +17118,12 @@
       "Literary",
       "Foresight"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Saw a small problem coming and quietly handled it before it became a thing."
-    ]
+    ],
+    "sourceWork": "The Cherry Orchard"
   },
   {
     "actionTitle": "On Your Pillow",
@@ -17124,7 +17139,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Whenever you walk in, consider this me meeting you fully, nothing else on my mind."
-    ]
+    ],
+    "sourceWork": "Anna Karenina"
   },
   {
     "actionTitle": "Next to Your Journal",
@@ -17140,7 +17156,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Something about how you see the world I still don't fully understand — tell me tonight."
-    ]
+    ],
+    "sourceWork": "Anna Karenina"
   },
   {
     "actionTitle": "On the Thermostat Again",
@@ -17156,7 +17173,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Noticed how calm and steady you were earlier — that's not nothing, I saw it."
-    ]
+    ],
+    "sourceWork": "Anna Karenina"
   },
   {
     "actionTitle": "Tucked in Your Wallet",
@@ -17168,11 +17186,12 @@
       "Literary",
       "Compliment"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "What I find beautiful about you has little to do with anything you're wearing."
-    ]
+    ],
+    "sourceWork": "Anna Karenina"
   },
   {
     "actionTitle": "On the Bathroom Mirror",
@@ -17184,11 +17203,12 @@
       "Literary",
       "Honesty"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 4,
     "sexualIntensity": 1,
     "variations": [
       "There's something uncomfortable I've meant to say honestly — ask me tonight."
-    ]
+    ],
+    "sourceWork": "Anna Karenina"
   },
   {
     "actionTitle": "On the Bookshelf",
@@ -17200,11 +17220,12 @@
       "Literary",
       "Curiosity"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "What actually matters most to you these days — a real question, no rush."
-    ]
+    ],
+    "sourceWork": "The Brothers Karamazov"
   },
   {
     "actionTitle": "On the Laundry Basket",
@@ -17220,7 +17241,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Still thinking about that thing you vented about — how did it end up going?"
-    ]
+    ],
+    "sourceWork": "The Brothers Karamazov"
   },
   {
     "actionTitle": "On the Remote Control",
@@ -17232,11 +17254,12 @@
       "Literary",
       "Restraint"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Held my tongue earlier when I wanted to argue — that was deliberate, not indifference."
-    ]
+    ],
+    "sourceWork": "The Brothers Karamazov"
   },
   {
     "actionTitle": "On the Gym Bag",
@@ -17248,11 +17271,12 @@
       "Literary",
       "Devotion"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 3,
+    "sexualIntensity": 2,
     "variations": [
       "Did something reckless for you recently — tomorrow, something quiet and steady too."
-    ]
+    ],
+    "sourceWork": "The Brothers Karamazov"
   },
   {
     "actionTitle": "Under the Bed",
@@ -17264,11 +17288,12 @@
       "Literary",
       "Honesty"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 5,
     "sexualIntensity": 1,
     "variations": [
       "Something I've been too proud to say is written here, where it took nerve to leave."
-    ]
+    ],
+    "sourceWork": "The Brothers Karamazov"
   },
   {
     "actionTitle": "On the Bathroom Mirror",
@@ -17280,11 +17305,12 @@
       "Literary",
       "Vulnerability"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Quietly proud of something around here — find it, tell me what you really think."
-    ]
+    ],
+    "sourceWork": "Pride and Prejudice"
   },
   {
     "actionTitle": "Folded Inside Your Wallet",
@@ -17300,7 +17326,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Thought about what went wrong last time I asked — want to try again, better."
-    ]
+    ],
+    "sourceWork": "Pride and Prejudice"
   },
   {
     "actionTitle": "On Your Desk",
@@ -17316,7 +17343,8 @@
     "sexualIntensity": 1,
     "variations": [
       "The quiet corner I usually keep to myself is open to you now — come find out."
-    ]
+    ],
+    "sourceWork": "Pride and Prejudice"
   },
   {
     "actionTitle": "On the Front Door, Going Out",
@@ -17328,11 +17356,12 @@
       "Literary",
       "Honesty"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Making an actual effort to be warm tonight, somewhere I'd normally hold back."
-    ]
+    ],
+    "sourceWork": "Pride and Prejudice"
   },
   {
     "actionTitle": "Left on Top of an Envelope",
@@ -17344,11 +17373,12 @@
       "Literary",
       "Accountability"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Everything in here explains something handled badly — take your time, no rush."
-    ]
+    ],
+    "sourceWork": "Pride and Prejudice"
   },
   {
     "actionTitle": "On the Window Ledge",
@@ -17360,11 +17390,12 @@
       "Literary",
       "Intensity"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 4,
+    "sexualIntensity": 2,
     "variations": [
       "Something true and unsoftened is waiting to be said tonight — fair warning."
-    ]
+    ],
+    "sourceWork": "Wuthering Heights"
   },
   {
     "actionTitle": "Under the Doormat",
@@ -17376,11 +17407,12 @@
       "Literary",
       "Intensity"
     ],
-    "dramaIntensity": 2,
-    "sexualIntensity": 1,
+    "dramaIntensity": 4,
+    "sexualIntensity": 2,
     "variations": [
       "What I feel for you is honestly a bit much sometimes — safer to write it here."
-    ]
+    ],
+    "sourceWork": "Wuthering Heights"
   },
   {
     "actionTitle": "On the Junk Mail Pile",
@@ -17396,7 +17428,8 @@
     "sexualIntensity": 1,
     "variations": [
       "That old thing between us never quite got resolved — let's talk it through."
-    ]
+    ],
+    "sourceWork": "Wuthering Heights"
   },
   {
     "actionTitle": "On the Fridge Door",
@@ -17412,7 +17445,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Going to keep showing up like this — not just when easy, every single time."
-    ]
+    ],
+    "sourceWork": "Wuthering Heights"
   },
   {
     "actionTitle": "Hidden in a Drawer You Rarely Open",
@@ -17425,10 +17459,11 @@
       "Permanence"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Made something small and private that's just about you, kept here for now."
-    ]
+    ],
+    "sourceWork": "Wuthering Heights"
   },
   {
     "actionTitle": "On the Piggy Bank",
@@ -17444,7 +17479,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Working on fixing a stingy habit of mine, quietly — curious if you notice."
-    ]
+    ],
+    "sourceWork": "A Christmas Carol"
   },
   {
     "actionTitle": "Inside an Old Photo Album",
@@ -17456,11 +17492,12 @@
       "Literary",
       "Nostalgia"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "That early memory of us keeps coming back — let's recreate part of it soon."
-    ]
+    ],
+    "sourceWork": "A Christmas Carol"
   },
   {
     "actionTitle": "On the Trash Can Lid",
@@ -17476,7 +17513,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Also wanted to thank you for that other small thing — I noticed that too."
-    ]
+    ],
+    "sourceWork": "A Christmas Carol"
   },
   {
     "actionTitle": "Taped to the Calendar's Next Month",
@@ -17492,7 +17530,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Picturing a specific future with you already — let's start working toward it."
-    ]
+    ],
+    "sourceWork": "A Christmas Carol"
   },
   {
     "actionTitle": "On an Empty Party Hat",
@@ -17508,7 +17547,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Tonight's small joyful thing happened again for no reason — not a one-off."
-    ]
+    ],
+    "sourceWork": "A Christmas Carol"
   },
   {
     "actionTitle": "Next to Her Favorite Mug",
@@ -17524,7 +17564,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Noticed that little thing you always do just for yourself — love that, keep it up."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "On the Guest Book from Last Gathering",
@@ -17536,11 +17577,12 @@
       "Literary",
       "Sincerity"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "That was genuinely fun — what was actually your favorite part of it?"
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "On the Day's Page in a Planner",
@@ -17556,7 +17598,8 @@
     "sexualIntensity": 1,
     "variations": [
       "That whole day felt different somehow — what made it stand out for you?"
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "Inside Her Umbrella",
@@ -17572,7 +17615,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Wondering if something's quietly weighing on you — here, whenever you're ready."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "On the Guest Room Door",
@@ -17588,7 +17632,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Thinking about that old tension, no bitterness — let's clear it properly."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "On the Bathroom Scale",
@@ -17604,7 +17649,8 @@
     "sexualIntensity": 1,
     "variations": [
       "That thing I sent earlier wasn't a joke — meant every word, wanted to be clear."
-    ]
+    ],
+    "sourceWork": "Far from the Madding Crowd"
   },
   {
     "actionTitle": "On the Toolbox Again",
@@ -17620,7 +17666,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Fixed that thing for you again — no big deal, don't need credit for it."
-    ]
+    ],
+    "sourceWork": "Far from the Madding Crowd"
   },
   {
     "actionTitle": "On the Umbrella Stand",
@@ -17636,7 +17683,8 @@
     "sexualIntensity": 1,
     "variations": [
       "That was genuinely good teamwork earlier — we're actually good at that."
-    ]
+    ],
+    "sourceWork": "Far from the Madding Crowd"
   },
   {
     "actionTitle": "Inside a Drawer of Old Receipts",
@@ -17648,11 +17696,12 @@
       "Literary",
       "Self-awareness"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 5,
     "sexualIntensity": 1,
     "variations": [
       "Caught myself fixating on your reaction today — letting it go, wanted to admit it."
-    ]
+    ],
+    "sourceWork": "Far from the Madding Crowd"
   },
   {
     "actionTitle": "On the Ring Dish",
@@ -17668,7 +17717,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Still mean that promise from a while back — proving it this week, watch."
-    ]
+    ],
+    "sourceWork": "Far from the Madding Crowd"
   },
   {
     "actionTitle": "Sur la Fenêtre Embuée",
@@ -17684,7 +17734,8 @@
     "sexualIntensity": 1,
     "variations": [
       "L'air a changé dehors — une marche improvisée, là, maintenant, juste pour le sentir ?"
-    ]
+    ],
+    "sourceWork": "Guerre et Paix"
   },
   {
     "actionTitle": "Sous la Théière",
@@ -17700,7 +17751,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Un petit renoncement discret a eu lieu aujourd'hui, rien qu'un tout petit truc pour toi."
-    ]
+    ],
+    "sourceWork": "Guerre et Paix"
   },
   {
     "actionTitle": "Sur les Chaussures de Sport",
@@ -17712,11 +17764,12 @@
       "Littéraire",
       "Courage"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Fait ce matin le truc que je repoussais — devine comment ça s'est passé, ce soir."
-    ]
+    ],
+    "sourceWork": "Guerre et Paix"
   },
   {
     "actionTitle": "Sur l'Oreiller, Côté Vide",
@@ -17732,7 +17785,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Cette question laissée en suspens hier soir n'est pas oubliée — prends ton temps."
-    ]
+    ],
+    "sourceWork": "Guerre et Paix"
   },
   {
     "actionTitle": "Glissé Sous la Porte de la Salle de Bain",
@@ -17744,11 +17798,12 @@
       "Littéraire",
       "Vulnérabilité"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 4,
+    "sexualIntensity": 2,
     "variations": [
       "Il y a un moment que je garde d'habitude pour moi — celui-là, je veux te le raconter."
-    ]
+    ],
+    "sourceWork": "Guerre et Paix"
   },
   {
     "actionTitle": "Sur le Réveil",
@@ -17764,7 +17819,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Ce rêve bizarre que tu m'as raconté me trotte encore dans la tête."
-    ]
+    ],
+    "sourceWork": "Eugène Onéguine"
   },
   {
     "actionTitle": "Sur la Radio de la Cuisine",
@@ -17776,11 +17832,12 @@
       "Littéraire",
       "Générosité"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Ce truc que tu aimes et que je trouve ennuyeux — en fait j'ai vraiment aimé, on remet ça ?"
-    ]
+    ],
+    "sourceWork": "Eugène Onéguine"
   },
   {
     "actionTitle": "Sur le Miroir de l'Entrée",
@@ -17792,11 +17849,12 @@
       "Littéraire",
       "Retenue"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Ai failli sortir une pique méchante tout à l'heure — l'ai gardée pour moi."
-    ]
+    ],
+    "sourceWork": "Eugène Onéguine"
   },
   {
     "actionTitle": "Coincé Dans un Tiroir Fermé à Clé",
@@ -17808,11 +17866,12 @@
       "Littéraire",
       "Sincérité"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 3,
     "variations": [
       "Il y a une lettre entière là-dedans sur ce que je ressens — elle existe, c'est vrai."
-    ]
+    ],
+    "sourceWork": "Eugène Onéguine"
   },
   {
     "actionTitle": "Sur le Panier à Linge Sale",
@@ -17828,7 +17887,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Vais accepter ce truc que je préfère éviter, de bonne grâce, ça me va vraiment."
-    ]
+    ],
+    "sourceWork": "Eugène Onéguine"
   },
   {
     "actionTitle": "Sur le Sac Jamais Vidé",
@@ -17844,7 +17904,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Ai enfin fait le premier petit pas sur ce truc que je remets depuis des semaines."
-    ]
+    ],
+    "sourceWork": "La Cerisaie"
   },
   {
     "actionTitle": "Sur la Perceuse",
@@ -17860,7 +17921,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Réglé le petit problème directement, sans discours — regarde le résultat."
-    ]
+    ],
+    "sourceWork": "La Cerisaie"
   },
   {
     "actionTitle": "Sur le Cadre d'une Vieille Photo",
@@ -17876,7 +17938,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Pris soin aujourd'hui de ce vieux truc entre nous — dis-moi ce qu'il représente."
-    ]
+    ],
+    "sourceWork": "La Cerisaie"
   },
   {
     "actionTitle": "Sur le Relevé de Compte",
@@ -17888,11 +17951,12 @@
       "Littéraire",
       "Responsabilité"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Réglé ce petit truc que je te devais depuis un moment — c'est juste fait."
-    ]
+    ],
+    "sourceWork": "La Cerisaie"
   },
   {
     "actionTitle": "Sur le Calendrier de la Semaine Prochaine",
@@ -17908,7 +17972,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Petite idée pour la semaine prochaine : un tout petit truc différent ensemble."
-    ]
+    ],
+    "sourceWork": "La Cerisaie"
   },
   {
     "actionTitle": "Sur les Baskets Qui Traînent",
@@ -17924,7 +17989,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Un vrai effort physique aujourd'hui, tous les deux, jusqu'à être épuisés — ça te dit ?"
-    ]
+    ],
+    "sourceWork": "Anna Karénine"
   },
   {
     "actionTitle": "Sur le Bord du Lavabo",
@@ -17940,7 +18006,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Remarqué un petit truc différent chez toi ce matin — je l'ai vu, j'aime bien."
-    ]
+    ],
+    "sourceWork": "Anna Karénine"
   },
   {
     "actionTitle": "Sur l'Agenda Ouvert à la Mauvaise Page",
@@ -17952,11 +18019,12 @@
       "Littéraire",
       "Conscience de soi"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Ai choisi de ralentir aujourd'hui sur un truc que je pousse trop fort — je t'explique ce soir."
-    ]
+    ],
+    "sourceWork": "Anna Karénine"
   },
   {
     "actionTitle": "Sur le Trophée ou le Diplôme au Mur",
@@ -17968,11 +18036,12 @@
       "Littéraire",
       "Fierté"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Montre-moi un jour un autre truc que tu sais bien faire, dont tu es vraiment fière."
-    ]
+    ],
+    "sourceWork": "Anna Karénine"
   },
   {
     "actionTitle": "Sur le Plaid du Canapé",
@@ -17988,7 +18057,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Ce moment silencieux là, sans rien dire, ça m'a vraiment fait du bien."
-    ]
+    ],
+    "sourceWork": "Anna Karénine"
   },
   {
     "actionTitle": "Sur le Porte-Monnaie",
@@ -18004,7 +18074,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Fait un tout petit truc gentil pour un inconnu aujourd'hui — voulais te le dire."
-    ]
+    ],
+    "sourceWork": "Les Frères Karamazov"
   },
   {
     "actionTitle": "Sur les Chaussures de Sortie",
@@ -18016,11 +18087,12 @@
       "Littéraire",
       "Maîtrise"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 5,
     "sexualIntensity": 1,
     "variations": [
       "Ai senti la colère monter tout à l'heure — suis sorti marcher, ça a bien fait."
-    ]
+    ],
+    "sourceWork": "Les Frères Karamazov"
   },
   {
     "actionTitle": "Sur le Coussin Qu'on Se Partage",
@@ -18033,10 +18105,11 @@
       "Tendresse"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Après notre tension tout à l'heure, préférais un geste tendre à un dernier mot."
-    ]
+    ],
+    "sourceWork": "Les Frères Karamazov"
   },
   {
     "actionTitle": "Sur les Clés de la Maison",
@@ -18052,7 +18125,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Je te laisse gérer un truc que je fais toujours seul — je te fais vraiment confiance."
-    ]
+    ],
+    "sourceWork": "Les Frères Karamazov"
   },
   {
     "actionTitle": "Sur le Tableau Blanc de la Cuisine",
@@ -18064,11 +18138,12 @@
       "Littéraire",
       "Honnêteté"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Question toute simple, écrite là où tout le monde peut la voir : pourquoi on évite ce sujet ?"
-    ]
+    ],
+    "sourceWork": "Les Frères Karamazov"
   },
   {
     "actionTitle": "Sur la Porte d'Entrée, Côté Intérieur",
@@ -18084,7 +18159,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Allais décliner un truc par réflexe — ai accepté à la place, je l'ai remarqué."
-    ]
+    ],
+    "sourceWork": "Orgueil et Préjugés"
   },
   {
     "actionTitle": "Glissé Sous une Vieille Photo de Vous Deux",
@@ -18096,11 +18172,12 @@
       "Littéraire",
       "Honnêteté"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 5,
     "sexualIntensity": 1,
     "variations": [
       "Repensant à un truc mal jugé chez toi au début — je me trompais complètement."
-    ]
+    ],
+    "sourceWork": "Orgueil et Préjugés"
   },
   {
     "actionTitle": "Sur le Porte-Monnaie Commun",
@@ -18116,7 +18193,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Ai choisi ce qui nous rend heureux plutôt que le plus pratique — je t'explique ce soir."
-    ]
+    ],
+    "sourceWork": "Orgueil et Préjugés"
   },
   {
     "actionTitle": "Sur Son Téléphone, Écran Verrouillé",
@@ -18132,7 +18210,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Relu ton message de l'autre jour, avec plus d'attention — je te réponds vraiment."
-    ]
+    ],
+    "sourceWork": "Orgueil et Préjugés"
   },
   {
     "actionTitle": "Sur le Carnet Qu'elle Pratique Sans Grand Talent",
@@ -18148,7 +18227,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Peu importe le niveau, te voir faire ça te rend heureuse, c'est tout ce qui compte."
-    ]
+    ],
+    "sourceWork": "Orgueil et Préjugés"
   },
   {
     "actionTitle": "En Marge d'un Livre Qu'elle Lit Souvent",
@@ -18160,11 +18240,12 @@
       "Littéraire",
       "Intimité"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 3,
     "variations": [
       "Une pensée honnête et un peu rebelle, écrite ici juste pour toi, à découvrir au hasard."
-    ]
+    ],
+    "sourceWork": "Les Hauts de Hurlevent"
   },
   {
     "actionTitle": "Sous une Vieille Peluche ou Objet d'Enfance",
@@ -18176,11 +18257,12 @@
       "Littéraire",
       "Vulnérabilité"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 5,
     "sexualIntensity": 1,
     "variations": [
       "Il y a une raison à cette habitude bizarre chez moi — je te la raconte ce soir."
-    ]
+    ],
+    "sourceWork": "Les Hauts de Hurlevent"
   },
   {
     "actionTitle": "Sur la Chaise Où Elle S'Assoit Pour Attendre",
@@ -18196,7 +18278,8 @@
     "sexualIntensity": 1,
     "variations": [
       "T'ai attendue ici l'autre jour sans impatience — prends toujours ton temps."
-    ]
+    ],
+    "sourceWork": "Les Hauts de Hurlevent"
   },
   {
     "actionTitle": "Sur le Flacon de Parfum ou Crème",
@@ -18208,11 +18291,12 @@
       "Littéraire",
       "Douceur"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 3,
+    "sexualIntensity": 2,
     "variations": [
       "Ai essayé d'être plus doux ces derniers temps — dis-moi si tu l'as senti."
-    ]
+    ],
+    "sourceWork": "Les Hauts de Hurlevent"
   },
   {
     "actionTitle": "Sur le Plan de l'Appartement ou de la Maison",
@@ -18228,7 +18312,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Ce calme qu'on a construit ici plutôt que le grand drame, ça me convient très bien."
-    ]
+    ],
+    "sourceWork": "Les Hauts de Hurlevent"
   },
   {
     "actionTitle": "Sur le Reçu d'un Achat Anonyme",
@@ -18244,7 +18329,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Un truc généreux a été fait pour quelqu'un d'autre aujourd'hui, en secret."
-    ]
+    ],
+    "sourceWork": "Un Chant de Noël"
   },
   {
     "actionTitle": "Sur l'Objet Discrètement Amélioré Lui-même",
@@ -18260,7 +18346,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Ce petit truc que tu utilises souvent a été discrètement amélioré aujourd'hui."
-    ]
+    ],
+    "sourceWork": "Un Chant de Noël"
   },
   {
     "actionTitle": "Sur des Confettis ou Décorations Restants",
@@ -18272,11 +18359,12 @@
       "Littéraire",
       "Joie"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "On a improvisé un petit truc joyeux ce soir, sans rien de parfait, et ça a suffi."
-    ]
+    ],
+    "sourceWork": "Un Chant de Noël"
   },
   {
     "actionTitle": "Sur l'Invitation Qu'elle Avait Envoyée",
@@ -18292,7 +18380,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Ce truc que je décline toujours — cette fois j'ai accepté à fond, vraiment content."
-    ]
+    ],
+    "sourceWork": "Un Chant de Noël"
   },
   {
     "actionTitle": "Sur le Miroir de la Salle de Bain, Le Deuxième Matin",
@@ -18308,7 +18397,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Comme hier, je recommence le même geste du matin — une vraie habitude qui s'installe."
-    ]
+    ],
+    "sourceWork": "Un Chant de Noël"
   },
   {
     "actionTitle": "Sur son Sac à Main, Avant Qu'elle Ne Sorte",
@@ -18324,7 +18414,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Prends vraiment un moment pour toi si tu en as besoin — aucune question au retour."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "Sur le Réveil Réglé à la Même Heure",
@@ -18340,7 +18431,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Comme convenu, même heure que d'habitude, rien qu'à nous deux, sans exception."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "Sur une Vieille Photo d'Elle, Plus Jeune",
@@ -18356,7 +18448,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Repensant à cette période où tu étais plus folle et libre — tu t'y sens encore proche ?"
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "Sur l'Emballage Cadeau Destiné à Quelqu'un d'Autre",
@@ -18372,7 +18465,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Et si on offrait ça ensemble à quelqu'un d'autre aujourd'hui, juste pour le plaisir ?"
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "Sur le Ticket ou l'Addition de la Soirée d'Hier",
@@ -18388,7 +18482,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Content qu'on n'ait pas écourté ce moment hier soir — vraiment content, pas juste un peu."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "Sur l'Outil ou le Matériel de la Compétence en Question",
@@ -18404,7 +18499,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Ça te dit que je te montre comment on fait un de ces jours ? Je te laisse le temps."
-    ]
+    ],
+    "sourceWork": "Loin de la Foule Déchaînée"
   },
   {
     "actionTitle": "Sur la Pièce Détachée ou l'Objet Réparé",
@@ -18420,7 +18516,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Un petit truc a été réglé avant que ça n'empire aujourd'hui — c'est juste fait."
-    ]
+    ],
+    "sourceWork": "Loin de la Foule Déchaînée"
   },
   {
     "actionTitle": "Sur le Deuxième des Deux Objets Comparés",
@@ -18436,7 +18533,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Avais le choix entre plus brillant et plus solide — j'ai choisi celui-ci, je t'explique ce soir."
-    ]
+    ],
+    "sourceWork": "Loin de la Foule Déchaînée"
   },
   {
     "actionTitle": "Sur le Calendrier, Jour d'Aujourd'hui Barré",
@@ -18452,7 +18550,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Ressentais un truc fort hier — ai attendu jusqu'à aujourd'hui pour voir si ça tenait, et ça tient."
-    ]
+    ],
+    "sourceWork": "Loin de la Foule Déchaînée"
   },
   {
     "actionTitle": "Sur le Tableau des Tâches Ménagères",
@@ -18468,7 +18567,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Ce petit truc du quotidien qui te pesait a été pris en charge, sans vérification — c'est réglé."
-    ]
+    ],
+    "sourceWork": "Loin de la Foule Déchaînée"
   },
   {
     "actionTitle": "On the Kitchen Window",
@@ -18512,7 +18612,7 @@
       "Literary",
       "Playful"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Requesting a brief unofficial state-of-the-day before you drive off — no polish needed."
@@ -18545,7 +18645,7 @@
       "Depth"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Not asking about the surface today — genuinely curious what's moving underneath."
     ]
@@ -18560,8 +18660,8 @@
       "Literary",
       "Longing"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 2,
     "variations": [
       "A very specific kind of quiet here lately, shaped exactly like you not being in it."
     ]
@@ -18576,8 +18676,8 @@
       "Literary",
       "Longing"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 2,
     "variations": [
       "Everything's had more gravity to it lately — not sure how to explain except you weren't around."
     ]
@@ -18592,8 +18692,8 @@
       "Literary",
       "Longing"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 2,
     "variations": [
       "Said something out loud right here recently and it echoed back — missing you today."
     ]
@@ -18608,8 +18708,8 @@
       "Literary",
       "Longing"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 2,
     "variations": [
       "Tried to figure out how far away you were today — the usual units didn't cover it."
     ]
@@ -18624,8 +18724,8 @@
       "Literary",
       "Longing"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 2,
     "variations": [
       "Keep having half a conversation with you in my head lately — your lines are better."
     ]
@@ -18641,7 +18741,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "You've been the background hum under everything else lately, quietly there."
     ]
@@ -18657,7 +18757,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "You're the little note in the margin I keep rereading — this one's real, so are you."
     ]
@@ -18673,7 +18773,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "My thoughts keep taking the same detour lately, and it leads straight back to you."
     ]
@@ -18689,7 +18789,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "You're stuck in my head again like a song I didn't even choose to start."
     ]
@@ -18705,7 +18805,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Whatever direction my attention drifts, it ends up pointing your way, always."
     ]
@@ -18721,7 +18821,7 @@
       "Tenderness"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Turning the last light off in my head, same as this one — you're the one left on."
     ]
@@ -18737,7 +18837,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "This morning's still a rough draft — you're the first thing I wanted written in."
     ]
@@ -18753,7 +18853,7 @@
       "Tenderness"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Feeling the day pull away like a tide lately — wanted you the last thing on the shore."
     ]
@@ -18769,7 +18869,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Still a blank page before coffee — but I know which name goes on the first line."
     ]
@@ -18785,7 +18885,7 @@
       "Tenderness"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Dropping anchor for the night — wherever today drifted, this is where it lands."
     ]
@@ -18897,7 +18997,7 @@
       "Attention"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 3,
     "variations": [
       "Une petite sonde avant même que tes pieds touchent le sol — la journée en est où ?"
     ]
@@ -18912,7 +19012,7 @@
       "Littéraire",
       "Ludique"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Bulletin non officiel de la journée avant de démarrer — brouillon accepté, rien à polir."
@@ -18960,8 +19060,8 @@
       "Littéraire",
       "Manque"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 2,
     "variations": [
       "Un silence bien particulier de ce côté-là ces derniers temps, avec la forme de ton absence."
     ]
@@ -18976,8 +19076,8 @@
       "Littéraire",
       "Manque"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 4,
+    "sexualIntensity": 2,
     "variations": [
       "Tout a un peu plus de poids ces derniers temps — pas sûr de l'expliquer autrement."
     ]
@@ -18992,8 +19092,8 @@
       "Littéraire",
       "Manque"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 2,
     "variations": [
       "Ai dit un truc à voix haute ici récemment et ça m'est revenu en écho — tu me manques."
     ]
@@ -19008,8 +19108,8 @@
       "Littéraire",
       "Manque"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 4,
+    "sexualIntensity": 2,
     "variations": [
       "Ai essayé de calculer la distance aujourd'hui — les unités habituelles ne couvraient pas ça."
     ]
@@ -19024,8 +19124,8 @@
       "Littéraire",
       "Manque"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 4,
+    "sexualIntensity": 2,
     "variations": [
       "Continue d'avoir la moitié d'une conversation avec toi dans ma tête — tes répliques sont bonnes."
     ]
@@ -19041,7 +19141,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "T'as été le bruit de fond sous tout le reste ces derniers temps, tranquillement là."
     ]
@@ -19057,7 +19157,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "T'es la petite note en marge que je n'arrête pas de relire — celle-ci est vraie, toi aussi."
     ]
@@ -19073,7 +19173,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Mes pensées prennent le même détour ces derniers temps, et ça revient toujours à toi."
     ]
@@ -19089,7 +19189,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Tu tournes en boucle dans ma tête, comme une chanson que j'ai pas choisi de lancer."
     ]
@@ -19105,7 +19205,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Mon attention dérive vers toi ces derniers temps, elle finit toujours par pointer là."
     ]
@@ -19121,7 +19221,7 @@
       "Tendresse"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "J'éteins la dernière lumière pour ce soir, comme celle-ci — toi, tu restes allumée."
     ]
@@ -19137,7 +19237,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Ce matin est encore un brouillon — t'es la première chose que je voulais y écrire."
     ]
@@ -19153,7 +19253,7 @@
       "Tendresse"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Sens la journée se retirer comme une marée — voulais toi comme dernière chose sur le rivage."
     ]
@@ -19169,7 +19269,7 @@
       "Affection"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Encore une page blanche avant le café — mais je sais déjà quel nom va sur la première ligne."
     ]
@@ -19185,7 +19285,7 @@
       "Tendresse"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Jette l'ancre pour ce soir — peu importe où le courant a emmené les choses, en pensant à toi."
     ]

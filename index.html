@@ -166,11 +166,13 @@
     <div id="app" class="min-h-screen p-3 pt-[max(0.75rem,env(safe-area-inset-top))] sm:p-6 lg:p-8">
         <div class="max-w-7xl mx-auto">
 
-            <!-- Cycle Mode bar: sits above everything else so the toggle is
-                 always the first thing reachable, per the "bouton tout en
-                 haut" requirement. When enabled, only actions/SMS/post-its
-                 correlated with the current cycle phase are shown. -->
-            <div id="cycle-bar" class="bg-white p-3 sm:p-4 rounded-2xl shadow-lg border border-slate-200 mb-4 sm:mb-6">
+            <!-- Mode bar: Cycle + Literary + Language toggles, all aligned on
+                 one sticky bar at the very top (per the "bouton tout en
+                 haut" requirement), sticking the same way the Filters panel
+                 below does — see updateStickyOffsets() for how the two stay
+                 stacked without overlapping regardless of this bar's height
+                 (which varies with the cycle phase badge/date row/hint). -->
+            <div id="cycle-bar" class="bg-white p-3 sm:p-4 rounded-2xl shadow-lg border border-slate-200 mb-4 sm:mb-6 sticky top-2 sm:top-4 z-20">
                 <div class="flex flex-wrap items-center gap-3 justify-between">
                     <div class="flex flex-wrap items-center gap-2 sm:gap-3">
                         <button id="cycle-toggle-btn" type="button" role="switch" aria-checked="false" class="min-h-[44px] px-4 py-2 rounded-full font-semibold text-sm transition-colors bg-white text-slate-600 border border-slate-500 hover:bg-slate-100 hover:text-slate-800">
@@ -178,9 +180,25 @@
                         </button>
                         <span id="cycle-phase-badge" class="hidden px-3 py-1.5 rounded-full text-sm font-medium bg-purple-100 text-purple-800 border border-purple-300"></span>
                     </div>
-                    <div id="cycle-date-row" class="hidden items-center gap-2">
-                        <label for="cycle-last-period" class="text-sm font-medium text-slate-600">Dernières règles :</label>
-                        <input type="date" id="cycle-last-period" class="min-h-[44px] p-2 border border-slate-500 rounded-md shadow-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
+                    <div class="flex flex-wrap items-center gap-3">
+                        <div id="cycle-date-row" class="hidden items-center gap-2">
+                            <label for="cycle-last-period" class="text-sm font-medium text-slate-600">Dernières règles :</label>
+                            <input type="date" id="cycle-last-period" class="min-h-[44px] p-2 border border-slate-500 rounded-md shadow-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500">
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <!-- Literary filter: day/night-style switch — off
+                                 shows everything, on narrows every category
+                                 down to cards tagged "Literary"/"Littéraire". -->
+                            <button id="literary-filter-btn" type="button" aria-pressed="false" aria-label="Filtrer : cartes littéraires uniquement" title="Cartes littéraires uniquement" class="w-14 h-8 rounded-full bg-slate-300 shadow-inner flex items-center px-1 transition-colors">
+                                <span id="literary-filter-thumb" class="w-6 h-6 rounded-full bg-white shadow flex items-center justify-center text-sm leading-none transition-transform">📚</span>
+                            </button>
+                            <!-- Language filter: same switch style. Off shows
+                                 every card regardless of language; on narrows
+                                 down to the English-detected subset. -->
+                            <button id="language-filter-btn" type="button" aria-pressed="false" aria-label="Filtrer : textes en anglais uniquement" title="Textes en anglais uniquement" class="w-14 h-8 rounded-full bg-slate-300 shadow-inner flex items-center px-1 transition-colors">
+                                <span id="language-filter-thumb" class="w-6 h-6 rounded-full bg-white shadow flex items-center justify-center text-[10px] font-bold leading-none text-slate-600 transition-transform">FR</span>
+                            </button>
+                        </div>
                     </div>
                 </div>
                 <p id="cycle-no-date-hint" class="hidden mt-2 text-sm text-slate-500">Renseigne la date de tes dernières règles pour activer le filtrage par période du cycle.</p>
@@ -223,7 +241,7 @@
             <!-- Dashboard Section -->
             <main id="dashboard-section" class="hidden">
                 <!-- Filters -->
-                <div class="bg-white p-4 sm:p-6 rounded-2xl shadow-lg border border-slate-200 mb-5 sm:mb-8 sticky top-2 sm:top-4 z-10">
+                <div id="filters-panel" class="bg-white p-4 sm:p-6 rounded-2xl shadow-lg border border-slate-200 mb-5 sm:mb-8 sticky z-10">
                     <div class="flex items-center justify-between gap-2">
                         <button id="filters-toggle-btn" onclick="toggleFiltersVisibility()" aria-expanded="true" aria-controls="filters-body" class="flex items-center gap-1.5 text-left -m-1 p-1 rounded hover:text-indigo-600 min-h-[44px]">
                             <h3 class="text-lg sm:text-xl font-semibold">Filters & Sorting</h3>
@@ -316,24 +334,6 @@
          insets handled in <style>. Same click handler as the header button. -->
     <button id="surprise-fab" onclick="surpriseMe()" aria-label="Surprise me with a random suggestion" class="sm:hidden fixed z-30 w-14 h-14 rounded-full shadow-xl bg-gradient-to-r from-pink-700 to-indigo-700 text-white text-2xl flex items-center justify-center hover:brightness-90 active:scale-95 active:brightness-90 transition-transform">
         ✨
-    </button>
-
-    <!-- Literary filter: an icon-only day/night-style switch, fixed at the
-         very top of the page (not part of the scrolling content) — a small
-         pill track with a sliding thumb, exactly like a dark-mode toggle,
-         except it narrows every category down to the literary-styled cards
-         (tagged "Literary"/"Littéraire") instead of switching a theme. -->
-    <button id="literary-filter-btn" type="button" aria-pressed="false" aria-label="Filtrer : cartes littéraires uniquement" title="Cartes littéraires uniquement" class="fixed z-40 top-[max(0.6rem,env(safe-area-inset-top))] right-3 sm:right-6 w-14 h-8 rounded-full bg-slate-300 shadow-md flex items-center px-1 transition-colors">
-        <span id="literary-filter-thumb" class="w-6 h-6 rounded-full bg-white shadow flex items-center justify-center text-sm leading-none transition-transform">📚</span>
-    </button>
-
-    <!-- Language filter: same icon-only switch style, stacked right below
-         the literary one. Off (default) shows every card regardless of
-         language, same as today; on narrows down to English-only cards
-         (detected from the text itself — see detectCardLanguage() — since
-         cards don't carry an explicit language field). -->
-    <button id="language-filter-btn" type="button" aria-pressed="false" aria-label="Filtrer : textes en anglais uniquement" title="Textes en anglais uniquement" class="fixed z-40 top-[calc(max(0.6rem,env(safe-area-inset-top))+2.75rem)] right-3 sm:right-6 w-14 h-8 rounded-full bg-slate-300 shadow-md flex items-center px-1 transition-colors">
-        <span id="language-filter-thumb" class="w-6 h-6 rounded-full bg-white shadow flex items-center justify-center text-[10px] font-bold leading-none text-slate-600 transition-transform">FR</span>
     </button>
 
     <!-- Update status toast: hidden until an update check/apply is in flight or has a result to report. -->
@@ -435,6 +435,7 @@
         }
 
         // Cycle mode controls
+        const cycleBarEl = document.getElementById('cycle-bar');
         const cycleToggleBtn = document.getElementById('cycle-toggle-btn');
         const cycleToggleState = document.getElementById('cycle-toggle-state');
         const cyclePhaseBadge = document.getElementById('cycle-phase-badge');
@@ -623,6 +624,24 @@
             }
         }
 
+        /**
+         * The Filters panel below sticks right under the mode bar (Cycle +
+         * Literary + Language), the same way it already sticks under itself
+         * — but the mode bar's height isn't fixed (the cycle phase badge,
+         * date row and "no date" hint each add/remove a line), so its
+         * sticky `top` is computed here instead of a fixed Tailwind class,
+         * recomputed whenever the mode bar's content changes.
+         */
+        function updateStickyOffsets() {
+            const filtersPanel = document.getElementById('filters-panel');
+            if (!cycleBarEl || !filtersPanel) return;
+            const isDesktop = window.matchMedia('(min-width: 640px)').matches;
+            const barTop = isDesktop ? 16 : 8; // matches cycle-bar's own top-4/top-2
+            const gap = isDesktop ? 16 : 8; // matches the panel's previous top-4/top-2, reused as the gap between the two bars
+            filtersPanel.style.top = `${barTop + cycleBarEl.offsetHeight + gap}px`;
+        }
+        window.addEventListener('resize', updateStickyOffsets);
+
         function renderCycleUI() {
             const enabled = !!cycleSettings.cycleEnabled;
             cycleToggleBtn.setAttribute('aria-checked', enabled ? 'true' : 'false');
@@ -650,6 +669,7 @@
             } else {
                 cyclePhaseBadge.classList.add('hidden');
             }
+            updateStickyOffsets();
         }
 
         cycleToggleBtn.addEventListener('click', () => {
@@ -1512,6 +1532,7 @@
                         </div>
                     </div>
                     <div class="mb-5 sm:mb-6">
+                        ${action.sourceWork ? `<span class="inline-flex items-center gap-1 mb-1.5 px-2 py-0.5 rounded-full text-xs font-medium italic bg-amber-100 text-amber-900 border border-amber-300">📖 ${escapeHtml(action.sourceWork)}</span>` : ''}
                         <h4 class="text-base sm:text-lg font-semibold text-indigo-700 mb-1.5 sm:mb-2">${action.actionTitle}</h4>
                         <p class="text-slate-700 text-[15px] sm:text-base leading-relaxed ${action.isDone ? 'line-through text-slate-400' : ''}">${action.text}</p>
                     </div>

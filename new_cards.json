@@ -18206,12 +18206,13 @@
       "Romance",
       "Joy"
     ],
-    "dramaIntensity": 2,
-    "sexualIntensity": 1,
+    "dramaIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Ask her in the kitchen, unpracticed and slightly too eager, like a debut.",
       "A few days later, put the same song on and ask for one more turn."
-    ]
+    ],
+    "sourceWork": "War and Peace"
   },
   {
     "actionTitle": "The Deferred Confession",
@@ -18224,12 +18225,13 @@
       "Vulnerability",
       "Sincerity"
     ],
-    "dramaIntensity": 2,
+    "dramaIntensity": 5,
     "sexualIntensity": 1,
     "variations": [
       "Write it down today — something closer to stumbling honesty than a compliment.",
       "Say it out loud on an ordinary Tuesday, so it lands as truth, not performance."
-    ]
+    ],
+    "sourceWork": "War and Peace"
   },
   {
     "actionTitle": "The Long Campaign of Small Kindnesses",
@@ -18247,7 +18249,8 @@
     "variations": [
       "Do the small thing today without mentioning it, and repeat it for a week.",
       "On the seventh day, ask if she noticed, and explain why you stayed quiet."
-    ]
+    ],
+    "sourceWork": "War and Peace"
   },
   {
     "actionTitle": "The Wolf Hunt Nerve",
@@ -18260,12 +18263,13 @@
       "Courage",
       "Honesty"
     ],
-    "dramaIntensity": 3,
+    "dramaIntensity": 5,
     "sexualIntensity": 1,
     "variations": [
       "Do the frightening thing today with visible nerve, right in front of her.",
       "A few days after, admit honestly how afraid you actually were underneath it."
-    ]
+    ],
+    "sourceWork": "War and Peace"
   },
   {
     "actionTitle": "The Return from the Front",
@@ -18278,12 +18282,13 @@
       "Gratitude",
       "Presence"
     ],
-    "dramaIntensity": 2,
+    "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
       "Leave for a few hours as though called away, and return quiet and grateful.",
       "Days later, tell her honestly what you thought about while you were gone."
-    ]
+    ],
+    "sourceWork": "War and Peace"
   },
   {
     "actionTitle": "The Belated Letter",
@@ -18301,7 +18306,8 @@
     "variations": [
       "Write it tonight, admitting something you've been slow to say, and date it honestly.",
       "Slip it somewhere she'll find it days later, so she sees how long you waited."
-    ]
+    ],
+    "sourceWork": "Eugene Onegin"
   },
   {
     "actionTitle": "The Duel You Refuse to Fight",
@@ -18314,12 +18320,13 @@
       "Restraint",
       "Growth"
     ],
-    "dramaIntensity": 2,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "When tension rises today, de-escalate on purpose, visibly, instead of digging in.",
       "Next time tension rises, remind her gently that you're choosing this on purpose."
-    ]
+    ],
+    "sourceWork": "Eugene Onegin"
   },
   {
     "actionTitle": "Tatyana's Unanswered Letter, Answered",
@@ -18332,12 +18339,13 @@
       "Repair",
       "Attention"
     ],
-    "dramaIntensity": 2,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Ask tonight if there's something you never properly answered before.",
       "A few days later, come back with the real answer, however overdue it is."
-    ]
+    ],
+    "sourceWork": "Eugene Onegin"
   },
   {
     "actionTitle": "The Provincial Evening Made Grand",
@@ -18350,11 +18358,12 @@
       "Ceremony",
       "Romance"
     ],
-    "dramaIntensity": 2,
-    "sexualIntensity": 1,
+    "dramaIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Dress a little, light candles, treat tonight as an event for no reason."
-    ]
+    ],
+    "sourceWork": "Eugene Onegin"
   },
   {
     "actionTitle": "The Years Later Regret, Skipped",
@@ -18372,7 +18381,8 @@
     "variations": [
       "Say plainly today what she means to you, before circumstance forces it out.",
       "A few weeks later, say it again, so it becomes a habit, not a single moment."
-    ]
+    ],
+    "sourceWork": "Eugene Onegin"
   },
   {
     "actionTitle": "One More Summer in the Orchard",
@@ -18385,12 +18395,13 @@
       "Nostalgia",
       "Attention"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Mark tonight deliberately, before something familiar between you changes.",
       "A few days later, ask her what part of it she'll actually miss."
-    ]
+    ],
+    "sourceWork": "The Cherry Orchard"
   },
   {
     "actionTitle": "Lopakhin's Late Offer",
@@ -18408,7 +18419,8 @@
     "variations": [
       "Fix or improve something practical she's quietly been living with, without fanfare.",
       "A week later, check in on whether it actually helped."
-    ]
+    ],
+    "sourceWork": "The Cherry Orchard"
   },
   {
     "actionTitle": "The Sound of the Breaking String",
@@ -18422,11 +18434,12 @@
       "Intimacy"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 3,
     "variations": [
       "Sit in silence together tonight on purpose, no phones, no talk, just present.",
       "Days later, ask her what she was thinking about during that silence."
-    ]
+    ],
+    "sourceWork": "The Cherry Orchard"
   },
   {
     "actionTitle": "The Auction Averted",
@@ -18439,12 +18452,13 @@
       "Foresight",
       "Care"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Quietly resolve one small looming problem today before it becomes a crisis.",
       "A few days later, tell her you saw it coming and chose to act instead of wait."
-    ]
+    ],
+    "sourceWork": "The Cherry Orchard"
   },
   {
     "actionTitle": "Anya's Hopeful Exit",
@@ -18462,7 +18476,8 @@
     "variations": [
       "Propose one small concrete change tonight, spoken with stubborn hope.",
       "A week later, follow through on it together, so the hope becomes a habit."
-    ]
+    ],
+    "sourceWork": "The Cherry Orchard"
   },
   {
     "actionTitle": "The Station Platform",
@@ -18475,12 +18490,13 @@
       "Attention",
       "Presence"
     ],
-    "dramaIntensity": 2,
+    "dramaIntensity": 1,
     "sexualIntensity": 1,
     "variations": [
       "Meet her today with full attention, nothing else on your mind, fully present.",
       "A few days later, do it again, proving it wasn't just a one-time performance."
-    ]
+    ],
+    "sourceWork": "Anna Karenina"
   },
   {
     "actionTitle": "Levin's Late Understanding",
@@ -18498,7 +18514,8 @@
     "variations": [
       "Ask her today to explain something about her inner life you've never understood.",
       "Days later, show her through a concrete change that you absorbed the answer."
-    ]
+    ],
+    "sourceWork": "Anna Karenina"
   },
   {
     "actionTitle": "Kitty's Quiet Steadiness",
@@ -18515,7 +18532,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Be the steady, undramatic presence today during a small crisis, no drama."
-    ]
+    ],
+    "sourceWork": "Anna Karenina"
   },
   {
     "actionTitle": "The Ball Gown Reconsidered",
@@ -18528,12 +18546,13 @@
       "Compliment",
       "Depth"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 5,
+    "sexualIntensity": 2,
     "variations": [
       "Tell her tonight what you find beautiful that has nothing to do with looks.",
       "A few days later, say a second, different thing, so it doesn't feel rehearsed."
-    ]
+    ],
+    "sourceWork": "Anna Karenina"
   },
   {
     "actionTitle": "The Confession on the Train",
@@ -18546,12 +18565,13 @@
       "Honesty",
       "Accountability"
     ],
-    "dramaIntensity": 2,
+    "dramaIntensity": 5,
     "sexualIntensity": 1,
     "variations": [
       "Tell her today one honest, slightly uncomfortable truth about how you feel.",
       "A few days later, ask her how she felt hearing it, and really listen."
-    ]
+    ],
+    "sourceWork": "Anna Karenina"
   },
   {
     "actionTitle": "The Elder's Question",
@@ -18565,11 +18585,12 @@
       "Depth"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Ask her tonight one genuinely searching question about what matters most.",
       "A few days later, bring it up again, showing it actually stayed with you."
-    ]
+    ],
+    "sourceWork": "The Brothers Karamazov"
   },
   {
     "actionTitle": "Alyosha's Unjudging Ear",
@@ -18587,7 +18608,8 @@
     "variations": [
       "When she vents today, listen without judgment, without rushing to fix it.",
       "Days later, ask how that situation resolved, showing you didn't forget."
-    ]
+    ],
+    "sourceWork": "The Brothers Karamazov"
   },
   {
     "actionTitle": "The Grand Inquisitor's Silence",
@@ -18600,12 +18622,13 @@
       "Restraint",
       "Respect"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Resist arguing today, and simply let her finish completely, without pushing back.",
       "A few days later, tell her why you chose to stay quiet that time."
-    ]
+    ],
+    "sourceWork": "The Brothers Karamazov"
   },
   {
     "actionTitle": "Dmitri's Reckless Devotion",
@@ -18618,12 +18641,13 @@
       "Devotion",
       "Balance"
     ],
-    "dramaIntensity": 2,
-    "sexualIntensity": 1,
+    "dramaIntensity": 3,
+    "sexualIntensity": 2,
     "variations": [
       "Do something a little reckless and wholehearted for her today.",
       "A few days later, do something quieter and steadier, showing both sides."
-    ]
+    ],
+    "sourceWork": "The Brothers Karamazov"
   },
   {
     "actionTitle": "The Confession Ivan Withholds",
@@ -18636,12 +18660,13 @@
       "Honesty",
       "Courage"
     ],
-    "dramaIntensity": 2,
+    "dramaIntensity": 5,
     "sexualIntensity": 1,
     "variations": [
       "Say tonight the thing you've been withholding out of pride or fear.",
       "A few days later, ask plainly if it changed anything, and listen to the answer."
-    ]
+    ],
+    "sourceWork": "The Brothers Karamazov"
   },
   {
     "actionTitle": "Pemberley's Quiet Hour",
@@ -18654,12 +18679,13 @@
       "Pride",
       "Vulnerability"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Show her something you're quietly proud of today, without boasting.",
       "Days later, ask what she actually thought of it, and really want the answer."
-    ]
+    ],
+    "sourceWork": "Pride and Prejudice"
   },
   {
     "actionTitle": "The Letter That Explains Everything",
@@ -18672,12 +18698,13 @@
       "Letter",
       "Accountability"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Write it tonight, calmly and fully, correcting the record without excuses.",
       "Leave it somewhere she'll find it in a day or two, giving her time alone first."
-    ]
+    ],
+    "sourceWork": "Pride and Prejudice"
   },
   {
     "actionTitle": "The Second Proposal",
@@ -18695,7 +18722,8 @@
     "variations": [
       "Ask her something important again today, humbler and wiser than before.",
       "A few days later, ask if it really did feel different from the first time."
-    ]
+    ],
+    "sourceWork": "Pride and Prejudice"
   },
   {
     "actionTitle": "Mr. Bennet's Library Retreat, Interrupted",
@@ -18712,7 +18740,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Invite her today into the quiet corner you usually keep to yourself."
-    ]
+    ],
+    "sourceWork": "Pride and Prejudice"
   },
   {
     "actionTitle": "The Assembly Room Redeemed",
@@ -18725,12 +18754,13 @@
       "Warmth",
       "Honesty"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Go out of your way to be warm tonight, somewhere you'd normally hold back.",
       "A few days later, admit honestly that you had to work at it."
-    ]
+    ],
+    "sourceWork": "Pride and Prejudice"
   },
   {
     "actionTitle": "The Moor Beyond the Window",
@@ -18743,12 +18773,13 @@
       "Intensity",
       "Honesty"
     ],
-    "dramaIntensity": 2,
-    "sexualIntensity": 1,
+    "dramaIntensity": 5,
+    "sexualIntensity": 2,
     "variations": [
       "Take her somewhere wild and open today, and say something true, unsoftened.",
       "A few days later, ask if she'd want to go back there with you."
-    ]
+    ],
+    "sourceWork": "Wuthering Heights"
   },
   {
     "actionTitle": "The Love That Outlasts the Grave, Made Livable",
@@ -18761,12 +18792,13 @@
       "Intensity",
       "Devotion"
     ],
-    "dramaIntensity": 2,
-    "sexualIntensity": 1,
+    "dramaIntensity": 5,
+    "sexualIntensity": 2,
     "variations": [
       "Tell her tonight something about your devotion that feels almost too intense to say.",
       "Days later, show the same intensity in something small and steady."
-    ]
+    ],
+    "sourceWork": "Wuthering Heights"
   },
   {
     "actionTitle": "Lockwood's Overheard Ghost",
@@ -18784,7 +18816,8 @@
     "variations": [
       "Gently bring up something old between you that still lingers unresolved today.",
       "A few days later, follow up on whatever she said, so it isn't buried again."
-    ]
+    ],
+    "sourceWork": "Wuthering Heights"
   },
   {
     "actionTitle": "Nelly's Steady Witness",
@@ -18801,7 +18834,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Be the steady, unglamorous support in something small today, no drama."
-    ]
+    ],
+    "sourceWork": "Wuthering Heights"
   },
   {
     "actionTitle": "The Name Carved Into Something Lasting",
@@ -18815,11 +18849,12 @@
       "Secret"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 2,
     "variations": [
       "Mark something small and lasting with a private reference to her today.",
       "Days later, show her, and tell her what it means to you."
-    ]
+    ],
+    "sourceWork": "Wuthering Heights"
   },
   {
     "actionTitle": "The Ledger Rewritten",
@@ -18837,7 +18872,8 @@
     "variations": [
       "Correct one small stingy habit of yours today, with time or attention.",
       "A few days later, ask if she's noticed anything different, without explaining."
-    ]
+    ],
+    "sourceWork": "A Christmas Carol"
   },
   {
     "actionTitle": "The Ghost of an Old Christmas",
@@ -18850,12 +18886,13 @@
       "Nostalgia",
       "Romance"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 2,
     "variations": [
       "Bring up a good early memory tonight, in loving, vivid detail.",
       "A few days later, recreate one small piece of that memory together."
-    ]
+    ],
+    "sourceWork": "A Christmas Carol"
   },
   {
     "actionTitle": "Tiny Tim's Unforced Gratitude",
@@ -18873,7 +18910,8 @@
     "variations": [
       "Thank her today for something specific and small that usually goes unremarked.",
       "Days later, thank her for a second, different small thing, on purpose."
-    ]
+    ],
+    "sourceWork": "A Christmas Carol"
   },
   {
     "actionTitle": "The Christmas Yet to Come, Chosen Instead",
@@ -18886,12 +18924,13 @@
       "Future",
       "Hope"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Describe honestly tonight one future you'd love to build with her.",
       "A few weeks later, take one concrete small step toward that future together."
-    ]
+    ],
+    "sourceWork": "A Christmas Carol"
   },
   {
     "actionTitle": "Fezziwig's Unnecessary Party",
@@ -18909,7 +18948,8 @@
     "variations": [
       "Throw together something small and joyful tonight, for no reason at all.",
       "A few days later, do a smaller version again, just because."
-    ]
+    ],
+    "sourceWork": "A Christmas Carol"
   },
   {
     "actionTitle": "The Flowers She Would Buy Herself",
@@ -18927,7 +18967,8 @@
     "variations": [
       "Notice and name today one small ordinary pleasure she gives herself.",
       "Days later, add to it rather than replacing it, respecting her independence."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "The Party That Isn't for Show",
@@ -18940,11 +18981,12 @@
       "Connection",
       "Sincerity"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Host or arrange something small tonight, purely because gathering matters."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "The Single Day Made Whole",
@@ -18961,7 +19003,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Give one entire day today your full, present attention, unbroken."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "Septimus's Unspoken Weight",
@@ -18979,7 +19022,8 @@
     "variations": [
       "Ask her gently today if there's a weight she's been carrying quietly.",
       "Days later, check in again specifically about that same thing."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "Peter Walsh's Better Return",
@@ -18992,12 +19036,13 @@
       "Repair",
       "Maturity"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Revisit a small old tension honestly today, without bitterness, just clarity.",
       "A few days later, ask if raising it changed anything between you."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "The Valentine Sent in Jest, Meant",
@@ -19015,7 +19060,8 @@
     "variations": [
       "Send her something small and playful today, but mean every word of it.",
       "Days later, tell her plainly that it wasn't a joke."
-    ]
+    ],
+    "sourceWork": "Far from the Madding Crowd"
   },
   {
     "actionTitle": "Gabriel Oak's Quiet Constancy",
@@ -19032,7 +19078,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Do something steady and useful for her today, without asking for credit."
-    ]
+    ],
+    "sourceWork": "Far from the Madding Crowd"
   },
   {
     "actionTitle": "The Storm Weathered Together",
@@ -19050,7 +19097,8 @@
     "variations": [
       "When a small stressful moment hits today, stay calm and work it with her.",
       "Afterward, tell her you noticed how well you worked together as a team."
-    ]
+    ],
+    "sourceWork": "Far from the Madding Crowd"
   },
   {
     "actionTitle": "Boldwood's Warning, Heeded",
@@ -19063,12 +19111,13 @@
       "Self-awareness",
       "Honesty"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 5,
     "sexualIntensity": 1,
     "variations": [
       "Notice today if you're fixating unhealthily on a reaction from her, and let it go.",
       "Days later, tell her honestly that you caught yourself doing it."
-    ]
+    ],
+    "sourceWork": "Far from the Madding Crowd"
   },
   {
     "actionTitle": "The Wedding Ring Bought Twice",
@@ -19086,7 +19135,8 @@
     "variations": [
       "Revisit a promise you made a while ago today and reaffirm it deliberately.",
       "A few days later, back it up with one concrete action that proves it."
-    ]
+    ],
+    "sourceWork": "Far from the Madding Crowd"
   },
   {
     "actionTitle": "La Première Neige",
@@ -19103,7 +19153,8 @@
     "variations": [
       "Propose une marche improvisée dehors à la première vraie fraîcheur, sans but précis.",
       "Quelques jours plus tard, redemande une marche similaire, pour que ça ne soit pas isolé."
-    ]
+    ],
+    "sourceWork": "Guerre et Paix"
   },
   {
     "actionTitle": "Le Compte Rendu du Soir",
@@ -19115,12 +19166,13 @@
       "Littéraire",
       "Vulnérabilité"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 5,
     "sexualIntensity": 1,
     "variations": [
       "Raconte-lui ce soir un moment de ta journée que tu gardes normalement pour toi.",
       "Quelques jours plus tard, demande-lui de faire pareil, et écoute vraiment."
-    ]
+    ],
+    "sourceWork": "Guerre et Paix"
   },
   {
     "actionTitle": "Le Renoncement Discret",
@@ -19132,11 +19184,12 @@
       "Littéraire",
       "Générosité"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Renonce aujourd'hui sans le dire à quelque chose que tu voulais faire pour elle."
-    ]
+    ],
+    "sourceWork": "Guerre et Paix"
   },
   {
     "actionTitle": "Le Courage du Matin",
@@ -19148,12 +19201,13 @@
       "Littéraire",
       "Courage"
     ],
-    "dramaIntensity": 2,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Fais demain matin une chose que tu repousses depuis un moment, sans trop réfléchir.",
       "Le soir même, raconte-lui comment ça s'est vraiment passé, sans enjoliver."
-    ]
+    ],
+    "sourceWork": "Guerre et Paix"
   },
   {
     "actionTitle": "La Table Laissée Ouverte",
@@ -19170,7 +19224,8 @@
     "variations": [
       "Laisse ce soir une vraie question sans réponse, pour lui laisser le temps d'y penser.",
       "Le lendemain, reviens dessus calmement, ensemble."
-    ]
+    ],
+    "sourceWork": "Guerre et Paix"
   },
   {
     "actionTitle": "Le Rêve de Tatiana",
@@ -19186,7 +19241,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Demande-lui ce soir de te raconter un rêve récent, en détail, sans te moquer."
-    ]
+    ],
+    "sourceWork": "Eugène Onéguine"
   },
   {
     "actionTitle": "Le Bal de Province, Sans Ironie",
@@ -19202,7 +19258,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Participe ce soir sans ironie à quelque chose qu'elle aime et que tu trouves ennuyeux."
-    ]
+    ],
+    "sourceWork": "Eugène Onéguine"
   },
   {
     "actionTitle": "Le Duel Jamais Provoqué",
@@ -19214,11 +19271,12 @@
       "Littéraire",
       "Retenue"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Garde aujourd'hui pour toi une pique qui te viendrait, plutôt que de la lâcher."
-    ]
+    ],
+    "sourceWork": "Eugène Onéguine"
   },
   {
     "actionTitle": "La Lettre Jamais Envoyée",
@@ -19230,12 +19288,13 @@
       "Littéraire",
       "Sincérité"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 2,
     "variations": [
       "Écris ce soir une lettre entière sur ce que tu ressens, sans la donner tout de suite.",
       "Dans quelques jours, dis-lui que tu as écrit quelque chose, sans forcer à le montrer."
-    ]
+    ],
+    "sourceWork": "Eugène Onéguine"
   },
   {
     "actionTitle": "Le Refus Poli, Retenu",
@@ -19247,11 +19306,12 @@
       "Littéraire",
       "Générosité"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Accepte aujourd'hui quelque chose que tu préférerais éviter, de bonne grâce."
-    ]
+    ],
+    "sourceWork": "Eugène Onéguine"
   },
   {
     "actionTitle": "La Malle Jamais Fermée",
@@ -19267,7 +19327,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Commence aujourd'hui, même modestement, quelque chose que tu remets sans cesse."
-    ]
+    ],
+    "sourceWork": "La Cerisaie"
   },
   {
     "actionTitle": "Le Billard de Gaïev",
@@ -19283,7 +19344,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Fais ce soir un petit geste concret qui résout un peu un problème, sans discourir."
-    ]
+    ],
+    "sourceWork": "La Cerisaie"
   },
   {
     "actionTitle": "Le Chant de Firs",
@@ -19299,7 +19361,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Prends soin aujourd'hui d'une petite chose ancienne et négligée entre vous."
-    ]
+    ],
+    "sourceWork": "La Cerisaie"
   },
   {
     "actionTitle": "La Dette Payée en Secret",
@@ -19311,11 +19374,12 @@
       "Littéraire",
       "Responsabilité"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Règle aujourd'hui discrètement une petite dette ou un service que tu dois depuis un moment."
-    ]
+    ],
+    "sourceWork": "La Cerisaie"
   },
   {
     "actionTitle": "La Nouvelle Adresse",
@@ -19331,7 +19395,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Proposez ce soir ensemble une toute petite nouveauté dans votre quotidien."
-    ]
+    ],
+    "sourceWork": "La Cerisaie"
   },
   {
     "actionTitle": "La Fenaison de Lévine",
@@ -19347,7 +19412,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Fais avec elle aujourd'hui quelque chose de physique et concret jusqu'à la fatigue."
-    ]
+    ],
+    "sourceWork": "Anna Karénine"
   },
   {
     "actionTitle": "Le Rouge à Lèvres de Kitty",
@@ -19363,7 +19429,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Remarque et complimente aujourd'hui un tout petit changement chez elle."
-    ]
+    ],
+    "sourceWork": "Anna Karénine"
   },
   {
     "actionTitle": "Le Cheval Épuisé de Vronski",
@@ -19375,11 +19442,12 @@
       "Littéraire",
       "Conscience de soi"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 2,
     "sexualIntensity": 1,
     "variations": [
       "Ralentis aujourd'hui volontairement sur quelque chose que tu pousses habituellement trop fort."
-    ]
+    ],
+    "sourceWork": "Anna Karénine"
   },
   {
     "actionTitle": "Le Comice Agricole",
@@ -19391,11 +19459,12 @@
       "Littéraire",
       "Fierté"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 3,
+    "sexualIntensity": 2,
     "variations": [
       "Montre-lui ce week-end avec fierté quelque chose que tu sais bien faire."
-    ]
+    ],
+    "sourceWork": "Anna Karénine"
   },
   {
     "actionTitle": "Le Silence de la Voiture de Train",
@@ -19411,7 +19480,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Passe un moment côte à côte aujourd'hui sans obligation de parler."
-    ]
+    ],
+    "sourceWork": "Anna Karénine"
   },
   {
     "actionTitle": "L'Oignon de la Vieille Femme",
@@ -19427,7 +19497,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Fais aujourd'hui un tout petit geste de générosité envers un inconnu, même minuscule."
-    ]
+    ],
+    "sourceWork": "Les Frères Karamazov"
   },
   {
     "actionTitle": "Le Pas de Côté de Mitia",
@@ -19439,11 +19510,12 @@
       "Littéraire",
       "Maîtrise"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Fais aujourd'hui un pas de côté physique si la colère monte pour une broutille."
-    ]
+    ],
+    "sourceWork": "Les Frères Karamazov"
   },
   {
     "actionTitle": "Le Baiser Silencieux",
@@ -19456,10 +19528,11 @@
       "Tendresse"
     ],
     "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "sexualIntensity": 4,
     "variations": [
       "Choisis ce soir de répondre à une tension par un geste tendre plutôt qu'un dernier mot."
-    ]
+    ],
+    "sourceWork": "Les Frères Karamazov"
   },
   {
     "actionTitle": "La Confiance d'Aliocha",
@@ -19475,7 +19548,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Confie-lui aujourd'hui une petite responsabilité que tu gères habituellement seul."
-    ]
+    ],
+    "sourceWork": "Les Frères Karamazov"
   },
   {
     "actionTitle": "La Question de l'Enfant",
@@ -19487,11 +19561,12 @@
       "Littéraire",
       "Honnêteté"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Pose-lui aujourd'hui une question simple et presque naïve sur un sujet habituellement évité."
-    ]
+    ],
+    "sourceWork": "Les Frères Karamazov"
   },
   {
     "actionTitle": "La Première Danse Refusée",
@@ -19507,7 +19582,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Accepte aujourd'hui quelque chose que tu aurais décliné par simple réflexe de réserve."
-    ]
+    ],
+    "sourceWork": "Orgueil et Préjugés"
   },
   {
     "actionTitle": "Le Portrait Bien Jugé",
@@ -19519,11 +19595,12 @@
       "Littéraire",
       "Honnêteté"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 4,
     "sexualIntensity": 1,
     "variations": [
       "Dis-lui ce soir honnêtement une chose que tu as mal jugée à son sujet au début."
-    ]
+    ],
+    "sourceWork": "Orgueil et Préjugés"
   },
   {
     "actionTitle": "La Dot de Charlotte",
@@ -19539,7 +19616,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Choisis aujourd'hui ce qui vous rend heureux plutôt que la solution la plus pratique."
-    ]
+    ],
+    "sourceWork": "Orgueil et Préjugés"
   },
   {
     "actionTitle": "La Lettre de Jane, Enfin Lue",
@@ -19555,7 +19633,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Relis aujourd'hui vraiment un message qu'elle t'a fait récemment, avec plus d'attention."
-    ]
+    ],
+    "sourceWork": "Orgueil et Préjugés"
   },
   {
     "actionTitle": "Le Piano de Mary",
@@ -19571,7 +19650,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Encourage-la sincèrement aujourd'hui dans quelque chose qu'elle fait sans grand talent mais avec plaisir."
-    ]
+    ],
+    "sourceWork": "Orgueil et Préjugés"
   },
   {
     "actionTitle": "Les Marges du Livre de Prières",
@@ -19583,11 +19663,12 @@
       "Littéraire",
       "Intimité"
     ],
-    "dramaIntensity": 1,
-    "sexualIntensity": 1,
+    "dramaIntensity": 2,
+    "sexualIntensity": 3,
     "variations": [
       "Écris aujourd'hui une pensée honnête en marge de quelque chose qu'elle utilise tous les jours."
-    ]
+    ],
+    "sourceWork": "Les Hauts de Hurlevent"
   },
   {
     "actionTitle": "La Cicatrice Jamais Expliquée",
@@ -19599,11 +19680,12 @@
       "Littéraire",
       "Vulnérabilité"
     ],
-    "dramaIntensity": 2,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Raconte-lui ce soir l'origine d'une petite habitude ou peur que tu n'as jamais expliquée."
-    ]
+    ],
+    "sourceWork": "Les Hauts de Hurlevent"
   },
   {
     "actionTitle": "Le Chien Fidèle à la Porte",
@@ -19619,7 +19701,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Attends-la aujourd'hui quelque part avec une patience totale, même si elle est en retard."
-    ]
+    ],
+    "sourceWork": "Les Hauts de Hurlevent"
   },
   {
     "actionTitle": "Le Nouveau Maître de Thrushcross Grange",
@@ -19635,7 +19718,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Adoucis aujourd'hui délibérément un comportement un peu rude que tu as pris l'habitude d'avoir."
-    ]
+    ],
+    "sourceWork": "Les Hauts de Hurlevent"
   },
   {
     "actionTitle": "Le Second Mariage de Cathy",
@@ -19651,7 +19735,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Choisis aujourd'hui consciemment le confort et la stabilité plutôt que le drame."
-    ]
+    ],
+    "sourceWork": "Les Hauts de Hurlevent"
   },
   {
     "actionTitle": "La Dinde du Lendemain",
@@ -19667,7 +19752,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Organise demain en secret quelque chose de généreux pour quelqu'un d'autre que vous deux."
-    ]
+    ],
+    "sourceWork": "Un Chant de Noël"
   },
   {
     "actionTitle": "Le Bureau de Bob Cratchit, Chauffé",
@@ -19683,7 +19769,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Améliore aujourd'hui discrètement le confort de quelque chose qu'elle utilise souvent sans se plaindre."
-    ]
+    ],
+    "sourceWork": "Un Chant de Noël"
   },
   {
     "actionTitle": "Le Bal de Fezziwig, Version Réduite",
@@ -19699,7 +19786,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Improvise ce soir une petite fête légère pour absolument aucune raison sérieuse."
-    ]
+    ],
+    "sourceWork": "Un Chant de Noël"
   },
   {
     "actionTitle": "Le Neveu Jamais Refusé Deux Fois",
@@ -19715,7 +19803,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Accepte aujourd'hui sans hésiter une invitation que tu déclines habituellement par réflexe."
-    ]
+    ],
+    "sourceWork": "Un Chant de Noël"
   },
   {
     "actionTitle": "Le Réveil Différent",
@@ -19731,7 +19820,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Change demain matin consciemment ta façon de commencer la journée avec elle."
-    ]
+    ],
+    "sourceWork": "Un Chant de Noël"
   },
   {
     "actionTitle": "La Traversée du Parc, Seule",
@@ -19747,7 +19837,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Encourage-la aujourd'hui à prendre un moment vraiment seule, sans autre but que de marcher."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "L'Horloge de Big Ben",
@@ -19759,11 +19850,12 @@
       "Littéraire",
       "Rituel"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Marque aujourd'hui un moment précis de la journée comme rien qu'à vous deux, à heure fixe."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "La Robe Verte de Sally",
@@ -19779,7 +19871,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Complimente-la aujourd'hui sur quelque chose qui te rappelle une liberté qu'elle avait avant."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "Les Fleurs Achetées pour Quelqu'un d'Autre",
@@ -19795,7 +19888,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Offrez aujourd'hui quelque chose de petit ensemble à quelqu'un d'autre que vous deux."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "La Fête Qui Se Termine Tard",
@@ -19811,7 +19905,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Ne pressez pas ce soir la fin d'un bon moment ensemble, laissez-le durer plus longtemps."
-    ]
+    ],
+    "sourceWork": "Mrs Dalloway"
   },
   {
     "actionTitle": "Le Jour de la Tonte",
@@ -19827,7 +19922,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Montre-lui aujourd'hui en détail une compétence précise que tu maîtrises, avec fierté tranquille."
-    ]
+    ],
+    "sourceWork": "Loin de la Foule Déchaînée"
   },
   {
     "actionTitle": "Le Feu de Meule Éteint à Temps",
@@ -19843,7 +19939,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Remarque et règle aujourd'hui un petit problème avant qu'il ne s'aggrave, sans en faire une affaire."
-    ]
+    ],
+    "sourceWork": "Loin de la Foule Déchaînée"
   },
   {
     "actionTitle": "Le Mauvais Choix de Troy",
@@ -19859,7 +19956,8 @@
     "sexualIntensity": 1,
     "variations": [
       "Choisis aujourd'hui l'option moins tape-à-l'œil mais plus solide, si l'attrait facile se présente."
-    ]
+    ],
+    "sourceWork": "Loin de la Foule Déchaînée"
   },
   {
     "actionTitle": "La Lettre Jamais Envoyée de Boldwood",
@@ -19871,11 +19969,12 @@
       "Littéraire",
       "Réflexion"
     ],
-    "dramaIntensity": 1,
+    "dramaIntensity": 3,
     "sexualIntensity": 1,
     "variations": [
       "Attends ce soir un jour avant d'exprimer quelque chose de fort que tu ressens."
-    ]
+    ],
+    "sourceWork": "Loin de la Foule Déchaînée"
   },
   {
     "actionTitle": "La Ferme Reprise en Main",
@@ -19891,6 +19990,7 @@
     "sexualIntensity": 1,
     "variations": [
       "Prends en charge aujourd'hui, sans qu'on te le demande, une petite chose qui semble lui peser."
-    ]
+    ],
+    "sourceWork": "Loin de la Foule Déchaînée"
   }
 ]
