@@ -2,6 +2,7 @@
 import hashlib
 import json
 import os
+import shutil
 import sqlite3
 import sys
 import threading
@@ -469,6 +470,50 @@ def serve_static(path):
     """Serves other static files (not strictly needed with default config but good practice)."""
     return send_from_directory(app.static_folder, path)
 
+# --- AUTOMATIC DATABASE BACKUP ---
+# database.db (the user's actual progress) lives only inside this install's
+# own folder. On Termux specifically that folder has turned out to not be as
+# safe as assumed: an Android "clear cache" action on the Termux app can, on
+# some versions/OEMs, wipe the whole $HOME instead of just a cache partition
+# — which is exactly what happened once already. Copying the database out to
+# the phone's shared storage (outside Termux's own private storage) means a
+# repeat of that no longer erases progress a second time. This is entirely
+# best-effort: if shared storage isn't set up (`termux-setup-storage` never
+# run) or this isn't Termux at all, it just silently does nothing rather than
+# ever affecting the running app.
+BACKUP_DIR = os.path.expanduser("~/storage/shared/SpiceappBackups")
+BACKUP_INTERVAL_SECONDS = 60 * 60  # also re-backed-up hourly for long-running sessions, not just on launch
+BACKUP_KEEP_COUNT = 10  # rotate old backups so this doesn't grow forever
+
+def _backup_database_once():
+    if not os.path.isfile(DB_PATH):
+        return
+    shared_storage_root = os.path.dirname(BACKUP_DIR)
+    if not os.path.isdir(shared_storage_root):
+        return  # shared storage not available/mounted — nothing to do
+    try:
+        os.makedirs(BACKUP_DIR, exist_ok=True)
+        timestamp = time.strftime("%Y%m%d_%H%M%S")
+        dest = os.path.join(BACKUP_DIR, f"database_{timestamp}.db")
+        shutil.copy2(DB_PATH, dest)
+        backups = sorted(
+            f for f in os.listdir(BACKUP_DIR)
+            if f.startswith("database_") and f.endswith(".db")
+        )
+        for stale in backups[:-BACKUP_KEEP_COUNT]:
+            try:
+                os.remove(os.path.join(BACKUP_DIR, stale))
+            except OSError:
+                pass
+        print(f"   - Database backed up to {dest}")
+    except OSError as e:
+        print(f"   - Database backup skipped (couldn't write to shared storage: {e})")
+
+def _backup_loop():
+    while True:
+        _backup_database_once()
+        time.sleep(BACKUP_INTERVAL_SECONDS)
+
 # --- MAIN EXECUTION ---
 
 if __name__ == '__main__':
@@ -504,4 +549,5 @@ if __name__ == '__main__':
             print(f"   - Port 5000 still in use (attempt {attempt}/{max_attempts}), retrying in 1s…")
             time.sleep(1)
 
+    threading.Thread(target=_backup_loop, daemon=True).start()
     _httpd.serve_forever()
