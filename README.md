@@ -40,6 +40,24 @@ python server.py
 
 Then open http://127.0.0.1:5000
 
+### Termux/Android — optional semantic search
+
+Search works fully without this — it's an extra layer (meaning-based,
+cross-lingual matching, e.g. "salut" finding purely-English cards) on top of
+the substring/mood/fuzzy search that always works. It needs `onnxruntime`,
+which has no PyPI wheel for Android, and `sentencepiece`, which needs build
+tools to compile there:
+
+```
+pkg install python-onnxruntime cmake clang make
+pip install -r requirements.txt
+```
+
+The first server start after that downloads a ~120MB model in the
+background (one time only) and builds its search index; until that
+finishes, this layer just contributes nothing, same as if it weren't
+installed at all.
+
 ## Updating
 
 Click **Update** in the app. It checks this repo for changed files, downloads

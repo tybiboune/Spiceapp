@@ -403,6 +403,167 @@ def smart_search():
 
     return jsonify({"ids": list(matched)[:SMART_SEARCH_LIMIT]})
 
+# --- SEMANTIC SEARCH (optional — meaning-based, cross-lingual) ---
+# The word-level smart search above can never bridge two languages that
+# share no vocabulary at all ("hello" vs. "salut"): it needs the curated
+# MOOD_CATEGORIES synonym lists on the frontend to do that. This layer
+# instead embeds every card's text into a vector that captures *meaning*
+# (via a small multilingual sentence-embedding model), so a French query
+# can land on a purely-English card with zero words in common, purely
+# because they mean the same thing — confirmed on real content ("tu me
+# manques" vs. an English card about missing someone: 0.55-0.6 cosine
+# similarity; unrelated cards: 0.15-0.3).
+#
+# This entire feature is optional and additive:
+# - onnxruntime has no PyPI wheel for Android/Termux (only glibc builds) —
+#   it must come from `pkg install python-onnxruntime` there, not pip.
+# - The model (~120MB) is downloaded on first run, once, in the background;
+#   until that finishes the endpoint just reports itself unavailable.
+# - Any failure anywhere in this block (missing libs, failed download,
+#   corrupt model) leaves `_semantic_state["ready"]` False forever, and the
+#   rest of search (substring/mood/fuzzy) works completely unaffected.
+MODEL_DIR = os.path.join(BASE_DIR, "models")
+SEMANTIC_MODEL_BASE_URL = "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/resolve/main"
+SEMANTIC_SPM_FILENAME = "sentencepiece.bpe.model"
+# Despite the "arm64" name this is just an int8-quantized ONNX export — it
+# runs correctly on any CPU (verified on x86_64 too), the name just reflects
+# which platform Hugging Face benchmarked it for.
+SEMANTIC_ONNX_FILENAME = "model_qint8_arm64.onnx"
+SEMANTIC_SCORE_THRESHOLD = 0.45  # cosine similarity cutoff — tune once more real queries are gathered
+SEMANTIC_RESULT_LIMIT = 60
+SEMANTIC_BATCH_SIZE = 32
+
+try:
+    import onnxruntime as _ort
+    import sentencepiece as _spm
+    import numpy as _np
+    _SEMANTIC_LIBS_AVAILABLE = True
+except ImportError:
+    _SEMANTIC_LIBS_AVAILABLE = False
+
+_semantic_state = {
+    "ready": False,           # model downloaded AND loaded into memory
+    "sp": None,
+    "session": None,
+    "index_version": None,    # _db_version() this ids/vectors pair was built from
+    "ids": [],
+    "vectors": None,          # (N, dim) float32, L2-normalized rows
+}
+
+def _semantic_model_paths():
+    return (
+        os.path.join(MODEL_DIR, SEMANTIC_SPM_FILENAME),
+        os.path.join(MODEL_DIR, SEMANTIC_ONNX_FILENAME),
+    )
+
+def _load_semantic_model():
+    spm_path, onnx_path = _semantic_model_paths()
+    if not (os.path.isfile(spm_path) and os.path.isfile(onnx_path)):
+        return
+    _semantic_state["sp"] = _spm.SentencePieceProcessor(model_file=spm_path)
+    _semantic_state["session"] = _ort.InferenceSession(onnx_path, providers=["CPUExecutionProvider"])
+    _semantic_state["ready"] = True
+    print("   - Semantic search model loaded.")
+
+def _download_semantic_model():
+    """One-time ~120MB download, run in a background thread at startup.
+    Downloads to a .part file first and renames on success, so a crash or
+    interrupted download never leaves a corrupt file that looks complete."""
+    if not _SEMANTIC_LIBS_AVAILABLE:
+        return
+    try:
+        os.makedirs(MODEL_DIR, exist_ok=True)
+        spm_path, onnx_path = _semantic_model_paths()
+        for remote_name, local_path in [
+            (SEMANTIC_SPM_FILENAME, spm_path),
+            (f"onnx/{SEMANTIC_ONNX_FILENAME}", onnx_path),
+        ]:
+            if os.path.isfile(local_path):
+                continue
+            tmp_path = local_path + ".part"
+            urllib.request.urlretrieve(f"{SEMANTIC_MODEL_BASE_URL}/{remote_name}", tmp_path)
+            os.replace(tmp_path, local_path)
+        _load_semantic_model()
+        if _semantic_state["ready"]:
+            _build_semantic_index()
+    except Exception as e:
+        print(f"   - Semantic search unavailable (model download/load failed): {e}")
+
+def _semantic_embed(texts):
+    """Batched mean-pooled sentence embeddings, L2-normalized. Batching (not
+    one-by-one) matters at index-build time: ~4000 cards one at a time is
+    slow purely from per-call Python/ONNX overhead, not the actual math."""
+    sp, session = _semantic_state["sp"], _semantic_state["session"]
+    all_vecs = []
+    for start in range(0, len(texts), SEMANTIC_BATCH_SIZE):
+        batch = texts[start:start + SEMANTIC_BATCH_SIZE]
+        all_ids = []
+        for t in batch:
+            ids = sp.encode(t, out_type=int)
+            # XLM-R/fairseq id shift: sentencepiece's own id 0 (<unk>) becomes
+            # fairseq id 3; everything else shifts by +1 to make room for
+            # <s>=0, <pad>=1, </s>=2. Truncated to keep batches a sane size.
+            shifted = [3 if i == 0 else i + 1 for i in ids][:126]
+            all_ids.append([0] + shifted + [2])
+        maxlen = max(len(x) for x in all_ids)
+        input_ids = _np.array([x + [1] * (maxlen - len(x)) for x in all_ids], dtype=_np.int64)
+        attn = _np.array([[1] * len(x) + [0] * (maxlen - len(x)) for x in all_ids], dtype=_np.int64)
+        type_ids = _np.zeros_like(input_ids)
+        out = session.run(None, {"input_ids": input_ids, "attention_mask": attn, "token_type_ids": type_ids})
+        mask = attn[..., None].astype(_np.float32)
+        mean_pooled = (out[0] * mask).sum(axis=1) / mask.sum(axis=1)
+        all_vecs.append(mean_pooled / _np.linalg.norm(mean_pooled, axis=1, keepdims=True))
+    return _np.concatenate(all_vecs, axis=0)
+
+def _build_semantic_index():
+    """Embeds every card's combined text once per database version — this is
+    the expensive step (a few thousand cards through the model), so it's
+    cached and only redone when _db_version() actually changes."""
+    conn = get_db_connection()
+    rows = conn.execute(
+        'SELECT id, actionTitle, text, effect, predictable, themes FROM actions'
+    ).fetchall()
+    conn.close()
+    ids, texts = [], []
+    for row in rows:
+        try:
+            themes = ' '.join(json.loads(row['themes'] or '[]'))
+        except (json.JSONDecodeError, TypeError):
+            themes = ''
+        combined = ' '.join(filter(None, [
+            row['actionTitle'], row['predictable'], row['text'], row['effect'], themes,
+        ]))
+        ids.append(row['id'])
+        texts.append(combined)
+    _semantic_state["vectors"] = _semantic_embed(texts)
+    _semantic_state["ids"] = ids
+    _semantic_state["index_version"] = _db_version()
+    print(f"   - Semantic search index built for {len(ids)} cards.")
+
+def _get_semantic_index():
+    if _semantic_state["index_version"] != _db_version():
+        _build_semantic_index()
+    return _semantic_state["ids"], _semantic_state["vectors"]
+
+@app.route('/api/search/semantic', methods=['GET'])
+def semantic_search():
+    """Meaning-based search — see the module docstring above. `available`
+    tells the frontend whether this layer is even active on this install, so
+    it can decide whether to bother calling it again on the next keystroke."""
+    q = request.args.get('q', '').strip()
+    if not _semantic_state["ready"]:
+        return jsonify({"ids": [], "available": False})
+    if not q:
+        return jsonify({"ids": [], "available": True})
+    ids, vectors = _get_semantic_index()
+    if vectors is None or len(ids) == 0:
+        return jsonify({"ids": [], "available": True})
+    q_vec = _semantic_embed([q])[0]
+    sims = vectors @ q_vec
+    order = _np.argsort(-sims)[:SEMANTIC_RESULT_LIMIT]
+    matched = [ids[i] for i in order if sims[i] >= SEMANTIC_SCORE_THRESHOLD]
+    return jsonify({"ids": matched, "available": True})
+
 # --- API ROUTES ---
 
 @app.route('/api/actions', methods=['GET'])
@@ -710,4 +871,9 @@ if __name__ == '__main__':
     # Warms the smart-search index in the background so the first search a
     # user actually types doesn't pay its ~0.5s build cost.
     threading.Thread(target=_get_search_index, daemon=True).start()
+    # Semantic search: downloads its ~120MB model on first run (subsequent
+    # starts just load the already-downloaded files) and builds its own
+    # index, all in the background — never blocks the server from starting,
+    # and the feature simply stays off until this finishes.
+    threading.Thread(target=_download_semantic_model, daemon=True).start()
     _httpd.serve_forever()

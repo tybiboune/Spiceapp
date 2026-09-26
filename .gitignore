@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+# Semantic search model files — downloaded on demand by server.py on first
+# run (see _download_semantic_model), never committed: ~120MB, and
+# downloading once from the HuggingFace repo is simpler than tracking a
+# binary blob in git or juggling Git LFS on a phone.
+/models/

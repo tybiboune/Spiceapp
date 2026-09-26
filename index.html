@@ -1009,48 +1009,77 @@
          * otherwise land after the user has kept typing.
          */
         let smartSearchResults = { query: null, ids: new Set() };
+        // Meaning-based layer (see server.py's /api/search/semantic):
+        // entirely optional on the backend (needs onnxruntime + sentencepiece
+        // and a one-time ~120MB model download), so this simply stays an
+        // empty Set forever on an install that hasn't set it up — no
+        // difference in behavior, just one fewer source of matches.
+        let semanticSearchResults = { query: null, ids: new Set() };
         let smartSearchDebounceTimer = null;
         let smartSearchAbortController = null;
+        let semanticSearchAbortController = null;
 
         function scheduleSmartSearch(query) {
             clearTimeout(smartSearchDebounceTimer);
             if (smartSearchAbortController) smartSearchAbortController.abort();
+            if (semanticSearchAbortController) semanticSearchAbortController.abort();
             if (!query || query.length < 3) {
                 smartSearchResults = { query, ids: new Set() };
+                semanticSearchResults = { query, ids: new Set() };
                 return;
             }
             smartSearchDebounceTimer = setTimeout(async () => {
+                // If the query resolved to a curated mood (e.g. "salut" →
+                // greeting), send that category's whole trigger list along
+                // as synonyms — the server unions in every card that
+                // mentions ANY of them, in either language, not just the
+                // ones written with the specific quoted-phrase `predictable`
+                // convention the client-side mood search alone can see.
+                // This is what makes "salut" also surface the many EN-only
+                // "hello"/"hi" cards, and vice versa.
+                const moodIds = detectMoodCategories(query);
+                const synonymTerms = [...new Set(
+                    moodIds.flatMap(id => (MOOD_CATEGORIES.find(c => c.id === id) || {}).triggers || [])
+                )];
+
                 smartSearchAbortController = new AbortController();
                 try {
-                    // If the query resolved to a curated mood (e.g. "salut"
-                    // → greeting), send that category's whole trigger list
-                    // along as synonyms — the server unions in every card
-                    // that mentions ANY of them, in either language, not
-                    // just the ones written with the specific quoted-phrase
-                    // `predictable` convention the client-side mood search
-                    // alone can see. This is what makes "salut" also surface
-                    // the many EN-only "hello"/"hi" cards, and vice versa.
-                    const moodIds = detectMoodCategories(query);
-                    const synonymTerms = [...new Set(
-                        moodIds.flatMap(id => (MOOD_CATEGORIES.find(c => c.id === id) || {}).triggers || [])
-                    )];
                     const params = new URLSearchParams({ q: query });
                     if (synonymTerms.length) params.set('synonyms', synonymTerms.join(','));
                     const response = await fetch(`/api/search/smart?${params.toString()}`, {
                         signal: smartSearchAbortController.signal,
                     });
-                    if (!response.ok) return;
-                    const data = await response.json();
-                    // The user may have kept typing while this was in flight —
-                    // a stale result for an old query must never overwrite a
-                    // newer (possibly still-empty) one.
-                    if (currentFilters.search !== query) return;
-                    smartSearchResults = { query, ids: new Set(data.ids || []) };
-                    renderActions();
+                    if (response.ok) {
+                        const data = await response.json();
+                        // The user may have kept typing while this was in flight —
+                        // a stale result for an old query must never overwrite a
+                        // newer (possibly still-empty) one.
+                        if (currentFilters.search === query) {
+                            smartSearchResults = { query, ids: new Set(data.ids || []) };
+                            renderActions();
+                        }
+                    }
                 } catch (e) {
                     // Offline, server briefly restarting, or aborted — smart
                     // search just silently contributes nothing this time;
                     // the substring + mood layers still work unaffected.
+                }
+
+                semanticSearchAbortController = new AbortController();
+                try {
+                    const response = await fetch(`/api/search/semantic?q=${encodeURIComponent(query)}`, {
+                        signal: semanticSearchAbortController.signal,
+                    });
+                    if (response.ok) {
+                        const data = await response.json();
+                        if (currentFilters.search === query) {
+                            semanticSearchResults = { query, ids: new Set(data.ids || []) };
+                            renderActions();
+                        }
+                    }
+                } catch (e) {
+                    // Not installed/configured, still downloading its model,
+                    // or offline — silently contributes nothing this time.
                 }
             }, 300);
         }
@@ -1393,10 +1422,12 @@
                 const q = currentFilters.search;
                 const moodIds = detectMoodCategories(q);
                 const smartIds = smartSearchResults.query === q ? smartSearchResults.ids : null;
+                const semanticIds = semanticSearchResults.query === q ? semanticSearchResults.ids : null;
                 filteredActions = filteredActions.filter(a =>
                     a.actionTitle.toLowerCase().includes(q) || a.text.toLowerCase().includes(q) ||
                     moodIds.some(id => cardMatchesMoodCategory(a, id)) ||
-                    (smartIds !== null && smartIds.has(a.id))
+                    (smartIds !== null && smartIds.has(a.id)) ||
+                    (semanticIds !== null && semanticIds.has(a.id))
                 );
             }
 

@@ -4,3 +4,16 @@ Flask-Cors
 # Pure C++ extension, no numpy/scipy/BLAS toolchain needed — picked specifically
 # for that over scikit-learn so it stays easy to build on Termux/Android.
 rapidfuzz
+# Powers /api/search/semantic (meaning-based, cross-lingual search — see
+# server.py). Both are optional: search still works without them, just
+# without that extra layer.
+#   - numpy and sentencepiece install fine via this file everywhere,
+#     INCLUDING Termux, though Termux needs `pkg install cmake clang make`
+#     first so sentencepiece can compile (it has no Android wheel on PyPI).
+#   - onnxruntime is NOT listed here on purpose: it has no PyPI wheel for
+#     Android at all (only glibc Linux/macOS/Windows), so on Termux it must
+#     come from `pkg install python-onnxruntime` instead — never pip. Listing
+#     it here would make this whole file fail to install on Termux, taking
+#     Flask/rapidfuzz down with it. See README.md for the full Termux steps.
+numpy
+sentencepiece
